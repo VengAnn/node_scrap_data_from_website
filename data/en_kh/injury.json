@@ -1,0 +1,37 @@
+{
+  "word": "injury",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40118.png",
+      "local_image_path": "images/40118.png"
+    },
+    {
+      "pos": "n",
+      "example": "escape injury",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40119.png",
+      "local_image_path": "images/40119.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122439.png",
+      "local_image_path": "images/122439.png"
+    }
+  ],
+  "synonyms": [
+    "wound",
+    "damage",
+    "grievance",
+    "wrong",
+    "hurt",
+    "harm"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/injury.mp3",
+  "local_sound_path": "sounds/injury.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "cutoff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19321.png",
+      "local_image_path": "images/19321.png"
+    },
+    {
+      "pos": "n",
+      "example": "highway cutoff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19322.png",
+      "local_image_path": "images/19322.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19323.png",
+      "local_image_path": "images/19323.png"
+    }
+  ],
+  "synonyms": [
+    "isolate",
+    "separate",
+    "strand",
+    "stoppage",
+    "end",
+    "finish",
+    "halt",
+    "freeze",
+    "break",
+    "termination",
+    "severance",
+    "breakdown",
+    "failure"
+  ],
+  "antonyms": [
+    "continue",
+    "start",
+    "continuation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cutoff.mp3",
+  "local_sound_path": "sounds/cutoff.mp3"
+}

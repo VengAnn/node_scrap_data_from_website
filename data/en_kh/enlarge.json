@@ -1,0 +1,40 @@
+{
+  "word": "enlarge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25116.png",
+      "local_image_path": "images/25116.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I want to enlarge the lawn.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25115.png",
+      "local_image_path": "images/25115.png"
+    }
+  ],
+  "synonyms": [
+    "increase",
+    "expand",
+    "widen",
+    "extend",
+    "detail",
+    "elaborate",
+    "amplify",
+    "develop"
+  ],
+  "antonyms": [
+    "decrease",
+    "compress"
+  ],
+  "similar_words": [
+    "enlarged",
+    "enlargement",
+    "enlarger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enlarge.mp3",
+  "local_sound_path": "sounds/enlarge.mp3"
+}

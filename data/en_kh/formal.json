@@ -1,0 +1,50 @@
+{
+  "word": "formal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29851.png",
+      "local_image_path": "images/29851.png"
+    },
+    {
+      "pos": "adj",
+      "example": "formal occasion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29852.png",
+      "local_image_path": "images/29852.png"
+    },
+    {
+      "pos": "adj",
+      "example": "formal speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29853.png",
+      "local_image_path": "images/29853.png"
+    }
+  ],
+  "synonyms": [
+    "reserved",
+    "stiff",
+    "prim",
+    "starched",
+    "decorous",
+    "correct",
+    "smart",
+    "conventional"
+  ],
+  "antonyms": [
+    "informal",
+    "relaxed"
+  ],
+  "similar_words": [
+    "formal contact",
+    "formalism",
+    "formalist",
+    "formalistic",
+    "formality",
+    "formalization",
+    "formalize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/formal.mp3",
+  "local_sound_path": "sounds/formal.mp3"
+}

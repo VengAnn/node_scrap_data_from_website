@@ -1,0 +1,32 @@
+{
+  "word": "lonesome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lonesome feeling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47455.png",
+      "local_image_path": "images/47455.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lonesome journey",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47456.png",
+      "local_image_path": "images/47456.png"
+    }
+  ],
+  "synonyms": [
+    "solitary",
+    "isolated",
+    "secluded",
+    "lonely",
+    "deserted",
+    "remote",
+    "desolate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lonesome.mp3",
+  "local_sound_path": "sounds/lonesome.mp3"
+}

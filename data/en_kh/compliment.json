@@ -1,0 +1,54 @@
+{
+  "word": "compliment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16279.png",
+      "local_image_path": "images/16279.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116913.png",
+      "local_image_path": "images/116913.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116914.png",
+      "local_image_path": "images/116914.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116915.png",
+      "local_image_path": "images/116915.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16280.png",
+      "local_image_path": "images/16280.png"
+    }
+  ],
+  "synonyms": [
+    "flatter",
+    "praise",
+    "admire",
+    "congratulate",
+    "approve"
+  ],
+  "antonyms": [
+    "criticism",
+    "criticize"
+  ],
+  "similar_words": [
+    "complimentarily",
+    "complimentary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compliment.mp3",
+  "local_sound_path": "sounds/compliment.mp3"
+}

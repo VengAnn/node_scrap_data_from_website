@@ -1,0 +1,42 @@
+{
+  "word": "ambiguity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3790.png",
+      "local_image_path": "images/3790.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112440.png",
+      "local_image_path": "images/112440.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112441.png",
+      "local_image_path": "images/112441.png"
+    }
+  ],
+  "synonyms": [
+    "vagueness",
+    "uncertainty",
+    "haziness",
+    "doubt",
+    "indistinctness",
+    "obscurity",
+    "abstruseness",
+    "opacity"
+  ],
+  "antonyms": [
+    "certainty",
+    "clarity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ambiguity.mp3",
+  "local_sound_path": "sounds/ambiguity.mp3"
+}

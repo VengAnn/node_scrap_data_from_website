@@ -1,0 +1,32 @@
+{
+  "word": "shirk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79214.png",
+      "local_image_path": "images/79214.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79213.png",
+      "local_image_path": "images/79213.png"
+    }
+  ],
+  "synonyms": [
+    "evade",
+    "avoid",
+    "dodge",
+    "duck",
+    "shun"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shirk.mp3",
+  "local_sound_path": "sounds/shirk.mp3"
+}

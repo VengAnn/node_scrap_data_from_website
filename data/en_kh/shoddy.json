@@ -1,0 +1,42 @@
+{
+  "word": "shoddy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "shoddy goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79287.png",
+      "local_image_path": "images/79287.png"
+    },
+    {
+      "pos": "adj",
+      "example": "shoddy action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79288.png",
+      "local_image_path": "images/79288.png"
+    }
+  ],
+  "synonyms": [
+    "inconsiderate",
+    "mean",
+    "unkind",
+    "low",
+    "cheap",
+    "rotten",
+    "lousy",
+    "careless",
+    "slapdash",
+    "sloppy",
+    "inferior",
+    "substandard",
+    "poor",
+    "trashy"
+  ],
+  "antonyms": [
+    "meticulous",
+    "fine"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shoddy.mp3",
+  "local_sound_path": "sounds/shoddy.mp3"
+}

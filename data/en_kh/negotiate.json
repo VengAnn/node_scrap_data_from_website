@@ -1,0 +1,53 @@
+{
+  "word": "negotiate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I decided to negotiate with her.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55339.png",
+      "local_image_path": "images/55339.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55340.png",
+      "local_image_path": "images/55340.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55341.png",
+      "local_image_path": "images/55341.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124583.png",
+      "local_image_path": "images/124583.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124584.png",
+      "local_image_path": "images/124584.png"
+    },
+    {
+      "pos": "tv",
+      "example": "negotiate settlement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55342.png",
+      "local_image_path": "images/55342.png"
+    }
+  ],
+  "synonyms": [
+    "pass",
+    "navigate",
+    "cross",
+    "traverse"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/negotiate.mp3",
+  "local_sound_path": "sounds/negotiate.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "door",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "shut the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22739.png",
+      "local_image_path": "images/22739.png"
+    }
+  ],
+  "synonyms": [
+    "entrance",
+    "gate",
+    "entry",
+    "exit",
+    "access",
+    "flap",
+    "ingress",
+    "egress"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "door-to-door",
+    "doorbell",
+    "doorframe",
+    "doorhandle",
+    "doorkeeper",
+    "doorknob",
+    "doorless",
+    "doorman",
+    "doormat",
+    "doornail",
+    "doorpost",
+    "doorstep",
+    "doorstop",
+    "doorway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/door.mp3",
+  "local_sound_path": "sounds/door.mp3"
+}

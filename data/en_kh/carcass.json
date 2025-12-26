@@ -1,0 +1,25 @@
+{
+  "word": "carcass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "you might find a bit of meat left on the chicken carcass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12942.png",
+      "local_image_path": "images/12942.png"
+    }
+  ],
+  "synonyms": [
+    "corpse",
+    "remains",
+    "cadaver",
+    "body",
+    "skeleton",
+    "shell"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carcass.mp3",
+  "local_sound_path": "sounds/carcass.mp3"
+}

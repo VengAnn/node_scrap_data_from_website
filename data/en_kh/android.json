@@ -1,0 +1,25 @@
+{
+  "word": "android",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4200.png",
+      "local_image_path": "images/4200.png"
+    }
+  ],
+  "synonyms": [
+    "robot",
+    "machine",
+    "zombie",
+    "automaton"
+  ],
+  "antonyms": [
+    "person"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/android.mp3",
+  "local_sound_path": "sounds/android.mp3"
+}

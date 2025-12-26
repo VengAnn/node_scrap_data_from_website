@@ -1,0 +1,56 @@
+{
+  "word": "bob",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9901.png",
+      "local_image_path": "images/9901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9902.png",
+      "local_image_path": "images/9902.png"
+    },
+    {
+      "pos": "tv",
+      "example": "most schoolgirls have bobbed hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9903.png",
+      "local_image_path": "images/9903.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9900.png",
+      "local_image_path": "images/9900.png"
+    }
+  ],
+  "synonyms": [
+    "nod",
+    "dip",
+    "bobble",
+    "jog"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bobbin",
+    "bobbinet",
+    "bobble",
+    "bobby",
+    "bobby pin",
+    "bobby socks",
+    "bobby-dazzter",
+    "bobbysoxer",
+    "bobcat",
+    "bobolink",
+    "bobsled",
+    "bobstay",
+    "bobtail",
+    "bobwhite"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bob.mp3",
+  "local_sound_path": "sounds/bob.mp3"
+}

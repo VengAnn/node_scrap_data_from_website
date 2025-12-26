@@ -1,0 +1,69 @@
+{
+  "word": "affect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2700.png",
+      "local_image_path": "images/2700.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The unusually hot weather affected my health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2699.png",
+      "local_image_path": "images/2699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112198.png",
+      "local_image_path": "images/112198.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112199.png",
+      "local_image_path": "images/112199.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112200.png",
+      "local_image_path": "images/112200.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112201.png",
+      "local_image_path": "images/112201.png"
+    }
+  ],
+  "synonyms": [
+    "assume",
+    "imitate",
+    "fake",
+    "influence",
+    "involve",
+    "shape",
+    "concern",
+    "change",
+    "modify",
+    "alter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "affectation",
+    "affected",
+    "affectedly",
+    "affectedness",
+    "affecter",
+    "affecting",
+    "affection",
+    "affectional",
+    "affectionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affect.mp3",
+  "local_sound_path": "sounds/affect.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "argot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5439.png",
+      "local_image_path": "images/5439.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5442.png",
+      "local_image_path": "images/5442.png"
+    }
+  ],
+  "synonyms": [
+    "jargon",
+    "slang",
+    "idiom",
+    "speech",
+    "dialect",
+    "patois",
+    "vernacular",
+    "idiolect"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/argot.mp3",
+  "local_sound_path": "sounds/argot.mp3"
+}

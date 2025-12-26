@@ -1,0 +1,61 @@
+{
+  "word": "defeat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "out defeat of the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20127.png",
+      "local_image_path": "images/20127.png"
+    },
+    {
+      "pos": "n",
+      "example": "accept defeat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20128.png",
+      "local_image_path": "images/20128.png"
+    },
+    {
+      "pos": "tv",
+      "example": "defeat the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20124.png",
+      "local_image_path": "images/20124.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20125.png",
+      "local_image_path": "images/20125.png"
+    },
+    {
+      "pos": "tv",
+      "example": "defeat one's purpose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20126.png",
+      "local_image_path": "images/20126.png"
+    }
+  ],
+  "synonyms": [
+    "loss",
+    "reverse",
+    "setback",
+    "beating",
+    "rout",
+    "whitewash",
+    "thrashing",
+    "hiding",
+    "baffle",
+    "confound",
+    "foil",
+    "frustrate",
+    "thwart",
+    "bamboozle",
+    "stump"
+  ],
+  "antonyms": [
+    "lose",
+    "victory"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defeat.mp3",
+  "local_sound_path": "sounds/defeat.mp3"
+}

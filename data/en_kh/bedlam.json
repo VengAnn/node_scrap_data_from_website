@@ -1,0 +1,49 @@
+{
+  "word": "bedlam",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7999.png",
+      "local_image_path": "images/7999.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114807.png",
+      "local_image_path": "images/114807.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114808.png",
+      "local_image_path": "images/114808.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114809.png",
+      "local_image_path": "images/114809.png"
+    }
+  ],
+  "synonyms": [
+    "mayhem",
+    "chaos",
+    "pandemonium",
+    "confusion",
+    "anarchy",
+    "disorder",
+    "disarray",
+    "turmoil",
+    "commotion",
+    "uproar"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bedlam.mp3",
+  "local_sound_path": "sounds/bedlam.mp3"
+}

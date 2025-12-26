@@ -1,0 +1,39 @@
+{
+  "word": "soggy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82433.png",
+      "local_image_path": "images/82433.png"
+    },
+    {
+      "pos": "adj",
+      "example": "soggy soil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82434.png",
+      "local_image_path": "images/82434.png"
+    },
+    {
+      "pos": "adj",
+      "example": "soggy bread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82435.png",
+      "local_image_path": "images/82435.png"
+    }
+  ],
+  "synonyms": [
+    "damp",
+    "wet",
+    "moist",
+    "mushy",
+    "sodden",
+    "water-logged"
+  ],
+  "antonyms": [
+    "dry"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soggy.mp3",
+  "local_sound_path": "sounds/soggy.mp3"
+}

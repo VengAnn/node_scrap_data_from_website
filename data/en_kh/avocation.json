@@ -1,0 +1,40 @@
+{
+  "word": "avocation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6725.png",
+      "local_image_path": "images/6725.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112921.png",
+      "local_image_path": "images/112921.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112922.png",
+      "local_image_path": "images/112922.png"
+    }
+  ],
+  "synonyms": [
+    "hobby",
+    "pastime",
+    "diversion",
+    "amusement",
+    "sport",
+    "whimsy",
+    "distraction"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "avocational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avocation.mp3",
+  "local_sound_path": "sounds/avocation.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "bark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "dog barks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7498.png",
+      "local_image_path": "images/7498.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7496.png",
+      "local_image_path": "images/7496.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7499.png",
+      "local_image_path": "images/7499.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7497.png",
+      "local_image_path": "images/7497.png"
+    }
+  ],
+  "synonyms": [
+    "shout",
+    "snap",
+    "roar",
+    "yell"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [
+    "barkary",
+    "barkeep",
+    "barkeeper",
+    "barkentine",
+    "barker",
+    "barking",
+    "barking mad",
+    "barkley",
+    "barkley sugar",
+    "barkley water",
+    "barkleycorn",
+    "barklous",
+    "barky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bark.mp3",
+  "local_sound_path": "sounds/bark.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "provoke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68275.png",
+      "local_image_path": "images/68275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "provoke anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68276.png",
+      "local_image_path": "images/68276.png"
+    },
+    {
+      "pos": "tv",
+      "example": "provoke the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68277.png",
+      "local_image_path": "images/68277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "provoke laughter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68278.png",
+      "local_image_path": "images/68278.png"
+    }
+  ],
+  "synonyms": [
+    "cause",
+    "trigger",
+    "stir",
+    "elicit",
+    "produce",
+    "activate",
+    "prompt"
+  ],
+  "antonyms": [
+    "soothe",
+    "prevent"
+  ],
+  "similar_words": [
+    "provokement",
+    "provoker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/provoke.mp3",
+  "local_sound_path": "sounds/provoke.mp3"
+}

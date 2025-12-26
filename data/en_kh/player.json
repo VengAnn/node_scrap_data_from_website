@@ -1,0 +1,34 @@
+{
+  "word": "player",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "baseball player",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64012.png",
+      "local_image_path": "images/64012.png"
+    },
+    {
+      "pos": "n",
+      "example": "record player",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64013.png",
+      "local_image_path": "images/64013.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64014.png",
+      "local_image_path": "images/64014.png"
+    }
+  ],
+  "synonyms": [
+    "participant",
+    "competitor",
+    "contestant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/player.mp3",
+  "local_sound_path": "sounds/player.mp3"
+}

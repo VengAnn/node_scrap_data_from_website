@@ -1,0 +1,32 @@
+{
+  "word": "essay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25897.png",
+      "local_image_path": "images/25897.png"
+    },
+    {
+      "pos": "n",
+      "example": "write an essay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25896.png",
+      "local_image_path": "images/25896.png"
+    }
+  ],
+  "synonyms": [
+    "paper",
+    "thesis",
+    "dissertation",
+    "composition",
+    "article",
+    "treatise",
+    "theme"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/essay.mp3",
+  "local_sound_path": "sounds/essay.mp3"
+}

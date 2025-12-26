@@ -1,0 +1,63 @@
+{
+  "word": "dent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20542.png",
+      "local_image_path": "images/20542.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20544.png",
+      "local_image_path": "images/20544.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20543.png",
+      "local_image_path": "images/20543.png"
+    }
+  ],
+  "synonyms": [
+    "setback",
+    "blow",
+    "shock",
+    "knock",
+    "reduce",
+    "diminish",
+    "lessen",
+    "undermine",
+    "hurt",
+    "damage",
+    "depress"
+  ],
+  "antonyms": [
+    "lump",
+    "bolster",
+    "boost"
+  ],
+  "similar_words": [
+    "dental",
+    "dental dam",
+    "dentate",
+    "dented",
+    "dentelated",
+    "denticle",
+    "denticulate",
+    "dentiform",
+    "dentifrice",
+    "dentigerous",
+    "dentine",
+    "dentist",
+    "dentistry",
+    "dentoid",
+    "dentulous",
+    "denture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dent.mp3",
+  "local_sound_path": "sounds/dent.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "detraction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21039.png",
+      "local_image_path": "images/21039.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118202.png",
+      "local_image_path": "images/118202.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118203.png",
+      "local_image_path": "images/118203.png"
+    }
+  ],
+  "synonyms": [
+    "reduction",
+    "subtraction",
+    "deduction",
+    "diminution"
+  ],
+  "antonyms": [
+    "praise",
+    "addition"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detraction.mp3",
+  "local_sound_path": "sounds/detraction.mp3"
+}

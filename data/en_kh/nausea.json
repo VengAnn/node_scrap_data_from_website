@@ -1,0 +1,46 @@
+{
+  "word": "nausea",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55097.png",
+      "local_image_path": "images/55097.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124503.png",
+      "local_image_path": "images/124503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124504.png",
+      "local_image_path": "images/124504.png"
+    }
+  ],
+  "synonyms": [
+    "sickness",
+    "queasiness",
+    "revulsion",
+    "repugnance",
+    "repulsion",
+    "abhorrence",
+    "disgust",
+    "aversion",
+    "detestation",
+    "hatred"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "nauseate",
+    "nauseating",
+    "nauseatingly",
+    "nauseation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nausea.mp3",
+  "local_sound_path": "sounds/nausea.mp3"
+}

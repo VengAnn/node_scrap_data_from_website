@@ -1,0 +1,43 @@
+{
+  "word": "amusement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "for your amusement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4004.png",
+      "local_image_path": "images/4004.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113677.png",
+      "local_image_path": "images/113677.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113678.png",
+      "local_image_path": "images/113678.png"
+    }
+  ],
+  "synonyms": [
+    "entertainment",
+    "pastime",
+    "hobby",
+    "distraction",
+    "diversion",
+    "recreation",
+    "pursuit"
+  ],
+  "antonyms": [
+    "boredom",
+    "sadness"
+  ],
+  "similar_words": [
+    "amusement park"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amusement.mp3",
+  "local_sound_path": "sounds/amusement.mp3"
+}

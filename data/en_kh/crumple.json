@@ -1,0 +1,35 @@
+{
+  "word": "crumple",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18855.png",
+      "local_image_path": "images/18855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He crumpled the paper into aball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18854.png",
+      "local_image_path": "images/18854.png"
+    }
+  ],
+  "synonyms": [
+    "crease",
+    "wrinkle",
+    "crinkle",
+    "rumple",
+    "crush",
+    "scrunch",
+    "screw",
+    "pucker"
+  ],
+  "antonyms": [
+    "smooth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crumple.mp3",
+  "local_sound_path": "sounds/crumple.mp3"
+}

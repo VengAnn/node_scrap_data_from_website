@@ -1,0 +1,44 @@
+{
+  "word": "cardinal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cardinal significance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12962.png",
+      "local_image_path": "images/12962.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12963.png",
+      "local_image_path": "images/12963.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12964.png",
+      "local_image_path": "images/12964.png"
+    }
+  ],
+  "synonyms": [
+    "basic",
+    "fundamental",
+    "key",
+    "prime",
+    "serious",
+    "important",
+    "chief",
+    "principal",
+    "essential",
+    "central",
+    "core"
+  ],
+  "antonyms": [
+    "secondary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cardinal.mp3",
+  "local_sound_path": "sounds/cardinal.mp3"
+}

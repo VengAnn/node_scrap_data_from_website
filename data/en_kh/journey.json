@@ -1,0 +1,42 @@
+{
+  "word": "journey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43253.png",
+      "local_image_path": "images/43253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43252.png",
+      "local_image_path": "images/43252.png"
+    }
+  ],
+  "synonyms": [
+    "travel",
+    "voyage",
+    "tour",
+    "go",
+    "trek",
+    "fly",
+    "sail",
+    "sightsee",
+    "cruise",
+    "roam"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "journey-bated",
+    "journeyer",
+    "journeying",
+    "journeyman",
+    "journeywoman",
+    "journeywork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/journey.mp3",
+  "local_sound_path": "sounds/journey.mp3"
+}

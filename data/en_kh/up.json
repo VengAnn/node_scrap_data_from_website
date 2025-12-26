@@ -1,0 +1,86 @@
+{
+  "word": "up",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "up car window",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96693.png",
+      "local_image_path": "images/96693.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I was up late last night.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96692.png",
+      "local_image_path": "images/96692.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's on an up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96697.png",
+      "local_image_path": "images/96697.png"
+    },
+    {
+      "pos": "prep",
+      "example": "run up a hill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96694.png",
+      "local_image_path": "images/96694.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96695.png",
+      "local_image_path": "images/96695.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96696.png",
+      "local_image_path": "images/96696.png"
+    }
+  ],
+  "synonyms": [
+    "winning",
+    "ahead",
+    "upward",
+    "uphill",
+    "aloft",
+    "higher",
+    "skyward"
+  ],
+  "antonyms": [
+    "asleep",
+    "down",
+    "behind"
+  ],
+  "similar_words": [
+    "up front",
+    "up-river",
+    "up-to-date",
+    "up-to-dateness",
+    "up-to-the-minute",
+    "upanihad",
+    "upas",
+    "upbeat",
+    "upbind",
+    "upbraid",
+    "upbraider",
+    "upbraiding",
+    "upbraidingly",
+    "upbringing",
+    "upbuild",
+    "upbuilder",
+    "upcast",
+    "upchuck",
+    "upcoming",
+    "upcountry",
+    "update",
+    "updraft",
+    "upend",
+    "upfront",
+    "upgrade"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/up.mp3",
+  "local_sound_path": "sounds/up.mp3"
+}

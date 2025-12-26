@@ -1,0 +1,45 @@
+{
+  "word": "meditate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107251.png",
+      "local_image_path": "images/107251.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107252.png",
+      "local_image_path": "images/107252.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123850.png",
+      "local_image_path": "images/123850.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123851.png",
+      "local_image_path": "images/123851.png"
+    }
+  ],
+  "synonyms": [
+    "contemplate",
+    "ponder",
+    "think",
+    "consider",
+    "deliberate",
+    "reflect",
+    "ruminate",
+    "muse"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meditate.mp3",
+  "local_sound_path": "sounds/meditate.mp3"
+}

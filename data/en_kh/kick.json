@@ -1,0 +1,62 @@
+{
+  "word": "kick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "guns kick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43812.png",
+      "local_image_path": "images/43812.png"
+    },
+    {
+      "pos": "iv",
+      "example": "kick about conditions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43813.png",
+      "local_image_path": "images/43813.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43814.png",
+      "local_image_path": "images/43814.png"
+    },
+    {
+      "pos": "tv",
+      "example": "kick with the top of the foot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43810.png",
+      "local_image_path": "images/43810.png"
+    },
+    {
+      "pos": "tv",
+      "example": "kick a habit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43811.png",
+      "local_image_path": "images/43811.png"
+    }
+  ],
+  "synonyms": [
+    "quit",
+    "defeat",
+    "overcome",
+    "conquer",
+    "stop",
+    "end",
+    "cease",
+    "abandon",
+    "forsake"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "kick-off",
+    "kick-start",
+    "kick-starter",
+    "kickback",
+    "kicker",
+    "kicking",
+    "kickish",
+    "kickshaw",
+    "kicky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/kick.mp3",
+  "local_sound_path": "sounds/kick.mp3"
+}

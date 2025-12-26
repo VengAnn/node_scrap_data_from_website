@@ -1,0 +1,40 @@
+{
+  "word": "ornament",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58052.png",
+      "local_image_path": "images/58052.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58053.png",
+      "local_image_path": "images/58053.png"
+    }
+  ],
+  "synonyms": [
+    "adorn",
+    "decorate",
+    "beautify",
+    "embellish",
+    "paint",
+    "prettify",
+    "trim",
+    "embroider",
+    "elaborate",
+    "festoon"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ornamental",
+    "ornamentally",
+    "ornamentation",
+    "ornamenter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ornament.mp3",
+  "local_sound_path": "sounds/ornament.mp3"
+}

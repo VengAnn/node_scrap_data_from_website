@@ -1,0 +1,57 @@
+{
+  "word": "previous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "the previous day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66815.png",
+      "local_image_path": "images/66815.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66816.png",
+      "local_image_path": "images/66816.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125995.png",
+      "local_image_path": "images/125995.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125996.png",
+      "local_image_path": "images/125996.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125997.png",
+      "local_image_path": "images/125997.png"
+    }
+  ],
+  "synonyms": [
+    "preceding",
+    "earlier",
+    "prior",
+    "before",
+    "former",
+    "aforementioned",
+    "foregoing",
+    "erstwhile"
+  ],
+  "antonyms": [
+    "subsequent"
+  ],
+  "similar_words": [
+    "previous to",
+    "previously",
+    "previousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/previous.mp3",
+  "local_sound_path": "sounds/previous.mp3"
+}

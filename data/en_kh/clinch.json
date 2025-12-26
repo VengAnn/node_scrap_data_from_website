@@ -1,0 +1,39 @@
+{
+  "word": "clinch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15034.png",
+      "local_image_path": "images/15034.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clinch a nail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15033.png",
+      "local_image_path": "images/15033.png"
+    }
+  ],
+  "synonyms": [
+    "settle",
+    "seal",
+    "confirm",
+    "secure",
+    "close",
+    "finalize",
+    "embrace",
+    "hug",
+    "hold",
+    "cuddle",
+    "squeeze",
+    "bear hug"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clincher"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clinch.mp3",
+  "local_sound_path": "sounds/clinch.mp3"
+}

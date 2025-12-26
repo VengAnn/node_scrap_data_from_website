@@ -1,0 +1,48 @@
+{
+  "word": "climax",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15018.png",
+      "local_image_path": "images/15018.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15017.png",
+      "local_image_path": "images/15017.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116475.png",
+      "local_image_path": "images/116475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116476.png",
+      "local_image_path": "images/116476.png"
+    }
+  ],
+  "synonyms": [
+    "peak",
+    "pinnacle",
+    "culmination",
+    "height",
+    "highlight",
+    "crest",
+    "summit",
+    "top"
+  ],
+  "antonyms": [
+    "trough",
+    "dip"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/climax.mp3",
+  "local_sound_path": "sounds/climax.mp3"
+}

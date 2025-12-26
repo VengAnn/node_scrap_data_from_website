@@ -1,0 +1,79 @@
+{
+  "word": "spread",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "diseases spread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83728.png",
+      "local_image_path": "images/83728.png"
+    },
+    {
+      "pos": "n",
+      "example": "spread of disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83729.png",
+      "local_image_path": "images/83729.png"
+    },
+    {
+      "pos": "n",
+      "example": "wing spread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83730.png",
+      "local_image_path": "images/83730.png"
+    },
+    {
+      "pos": "n",
+      "example": "bed spread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83731.png",
+      "local_image_path": "images/83731.png"
+    },
+    {
+      "pos": "n",
+      "example": "sandwich spread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83732.png",
+      "local_image_path": "images/83732.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spread a cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83724.png",
+      "local_image_path": "images/83724.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spread one's legs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83725.png",
+      "local_image_path": "images/83725.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spread butter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83726.png",
+      "local_image_path": "images/83726.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spread news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83727.png",
+      "local_image_path": "images/83727.png"
+    }
+  ],
+  "synonyms": [
+    "distribution",
+    "allotment",
+    "division",
+    "last",
+    "continue",
+    "persist"
+  ],
+  "antonyms": [
+    "shrink",
+    "shrunken",
+    "furl",
+    "remove",
+    "removed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spread.mp3",
+  "local_sound_path": "sounds/spread.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "unassailable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93236.png",
+      "local_image_path": "images/93236.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128705.png",
+      "local_image_path": "images/128705.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93237.png",
+      "local_image_path": "images/93237.png"
+    }
+  ],
+  "synonyms": [
+    "invincible",
+    "unbeatable",
+    "impregnable",
+    "indomitable",
+    "invulnerable"
+  ],
+  "antonyms": [
+    "tenuous",
+    "vulnerable"
+  ],
+  "similar_words": [
+    "unassailableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unassailable.mp3",
+  "local_sound_path": "sounds/unassailable.mp3"
+}

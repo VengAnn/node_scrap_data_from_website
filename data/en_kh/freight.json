@@ -1,0 +1,56 @@
+{
+  "word": "freight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "railway freight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30228.png",
+      "local_image_path": "images/30228.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30229.png",
+      "local_image_path": "images/30229.png"
+    },
+    {
+      "pos": "n",
+      "example": "pay the freight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30230.png",
+      "local_image_path": "images/30230.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120447.png",
+      "local_image_path": "images/120447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "freight goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30231.png",
+      "local_image_path": "images/30231.png"
+    }
+  ],
+  "synonyms": [
+    "cargo",
+    "goods",
+    "shipment",
+    "stowage",
+    "luggage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "freight goods",
+    "freight note",
+    "freight plane",
+    "freight prepaid",
+    "freight release",
+    "freighter",
+    "freightliner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/freight.mp3",
+  "local_sound_path": "sounds/freight.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "forcible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "forcible entry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29660.png",
+      "local_image_path": "images/29660.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29661.png",
+      "local_image_path": "images/29661.png"
+    },
+    {
+      "pos": "adj",
+      "example": "forcible argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29662.png",
+      "local_image_path": "images/29662.png"
+    }
+  ],
+  "synonyms": [
+    "effective",
+    "forceful",
+    "powerful",
+    "convincing",
+    "persuasive",
+    "influential",
+    "weighty"
+  ],
+  "antonyms": [
+    "peaceful",
+    "weak"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forcible.mp3",
+  "local_sound_path": "sounds/forcible.mp3"
+}

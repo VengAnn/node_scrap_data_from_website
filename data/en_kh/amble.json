@@ -1,0 +1,32 @@
+{
+  "word": "amble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3806.png",
+      "local_image_path": "images/3806.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3807.png",
+      "local_image_path": "images/3807.png"
+    }
+  ],
+  "synonyms": [
+    "stroll",
+    "saunter",
+    "wander",
+    "mosey",
+    "promenade",
+    "walk",
+    "mooch"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amble.mp3",
+  "local_sound_path": "sounds/amble.mp3"
+}

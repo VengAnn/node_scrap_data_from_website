@@ -1,0 +1,29 @@
+{
+  "word": "mauve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106915.png",
+      "local_image_path": "images/106915.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106914.png",
+      "local_image_path": "images/106914.png"
+    }
+  ],
+  "synonyms": [
+    "lilac",
+    "lavender",
+    "violet",
+    "amethyst"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mauve.mp3",
+  "local_sound_path": "sounds/mauve.mp3"
+}

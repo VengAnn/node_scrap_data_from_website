@@ -1,0 +1,24 @@
+{
+  "word": "college",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "attend college",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15701.png",
+      "local_image_path": "images/15701.png"
+    }
+  ],
+  "synonyms": [
+    "school",
+    "university",
+    "academy",
+    "seminary",
+    "institution"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/college.mp3",
+  "local_sound_path": "sounds/college.mp3"
+}

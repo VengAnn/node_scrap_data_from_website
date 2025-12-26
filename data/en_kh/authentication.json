@@ -1,0 +1,31 @@
+{
+  "word": "authentication",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6507.png",
+      "local_image_path": "images/6507.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112904.png",
+      "local_image_path": "images/112904.png"
+    }
+  ],
+  "synonyms": [
+    "verification",
+    "confirmation",
+    "substantiation",
+    "validation",
+    "certification",
+    "endorsement"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authentication.mp3",
+  "local_sound_path": "sounds/authentication.mp3"
+}

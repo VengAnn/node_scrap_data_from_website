@@ -1,0 +1,33 @@
+{
+  "word": "angry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "angry man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4294.png",
+      "local_image_path": "images/4294.png"
+    }
+  ],
+  "synonyms": [
+    "annoyed",
+    "mad",
+    "livid",
+    "irate",
+    "heated",
+    "cross",
+    "furious",
+    "outraged",
+    "ireful",
+    "wrathful",
+    "indignant",
+    "choleric"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/angry.mp3",
+  "local_sound_path": "sounds/angry.mp3"
+}

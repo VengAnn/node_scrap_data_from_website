@@ -1,0 +1,57 @@
+{
+  "word": "area",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "area of a circle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5400.png",
+      "local_image_path": "images/5400.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113968.png",
+      "local_image_path": "images/113968.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113969.png",
+      "local_image_path": "images/113969.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113970.png",
+      "local_image_path": "images/113970.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113971.png",
+      "local_image_path": "images/113971.png"
+    }
+  ],
+  "synonyms": [
+    "subject",
+    "topic",
+    "field",
+    "question",
+    "matter",
+    "sphere",
+    "theme"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "area code",
+    "areach",
+    "aready",
+    "areal",
+    "arear",
+    "areaway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/area.mp3",
+  "local_sound_path": "sounds/area.mp3"
+}

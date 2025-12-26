@@ -1,0 +1,27 @@
+{
+  "word": "cemetery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13530.png",
+      "local_image_path": "images/13530.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13531.png",
+      "local_image_path": "images/13531.png"
+    }
+  ],
+  "synonyms": [
+    "graveyard",
+    "churchyard"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cemetery.mp3",
+  "local_sound_path": "sounds/cemetery.mp3"
+}

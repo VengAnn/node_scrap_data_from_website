@@ -1,0 +1,47 @@
+{
+  "word": "bottle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "be on the bottle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10308.png",
+      "local_image_path": "images/10308.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please you bottle wine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10309.png",
+      "local_image_path": "images/10309.png"
+    }
+  ],
+  "synonyms": [
+    "urn",
+    "jug",
+    "pot",
+    "container",
+    "bravery",
+    "nerve",
+    "spirit",
+    "spine",
+    "backbone",
+    "front",
+    "courage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bottle bank",
+    "bottle-feed",
+    "bottle-green",
+    "bottle-nosed dolphin",
+    "bottle-opener",
+    "bottle-party",
+    "bottleful",
+    "bottleneck",
+    "bottlenose",
+    "bottletree"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bottle.mp3",
+  "local_sound_path": "sounds/bottle.mp3"
+}

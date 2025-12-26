@@ -1,0 +1,60 @@
+{
+  "word": "mindful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108827.png",
+      "local_image_path": "images/108827.png"
+    },
+    {
+      "pos": "adj",
+      "example": "mindful of one's obligations",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108828.png",
+      "local_image_path": "images/108828.png"
+    },
+    {
+      "pos": "adj",
+      "example": "mindful of others",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108829.png",
+      "local_image_path": "images/108829.png"
+    },
+    {
+      "pos": "adj",
+      "example": "mindful of one's parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108830.png",
+      "local_image_path": "images/108830.png"
+    },
+    {
+      "pos": "adj",
+      "example": "to be mindful of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108831.png",
+      "local_image_path": "images/108831.png"
+    }
+  ],
+  "synonyms": [
+    "watchful",
+    "aware",
+    "wary",
+    "heedful",
+    "alert",
+    "careful",
+    "attentive",
+    "chary",
+    "sensible",
+    "thoughtful",
+    "conscious"
+  ],
+  "antonyms": [
+    "forgetful",
+    "unwary"
+  ],
+  "similar_words": [
+    "mindfully",
+    "mindfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mindful.mp3",
+  "local_sound_path": "sounds/mindful.mp3"
+}

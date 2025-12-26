@@ -1,0 +1,40 @@
+{
+  "word": "possibility",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "possibility of achivement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65398.png",
+      "local_image_path": "images/65398.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125751.png",
+      "local_image_path": "images/125751.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125752.png",
+      "local_image_path": "images/125752.png"
+    }
+  ],
+  "synonyms": [
+    "option",
+    "likelihood",
+    "opportunity",
+    "leeway",
+    "prospect",
+    "risk",
+    "odds",
+    "chance",
+    "probability"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/possibility.mp3",
+  "local_sound_path": "sounds/possibility.mp3"
+}

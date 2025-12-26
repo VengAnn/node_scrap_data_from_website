@@ -1,0 +1,91 @@
+{
+  "word": "jump",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "grassshoppers jump",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43433.png",
+      "local_image_path": "images/43433.png"
+    },
+    {
+      "pos": "iv",
+      "example": "muscles jump",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43434.png",
+      "local_image_path": "images/43434.png"
+    },
+    {
+      "pos": "iv",
+      "example": "prices jump",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43435.png",
+      "local_image_path": "images/43435.png"
+    },
+    {
+      "pos": "n",
+      "example": "high jump",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43441.png",
+      "local_image_path": "images/43441.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43442.png",
+      "local_image_path": "images/43442.png"
+    },
+    {
+      "pos": "n",
+      "example": "jump in prices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43443.png",
+      "local_image_path": "images/43443.png"
+    },
+    {
+      "pos": "tv",
+      "example": "jump the fence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43436.png",
+      "local_image_path": "images/43436.png"
+    },
+    {
+      "pos": "tv",
+      "example": "jump a horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43437.png",
+      "local_image_path": "images/43437.png"
+    },
+    {
+      "pos": "tv",
+      "example": "my heart jumped when I heard the news.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43438.png",
+      "local_image_path": "images/43438.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43439.png",
+      "local_image_path": "images/43439.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43440.png",
+      "local_image_path": "images/43440.png"
+    }
+  ],
+  "synonyms": [
+    "jolt",
+    "jerk",
+    "lurch",
+    "jar",
+    "start",
+    "flinch",
+    "recoil"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jump-start",
+    "jumper",
+    "jumping",
+    "jumpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jump.mp3",
+  "local_sound_path": "sounds/jump.mp3"
+}

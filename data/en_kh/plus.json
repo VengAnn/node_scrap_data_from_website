@@ -1,0 +1,49 @@
+{
+  "word": "plus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "plus factor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64406.png",
+      "local_image_path": "images/64406.png"
+    },
+    {
+      "pos": "adj",
+      "example": "plus terminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64407.png",
+      "local_image_path": "images/64407.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64408.png",
+      "local_image_path": "images/64408.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64405.png",
+      "local_image_path": "images/64405.png"
+    }
+  ],
+  "synonyms": [
+    "together with",
+    "and"
+  ],
+  "antonyms": [
+    "minus"
+  ],
+  "similar_words": [
+    "plus sign",
+    "plush",
+    "plushily",
+    "plushiness",
+    "plushly",
+    "plushness",
+    "plushy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plus.mp3",
+  "local_sound_path": "sounds/plus.mp3"
+}

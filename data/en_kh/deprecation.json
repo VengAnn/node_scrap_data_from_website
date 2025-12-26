@@ -1,0 +1,48 @@
+{
+  "word": "deprecation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20658.png",
+      "local_image_path": "images/20658.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118067.png",
+      "local_image_path": "images/118067.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118068.png",
+      "local_image_path": "images/118068.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118069.png",
+      "local_image_path": "images/118069.png"
+    }
+  ],
+  "synonyms": [
+    "criticism",
+    "disapproval",
+    "condemnation",
+    "denunciation",
+    "scorn",
+    "contempt",
+    "denigration",
+    "censure"
+  ],
+  "antonyms": [
+    "approval",
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deprecation.mp3",
+  "local_sound_path": "sounds/deprecation.mp3"
+}

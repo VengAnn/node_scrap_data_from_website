@@ -1,0 +1,32 @@
+{
+  "word": "disarrange",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21599.png",
+      "local_image_path": "images/21599.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21600.png",
+      "local_image_path": "images/21600.png"
+    }
+  ],
+  "synonyms": [
+    "disorder",
+    "disturb",
+    "jumble",
+    "untidy",
+    "dishevel"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disarrange.mp3",
+  "local_sound_path": "sounds/disarrange.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "ghoul",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31660.png",
+      "local_image_path": "images/31660.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120653.png",
+      "local_image_path": "images/120653.png"
+    }
+  ],
+  "synonyms": [
+    "ghost",
+    "phantom",
+    "specter",
+    "spirit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ghoulish",
+    "ghoulishly",
+    "ghoulishness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ghoul.mp3",
+  "local_sound_path": "sounds/ghoul.mp3"
+}

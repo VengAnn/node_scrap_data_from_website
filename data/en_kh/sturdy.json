@@ -1,0 +1,45 @@
+{
+  "word": "sturdy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sturdy child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85642.png",
+      "local_image_path": "images/85642.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sturdy chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85643.png",
+      "local_image_path": "images/85643.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sturdy support",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85644.png",
+      "local_image_path": "images/85644.png"
+    }
+  ],
+  "synonyms": [
+    "determined",
+    "strenuous",
+    "vigorous",
+    "enthusiastic",
+    "energetic",
+    "forceful",
+    "resolute",
+    "steadfast",
+    "decisive"
+  ],
+  "antonyms": [
+    "frail",
+    "weak",
+    "rickety",
+    "feeble"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sturdy.mp3",
+  "local_sound_path": "sounds/sturdy.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "adulatory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2522.png",
+      "local_image_path": "images/2522.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113322.png",
+      "local_image_path": "images/113322.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113323.png",
+      "local_image_path": "images/113323.png"
+    }
+  ],
+  "synonyms": [
+    "flattering",
+    "sycophantic",
+    "obsequious"
+  ],
+  "antonyms": [
+    "disparaging"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adulatory.mp3",
+  "local_sound_path": "sounds/adulatory.mp3"
+}

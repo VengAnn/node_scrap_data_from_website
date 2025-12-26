@@ -1,0 +1,34 @@
+{
+  "word": "abridge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "long books are often abridge for school use",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1567.png",
+      "local_image_path": "images/1567.png"
+    }
+  ],
+  "synonyms": [
+    "shorten",
+    "edit",
+    "condense",
+    "reduce",
+    "abbreviate",
+    "cut",
+    "curtail",
+    "slash"
+  ],
+  "antonyms": [
+    "expand"
+  ],
+  "similar_words": [
+    "abridgeable",
+    "abridged",
+    "abridgement",
+    "abridger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abridge.mp3",
+  "local_sound_path": "sounds/abridge.mp3"
+}

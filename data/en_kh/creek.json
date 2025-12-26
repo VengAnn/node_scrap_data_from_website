@@ -1,0 +1,33 @@
+{
+  "word": "creek",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "I'm really up the creek without my car.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18512.png",
+      "local_image_path": "images/18512.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18511.png",
+      "local_image_path": "images/18511.png"
+    }
+  ],
+  "synonyms": [
+    "stream",
+    "rivulet",
+    "arroyo",
+    "brook",
+    "bay",
+    "inlet",
+    "cove",
+    "gulf"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/creek.mp3",
+  "local_sound_path": "sounds/creek.mp3"
+}

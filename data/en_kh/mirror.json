@@ -1,0 +1,51 @@
+{
+  "word": "mirror",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She glanced at herself in the mirror.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109008.png",
+      "local_image_path": "images/109008.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109009.png",
+      "local_image_path": "images/109009.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109010.png",
+      "local_image_path": "images/109010.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mirror an image",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109011.png",
+      "local_image_path": "images/109011.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mirror one's defects",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109012.png",
+      "local_image_path": "images/109012.png"
+    }
+  ],
+  "synonyms": [
+    "represent",
+    "epitomize",
+    "illustrate",
+    "symbolize",
+    "typify",
+    "signify",
+    "correspond",
+    "embody"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mirror.mp3",
+  "local_sound_path": "sounds/mirror.mp3"
+}

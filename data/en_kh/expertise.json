@@ -1,0 +1,30 @@
+{
+  "word": "expertise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26807.png",
+      "local_image_path": "images/26807.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26810.png",
+      "local_image_path": "images/26810.png"
+    }
+  ],
+  "synonyms": [
+    "know-how",
+    "skill",
+    "knowledge",
+    "proficiency",
+    "capability"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expertise.mp3",
+  "local_sound_path": "sounds/expertise.mp3"
+}

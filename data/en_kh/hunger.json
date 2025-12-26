@@ -1,0 +1,56 @@
+{
+  "word": "hunger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hunger for food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36390.png",
+      "local_image_path": "images/36390.png"
+    },
+    {
+      "pos": "n",
+      "example": "die of hunger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36388.png",
+      "local_image_path": "images/36388.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36389.png",
+      "local_image_path": "images/36389.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121272.png",
+      "local_image_path": "images/121272.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121273.png",
+      "local_image_path": "images/121273.png"
+    }
+  ],
+  "synonyms": [
+    "yearn",
+    "desire",
+    "crave",
+    "hanker"
+  ],
+  "antonyms": [
+    "surfeit",
+    "spurn"
+  ],
+  "similar_words": [
+    "hunger-bitten",
+    "hunger-starve",
+    "hungered",
+    "hungerer",
+    "hungerly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hunger.mp3",
+  "local_sound_path": "sounds/hunger.mp3"
+}

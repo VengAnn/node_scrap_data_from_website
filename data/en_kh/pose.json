@@ -1,0 +1,96 @@
+{
+  "word": "pose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "pose for a picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65333.png",
+      "local_image_path": "images/65333.png"
+    },
+    {
+      "pos": "iv",
+      "example": "pose as",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65334.png",
+      "local_image_path": "images/65334.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65339.png",
+      "local_image_path": "images/65339.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65340.png",
+      "local_image_path": "images/65340.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65341.png",
+      "local_image_path": "images/65341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125746.png",
+      "local_image_path": "images/125746.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65335.png",
+      "local_image_path": "images/65335.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pose a group for a culture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65336.png",
+      "local_image_path": "images/65336.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65337.png",
+      "local_image_path": "images/65337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pose a question",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65338.png",
+      "local_image_path": "images/65338.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125747.png",
+      "local_image_path": "images/125747.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125748.png",
+      "local_image_path": "images/125748.png"
+    }
+  ],
+  "synonyms": [
+    "ask",
+    "put",
+    "present",
+    "propound",
+    "inquire",
+    "enquire",
+    "question",
+    "propose"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "poser",
+    "poseur"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pose.mp3",
+  "local_sound_path": "sounds/pose.mp3"
+}

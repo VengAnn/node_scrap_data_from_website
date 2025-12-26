@@ -1,0 +1,44 @@
+{
+  "word": "brittle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11237.png",
+      "local_image_path": "images/11237.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115658.png",
+      "local_image_path": "images/115658.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115659.png",
+      "local_image_path": "images/115659.png"
+    }
+  ],
+  "synonyms": [
+    "fragile",
+    "breakable",
+    "weak",
+    "frail",
+    "delicate",
+    "hard",
+    "stiff",
+    "inelastic"
+  ],
+  "antonyms": [
+    "robust"
+  ],
+  "similar_words": [
+    "brittlely",
+    "brittleness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brittle.mp3",
+  "local_sound_path": "sounds/brittle.mp3"
+}

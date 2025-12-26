@@ -1,0 +1,37 @@
+{
+  "word": "learned",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45531.png",
+      "local_image_path": "images/45531.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123432.png",
+      "local_image_path": "images/123432.png"
+    }
+  ],
+  "synonyms": [
+    "erudite",
+    "educated",
+    "scholarly",
+    "academic",
+    "cultured",
+    "well-read",
+    "studied"
+  ],
+  "antonyms": [
+    "uneducated"
+  ],
+  "similar_words": [
+    "learned man",
+    "learnedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/learned.mp3",
+  "local_sound_path": "sounds/learned.mp3"
+}

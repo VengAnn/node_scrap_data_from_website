@@ -1,0 +1,76 @@
+{
+  "word": "peak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60927.png",
+      "local_image_path": "images/60927.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60929.png",
+      "local_image_path": "images/60929.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60930.png",
+      "local_image_path": "images/60930.png"
+    },
+    {
+      "pos": "n",
+      "example": "mountain peak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60924.png",
+      "local_image_path": "images/60924.png"
+    },
+    {
+      "pos": "n",
+      "example": "peak of a career",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60925.png",
+      "local_image_path": "images/60925.png"
+    },
+    {
+      "pos": "n",
+      "example": "peak of his beard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60926.png",
+      "local_image_path": "images/60926.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60928.png",
+      "local_image_path": "images/60928.png"
+    }
+  ],
+  "synonyms": [
+    "top",
+    "highest",
+    "crowning",
+    "topmost",
+    "ultimate",
+    "greatest",
+    "uttermost",
+    "climax",
+    "crest",
+    "summit"
+  ],
+  "antonyms": [
+    "dip",
+    "nadir",
+    "bottom",
+    "valley",
+    "base"
+  ],
+  "similar_words": [
+    "peaked",
+    "peaking",
+    "peakish",
+    "peaky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peak.mp3",
+  "local_sound_path": "sounds/peak.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "hiss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The politician was kissed off the platform.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35333.png",
+      "local_image_path": "images/35333.png"
+    },
+    {
+      "pos": "iv",
+      "example": "spectators hiss",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35334.png",
+      "local_image_path": "images/35334.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35336.png",
+      "local_image_path": "images/35336.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35335.png",
+      "local_image_path": "images/35335.png"
+    }
+  ],
+  "synonyms": [
+    "sizzle",
+    "fizzle",
+    "fizz"
+  ],
+  "antonyms": [
+    "cheer"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hiss.mp3",
+  "local_sound_path": "sounds/hiss.mp3"
+}

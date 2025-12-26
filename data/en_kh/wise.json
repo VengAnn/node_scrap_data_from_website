@@ -1,0 +1,56 @@
+{
+  "word": "wise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wise man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100569.png",
+      "local_image_path": "images/100569.png"
+    },
+    {
+      "pos": "n",
+      "example": "in no wise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100570.png",
+      "local_image_path": "images/100570.png"
+    },
+    {
+      "pos": "suf",
+      "example": "businesswise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100571.png",
+      "local_image_path": "images/100571.png"
+    }
+  ],
+  "synonyms": [
+    "shrewd",
+    "intelligent",
+    "astute",
+    "clever",
+    "prudent",
+    "sensible",
+    "judicious",
+    "cunning",
+    "crafty",
+    "devious",
+    "wily",
+    "sly",
+    "artful"
+  ],
+  "antonyms": [
+    "foolish",
+    "ignorant"
+  ],
+  "similar_words": [
+    "wiseacre",
+    "wisecrack",
+    "wisehead",
+    "wiselike",
+    "wisely",
+    "wiseman",
+    "wiseness",
+    "wiser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wise.mp3",
+  "local_sound_path": "sounds/wise.mp3"
+}

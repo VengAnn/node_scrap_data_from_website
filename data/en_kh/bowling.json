@@ -1,0 +1,26 @@
+{
+  "word": "bowling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10434.png",
+      "local_image_path": "images/10434.png"
+    }
+  ],
+  "synonyms": [
+    "pitching",
+    "throwing",
+    "hurling",
+    "casting"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bowling-alley",
+    "bowling-green"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bowling.mp3",
+  "local_sound_path": "sounds/bowling.mp3"
+}

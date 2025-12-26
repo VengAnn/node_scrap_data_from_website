@@ -1,0 +1,45 @@
+{
+  "word": "detach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20964.png",
+      "local_image_path": "images/20964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118164.png",
+      "local_image_path": "images/118164.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118165.png",
+      "local_image_path": "images/118165.png"
+    }
+  ],
+  "synonyms": [
+    "separate",
+    "remove",
+    "disengage",
+    "disconnect",
+    "isolate",
+    "unfasten"
+  ],
+  "antonyms": [
+    "attach"
+  ],
+  "similar_words": [
+    "detachability",
+    "detachable",
+    "detachably",
+    "detached",
+    "detachment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detach.mp3",
+  "local_sound_path": "sounds/detach.mp3"
+}

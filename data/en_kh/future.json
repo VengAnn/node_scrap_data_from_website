@@ -1,0 +1,51 @@
+{
+  "word": "future",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30772.png",
+      "local_image_path": "images/30772.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30770.png",
+      "local_image_path": "images/30770.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a bright future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30771.png",
+      "local_image_path": "images/30771.png"
+    }
+  ],
+  "synonyms": [
+    "upcoming",
+    "forthcoming",
+    "coming",
+    "imminent",
+    "impending",
+    "prospect",
+    "outlook",
+    "potential",
+    "opportunity",
+    "hope"
+  ],
+  "antonyms": [
+    "past"
+  ],
+  "similar_words": [
+    "future interests",
+    "future value",
+    "future-criented",
+    "future-proof",
+    "futureless",
+    "futureproof",
+    "futures"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/future.mp3",
+  "local_sound_path": "sounds/future.mp3"
+}

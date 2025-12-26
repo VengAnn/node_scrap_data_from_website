@@ -1,0 +1,39 @@
+{
+  "word": "incarceration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38265.png",
+      "local_image_path": "images/38265.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121906.png",
+      "local_image_path": "images/121906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121907.png",
+      "local_image_path": "images/121907.png"
+    }
+  ],
+  "synonyms": [
+    "imprisonment",
+    "confinement",
+    "custody",
+    "captivity",
+    "internment",
+    "detention"
+  ],
+  "antonyms": [
+    "freedom"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incarceration.mp3",
+  "local_sound_path": "sounds/incarceration.mp3"
+}

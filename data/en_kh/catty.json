@@ -1,0 +1,41 @@
+{
+  "word": "catty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13393.png",
+      "local_image_path": "images/13393.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116068.png",
+      "local_image_path": "images/116068.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116069.png",
+      "local_image_path": "images/116069.png"
+    }
+  ],
+  "synonyms": [
+    "spiteful",
+    "nasty",
+    "venomous",
+    "mean",
+    "malicious",
+    "malevolent",
+    "vicious",
+    "unkind"
+  ],
+  "antonyms": [
+    "nice"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/catty.mp3",
+  "local_sound_path": "sounds/catty.mp3"
+}

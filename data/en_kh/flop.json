@@ -1,0 +1,67 @@
+{
+  "word": "flop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29198.png",
+      "local_image_path": "images/29198.png"
+    },
+    {
+      "pos": "iv",
+      "example": "flop down in a chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29192.png",
+      "local_image_path": "images/29192.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The pile of books flopped noisily onto the boat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29193.png",
+      "local_image_path": "images/29193.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29194.png",
+      "local_image_path": "images/29194.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29196.png",
+      "local_image_path": "images/29196.png"
+    },
+    {
+      "pos": "n",
+      "example": "business was a flop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29197.png",
+      "local_image_path": "images/29197.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flop a fish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29195.png",
+      "local_image_path": "images/29195.png"
+    }
+  ],
+  "synonyms": [
+    "fail",
+    "bomb",
+    "fold",
+    "close",
+    "crash",
+    "nose-dive"
+  ],
+  "antonyms": [
+    "hit",
+    "succeed"
+  ],
+  "similar_words": [
+    "flophouse",
+    "floppy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flop.mp3",
+  "local_sound_path": "sounds/flop.mp3"
+}

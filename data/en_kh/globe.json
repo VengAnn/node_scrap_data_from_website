@@ -1,0 +1,29 @@
+{
+  "word": "globe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "circle the globe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31994.png",
+      "local_image_path": "images/31994.png"
+    }
+  ],
+  "synonyms": [
+    "sphere",
+    "ball",
+    "orb",
+    "world",
+    "earth",
+    "rondure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "globe-trotter",
+    "globefish",
+    "globetrot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/globe.mp3",
+  "local_sound_path": "sounds/globe.mp3"
+}

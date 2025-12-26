@@ -1,0 +1,54 @@
+{
+  "word": "noise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "loud noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55971.png",
+      "local_image_path": "images/55971.png"
+    },
+    {
+      "pos": "n",
+      "example": "public noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55972.png",
+      "local_image_path": "images/55972.png"
+    },
+    {
+      "pos": "tv",
+      "example": "It is being noised abroad that he has been arrested.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55973.png",
+      "local_image_path": "images/55973.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124658.png",
+      "local_image_path": "images/124658.png"
+    }
+  ],
+  "synonyms": [
+    "sound",
+    "din",
+    "racket",
+    "clamor",
+    "clatter",
+    "blast",
+    "blare",
+    "uproar",
+    "hullabaloo",
+    "commotion"
+  ],
+  "antonyms": [
+    "silence"
+  ],
+  "similar_words": [
+    "noise-maker",
+    "noiseless",
+    "noiselessly",
+    "noiselessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/noise.mp3",
+  "local_sound_path": "sounds/noise.mp3"
+}

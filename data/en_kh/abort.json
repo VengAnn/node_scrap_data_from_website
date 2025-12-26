@@ -1,0 +1,41 @@
+{
+  "word": "abort",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1512.png",
+      "local_image_path": "images/1512.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1513.png",
+      "local_image_path": "images/1513.png"
+    }
+  ],
+  "synonyms": [
+    "terminate",
+    "end",
+    "abandon",
+    "cancel",
+    "halt",
+    "stop",
+    "quit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "aborted",
+    "abortifacient",
+    "abortion",
+    "abortional",
+    "abortionist",
+    "abortive",
+    "abortively",
+    "abortiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abort.mp3",
+  "local_sound_path": "sounds/abort.mp3"
+}

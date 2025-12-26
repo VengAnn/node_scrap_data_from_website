@@ -1,0 +1,64 @@
+{
+  "word": "establish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "His second novel established his fame as a writer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25907.png",
+      "local_image_path": "images/25907.png"
+    },
+    {
+      "pos": "tv",
+      "example": "establish a fact",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25908.png",
+      "local_image_path": "images/25908.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25909.png",
+      "local_image_path": "images/25909.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119409.png",
+      "local_image_path": "images/119409.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119410.png",
+      "local_image_path": "images/119410.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119411.png",
+      "local_image_path": "images/119411.png"
+    }
+  ],
+  "synonyms": [
+    "ascertain",
+    "determine",
+    "prove",
+    "confirm",
+    "verify",
+    "show",
+    "corroborate",
+    "authenticate"
+  ],
+  "antonyms": [
+    "disprove"
+  ],
+  "similar_words": [
+    "establish business",
+    "established",
+    "establisher",
+    "establishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/establish.mp3",
+  "local_sound_path": "sounds/establish.mp3"
+}

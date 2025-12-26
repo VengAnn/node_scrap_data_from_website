@@ -1,0 +1,96 @@
+{
+  "word": "figure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28466.png",
+      "local_image_path": "images/28466.png"
+    },
+    {
+      "pos": "iv",
+      "example": "figure in the government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28467.png",
+      "local_image_path": "images/28467.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120122.png",
+      "local_image_path": "images/120122.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120123.png",
+      "local_image_path": "images/120123.png"
+    },
+    {
+      "pos": "n",
+      "example": "Arabic figure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28459.png",
+      "local_image_path": "images/28459.png"
+    },
+    {
+      "pos": "n",
+      "example": "good figure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28460.png",
+      "local_image_path": "images/28460.png"
+    },
+    {
+      "pos": "n",
+      "example": "name a figure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28461.png",
+      "local_image_path": "images/28461.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a good figure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28462.png",
+      "local_image_path": "images/28462.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28463.png",
+      "local_image_path": "images/28463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "figure the sum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28464.png",
+      "local_image_path": "images/28464.png"
+    },
+    {
+      "pos": "tv",
+      "example": "figure that she'll go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28465.png",
+      "local_image_path": "images/28465.png"
+    }
+  ],
+  "synonyms": [
+    "reckon",
+    "guess",
+    "believe",
+    "think",
+    "suppose",
+    "presume",
+    "assume",
+    "consider",
+    "feature",
+    "appear",
+    "participate"
+  ],
+  "antonyms": [
+    "doubt"
+  ],
+  "similar_words": [
+    "figure of speech",
+    "figure-head",
+    "figures"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/figure.mp3",
+  "local_sound_path": "sounds/figure.mp3"
+}

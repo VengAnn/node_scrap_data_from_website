@@ -1,0 +1,40 @@
+{
+  "word": "defender",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20145.png",
+      "local_image_path": "images/20145.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117888.png",
+      "local_image_path": "images/117888.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117889.png",
+      "local_image_path": "images/117889.png"
+    }
+  ],
+  "synonyms": [
+    "supporter",
+    "champion",
+    "advocate",
+    "guardian",
+    "backer",
+    "sponsor"
+  ],
+  "antonyms": [
+    "attacker",
+    "opponent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defender.mp3",
+  "local_sound_path": "sounds/defender.mp3"
+}

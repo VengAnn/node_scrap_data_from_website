@@ -1,0 +1,47 @@
+{
+  "word": "standard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "standard size",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84219.png",
+      "local_image_path": "images/84219.png"
+    },
+    {
+      "pos": "n",
+      "example": "standard of measurement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84218.png",
+      "local_image_path": "images/84218.png"
+    }
+  ],
+  "synonyms": [
+    "norm",
+    "average",
+    "mean",
+    "par",
+    "level",
+    "degree",
+    "rank",
+    "flag",
+    "banner",
+    "ensign",
+    "streamer",
+    "pennant",
+    "emblem",
+    "jack"
+  ],
+  "antonyms": [
+    "unusual",
+    "aberration"
+  ],
+  "similar_words": [
+    "standard-wing",
+    "standardization",
+    "standardize",
+    "standardizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/standard.mp3",
+  "local_sound_path": "sounds/standard.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "luminary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48035.png",
+      "local_image_path": "images/48035.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123684.png",
+      "local_image_path": "images/123684.png"
+    }
+  ],
+  "synonyms": [
+    "celebrity",
+    "star",
+    "personality",
+    "face",
+    "leading light"
+  ],
+  "antonyms": [
+    "nobody"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/luminary.mp3",
+  "local_sound_path": "sounds/luminary.mp3"
+}

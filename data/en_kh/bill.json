@@ -1,0 +1,103 @@
+{
+  "word": "bill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8912.png",
+      "local_image_path": "images/8912.png"
+    },
+    {
+      "pos": "n",
+      "example": "electricity bill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8908.png",
+      "local_image_path": "images/8908.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8909.png",
+      "local_image_path": "images/8909.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8911.png",
+      "local_image_path": "images/8911.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115075.png",
+      "local_image_path": "images/115075.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115076.png",
+      "local_image_path": "images/115076.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115077.png",
+      "local_image_path": "images/115077.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to bill me for the charges",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8910.png",
+      "local_image_path": "images/8910.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115078.png",
+      "local_image_path": "images/115078.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115079.png",
+      "local_image_path": "images/115079.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115080.png",
+      "local_image_path": "images/115080.png"
+    }
+  ],
+  "synonyms": [
+    "charge",
+    "invoice",
+    "debit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bill of consignment",
+    "bill of exchange",
+    "bill of fare",
+    "bill of health",
+    "bill of lading",
+    "bill of particulars",
+    "bill of rights",
+    "bill of sale",
+    "bill-head",
+    "billabong",
+    "billboard",
+    "biller",
+    "billet",
+    "billet-doux",
+    "billfold",
+    "billhook",
+    "billiard-marker",
+    "billiards",
+    "billingsgate",
+    "billion"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bill.mp3",
+  "local_sound_path": "sounds/bill.mp3"
+}

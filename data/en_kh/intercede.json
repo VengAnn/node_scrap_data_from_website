@@ -1,0 +1,36 @@
+{
+  "word": "intercede",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41091.png",
+      "local_image_path": "images/41091.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122699.png",
+      "local_image_path": "images/122699.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122700.png",
+      "local_image_path": "images/122700.png"
+    }
+  ],
+  "synonyms": [
+    "intervene",
+    "mediate",
+    "plead",
+    "negotiate",
+    "arbitrate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intercede.mp3",
+  "local_sound_path": "sounds/intercede.mp3"
+}

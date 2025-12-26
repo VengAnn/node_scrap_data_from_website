@@ -1,0 +1,34 @@
+{
+  "word": "dictatorship",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21254.png",
+      "local_image_path": "images/21254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118268.png",
+      "local_image_path": "images/118268.png"
+    }
+  ],
+  "synonyms": [
+    "regime",
+    "government",
+    "rule",
+    "era",
+    "reign",
+    "leadership",
+    "junta"
+  ],
+  "antonyms": [
+    "democracy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dictatorship.mp3",
+  "local_sound_path": "sounds/dictatorship.mp3"
+}

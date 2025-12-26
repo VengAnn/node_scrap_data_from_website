@@ -1,0 +1,83 @@
+{
+  "word": "trip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91850.png",
+      "local_image_path": "images/91850.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He tripped over the roof of a tree",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91852.png",
+      "local_image_path": "images/91852.png"
+    },
+    {
+      "pos": "iv",
+      "example": "She came tripping down the garden path",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91853.png",
+      "local_image_path": "images/91853.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a trip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91849.png",
+      "local_image_path": "images/91849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91851.png",
+      "local_image_path": "images/91851.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trip a runner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91854.png",
+      "local_image_path": "images/91854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trip the switch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91855.png",
+      "local_image_path": "images/91855.png"
+    }
+  ],
+  "synonyms": [
+    "fall",
+    "slip",
+    "stumble",
+    "tumble",
+    "skip",
+    "hop",
+    "dance",
+    "prance",
+    "caper"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "trip-wire",
+    "tripartite",
+    "tripartition",
+    "tripe",
+    "tripedal",
+    "tripennate",
+    "tripersonal",
+    "tripetalous",
+    "triphammer",
+    "triphibian",
+    "triphthong",
+    "triphthongal",
+    "tripinate",
+    "tripitaka",
+    "triplane",
+    "triple",
+    "triplet",
+    "triplex"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trip.mp3",
+  "local_sound_path": "sounds/trip.mp3"
+}

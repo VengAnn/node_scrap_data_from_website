@@ -1,0 +1,37 @@
+{
+  "word": "ballistic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "spoken go ballistic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7211.png",
+      "local_image_path": "images/7211.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114489.png",
+      "local_image_path": "images/114489.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114490.png",
+      "local_image_path": "images/114490.png"
+    }
+  ],
+  "synonyms": [
+    "airborne",
+    "air-to-air",
+    "flying"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ballistically",
+    "ballistics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ballistic.mp3",
+  "local_sound_path": "sounds/ballistic.mp3"
+}

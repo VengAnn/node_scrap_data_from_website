@@ -1,0 +1,35 @@
+{
+  "word": "organize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57993.png",
+      "local_image_path": "images/57993.png"
+    },
+    {
+      "pos": "tv",
+      "example": "organize a political party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57992.png",
+      "local_image_path": "images/57992.png"
+    }
+  ],
+  "synonyms": [
+    "arrange",
+    "manage",
+    "coordinate",
+    "control",
+    "fix"
+  ],
+  "antonyms": [
+    "disarrange"
+  ],
+  "similar_words": [
+    "organized",
+    "organizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/organize.mp3",
+  "local_sound_path": "sounds/organize.mp3"
+}

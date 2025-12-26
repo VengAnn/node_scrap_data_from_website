@@ -1,0 +1,41 @@
+{
+  "word": "deflate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "deflate a balloon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20201.png",
+      "local_image_path": "images/20201.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deflate currency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20202.png",
+      "local_image_path": "images/20202.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deflate one's ego",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20203.png",
+      "local_image_path": "images/20203.png"
+    }
+  ],
+  "synonyms": [
+    "belittle",
+    "squash",
+    "quash",
+    "snub",
+    "humiliate",
+    "destroy"
+  ],
+  "antonyms": [
+    "inflate",
+    "boost",
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deflate.mp3",
+  "local_sound_path": "sounds/deflate.mp3"
+}

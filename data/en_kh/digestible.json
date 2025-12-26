@@ -1,0 +1,32 @@
+{
+  "word": "digestible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21333.png",
+      "local_image_path": "images/21333.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118297.png",
+      "local_image_path": "images/118297.png"
+    }
+  ],
+  "synonyms": [
+    "edible",
+    "palatable",
+    "eatable",
+    "consumable",
+    "esculent"
+  ],
+  "antonyms": [
+    "indigestible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/digestible.mp3",
+  "local_sound_path": "sounds/digestible.mp3"
+}

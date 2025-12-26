@@ -1,0 +1,61 @@
+{
+  "word": "happy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "happy to see you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33809.png",
+      "local_image_path": "images/33809.png"
+    },
+    {
+      "pos": "adj",
+      "example": "happy occurrence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33810.png",
+      "local_image_path": "images/33810.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33811.png",
+      "local_image_path": "images/33811.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33812.png",
+      "local_image_path": "images/33812.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120929.png",
+      "local_image_path": "images/120929.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120930.png",
+      "local_image_path": "images/120930.png"
+    }
+  ],
+  "synonyms": [
+    "lucky",
+    "fortunate",
+    "favorable",
+    "opportune"
+  ],
+  "antonyms": [
+    "sad",
+    "unlucky"
+  ],
+  "similar_words": [
+    "happy birthday",
+    "happy hour",
+    "happy new year",
+    "happy-go-lucky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/happy.mp3",
+  "local_sound_path": "sounds/happy.mp3"
+}

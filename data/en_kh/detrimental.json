@@ -1,0 +1,33 @@
+{
+  "word": "detrimental",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The measures had a detrimental effect.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21046.png",
+      "local_image_path": "images/21046.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118204.png",
+      "local_image_path": "images/118204.png"
+    }
+  ],
+  "synonyms": [
+    "harmful",
+    "damaging",
+    "disadvantageous",
+    "unfavorable",
+    "negative",
+    "injurious"
+  ],
+  "antonyms": [
+    "beneficial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detrimental.mp3",
+  "local_sound_path": "sounds/detrimental.mp3"
+}

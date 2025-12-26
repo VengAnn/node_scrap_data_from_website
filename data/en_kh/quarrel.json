@@ -1,0 +1,48 @@
+{
+  "word": "quarrel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69416.png",
+      "local_image_path": "images/69416.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69414.png",
+      "local_image_path": "images/69414.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69415.png",
+      "local_image_path": "images/69415.png"
+    }
+  ],
+  "synonyms": [
+    "squabble",
+    "argument",
+    "disagreement",
+    "tiff",
+    "wrangle",
+    "clash",
+    "dispute",
+    "fight",
+    "spat",
+    "row",
+    "argue",
+    "disagree",
+    "bicker",
+    "make up"
+  ],
+  "antonyms": [
+    "agreement",
+    "reconciliation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quarrel.mp3",
+  "local_sound_path": "sounds/quarrel.mp3"
+}

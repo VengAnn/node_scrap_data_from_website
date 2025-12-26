@@ -1,0 +1,33 @@
+{
+  "word": "disapprove",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "She wants to be an actress, but her parents disapprove.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21588.png",
+      "local_image_path": "images/21588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disapprove his action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21587.png",
+      "local_image_path": "images/21587.png"
+    }
+  ],
+  "synonyms": [
+    "reject",
+    "refuse",
+    "veto",
+    "turn down",
+    "negate",
+    "deny"
+  ],
+  "antonyms": [
+    "approve"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disapprove.mp3",
+  "local_sound_path": "sounds/disapprove.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "cheap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cheap price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13954.png",
+      "local_image_path": "images/13954.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cheap quality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13955.png",
+      "local_image_path": "images/13955.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cheap conduct",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13956.png",
+      "local_image_path": "images/13956.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13957.png",
+      "local_image_path": "images/13957.png"
+    }
+  ],
+  "synonyms": [
+    "stingy",
+    "miserly",
+    "mean",
+    "parsimonious"
+  ],
+  "antonyms": [
+    "expensive",
+    "quality",
+    "superior",
+    "admirable",
+    "generous"
+  ],
+  "similar_words": [
+    "cheap jack",
+    "cheapen",
+    "cheaply",
+    "cheapness",
+    "cheapskate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cheap.mp3",
+  "local_sound_path": "sounds/cheap.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "other",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "other people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58229.png",
+      "local_image_path": "images/58229.png"
+    },
+    {
+      "pos": "pron",
+      "example": "I'll take the other",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58230.png",
+      "local_image_path": "images/58230.png"
+    }
+  ],
+  "synonyms": [
+    "additional",
+    "extra",
+    "supplementary",
+    "further",
+    "new",
+    "last",
+    "former",
+    "erstwhile",
+    "one-time",
+    "previous",
+    "more",
+    "fresh",
+    "another"
+  ],
+  "antonyms": [
+    "less",
+    "current"
+  ],
+  "similar_words": [
+    "other-trawl",
+    "other-world",
+    "otherwhere",
+    "otherwhile",
+    "otherwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/other.mp3",
+  "local_sound_path": "sounds/other.mp3"
+}

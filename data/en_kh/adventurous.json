@@ -1,0 +1,48 @@
+{
+  "word": "adventurous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "adventurous person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2568.png",
+      "local_image_path": "images/2568.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131978.png",
+      "local_image_path": "images/131978.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131979.png",
+      "local_image_path": "images/131979.png"
+    }
+  ],
+  "synonyms": [
+    "daring",
+    "bold",
+    "audacious",
+    "brave",
+    "risky",
+    "exploratory",
+    "courageous",
+    "exciting",
+    "carefree",
+    "venturesome",
+    "adventuresome"
+  ],
+  "antonyms": [
+    "timid",
+    "unadventurous"
+  ],
+  "similar_words": [
+    "adventurously",
+    "adventurousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adventurous.mp3",
+  "local_sound_path": "sounds/adventurous.mp3"
+}

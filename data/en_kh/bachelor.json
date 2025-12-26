@@ -1,0 +1,41 @@
+{
+  "word": "bachelor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bachelor girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6932.png",
+      "local_image_path": "images/6932.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6931.png",
+      "local_image_path": "images/6931.png"
+    },
+    {
+      "pos": "n",
+      "example": "bachelor degree",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6930.png",
+      "local_image_path": "images/6930.png"
+    }
+  ],
+  "synonyms": [
+    "single",
+    "unattached",
+    "spinster",
+    "free"
+  ],
+  "antonyms": [
+    "married"
+  ],
+  "similar_words": [
+    "bachelorette",
+    "bachelorhood",
+    "bachelorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bachelor.mp3",
+  "local_sound_path": "sounds/bachelor.mp3"
+}

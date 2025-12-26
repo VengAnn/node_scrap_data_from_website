@@ -1,0 +1,67 @@
+{
+  "word": "focus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29432.png",
+      "local_image_path": "images/29432.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120293.png",
+      "local_image_path": "images/120293.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120294.png",
+      "local_image_path": "images/120294.png"
+    },
+    {
+      "pos": "n",
+      "example": "focus of a light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29428.png",
+      "local_image_path": "images/29428.png"
+    },
+    {
+      "pos": "n",
+      "example": "focus of attention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29429.png",
+      "local_image_path": "images/29429.png"
+    },
+    {
+      "pos": "tv",
+      "example": "focus a light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29430.png",
+      "local_image_path": "images/29430.png"
+    },
+    {
+      "pos": "tv",
+      "example": "focus one's attention on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29431.png",
+      "local_image_path": "images/29431.png"
+    }
+  ],
+  "synonyms": [
+    "concentration",
+    "motivation",
+    "application",
+    "concentrate",
+    "direct",
+    "converge",
+    "meet",
+    "fix",
+    "center",
+    "aim"
+  ],
+  "antonyms": [
+    "edge"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/focus.mp3",
+  "local_sound_path": "sounds/focus.mp3"
+}

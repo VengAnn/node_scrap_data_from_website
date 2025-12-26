@@ -1,0 +1,53 @@
+{
+  "word": "repair",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72251.png",
+      "local_image_path": "images/72251.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a repair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72250.png",
+      "local_image_path": "images/72250.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72252.png",
+      "local_image_path": "images/72252.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72249.png",
+      "local_image_path": "images/72249.png"
+    }
+  ],
+  "synonyms": [
+    "restoration",
+    "mending",
+    "healing",
+    "renovation",
+    "darning",
+    "mend",
+    "fix",
+    "revamp",
+    "restore",
+    "refurbish",
+    "renovate",
+    "darn",
+    "overhaul"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "repairable",
+    "repairer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repair.mp3",
+  "local_sound_path": "sounds/repair.mp3"
+}

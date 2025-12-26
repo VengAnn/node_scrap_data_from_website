@@ -1,0 +1,42 @@
+{
+  "word": "ablaze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Bopha's face was ablaze with anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1446.png",
+      "local_image_path": "images/1446.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111852.png",
+      "local_image_path": "images/111852.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111853.png",
+      "local_image_path": "images/111853.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1447.png",
+      "local_image_path": "images/1447.png"
+    }
+  ],
+  "synonyms": [
+    "blazing",
+    "burning",
+    "alight",
+    "afire",
+    "aflame"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ablaze.mp3",
+  "local_sound_path": "sounds/ablaze.mp3"
+}

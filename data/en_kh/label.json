@@ -1,0 +1,46 @@
+{
+  "word": "label",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44267.png",
+      "local_image_path": "images/44267.png"
+    },
+    {
+      "pos": "tv",
+      "example": "label a can",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44268.png",
+      "local_image_path": "images/44268.png"
+    },
+    {
+      "pos": "tv",
+      "example": "label him a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44269.png",
+      "local_image_path": "images/44269.png"
+    }
+  ],
+  "synonyms": [
+    "description",
+    "categorization",
+    "classification",
+    "consider",
+    "regard",
+    "brand",
+    "categorize",
+    "class",
+    "characterize",
+    "pigeon-hole",
+    "describe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "labellate",
+    "labelling",
+    "labellum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/label.mp3",
+  "local_sound_path": "sounds/label.mp3"
+}

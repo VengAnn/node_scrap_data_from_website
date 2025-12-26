@@ -1,0 +1,34 @@
+{
+  "word": "banal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "what you say about my opinion is a banal remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7263.png",
+      "local_image_path": "images/7263.png"
+    }
+  ],
+  "synonyms": [
+    "commonplace",
+    "trite",
+    "hackneyed",
+    "prosaic",
+    "predictable",
+    "ordinary",
+    "dull",
+    "boring",
+    "trivial",
+    "facile"
+  ],
+  "antonyms": [
+    "original"
+  ],
+  "similar_words": [
+    "banality",
+    "banally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banal.mp3",
+  "local_sound_path": "sounds/banal.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "inducement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39249.png",
+      "local_image_path": "images/39249.png"
+    },
+    {
+      "pos": "n",
+      "example": "financial inducement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39250.png",
+      "local_image_path": "images/39250.png"
+    },
+    {
+      "pos": "n",
+      "example": "the inducement of sleep",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39251.png",
+      "local_image_path": "images/39251.png"
+    }
+  ],
+  "synonyms": [
+    "incentive",
+    "encouragement",
+    "carrot",
+    "enticement",
+    "bribe",
+    "stimulus",
+    "lure",
+    "bait"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inducement.mp3",
+  "local_sound_path": "sounds/inducement.mp3"
+}

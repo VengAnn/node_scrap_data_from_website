@@ -1,0 +1,82 @@
+{
+  "word": "regular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "his regular place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71639.png",
+      "local_image_path": "images/71639.png"
+    },
+    {
+      "pos": "adj",
+      "example": "have regular teeth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71640.png",
+      "local_image_path": "images/71640.png"
+    },
+    {
+      "pos": "adj",
+      "example": "regular cascal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71641.png",
+      "local_image_path": "images/71641.png"
+    },
+    {
+      "pos": "adj",
+      "example": "regular intervals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71642.png",
+      "local_image_path": "images/71642.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71643.png",
+      "local_image_path": "images/71643.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71644.png",
+      "local_image_path": "images/71644.png"
+    },
+    {
+      "pos": "adj",
+      "example": "regular customer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71646.png",
+      "local_image_path": "images/71646.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126709.png",
+      "local_image_path": "images/126709.png"
+    }
+  ],
+  "synonyms": [
+    "ordered",
+    "methodical",
+    "even",
+    "consistent",
+    "reliable",
+    "steady",
+    "soldier",
+    "combatant",
+    "legionnaire",
+    "squaddie"
+  ],
+  "antonyms": [
+    "unusual",
+    "intermittent",
+    "inconsistent",
+    "irregular"
+  ],
+  "similar_words": [
+    "regular army",
+    "regularity",
+    "regularization",
+    "regularize",
+    "regularly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/regular.mp3",
+  "local_sound_path": "sounds/regular.mp3"
+}

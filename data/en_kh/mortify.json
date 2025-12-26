@@ -1,0 +1,39 @@
+{
+  "word": "mortify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110542.png",
+      "local_image_path": "images/110542.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124322.png",
+      "local_image_path": "images/124322.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124323.png",
+      "local_image_path": "images/124323.png"
+    }
+  ],
+  "synonyms": [
+    "degrade",
+    "humiliate",
+    "embarrass",
+    "crush",
+    "confound",
+    "shame",
+    "humble",
+    "abase"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mortify.mp3",
+  "local_sound_path": "sounds/mortify.mp3"
+}

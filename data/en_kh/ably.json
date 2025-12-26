@@ -1,0 +1,46 @@
+{
+  "word": "ably",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1450.png",
+      "local_image_path": "images/1450.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111850.png",
+      "local_image_path": "images/111850.png"
+    },
+    {
+      "pos": "adv",
+      "example": "noticeably",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1468.png",
+      "local_image_path": "images/1468.png"
+    },
+    {
+      "pos": "suff",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1467.png",
+      "local_image_path": "images/1467.png"
+    }
+  ],
+  "synonyms": [
+    "capably",
+    "well",
+    "skillfully",
+    "competently",
+    "proficiently",
+    "adeptly",
+    "easily"
+  ],
+  "antonyms": [
+    "incompetently"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ably.mp3",
+  "local_sound_path": "sounds/ably.mp3"
+}

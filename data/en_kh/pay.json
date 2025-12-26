@@ -1,0 +1,116 @@
+{
+  "word": "pay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Who will pay?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60832.png",
+      "local_image_path": "images/60832.png"
+    },
+    {
+      "pos": "iv",
+      "example": "They don't pay well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60833.png",
+      "local_image_path": "images/60833.png"
+    },
+    {
+      "pos": "n",
+      "example": "She get a good pay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60834.png",
+      "local_image_path": "images/60834.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will pay a bill today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60825.png",
+      "local_image_path": "images/60825.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he is paying an employee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60826.png",
+      "local_image_path": "images/60826.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will pay book to you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60827.png",
+      "local_image_path": "images/60827.png"
+    },
+    {
+      "pos": "tv",
+      "example": "she will pay for this purchase",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60828.png",
+      "local_image_path": "images/60828.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pay for one's mistake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60829.png",
+      "local_image_path": "images/60829.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pay off (a black-mailer)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60830.png",
+      "local_image_path": "images/60830.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pay out (money)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60831.png",
+      "local_image_path": "images/60831.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60838.png",
+      "local_image_path": "images/60838.png"
+    }
+  ],
+  "synonyms": [
+    "wage",
+    "salary",
+    "recompense",
+    "reimbursement",
+    "earnings",
+    "compensation",
+    "remuneration",
+    "fee",
+    "disburse",
+    "reimburse",
+    "compensate",
+    "forfeit",
+    "give",
+    "remunerate",
+    "repay"
+  ],
+  "antonyms": [
+    "receive"
+  ],
+  "similar_words": [
+    "pay perview",
+    "pay toilet",
+    "pay-claim",
+    "pay-day",
+    "pay-dirt",
+    "pay-off",
+    "pay-packet",
+    "payable",
+    "payably",
+    "payback clause",
+    "payback period",
+    "paychek",
+    "payee",
+    "payer",
+    "paying",
+    "paying guest",
+    "payload",
+    "paymaster",
+    "payment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pay.mp3",
+  "local_sound_path": "sounds/pay.mp3"
+}

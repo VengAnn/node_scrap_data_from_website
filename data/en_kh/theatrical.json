@@ -1,0 +1,53 @@
+{
+  "word": "theatrical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "theatrical debut",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88688.png",
+      "local_image_path": "images/88688.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88689.png",
+      "local_image_path": "images/88689.png"
+    },
+    {
+      "pos": "adj",
+      "example": "theatrical display of grief",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88690.png",
+      "local_image_path": "images/88690.png"
+    }
+  ],
+  "synonyms": [
+    "dramatic",
+    "exaggerated",
+    "melodramatic",
+    "affected",
+    "artificial",
+    "pretentious",
+    "hammy",
+    "histrionic",
+    "mannered",
+    "emotional",
+    "ostentatious",
+    "showy",
+    "flamboyant",
+    "stagy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "theatrical performance",
+    "theatricality",
+    "theatricalization",
+    "theatricalize",
+    "theatrically",
+    "theatricalness",
+    "theatricals"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/theatrical.mp3",
+  "local_sound_path": "sounds/theatrical.mp3"
+}

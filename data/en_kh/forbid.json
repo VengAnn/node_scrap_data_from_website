@@ -1,0 +1,59 @@
+{
+  "word": "forbid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29631.png",
+      "local_image_path": "images/29631.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29632.png",
+      "local_image_path": "images/29632.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130334.png",
+      "local_image_path": "images/130334.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130335.png",
+      "local_image_path": "images/130335.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130336.png",
+      "local_image_path": "images/130336.png"
+    }
+  ],
+  "synonyms": [
+    "prohibit",
+    "ban",
+    "bar",
+    "prevent",
+    "outlaw",
+    "stop",
+    "hinder",
+    "inhibit"
+  ],
+  "antonyms": [
+    "allow"
+  ],
+  "similar_words": [
+    "forbiddance",
+    "forbidden",
+    "forbidder",
+    "forbidding",
+    "forbiddingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forbid.mp3",
+  "local_sound_path": "sounds/forbid.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "assimilation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5931.png",
+      "local_image_path": "images/5931.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114148.png",
+      "local_image_path": "images/114148.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114149.png",
+      "local_image_path": "images/114149.png"
+    }
+  ],
+  "synonyms": [
+    "integration",
+    "adaptation",
+    "adjustment",
+    "absorption",
+    "incorporation",
+    "digestion",
+    "ingestion",
+    "inculcation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assimilation.mp3",
+  "local_sound_path": "sounds/assimilation.mp3"
+}

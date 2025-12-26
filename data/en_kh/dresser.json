@@ -1,0 +1,40 @@
+{
+  "word": "dresser",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23114.png",
+      "local_image_path": "images/23114.png"
+    },
+    {
+      "pos": "n",
+      "example": "She's really a dresser",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23115.png",
+      "local_image_path": "images/23115.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23116.png",
+      "local_image_path": "images/23116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23117.png",
+      "local_image_path": "images/23117.png"
+    }
+  ],
+  "synonyms": [
+    "cupboard",
+    "breakfront",
+    "bureau"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dresser.mp3",
+  "local_sound_path": "sounds/dresser.mp3"
+}

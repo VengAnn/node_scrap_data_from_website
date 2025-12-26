@@ -1,0 +1,64 @@
+{
+  "word": "throw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "It is your throw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89213.png",
+      "local_image_path": "images/89213.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89214.png",
+      "local_image_path": "images/89214.png"
+    },
+    {
+      "pos": "tv",
+      "example": "throw a ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89210.png",
+      "local_image_path": "images/89210.png"
+    },
+    {
+      "pos": "tv",
+      "example": "throw one's opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89211.png",
+      "local_image_path": "images/89211.png"
+    },
+    {
+      "pos": "tv",
+      "example": "throw away",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89212.png",
+      "local_image_path": "images/89212.png"
+    }
+  ],
+  "synonyms": [
+    "toss",
+    "lob",
+    "heave",
+    "pitch",
+    "fling",
+    "organize",
+    "arrange",
+    "host",
+    "give",
+    "hold",
+    "have"
+  ],
+  "antonyms": [
+    "catch",
+    "clarify"
+  ],
+  "similar_words": [
+    "throw-away",
+    "throw-back",
+    "throw-in",
+    "thrower",
+    "throwing",
+    "thrown"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/throw.mp3",
+  "local_sound_path": "sounds/throw.mp3"
+}

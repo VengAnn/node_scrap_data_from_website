@@ -1,0 +1,74 @@
+{
+  "word": "hollow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "hollow log",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35598.png",
+      "local_image_path": "images/35598.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hollow surface",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35599.png",
+      "local_image_path": "images/35599.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hollow cheeks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35600.png",
+      "local_image_path": "images/35600.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hollow voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35601.png",
+      "local_image_path": "images/35601.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hollow victory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35602.png",
+      "local_image_path": "images/35602.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hollow in a log",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35603.png",
+      "local_image_path": "images/35603.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hollow of his back",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35604.png",
+      "local_image_path": "images/35604.png"
+    }
+  ],
+  "synonyms": [
+    "excavate",
+    "scoop",
+    "gouge",
+    "tunnel",
+    "burrow",
+    "scrape"
+  ],
+  "antonyms": [
+    "solid",
+    "convex",
+    "meaningful",
+    "hump",
+    "sincere",
+    "bulge",
+    "fill"
+  ],
+  "similar_words": [
+    "hollow-eyed",
+    "hollow-hearted",
+    "hollowly",
+    "hollowness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hollow.mp3",
+  "local_sound_path": "sounds/hollow.mp3"
+}

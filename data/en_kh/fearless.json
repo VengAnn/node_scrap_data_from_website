@@ -1,0 +1,35 @@
+{
+  "word": "fearless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fearless of consequence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27909.png",
+      "local_image_path": "images/27909.png"
+    }
+  ],
+  "synonyms": [
+    "intrepid",
+    "brave",
+    "courageous",
+    "bold",
+    "unafraid",
+    "daring",
+    "plucky",
+    "valiant",
+    "heroic",
+    "confident",
+    "audacious"
+  ],
+  "antonyms": [
+    "cowardly"
+  ],
+  "similar_words": [
+    "fearlessly",
+    "fearlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fearless.mp3",
+  "local_sound_path": "sounds/fearless.mp3"
+}

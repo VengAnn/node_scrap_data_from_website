@@ -1,0 +1,40 @@
+{
+  "word": "crude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "crude manner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18824.png",
+      "local_image_path": "images/18824.png"
+    },
+    {
+      "pos": "adj",
+      "example": "crude oil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18825.png",
+      "local_image_path": "images/18825.png"
+    },
+    {
+      "pos": "adj",
+      "example": "crude outline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18826.png",
+      "local_image_path": "images/18826.png"
+    }
+  ],
+  "synonyms": [
+    "raw",
+    "unrefined",
+    "natural"
+  ],
+  "antonyms": [
+    "complex",
+    "refined",
+    "sophisticated",
+    "delicate",
+    "accurate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crude.mp3",
+  "local_sound_path": "sounds/crude.mp3"
+}

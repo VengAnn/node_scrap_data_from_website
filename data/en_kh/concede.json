@@ -1,0 +1,61 @@
+{
+  "word": "concede",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16403.png",
+      "local_image_path": "images/16403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16402.png",
+      "local_image_path": "images/16402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116989.png",
+      "local_image_path": "images/116989.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116990.png",
+      "local_image_path": "images/116990.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116991.png",
+      "local_image_path": "images/116991.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116992.png",
+      "local_image_path": "images/116992.png"
+    }
+  ],
+  "synonyms": [
+    "grant",
+    "admit",
+    "allow",
+    "compromise",
+    "forfeit",
+    "yield"
+  ],
+  "antonyms": [
+    "maintain",
+    "deny"
+  ],
+  "similar_words": [
+    "concededly",
+    "conceder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concede.mp3",
+  "local_sound_path": "sounds/concede.mp3"
+}

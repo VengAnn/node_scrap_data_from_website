@@ -1,0 +1,36 @@
+{
+  "word": "discover",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I dicovered him kissing my wife.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21749.png",
+      "local_image_path": "images/21749.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We discovered that their luggage had been stolen.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21750.png",
+      "local_image_path": "images/21750.png"
+    }
+  ],
+  "synonyms": [
+    "find",
+    "uncover",
+    "unearth",
+    "locate",
+    "detect",
+    "encounter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "discoverable",
+    "discovered",
+    "discoverer",
+    "discovery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discover.mp3",
+  "local_sound_path": "sounds/discover.mp3"
+}

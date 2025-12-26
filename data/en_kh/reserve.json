@@ -1,0 +1,76 @@
+{
+  "word": "reserve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72648.png",
+      "local_image_path": "images/72648.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72644.png",
+      "local_image_path": "images/72644.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72645.png",
+      "local_image_path": "images/72645.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72646.png",
+      "local_image_path": "images/72646.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72647.png",
+      "local_image_path": "images/72647.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reserve a room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72642.png",
+      "local_image_path": "images/72642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72643.png",
+      "local_image_path": "images/72643.png"
+    }
+  ],
+  "synonyms": [
+    "distance",
+    "aloofness",
+    "formality",
+    "shyness",
+    "coolness",
+    "detachment",
+    "diffidence",
+    "coldness",
+    "book",
+    "retain"
+  ],
+  "antonyms": [
+    "use",
+    "main",
+    "cancel"
+  ],
+  "similar_words": [
+    "reserve bank",
+    "reserved",
+    "reservedly",
+    "reservedness",
+    "reserver",
+    "reserves"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reserve.mp3",
+  "local_sound_path": "sounds/reserve.mp3"
+}

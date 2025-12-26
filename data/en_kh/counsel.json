@@ -1,0 +1,47 @@
+{
+  "word": "counsel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "seek counsel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18027.png",
+      "local_image_path": "images/18027.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18028.png",
+      "local_image_path": "images/18028.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117650.png",
+      "local_image_path": "images/117650.png"
+    },
+    {
+      "pos": "tv",
+      "example": "counsel students",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18029.png",
+      "local_image_path": "images/18029.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "advise",
+    "help",
+    "guide",
+    "assist",
+    "aid"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "counselling",
+    "counsellor",
+    "counselor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/counsel.mp3",
+  "local_sound_path": "sounds/counsel.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "messenger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108072.png",
+      "local_image_path": "images/108072.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123945.png",
+      "local_image_path": "images/123945.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123946.png",
+      "local_image_path": "images/123946.png"
+    }
+  ],
+  "synonyms": [
+    "courier",
+    "envoy",
+    "herald",
+    "go-between",
+    "runner",
+    "emissary"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/messenger.mp3",
+  "local_sound_path": "sounds/messenger.mp3"
+}

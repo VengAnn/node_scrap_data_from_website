@@ -1,0 +1,30 @@
+{
+  "word": "bulletproof",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11778.png",
+      "local_image_path": "images/11778.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11777.png",
+      "local_image_path": "images/11777.png"
+    }
+  ],
+  "synonyms": [
+    "shatterproof",
+    "armored",
+    "protective"
+  ],
+  "antonyms": [
+    "vulnerable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bulletproof.mp3",
+  "local_sound_path": "sounds/bulletproof.mp3"
+}

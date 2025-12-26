@@ -1,0 +1,44 @@
+{
+  "word": "uninformed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94558.png",
+      "local_image_path": "images/94558.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94559.png",
+      "local_image_path": "images/94559.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129200.png",
+      "local_image_path": "images/129200.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129201.png",
+      "local_image_path": "images/129201.png"
+    }
+  ],
+  "synonyms": [
+    "ignorant",
+    "uneducated",
+    "unaware",
+    "unacquainted",
+    "unfamiliar"
+  ],
+  "antonyms": [
+    "informed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uninformed.mp3",
+  "local_sound_path": "sounds/uninformed.mp3"
+}

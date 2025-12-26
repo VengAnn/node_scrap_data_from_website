@@ -1,0 +1,34 @@
+{
+  "word": "accuracy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "accuracy of a report",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1952.png",
+      "local_image_path": "images/1952.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111936.png",
+      "local_image_path": "images/111936.png"
+    }
+  ],
+  "synonyms": [
+    "correctness",
+    "accurateness",
+    "exactness",
+    "precision",
+    "truth",
+    "truthfulness",
+    "exactitude"
+  ],
+  "antonyms": [
+    "inaccuracy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accuracy.mp3",
+  "local_sound_path": "sounds/accuracy.mp3"
+}

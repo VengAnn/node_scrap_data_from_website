@@ -1,0 +1,53 @@
+{
+  "word": "exaggerate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26315.png",
+      "local_image_path": "images/26315.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He always exaggerates to make his stories more amusing.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26316.png",
+      "local_image_path": "images/26316.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119529.png",
+      "local_image_path": "images/119529.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119530.png",
+      "local_image_path": "images/119530.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119531.png",
+      "local_image_path": "images/119531.png"
+    }
+  ],
+  "synonyms": [
+    "overstate",
+    "embellish",
+    "embroider",
+    "amplify",
+    "inflate"
+  ],
+  "antonyms": [
+    "understate"
+  ],
+  "similar_words": [
+    "exaggerated",
+    "exaggeratedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exaggerate.mp3",
+  "local_sound_path": "sounds/exaggerate.mp3"
+}

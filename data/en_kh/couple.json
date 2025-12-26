@@ -1,0 +1,72 @@
+{
+  "word": "couple",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "couple off",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18163.png",
+      "local_image_path": "images/18163.png"
+    },
+    {
+      "pos": "iv",
+      "example": "animals couple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18164.png",
+      "local_image_path": "images/18164.png"
+    },
+    {
+      "pos": "n",
+      "example": "newlywed couple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18157.png",
+      "local_image_path": "images/18157.png"
+    },
+    {
+      "pos": "n",
+      "example": "a couple of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18158.png",
+      "local_image_path": "images/18158.png"
+    },
+    {
+      "pos": "n",
+      "example": "a young couple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18159.png",
+      "local_image_path": "images/18159.png"
+    },
+    {
+      "pos": "tv",
+      "example": "couple train cars",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18160.png",
+      "local_image_path": "images/18160.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18161.png",
+      "local_image_path": "images/18161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "couple young people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18162.png",
+      "local_image_path": "images/18162.png"
+    }
+  ],
+  "synonyms": [
+    "combine",
+    "link",
+    "join",
+    "connect",
+    "pair",
+    "team",
+    "fasten"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "couplet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/couple.mp3",
+  "local_sound_path": "sounds/couple.mp3"
+}

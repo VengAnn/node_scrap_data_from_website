@@ -1,0 +1,35 @@
+{
+  "word": "petroleum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62299.png",
+      "local_image_path": "images/62299.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62300.png",
+      "local_image_path": "images/62300.png"
+    }
+  ],
+  "synonyms": [
+    "fuel",
+    "oil",
+    "gasoline",
+    "juice",
+    "firewood",
+    "coal",
+    "gas",
+    "petrol",
+    "energy",
+    "fossil fuel"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/petroleum.mp3",
+  "local_sound_path": "sounds/petroleum.mp3"
+}

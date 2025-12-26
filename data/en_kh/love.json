@@ -1,0 +1,80 @@
+{
+  "word": "love",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "romantic love",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47767.png",
+      "local_image_path": "images/47767.png"
+    },
+    {
+      "pos": "n",
+      "example": "marry his love",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47768.png",
+      "local_image_path": "images/47768.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123666.png",
+      "local_image_path": "images/123666.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123667.png",
+      "local_image_path": "images/123667.png"
+    },
+    {
+      "pos": "tv",
+      "example": "l love you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47769.png",
+      "local_image_path": "images/47769.png"
+    }
+  ],
+  "synonyms": [
+    "darling",
+    "dear",
+    "sweetheart",
+    "honey",
+    "like",
+    "enjoy",
+    "appreciate",
+    "fancy"
+  ],
+  "antonyms": [
+    "hate",
+    "hatred",
+    "dislike"
+  ],
+  "similar_words": [
+    "love apple",
+    "love ditty",
+    "love seat",
+    "love-charm",
+    "love-day",
+    "love-god",
+    "love-in-a-mist",
+    "love-in-idleness",
+    "love-letter",
+    "love-maker",
+    "love-making",
+    "love-story",
+    "love-token",
+    "lovebird",
+    "lovee",
+    "loveless",
+    "lovelessly",
+    "lovelessness",
+    "lovelily",
+    "loveliness",
+    "lovelorn",
+    "lovely",
+    "lovemate",
+    "lovemonger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/love.mp3",
+  "local_sound_path": "sounds/love.mp3"
+}

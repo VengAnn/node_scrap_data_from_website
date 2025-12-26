@@ -1,0 +1,29 @@
+{
+  "word": "everyday",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "everyday occurrence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26235.png",
+      "local_image_path": "images/26235.png"
+    }
+  ],
+  "synonyms": [
+    "daily",
+    "ordinary",
+    "average",
+    "normal",
+    "unremarkable",
+    "commonplace",
+    "routine",
+    "common"
+  ],
+  "antonyms": [
+    "extraordinary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/everyday.mp3",
+  "local_sound_path": "sounds/everyday.mp3"
+}

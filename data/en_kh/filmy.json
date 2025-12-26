@@ -1,0 +1,33 @@
+{
+  "word": "filmy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28543.png",
+      "local_image_path": "images/28543.png"
+    }
+  ],
+  "synonyms": [
+    "transparent",
+    "translucent",
+    "diaphanous",
+    "gauzy",
+    "hazy",
+    "floating",
+    "light",
+    "airy",
+    "glossy",
+    "iridescent"
+  ],
+  "antonyms": [
+    "thick",
+    "heavy",
+    "solid"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/filmy.mp3",
+  "local_sound_path": "sounds/filmy.mp3"
+}

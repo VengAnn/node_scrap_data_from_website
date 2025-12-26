@@ -1,0 +1,44 @@
+{
+  "word": "obscurely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56948.png",
+      "local_image_path": "images/56948.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124815.png",
+      "local_image_path": "images/124815.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124816.png",
+      "local_image_path": "images/124816.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124817.png",
+      "local_image_path": "images/124817.png"
+    }
+  ],
+  "synonyms": [
+    "indistinctly",
+    "faintly",
+    "murkily",
+    "dimly"
+  ],
+  "antonyms": [
+    "intelligibly",
+    "clearly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obscurely.mp3",
+  "local_sound_path": "sounds/obscurely.mp3"
+}

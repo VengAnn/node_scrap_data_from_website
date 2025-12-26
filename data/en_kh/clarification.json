@@ -1,0 +1,38 @@
+{
+  "word": "clarification",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14808.png",
+      "local_image_path": "images/14808.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14809.png",
+      "local_image_path": "images/14809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116419.png",
+      "local_image_path": "images/116419.png"
+    }
+  ],
+  "synonyms": [
+    "explanation",
+    "amplification",
+    "illumination",
+    "elucidation",
+    "interpretation"
+  ],
+  "antonyms": [
+    "obfuscation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clarification.mp3",
+  "local_sound_path": "sounds/clarification.mp3"
+}

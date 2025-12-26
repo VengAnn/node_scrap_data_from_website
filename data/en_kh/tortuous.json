@@ -1,0 +1,49 @@
+{
+  "word": "tortuous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tortuous road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90322.png",
+      "local_image_path": "images/90322.png"
+    },
+    {
+      "pos": "adj",
+      "example": "tortuous reasoning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90323.png",
+      "local_image_path": "images/90323.png"
+    }
+  ],
+  "synonyms": [
+    "convoluted",
+    "circuitous",
+    "indirect",
+    "roundabout",
+    "complex",
+    "complicated",
+    "byzantine",
+    "involved",
+    "labyrinthine",
+    "devious",
+    "deceitful",
+    "crafty",
+    "sly",
+    "artful",
+    "dishonest",
+    "false"
+  ],
+  "antonyms": [
+    "straight",
+    "direct",
+    "simple",
+    "straightforward"
+  ],
+  "similar_words": [
+    "tortuously",
+    "tortuousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tortuous.mp3",
+  "local_sound_path": "sounds/tortuous.mp3"
+}

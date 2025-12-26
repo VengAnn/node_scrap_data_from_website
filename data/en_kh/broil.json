@@ -1,0 +1,55 @@
+{
+  "word": "broil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11348.png",
+      "local_image_path": "images/11348.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115688.png",
+      "local_image_path": "images/115688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115689.png",
+      "local_image_path": "images/115689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11347.png",
+      "local_image_path": "images/11347.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11349.png",
+      "local_image_path": "images/11349.png"
+    }
+  ],
+  "synonyms": [
+    "fight",
+    "brawl",
+    "clash",
+    "tussle",
+    "scuffle",
+    "scrap"
+  ],
+  "antonyms": [
+    "freeze"
+  ],
+  "similar_words": [
+    "broiler",
+    "broiling",
+    "broilingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/broil.mp3",
+  "local_sound_path": "sounds/broil.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "whip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "whip the troops into line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100033.png",
+      "local_image_path": "images/100033.png"
+    },
+    {
+      "pos": "n",
+      "example": "horse whip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100036.png",
+      "local_image_path": "images/100036.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100030.png",
+      "local_image_path": "images/100030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "whip a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100031.png",
+      "local_image_path": "images/100031.png"
+    },
+    {
+      "pos": "tv",
+      "example": "whip cream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100032.png",
+      "local_image_path": "images/100032.png"
+    },
+    {
+      "pos": "tv",
+      "example": "whip the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100034.png",
+      "local_image_path": "images/100034.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100035.png",
+      "local_image_path": "images/100035.png"
+    }
+  ],
+  "synonyms": [
+    "whisk",
+    "beat",
+    "cream",
+    "aerate",
+    "stir"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "whip-hand",
+    "whip-up",
+    "whiplash injury",
+    "whippable",
+    "whipper",
+    "whipper-snapper",
+    "whipperin",
+    "whippersnapper",
+    "whippet",
+    "whipping",
+    "whippy",
+    "whipround",
+    "whipsaw",
+    "whipster",
+    "whipworm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whip.mp3",
+  "local_sound_path": "sounds/whip.mp3"
+}

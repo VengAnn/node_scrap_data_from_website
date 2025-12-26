@@ -1,0 +1,43 @@
+{
+  "word": "immature",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37442.png",
+      "local_image_path": "images/37442.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121498.png",
+      "local_image_path": "images/121498.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121499.png",
+      "local_image_path": "images/121499.png"
+    }
+  ],
+  "synonyms": [
+    "childish",
+    "babyish",
+    "infantile",
+    "juvenile",
+    "adolescent",
+    "puerile"
+  ],
+  "antonyms": [
+    "mature",
+    "grown-up"
+  ],
+  "similar_words": [
+    "immaturely",
+    "immatureness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/immature.mp3",
+  "local_sound_path": "sounds/immature.mp3"
+}

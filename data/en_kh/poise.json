@@ -1,0 +1,63 @@
+{
+  "word": "poise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64626.png",
+      "local_image_path": "images/64626.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125674.png",
+      "local_image_path": "images/125674.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125675.png",
+      "local_image_path": "images/125675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64627.png",
+      "local_image_path": "images/64627.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125676.png",
+      "local_image_path": "images/125676.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125677.png",
+      "local_image_path": "images/125677.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125678.png",
+      "local_image_path": "images/125678.png"
+    }
+  ],
+  "synonyms": [
+    "hover",
+    "balance",
+    "float",
+    "perch",
+    "hang",
+    "suspend"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "poised"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poise.mp3",
+  "local_sound_path": "sounds/poise.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "flux",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "in a state of flux",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29360.png",
+      "local_image_path": "images/29360.png"
+    },
+    {
+      "pos": "n",
+      "example": "flux of the tide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29361.png",
+      "local_image_path": "images/29361.png"
+    },
+    {
+      "pos": "n",
+      "example": "soldering flux",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29362.png",
+      "local_image_path": "images/29362.png"
+    }
+  ],
+  "synonyms": [
+    "fluctuation",
+    "change",
+    "instability",
+    "unrest",
+    "fluidity",
+    "mutability"
+  ],
+  "antonyms": [
+    "stability"
+  ],
+  "similar_words": [
+    "fluxible",
+    "fluxion",
+    "fluxional",
+    "fluxionally",
+    "fluxionary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flux.mp3",
+  "local_sound_path": "sounds/flux.mp3"
+}

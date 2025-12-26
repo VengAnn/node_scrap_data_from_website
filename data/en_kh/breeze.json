@@ -1,0 +1,65 @@
+{
+  "word": "breeze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10961.png",
+      "local_image_path": "images/10961.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115597.png",
+      "local_image_path": "images/115597.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10960.png",
+      "local_image_path": "images/10960.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115598.png",
+      "local_image_path": "images/115598.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115599.png",
+      "local_image_path": "images/115599.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10959.png",
+      "local_image_path": "images/10959.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115600.png",
+      "local_image_path": "images/115600.png"
+    }
+  ],
+  "synonyms": [
+    "waft",
+    "gust",
+    "wind",
+    "draft",
+    "zephyr",
+    "draught"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "breeze way",
+    "breeze-block",
+    "breezeless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breeze.mp3",
+  "local_sound_path": "sounds/breeze.mp3"
+}

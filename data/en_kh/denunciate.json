@@ -1,0 +1,34 @@
+{
+  "word": "denunciate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20565.png",
+      "local_image_path": "images/20565.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118035.png",
+      "local_image_path": "images/118035.png"
+    }
+  ],
+  "synonyms": [
+    "condemn",
+    "criticize",
+    "accuse",
+    "censure",
+    "reprove",
+    "admonish",
+    "rebuke"
+  ],
+  "antonyms": [
+    "commend"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/denunciate.mp3",
+  "local_sound_path": "sounds/denunciate.mp3"
+}

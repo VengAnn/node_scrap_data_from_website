@@ -1,0 +1,39 @@
+{
+  "word": "examination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take an examination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26331.png",
+      "local_image_path": "images/26331.png"
+    },
+    {
+      "pos": "n",
+      "example": "medical examination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26332.png",
+      "local_image_path": "images/26332.png"
+    },
+    {
+      "pos": "n",
+      "example": "hand out an examination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26333.png",
+      "local_image_path": "images/26333.png"
+    }
+  ],
+  "synonyms": [
+    "inspection",
+    "check",
+    "scrutiny",
+    "investigation",
+    "test",
+    "assessment",
+    "exam",
+    "paper"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/examination.mp3",
+  "local_sound_path": "sounds/examination.mp3"
+}

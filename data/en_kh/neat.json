@@ -1,0 +1,75 @@
+{
+  "word": "neat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55155.png",
+      "local_image_path": "images/55155.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55156.png",
+      "local_image_path": "images/55156.png"
+    },
+    {
+      "pos": "adj",
+      "example": "neat description",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55157.png",
+      "local_image_path": "images/55157.png"
+    },
+    {
+      "pos": "adj",
+      "example": "neat whiskey",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55158.png",
+      "local_image_path": "images/55158.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130580.png",
+      "local_image_path": "images/130580.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130581.png",
+      "local_image_path": "images/130581.png"
+    }
+  ],
+  "synonyms": [
+    "straight",
+    "undiluted",
+    "unmixed",
+    "pure",
+    "clever",
+    "convenient",
+    "effective",
+    "elegant",
+    "precise",
+    "handy",
+    "useful",
+    "nifty",
+    "natty",
+    "simple",
+    "ingenious"
+  ],
+  "antonyms": [
+    "untidy",
+    "clumsy",
+    "cumbersome"
+  ],
+  "similar_words": [
+    "neaten",
+    "neath",
+    "neatherd",
+    "neatity",
+    "neatly",
+    "neatness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/neat.mp3",
+  "local_sound_path": "sounds/neat.mp3"
+}

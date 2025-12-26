@@ -1,0 +1,48 @@
+{
+  "word": "hunter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "lives as a hunter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36416.png",
+      "local_image_path": "images/36416.png"
+    },
+    {
+      "pos": "n",
+      "example": "the hound is a hunter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36417.png",
+      "local_image_path": "images/36417.png"
+    },
+    {
+      "pos": "n",
+      "example": "fortune funter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36418.png",
+      "local_image_path": "images/36418.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36419.png",
+      "local_image_path": "images/36419.png"
+    }
+  ],
+  "synonyms": [
+    "seeker",
+    "huntsman",
+    "predator",
+    "stalker",
+    "tracker",
+    "pursuer",
+    "chaser",
+    "killer",
+    "searcher"
+  ],
+  "antonyms": [
+    "prey"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hunter.mp3",
+  "local_sound_path": "sounds/hunter.mp3"
+}

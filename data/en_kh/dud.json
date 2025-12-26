@@ -1,0 +1,48 @@
+{
+  "word": "dud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bomb was a dud",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23334.png",
+      "local_image_path": "images/23334.png"
+    },
+    {
+      "pos": "n",
+      "example": "He proved a dud",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23335.png",
+      "local_image_path": "images/23335.png"
+    },
+    {
+      "pos": "pl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23336.png",
+      "local_image_path": "images/23336.png"
+    }
+  ],
+  "synonyms": [
+    "useless",
+    "worthless",
+    "ineffective",
+    "broken",
+    "failure",
+    "flop",
+    "fiasco",
+    "washout",
+    "disappointment"
+  ],
+  "antonyms": [
+    "success",
+    "usable",
+    "useable"
+  ],
+  "similar_words": [
+    "dudder",
+    "dude",
+    "dudgeon"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dud.mp3",
+  "local_sound_path": "sounds/dud.mp3"
+}

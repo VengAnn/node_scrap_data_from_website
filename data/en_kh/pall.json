@@ -1,0 +1,78 @@
+{
+  "word": "pall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59469.png",
+      "local_image_path": "images/59469.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59473.png",
+      "local_image_path": "images/59473.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59471.png",
+      "local_image_path": "images/59471.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59468.png",
+      "local_image_path": "images/59468.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59472.png",
+      "local_image_path": "images/59472.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59470.png",
+      "local_image_path": "images/59470.png"
+    }
+  ],
+  "synonyms": [
+    "cloud",
+    "blanket",
+    "shroud",
+    "fade",
+    "diminish",
+    "wither"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "palla",
+    "palladian",
+    "palladic",
+    "palladium",
+    "palladous",
+    "pallah",
+    "pallbear",
+    "pallbearer",
+    "palled",
+    "pallescence",
+    "pallescent",
+    "pallet",
+    "pallete",
+    "palliament",
+    "palliard",
+    "palliase",
+    "palliasse",
+    "palliate",
+    "palliation",
+    "palliative",
+    "palliatively",
+    "palliator"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pall.mp3",
+  "local_sound_path": "sounds/pall.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "slog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81352.png",
+      "local_image_path": "images/81352.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81351.png",
+      "local_image_path": "images/81351.png"
+    }
+  ],
+  "synonyms": [
+    "trudge",
+    "tramp",
+    "trek",
+    "hike",
+    "schlep",
+    "plod",
+    "labor",
+    "toil",
+    "struggle",
+    "grind",
+    "graft",
+    "work"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slogan",
+    "sloganize",
+    "sloganizer",
+    "slogger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slog.mp3",
+  "local_sound_path": "sounds/slog.mp3"
+}

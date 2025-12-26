@@ -1,0 +1,54 @@
+{
+  "word": "lush",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48160.png",
+      "local_image_path": "images/48160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48163.png",
+      "local_image_path": "images/48163.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48164.png",
+      "local_image_path": "images/48164.png"
+    }
+  ],
+  "synonyms": [
+    "luxurious",
+    "plush",
+    "lavish",
+    "opulent",
+    "swanky",
+    "sumptuous",
+    "deluxe",
+    "verdant",
+    "abundant",
+    "green",
+    "thriving",
+    "luxuriant",
+    "fertile",
+    "grassy",
+    "leafy",
+    "blooming"
+  ],
+  "antonyms": [
+    "arid"
+  ],
+  "similar_words": [
+    "lusher",
+    "lushly",
+    "lushness",
+    "lushy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lush.mp3",
+  "local_sound_path": "sounds/lush.mp3"
+}

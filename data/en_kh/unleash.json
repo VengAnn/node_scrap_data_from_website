@@ -1,0 +1,35 @@
+{
+  "word": "unleash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "To unleash a atomic weapon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94740.png",
+      "local_image_path": "images/94740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94738.png",
+      "local_image_path": "images/94738.png"
+    },
+    {
+      "pos": "tv",
+      "example": "unleash one's fury",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94739.png",
+      "local_image_path": "images/94739.png"
+    }
+  ],
+  "synonyms": [
+    "unbridle",
+    "release"
+  ],
+  "antonyms": [
+    "control"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unleash.mp3",
+  "local_sound_path": "sounds/unleash.mp3"
+}

@@ -1,0 +1,87 @@
+{
+  "word": "offer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57302.png",
+      "local_image_path": "images/57302.png"
+    },
+    {
+      "pos": "n",
+      "example": "offer of $10",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57303.png",
+      "local_image_path": "images/57303.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offer him money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57295.png",
+      "local_image_path": "images/57295.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offer sth (to sb)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57296.png",
+      "local_image_path": "images/57296.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offer to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57297.png",
+      "local_image_path": "images/57297.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57298.png",
+      "local_image_path": "images/57298.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offer sacrifices (to spirits)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57299.png",
+      "local_image_path": "images/57299.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offer a good view",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57300.png",
+      "local_image_path": "images/57300.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offer a house for sale",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57301.png",
+      "local_image_path": "images/57301.png"
+    }
+  ],
+  "synonyms": [
+    "proposal",
+    "suggestion",
+    "bid",
+    "proposition",
+    "bargain",
+    "agreement",
+    "compromise",
+    "deal",
+    "submission",
+    "present",
+    "tender",
+    "proffer"
+  ],
+  "antonyms": [
+    "withdraw"
+  ],
+  "similar_words": [
+    "offerable",
+    "offered price",
+    "offerer",
+    "offering",
+    "offertory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/offer.mp3",
+  "local_sound_path": "sounds/offer.mp3"
+}

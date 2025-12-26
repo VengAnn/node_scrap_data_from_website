@@ -1,0 +1,59 @@
+{
+  "word": "alarm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Everyone rushed out of the building in alarm whe he the fire started",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3234.png",
+      "local_image_path": "images/3234.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112350.png",
+      "local_image_path": "images/112350.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112351.png",
+      "local_image_path": "images/112351.png"
+    },
+    {
+      "pos": "tv",
+      "example": "give alarm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3235.png",
+      "local_image_path": "images/3235.png"
+    }
+  ],
+  "synonyms": [
+    "alarm clock",
+    "buzzer",
+    "frighten",
+    "terrify",
+    "panic",
+    "distress",
+    "startle",
+    "scare",
+    "worry",
+    "upset",
+    "shock"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [
+    "alarm clock",
+    "alarm cord",
+    "alarmable",
+    "alarmbell",
+    "alarmed",
+    "alarming",
+    "alarmingly",
+    "alarmist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alarm.mp3",
+  "local_sound_path": "sounds/alarm.mp3"
+}

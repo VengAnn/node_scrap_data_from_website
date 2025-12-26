@@ -1,0 +1,34 @@
+{
+  "word": "stimulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84804.png",
+      "local_image_path": "images/84804.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84805.png",
+      "local_image_path": "images/84805.png"
+    }
+  ],
+  "synonyms": [
+    "quicken",
+    "accelerate",
+    "increase",
+    "invigorate",
+    "promote",
+    "speed",
+    "intensify"
+  ],
+  "antonyms": [
+    "dampen"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stimulate.mp3",
+  "local_sound_path": "sounds/stimulate.mp3"
+}

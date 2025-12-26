@@ -1,0 +1,42 @@
+{
+  "word": "abjuration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1428.png",
+      "local_image_path": "images/1428.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111854.png",
+      "local_image_path": "images/111854.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111855.png",
+      "local_image_path": "images/111855.png"
+    }
+  ],
+  "synonyms": [
+    "renunciation",
+    "disavowal",
+    "rejection",
+    "denial",
+    "repudiation",
+    "abnegation",
+    "refrainment",
+    "avoidance",
+    "abstention"
+  ],
+  "antonyms": [
+    "affirmation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abjuration.mp3",
+  "local_sound_path": "sounds/abjuration.mp3"
+}

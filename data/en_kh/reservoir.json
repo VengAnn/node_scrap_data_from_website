@@ -1,0 +1,35 @@
+{
+  "word": "reservoir",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72660.png",
+      "local_image_path": "images/72660.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72658.png",
+      "local_image_path": "images/72658.png"
+    },
+    {
+      "pos": "n",
+      "example": "take reservoir",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72659.png",
+      "local_image_path": "images/72659.png"
+    }
+  ],
+  "synonyms": [
+    "tank",
+    "pool",
+    "basin",
+    "lake"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reservoir.mp3",
+  "local_sound_path": "sounds/reservoir.mp3"
+}

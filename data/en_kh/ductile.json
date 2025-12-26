@@ -1,0 +1,38 @@
+{
+  "word": "ductile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23328.png",
+      "local_image_path": "images/23328.png"
+    },
+    {
+      "pos": "adj",
+      "example": "ductile person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23329.png",
+      "local_image_path": "images/23329.png"
+    }
+  ],
+  "synonyms": [
+    "yielding",
+    "squashy",
+    "spongy",
+    "supple",
+    "pliable",
+    "elastic",
+    "malleable",
+    "flexible",
+    "limp",
+    "pliant",
+    "plastic"
+  ],
+  "antonyms": [
+    "hard"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ductile.mp3",
+  "local_sound_path": "sounds/ductile.mp3"
+}

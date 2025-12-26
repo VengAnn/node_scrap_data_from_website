@@ -1,0 +1,35 @@
+{
+  "word": "slang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80953.png",
+      "local_image_path": "images/80953.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80954.png",
+      "local_image_path": "images/80954.png"
+    }
+  ],
+  "synonyms": [
+    "jargon",
+    "vernacular",
+    "dialect",
+    "argot"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slangawhang",
+    "slanginess",
+    "slanging match",
+    "slangwhonger",
+    "slangy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slang.mp3",
+  "local_sound_path": "sounds/slang.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "surplus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86601.png",
+      "local_image_path": "images/86601.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131916.png",
+      "local_image_path": "images/131916.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131917.png",
+      "local_image_path": "images/131917.png"
+    },
+    {
+      "pos": "n",
+      "example": "Brazil had a surplus coffee last year.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86600.png",
+      "local_image_path": "images/86600.png"
+    }
+  ],
+  "synonyms": [
+    "excess",
+    "extra",
+    "spare",
+    "remainder",
+    "superfluity",
+    "overage",
+    "oversupply",
+    "surfeit",
+    "overflow",
+    "plethora",
+    "glut"
+  ],
+  "antonyms": [
+    "basic",
+    "essential",
+    "shortfall"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/surplus.mp3",
+  "local_sound_path": "sounds/surplus.mp3"
+}

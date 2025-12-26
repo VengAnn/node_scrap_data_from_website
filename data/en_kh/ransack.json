@@ -1,0 +1,38 @@
+{
+  "word": "ransack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70171.png",
+      "local_image_path": "images/70171.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Burglars ransack the stately home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70172.png",
+      "local_image_path": "images/70172.png"
+    }
+  ],
+  "synonyms": [
+    "loot",
+    "raid",
+    "plunder",
+    "pillage",
+    "ravage",
+    "search",
+    "rummage",
+    "scour",
+    "rake",
+    "comb"
+  ],
+  "antonyms": [
+    "guard",
+    "find"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ransack.mp3",
+  "local_sound_path": "sounds/ransack.mp3"
+}

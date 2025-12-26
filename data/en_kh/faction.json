@@ -1,0 +1,64 @@
+{
+  "word": "faction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "faction of a party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27306.png",
+      "local_image_path": "images/27306.png"
+    },
+    {
+      "pos": "n",
+      "example": "opposition faction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27307.png",
+      "local_image_path": "images/27307.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119813.png",
+      "local_image_path": "images/119813.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119814.png",
+      "local_image_path": "images/119814.png"
+    },
+    {
+      "pos": "suff",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27311.png",
+      "local_image_path": "images/27311.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "section",
+    "party",
+    "bloc",
+    "division",
+    "conflict",
+    "disunity",
+    "schism",
+    "disharmony",
+    "discord",
+    "strife",
+    "sectarianism",
+    "dissension",
+    "disagreement",
+    "contention"
+  ],
+  "antonyms": [
+    "agreement"
+  ],
+  "similar_words": [
+    "factional",
+    "factionalism",
+    "factionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/faction.mp3",
+  "local_sound_path": "sounds/faction.mp3"
+}

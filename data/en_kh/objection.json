@@ -1,0 +1,37 @@
+{
+  "word": "objection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Have no objection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56853.png",
+      "local_image_path": "images/56853.png"
+    }
+  ],
+  "synonyms": [
+    "opposition",
+    "protest",
+    "protestation",
+    "doubt",
+    "hostility",
+    "concern",
+    "problem",
+    "worry",
+    "difficulty",
+    "niggle"
+  ],
+  "antonyms": [
+    "approval",
+    "confidence"
+  ],
+  "similar_words": [
+    "objectionability",
+    "objectionable",
+    "objectionably",
+    "objectional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/objection.mp3",
+  "local_sound_path": "sounds/objection.mp3"
+}

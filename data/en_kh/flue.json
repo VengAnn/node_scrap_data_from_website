@@ -1,0 +1,36 @@
+{
+  "word": "flue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29289.png",
+      "local_image_path": "images/29289.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29290.png",
+      "local_image_path": "images/29290.png"
+    }
+  ],
+  "synonyms": [
+    "chimney",
+    "outlet",
+    "shaft",
+    "duct",
+    "tube",
+    "pipe",
+    "vent"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fluency",
+    "fluent",
+    "fluently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flue.mp3",
+  "local_sound_path": "sounds/flue.mp3"
+}

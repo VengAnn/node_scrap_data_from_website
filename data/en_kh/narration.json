@@ -1,0 +1,33 @@
+{
+  "word": "narration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "his narration of the events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54949.png",
+      "local_image_path": "images/54949.png"
+    },
+    {
+      "pos": "n",
+      "example": "interesting narration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54950.png",
+      "local_image_path": "images/54950.png"
+    },
+    {
+      "pos": "n",
+      "example": "do the narration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54951.png",
+      "local_image_path": "images/54951.png"
+    }
+  ],
+  "synonyms": [
+    "commentary",
+    "voice-over"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/narration.mp3",
+  "local_sound_path": "sounds/narration.mp3"
+}

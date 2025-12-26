@@ -1,0 +1,44 @@
+{
+  "word": "create",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Go created the world",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18469.png",
+      "local_image_path": "images/18469.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She really created because she wasn't served first",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18470.png",
+      "local_image_path": "images/18470.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130220.png",
+      "local_image_path": "images/130220.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130221.png",
+      "local_image_path": "images/130221.png"
+    }
+  ],
+  "synonyms": [
+    "establish",
+    "found",
+    "start",
+    "complain",
+    "cry"
+  ],
+  "antonyms": [
+    "destroy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/create.mp3",
+  "local_sound_path": "sounds/create.mp3"
+}

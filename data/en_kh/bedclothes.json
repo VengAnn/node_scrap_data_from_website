@@ -1,0 +1,42 @@
+{
+  "word": "bedclothes",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7981.png",
+      "local_image_path": "images/7981.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114798.png",
+      "local_image_path": "images/114798.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114799.png",
+      "local_image_path": "images/114799.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114800.png",
+      "local_image_path": "images/114800.png"
+    }
+  ],
+  "synonyms": [
+    "bedding",
+    "sheet",
+    "blanket",
+    "comforter",
+    "quilt"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bedclothes.mp3",
+  "local_sound_path": "sounds/bedclothes.mp3"
+}

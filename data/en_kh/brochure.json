@@ -1,0 +1,38 @@
+{
+  "word": "brochure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11315.png",
+      "local_image_path": "images/11315.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115680.png",
+      "local_image_path": "images/115680.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115681.png",
+      "local_image_path": "images/115681.png"
+    }
+  ],
+  "synonyms": [
+    "booklet",
+    "catalog",
+    "leaflet",
+    "pamphlet",
+    "catalogue",
+    "flier",
+    "flyer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brochure.mp3",
+  "local_sound_path": "sounds/brochure.mp3"
+}

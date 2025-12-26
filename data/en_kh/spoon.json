@@ -1,0 +1,42 @@
+{
+  "word": "spoon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83634.png",
+      "local_image_path": "images/83634.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83632.png",
+      "local_image_path": "images/83632.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83633.png",
+      "local_image_path": "images/83633.png"
+    }
+  ],
+  "synonyms": [
+    "serve",
+    "ladle",
+    "dollop"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "spoon feeding",
+    "spoon fish",
+    "spoonbill",
+    "spoonerism",
+    "spoonfeed",
+    "spoonful",
+    "spoony"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spoon.mp3",
+  "local_sound_path": "sounds/spoon.mp3"
+}

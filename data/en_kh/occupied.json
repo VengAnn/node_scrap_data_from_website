@@ -1,0 +1,30 @@
+{
+  "word": "occupied",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She is occupied with working in the office.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57105.png",
+      "local_image_path": "images/57105.png"
+    }
+  ],
+  "synonyms": [
+    "subject",
+    "engaged",
+    "absorbed",
+    "interested",
+    "amused",
+    "concerned",
+    "used"
+  ],
+  "antonyms": [
+    "free",
+    "empty",
+    "liberated"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/occupied.mp3",
+  "local_sound_path": "sounds/occupied.mp3"
+}

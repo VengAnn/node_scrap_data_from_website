@@ -1,0 +1,55 @@
+{
+  "word": "emergency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "You should only use this door in an emergency.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24557.png",
+      "local_image_path": "images/24557.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119078.png",
+      "local_image_path": "images/119078.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119079.png",
+      "local_image_path": "images/119079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119080.png",
+      "local_image_path": "images/119080.png"
+    }
+  ],
+  "synonyms": [
+    "crisis",
+    "disaster",
+    "tragedy",
+    "danger",
+    "trauma",
+    "predicament",
+    "difficulty"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "emergency aid",
+    "emergency brake",
+    "emergency certificate",
+    "emergency fund",
+    "emergency loan",
+    "emergency measure",
+    "emergency meeting",
+    "emergency power",
+    "emergency reserve",
+    "emergency service"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emergency.mp3",
+  "local_sound_path": "sounds/emergency.mp3"
+}

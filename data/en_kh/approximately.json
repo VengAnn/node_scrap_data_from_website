@@ -1,0 +1,27 @@
+{
+  "word": "approximately",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5186.png",
+      "local_image_path": "images/5186.png"
+    }
+  ],
+  "synonyms": [
+    "about",
+    "around",
+    "roughly",
+    "almost",
+    "nearly",
+    "circa"
+  ],
+  "antonyms": [
+    "exactly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/approximately.mp3",
+  "local_sound_path": "sounds/approximately.mp3"
+}

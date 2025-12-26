@@ -1,0 +1,46 @@
+{
+  "word": "tribe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "India tribe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91617.png",
+      "local_image_path": "images/91617.png"
+    },
+    {
+      "pos": "n",
+      "example": "tribe of ruffians",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91618.png",
+      "local_image_path": "images/91618.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91619.png",
+      "local_image_path": "images/91619.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91620.png",
+      "local_image_path": "images/91620.png"
+    }
+  ],
+  "synonyms": [
+    "family",
+    "clan",
+    "people",
+    "ethnic group",
+    "kinfolk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tribesman",
+    "tribespeople",
+    "tribeswoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tribe.mp3",
+  "local_sound_path": "sounds/tribe.mp3"
+}

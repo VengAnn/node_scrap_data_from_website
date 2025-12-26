@@ -1,0 +1,41 @@
+{
+  "word": "paragraph",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "There's a paragraph on the accident in the local paper.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59930.png",
+      "local_image_path": "images/59930.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59931.png",
+      "local_image_path": "images/59931.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59932.png",
+      "local_image_path": "images/59932.png"
+    }
+  ],
+  "synonyms": [
+    "article",
+    "piece",
+    "item",
+    "snippet",
+    "story",
+    "editorial",
+    "column"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "paragraphic",
+    "paragraphical"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/paragraph.mp3",
+  "local_sound_path": "sounds/paragraph.mp3"
+}

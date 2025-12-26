@@ -1,0 +1,50 @@
+{
+  "word": "enervate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24961.png",
+      "local_image_path": "images/24961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119195.png",
+      "local_image_path": "images/119195.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119196.png",
+      "local_image_path": "images/119196.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119197.png",
+      "local_image_path": "images/119197.png"
+    }
+  ],
+  "synonyms": [
+    "weaken",
+    "debilitate",
+    "drain",
+    "fatigue",
+    "exhaust",
+    "undermine",
+    "weary",
+    "deplete",
+    "devitalize",
+    "enfeeble",
+    "tire"
+  ],
+  "antonyms": [
+    "invigorate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enervate.mp3",
+  "local_sound_path": "sounds/enervate.mp3"
+}

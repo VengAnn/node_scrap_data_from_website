@@ -1,0 +1,41 @@
+{
+  "word": "criminal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "criminal law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18588.png",
+      "local_image_path": "images/18588.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18589.png",
+      "local_image_path": "images/18589.png"
+    }
+  ],
+  "synonyms": [
+    "offender",
+    "convict",
+    "prisoner",
+    "crook",
+    "felon",
+    "lawbreaker",
+    "delinquent",
+    "villain"
+  ],
+  "antonyms": [
+    "legal"
+  ],
+  "similar_words": [
+    "criminal forfeiture",
+    "criminal negligence",
+    "criminal passession",
+    "criminal record",
+    "criminally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/criminal.mp3",
+  "local_sound_path": "sounds/criminal.mp3"
+}

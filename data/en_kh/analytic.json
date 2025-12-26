@@ -1,0 +1,32 @@
+{
+  "word": "analytic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he has an analytic mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4084.png",
+      "local_image_path": "images/4084.png"
+    }
+  ],
+  "synonyms": [
+    "logical",
+    "investigative",
+    "diagnostic",
+    "systematic",
+    "critical",
+    "methodical",
+    "rational",
+    "analytical"
+  ],
+  "antonyms": [
+    "illogical"
+  ],
+  "similar_words": [
+    "analytical",
+    "analytically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/analytic.mp3",
+  "local_sound_path": "sounds/analytic.mp3"
+}

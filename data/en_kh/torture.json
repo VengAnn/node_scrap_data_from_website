@@ -1,0 +1,61 @@
+{
+  "word": "torture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90328.png",
+      "local_image_path": "images/90328.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90329.png",
+      "local_image_path": "images/90329.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128322.png",
+      "local_image_path": "images/128322.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90330.png",
+      "local_image_path": "images/90330.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128323.png",
+      "local_image_path": "images/128323.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128324.png",
+      "local_image_path": "images/128324.png"
+    }
+  ],
+  "synonyms": [
+    "agony",
+    "torment",
+    "anguish",
+    "pain",
+    "suffering",
+    "distress",
+    "cruelty",
+    "afflict",
+    "persecute",
+    "brutalize",
+    "punish",
+    "mistreat"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/torture.mp3",
+  "local_sound_path": "sounds/torture.mp3"
+}

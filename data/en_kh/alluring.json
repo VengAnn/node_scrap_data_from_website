@@ -1,0 +1,53 @@
+{
+  "word": "alluring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "an alluring smile",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3557.png",
+      "local_image_path": "images/3557.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112408.png",
+      "local_image_path": "images/112408.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112409.png",
+      "local_image_path": "images/112409.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112410.png",
+      "local_image_path": "images/112410.png"
+    }
+  ],
+  "synonyms": [
+    "appealing",
+    "attractive",
+    "tempting",
+    "interesting",
+    "fascinating",
+    "enthralling",
+    "charming",
+    "glamorous",
+    "captivating",
+    "charismatic",
+    "irresistible"
+  ],
+  "antonyms": [
+    "unappealing",
+    "repulsive"
+  ],
+  "similar_words": [
+    "alluringly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alluring.mp3",
+  "local_sound_path": "sounds/alluring.mp3"
+}

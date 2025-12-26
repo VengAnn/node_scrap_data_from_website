@@ -1,0 +1,29 @@
+{
+  "word": "aseptic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "aseptic dressing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5751.png",
+      "local_image_path": "images/5751.png"
+    }
+  ],
+  "synonyms": [
+    "sterile",
+    "sterilized",
+    "hygienic",
+    "clean",
+    "pure",
+    "antiseptic",
+    "uncontaminated",
+    "sanitized"
+  ],
+  "antonyms": [
+    "septic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aseptic.mp3",
+  "local_sound_path": "sounds/aseptic.mp3"
+}

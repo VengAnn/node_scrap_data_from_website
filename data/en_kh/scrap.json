@@ -1,0 +1,92 @@
+{
+  "word": "scrap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "scrap lumber",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77027.png",
+      "local_image_path": "images/77027.png"
+    },
+    {
+      "pos": "adj",
+      "example": "scrap car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77028.png",
+      "local_image_path": "images/77028.png"
+    },
+    {
+      "pos": "n",
+      "example": "scrap of paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77023.png",
+      "local_image_path": "images/77023.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77024.png",
+      "local_image_path": "images/77024.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77025.png",
+      "local_image_path": "images/77025.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77026.png",
+      "local_image_path": "images/77026.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77030.png",
+      "local_image_path": "images/77030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77029.png",
+      "local_image_path": "images/77029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77031.png",
+      "local_image_path": "images/77031.png"
+    }
+  ],
+  "synonyms": [
+    "fight",
+    "brawl",
+    "clash",
+    "scuffle",
+    "cancel",
+    "abandon",
+    "ditch",
+    "bin"
+  ],
+  "antonyms": [
+    "adopt",
+    "reconciliation"
+  ],
+  "similar_words": [
+    "scrap cake",
+    "scrap cheese",
+    "scrap-house",
+    "scrap-iron",
+    "scrap-yard",
+    "scrapbook",
+    "scrape",
+    "scrape-good",
+    "scrape-penny",
+    "scraper",
+    "scraper-board",
+    "scraper-heap",
+    "scraping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scrap.mp3",
+  "local_sound_path": "sounds/scrap.mp3"
+}

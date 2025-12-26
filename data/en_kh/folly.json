@@ -1,0 +1,37 @@
+{
+  "word": "folly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the folly of a course",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29532.png",
+      "local_image_path": "images/29532.png"
+    },
+    {
+      "pos": "n",
+      "example": "It was a great folly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29533.png",
+      "local_image_path": "images/29533.png"
+    }
+  ],
+  "synonyms": [
+    "foolishness",
+    "madness",
+    "stupidity",
+    "idiocy",
+    "silliness",
+    "craziness",
+    "recklessness",
+    "irrationality",
+    "foolhardiness",
+    "imprudence"
+  ],
+  "antonyms": [
+    "prudence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/folly.mp3",
+  "local_sound_path": "sounds/folly.mp3"
+}

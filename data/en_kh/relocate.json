@@ -1,0 +1,32 @@
+{
+  "word": "relocate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71949.png",
+      "local_image_path": "images/71949.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71950.png",
+      "local_image_path": "images/71950.png"
+    }
+  ],
+  "synonyms": [
+    "move",
+    "transfer",
+    "displace",
+    "shuffle",
+    "rearrange"
+  ],
+  "antonyms": [
+    "remain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relocate.mp3",
+  "local_sound_path": "sounds/relocate.mp3"
+}

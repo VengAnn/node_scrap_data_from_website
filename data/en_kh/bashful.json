@@ -1,0 +1,36 @@
+{
+  "word": "bashful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7634.png",
+      "local_image_path": "images/7634.png"
+    }
+  ],
+  "synonyms": [
+    "shy",
+    "coy",
+    "timid",
+    "reserved",
+    "retiring",
+    "self-conscious",
+    "withdrawn",
+    "modest",
+    "reticent",
+    "diffident",
+    "timorous"
+  ],
+  "antonyms": [
+    "forward",
+    "bold"
+  ],
+  "similar_words": [
+    "bashfully",
+    "bashfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bashful.mp3",
+  "local_sound_path": "sounds/bashful.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "apologetic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4970.png",
+      "local_image_path": "images/4970.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112581.png",
+      "local_image_path": "images/112581.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112582.png",
+      "local_image_path": "images/112582.png"
+    }
+  ],
+  "synonyms": [
+    "sorry",
+    "remorseful",
+    "contrite",
+    "repentant",
+    "rueful",
+    "diffident"
+  ],
+  "antonyms": [
+    "unrepentant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apologetic.mp3",
+  "local_sound_path": "sounds/apologetic.mp3"
+}

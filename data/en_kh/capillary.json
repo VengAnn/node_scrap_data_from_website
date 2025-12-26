@@ -1,0 +1,34 @@
+{
+  "word": "capillary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12798.png",
+      "local_image_path": "images/12798.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115949.png",
+      "local_image_path": "images/115949.png"
+    },
+    {
+      "pos": "n",
+      "example": "capillary tube",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12797.png",
+      "local_image_path": "images/12797.png"
+    }
+  ],
+  "synonyms": [
+    "tube",
+    "vessel",
+    "duct"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/capillary.mp3",
+  "local_sound_path": "sounds/capillary.mp3"
+}

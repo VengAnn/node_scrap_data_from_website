@@ -1,0 +1,33 @@
+{
+  "word": "autocracy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_text": "អត្តាធិបតេយ្យ"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114290.png",
+      "local_image_path": "images/114290.png"
+    }
+  ],
+  "synonyms": [
+    "dictatorship",
+    "monocracy",
+    "despotism",
+    "tyranny",
+    "absolutism",
+    "authoritarianism",
+    "totalitarianism"
+  ],
+  "antonyms": [
+    "democracy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/autocracy.mp3",
+  "local_sound_path": "sounds/autocracy.mp3"
+}

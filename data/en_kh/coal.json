@@ -1,0 +1,56 @@
+{
+  "word": "coal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "take someone over the coals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15263.png",
+      "local_image_path": "images/15263.png"
+    },
+    {
+      "pos": "idm",
+      "example": "haul over the coals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15264.png",
+      "local_image_path": "images/15264.png"
+    },
+    {
+      "pos": "iv",
+      "example": "coal up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15265.png",
+      "local_image_path": "images/15265.png"
+    },
+    {
+      "pos": "n",
+      "example": "burn coal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15262.png",
+      "local_image_path": "images/15262.png"
+    }
+  ],
+  "synonyms": [
+    "petroleum",
+    "firewood",
+    "oil",
+    "gas",
+    "energy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coal hole",
+    "coal mine",
+    "coal miner",
+    "coal-field",
+    "coal-man",
+    "coal-pit",
+    "coal-tar",
+    "coal-works",
+    "coalesce",
+    "coalescence",
+    "coalise",
+    "coalition",
+    "coalize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coal.mp3",
+  "local_sound_path": "sounds/coal.mp3"
+}

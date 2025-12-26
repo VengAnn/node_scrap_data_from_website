@@ -1,0 +1,34 @@
+{
+  "word": "watertight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "watertight boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99390.png",
+      "local_image_path": "images/99390.png"
+    },
+    {
+      "pos": "fig",
+      "example": "watertight alibi",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99391.png",
+      "local_image_path": "images/99391.png"
+    }
+  ],
+  "synonyms": [
+    "incontrovertible",
+    "unassailable",
+    "sound",
+    "firm",
+    "irrefutable",
+    "indisputable"
+  ],
+  "antonyms": [
+    "permeable",
+    "weak"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/watertight.mp3",
+  "local_sound_path": "sounds/watertight.mp3"
+}

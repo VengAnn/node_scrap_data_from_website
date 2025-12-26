@@ -1,0 +1,56 @@
+{
+  "word": "conscious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Patient is conscious",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16937.png",
+      "local_image_path": "images/16937.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117291.png",
+      "local_image_path": "images/117291.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117292.png",
+      "local_image_path": "images/117292.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117293.png",
+      "local_image_path": "images/117293.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132250.png",
+      "local_image_path": "images/132250.png"
+    }
+  ],
+  "synonyms": [
+    "deliberate",
+    "intentional",
+    "premeditated",
+    "willful",
+    "determined",
+    "considered"
+  ],
+  "antonyms": [
+    "unaware",
+    "unconscious",
+    "unintentional"
+  ],
+  "similar_words": [
+    "consciously",
+    "consciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conscious.mp3",
+  "local_sound_path": "sounds/conscious.mp3"
+}

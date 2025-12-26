@@ -1,0 +1,67 @@
+{
+  "word": "strong",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "strong man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85483.png",
+      "local_image_path": "images/85483.png"
+    },
+    {
+      "pos": "adj",
+      "example": "strong in math",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85484.png",
+      "local_image_path": "images/85484.png"
+    },
+    {
+      "pos": "adj",
+      "example": "strong argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85485.png",
+      "local_image_path": "images/85485.png"
+    },
+    {
+      "pos": "adj",
+      "example": "strong drink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85486.png",
+      "local_image_path": "images/85486.png"
+    }
+  ],
+  "synonyms": [
+    "keen",
+    "stanch",
+    "firm",
+    "fanatical",
+    "zealous",
+    "eager",
+    "staunch"
+  ],
+  "antonyms": [
+    "weak",
+    "fragile",
+    "faint",
+    "dim",
+    "insipid",
+    "indifferent"
+  ],
+  "similar_words": [
+    "strong box",
+    "strong man",
+    "strong room",
+    "strong water",
+    "strong-arm",
+    "strong-drink",
+    "strong-hand",
+    "strong-headed",
+    "strong-headedness",
+    "strong-minded",
+    "stronghold",
+    "strongish",
+    "strongly",
+    "strongtianite",
+    "strongyle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strong.mp3",
+  "local_sound_path": "sounds/strong.mp3"
+}

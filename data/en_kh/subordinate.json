@@ -1,0 +1,52 @@
+{
+  "word": "subordinate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "subordinate position",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85810.png",
+      "local_image_path": "images/85810.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subordinate consideration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85811.png",
+      "local_image_path": "images/85811.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subordinate clause",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85812.png",
+      "local_image_path": "images/85812.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85813.png",
+      "local_image_path": "images/85813.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85814.png",
+      "local_image_path": "images/85814.png"
+    }
+  ],
+  "synonyms": [
+    "assistant",
+    "junior",
+    "underling",
+    "minion",
+    "dependent",
+    "attendant"
+  ],
+  "antonyms": [
+    "main",
+    "boss"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subordinate.mp3",
+  "local_sound_path": "sounds/subordinate.mp3"
+}

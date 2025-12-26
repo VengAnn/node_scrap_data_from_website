@@ -1,0 +1,75 @@
+{
+  "word": "follow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "you lead I will follow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29522.png",
+      "local_image_path": "images/29522.png"
+    },
+    {
+      "pos": "iv",
+      "example": "It doesn't follow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29523.png",
+      "local_image_path": "images/29523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "follow a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29515.png",
+      "local_image_path": "images/29515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "follow a path",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29516.png",
+      "local_image_path": "images/29516.png"
+    },
+    {
+      "pos": "tv",
+      "example": "follow rules",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29517.png",
+      "local_image_path": "images/29517.png"
+    },
+    {
+      "pos": "tv",
+      "example": "follow a religion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29518.png",
+      "local_image_path": "images/29518.png"
+    },
+    {
+      "pos": "tv",
+      "example": "days follow nights",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29519.png",
+      "local_image_path": "images/29519.png"
+    },
+    {
+      "pos": "tv",
+      "example": "follow his argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29520.png",
+      "local_image_path": "images/29520.png"
+    },
+    {
+      "pos": "tv",
+      "example": "follow the sea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29521.png",
+      "local_image_path": "images/29521.png"
+    }
+  ],
+  "synonyms": [
+    "admire"
+  ],
+  "antonyms": [
+    "precede",
+    "break"
+  ],
+  "similar_words": [
+    "follow-up",
+    "follower",
+    "following"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/follow.mp3",
+  "local_sound_path": "sounds/follow.mp3"
+}

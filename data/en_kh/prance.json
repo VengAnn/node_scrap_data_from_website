@@ -1,0 +1,45 @@
+{
+  "word": "prance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65841.png",
+      "local_image_path": "images/65841.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65840.png",
+      "local_image_path": "images/65840.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65843.png",
+      "local_image_path": "images/65843.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65842.png",
+      "local_image_path": "images/65842.png"
+    }
+  ],
+  "synonyms": [
+    "strut",
+    "flounce",
+    "cavort",
+    "frolic",
+    "swan",
+    "sashay",
+    "parade",
+    "swagger"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prance.mp3",
+  "local_sound_path": "sounds/prance.mp3"
+}

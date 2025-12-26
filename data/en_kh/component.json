@@ -1,0 +1,39 @@
+{
+  "word": "component",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16287.png",
+      "local_image_path": "images/16287.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16286.png",
+      "local_image_path": "images/16286.png"
+    }
+  ],
+  "synonyms": [
+    "part",
+    "constituent",
+    "module",
+    "section",
+    "factor",
+    "element",
+    "piece",
+    "cog"
+  ],
+  "antonyms": [
+    "whole"
+  ],
+  "similar_words": [
+    "componential",
+    "componentise",
+    "componentize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/component.mp3",
+  "local_sound_path": "sounds/component.mp3"
+}

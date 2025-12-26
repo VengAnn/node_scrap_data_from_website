@@ -1,0 +1,58 @@
+{
+  "word": "clack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "heels clack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14736.png",
+      "local_image_path": "images/14736.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116385.png",
+      "local_image_path": "images/116385.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116386.png",
+      "local_image_path": "images/116386.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116387.png",
+      "local_image_path": "images/116387.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14737.png",
+      "local_image_path": "images/14737.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clack the heels",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14738.png",
+      "local_image_path": "images/14738.png"
+    }
+  ],
+  "synonyms": [
+    "clap",
+    "snap",
+    "click",
+    "crack",
+    "report",
+    "bang",
+    "rap",
+    "smack",
+    "clatter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clack.mp3",
+  "local_sound_path": "sounds/clack.mp3"
+}

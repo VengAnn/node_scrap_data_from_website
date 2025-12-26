@@ -1,0 +1,30 @@
+{
+  "word": "coordinator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17608.png",
+      "local_image_path": "images/17608.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17610.png",
+      "local_image_path": "images/17610.png"
+    }
+  ],
+  "synonyms": [
+    "manager",
+    "director",
+    "planner",
+    "controller",
+    "arranger"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coordinator.mp3",
+  "local_sound_path": "sounds/coordinator.mp3"
+}

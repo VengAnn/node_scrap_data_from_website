@@ -1,0 +1,43 @@
+{
+  "word": "marriage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "contemplate marriage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106426.png",
+      "local_image_path": "images/106426.png"
+    },
+    {
+      "pos": "n",
+      "example": "good marriage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106427.png",
+      "local_image_path": "images/106427.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106428.png",
+      "local_image_path": "images/106428.png"
+    }
+  ],
+  "synonyms": [
+    "wedding",
+    "matrimony",
+    "nuptials"
+  ],
+  "antonyms": [
+    "divorce"
+  ],
+  "similar_words": [
+    "marriage bureau",
+    "marriage feast",
+    "marriage-bed",
+    "marriageability",
+    "marriageable",
+    "marriageableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/marriage.mp3",
+  "local_sound_path": "sounds/marriage.mp3"
+}

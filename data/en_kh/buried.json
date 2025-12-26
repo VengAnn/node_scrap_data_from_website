@@ -1,0 +1,33 @@
+{
+  "word": "buried",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word bury",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111696.png",
+      "local_image_path": "images/111696.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131055.png",
+      "local_image_path": "images/131055.png"
+    }
+  ],
+  "synonyms": [
+    "hidden",
+    "covered",
+    "masked",
+    "submerged"
+  ],
+  "antonyms": [
+    "exposed",
+    "overt",
+    "unearthed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buried.mp3",
+  "local_sound_path": "sounds/buried.mp3"
+}

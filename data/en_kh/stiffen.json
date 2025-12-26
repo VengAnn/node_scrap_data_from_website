@@ -1,0 +1,50 @@
+{
+  "word": "stiffen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84756.png",
+      "local_image_path": "images/84756.png"
+    },
+    {
+      "pos": "iv",
+      "example": "winds stiffen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84757.png",
+      "local_image_path": "images/84757.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stiffen jelly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84758.png",
+      "local_image_path": "images/84758.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stiffen joints",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84759.png",
+      "local_image_path": "images/84759.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stiffen competition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84760.png",
+      "local_image_path": "images/84760.png"
+    }
+  ],
+  "synonyms": [
+    "strengthen",
+    "reinforce",
+    "toughen",
+    "brace"
+  ],
+  "antonyms": [
+    "soften",
+    "weaken"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stiffen.mp3",
+  "local_sound_path": "sounds/stiffen.mp3"
+}

@@ -1,0 +1,105 @@
+{
+  "word": "smack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81560.png",
+      "local_image_path": "images/81560.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The medicine smacks of sulphur",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81566.png",
+      "local_image_path": "images/81566.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81567.png",
+      "local_image_path": "images/81567.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81561.png",
+      "local_image_path": "images/81561.png"
+    },
+    {
+      "pos": "n",
+      "example": "a smack in the eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81562.png",
+      "local_image_path": "images/81562.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81563.png",
+      "local_image_path": "images/81563.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81564.png",
+      "local_image_path": "images/81564.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81565.png",
+      "local_image_path": "images/81565.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81568.png",
+      "local_image_path": "images/81568.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81569.png",
+      "local_image_path": "images/81569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smack his face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81558.png",
+      "local_image_path": "images/81558.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smack one's lips",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81559.png",
+      "local_image_path": "images/81559.png"
+    },
+    {
+      "pos": "v",
+      "example": "smack sb up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81570.png",
+      "local_image_path": "images/81570.png"
+    }
+  ],
+  "synonyms": [
+    "slap",
+    "blow",
+    "clout",
+    "punch",
+    "cuff",
+    "spank",
+    "hit",
+    "strike",
+    "whack"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "smack-smooth",
+    "smacker",
+    "smacking",
+    "smacksman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/smack.mp3",
+  "local_sound_path": "sounds/smack.mp3"
+}

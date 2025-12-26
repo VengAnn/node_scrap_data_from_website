@@ -1,0 +1,36 @@
+{
+  "word": "ahead",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he is up ahead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3063.png",
+      "local_image_path": "images/3063.png"
+    },
+    {
+      "pos": "adv",
+      "example": "go ahead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3064.png",
+      "local_image_path": "images/3064.png"
+    }
+  ],
+  "synonyms": [
+    "early",
+    "prematurely",
+    "upfront",
+    "beforehand",
+    "up front",
+    "ahead of"
+  ],
+  "antonyms": [
+    "behind",
+    "ago",
+    "late",
+    "slow"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ahead.mp3",
+  "local_sound_path": "sounds/ahead.mp3"
+}

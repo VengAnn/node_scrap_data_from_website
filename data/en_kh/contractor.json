@@ -1,0 +1,36 @@
+{
+  "word": "contractor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17338.png",
+      "local_image_path": "images/17338.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117461.png",
+      "local_image_path": "images/117461.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117462.png",
+      "local_image_path": "images/117462.png"
+    }
+  ],
+  "synonyms": [
+    "outworker",
+    "freelancer",
+    "supplier",
+    "worker",
+    "independent"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contractor.mp3",
+  "local_sound_path": "sounds/contractor.mp3"
+}

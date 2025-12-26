@@ -1,0 +1,44 @@
+{
+  "word": "dressing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "salad dressing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23118.png",
+      "local_image_path": "images/23118.png"
+    },
+    {
+      "pos": "n",
+      "example": "apply a dressing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23119.png",
+      "local_image_path": "images/23119.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23120.png",
+      "local_image_path": "images/23120.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118799.png",
+      "local_image_path": "images/118799.png"
+    }
+  ],
+  "synonyms": [
+    "vinaigrette",
+    "salad dressing",
+    "trimming"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dressing table",
+    "dressing-gown",
+    "dressing-room"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dressing.mp3",
+  "local_sound_path": "sounds/dressing.mp3"
+}

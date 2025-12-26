@@ -1,0 +1,77 @@
+{
+  "word": "toll",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89948.png",
+      "local_image_path": "images/89948.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89949.png",
+      "local_image_path": "images/89949.png"
+    },
+    {
+      "pos": "n",
+      "example": "bridge toll",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89950.png",
+      "local_image_path": "images/89950.png"
+    },
+    {
+      "pos": "n",
+      "example": "toll of lives",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89951.png",
+      "local_image_path": "images/89951.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89952.png",
+      "local_image_path": "images/89952.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89947.png",
+      "local_image_path": "images/89947.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89953.png",
+      "local_image_path": "images/89953.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130962.png",
+      "local_image_path": "images/130962.png"
+    }
+  ],
+  "synonyms": [
+    "ring",
+    "peal",
+    "ding",
+    "ding-dong"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "toll call",
+    "toll collector",
+    "toll line",
+    "toll-book",
+    "toll-free",
+    "toll-gatherer",
+    "toll-house",
+    "tollbooth",
+    "toller",
+    "tollgate",
+    "tollman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/toll.mp3",
+  "local_sound_path": "sounds/toll.mp3"
+}

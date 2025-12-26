@@ -1,0 +1,58 @@
+{
+  "word": "digest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21331.png",
+      "local_image_path": "images/21331.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21332.png",
+      "local_image_path": "images/21332.png"
+    },
+    {
+      "pos": "tv",
+      "example": "digest food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21329.png",
+      "local_image_path": "images/21329.png"
+    },
+    {
+      "pos": "tv",
+      "example": "digest facts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21330.png",
+      "local_image_path": "images/21330.png"
+    }
+  ],
+  "synonyms": [
+    "publication",
+    "journal",
+    "magazine",
+    "periodical",
+    "book",
+    "tome",
+    "volume",
+    "assimilate",
+    "absorb",
+    "grasp",
+    "process",
+    "take in"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "digestibility",
+    "digestible",
+    "digestibly",
+    "digestion",
+    "digestive",
+    "digestive system"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/digest.mp3",
+  "local_sound_path": "sounds/digest.mp3"
+}

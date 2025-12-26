@@ -1,0 +1,51 @@
+{
+  "word": "gamble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "gamble on horses",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30927.png",
+      "local_image_path": "images/30927.png"
+    },
+    {
+      "pos": "iv",
+      "example": "he likes to gamble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30928.png",
+      "local_image_path": "images/30928.png"
+    },
+    {
+      "pos": "iv",
+      "example": "gamble with one's life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30929.png",
+      "local_image_path": "images/30929.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30931.png",
+      "local_image_path": "images/30931.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30930.png",
+      "local_image_path": "images/30930.png"
+    }
+  ],
+  "synonyms": [
+    "bet",
+    "wager",
+    "stake",
+    "risk",
+    "venture",
+    "hazard",
+    "chance",
+    "speculate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gamble.mp3",
+  "local_sound_path": "sounds/gamble.mp3"
+}

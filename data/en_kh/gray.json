@@ -1,0 +1,66 @@
+{
+  "word": "gray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gray suit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32742.png",
+      "local_image_path": "images/32742.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gray skies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32743.png",
+      "local_image_path": "images/32743.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gray head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32744.png",
+      "local_image_path": "images/32744.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32745.png",
+      "local_image_path": "images/32745.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32747.png",
+      "local_image_path": "images/32747.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32746.png",
+      "local_image_path": "images/32746.png"
+    }
+  ],
+  "synonyms": [
+    "overcast",
+    "cloudy",
+    "foggy",
+    "dreary",
+    "dull",
+    "bleak"
+  ],
+  "antonyms": [
+    "youthful",
+    "bright",
+    "sunny"
+  ],
+  "similar_words": [
+    "gray-headed",
+    "gray-mare",
+    "graybeard",
+    "grayish",
+    "grayling",
+    "grayness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gray.mp3",
+  "local_sound_path": "sounds/gray.mp3"
+}

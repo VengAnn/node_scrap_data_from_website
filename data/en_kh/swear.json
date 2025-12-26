@@ -1,0 +1,58 @@
+{
+  "word": "swear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He swore to tell the truth.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86771.png",
+      "local_image_path": "images/86771.png"
+    },
+    {
+      "pos": "iv",
+      "example": "swear loudly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86772.png",
+      "local_image_path": "images/86772.png"
+    },
+    {
+      "pos": "iv",
+      "example": "swear at a dog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86773.png",
+      "local_image_path": "images/86773.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swear allegiance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86774.png",
+      "local_image_path": "images/86774.png"
+    }
+  ],
+  "synonyms": [
+    "insist",
+    "maintain",
+    "claim",
+    "declare",
+    "assert",
+    "vow",
+    "pledge",
+    "promise",
+    "avow",
+    "affirm",
+    "guarantee",
+    "undertake",
+    "attest",
+    "aver"
+  ],
+  "antonyms": [
+    "bless"
+  ],
+  "similar_words": [
+    "swear-in",
+    "swear-word",
+    "swearer",
+    "swearing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swear.mp3",
+  "local_sound_path": "sounds/swear.mp3"
+}

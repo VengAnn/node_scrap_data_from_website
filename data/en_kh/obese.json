@@ -1,0 +1,29 @@
+{
+  "word": "obese",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56833.png",
+      "local_image_path": "images/56833.png"
+    }
+  ],
+  "synonyms": [
+    "fat",
+    "overweight",
+    "heavy",
+    "stout",
+    "plump",
+    "large",
+    "corpulent",
+    "chunky"
+  ],
+  "antonyms": [
+    "underweight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obese.mp3",
+  "local_sound_path": "sounds/obese.mp3"
+}

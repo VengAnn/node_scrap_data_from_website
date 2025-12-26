@@ -1,0 +1,48 @@
+{
+  "word": "advise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "if you don't feel well, I advise you to stay in bed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2600.png",
+      "local_image_path": "images/2600.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113340.png",
+      "local_image_path": "images/113340.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113341.png",
+      "local_image_path": "images/113341.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113342.png",
+      "local_image_path": "images/113342.png"
+    }
+  ],
+  "synonyms": [
+    "inform",
+    "tell",
+    "notify",
+    "instruct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "advised",
+    "advisedly",
+    "advisedness",
+    "advisee",
+    "advisement",
+    "adviser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advise.mp3",
+  "local_sound_path": "sounds/advise.mp3"
+}

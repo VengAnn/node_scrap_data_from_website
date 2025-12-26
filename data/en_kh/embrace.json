@@ -1,0 +1,53 @@
+{
+  "word": "embrace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24497.png",
+      "local_image_path": "images/24497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24498.png",
+      "local_image_path": "images/24498.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They embraced (each other) warmly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24495.png",
+      "local_image_path": "images/24495.png"
+    },
+    {
+      "pos": "tv",
+      "example": "embrace a religion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24496.png",
+      "local_image_path": "images/24496.png"
+    }
+  ],
+  "synonyms": [
+    "include",
+    "contain",
+    "comprise",
+    "incorporate",
+    "involve",
+    "accept",
+    "welcome",
+    "adopt",
+    "support"
+  ],
+  "antonyms": [
+    "reject",
+    "exclude"
+  ],
+  "similar_words": [
+    "embracement",
+    "embracer",
+    "embracery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embrace.mp3",
+  "local_sound_path": "sounds/embrace.mp3"
+}

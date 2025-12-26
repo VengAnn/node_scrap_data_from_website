@@ -1,0 +1,33 @@
+{
+  "word": "accurately",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1954.png",
+      "local_image_path": "images/1954.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113158.png",
+      "local_image_path": "images/113158.png"
+    }
+  ],
+  "synonyms": [
+    "precisely",
+    "exactly",
+    "correctly",
+    "truthfully",
+    "truly",
+    "perfectly"
+  ],
+  "antonyms": [
+    "inaccurately"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accurately.mp3",
+  "local_sound_path": "sounds/accurately.mp3"
+}

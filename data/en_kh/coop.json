@@ -1,0 +1,47 @@
+{
+  "word": "coop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "chicken coop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17577.png",
+      "local_image_path": "images/17577.png"
+    },
+    {
+      "pos": "tv",
+      "example": "coop chickens",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17578.png",
+      "local_image_path": "images/17578.png"
+    }
+  ],
+  "synonyms": [
+    "collective",
+    "cooperative"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cooped up",
+    "cooper",
+    "cooperage",
+    "cooperate",
+    "cooperation",
+    "cooperationist",
+    "cooperative",
+    "cooperative advertising",
+    "cooperative process",
+    "cooperative societies",
+    "cooperative trade",
+    "cooperatively",
+    "cooperativeness",
+    "cooperator",
+    "coopt",
+    "cooptation",
+    "cooptative",
+    "cooption",
+    "cooptive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coop.mp3",
+  "local_sound_path": "sounds/coop.mp3"
+}

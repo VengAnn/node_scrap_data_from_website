@@ -1,0 +1,37 @@
+{
+  "word": "status",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "status in society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84447.png",
+      "local_image_path": "images/84447.png"
+    },
+    {
+      "pos": "n",
+      "example": "status of the case",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84448.png",
+      "local_image_path": "images/84448.png"
+    }
+  ],
+  "synonyms": [
+    "eminence",
+    "prominence",
+    "importance",
+    "significance",
+    "repute",
+    "reputation",
+    "category",
+    "condition",
+    "class",
+    "type",
+    "stage",
+    "level"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/status.mp3",
+  "local_sound_path": "sounds/status.mp3"
+}

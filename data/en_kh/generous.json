@@ -1,0 +1,39 @@
+{
+  "word": "generous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "generous man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31400.png",
+      "local_image_path": "images/31400.png"
+    },
+    {
+      "pos": "adj",
+      "example": "generous supply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31401.png",
+      "local_image_path": "images/31401.png"
+    }
+  ],
+  "synonyms": [
+    "kind",
+    "liberal",
+    "munificent",
+    "giving",
+    "charitable",
+    "big-hearted",
+    "open-handed"
+  ],
+  "antonyms": [
+    "meager",
+    "mean",
+    "stingy"
+  ],
+  "similar_words": [
+    "generously",
+    "generousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/generous.mp3",
+  "local_sound_path": "sounds/generous.mp3"
+}

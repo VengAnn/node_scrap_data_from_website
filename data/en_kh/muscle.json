@@ -1,0 +1,38 @@
+{
+  "word": "muscle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111131.png",
+      "local_image_path": "images/111131.png"
+    },
+    {
+      "pos": "n",
+      "example": "strain a muscle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111129.png",
+      "local_image_path": "images/111129.png"
+    },
+    {
+      "pos": "n",
+      "example": "military muscle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111130.png",
+      "local_image_path": "images/111130.png"
+    }
+  ],
+  "synonyms": [
+    "power",
+    "influence",
+    "force",
+    "strength",
+    "might",
+    "weight",
+    "sway"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/muscle.mp3",
+  "local_sound_path": "sounds/muscle.mp3"
+}

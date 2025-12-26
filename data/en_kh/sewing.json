@@ -1,0 +1,32 @@
+{
+  "word": "sewing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She does sewing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78534.png",
+      "local_image_path": "images/78534.png"
+    }
+  ],
+  "synonyms": [
+    "embroidery",
+    "tapestry",
+    "needlework",
+    "hemming",
+    "darning",
+    "basting",
+    "seaming"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sewing press",
+    "sewing silk",
+    "sewing-machine",
+    "sewing-needle",
+    "sewing-thread"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sewing.mp3",
+  "local_sound_path": "sounds/sewing.mp3"
+}

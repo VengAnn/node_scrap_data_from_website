@@ -1,0 +1,73 @@
+{
+  "word": "feel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "I really feel for her when her husband died.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28020.png",
+      "local_image_path": "images/28020.png"
+    },
+    {
+      "pos": "iv",
+      "example": "feel cold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28019.png",
+      "local_image_path": "images/28019.png"
+    },
+    {
+      "pos": "n",
+      "example": "feel of wool",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28021.png",
+      "local_image_path": "images/28021.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can you feel the bump on my head?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28015.png",
+      "local_image_path": "images/28015.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We all felt the earthquake tremors.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28016.png",
+      "local_image_path": "images/28016.png"
+    },
+    {
+      "pos": "tv",
+      "example": "feel happiness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28017.png",
+      "local_image_path": "images/28017.png"
+    },
+    {
+      "pos": "tv",
+      "example": "feel that it is true",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28018.png",
+      "local_image_path": "images/28018.png"
+    }
+  ],
+  "synonyms": [
+    "atmosphere",
+    "air",
+    "feeling",
+    "ambiance",
+    "impression",
+    "think",
+    "believe",
+    "consider",
+    "deem",
+    "suspect",
+    "comprehend",
+    "understand",
+    "know"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "feelbad factor",
+    "feeler",
+    "feeling",
+    "feelingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/feel.mp3",
+  "local_sound_path": "sounds/feel.mp3"
+}

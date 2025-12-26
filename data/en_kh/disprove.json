@@ -1,0 +1,27 @@
+{
+  "word": "disprove",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The allegations have been completely disproved.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22100.png",
+      "local_image_path": "images/22100.png"
+    }
+  ],
+  "synonyms": [
+    "refute",
+    "invalidate",
+    "contradict",
+    "negate",
+    "controvert",
+    "challenge"
+  ],
+  "antonyms": [
+    "prove"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disprove.mp3",
+  "local_sound_path": "sounds/disprove.mp3"
+}

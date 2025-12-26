@@ -1,0 +1,55 @@
+{
+  "word": "will",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "aux",
+      "example": "He will go tomorrow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100332.png",
+      "local_image_path": "images/100332.png"
+    },
+    {
+      "pos": "n",
+      "example": "strong will",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100333.png",
+      "local_image_path": "images/100333.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132101.png",
+      "local_image_path": "images/132101.png"
+    }
+  ],
+  "synonyms": [
+    "want",
+    "wish",
+    "desire",
+    "pray",
+    "yearn",
+    "long"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "will power",
+    "will-less",
+    "will-worship",
+    "willed",
+    "willemite",
+    "willet",
+    "willful",
+    "willies",
+    "willing",
+    "willingly",
+    "willingness",
+    "williwaw",
+    "willock",
+    "willow",
+    "willy",
+    "willy-goat",
+    "willy-nilly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/will.mp3",
+  "local_sound_path": "sounds/will.mp3"
+}

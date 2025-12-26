@@ -1,0 +1,38 @@
+{
+  "word": "advisable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "advisable to go immediately",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2596.png",
+      "local_image_path": "images/2596.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112009.png",
+      "local_image_path": "images/112009.png"
+    }
+  ],
+  "synonyms": [
+    "sensible",
+    "wise",
+    "prudent",
+    "worthwhile",
+    "desirable",
+    "suitable",
+    "logical",
+    "sagacious",
+    "judicious"
+  ],
+  "antonyms": [
+    "unwise"
+  ],
+  "similar_words": [
+    "advisableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advisable.mp3",
+  "local_sound_path": "sounds/advisable.mp3"
+}

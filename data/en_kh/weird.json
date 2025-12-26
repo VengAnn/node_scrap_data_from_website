@@ -1,0 +1,40 @@
+{
+  "word": "weird",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99686.png",
+      "local_image_path": "images/99686.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99687.png",
+      "local_image_path": "images/99687.png"
+    }
+  ],
+  "synonyms": [
+    "strange",
+    "odd",
+    "bizarre",
+    "peculiar",
+    "uncanny",
+    "eerie",
+    "creepy",
+    "unusual"
+  ],
+  "antonyms": [
+    "normal"
+  ],
+  "similar_words": [
+    "weirdish",
+    "weirdly",
+    "weirdness",
+    "weirdo"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weird.mp3",
+  "local_sound_path": "sounds/weird.mp3"
+}

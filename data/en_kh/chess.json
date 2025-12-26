@@ -1,0 +1,33 @@
+{
+  "word": "chess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14107.png",
+      "local_image_path": "images/14107.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14108.png",
+      "local_image_path": "images/14108.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14109.png",
+      "local_image_path": "images/14109.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "chessboard",
+    "chessman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chess.mp3",
+  "local_sound_path": "sounds/chess.mp3"
+}

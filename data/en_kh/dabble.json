@@ -1,0 +1,32 @@
+{
+  "word": "dabble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "to dabble one's hands in the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19469.png",
+      "local_image_path": "images/19469.png"
+    },
+    {
+      "pos": "iv",
+      "example": "dabble in politics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19470.png",
+      "local_image_path": "images/19470.png"
+    }
+  ],
+  "synonyms": [
+    "experiment",
+    "dip",
+    "paddle",
+    "splash",
+    "immerse"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dabbler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dabble.mp3",
+  "local_sound_path": "sounds/dabble.mp3"
+}

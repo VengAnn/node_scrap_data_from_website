@@ -1,0 +1,37 @@
+{
+  "word": "dodgy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22571.png",
+      "local_image_path": "images/22571.png"
+    }
+  ],
+  "synonyms": [
+    "dishonest",
+    "unprincipled",
+    "corrupt",
+    "crooked",
+    "immoral",
+    "deceitful",
+    "devious",
+    "ruthless",
+    "defective",
+    "iffy",
+    "unreliable",
+    "faulty"
+  ],
+  "antonyms": [
+    "principled",
+    "reliable",
+    "safe",
+    "above-board",
+    "sound"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dodgy.mp3",
+  "local_sound_path": "sounds/dodgy.mp3"
+}

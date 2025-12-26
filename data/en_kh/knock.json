@@ -1,0 +1,77 @@
+{
+  "word": "knock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "knees knock together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44144.png",
+      "local_image_path": "images/44144.png"
+    },
+    {
+      "pos": "n",
+      "example": "hear a knock at the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44145.png",
+      "local_image_path": "images/44145.png"
+    },
+    {
+      "pos": "n",
+      "example": "suffer the knock of life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44146.png",
+      "local_image_path": "images/44146.png"
+    },
+    {
+      "pos": "tv",
+      "example": "knock heads together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44140.png",
+      "local_image_path": "images/44140.png"
+    },
+    {
+      "pos": "tv",
+      "example": "knock a ball away",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44141.png",
+      "local_image_path": "images/44141.png"
+    },
+    {
+      "pos": "tv",
+      "example": "don't knock it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44142.png",
+      "local_image_path": "images/44142.png"
+    },
+    {
+      "pos": "tv",
+      "example": "knock on the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44143.png",
+      "local_image_path": "images/44143.png"
+    }
+  ],
+  "synonyms": [
+    "criticize",
+    "slam",
+    "disparage",
+    "condemn",
+    "censure",
+    "belittle",
+    "deprecate",
+    "abuse"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "knock-about",
+    "knock-knee",
+    "knock-kneed",
+    "knockdown",
+    "knockdown-dragout",
+    "knocker",
+    "knocker-up",
+    "knockers",
+    "knocking",
+    "knockoff",
+    "knockout"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/knock.mp3",
+  "local_sound_path": "sounds/knock.mp3"
+}

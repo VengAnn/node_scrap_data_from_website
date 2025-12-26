@@ -1,0 +1,44 @@
+{
+  "word": "breadth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10831.png",
+      "local_image_path": "images/10831.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10832.png",
+      "local_image_path": "images/10832.png"
+    }
+  ],
+  "synonyms": [
+    "latitude",
+    "room",
+    "freedom",
+    "space",
+    "permission",
+    "leeway",
+    "width",
+    "span",
+    "wideness",
+    "extent",
+    "size",
+    "girth"
+  ],
+  "antonyms": [
+    "length",
+    "restriction",
+    "depth"
+  ],
+  "similar_words": [
+    "breadth ways",
+    "breadthwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breadth.mp3",
+  "local_sound_path": "sounds/breadth.mp3"
+}

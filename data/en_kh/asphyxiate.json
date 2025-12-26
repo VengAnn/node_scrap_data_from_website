@@ -1,0 +1,33 @@
+{
+  "word": "asphyxiate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5825.png",
+      "local_image_path": "images/5825.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5824.png",
+      "local_image_path": "images/5824.png"
+    }
+  ],
+  "synonyms": [
+    "suffocate",
+    "smother",
+    "choke",
+    "stifle",
+    "strangulate",
+    "throttle"
+  ],
+  "antonyms": [
+    "breathe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/asphyxiate.mp3",
+  "local_sound_path": "sounds/asphyxiate.mp3"
+}

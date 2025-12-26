@@ -1,0 +1,27 @@
+{
+  "word": "dashboard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19686.png",
+      "local_image_path": "images/19686.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130225.png",
+      "local_image_path": "images/130225.png"
+    }
+  ],
+  "synonyms": [
+    "console",
+    "dash"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dashboard.mp3",
+  "local_sound_path": "sounds/dashboard.mp3"
+}

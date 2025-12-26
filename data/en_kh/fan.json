@@ -1,0 +1,75 @@
+{
+  "word": "fan",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a soccer fan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131757.png",
+      "local_image_path": "images/131757.png"
+    },
+    {
+      "pos": "n",
+      "example": "paper fan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27560.png",
+      "local_image_path": "images/27560.png"
+    },
+    {
+      "pos": "n",
+      "example": "electric fan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27561.png",
+      "local_image_path": "images/27561.png"
+    },
+    {
+      "pos": "n",
+      "example": "peacock fan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27562.png",
+      "local_image_path": "images/27562.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27564.png",
+      "local_image_path": "images/27564.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fan a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27563.png",
+      "local_image_path": "images/27563.png"
+    }
+  ],
+  "synonyms": [
+    "stimulate",
+    "provoke",
+    "increase",
+    "fuel",
+    "encourage",
+    "generate",
+    "incite",
+    "foment",
+    "ferment",
+    "agitate",
+    "aggravate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fanal",
+    "fanam",
+    "fanatic",
+    "fanatical",
+    "fanatically",
+    "fanaticalness",
+    "fanaticise",
+    "fanaticism",
+    "fanaticize",
+    "fancier",
+    "fanciful",
+    "fancifully",
+    "fancifulness",
+    "fancy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fan.mp3",
+  "local_sound_path": "sounds/fan.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "word": "shame",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "feel shame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78752.png",
+      "local_image_path": "images/78752.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78753.png",
+      "local_image_path": "images/78753.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127721.png",
+      "local_image_path": "images/127721.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127722.png",
+      "local_image_path": "images/127722.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shame one's family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78754.png",
+      "local_image_path": "images/78754.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shame him into doing it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78755.png",
+      "local_image_path": "images/78755.png"
+    }
+  ],
+  "synonyms": [
+    "discredit",
+    "disgrace",
+    "dishonor",
+    "degrade",
+    "defame",
+    "embarrass",
+    "humiliate",
+    "mortify"
+  ],
+  "antonyms": [
+    "pride",
+    "honor"
+  ],
+  "similar_words": [
+    "shamefaced",
+    "shamefacedly",
+    "shamefacedness",
+    "shamefast",
+    "shamefastly",
+    "shamefastness",
+    "shameful",
+    "shamefully",
+    "shamefulness",
+    "shameless",
+    "shamelessly",
+    "shamelessness",
+    "shameproff"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shame.mp3",
+  "local_sound_path": "sounds/shame.mp3"
+}

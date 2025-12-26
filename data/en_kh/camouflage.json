@@ -1,0 +1,51 @@
+{
+  "word": "camouflage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12550.png",
+      "local_image_path": "images/12550.png"
+    },
+    {
+      "pos": "v",
+      "example": "the soldiers camouflaged themselves with leaves and branches",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12549.png",
+      "local_image_path": "images/12549.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115881.png",
+      "local_image_path": "images/115881.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115882.png",
+      "local_image_path": "images/115882.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115883.png",
+      "local_image_path": "images/115883.png"
+    }
+  ],
+  "synonyms": [
+    "concealment",
+    "disguise",
+    "cover-up",
+    "facade",
+    "mask",
+    "hide",
+    "conceal",
+    "obscure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/camouflage.mp3",
+  "local_sound_path": "sounds/camouflage.mp3"
+}

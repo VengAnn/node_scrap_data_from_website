@@ -1,0 +1,42 @@
+{
+  "word": "abolition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1490.png",
+      "local_image_path": "images/1490.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1489.png",
+      "local_image_path": "images/1489.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111842.png",
+      "local_image_path": "images/111842.png"
+    }
+  ],
+  "synonyms": [
+    "elimination",
+    "ending",
+    "eradication",
+    "closure",
+    "obliteration"
+  ],
+  "antonyms": [
+    "establishment"
+  ],
+  "similar_words": [
+    "abolitionism",
+    "abolitionist",
+    "abolitionize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abolition.mp3",
+  "local_sound_path": "sounds/abolition.mp3"
+}

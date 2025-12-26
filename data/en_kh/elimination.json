@@ -1,0 +1,47 @@
+{
+  "word": "elimination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "elimination of problems",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24315.png",
+      "local_image_path": "images/24315.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131488.png",
+      "local_image_path": "images/131488.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131489.png",
+      "local_image_path": "images/131489.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131490.png",
+      "local_image_path": "images/131490.png"
+    }
+  ],
+  "synonyms": [
+    "removal",
+    "abolition",
+    "purging",
+    "exclusion",
+    "eradication",
+    "riddance",
+    "rejection",
+    "dismissal"
+  ],
+  "antonyms": [
+    "preservation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elimination.mp3",
+  "local_sound_path": "sounds/elimination.mp3"
+}

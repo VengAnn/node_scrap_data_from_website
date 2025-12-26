@@ -1,0 +1,41 @@
+{
+  "word": "sell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "This car model sells well every year.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77999.png",
+      "local_image_path": "images/77999.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I want to sell my computer soon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77998.png",
+      "local_image_path": "images/77998.png"
+    }
+  ],
+  "synonyms": [
+    "market",
+    "promote",
+    "push",
+    "plug",
+    "advertise",
+    "shift",
+    "flog"
+  ],
+  "antonyms": [
+    "buy",
+    "denounce"
+  ],
+  "similar_words": [
+    "sell-out",
+    "seller",
+    "selling",
+    "selling price",
+    "sellotape"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sell.mp3",
+  "local_sound_path": "sounds/sell.mp3"
+}

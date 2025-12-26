@@ -1,0 +1,30 @@
+{
+  "word": "ablate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "geol",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1438.png",
+      "local_image_path": "images/1438.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1439.png",
+      "local_image_path": "images/1439.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1437.png",
+      "local_image_path": "images/1437.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ablate.mp3",
+  "local_sound_path": "sounds/ablate.mp3"
+}

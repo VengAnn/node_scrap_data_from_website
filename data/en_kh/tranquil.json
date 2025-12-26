@@ -1,0 +1,41 @@
+{
+  "word": "tranquil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tranquil scene",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90900.png",
+      "local_image_path": "images/90900.png"
+    }
+  ],
+  "synonyms": [
+    "composed",
+    "calm",
+    "cool",
+    "unruffled",
+    "unperturbed",
+    "self-possessed",
+    "relaxed",
+    "laid-back",
+    "unworried",
+    "placid",
+    "serene"
+  ],
+  "antonyms": [
+    "noisy",
+    "agitated"
+  ],
+  "similar_words": [
+    "tranquility",
+    "tranquilization",
+    "tranquilize",
+    "tranquilizer",
+    "tranquillity",
+    "tranquilly",
+    "tranquilness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tranquil.mp3",
+  "local_sound_path": "sounds/tranquil.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "commence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "shall we commence the ceremony?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15967.png",
+      "local_image_path": "images/15967.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116769.png",
+      "local_image_path": "images/116769.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116770.png",
+      "local_image_path": "images/116770.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116771.png",
+      "local_image_path": "images/116771.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116772.png",
+      "local_image_path": "images/116772.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116773.png",
+      "local_image_path": "images/116773.png"
+    }
+  ],
+  "synonyms": [
+    "begin",
+    "start",
+    "originate",
+    "inaugurate",
+    "instigate",
+    "initiate",
+    "launch",
+    "embark"
+  ],
+  "antonyms": [
+    "terminate"
+  ],
+  "similar_words": [
+    "commencement",
+    "commencer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/commence.mp3",
+  "local_sound_path": "sounds/commence.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "contradiction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17350.png",
+      "local_image_path": "images/17350.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117463.png",
+      "local_image_path": "images/117463.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117464.png",
+      "local_image_path": "images/117464.png"
+    }
+  ],
+  "synonyms": [
+    "inconsistency",
+    "incongruity",
+    "ambiguity",
+    "paradox",
+    "conflict",
+    "denial",
+    "disputation",
+    "disagreement",
+    "challenge",
+    "negation",
+    "opposition",
+    "refutation"
+  ],
+  "antonyms": [
+    "agreement",
+    "confirmation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contradiction.mp3",
+  "local_sound_path": "sounds/contradiction.mp3"
+}

@@ -1,0 +1,73 @@
+{
+  "word": "drill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "agri",
+      "example": "drill corn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23148.png",
+      "local_image_path": "images/23148.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23150.png",
+      "local_image_path": "images/23150.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental drill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23151.png",
+      "local_image_path": "images/23151.png"
+    },
+    {
+      "pos": "n",
+      "example": "corn drill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23152.png",
+      "local_image_path": "images/23152.png"
+    },
+    {
+      "pos": "n",
+      "example": "military drill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23153.png",
+      "local_image_path": "images/23153.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23154.png",
+      "local_image_path": "images/23154.png"
+    },
+    {
+      "pos": "sl",
+      "example": "drill a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23147.png",
+      "local_image_path": "images/23147.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drill a hole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23146.png",
+      "local_image_path": "images/23146.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drill troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23149.png",
+      "local_image_path": "images/23149.png"
+    }
+  ],
+  "synonyms": [
+    "train",
+    "coach",
+    "school",
+    "discipline",
+    "instruct",
+    "teach"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drill.mp3",
+  "local_sound_path": "sounds/drill.mp3"
+}

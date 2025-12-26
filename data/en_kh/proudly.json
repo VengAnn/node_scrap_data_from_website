@@ -1,0 +1,31 @@
+{
+  "word": "proudly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68177.png",
+      "local_image_path": "images/68177.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126173.png",
+      "local_image_path": "images/126173.png"
+    }
+  ],
+  "synonyms": [
+    "arrogantly",
+    "conceitedly",
+    "smugly",
+    "pompously"
+  ],
+  "antonyms": [
+    "humbly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proudly.mp3",
+  "local_sound_path": "sounds/proudly.mp3"
+}

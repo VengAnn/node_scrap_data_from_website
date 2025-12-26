@@ -1,0 +1,28 @@
+{
+  "word": "sender",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78080.png",
+      "local_image_path": "images/78080.png"
+    }
+  ],
+  "synonyms": [
+    "dispatcher",
+    "correspondent",
+    "contributor",
+    "source",
+    "writer",
+    "transmitter",
+    "disseminator"
+  ],
+  "antonyms": [
+    "recipient"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sender.mp3",
+  "local_sound_path": "sounds/sender.mp3"
+}

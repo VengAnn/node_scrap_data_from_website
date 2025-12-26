@@ -1,0 +1,38 @@
+{
+  "word": "privileged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67120.png",
+      "local_image_path": "images/67120.png"
+    },
+    {
+      "pos": "adj",
+      "example": "This information is privileged",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67121.png",
+      "local_image_path": "images/67121.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126036.png",
+      "local_image_path": "images/126036.png"
+    }
+  ],
+  "synonyms": [
+    "confidential",
+    "private",
+    "restricted",
+    "limited",
+    "favored"
+  ],
+  "antonyms": [
+    "public"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/privileged.mp3",
+  "local_sound_path": "sounds/privileged.mp3"
+}

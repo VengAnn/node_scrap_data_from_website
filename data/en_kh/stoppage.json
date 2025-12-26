@@ -1,0 +1,29 @@
+{
+  "word": "stoppage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "work stoppage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85030.png",
+      "local_image_path": "images/85030.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85031.png",
+      "local_image_path": "images/85031.png"
+    }
+  ],
+  "synonyms": [
+    "blockage",
+    "obstruction",
+    "obstacle",
+    "barrier"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stoppage.mp3",
+  "local_sound_path": "sounds/stoppage.mp3"
+}

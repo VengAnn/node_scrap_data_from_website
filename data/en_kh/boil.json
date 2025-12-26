@@ -1,0 +1,61 @@
+{
+  "word": "boil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the kettle is boiling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9978.png",
+      "local_image_path": "images/9978.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131367.png",
+      "local_image_path": "images/131367.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9980.png",
+      "local_image_path": "images/9980.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9981.png",
+      "local_image_path": "images/9981.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please boil my egg three minutes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9979.png",
+      "local_image_path": "images/9979.png"
+    }
+  ],
+  "synonyms": [
+    "ulcer",
+    "sore",
+    "carbuncle",
+    "spot",
+    "swelling",
+    "cyst",
+    "rage",
+    "fume",
+    "seethe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "boiler",
+    "boiler-room",
+    "boilerplate",
+    "boiling",
+    "boiling point",
+    "boiling water",
+    "boilmaker",
+    "boiloff"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boil.mp3",
+  "local_sound_path": "sounds/boil.mp3"
+}

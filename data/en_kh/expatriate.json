@@ -1,0 +1,33 @@
+{
+  "word": "expatriate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26740.png",
+      "local_image_path": "images/26740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26739.png",
+      "local_image_path": "images/26739.png"
+    }
+  ],
+  "synonyms": [
+    "�migr�",
+    "emigrant",
+    "deportee",
+    "refugee",
+    "colonial",
+    "exile"
+  ],
+  "antonyms": [
+    "native"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expatriate.mp3",
+  "local_sound_path": "sounds/expatriate.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "downbeat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22893.png",
+      "local_image_path": "images/22893.png"
+    }
+  ],
+  "synonyms": [
+    "gloomy",
+    "low",
+    "pessimistic",
+    "unpromising",
+    "depressing",
+    "negative",
+    "dark",
+    "bleak"
+  ],
+  "antonyms": [
+    "upbeat",
+    "hopeful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/downbeat.mp3",
+  "local_sound_path": "sounds/downbeat.mp3"
+}

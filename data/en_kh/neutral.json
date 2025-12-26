@@ -1,0 +1,51 @@
+{
+  "word": "neutral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "neutral country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55564.png",
+      "local_image_path": "images/55564.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55565.png",
+      "local_image_path": "images/55565.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124613.png",
+      "local_image_path": "images/124613.png"
+    }
+  ],
+  "synonyms": [
+    "pale",
+    "drab",
+    "indistinct",
+    "indeterminate",
+    "wishy-washy",
+    "colorless"
+  ],
+  "antonyms": [
+    "biased",
+    "strong",
+    "bright",
+    "colorful"
+  ],
+  "similar_words": [
+    "neutralism",
+    "neutralist",
+    "neutrality",
+    "neutralization",
+    "neutralize",
+    "neutralized state",
+    "neutralizer",
+    "neutrally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/neutral.mp3",
+  "local_sound_path": "sounds/neutral.mp3"
+}

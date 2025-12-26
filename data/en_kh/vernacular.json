@@ -1,0 +1,47 @@
+{
+  "word": "vernacular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The vernacular newspaper in India.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97697.png",
+      "local_image_path": "images/97697.png"
+    },
+    {
+      "pos": "n",
+      "example": "local vernacular",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97695.png",
+      "local_image_path": "images/97695.png"
+    },
+    {
+      "pos": "n",
+      "example": "business vernacular",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97696.png",
+      "local_image_path": "images/97696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129722.png",
+      "local_image_path": "images/129722.png"
+    }
+  ],
+  "synonyms": [
+    "dialect",
+    "language",
+    "lingo",
+    "argot",
+    "lingua franca",
+    "patois"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "vernacularism",
+    "vernacularity",
+    "vernacularly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vernacular.mp3",
+  "local_sound_path": "sounds/vernacular.mp3"
+}

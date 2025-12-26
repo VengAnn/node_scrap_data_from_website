@@ -1,0 +1,38 @@
+{
+  "word": "ascension",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5724.png",
+      "local_image_path": "images/5724.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114064.png",
+      "local_image_path": "images/114064.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114065.png",
+      "local_image_path": "images/114065.png"
+    }
+  ],
+  "synonyms": [
+    "rise",
+    "ascent",
+    "mounting",
+    "climb",
+    "scaling"
+  ],
+  "antonyms": [
+    "descent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ascension.mp3",
+  "local_sound_path": "sounds/ascension.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "vomit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98591.png",
+      "local_image_path": "images/98591.png"
+    },
+    {
+      "pos": "v",
+      "example": "He vomitted everything he had eaten.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98589.png",
+      "local_image_path": "images/98589.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98590.png",
+      "local_image_path": "images/98590.png"
+    }
+  ],
+  "synonyms": [
+    "heave",
+    "gag",
+    "expel",
+    "eject",
+    "ejaculate",
+    "emit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "vomit flame",
+    "vomition",
+    "vomitive",
+    "vomitorium",
+    "vomitory",
+    "vomiturition"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vomit.mp3",
+  "local_sound_path": "sounds/vomit.mp3"
+}

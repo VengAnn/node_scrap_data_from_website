@@ -1,0 +1,67 @@
+{
+  "word": "film",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28536.png",
+      "local_image_path": "images/28536.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy film",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28531.png",
+      "local_image_path": "images/28531.png"
+    },
+    {
+      "pos": "n",
+      "example": "see a film",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28532.png",
+      "local_image_path": "images/28532.png"
+    },
+    {
+      "pos": "n",
+      "example": "fill over the surface",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28533.png",
+      "local_image_path": "images/28533.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fill a news event",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28534.png",
+      "local_image_path": "images/28534.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fill milk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28535.png",
+      "local_image_path": "images/28535.png"
+    }
+  ],
+  "synonyms": [
+    "record",
+    "video",
+    "tape",
+    "shoot",
+    "capture",
+    "take",
+    "image"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "film theatre",
+    "filmdom",
+    "filmgoer",
+    "filmic",
+    "filmily",
+    "filminess",
+    "filmmaker",
+    "filmmaking",
+    "filmography",
+    "filmy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/film.mp3",
+  "local_sound_path": "sounds/film.mp3"
+}

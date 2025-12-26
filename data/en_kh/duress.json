@@ -1,0 +1,28 @@
+{
+  "word": "duress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sign under duress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23479.png",
+      "local_image_path": "images/23479.png"
+    }
+  ],
+  "synonyms": [
+    "pressure",
+    "force",
+    "threat",
+    "coercion",
+    "compulsion",
+    "constraint",
+    "persuasion"
+  ],
+  "antonyms": [
+    "persuasion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duress.mp3",
+  "local_sound_path": "sounds/duress.mp3"
+}

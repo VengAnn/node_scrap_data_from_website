@@ -1,0 +1,64 @@
+{
+  "word": "rejoin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71794.png",
+      "local_image_path": "images/71794.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rejoin the broken pieces",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71795.png",
+      "local_image_path": "images/71795.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71796.png",
+      "local_image_path": "images/71796.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126744.png",
+      "local_image_path": "images/126744.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126745.png",
+      "local_image_path": "images/126745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126746.png",
+      "local_image_path": "images/126746.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126747.png",
+      "local_image_path": "images/126747.png"
+    }
+  ],
+  "synonyms": [
+    "reply",
+    "answer",
+    "respond",
+    "retort",
+    "return"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rejoinder",
+    "rejoindure",
+    "rejoint"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rejoin.mp3",
+  "local_sound_path": "sounds/rejoin.mp3"
+}

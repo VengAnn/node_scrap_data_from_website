@@ -1,0 +1,38 @@
+{
+  "word": "yap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101385.png",
+      "local_image_path": "images/101385.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101386.png",
+      "local_image_path": "images/101386.png"
+    }
+  ],
+  "synonyms": [
+    "yelp",
+    "bark",
+    "yammer",
+    "chatter",
+    "chat",
+    "talk",
+    "blab",
+    "gossip",
+    "burble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "yapok",
+    "yapon",
+    "yapping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yap.mp3",
+  "local_sound_path": "sounds/yap.mp3"
+}

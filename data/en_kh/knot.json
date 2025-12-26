@@ -1,0 +1,75 @@
+{
+  "word": "knot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "strings knot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44169.png",
+      "local_image_path": "images/44169.png"
+    },
+    {
+      "pos": "iv",
+      "example": "trees knot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44170.png",
+      "local_image_path": "images/44170.png"
+    },
+    {
+      "pos": "n",
+      "example": "tie a knot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44164.png",
+      "local_image_path": "images/44164.png"
+    },
+    {
+      "pos": "n",
+      "example": "knot on a log",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44165.png",
+      "local_image_path": "images/44165.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44166.png",
+      "local_image_path": "images/44166.png"
+    },
+    {
+      "pos": "tv",
+      "example": "knot a rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44167.png",
+      "local_image_path": "images/44167.png"
+    },
+    {
+      "pos": "tv",
+      "example": "knot one's muscles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44168.png",
+      "local_image_path": "images/44168.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "cluster",
+    "huddle",
+    "clutch",
+    "bunch",
+    "band",
+    "circle",
+    "collection",
+    "gathering",
+    "crowd",
+    "join",
+    "tie",
+    "bind",
+    "tether",
+    "secure"
+  ],
+  "antonyms": [
+    "untie"
+  ],
+  "similar_words": [
+    "knotted",
+    "knotty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/knot.mp3",
+  "local_sound_path": "sounds/knot.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "word": "detention",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20983.png",
+      "local_image_path": "images/20983.png"
+    }
+  ],
+  "synonyms": [
+    "custody",
+    "imprisonment",
+    "confinement",
+    "arrest",
+    "incarceration"
+  ],
+  "antonyms": [
+    "release"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detention.mp3",
+  "local_sound_path": "sounds/detention.mp3"
+}

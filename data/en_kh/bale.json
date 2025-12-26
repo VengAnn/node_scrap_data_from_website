@@ -1,0 +1,50 @@
+{
+  "word": "bale",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7170.png",
+      "local_image_path": "images/7170.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7171.png",
+      "local_image_path": "images/7171.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114465.png",
+      "local_image_path": "images/114465.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114466.png",
+      "local_image_path": "images/114466.png"
+    }
+  ],
+  "synonyms": [
+    "bundle",
+    "package",
+    "pack",
+    "roll",
+    "block"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bale-fire",
+    "baleen",
+    "baleful",
+    "balefully",
+    "balefulness",
+    "baleless",
+    "baleys"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bale.mp3",
+  "local_sound_path": "sounds/bale.mp3"
+}

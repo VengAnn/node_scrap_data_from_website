@@ -1,0 +1,50 @@
+{
+  "word": "hover",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hilicopters hover",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36178.png",
+      "local_image_path": "images/36178.png"
+    },
+    {
+      "pos": "iv",
+      "example": "mothers hover over a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36179.png",
+      "local_image_path": "images/36179.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36180.png",
+      "local_image_path": "images/36180.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36181.png",
+      "local_image_path": "images/36181.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36182.png",
+      "local_image_path": "images/36182.png"
+    }
+  ],
+  "synonyms": [
+    "linger",
+    "wait",
+    "remain",
+    "loiter"
+  ],
+  "antonyms": [
+    "descend",
+    "leave"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hover.mp3",
+  "local_sound_path": "sounds/hover.mp3"
+}

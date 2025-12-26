@@ -1,0 +1,101 @@
+{
+  "word": "kill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43858.png",
+      "local_image_path": "images/43858.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43854.png",
+      "local_image_path": "images/43854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "kill grass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43855.png",
+      "local_image_path": "images/43855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "kill the motor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43856.png",
+      "local_image_path": "images/43856.png"
+    },
+    {
+      "pos": "tv",
+      "example": "kill his hopes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43857.png",
+      "local_image_path": "images/43857.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123275.png",
+      "local_image_path": "images/123275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123276.png",
+      "local_image_path": "images/123276.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123277.png",
+      "local_image_path": "images/123277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123278.png",
+      "local_image_path": "images/123278.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123279.png",
+      "local_image_path": "images/123279.png"
+    }
+  ],
+  "synonyms": [
+    "slay",
+    "murder",
+    "slaughter",
+    "execute",
+    "destroy",
+    "exterminate",
+    "eradicate",
+    "assassinate",
+    "massacre",
+    "dispatch"
+  ],
+  "antonyms": [
+    "revive"
+  ],
+  "similar_words": [
+    "kill-courtesy",
+    "killabar",
+    "killable",
+    "killadar",
+    "killbuck",
+    "killcrop",
+    "killdeer",
+    "killer",
+    "killer whale",
+    "killick",
+    "killifish",
+    "killing",
+    "killing field",
+    "killingly",
+    "killjoy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/kill.mp3",
+  "local_sound_path": "sounds/kill.mp3"
+}

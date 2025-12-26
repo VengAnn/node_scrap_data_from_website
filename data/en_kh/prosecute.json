@@ -1,0 +1,48 @@
+{
+  "word": "prosecute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67924.png",
+      "local_image_path": "images/67924.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67925.png",
+      "local_image_path": "images/67925.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67926.png",
+      "local_image_path": "images/67926.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126131.png",
+      "local_image_path": "images/126131.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126132.png",
+      "local_image_path": "images/126132.png"
+    }
+  ],
+  "synonyms": [
+    "impeach",
+    "arraign",
+    "indict",
+    "accuse",
+    "sue"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prosecute.mp3",
+  "local_sound_path": "sounds/prosecute.mp3"
+}

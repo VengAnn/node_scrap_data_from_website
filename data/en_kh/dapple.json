@@ -1,0 +1,39 @@
+{
+  "word": "dapple",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19626.png",
+      "local_image_path": "images/19626.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19625.png",
+      "local_image_path": "images/19625.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19623.png",
+      "local_image_path": "images/19623.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19624.png",
+      "local_image_path": "images/19624.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "dappled",
+    "dappled-grey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dapple.mp3",
+  "local_sound_path": "sounds/dapple.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "grasp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32638.png",
+      "local_image_path": "images/32638.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a strong grasp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32639.png",
+      "local_image_path": "images/32639.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a good grasp of a subject",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32640.png",
+      "local_image_path": "images/32640.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32633.png",
+      "local_image_path": "images/32633.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He grasped my hand warmly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32634.png",
+      "local_image_path": "images/32634.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grasp a concept",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32635.png",
+      "local_image_path": "images/32635.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grasp the meaning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32636.png",
+      "local_image_path": "images/32636.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grasp the nettle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32637.png",
+      "local_image_path": "images/32637.png"
+    }
+  ],
+  "synonyms": [
+    "reach",
+    "scope",
+    "extent",
+    "range",
+    "capacity",
+    "control",
+    "understand",
+    "comprehend",
+    "follow",
+    "get",
+    "take in"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "grasping",
+    "graspingly",
+    "graspingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grasp.mp3",
+  "local_sound_path": "sounds/grasp.mp3"
+}

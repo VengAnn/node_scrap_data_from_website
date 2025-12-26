@@ -1,0 +1,50 @@
+{
+  "word": "active",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "active student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2243.png",
+      "local_image_path": "images/2243.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113210.png",
+      "local_image_path": "images/113210.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113211.png",
+      "local_image_path": "images/113211.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113212.png",
+      "local_image_path": "images/113212.png"
+    }
+  ],
+  "synonyms": [
+    "working",
+    "practicing",
+    "involved",
+    "enthusiastic",
+    "keen"
+  ],
+  "antonyms": [
+    "inactive",
+    "ineffective",
+    "passive"
+  ],
+  "similar_words": [
+    "active service",
+    "actively",
+    "activeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/active.mp3",
+  "local_sound_path": "sounds/active.mp3"
+}

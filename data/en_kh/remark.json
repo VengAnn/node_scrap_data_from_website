@@ -1,0 +1,84 @@
+{
+  "word": "remark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71983.png",
+      "local_image_path": "images/71983.png"
+    },
+    {
+      "pos": "tv",
+      "example": "remark his absence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71980.png",
+      "local_image_path": "images/71980.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71981.png",
+      "local_image_path": "images/71981.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71982.png",
+      "local_image_path": "images/71982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126801.png",
+      "local_image_path": "images/126801.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126802.png",
+      "local_image_path": "images/126802.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126803.png",
+      "local_image_path": "images/126803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126804.png",
+      "local_image_path": "images/126804.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126805.png",
+      "local_image_path": "images/126805.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126806.png",
+      "local_image_path": "images/126806.png"
+    }
+  ],
+  "synonyms": [
+    "say",
+    "comment",
+    "state",
+    "observe",
+    "pronounce",
+    "mention"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "remarkable",
+    "remarkableness",
+    "remarkably",
+    "remarket"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remark.mp3",
+  "local_sound_path": "sounds/remark.mp3"
+}

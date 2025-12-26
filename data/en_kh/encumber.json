@@ -1,0 +1,35 @@
+{
+  "word": "encumber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "encumber with packages",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24838.png",
+      "local_image_path": "images/24838.png"
+    },
+    {
+      "pos": "tv",
+      "example": "encumber with restrictions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24839.png",
+      "local_image_path": "images/24839.png"
+    }
+  ],
+  "synonyms": [
+    "burden",
+    "hinder",
+    "hamper",
+    "impede",
+    "load",
+    "tax",
+    "inconvenience",
+    "handicap"
+  ],
+  "antonyms": [
+    "unburden"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encumber.mp3",
+  "local_sound_path": "sounds/encumber.mp3"
+}

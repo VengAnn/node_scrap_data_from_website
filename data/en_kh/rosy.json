@@ -1,0 +1,39 @@
+{
+  "word": "rosy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rosy cheek",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74214.png",
+      "local_image_path": "images/74214.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rosy future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74215.png",
+      "local_image_path": "images/74215.png"
+    }
+  ],
+  "synonyms": [
+    "optimistic",
+    "bright",
+    "promising",
+    "hopeful",
+    "good",
+    "pink",
+    "pinkish",
+    "rose",
+    "reddish",
+    "roseate"
+  ],
+  "antonyms": [
+    "unpromising",
+    "pale",
+    "pessimistic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rosy.mp3",
+  "local_sound_path": "sounds/rosy.mp3"
+}

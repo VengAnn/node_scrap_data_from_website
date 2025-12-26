@@ -1,0 +1,43 @@
+{
+  "word": "watery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99396.png",
+      "local_image_path": "images/99396.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99397.png",
+      "local_image_path": "images/99397.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99398.png",
+      "local_image_path": "images/99398.png"
+    }
+  ],
+  "synonyms": [
+    "bland",
+    "tasteless",
+    "insipid",
+    "weak",
+    "dilute",
+    "thin",
+    "runny"
+  ],
+  "antonyms": [
+    "thick",
+    "dry",
+    "strong",
+    "forceful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/watery.mp3",
+  "local_sound_path": "sounds/watery.mp3"
+}

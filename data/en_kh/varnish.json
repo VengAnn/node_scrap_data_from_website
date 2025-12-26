@@ -1,0 +1,43 @@
+{
+  "word": "varnish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97310.png",
+      "local_image_path": "images/97310.png"
+    },
+    {
+      "pos": "tv",
+      "example": "varnish the table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97308.png",
+      "local_image_path": "images/97308.png"
+    },
+    {
+      "pos": "tv",
+      "example": "varnish the truth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97309.png",
+      "local_image_path": "images/97309.png"
+    }
+  ],
+  "synonyms": [
+    "finish",
+    "glaze",
+    "polish",
+    "patina",
+    "gloss",
+    "paint",
+    "lacquer",
+    "stain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "varnish tree",
+    "varnisher",
+    "varnishing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/varnish.mp3",
+  "local_sound_path": "sounds/varnish.mp3"
+}

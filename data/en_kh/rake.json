@@ -1,0 +1,64 @@
+{
+  "word": "rake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70023.png",
+      "local_image_path": "images/70023.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70024.png",
+      "local_image_path": "images/70024.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70028.png",
+      "local_image_path": "images/70028.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70030.png",
+      "local_image_path": "images/70030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70025.png",
+      "local_image_path": "images/70025.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70029.png",
+      "local_image_path": "images/70029.png"
+    }
+  ],
+  "synonyms": [
+    "search",
+    "hunt",
+    "scour",
+    "scan"
+  ],
+  "antonyms": [
+    "paragon",
+    "scatter",
+    "find"
+  ],
+  "similar_words": [
+    "rake-hell",
+    "rake-helly",
+    "rake-off",
+    "raker",
+    "rakery",
+    "rakeshame"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rake.mp3",
+  "local_sound_path": "sounds/rake.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "consent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "they finally consented to go with us",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16959.png",
+      "local_image_path": "images/16959.png"
+    },
+    {
+      "pos": "n",
+      "example": "her parents refused their consent to the marriage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16960.png",
+      "local_image_path": "images/16960.png"
+    }
+  ],
+  "synonyms": [
+    "compliance",
+    "agreement",
+    "assent",
+    "permit",
+    "allow",
+    "approve",
+    "accept",
+    "sanction",
+    "endorse",
+    "indorse",
+    "okay"
+  ],
+  "antonyms": [
+    "refusal",
+    "forbid",
+    "refuse"
+  ],
+  "similar_words": [
+    "consent judgment",
+    "consentaneity",
+    "consentaneously",
+    "consentaneousness",
+    "consentient"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consent.mp3",
+  "local_sound_path": "sounds/consent.mp3"
+}

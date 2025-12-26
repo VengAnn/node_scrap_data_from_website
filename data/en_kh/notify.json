@@ -1,0 +1,44 @@
+{
+  "word": "notify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Have the authorities been notified?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56430.png",
+      "local_image_path": "images/56430.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124744.png",
+      "local_image_path": "images/124744.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124745.png",
+      "local_image_path": "images/124745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124746.png",
+      "local_image_path": "images/124746.png"
+    }
+  ],
+  "synonyms": [
+    "inform",
+    "tell",
+    "alert",
+    "advise",
+    "warn",
+    "report",
+    "acquaint"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/notify.mp3",
+  "local_sound_path": "sounds/notify.mp3"
+}

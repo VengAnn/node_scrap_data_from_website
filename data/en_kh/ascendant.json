@@ -1,0 +1,32 @@
+{
+  "word": "ascendant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ascendan power",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5722.png",
+      "local_image_path": "images/5722.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114063.png",
+      "local_image_path": "images/114063.png"
+    }
+  ],
+  "synonyms": [
+    "rising",
+    "increasing",
+    "growing"
+  ],
+  "antonyms": [
+    "downward",
+    "subordinate",
+    "descendant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ascendant.mp3",
+  "local_sound_path": "sounds/ascendant.mp3"
+}

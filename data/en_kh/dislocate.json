@@ -1,0 +1,43 @@
+{
+  "word": "dislocate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "dislocate people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21968.png",
+      "local_image_path": "images/21968.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118535.png",
+      "local_image_path": "images/118535.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118536.png",
+      "local_image_path": "images/118536.png"
+    }
+  ],
+  "synonyms": [
+    "disrupt",
+    "interrupt",
+    "disturb",
+    "upset",
+    "disorder",
+    "displace",
+    "disjoint",
+    "dislodge",
+    "disarticulate"
+  ],
+  "antonyms": [
+    "replace",
+    "restore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dislocate.mp3",
+  "local_sound_path": "sounds/dislocate.mp3"
+}

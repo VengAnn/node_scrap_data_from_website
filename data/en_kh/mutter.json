@@ -1,0 +1,43 @@
+{
+  "word": "mutter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111282.png",
+      "local_image_path": "images/111282.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111280.png",
+      "local_image_path": "images/111280.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111281.png",
+      "local_image_path": "images/111281.png"
+    }
+  ],
+  "synonyms": [
+    "grumble",
+    "complain",
+    "gripe",
+    "moan",
+    "grouse",
+    "grouch",
+    "murmur",
+    "bellyache"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mutterer",
+    "muttering",
+    "mutteringly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mutter.mp3",
+  "local_sound_path": "sounds/mutter.mp3"
+}

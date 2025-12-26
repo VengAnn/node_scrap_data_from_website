@@ -1,0 +1,54 @@
+{
+  "word": "sentence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "write a sentence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78152.png",
+      "local_image_path": "images/78152.png"
+    },
+    {
+      "pos": "n",
+      "example": "judge's sentence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78153.png",
+      "local_image_path": "images/78153.png"
+    },
+    {
+      "pos": "n",
+      "example": "Mr. Lon has received a heavy sentence.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78154.png",
+      "local_image_path": "images/78154.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127647.png",
+      "local_image_path": "images/127647.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127648.png",
+      "local_image_path": "images/127648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78155.png",
+      "local_image_path": "images/78155.png"
+    }
+  ],
+  "synonyms": [
+    "condemn",
+    "punish",
+    "penalize"
+  ],
+  "antonyms": [
+    "acquit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sentence.mp3",
+  "local_sound_path": "sounds/sentence.mp3"
+}

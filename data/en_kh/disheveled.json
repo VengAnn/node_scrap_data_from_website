@@ -1,0 +1,39 @@
+{
+  "word": "disheveled",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21907.png",
+      "local_image_path": "images/21907.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118496.png",
+      "local_image_path": "images/118496.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118497.png",
+      "local_image_path": "images/118497.png"
+    }
+  ],
+  "synonyms": [
+    "messy",
+    "untidy",
+    "uncombed",
+    "unkempt",
+    "upset",
+    "unsettled"
+  ],
+  "antonyms": [
+    "neat"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disheveled.mp3",
+  "local_sound_path": "sounds/disheveled.mp3"
+}

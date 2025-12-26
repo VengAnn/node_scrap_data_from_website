@@ -1,0 +1,39 @@
+{
+  "word": "manner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "manner of construction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105984.png",
+      "local_image_path": "images/105984.png"
+    },
+    {
+      "pos": "n",
+      "example": "have good manners",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105985.png",
+      "local_image_path": "images/105985.png"
+    }
+  ],
+  "synonyms": [
+    "behavior",
+    "conduct",
+    "comportment"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mannerable",
+    "mannered",
+    "mannering",
+    "mannerism",
+    "mannerist",
+    "mannerless",
+    "mannerlessness",
+    "mannerliness",
+    "mannerly",
+    "mannersome"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/manner.mp3",
+  "local_sound_path": "sounds/manner.mp3"
+}

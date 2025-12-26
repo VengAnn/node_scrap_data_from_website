@@ -1,0 +1,41 @@
+{
+  "word": "asunder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, adj",
+      "example": "Her heart was torn asunder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6102.png",
+      "local_image_path": "images/6102.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112831.png",
+      "local_image_path": "images/112831.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112832.png",
+      "local_image_path": "images/112832.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112833.png",
+      "local_image_path": "images/112833.png"
+    }
+  ],
+  "synonyms": [
+    "apart",
+    "open"
+  ],
+  "antonyms": [
+    "together"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/asunder.mp3",
+  "local_sound_path": "sounds/asunder.mp3"
+}

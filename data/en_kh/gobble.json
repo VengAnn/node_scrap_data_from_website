@@ -1,0 +1,45 @@
+{
+  "word": "gobble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "turkeys gobble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32160.png",
+      "local_image_path": "images/32160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32161.png",
+      "local_image_path": "images/32161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't gobble your food.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32159.png",
+      "local_image_path": "images/32159.png"
+    }
+  ],
+  "synonyms": [
+    "guzzle",
+    "bolt",
+    "gorge",
+    "gulp",
+    "consume",
+    "use",
+    "spend"
+  ],
+  "antonyms": [
+    "nibble",
+    "conserve"
+  ],
+  "similar_words": [
+    "gobbledegook",
+    "gobbledygook",
+    "gobbler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gobble.mp3",
+  "local_sound_path": "sounds/gobble.mp3"
+}

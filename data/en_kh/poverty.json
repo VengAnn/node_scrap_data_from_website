@@ -1,0 +1,56 @@
+{
+  "word": "poverty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "condition of poverty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65710.png",
+      "local_image_path": "images/65710.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125785.png",
+      "local_image_path": "images/125785.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125786.png",
+      "local_image_path": "images/125786.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125787.png",
+      "local_image_path": "images/125787.png"
+    }
+  ],
+  "synonyms": [
+    "neediness",
+    "destitution",
+    "hardship",
+    "distress",
+    "need",
+    "privation",
+    "indigence",
+    "penury",
+    "deprivation",
+    "impecuniousness",
+    "impecuniosity",
+    "impoverishment"
+  ],
+  "antonyms": [
+    "surplus",
+    "affluence",
+    "wealth"
+  ],
+  "similar_words": [
+    "poverty-line",
+    "poverty-stricken"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poverty.mp3",
+  "local_sound_path": "sounds/poverty.mp3"
+}

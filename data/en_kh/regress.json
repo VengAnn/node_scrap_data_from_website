@@ -1,0 +1,41 @@
+{
+  "word": "regress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71618.png",
+      "local_image_path": "images/71618.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71619.png",
+      "local_image_path": "images/71619.png"
+    }
+  ],
+  "synonyms": [
+    "retreat",
+    "revert",
+    "relapse",
+    "degenerate",
+    "lapse",
+    "backslide",
+    "retrogress"
+  ],
+  "antonyms": [
+    "progress",
+    "advance"
+  ],
+  "similar_words": [
+    "regression",
+    "regressive",
+    "regressively",
+    "regressiveness",
+    "regressor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/regress.mp3",
+  "local_sound_path": "sounds/regress.mp3"
+}

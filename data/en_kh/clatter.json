@@ -1,0 +1,38 @@
+{
+  "word": "clatter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14854.png",
+      "local_image_path": "images/14854.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14856.png",
+      "local_image_path": "images/14856.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14855.png",
+      "local_image_path": "images/14855.png"
+    }
+  ],
+  "synonyms": [
+    "clang",
+    "rattle",
+    "bang",
+    "jangle",
+    "clank",
+    "smash",
+    "clash"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clatter.mp3",
+  "local_sound_path": "sounds/clatter.mp3"
+}

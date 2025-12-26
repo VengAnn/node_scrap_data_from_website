@@ -1,0 +1,30 @@
+{
+  "word": "divinity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "divinity of Christ",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22466.png",
+      "local_image_path": "images/22466.png"
+    },
+    {
+      "pos": "n",
+      "example": "divinity student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22467.png",
+      "local_image_path": "images/22467.png"
+    }
+  ],
+  "synonyms": [
+    "religion",
+    "theology",
+    "spirituality",
+    "mysticism",
+    "holiness"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divinity.mp3",
+  "local_sound_path": "sounds/divinity.mp3"
+}

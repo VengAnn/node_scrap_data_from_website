@@ -1,0 +1,44 @@
+{
+  "word": "surety",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86549.png",
+      "local_image_path": "images/86549.png"
+    },
+    {
+      "pos": "n",
+      "example": "surety for a loan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86550.png",
+      "local_image_path": "images/86550.png"
+    },
+    {
+      "pos": "n",
+      "example": "stand surety for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86551.png",
+      "local_image_path": "images/86551.png"
+    },
+    {
+      "pos": "n",
+      "example": "with great surety",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86552.png",
+      "local_image_path": "images/86552.png"
+    }
+  ],
+  "synonyms": [
+    "security",
+    "indemnity",
+    "guarantee",
+    "warranty",
+    "deposit",
+    "collateral",
+    "bond"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/surety.mp3",
+  "local_sound_path": "sounds/surety.mp3"
+}

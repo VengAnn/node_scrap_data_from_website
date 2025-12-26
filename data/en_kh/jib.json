@@ -1,0 +1,53 @@
+{
+  "word": "jib",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42993.png",
+      "local_image_path": "images/42993.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42994.png",
+      "local_image_path": "images/42994.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42995.png",
+      "local_image_path": "images/42995.png"
+    },
+    {
+      "pos": "v",
+      "example": "My car sometimes jibs at a steep hill.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42996.png",
+      "local_image_path": "images/42996.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123108.png",
+      "local_image_path": "images/123108.png"
+    }
+  ],
+  "synonyms": [
+    "object",
+    "protest",
+    "baulk",
+    "balk",
+    "doubt"
+  ],
+  "antonyms": [
+    "agree"
+  ],
+  "similar_words": [
+    "jibe",
+    "jiboa"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jib.mp3",
+  "local_sound_path": "sounds/jib.mp3"
+}

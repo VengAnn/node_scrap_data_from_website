@@ -1,0 +1,31 @@
+{
+  "word": "bye",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12136.png",
+      "local_image_path": "images/12136.png"
+    }
+  ],
+  "synonyms": [
+    "goodbye",
+    "bye-bye",
+    "adios",
+    "cheerio"
+  ],
+  "antonyms": [
+    "hello",
+    "hallo",
+    "halloo",
+    "hullo"
+  ],
+  "similar_words": [
+    "bye-bye",
+    "Byelorussian"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bye.mp3",
+  "local_sound_path": "sounds/bye.mp3"
+}

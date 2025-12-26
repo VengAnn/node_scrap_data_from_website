@@ -1,0 +1,51 @@
+{
+  "word": "demise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "demise of the owner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20417.png",
+      "local_image_path": "images/20417.png"
+    },
+    {
+      "pos": "n",
+      "example": "demise of the business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20418.png",
+      "local_image_path": "images/20418.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20419.png",
+      "local_image_path": "images/20419.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20420.png",
+      "local_image_path": "images/20420.png"
+    }
+  ],
+  "synonyms": [
+    "death",
+    "decease",
+    "passing",
+    "departure",
+    "end",
+    "termination",
+    "finish",
+    "failure",
+    "ruin",
+    "downfall",
+    "fall"
+  ],
+  "antonyms": [
+    "creation",
+    "birth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demise.mp3",
+  "local_sound_path": "sounds/demise.mp3"
+}

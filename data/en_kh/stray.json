@@ -1,0 +1,55 @@
+{
+  "word": "stray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stray from the issue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85275.png",
+      "local_image_path": "images/85275.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stray cat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85276.png",
+      "local_image_path": "images/85276.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stray occurrence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85277.png",
+      "local_image_path": "images/85277.png"
+    },
+    {
+      "pos": "iv",
+      "example": "cats stray",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85273.png",
+      "local_image_path": "images/85273.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stray from the path",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85274.png",
+      "local_image_path": "images/85274.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85278.png",
+      "local_image_path": "images/85278.png"
+    }
+  ],
+  "synonyms": [
+    "lost",
+    "wandering",
+    "abandoned",
+    "homeless",
+    "vagrant",
+    "drift"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stray.mp3",
+  "local_sound_path": "sounds/stray.mp3"
+}

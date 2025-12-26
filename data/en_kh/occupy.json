@@ -1,0 +1,31 @@
+{
+  "word": "occupy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "occupy a house in June",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57107.png",
+      "local_image_path": "images/57107.png"
+    }
+  ],
+  "synonyms": [
+    "engage",
+    "absorb",
+    "interest",
+    "divert",
+    "entertain",
+    "amuse",
+    "concern",
+    "use",
+    "fill"
+  ],
+  "antonyms": [
+    "vacate",
+    "liberate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/occupy.mp3",
+  "local_sound_path": "sounds/occupy.mp3"
+}

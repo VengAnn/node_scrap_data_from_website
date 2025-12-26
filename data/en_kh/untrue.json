@@ -1,0 +1,36 @@
+{
+  "word": "untrue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96440.png",
+      "local_image_path": "images/96440.png"
+    },
+    {
+      "pos": "adj",
+      "example": "She is untrue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96441.png",
+      "local_image_path": "images/96441.png"
+    }
+  ],
+  "synonyms": [
+    "cheating",
+    "unfaithful",
+    "disloyal",
+    "treacherous",
+    "untrustworthy",
+    "two-faced",
+    "faithless",
+    "deceitful"
+  ],
+  "antonyms": [
+    "true",
+    "faithful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/untrue.mp3",
+  "local_sound_path": "sounds/untrue.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "compensate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "she was compensated by the insurance company for her injuries",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16204.png",
+      "local_image_path": "images/16204.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16205.png",
+      "local_image_path": "images/16205.png"
+    }
+  ],
+  "synonyms": [
+    "balance",
+    "counterweigh",
+    "counteract",
+    "counterbalance",
+    "offset"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compensate.mp3",
+  "local_sound_path": "sounds/compensate.mp3"
+}

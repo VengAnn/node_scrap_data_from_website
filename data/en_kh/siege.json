@@ -1,0 +1,36 @@
+{
+  "word": "siege",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79898.png",
+      "local_image_path": "images/79898.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79899.png",
+      "local_image_path": "images/79899.png"
+    }
+  ],
+  "synonyms": [
+    "blockade",
+    "cordon",
+    "barrier",
+    "barricade",
+    "obstruction",
+    "restriction"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "siege artillery",
+    "siege-basket",
+    "siege-economy",
+    "siege-gun"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/siege.mp3",
+  "local_sound_path": "sounds/siege.mp3"
+}

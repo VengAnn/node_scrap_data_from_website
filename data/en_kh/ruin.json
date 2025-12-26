@@ -1,0 +1,100 @@
+{
+  "word": "ruin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74587.png",
+      "local_image_path": "images/74587.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127250.png",
+      "local_image_path": "images/127250.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127251.png",
+      "local_image_path": "images/127251.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127252.png",
+      "local_image_path": "images/127252.png"
+    },
+    {
+      "pos": "n",
+      "example": "ruin of an ancient city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74584.png",
+      "local_image_path": "images/74584.png"
+    },
+    {
+      "pos": "n",
+      "example": "gambling was his ruin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74585.png",
+      "local_image_path": "images/74585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74586.png",
+      "local_image_path": "images/74586.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ruin a good tool",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74588.png",
+      "local_image_path": "images/74588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ruin his reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74589.png",
+      "local_image_path": "images/74589.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gambling will ruin him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74590.png",
+      "local_image_path": "images/74590.png"
+    }
+  ],
+  "synonyms": [
+    "decline",
+    "downfall",
+    "fall",
+    "defeat",
+    "disintegration",
+    "deterioration",
+    "decay",
+    "damage",
+    "wreck",
+    "spoil",
+    "destroy",
+    "devastate",
+    "trash",
+    "impair"
+  ],
+  "antonyms": [
+    "regeneration",
+    "improvement",
+    "mend"
+  ],
+  "similar_words": [
+    "ruinable",
+    "ruinate",
+    "ruination",
+    "ruiner",
+    "ruinous",
+    "ruinously",
+    "ruinousness",
+    "ruins"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ruin.mp3",
+  "local_sound_path": "sounds/ruin.mp3"
+}

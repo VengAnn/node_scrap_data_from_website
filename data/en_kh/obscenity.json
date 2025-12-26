@@ -1,0 +1,30 @@
+{
+  "word": "obscenity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "obscenity of the book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56938.png",
+      "local_image_path": "images/56938.png"
+    },
+    {
+      "pos": "n",
+      "example": "utter an obscenity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56939.png",
+      "local_image_path": "images/56939.png"
+    }
+  ],
+  "synonyms": [
+    "lewdness",
+    "offensiveness",
+    "rudeness"
+  ],
+  "antonyms": [
+    "decency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obscenity.mp3",
+  "local_sound_path": "sounds/obscenity.mp3"
+}

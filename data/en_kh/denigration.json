@@ -1,0 +1,41 @@
+{
+  "word": "denigration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20517.png",
+      "local_image_path": "images/20517.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118033.png",
+      "local_image_path": "images/118033.png"
+    }
+  ],
+  "synonyms": [
+    "disparagement",
+    "vilification",
+    "scorn",
+    "defamation",
+    "deprecation",
+    "belittling",
+    "condemnation",
+    "abuse",
+    "attack",
+    "belittlement",
+    "depreciation",
+    "slander",
+    "libel"
+  ],
+  "antonyms": [
+    "commendation",
+    "glorification"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/denigration.mp3",
+  "local_sound_path": "sounds/denigration.mp3"
+}

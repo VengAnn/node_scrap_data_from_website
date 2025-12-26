@@ -1,0 +1,53 @@
+{
+  "word": "distinct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "distinct from one another",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22286.png",
+      "local_image_path": "images/22286.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118656.png",
+      "local_image_path": "images/118656.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118657.png",
+      "local_image_path": "images/118657.png"
+    }
+  ],
+  "synonyms": [
+    "clear",
+    "definite",
+    "clear-cut",
+    "well-defined",
+    "noticeable",
+    "marked",
+    "apparent",
+    "conspicuous",
+    "manifest",
+    "patent",
+    "plain",
+    "evident"
+  ],
+  "antonyms": [
+    "indistinct",
+    "unclear"
+  ],
+  "similar_words": [
+    "distinction",
+    "distinctive",
+    "distinctively",
+    "distinctiveness",
+    "distinctly",
+    "distinctness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distinct.mp3",
+  "local_sound_path": "sounds/distinct.mp3"
+}

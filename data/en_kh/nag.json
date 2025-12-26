@@ -1,0 +1,60 @@
+{
+  "word": "nag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54812.png",
+      "local_image_path": "images/54812.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54815.png",
+      "local_image_path": "images/54815.png"
+    },
+    {
+      "pos": "tv",
+      "example": "nag at sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54809.png",
+      "local_image_path": "images/54809.png"
+    },
+    {
+      "pos": "tv",
+      "example": "nag at her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54810.png",
+      "local_image_path": "images/54810.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The problem had been nagging me for weeks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54811.png",
+      "local_image_path": "images/54811.png"
+    }
+  ],
+  "synonyms": [
+    "irritate",
+    "annoy",
+    "worry",
+    "trouble",
+    "torment",
+    "irk",
+    "disturb",
+    "vex",
+    "bother",
+    "distress"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "nagger",
+    "nagging",
+    "naggingly",
+    "naggy",
+    "nagkassar",
+    "nagor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nag.mp3",
+  "local_sound_path": "sounds/nag.mp3"
+}

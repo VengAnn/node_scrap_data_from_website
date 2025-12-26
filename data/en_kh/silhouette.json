@@ -1,0 +1,37 @@
+{
+  "word": "silhouette",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "draw a silhouette",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80068.png",
+      "local_image_path": "images/80068.png"
+    },
+    {
+      "pos": "n",
+      "example": "see his silhouette",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80069.png",
+      "local_image_path": "images/80069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80070.png",
+      "local_image_path": "images/80070.png"
+    }
+  ],
+  "synonyms": [
+    "outline",
+    "shape",
+    "shadow",
+    "profile",
+    "line",
+    "figure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/silhouette.mp3",
+  "local_sound_path": "sounds/silhouette.mp3"
+}

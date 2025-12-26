@@ -1,0 +1,54 @@
+{
+  "word": "muddle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "muddle about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110865.png",
+      "local_image_path": "images/110865.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110866.png",
+      "local_image_path": "images/110866.png"
+    },
+    {
+      "pos": "tv",
+      "example": "muddle the job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110863.png",
+      "local_image_path": "images/110863.png"
+    },
+    {
+      "pos": "tv",
+      "example": "muddle the brain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110864.png",
+      "local_image_path": "images/110864.png"
+    }
+  ],
+  "synonyms": [
+    "confuse",
+    "bewilder",
+    "baffle",
+    "puzzle",
+    "bamboozle",
+    "perplex",
+    "stupefy",
+    "nonplus",
+    "confound"
+  ],
+  "antonyms": [
+    "order",
+    "disentangle",
+    "clarify"
+  ],
+  "similar_words": [
+    "muddle-headed",
+    "muddle-headedness",
+    "muddled"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/muddle.mp3",
+  "local_sound_path": "sounds/muddle.mp3"
+}

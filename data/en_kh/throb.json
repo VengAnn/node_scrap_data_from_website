@@ -1,0 +1,65 @@
+{
+  "word": "throb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89169.png",
+      "local_image_path": "images/89169.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hearts throb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89170.png",
+      "local_image_path": "images/89170.png"
+    },
+    {
+      "pos": "iv",
+      "example": "motors throb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89171.png",
+      "local_image_path": "images/89171.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89172.png",
+      "local_image_path": "images/89172.png"
+    },
+    {
+      "pos": "n",
+      "example": "a throb of pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89173.png",
+      "local_image_path": "images/89173.png"
+    },
+    {
+      "pos": "n",
+      "example": "throb of activity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89174.png",
+      "local_image_path": "images/89174.png"
+    }
+  ],
+  "synonyms": [
+    "pounding",
+    "thump",
+    "beat",
+    "pulsation",
+    "pulse",
+    "rhythm",
+    "thud",
+    "vibration",
+    "pound",
+    "pulsate",
+    "vibrate",
+    "ache"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "throbbing",
+    "throbbing pain",
+    "throbbingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/throb.mp3",
+  "local_sound_path": "sounds/throb.mp3"
+}

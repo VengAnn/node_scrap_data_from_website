@@ -1,0 +1,34 @@
+{
+  "word": "drifter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23142.png",
+      "local_image_path": "images/23142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23143.png",
+      "local_image_path": "images/23143.png"
+    }
+  ],
+  "synonyms": [
+    "tramp",
+    "wanderer",
+    "vagabond",
+    "hobo",
+    "transient",
+    "vagrant",
+    "traveller"
+  ],
+  "antonyms": [
+    "resident"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drifter.mp3",
+  "local_sound_path": "sounds/drifter.mp3"
+}

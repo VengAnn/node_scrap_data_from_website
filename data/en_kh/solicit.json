@@ -1,0 +1,66 @@
+{
+  "word": "solicit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "solicit for a cause",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82526.png",
+      "local_image_path": "images/82526.png"
+    },
+    {
+      "pos": "iv",
+      "example": "prostitutes solicit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82527.png",
+      "local_image_path": "images/82527.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The candidate solicited my vote.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82522.png",
+      "local_image_path": "images/82522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82523.png",
+      "local_image_path": "images/82523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "solicit contribution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82524.png",
+      "local_image_path": "images/82524.png"
+    },
+    {
+      "pos": "tv",
+      "example": "solicit support",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82525.png",
+      "local_image_path": "images/82525.png"
+    }
+  ],
+  "synonyms": [
+    "beg",
+    "importune",
+    "seek",
+    "request",
+    "implore",
+    "crave",
+    "beseech"
+  ],
+  "antonyms": [
+    "grant"
+  ],
+  "similar_words": [
+    "solicitant",
+    "solicitation",
+    "solicitor",
+    "solicitous",
+    "solicitress-trix",
+    "solicitude",
+    "solicitudinous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/solicit.mp3",
+  "local_sound_path": "sounds/solicit.mp3"
+}

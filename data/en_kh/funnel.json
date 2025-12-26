@@ -1,0 +1,38 @@
+{
+  "word": "funnel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30671.png",
+      "local_image_path": "images/30671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "funnel gas into a tank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30672.png",
+      "local_image_path": "images/30672.png"
+    },
+    {
+      "pos": "tv",
+      "example": "funnel one's energies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30673.png",
+      "local_image_path": "images/30673.png"
+    }
+  ],
+  "synonyms": [
+    "channel",
+    "focus",
+    "direct",
+    "guide",
+    "concentrate",
+    "siphon",
+    "syphon"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/funnel.mp3",
+  "local_sound_path": "sounds/funnel.mp3"
+}

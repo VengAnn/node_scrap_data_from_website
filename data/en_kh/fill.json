@@ -1,0 +1,68 @@
+{
+  "word": "fill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "eyes fill with tears.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28514.png",
+      "local_image_path": "images/28514.png"
+    },
+    {
+      "pos": "n",
+      "example": "dirt fill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28515.png",
+      "local_image_path": "images/28515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He fills the office satisfactorily.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28512.png",
+      "local_image_path": "images/28512.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fill a position",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28513.png",
+      "local_image_path": "images/28513.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28519.png",
+      "local_image_path": "images/28519.png"
+    }
+  ],
+  "synonyms": [
+    "satisfy",
+    "fulfil",
+    "satiate",
+    "pervade",
+    "imbue",
+    "charge",
+    "impart",
+    "permeate",
+    "saturate",
+    "soak"
+  ],
+  "antonyms": [
+    "empty",
+    "clear"
+  ],
+  "similar_words": [
+    "fill-in",
+    "filler",
+    "fillet",
+    "filling",
+    "filling card",
+    "filling clerk",
+    "filling station",
+    "filling system",
+    "fillip",
+    "fillit",
+    "filly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fill.mp3",
+  "local_sound_path": "sounds/fill.mp3"
+}

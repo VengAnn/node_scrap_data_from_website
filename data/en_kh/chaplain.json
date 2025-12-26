@@ -1,0 +1,39 @@
+{
+  "word": "chaplain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13827.png",
+      "local_image_path": "images/13827.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13828.png",
+      "local_image_path": "images/13828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130060.png",
+      "local_image_path": "images/130060.png"
+    }
+  ],
+  "synonyms": [
+    "minister",
+    "vicar",
+    "priest",
+    "pastor",
+    "rabbi"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chaplaincy",
+    "chaplainship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chaplain.mp3",
+  "local_sound_path": "sounds/chaplain.mp3"
+}

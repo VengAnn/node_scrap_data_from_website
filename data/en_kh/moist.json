@@ -1,0 +1,48 @@
+{
+  "word": "moist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "moist air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109933.png",
+      "local_image_path": "images/109933.png"
+    },
+    {
+      "pos": "adj",
+      "example": "moist cake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109934.png",
+      "local_image_path": "images/109934.png"
+    }
+  ],
+  "synonyms": [
+    "damp",
+    "wet",
+    "humid",
+    "soggy",
+    "clammy",
+    "tacky",
+    "saturated",
+    "soaking"
+  ],
+  "antonyms": [
+    "dry"
+  ],
+  "similar_words": [
+    "moist-eye",
+    "moisten",
+    "moistener",
+    "moistful",
+    "moistless",
+    "moistly",
+    "moistness",
+    "moisture",
+    "moistureless",
+    "moisturize",
+    "moisturizer",
+    "moisty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/moist.mp3",
+  "local_sound_path": "sounds/moist.mp3"
+}

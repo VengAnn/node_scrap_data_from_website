@@ -1,0 +1,32 @@
+{
+  "word": "basket",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7659.png",
+      "local_image_path": "images/7659.png"
+    }
+  ],
+  "synonyms": [
+    "bin",
+    "container",
+    "silo",
+    "holder",
+    "tub",
+    "case",
+    "vat",
+    "hamper"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "basketball",
+    "basketball court",
+    "basketry",
+    "basketwork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/basket.mp3",
+  "local_sound_path": "sounds/basket.mp3"
+}

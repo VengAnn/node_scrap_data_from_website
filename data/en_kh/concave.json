@@ -1,0 +1,31 @@
+{
+  "word": "concave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16391.png",
+      "local_image_path": "images/16391.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16392.png",
+      "local_image_path": "images/16392.png"
+    }
+  ],
+  "synonyms": [
+    "hollow"
+  ],
+  "antonyms": [
+    "convex"
+  ],
+  "similar_words": [
+    "concavely",
+    "concaveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concave.mp3",
+  "local_sound_path": "sounds/concave.mp3"
+}

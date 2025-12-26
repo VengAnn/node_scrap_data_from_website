@@ -1,0 +1,47 @@
+{
+  "word": "preference",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66219.png",
+      "local_image_path": "images/66219.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66220.png",
+      "local_image_path": "images/66220.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125887.png",
+      "local_image_path": "images/125887.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125888.png",
+      "local_image_path": "images/125888.png"
+    }
+  ],
+  "synonyms": [
+    "favorite",
+    "partiality",
+    "penchant",
+    "predilection",
+    "fondness",
+    "liking",
+    "inclination"
+  ],
+  "antonyms": [
+    "indifference",
+    "dislike"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/preference.mp3",
+  "local_sound_path": "sounds/preference.mp3"
+}

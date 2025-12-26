@@ -1,0 +1,34 @@
+{
+  "word": "irritate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "irritate the teacher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42404.png",
+      "local_image_path": "images/42404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "irritate the skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42405.png",
+      "local_image_path": "images/42405.png"
+    }
+  ],
+  "synonyms": [
+    "inflame",
+    "rub",
+    "chafe",
+    "sting",
+    "aggravate",
+    "hurt",
+    "worsen"
+  ],
+  "antonyms": [
+    "soothe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/irritate.mp3",
+  "local_sound_path": "sounds/irritate.mp3"
+}

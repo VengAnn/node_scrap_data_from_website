@@ -1,0 +1,51 @@
+{
+  "word": "deluge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20372.png",
+      "local_image_path": "images/20372.png"
+    },
+    {
+      "pos": "n",
+      "example": "deluge of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20370.png",
+      "local_image_path": "images/20370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20371.png",
+      "local_image_path": "images/20371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117987.png",
+      "local_image_path": "images/117987.png"
+    }
+  ],
+  "synonyms": [
+    "overwhelm",
+    "swamp",
+    "bury",
+    "overrun",
+    "overload",
+    "shower",
+    "inundate",
+    "flood",
+    "drown",
+    "soak",
+    "drench",
+    "saturate"
+  ],
+  "antonyms": [
+    "drought"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deluge.mp3",
+  "local_sound_path": "sounds/deluge.mp3"
+}

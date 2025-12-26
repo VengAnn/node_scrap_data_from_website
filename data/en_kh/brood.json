@@ -1,0 +1,72 @@
+{
+  "word": "brood",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11457.png",
+      "local_image_path": "images/11457.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11455.png",
+      "local_image_path": "images/11455.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115699.png",
+      "local_image_path": "images/115699.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115700.png",
+      "local_image_path": "images/115700.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115701.png",
+      "local_image_path": "images/115701.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11454.png",
+      "local_image_path": "images/11454.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115702.png",
+      "local_image_path": "images/115702.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11456.png",
+      "local_image_path": "images/11456.png"
+    }
+  ],
+  "synonyms": [
+    "worry",
+    "mope",
+    "fret",
+    "ruminate",
+    "agonize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brood-mare",
+    "brooder",
+    "brooding",
+    "broodly",
+    "broody"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brood.mp3",
+  "local_sound_path": "sounds/brood.mp3"
+}

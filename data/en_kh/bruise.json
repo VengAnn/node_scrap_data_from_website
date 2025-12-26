@@ -1,0 +1,40 @@
+{
+  "word": "bruise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he was covered in bruises after falling off his bicycle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11539.png",
+      "local_image_path": "images/11539.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131371.png",
+      "local_image_path": "images/131371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11540.png",
+      "local_image_path": "images/11540.png"
+    }
+  ],
+  "synonyms": [
+    "damage",
+    "bash",
+    "mark",
+    "hurt",
+    "injure",
+    "discolor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bruised",
+    "bruiser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bruise.mp3",
+  "local_sound_path": "sounds/bruise.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "grudge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33109.png",
+      "local_image_path": "images/33109.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120821.png",
+      "local_image_path": "images/120821.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120822.png",
+      "local_image_path": "images/120822.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33110.png",
+      "local_image_path": "images/33110.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grudge him the money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33111.png",
+      "local_image_path": "images/33111.png"
+    }
+  ],
+  "synonyms": [
+    "resent",
+    "begrudge",
+    "mind",
+    "envy",
+    "loathe"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grudge.mp3",
+  "local_sound_path": "sounds/grudge.mp3"
+}

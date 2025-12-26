@@ -1,0 +1,47 @@
+{
+  "word": "feed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28008.png",
+      "local_image_path": "images/28008.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28009.png",
+      "local_image_path": "images/28009.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28010.png",
+      "local_image_path": "images/28010.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131518.png",
+      "local_image_path": "images/131518.png"
+    }
+  ],
+  "synonyms": [
+    "nourish",
+    "nosh",
+    "supply"
+  ],
+  "antonyms": [
+    "starve"
+  ],
+  "similar_words": [
+    "feedback",
+    "feeder",
+    "feeder lines",
+    "feeding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/feed.mp3",
+  "local_sound_path": "sounds/feed.mp3"
+}

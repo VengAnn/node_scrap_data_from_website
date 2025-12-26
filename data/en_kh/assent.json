@@ -1,0 +1,53 @@
+{
+  "word": "assent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5876.png",
+      "local_image_path": "images/5876.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114131.png",
+      "local_image_path": "images/114131.png"
+    },
+    {
+      "pos": "n",
+      "example": "give assent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5877.png",
+      "local_image_path": "images/5877.png"
+    }
+  ],
+  "synonyms": [
+    "agreement",
+    "acquiescence",
+    "concurrence",
+    "nod",
+    "approval",
+    "sanction",
+    "consent",
+    "agree",
+    "acquiesce",
+    "concur",
+    "approve",
+    "grant",
+    "allow"
+  ],
+  "antonyms": [
+    "disagree",
+    "disagreement"
+  ],
+  "similar_words": [
+    "assentation",
+    "assenter",
+    "assentive",
+    "assentiveness",
+    "assentor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assent.mp3",
+  "local_sound_path": "sounds/assent.mp3"
+}

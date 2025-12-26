@@ -1,0 +1,81 @@
+{
+  "word": "horn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35942.png",
+      "local_image_path": "images/35942.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35941.png",
+      "local_image_path": "images/35941.png"
+    },
+    {
+      "pos": "n",
+      "example": "buffalo horn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35935.png",
+      "local_image_path": "images/35935.png"
+    },
+    {
+      "pos": "n",
+      "example": "brass horn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35936.png",
+      "local_image_path": "images/35936.png"
+    },
+    {
+      "pos": "n",
+      "example": "car horn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35937.png",
+      "local_image_path": "images/35937.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35938.png",
+      "local_image_path": "images/35938.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35939.png",
+      "local_image_path": "images/35939.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35940.png",
+      "local_image_path": "images/35940.png"
+    }
+  ],
+  "synonyms": [
+    "antler",
+    "spine",
+    "barb",
+    "projection",
+    "tusk",
+    "point",
+    "spike"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "horn-mad",
+    "hornbill",
+    "horned",
+    "horner",
+    "hornet",
+    "hornify",
+    "hornish",
+    "hornless",
+    "hornpipe",
+    "hornswoggle",
+    "horntoad",
+    "horny"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/horn.mp3",
+  "local_sound_path": "sounds/horn.mp3"
+}

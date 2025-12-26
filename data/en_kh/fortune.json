@@ -1,0 +1,49 @@
+{
+  "word": "fortune",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "inherit a fortune",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29927.png",
+      "local_image_path": "images/29927.png"
+    },
+    {
+      "pos": "n",
+      "example": "tell his fortune",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29928.png",
+      "local_image_path": "images/29928.png"
+    },
+    {
+      "pos": "n",
+      "example": "fortune of life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29929.png",
+      "local_image_path": "images/29929.png"
+    }
+  ],
+  "synonyms": [
+    "wealth",
+    "riches",
+    "affluence",
+    "opulence",
+    "prosperity",
+    "mint",
+    "pile",
+    "packet",
+    "bomb"
+  ],
+  "antonyms": [
+    "poverty",
+    "design",
+    "past",
+    "pittance"
+  ],
+  "similar_words": [
+    "fortune cookies",
+    "fortune hunter",
+    "fortune-teller"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fortune.mp3",
+  "local_sound_path": "sounds/fortune.mp3"
+}

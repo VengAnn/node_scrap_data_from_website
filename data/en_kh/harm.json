@@ -1,0 +1,72 @@
+{
+  "word": "harm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "do harm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33903.png",
+      "local_image_path": "images/33903.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harm a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33904.png",
+      "local_image_path": "images/33904.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harm one's health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33905.png",
+      "local_image_path": "images/33905.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harm the plants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33906.png",
+      "local_image_path": "images/33906.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harm one's cause",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33907.png",
+      "local_image_path": "images/33907.png"
+    }
+  ],
+  "synonyms": [
+    "hurt",
+    "damage",
+    "spoil",
+    "injure",
+    "impair",
+    "destroy",
+    "wound"
+  ],
+  "antonyms": [
+    "help"
+  ],
+  "similar_words": [
+    "harmful",
+    "harmfully",
+    "harmfulness",
+    "harmless",
+    "harmless error",
+    "harmlessly",
+    "harmlessness",
+    "harmonic",
+    "harmonica",
+    "harmonical",
+    "harmonically",
+    "harmonious",
+    "harmoniously",
+    "harmoniousness",
+    "harmonist",
+    "harmonistic",
+    "harmonistically",
+    "harmonium",
+    "harmonization"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harm.mp3",
+  "local_sound_path": "sounds/harm.mp3"
+}

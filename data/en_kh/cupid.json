@@ -1,0 +1,33 @@
+{
+  "word": "cupid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19104.png",
+      "local_image_path": "images/19104.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19105.png",
+      "local_image_path": "images/19105.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130223.png",
+      "local_image_path": "images/130223.png"
+    }
+  ],
+  "synonyms": [
+    "angel",
+    "cherub"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cupid.mp3",
+  "local_sound_path": "sounds/cupid.mp3"
+}

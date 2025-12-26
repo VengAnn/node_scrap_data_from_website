@@ -1,0 +1,64 @@
+{
+  "word": "treasure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "national treasure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91389.png",
+      "local_image_path": "images/91389.png"
+    },
+    {
+      "pos": "n",
+      "example": "She is a treasure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91390.png",
+      "local_image_path": "images/91390.png"
+    },
+    {
+      "pos": "n",
+      "example": "She says her new secretary is a perfect treasure.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91391.png",
+      "local_image_path": "images/91391.png"
+    },
+    {
+      "pos": "tv",
+      "example": "treasure memories of one's holiday in Cambodia.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91392.png",
+      "local_image_path": "images/91392.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He treasures the watch his father gave him.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91393.png",
+      "local_image_path": "images/91393.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91394.png",
+      "local_image_path": "images/91394.png"
+    }
+  ],
+  "synonyms": [
+    "cherish",
+    "prize",
+    "adore",
+    "value",
+    "appreciate"
+  ],
+  "antonyms": [
+    "hate",
+    "neglect"
+  ],
+  "similar_words": [
+    "treasure hunt",
+    "treasure trove",
+    "treasure-house",
+    "treasurer",
+    "treasurership",
+    "treasuress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/treasure.mp3",
+  "local_sound_path": "sounds/treasure.mp3"
+}

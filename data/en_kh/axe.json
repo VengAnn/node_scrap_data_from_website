@@ -1,0 +1,36 @@
+{
+  "word": "axe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6814.png",
+      "local_image_path": "images/6814.png"
+    }
+  ],
+  "synonyms": [
+    "knife",
+    "machete",
+    "blade",
+    "dismiss",
+    "fire",
+    "discharge",
+    "sack",
+    "can"
+  ],
+  "antonyms": [
+    "hire",
+    "create",
+    "increase",
+    "employ"
+  ],
+  "similar_words": [
+    "axenic",
+    "axenical",
+    "axenically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/axe.mp3",
+  "local_sound_path": "sounds/axe.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "word": "neighbor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55356.png",
+      "local_image_path": "images/55356.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is my neighbor.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55355.png",
+      "local_image_path": "images/55355.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124585.png",
+      "local_image_path": "images/124585.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124586.png",
+      "local_image_path": "images/124586.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55357.png",
+      "local_image_path": "images/55357.png"
+    }
+  ],
+  "synonyms": [
+    "national"
+  ],
+  "antonyms": [
+    "foreigner"
+  ],
+  "similar_words": [
+    "neighbor-like",
+    "neighbored",
+    "neighborhood",
+    "neighboring",
+    "neighborless",
+    "neighborliness",
+    "neighborly",
+    "neighborship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/neighbor.mp3",
+  "local_sound_path": "sounds/neighbor.mp3"
+}

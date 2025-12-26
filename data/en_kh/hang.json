@@ -1,0 +1,87 @@
+{
+  "word": "hang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "b",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33763.png",
+      "local_image_path": "images/33763.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hang from a peg",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33760.png",
+      "local_image_path": "images/33760.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hang up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33761.png",
+      "local_image_path": "images/33761.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hang of a curtain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33762.png",
+      "local_image_path": "images/33762.png"
+    },
+    {
+      "pos": "n",
+      "example": "I don't quite get the hang of our argument.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33764.png",
+      "local_image_path": "images/33764.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hang a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33756.png",
+      "local_image_path": "images/33756.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hang one's head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33757.png",
+      "local_image_path": "images/33757.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hang a hat on a peg",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33758.png",
+      "local_image_path": "images/33758.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hang a door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33759.png",
+      "local_image_path": "images/33759.png"
+    }
+  ],
+  "synonyms": [
+    "lynch",
+    "droop",
+    "flop",
+    "drape",
+    "sag",
+    "trail",
+    "nod",
+    "fold"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hang glider",
+    "hang-up",
+    "hangar",
+    "hangdog",
+    "hanger",
+    "hanger-on",
+    "hanging",
+    "hangman",
+    "hangnail",
+    "hangout",
+    "hangover"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hang.mp3",
+  "local_sound_path": "sounds/hang.mp3"
+}

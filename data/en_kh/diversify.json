@@ -1,0 +1,32 @@
+{
+  "word": "diversify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22424.png",
+      "local_image_path": "images/22424.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22423.png",
+      "local_image_path": "images/22423.png"
+    }
+  ],
+  "synonyms": [
+    "branch out",
+    "expand",
+    "spread",
+    "vary",
+    "differentiate"
+  ],
+  "antonyms": [
+    "specialize"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diversify.mp3",
+  "local_sound_path": "sounds/diversify.mp3"
+}

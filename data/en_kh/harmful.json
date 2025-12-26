@@ -1,0 +1,47 @@
+{
+  "word": "harmful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33908.png",
+      "local_image_path": "images/33908.png"
+    },
+    {
+      "pos": "adj",
+      "example": "Smoking is harmful to your health.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33909.png",
+      "local_image_path": "images/33909.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120956.png",
+      "local_image_path": "images/120956.png"
+    }
+  ],
+  "synonyms": [
+    "damaging",
+    "injurious",
+    "destructive",
+    "detrimental",
+    "hurtful",
+    "dangerous",
+    "unsafe",
+    "risky",
+    "wounding",
+    "toxic",
+    "poisonous"
+  ],
+  "antonyms": [
+    "harmless"
+  ],
+  "similar_words": [
+    "harmfully",
+    "harmfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harmful.mp3",
+  "local_sound_path": "sounds/harmful.mp3"
+}

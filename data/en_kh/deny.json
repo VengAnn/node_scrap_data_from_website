@@ -1,0 +1,65 @@
+{
+  "word": "deny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "deny privilege",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20569.png",
+      "local_image_path": "images/20569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He gave to his friends what he denied to his family.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20570.png",
+      "local_image_path": "images/20570.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20571.png",
+      "local_image_path": "images/20571.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118037.png",
+      "local_image_path": "images/118037.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118038.png",
+      "local_image_path": "images/118038.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118039.png",
+      "local_image_path": "images/118039.png"
+    }
+  ],
+  "synonyms": [
+    "renounce",
+    "disavow",
+    "reject",
+    "disown",
+    "abjure",
+    "forswear",
+    "forgo",
+    "forego",
+    "decline",
+    "repudiate",
+    "refuse",
+    "disallow",
+    "turn down"
+  ],
+  "antonyms": [
+    "agree",
+    "permit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deny.mp3",
+  "local_sound_path": "sounds/deny.mp3"
+}

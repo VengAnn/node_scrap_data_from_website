@@ -1,0 +1,31 @@
+{
+  "word": "approval",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "your plans have my approval",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5178.png",
+      "local_image_path": "images/5178.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113905.png",
+      "local_image_path": "images/113905.png"
+    }
+  ],
+  "synonyms": [
+    "appreciation",
+    "admiration",
+    "liking",
+    "praise",
+    "esteem",
+    "approbation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/approval.mp3",
+  "local_sound_path": "sounds/approval.mp3"
+}

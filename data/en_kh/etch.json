@@ -1,0 +1,31 @@
+{
+  "word": "etch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She enjoys etching.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25975.png",
+      "local_image_path": "images/25975.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119436.png",
+      "local_image_path": "images/119436.png"
+    }
+  ],
+  "synonyms": [
+    "sketch",
+    "outline",
+    "draw"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "etcher",
+    "etching"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/etch.mp3",
+  "local_sound_path": "sounds/etch.mp3"
+}

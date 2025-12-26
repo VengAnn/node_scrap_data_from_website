@@ -1,0 +1,61 @@
+{
+  "word": "boast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "our school can boast (of) a fine swimming pool",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9879.png",
+      "local_image_path": "images/9879.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9881.png",
+      "local_image_path": "images/9881.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115316.png",
+      "local_image_path": "images/115316.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115317.png",
+      "local_image_path": "images/115317.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115318.png",
+      "local_image_path": "images/115318.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9880.png",
+      "local_image_path": "images/9880.png"
+    }
+  ],
+  "synonyms": [
+    "claim",
+    "assertion",
+    "possess",
+    "feature",
+    "display",
+    "enjoy",
+    "have"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "boaster",
+    "boastful",
+    "boastfully",
+    "boastfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boast.mp3",
+  "local_sound_path": "sounds/boast.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "contagious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17178.png",
+      "local_image_path": "images/17178.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131231.png",
+      "local_image_path": "images/131231.png"
+    }
+  ],
+  "synonyms": [
+    "infectious",
+    "catching",
+    "communicable",
+    "transmittable",
+    "transmissible"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "contagiously",
+    "contagiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contagious.mp3",
+  "local_sound_path": "sounds/contagious.mp3"
+}

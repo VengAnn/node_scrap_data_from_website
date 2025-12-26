@@ -1,0 +1,36 @@
+{
+  "word": "heir",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34492.png",
+      "local_image_path": "images/34492.png"
+    }
+  ],
+  "synonyms": [
+    "successor",
+    "inheritor",
+    "beneficiary",
+    "legatee",
+    "recipient",
+    "heritor"
+  ],
+  "antonyms": [
+    "predecessor"
+  ],
+  "similar_words": [
+    "heir apparent",
+    "heir-presumptive",
+    "heirdom",
+    "heiress",
+    "heirless",
+    "heirloom",
+    "heirs of the body",
+    "heirship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heir.mp3",
+  "local_sound_path": "sounds/heir.mp3"
+}

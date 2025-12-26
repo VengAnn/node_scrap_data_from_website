@@ -1,0 +1,45 @@
+{
+  "word": "prescription",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66537.png",
+      "local_image_path": "images/66537.png"
+    },
+    {
+      "pos": "n",
+      "example": "write a prescription",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66538.png",
+      "local_image_path": "images/66538.png"
+    },
+    {
+      "pos": "n",
+      "example": "prescription of honesty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66539.png",
+      "local_image_path": "images/66539.png"
+    },
+    {
+      "pos": "n",
+      "example": "moral prescription",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66540.png",
+      "local_image_path": "images/66540.png"
+    }
+  ],
+  "synonyms": [
+    "medicine",
+    "treatment",
+    "drug",
+    "preparation",
+    "remedy",
+    "instruction",
+    "recommendation",
+    "direction"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prescription.mp3",
+  "local_sound_path": "sounds/prescription.mp3"
+}

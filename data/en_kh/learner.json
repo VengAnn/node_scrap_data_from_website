@@ -1,0 +1,28 @@
+{
+  "word": "learner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45534.png",
+      "local_image_path": "images/45534.png"
+    }
+  ],
+  "synonyms": [
+    "beginner",
+    "apprentice",
+    "student",
+    "pupil",
+    "novice",
+    "greenhorn",
+    "initiate"
+  ],
+  "antonyms": [
+    "expert"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/learner.mp3",
+  "local_sound_path": "sounds/learner.mp3"
+}

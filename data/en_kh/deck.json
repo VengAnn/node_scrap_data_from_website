@@ -1,0 +1,48 @@
+{
+  "word": "deck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "upper deck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19977.png",
+      "local_image_path": "images/19977.png"
+    },
+    {
+      "pos": "n",
+      "example": "deck of cards",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19978.png",
+      "local_image_path": "images/19978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19979.png",
+      "local_image_path": "images/19979.png"
+    }
+  ],
+  "synonyms": [
+    "level",
+    "floor",
+    "adorn",
+    "decorate",
+    "bedeck",
+    "hang",
+    "cover",
+    "wreathe",
+    "dress",
+    "clothe",
+    "garb",
+    "festoon"
+  ],
+  "antonyms": [
+    "strip"
+  ],
+  "similar_words": [
+    "deck cargo",
+    "deckplan"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deck.mp3",
+  "local_sound_path": "sounds/deck.mp3"
+}

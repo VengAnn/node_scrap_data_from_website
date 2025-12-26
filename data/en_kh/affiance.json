@@ -1,0 +1,42 @@
+{
+  "word": "affiance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2716.png",
+      "local_image_path": "images/2716.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113361.png",
+      "local_image_path": "images/113361.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113362.png",
+      "local_image_path": "images/113362.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2715.png",
+      "local_image_path": "images/2715.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112085.png",
+      "local_image_path": "images/112085.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affiance.mp3",
+  "local_sound_path": "sounds/affiance.mp3"
+}

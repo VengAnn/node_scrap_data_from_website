@@ -1,0 +1,51 @@
+{
+  "word": "allegiance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "oath of allegiance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3426.png",
+      "local_image_path": "images/3426.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112380.png",
+      "local_image_path": "images/112380.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112381.png",
+      "local_image_path": "images/112381.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112382.png",
+      "local_image_path": "images/112382.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112383.png",
+      "local_image_path": "images/112383.png"
+    }
+  ],
+  "synonyms": [
+    "loyalty",
+    "commitment",
+    "adherence",
+    "faithfulness",
+    "duty",
+    "fidelity"
+  ],
+  "antonyms": [
+    "disloyalty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allegiance.mp3",
+  "local_sound_path": "sounds/allegiance.mp3"
+}

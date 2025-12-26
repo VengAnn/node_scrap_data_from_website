@@ -1,0 +1,74 @@
+{
+  "word": "dull",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dull knife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23381.png",
+      "local_image_path": "images/23381.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dull student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23382.png",
+      "local_image_path": "images/23382.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dull party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23383.png",
+      "local_image_path": "images/23383.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dull pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23384.png",
+      "local_image_path": "images/23384.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dull color",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23385.png",
+      "local_image_path": "images/23385.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dull a knife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23386.png",
+      "local_image_path": "images/23386.png"
+    }
+  ],
+  "synonyms": [
+    "cloudy",
+    "overcast",
+    "gray",
+    "gloomy",
+    "deaden",
+    "dampen",
+    "stultify",
+    "cloud",
+    "blunt",
+    "reduce",
+    "blur",
+    "muffle",
+    "assuage",
+    "allay"
+  ],
+  "antonyms": [
+    "interesting",
+    "bright",
+    "accentuate"
+  ],
+  "similar_words": [
+    "dull market",
+    "dull-head",
+    "dullard",
+    "dullish",
+    "dullness",
+    "dully"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dull.mp3",
+  "local_sound_path": "sounds/dull.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "stability",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "stability of a structure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83994.png",
+      "local_image_path": "images/83994.png"
+    },
+    {
+      "pos": "n",
+      "example": "emotional stability",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83995.png",
+      "local_image_path": "images/83995.png"
+    }
+  ],
+  "synonyms": [
+    "constancy",
+    "steadiness",
+    "firmness",
+    "solidity",
+    "permanence",
+    "immovability",
+    "strength",
+    "permanency"
+  ],
+  "antonyms": [
+    "instability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stability.mp3",
+  "local_sound_path": "sounds/stability.mp3"
+}

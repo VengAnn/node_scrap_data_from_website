@@ -1,0 +1,44 @@
+{
+  "word": "expansion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26724.png",
+      "local_image_path": "images/26724.png"
+    },
+    {
+      "pos": "n",
+      "example": "expansion on a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26725.png",
+      "local_image_path": "images/26725.png"
+    },
+    {
+      "pos": "n",
+      "example": "degree of expansion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26726.png",
+      "local_image_path": "images/26726.png"
+    }
+  ],
+  "synonyms": [
+    "growth",
+    "development",
+    "increase",
+    "extension",
+    "enlargement"
+  ],
+  "antonyms": [
+    "contraction"
+  ],
+  "similar_words": [
+    "expansion card",
+    "expansion slot",
+    "expansionary",
+    "expansionism",
+    "expansionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expansion.mp3",
+  "local_sound_path": "sounds/expansion.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "exalt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "exalt his position",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26323.png",
+      "local_image_path": "images/26323.png"
+    }
+  ],
+  "synonyms": [
+    "praise",
+    "laud",
+    "acclaim",
+    "applaud",
+    "extol",
+    "lionize",
+    "revere"
+  ],
+  "antonyms": [
+    "disparage"
+  ],
+  "similar_words": [
+    "exaltation",
+    "exalted"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exalt.mp3",
+  "local_sound_path": "sounds/exalt.mp3"
+}

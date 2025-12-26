@@ -1,0 +1,53 @@
+{
+  "word": "terrible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "terrible face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88424.png",
+      "local_image_path": "images/88424.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88425.png",
+      "local_image_path": "images/88425.png"
+    },
+    {
+      "pos": "adj",
+      "example": "terrible performance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88426.png",
+      "local_image_path": "images/88426.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88427.png",
+      "local_image_path": "images/88427.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88428.png",
+      "local_image_path": "images/88428.png"
+    }
+  ],
+  "synonyms": [
+    "severe",
+    "extreme",
+    "serious",
+    "grave",
+    "intense",
+    "excessive"
+  ],
+  "antonyms": [
+    "wonderful",
+    "pleasant",
+    "mild"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terrible.mp3",
+  "local_sound_path": "sounds/terrible.mp3"
+}

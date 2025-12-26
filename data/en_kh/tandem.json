@@ -1,0 +1,30 @@
+{
+  "word": "tandem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87444.png",
+      "local_image_path": "images/87444.png"
+    },
+    {
+      "pos": "n",
+      "example": "in tandem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87443.png",
+      "local_image_path": "images/87443.png"
+    }
+  ],
+  "synonyms": [
+    "bike",
+    "cycle",
+    "pushbike",
+    "bicycle",
+    "trail bike"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tandem.mp3",
+  "local_sound_path": "sounds/tandem.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "unconfirmed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93754.png",
+      "local_image_path": "images/93754.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128898.png",
+      "local_image_path": "images/128898.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128899.png",
+      "local_image_path": "images/128899.png"
+    }
+  ],
+  "synonyms": [
+    "unverified",
+    "unsubstantiated",
+    "unproven",
+    "unofficial",
+    "invalid",
+    "hearsay",
+    "unsupported",
+    "uncorroborated"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unconfirmed.mp3",
+  "local_sound_path": "sounds/unconfirmed.mp3"
+}

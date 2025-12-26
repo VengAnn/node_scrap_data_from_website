@@ -1,0 +1,49 @@
+{
+  "word": "attachment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "attachment of his property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6231.png",
+      "local_image_path": "images/6231.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112854.png",
+      "local_image_path": "images/112854.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112855.png",
+      "local_image_path": "images/112855.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112856.png",
+      "local_image_path": "images/112856.png"
+    }
+  ],
+  "synonyms": [
+    "affection",
+    "connection",
+    "regard",
+    "friendship",
+    "liking",
+    "fondness",
+    "tenderness",
+    "warmth",
+    "love",
+    "bond"
+  ],
+  "antonyms": [
+    "detachment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attachment.mp3",
+  "local_sound_path": "sounds/attachment.mp3"
+}

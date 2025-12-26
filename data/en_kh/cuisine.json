@@ -1,0 +1,30 @@
+{
+  "word": "cuisine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "study cuisine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19010.png",
+      "local_image_path": "images/19010.png"
+    },
+    {
+      "pos": "n",
+      "example": "deligious cuisine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19011.png",
+      "local_image_path": "images/19011.png"
+    }
+  ],
+  "synonyms": [
+    "cooking",
+    "cookery",
+    "food",
+    "gastronomy",
+    "fare"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cuisine.mp3",
+  "local_sound_path": "sounds/cuisine.mp3"
+}

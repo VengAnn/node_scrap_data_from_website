@@ -1,0 +1,56 @@
+{
+  "word": "afflict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2746.png",
+      "local_image_path": "images/2746.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112245.png",
+      "local_image_path": "images/112245.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112246.png",
+      "local_image_path": "images/112246.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112247.png",
+      "local_image_path": "images/112247.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112248.png",
+      "local_image_path": "images/112248.png"
+    }
+  ],
+  "synonyms": [
+    "trouble",
+    "bother",
+    "worry",
+    "upset",
+    "distress",
+    "affect",
+    "vex"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "afflicted",
+    "afflicter",
+    "affliction",
+    "afflictive",
+    "afflictively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/afflict.mp3",
+  "local_sound_path": "sounds/afflict.mp3"
+}

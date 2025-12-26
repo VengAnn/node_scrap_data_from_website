@@ -1,0 +1,41 @@
+{
+  "word": "acrobat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2169.png",
+      "local_image_path": "images/2169.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111892.png",
+      "local_image_path": "images/111892.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111893.png",
+      "local_image_path": "images/111893.png"
+    }
+  ],
+  "synonyms": [
+    "tumbler",
+    "trapeze artist",
+    "gymnast",
+    "entertainer",
+    "funambulist"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "acrobatic",
+    "acrobatically",
+    "acrobatics",
+    "acrobatism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acrobat.mp3",
+  "local_sound_path": "sounds/acrobat.mp3"
+}

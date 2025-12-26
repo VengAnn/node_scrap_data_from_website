@@ -1,0 +1,39 @@
+{
+  "word": "contradict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17346.png",
+      "local_image_path": "images/17346.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the report contradicts what we heard yesterday",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17345.png",
+      "local_image_path": "images/17345.png"
+    }
+  ],
+  "synonyms": [
+    "conflict"
+  ],
+  "antonyms": [
+    "correspond",
+    "support",
+    "confirm"
+  ],
+  "similar_words": [
+    "contradictable",
+    "contradicter",
+    "contradiction",
+    "contradictive",
+    "contradictor",
+    "contradictorily",
+    "contradictoriness",
+    "contradictory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contradict.mp3",
+  "local_sound_path": "sounds/contradict.mp3"
+}

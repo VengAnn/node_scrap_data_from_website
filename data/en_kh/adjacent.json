@@ -1,0 +1,29 @@
+{
+  "word": "adjacent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2385.png",
+      "local_image_path": "images/2385.png"
+    }
+  ],
+  "synonyms": [
+    "neighboring",
+    "contiguous",
+    "nearby",
+    "adjoining",
+    "next",
+    "side",
+    "close",
+    "next door"
+  ],
+  "antonyms": [
+    "distant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjacent.mp3",
+  "local_sound_path": "sounds/adjacent.mp3"
+}

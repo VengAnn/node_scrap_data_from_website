@@ -1,0 +1,35 @@
+{
+  "word": "dramatize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "dramatize a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23001.png",
+      "local_image_path": "images/23001.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dramatize his feelings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23002.png",
+      "local_image_path": "images/23002.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118780.png",
+      "local_image_path": "images/118780.png"
+    }
+  ],
+  "synonyms": [
+    "exaggerate",
+    "sensationalize",
+    "embellish",
+    "overstate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dramatize.mp3",
+  "local_sound_path": "sounds/dramatize.mp3"
+}

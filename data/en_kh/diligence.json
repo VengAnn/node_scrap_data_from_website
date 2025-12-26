@@ -1,0 +1,41 @@
+{
+  "word": "diligence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She shows great deligence in her school work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21382.png",
+      "local_image_path": "images/21382.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130247.png",
+      "local_image_path": "images/130247.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130248.png",
+      "local_image_path": "images/130248.png"
+    }
+  ],
+  "synonyms": [
+    "assiduousness",
+    "industry",
+    "meticulousness",
+    "conscientiousness",
+    "thoroughness",
+    "attentiveness",
+    "carefulness",
+    "persistence"
+  ],
+  "antonyms": [
+    "carelessness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diligence.mp3",
+  "local_sound_path": "sounds/diligence.mp3"
+}

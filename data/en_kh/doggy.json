@@ -1,0 +1,24 @@
+{
+  "word": "doggy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22597.png",
+      "local_image_path": "images/22597.png"
+    }
+  ],
+  "synonyms": [
+    "pooch",
+    "dog",
+    "canine",
+    "hound",
+    "pet"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doggy.mp3",
+  "local_sound_path": "sounds/doggy.mp3"
+}

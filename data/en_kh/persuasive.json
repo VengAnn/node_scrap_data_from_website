@@ -1,0 +1,48 @@
+{
+  "word": "persuasive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62080.png",
+      "local_image_path": "images/62080.png"
+    },
+    {
+      "pos": "adj",
+      "example": "persuasive argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62081.png",
+      "local_image_path": "images/62081.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125402.png",
+      "local_image_path": "images/125402.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125403.png",
+      "local_image_path": "images/125403.png"
+    }
+  ],
+  "synonyms": [
+    "influential",
+    "convincing",
+    "believable",
+    "winning",
+    "credible",
+    "cogent"
+  ],
+  "antonyms": [
+    "unconvincing"
+  ],
+  "similar_words": [
+    "persuasively",
+    "persuasiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/persuasive.mp3",
+  "local_sound_path": "sounds/persuasive.mp3"
+}

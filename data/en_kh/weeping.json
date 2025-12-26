@@ -1,0 +1,33 @@
+{
+  "word": "weeping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99642.png",
+      "local_image_path": "images/99642.png"
+    }
+  ],
+  "synonyms": [
+    "lament",
+    "lamentation",
+    "crying",
+    "dirge",
+    "howling",
+    "sobbing",
+    "moaning",
+    "wailing"
+  ],
+  "antonyms": [
+    "celebration"
+  ],
+  "similar_words": [
+    "weeping willow",
+    "weeping-ripe",
+    "weepingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weeping.mp3",
+  "local_sound_path": "sounds/weeping.mp3"
+}

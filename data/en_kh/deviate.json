@@ -1,0 +1,28 @@
+{
+  "word": "deviate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The plan deviated from its usual route.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21088.png",
+      "local_image_path": "images/21088.png"
+    }
+  ],
+  "synonyms": [
+    "diverge",
+    "stray",
+    "depart",
+    "swerve",
+    "turn",
+    "digress",
+    "differ"
+  ],
+  "antonyms": [
+    "conform"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deviate.mp3",
+  "local_sound_path": "sounds/deviate.mp3"
+}

@@ -1,0 +1,80 @@
+{
+  "word": "circle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "circle overhead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14570.png",
+      "local_image_path": "images/14570.png"
+    },
+    {
+      "pos": "n",
+      "example": "traffic circle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14568.png",
+      "local_image_path": "images/14568.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116334.png",
+      "local_image_path": "images/116334.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116335.png",
+      "local_image_path": "images/116335.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116336.png",
+      "local_image_path": "images/116336.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116337.png",
+      "local_image_path": "images/116337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14569.png",
+      "local_image_path": "images/14569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116338.png",
+      "local_image_path": "images/116338.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116339.png",
+      "local_image_path": "images/116339.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "gang",
+    "set",
+    "clique",
+    "crowd",
+    "orbit",
+    "turn",
+    "circumnavigate",
+    "revolve"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "circle fare",
+    "circle trip",
+    "circlet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/circle.mp3",
+  "local_sound_path": "sounds/circle.mp3"
+}

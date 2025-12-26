@@ -1,0 +1,51 @@
+{
+  "word": "impact",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37561.png",
+      "local_image_path": "images/37561.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121567.png",
+      "local_image_path": "images/121567.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121568.png",
+      "local_image_path": "images/121568.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37562.png",
+      "local_image_path": "images/37562.png"
+    }
+  ],
+  "synonyms": [
+    "influence",
+    "impression",
+    "effect",
+    "bearing",
+    "crash",
+    "collision",
+    "shock",
+    "bang",
+    "blow",
+    "force",
+    "contact",
+    "brunt"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "impaction"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impact.mp3",
+  "local_sound_path": "sounds/impact.mp3"
+}

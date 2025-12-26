@@ -1,0 +1,27 @@
+{
+  "word": "unwell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96596.png",
+      "local_image_path": "images/96596.png"
+    }
+  ],
+  "synonyms": [
+    "ill",
+    "poorly",
+    "sick",
+    "ailing",
+    "indisposed",
+    "off-color"
+  ],
+  "antonyms": [
+    "well"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unwell.mp3",
+  "local_sound_path": "sounds/unwell.mp3"
+}

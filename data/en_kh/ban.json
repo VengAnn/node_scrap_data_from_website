@@ -1,0 +1,75 @@
+{
+  "word": "ban",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7262.png",
+      "local_image_path": "images/7262.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114504.png",
+      "local_image_path": "images/114504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114505.png",
+      "local_image_path": "images/114505.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114506.png",
+      "local_image_path": "images/114506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7261.png",
+      "local_image_path": "images/7261.png"
+    }
+  ],
+  "synonyms": [
+    "prohibition",
+    "veto",
+    "bar",
+    "injunction",
+    "embargo",
+    "sanction",
+    "interdict",
+    "forbid",
+    "outlaw",
+    "prohibit",
+    "proscribe",
+    "disallow"
+  ],
+  "antonyms": [
+    "allow"
+  ],
+  "similar_words": [
+    "banal",
+    "banality",
+    "banally",
+    "banana",
+    "banana oil",
+    "banana tree",
+    "bananas",
+    "bancassurance",
+    "band",
+    "band-aid",
+    "bandage",
+    "bandager",
+    "bandanna",
+    "bandbox",
+    "bandeau",
+    "banded",
+    "banderilla"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ban.mp3",
+  "local_sound_path": "sounds/ban.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "push",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "don't push",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69092.png",
+      "local_image_path": "images/69092.png"
+    },
+    {
+      "pos": "n",
+      "example": "give him a push",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69093.png",
+      "local_image_path": "images/69093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "push a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69089.png",
+      "local_image_path": "images/69089.png"
+    },
+    {
+      "pos": "tv",
+      "example": "push him to achieve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69090.png",
+      "local_image_path": "images/69090.png"
+    },
+    {
+      "pos": "tv",
+      "example": "push drugs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69091.png",
+      "local_image_path": "images/69091.png"
+    }
+  ],
+  "synonyms": [
+    "drive",
+    "ambition",
+    "energy",
+    "force",
+    "vigor",
+    "impetus",
+    "motivation",
+    "advocate",
+    "promote",
+    "advance",
+    "endorse",
+    "indorse",
+    "plug",
+    "boost",
+    "back"
+  ],
+  "antonyms": [
+    "pull",
+    "restrain",
+    "oppose",
+    "apathy"
+  ],
+  "similar_words": [
+    "push ball",
+    "pushbike",
+    "pushcart",
+    "pusher",
+    "pushful",
+    "pushfulness",
+    "pushily",
+    "pushiness",
+    "pushing",
+    "pushingly",
+    "pushover",
+    "pushy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/push.mp3",
+  "local_sound_path": "sounds/push.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "elocution",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24339.png",
+      "local_image_path": "images/24339.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24340.png",
+      "local_image_path": "images/24340.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118998.png",
+      "local_image_path": "images/118998.png"
+    }
+  ],
+  "synonyms": [
+    "diction",
+    "voice production",
+    "pronunciation",
+    "enunciation",
+    "articulation",
+    "delivery",
+    "vocalization"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "elocutionary",
+    "elocutionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elocution.mp3",
+  "local_sound_path": "sounds/elocution.mp3"
+}

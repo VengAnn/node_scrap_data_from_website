@@ -1,0 +1,44 @@
+{
+  "word": "install",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40680.png",
+      "local_image_path": "images/40680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "install an appliance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40681.png",
+      "local_image_path": "images/40681.png"
+    },
+    {
+      "pos": "tv",
+      "example": "install sb in office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40682.png",
+      "local_image_path": "images/40682.png"
+    }
+  ],
+  "synonyms": [
+    "settle",
+    "ensconce",
+    "position"
+  ],
+  "antonyms": [
+    "remove",
+    "oust"
+  ],
+  "similar_words": [
+    "installation",
+    "installent",
+    "installer",
+    "installment",
+    "installment contract",
+    "installment plan"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/install.mp3",
+  "local_sound_path": "sounds/install.mp3"
+}

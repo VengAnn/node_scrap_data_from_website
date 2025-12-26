@@ -1,0 +1,42 @@
+{
+  "word": "parrot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60241.png",
+      "local_image_path": "images/60241.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60242.png",
+      "local_image_path": "images/60242.png"
+    }
+  ],
+  "synonyms": [
+    "imitator",
+    "mimic",
+    "impressionist",
+    "impersonator",
+    "copier",
+    "imitate",
+    "copy",
+    "impersonate",
+    "ape",
+    "echo"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "parrot fashion",
+    "parrot fish",
+    "parrot like",
+    "parrotlet",
+    "parrotry",
+    "parroty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/parrot.mp3",
+  "local_sound_path": "sounds/parrot.mp3"
+}

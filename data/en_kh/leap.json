@@ -1,0 +1,71 @@
+{
+  "word": "leap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "leap over a fence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45510.png",
+      "local_image_path": "images/45510.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45513.png",
+      "local_image_path": "images/45513.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45514.png",
+      "local_image_path": "images/45514.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123430.png",
+      "local_image_path": "images/123430.png"
+    },
+    {
+      "pos": "tv",
+      "example": "leap a wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45511.png",
+      "local_image_path": "images/45511.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45512.png",
+      "local_image_path": "images/45512.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45520.png",
+      "local_image_path": "images/45520.png"
+    }
+  ],
+  "synonyms": [
+    "bound",
+    "jump",
+    "dive",
+    "increase",
+    "rise",
+    "mount",
+    "ascend",
+    "surge"
+  ],
+  "antonyms": [
+    "drop"
+  ],
+  "similar_words": [
+    "leap at",
+    "leap-frog",
+    "leaper",
+    "leaping",
+    "leapyear"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leap.mp3",
+  "local_sound_path": "sounds/leap.mp3"
+}

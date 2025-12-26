@@ -1,0 +1,34 @@
+{
+  "word": "avalanche",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6663.png",
+      "local_image_path": "images/6663.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6662.png",
+      "local_image_path": "images/6662.png"
+    }
+  ],
+  "synonyms": [
+    "flood",
+    "rush",
+    "landslide",
+    "storm",
+    "inundation",
+    "mass",
+    "quantity",
+    "increase",
+    "shower"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avalanche.mp3",
+  "local_sound_path": "sounds/avalanche.mp3"
+}

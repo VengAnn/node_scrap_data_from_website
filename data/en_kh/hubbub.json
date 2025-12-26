@@ -1,0 +1,28 @@
+{
+  "word": "hubbub",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36209.png",
+      "local_image_path": "images/36209.png"
+    }
+  ],
+  "synonyms": [
+    "noise",
+    "racket",
+    "hullabaloo",
+    "din",
+    "uproar",
+    "clamor",
+    "tumult"
+  ],
+  "antonyms": [
+    "silence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hubbub.mp3",
+  "local_sound_path": "sounds/hubbub.mp3"
+}

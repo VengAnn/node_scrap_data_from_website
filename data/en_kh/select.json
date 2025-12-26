@@ -1,0 +1,41 @@
+{
+  "word": "select",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "select fruit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77789.png",
+      "local_image_path": "images/77789.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77788.png",
+      "local_image_path": "images/77788.png"
+    }
+  ],
+  "synonyms": [
+    "exclusive",
+    "elite",
+    "privileged",
+    "restricted",
+    "limited",
+    "choose",
+    "pick",
+    "opt for"
+  ],
+  "antonyms": [
+    "inferior"
+  ],
+  "similar_words": [
+    "selection",
+    "selective",
+    "selective breeding",
+    "selectivity",
+    "selector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/select.mp3",
+  "local_sound_path": "sounds/select.mp3"
+}

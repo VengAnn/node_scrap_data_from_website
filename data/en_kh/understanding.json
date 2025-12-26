@@ -1,0 +1,61 @@
+{
+  "word": "understanding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94102.png",
+      "local_image_path": "images/94102.png"
+    },
+    {
+      "pos": "n",
+      "example": "good understanding of English",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94098.png",
+      "local_image_path": "images/94098.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94099.png",
+      "local_image_path": "images/94099.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94100.png",
+      "local_image_path": "images/94100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94101.png",
+      "local_image_path": "images/94101.png"
+    }
+  ],
+  "synonyms": [
+    "agreement",
+    "arrangement",
+    "deal",
+    "contract",
+    "settlement",
+    "accord",
+    "pact",
+    "bond",
+    "harmony",
+    "knowing",
+    "grasping",
+    "seeing",
+    "absorbing",
+    "take in"
+  ],
+  "antonyms": [
+    "unsympathetic",
+    "ignorance",
+    "indifference"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/understanding.mp3",
+  "local_sound_path": "sounds/understanding.mp3"
+}

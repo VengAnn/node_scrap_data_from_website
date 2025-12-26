@@ -1,0 +1,51 @@
+{
+  "word": "choke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "choke on food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14305.png",
+      "local_image_path": "images/14305.png"
+    },
+    {
+      "pos": "n",
+      "example": "auto choke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14306.png",
+      "local_image_path": "images/14306.png"
+    },
+    {
+      "pos": "tv",
+      "example": "choke an assailant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14304.png",
+      "local_image_path": "images/14304.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116281.png",
+      "local_image_path": "images/116281.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116282.png",
+      "local_image_path": "images/116282.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116283.png",
+      "local_image_path": "images/116283.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "choked",
+    "choker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/choke.mp3",
+  "local_sound_path": "sounds/choke.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "brawl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10767.png",
+      "local_image_path": "images/10767.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10766.png",
+      "local_image_path": "images/10766.png"
+    }
+  ],
+  "synonyms": [
+    "fight",
+    "scuffle",
+    "tussle",
+    "wrestle",
+    "clash",
+    "scrap"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brawler",
+    "brawling",
+    "brawlingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brawl.mp3",
+  "local_sound_path": "sounds/brawl.mp3"
+}

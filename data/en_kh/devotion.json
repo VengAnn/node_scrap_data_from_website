@@ -1,0 +1,49 @@
+{
+  "word": "devotion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21123.png",
+      "local_image_path": "images/21123.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118237.png",
+      "local_image_path": "images/118237.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118238.png",
+      "local_image_path": "images/118238.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118239.png",
+      "local_image_path": "images/118239.png"
+    }
+  ],
+  "synonyms": [
+    "enthusiasm",
+    "zeal",
+    "keenness",
+    "fervor",
+    "admiration"
+  ],
+  "antonyms": [
+    "neglect",
+    "impiety",
+    "dislike",
+    "apathy"
+  ],
+  "similar_words": [
+    "devotional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devotion.mp3",
+  "local_sound_path": "sounds/devotion.mp3"
+}

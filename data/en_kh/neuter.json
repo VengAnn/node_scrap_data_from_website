@@ -1,0 +1,35 @@
+{
+  "word": "neuter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55560.png",
+      "local_image_path": "images/55560.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55561.png",
+      "local_image_path": "images/55561.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55562.png",
+      "local_image_path": "images/55562.png"
+    }
+  ],
+  "synonyms": [
+    "spay",
+    "sterilize",
+    "castrate",
+    "fix"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/neuter.mp3",
+  "local_sound_path": "sounds/neuter.mp3"
+}

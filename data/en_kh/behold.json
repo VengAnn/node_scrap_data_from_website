@@ -1,0 +1,35 @@
+{
+  "word": "behold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8122.png",
+      "local_image_path": "images/8122.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8121.png",
+      "local_image_path": "images/8121.png"
+    }
+  ],
+  "synonyms": [
+    "observe",
+    "watch",
+    "see",
+    "view",
+    "consider",
+    "regard"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beholden",
+    "beholder",
+    "beholding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/behold.mp3",
+  "local_sound_path": "sounds/behold.mp3"
+}

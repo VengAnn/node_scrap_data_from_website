@@ -1,0 +1,50 @@
+{
+  "word": "bless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "to be bless with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9526.png",
+      "local_image_path": "images/9526.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115201.png",
+      "local_image_path": "images/115201.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115202.png",
+      "local_image_path": "images/115202.png"
+    }
+  ],
+  "synonyms": [
+    "sanctify",
+    "consecrate",
+    "approve",
+    "exalt",
+    "sanction",
+    "support",
+    "endorse",
+    "indorse",
+    "back",
+    "commend"
+  ],
+  "antonyms": [
+    "desecrate",
+    "curse",
+    "decry"
+  ],
+  "similar_words": [
+    "blessed",
+    "blessedness",
+    "blesser",
+    "blessing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bless.mp3",
+  "local_sound_path": "sounds/bless.mp3"
+}

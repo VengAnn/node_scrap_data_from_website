@@ -1,0 +1,66 @@
+{
+  "word": "finish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Movie will finish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28621.png",
+      "local_image_path": "images/28621.png"
+    },
+    {
+      "pos": "n",
+      "example": "fight to the finish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28622.png",
+      "local_image_path": "images/28622.png"
+    },
+    {
+      "pos": "n",
+      "example": "glossy finish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28623.png",
+      "local_image_path": "images/28623.png"
+    },
+    {
+      "pos": "n",
+      "example": "install the finish.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28624.png",
+      "local_image_path": "images/28624.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will finish my job soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28619.png",
+      "local_image_path": "images/28619.png"
+    },
+    {
+      "pos": "tv",
+      "example": "finish furniture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28620.png",
+      "local_image_path": "images/28620.png"
+    }
+  ],
+  "synonyms": [
+    "surface",
+    "texture",
+    "appearance",
+    "polish",
+    "buff",
+    "rub",
+    "varnish",
+    "veneer",
+    "lacquer",
+    "gild"
+  ],
+  "antonyms": [
+    "begin",
+    "start",
+    "beginning"
+  ],
+  "similar_words": [
+    "finished",
+    "finisher"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/finish.mp3",
+  "local_sound_path": "sounds/finish.mp3"
+}

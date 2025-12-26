@@ -1,0 +1,75 @@
+{
+  "word": "particular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "a particular day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60325.png",
+      "local_image_path": "images/60325.png"
+    },
+    {
+      "pos": "adj",
+      "example": "particular interest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60326.png",
+      "local_image_path": "images/60326.png"
+    },
+    {
+      "pos": "adj",
+      "example": "make a particular effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60327.png",
+      "local_image_path": "images/60327.png"
+    },
+    {
+      "pos": "adj",
+      "example": "particular about food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60328.png",
+      "local_image_path": "images/60328.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60329.png",
+      "local_image_path": "images/60329.png"
+    },
+    {
+      "pos": "idm",
+      "example": "in particular",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60330.png",
+      "local_image_path": "images/60330.png"
+    },
+    {
+      "pos": "n",
+      "example": "in any particular",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60331.png",
+      "local_image_path": "images/60331.png"
+    }
+  ],
+  "synonyms": [
+    "instance",
+    "item",
+    "detail",
+    "point",
+    "matter",
+    "regard"
+  ],
+  "antonyms": [
+    "relaxed",
+    "vague",
+    "general"
+  ],
+  "similar_words": [
+    "particular lien",
+    "particularism",
+    "particularist",
+    "particularistic",
+    "particularity",
+    "particularization",
+    "particularize",
+    "particularly",
+    "particulars"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/particular.mp3",
+  "local_sound_path": "sounds/particular.mp3"
+}

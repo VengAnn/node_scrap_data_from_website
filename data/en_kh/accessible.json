@@ -1,0 +1,34 @@
+{
+  "word": "accessible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he is not very accessible",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1819.png",
+      "local_image_path": "images/1819.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113120.png",
+      "local_image_path": "images/113120.png"
+    }
+  ],
+  "synonyms": [
+    "approachable",
+    "affable",
+    "genial",
+    "friendly",
+    "welcoming"
+  ],
+  "antonyms": [
+    "inaccessible",
+    "obscure",
+    "unapproachable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accessible.mp3",
+  "local_sound_path": "sounds/accessible.mp3"
+}

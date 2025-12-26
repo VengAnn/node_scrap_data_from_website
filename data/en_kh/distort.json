@@ -1,0 +1,43 @@
+{
+  "word": "distort",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22301.png",
+      "local_image_path": "images/22301.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118667.png",
+      "local_image_path": "images/118667.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118668.png",
+      "local_image_path": "images/118668.png"
+    }
+  ],
+  "synonyms": [
+    "misrepresent",
+    "twist",
+    "alter",
+    "garble",
+    "change",
+    "falsify",
+    "deform",
+    "disfigure",
+    "warp",
+    "bend"
+  ],
+  "antonyms": [
+    "straighten"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distort.mp3",
+  "local_sound_path": "sounds/distort.mp3"
+}

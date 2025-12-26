@@ -1,0 +1,37 @@
+{
+  "word": "inoculation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40273.png",
+      "local_image_path": "images/40273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130431.png",
+      "local_image_path": "images/130431.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130432.png",
+      "local_image_path": "images/130432.png"
+    }
+  ],
+  "synonyms": [
+    "immunization",
+    "vaccination",
+    "jab",
+    "shot",
+    "injection",
+    "booster"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inoculation.mp3",
+  "local_sound_path": "sounds/inoculation.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "laughing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "laughing faces",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45241.png",
+      "local_image_path": "images/45241.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45242.png",
+      "local_image_path": "images/45242.png"
+    }
+  ],
+  "synonyms": [
+    "smiling",
+    "amused",
+    "pleased"
+  ],
+  "antonyms": [
+    "annoyed",
+    "crying"
+  ],
+  "similar_words": [
+    "laughing-gas",
+    "laughing-stock",
+    "laughingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/laughing.mp3",
+  "local_sound_path": "sounds/laughing.mp3"
+}

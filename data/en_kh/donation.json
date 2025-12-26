@@ -1,0 +1,31 @@
+{
+  "word": "donation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22709.png",
+      "local_image_path": "images/22709.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118738.png",
+      "local_image_path": "images/118738.png"
+    }
+  ],
+  "synonyms": [
+    "gift",
+    "contribution",
+    "payment",
+    "bequest",
+    "endowment",
+    "bestowment"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/donation.mp3",
+  "local_sound_path": "sounds/donation.mp3"
+}

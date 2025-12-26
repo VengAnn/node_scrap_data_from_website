@@ -1,0 +1,51 @@
+{
+  "word": "territory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "large territory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88459.png",
+      "local_image_path": "images/88459.png"
+    },
+    {
+      "pos": "n",
+      "example": "You are in my territory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88460.png",
+      "local_image_path": "images/88460.png"
+    },
+    {
+      "pos": "n",
+      "example": "How many territory does he travel over?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88461.png",
+      "local_image_path": "images/88461.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128171.png",
+      "local_image_path": "images/128171.png"
+    }
+  ],
+  "synonyms": [
+    "area",
+    "subject",
+    "field",
+    "region",
+    "terrain",
+    "patch",
+    "beat",
+    "domain",
+    "pitch",
+    "property",
+    "home",
+    "range",
+    "land",
+    "ground"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/territory.mp3",
+  "local_sound_path": "sounds/territory.mp3"
+}

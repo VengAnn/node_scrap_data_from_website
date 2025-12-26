@@ -1,0 +1,38 @@
+{
+  "word": "shrivel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79624.png",
+      "local_image_path": "images/79624.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79625.png",
+      "local_image_path": "images/79625.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127830.png",
+      "local_image_path": "images/127830.png"
+    }
+  ],
+  "synonyms": [
+    "shrink",
+    "wither",
+    "contract",
+    "telescope",
+    "shorten"
+  ],
+  "antonyms": [
+    "expand"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shrivel.mp3",
+  "local_sound_path": "sounds/shrivel.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "image",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37339.png",
+      "local_image_path": "images/37339.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37340.png",
+      "local_image_path": "images/37340.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121465.png",
+      "local_image_path": "images/121465.png"
+    }
+  ],
+  "synonyms": [
+    "appearance",
+    "look",
+    "persona",
+    "aura",
+    "impression",
+    "picture",
+    "idea",
+    "vision",
+    "view",
+    "air",
+    "concept",
+    "notion"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "image advertising",
+    "image hosting",
+    "image-worship",
+    "image-worshiper",
+    "imagery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/image.mp3",
+  "local_sound_path": "sounds/image.mp3"
+}

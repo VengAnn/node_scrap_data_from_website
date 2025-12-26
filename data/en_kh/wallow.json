@@ -1,0 +1,37 @@
+{
+  "word": "wallow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "wallow in sin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98938.png",
+      "local_image_path": "images/98938.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98936.png",
+      "local_image_path": "images/98936.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98937.png",
+      "local_image_path": "images/98937.png"
+    }
+  ],
+  "synonyms": [
+    "flounder",
+    "stumble",
+    "lurch",
+    "stagger",
+    "welter",
+    "reel"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wallow.mp3",
+  "local_sound_path": "sounds/wallow.mp3"
+}

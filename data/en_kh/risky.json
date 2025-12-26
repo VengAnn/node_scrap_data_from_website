@@ -1,0 +1,36 @@
+{
+  "word": "risky",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73793.png",
+      "local_image_path": "images/73793.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127163.png",
+      "local_image_path": "images/127163.png"
+    }
+  ],
+  "synonyms": [
+    "dangerous",
+    "perilous",
+    "hazardous",
+    "chancy",
+    "dicey",
+    "unsafe",
+    "uncertain",
+    "precarious",
+    "dodgy"
+  ],
+  "antonyms": [
+    "safe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/risky.mp3",
+  "local_sound_path": "sounds/risky.mp3"
+}

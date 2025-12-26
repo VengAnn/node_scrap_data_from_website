@@ -1,0 +1,49 @@
+{
+  "word": "loom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47573.png",
+      "local_image_path": "images/47573.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123639.png",
+      "local_image_path": "images/123639.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123640.png",
+      "local_image_path": "images/123640.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47571.png",
+      "local_image_path": "images/47571.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47572.png",
+      "local_image_path": "images/47572.png"
+    }
+  ],
+  "synonyms": [
+    "impend",
+    "threaten",
+    "approach",
+    "menace"
+  ],
+  "antonyms": [
+    "recede"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/loom.mp3",
+  "local_sound_path": "sounds/loom.mp3"
+}

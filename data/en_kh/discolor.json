@@ -1,0 +1,35 @@
+{
+  "word": "discolor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21674.png",
+      "local_image_path": "images/21674.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21672.png",
+      "local_image_path": "images/21672.png"
+    }
+  ],
+  "synonyms": [
+    "stain",
+    "streak",
+    "tarnish",
+    "tinge",
+    "fade",
+    "bleach"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "discolorate",
+    "discoloration",
+    "discolored"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discolor.mp3",
+  "local_sound_path": "sounds/discolor.mp3"
+}

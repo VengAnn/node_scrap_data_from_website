@@ -1,0 +1,66 @@
+{
+  "word": "real",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "real income",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70505.png",
+      "local_image_path": "images/70505.png"
+    },
+    {
+      "pos": "adj",
+      "example": "real life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70506.png",
+      "local_image_path": "images/70506.png"
+    },
+    {
+      "pos": "adj",
+      "example": "keep it real",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70508.png",
+      "local_image_path": "images/70508.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70507.png",
+      "local_image_path": "images/70507.png"
+    }
+  ],
+  "synonyms": [
+    "very",
+    "truly",
+    "honestly",
+    "really",
+    "absolutely",
+    "extremely"
+  ],
+  "antonyms": [
+    "false",
+    "dishonest",
+    "nonexistent",
+    "artificial",
+    "hardly"
+  ],
+  "similar_words": [
+    "real defenses",
+    "real estate",
+    "real estate fraud",
+    "real property",
+    "realign",
+    "realignment",
+    "realisation",
+    "realism",
+    "realist",
+    "realistic",
+    "realistically",
+    "reality",
+    "reality check",
+    "realizable",
+    "realization",
+    "realize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/real.mp3",
+  "local_sound_path": "sounds/real.mp3"
+}

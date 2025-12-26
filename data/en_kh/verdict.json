@@ -1,0 +1,33 @@
+{
+  "word": "verdict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "verdict of the jury",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97625.png",
+      "local_image_path": "images/97625.png"
+    },
+    {
+      "pos": "n",
+      "example": "verdict of the people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97626.png",
+      "local_image_path": "images/97626.png"
+    }
+  ],
+  "synonyms": [
+    "decision",
+    "judgment",
+    "finding",
+    "result",
+    "outcome",
+    "ruling",
+    "decree",
+    "conclusion"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/verdict.mp3",
+  "local_sound_path": "sounds/verdict.mp3"
+}

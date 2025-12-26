@@ -1,0 +1,79 @@
+{
+  "word": "spoil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "milks spoil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83570.png",
+      "local_image_path": "images/83570.png"
+    },
+    {
+      "pos": "n",
+      "example": "The thieves were sharing the spoils",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83571.png",
+      "local_image_path": "images/83571.png"
+    },
+    {
+      "pos": "n",
+      "example": "spoil of office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83572.png",
+      "local_image_path": "images/83572.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spoil hs chances",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83568.png",
+      "local_image_path": "images/83568.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spoil a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83569.png",
+      "local_image_path": "images/83569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130824.png",
+      "local_image_path": "images/130824.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130825.png",
+      "local_image_path": "images/130825.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130826.png",
+      "local_image_path": "images/130826.png"
+    }
+  ],
+  "synonyms": [
+    "decay",
+    "rot",
+    "ruin",
+    "blemish",
+    "blot",
+    "blight",
+    "destroy",
+    "impair"
+  ],
+  "antonyms": [
+    "improve",
+    "deprive",
+    "neglect"
+  ],
+  "similar_words": [
+    "spoilage",
+    "spoiler",
+    "spoilful",
+    "spoils",
+    "spoilsport"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spoil.mp3",
+  "local_sound_path": "sounds/spoil.mp3"
+}

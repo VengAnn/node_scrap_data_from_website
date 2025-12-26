@@ -1,0 +1,56 @@
+{
+  "word": "conquer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "the Normans conquered English in 1066",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16918.png",
+      "local_image_path": "images/16918.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117277.png",
+      "local_image_path": "images/117277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117278.png",
+      "local_image_path": "images/117278.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117279.png",
+      "local_image_path": "images/117279.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117280.png",
+      "local_image_path": "images/117280.png"
+    }
+  ],
+  "synonyms": [
+    "take",
+    "occupy",
+    "capture",
+    "dominate",
+    "seize"
+  ],
+  "antonyms": [
+    "lose",
+    "surrender"
+  ],
+  "similar_words": [
+    "conquerable",
+    "conqueress",
+    "conqueror",
+    "conquerous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conquer.mp3",
+  "local_sound_path": "sounds/conquer.mp3"
+}

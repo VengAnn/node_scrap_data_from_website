@@ -1,0 +1,27 @@
+{
+  "word": "attorney",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "practicing attorney",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6294.png",
+      "local_image_path": "images/6294.png"
+    }
+  ],
+  "synonyms": [
+    "lawyer",
+    "brief",
+    "notary",
+    "advocate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "attorney in fact",
+    "attorney-general",
+    "attorneyship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attorney.mp3",
+  "local_sound_path": "sounds/attorney.mp3"
+}

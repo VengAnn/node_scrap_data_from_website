@@ -1,0 +1,78 @@
+{
+  "word": "nasty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55001.png",
+      "local_image_path": "images/55001.png"
+    },
+    {
+      "pos": "adj",
+      "example": "nasty medicine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55002.png",
+      "local_image_path": "images/55002.png"
+    },
+    {
+      "pos": "adj",
+      "example": "nasty smell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55003.png",
+      "local_image_path": "images/55003.png"
+    },
+    {
+      "pos": "adj",
+      "example": "nasty habit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55004.png",
+      "local_image_path": "images/55004.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124476.png",
+      "local_image_path": "images/124476.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124477.png",
+      "local_image_path": "images/124477.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124478.png",
+      "local_image_path": "images/124478.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124479.png",
+      "local_image_path": "images/124479.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124480.png",
+      "local_image_path": "images/124480.png"
+    }
+  ],
+  "synonyms": [
+    "severe",
+    "painful",
+    "horrible",
+    "serious",
+    "grave",
+    "worrying",
+    "dangerous"
+  ],
+  "antonyms": [
+    "kind",
+    "pleasant",
+    "slight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nasty.mp3",
+  "local_sound_path": "sounds/nasty.mp3"
+}

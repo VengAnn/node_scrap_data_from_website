@@ -1,0 +1,72 @@
+{
+  "word": "dance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "like to dance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19586.png",
+      "local_image_path": "images/19586.png"
+    },
+    {
+      "pos": "iv",
+      "example": "(needle) danced",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19587.png",
+      "local_image_path": "images/19587.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19589.png",
+      "local_image_path": "images/19589.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117688.png",
+      "local_image_path": "images/117688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117689.png",
+      "local_image_path": "images/117689.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117690.png",
+      "local_image_path": "images/117690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19588.png",
+      "local_image_path": "images/19588.png"
+    }
+  ],
+  "synonyms": [
+    "ball",
+    "party",
+    "disco",
+    "gambol",
+    "prance",
+    "skip",
+    "caper",
+    "frolic",
+    "hop",
+    "jump",
+    "leap",
+    "cavort",
+    "wiggle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dance hall",
+    "danceable",
+    "dancer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dance.mp3",
+  "local_sound_path": "sounds/dance.mp3"
+}

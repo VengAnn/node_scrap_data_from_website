@@ -1,0 +1,38 @@
+{
+  "word": "availability",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "availability of supplies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6657.png",
+      "local_image_path": "images/6657.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114305.png",
+      "local_image_path": "images/114305.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114306.png",
+      "local_image_path": "images/114306.png"
+    }
+  ],
+  "synonyms": [
+    "accessibility",
+    "handiness",
+    "convenience",
+    "readiness",
+    "disposal"
+  ],
+  "antonyms": [
+    "unavailability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/availability.mp3",
+  "local_sound_path": "sounds/availability.mp3"
+}

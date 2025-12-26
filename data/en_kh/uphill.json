@@ -1,0 +1,38 @@
+{
+  "word": "uphill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "uphill side",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96725.png",
+      "local_image_path": "images/96725.png"
+    },
+    {
+      "pos": "adj",
+      "example": "uphill task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96726.png",
+      "local_image_path": "images/96726.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96727.png",
+      "local_image_path": "images/96727.png"
+    }
+  ],
+  "synonyms": [
+    "climbing",
+    "ascending",
+    "rising",
+    "mounting"
+  ],
+  "antonyms": [
+    "downhill",
+    "easy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uphill.mp3",
+  "local_sound_path": "sounds/uphill.mp3"
+}

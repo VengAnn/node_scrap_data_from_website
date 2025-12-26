@@ -1,0 +1,40 @@
+{
+  "word": "amalgamate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3730.png",
+      "local_image_path": "images/3730.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113615.png",
+      "local_image_path": "images/113615.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113616.png",
+      "local_image_path": "images/113616.png"
+    }
+  ],
+  "synonyms": [
+    "merge",
+    "join",
+    "combine",
+    "unite",
+    "integrate",
+    "mingle",
+    "fuse"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amalgamate.mp3",
+  "local_sound_path": "sounds/amalgamate.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "word": "lash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45085.png",
+      "local_image_path": "images/45085.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45084.png",
+      "local_image_path": "images/45084.png"
+    },
+    {
+      "pos": "n",
+      "example": "leather lash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45079.png",
+      "local_image_path": "images/45079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45080.png",
+      "local_image_path": "images/45080.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45081.png",
+      "local_image_path": "images/45081.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lash a prisoner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45082.png",
+      "local_image_path": "images/45082.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45083.png",
+      "local_image_path": "images/45083.png"
+    }
+  ],
+  "synonyms": [
+    "shake",
+    "jerk",
+    "thrash",
+    "beat",
+    "twitch",
+    "thump",
+    "whisk"
+  ],
+  "antonyms": [
+    "loosen"
+  ],
+  "similar_words": [
+    "lashed",
+    "lashing",
+    "lashless",
+    "lashlight",
+    "lashout"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lash.mp3",
+  "local_sound_path": "sounds/lash.mp3"
+}

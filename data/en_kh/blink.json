@@ -1,0 +1,63 @@
+{
+  "word": "blink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "don't blink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9557.png",
+      "local_image_path": "images/9557.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115217.png",
+      "local_image_path": "images/115217.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115218.png",
+      "local_image_path": "images/115218.png"
+    },
+    {
+      "pos": "n",
+      "example": "blink of the eye",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9558.png",
+      "local_image_path": "images/9558.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115219.png",
+      "local_image_path": "images/115219.png"
+    },
+    {
+      "pos": "tv",
+      "example": "don't blink your eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9556.png",
+      "local_image_path": "images/9556.png"
+    }
+  ],
+  "synonyms": [
+    "flash",
+    "wink",
+    "flicker",
+    "twinkle",
+    "signal",
+    "glisten",
+    "shine",
+    "shimmer",
+    "glimmer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blinker",
+    "blinkered",
+    "blinkers",
+    "blinking"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blink.mp3",
+  "local_sound_path": "sounds/blink.mp3"
+}

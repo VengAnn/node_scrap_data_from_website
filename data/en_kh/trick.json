@@ -1,0 +1,78 @@
+{
+  "word": "trick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91681.png",
+      "local_image_path": "images/91681.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91679.png",
+      "local_image_path": "images/91679.png"
+    },
+    {
+      "pos": "n",
+      "example": "He got the money from me by a trick.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91677.png",
+      "local_image_path": "images/91677.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91678.png",
+      "local_image_path": "images/91678.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He tricks her into marrying him every time.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91680.png",
+      "local_image_path": "images/91680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128476.png",
+      "local_image_path": "images/128476.png"
+    }
+  ],
+  "synonyms": [
+    "fake",
+    "false",
+    "artificial",
+    "hoax",
+    "pretend",
+    "deceive",
+    "cheat",
+    "mislead",
+    "trap",
+    "fool",
+    "dupe",
+    "hoodwink",
+    "con"
+  ],
+  "antonyms": [
+    "real"
+  ],
+  "similar_words": [
+    "tricker",
+    "trickery",
+    "trickily",
+    "trickiness",
+    "trickish",
+    "trickishiness",
+    "trickishly",
+    "trickle",
+    "trickle charger",
+    "trickment",
+    "trickster",
+    "tricksy",
+    "tricky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trick.mp3",
+  "local_sound_path": "sounds/trick.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "jowl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43277.png",
+      "local_image_path": "images/43277.png"
+    },
+    {
+      "pos": "n",
+      "example": "She's a jowl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43278.png",
+      "local_image_path": "images/43278.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43279.png",
+      "local_image_path": "images/43279.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43280.png",
+      "local_image_path": "images/43280.png"
+    }
+  ],
+  "synonyms": [
+    "jaw",
+    "chin",
+    "cheek",
+    "mandible",
+    "muzzle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jowler",
+    "jowly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jowl.mp3",
+  "local_sound_path": "sounds/jowl.mp3"
+}

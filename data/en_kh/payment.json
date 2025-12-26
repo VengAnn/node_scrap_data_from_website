@@ -1,0 +1,49 @@
+{
+  "word": "payment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "incentive payment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60852.png",
+      "local_image_path": "images/60852.png"
+    },
+    {
+      "pos": "n",
+      "example": "third payment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60853.png",
+      "local_image_path": "images/60853.png"
+    },
+    {
+      "pos": "n",
+      "example": "payment of debts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60854.png",
+      "local_image_path": "images/60854.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60855.png",
+      "local_image_path": "images/60855.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125254.png",
+      "local_image_path": "images/125254.png"
+    }
+  ],
+  "synonyms": [
+    "sum",
+    "expense",
+    "compensation",
+    "recompense",
+    "disbursement",
+    "fee"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/payment.mp3",
+  "local_sound_path": "sounds/payment.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "approve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5180.png",
+      "local_image_path": "images/5180.png"
+    },
+    {
+      "pos": "tv",
+      "example": "her father will never approve of her marrying such a poor man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5179.png",
+      "local_image_path": "images/5179.png"
+    }
+  ],
+  "synonyms": [
+    "grant",
+    "consent",
+    "sanction",
+    "allow",
+    "pass",
+    "authorize",
+    "ratify",
+    "certify",
+    "endorse",
+    "indorse"
+  ],
+  "antonyms": [
+    "disapprove",
+    "reject"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/approve.mp3",
+  "local_sound_path": "sounds/approve.mp3"
+}

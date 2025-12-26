@@ -1,0 +1,41 @@
+{
+  "word": "advancement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "L",
+      "example": "អំណោយ ដែល ឪពុក ឬ ម្ដាយ អោយ ទៅ កូន ដោយ គិត ជា ចំណែក ទាំងអស់ ឬ ចំណែក មួយ ភាគ របស់ កូន ទៅ លើ ទ្រព្យ មរតក ក្នុង ករណី ដែល ឪពុក ឬ ម្ដាយ ស្លាប់ ដោយ គ្មាន ទុក មរតកសាសន៍។",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132454.png",
+      "local_image_path": "images/132454.png"
+    },
+    {
+      "pos": "n",
+      "example": "advancement in rank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2552.png",
+      "local_image_path": "images/2552.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112024.png",
+      "local_image_path": "images/112024.png"
+    }
+  ],
+  "synonyms": [
+    "progression",
+    "progress",
+    "development",
+    "improvement",
+    "spread",
+    "expansion",
+    "encroachment",
+    "innovation",
+    "increase",
+    "evolution"
+  ],
+  "antonyms": [
+    "decline"
+  ],
+  "similar_words": [],
+  "sound": null
+}

@@ -1,0 +1,27 @@
+{
+  "word": "questioner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69531.png",
+      "local_image_path": "images/69531.png"
+    }
+  ],
+  "synonyms": [
+    "interviewer",
+    "interrogator",
+    "cross-examiner",
+    "asker",
+    "inquirer",
+    "examiner"
+  ],
+  "antonyms": [
+    "interviewee"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/questioner.mp3",
+  "local_sound_path": "sounds/questioner.mp3"
+}

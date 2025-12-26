@@ -1,0 +1,43 @@
+{
+  "word": "confirmation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16691.png",
+      "local_image_path": "images/16691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117194.png",
+      "local_image_path": "images/117194.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117195.png",
+      "local_image_path": "images/117195.png"
+    }
+  ],
+  "synonyms": [
+    "authorization",
+    "approval",
+    "sanction",
+    "endorsement",
+    "ratification",
+    "corroboration",
+    "verification",
+    "substantiation",
+    "proof",
+    "authentication",
+    "evidence",
+    "affirmation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confirmation.mp3",
+  "local_sound_path": "sounds/confirmation.mp3"
+}

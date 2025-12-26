@@ -1,0 +1,50 @@
+{
+  "word": "spiral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "spiral spring",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83417.png",
+      "local_image_path": "images/83417.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83418.png",
+      "local_image_path": "images/83418.png"
+    },
+    {
+      "pos": "n",
+      "example": "rising spiral",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83414.png",
+      "local_image_path": "images/83414.png"
+    },
+    {
+      "pos": "n",
+      "example": "flat spiral",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83415.png",
+      "local_image_path": "images/83415.png"
+    },
+    {
+      "pos": "n",
+      "example": "prices are in spiral",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83416.png",
+      "local_image_path": "images/83416.png"
+    }
+  ],
+  "synonyms": [
+    "corkscrew",
+    "coil",
+    "curl",
+    "twine"
+  ],
+  "antonyms": [
+    "straight",
+    "plummet"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spiral.mp3",
+  "local_sound_path": "sounds/spiral.mp3"
+}

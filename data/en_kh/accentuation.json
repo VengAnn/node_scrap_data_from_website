@@ -1,0 +1,32 @@
+{
+  "word": "accentuation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1794.png",
+      "local_image_path": "images/1794.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111993.png",
+      "local_image_path": "images/111993.png"
+    }
+  ],
+  "synonyms": [
+    "emphasis",
+    "stress",
+    "beat",
+    "inflection",
+    "prominence",
+    "accent",
+    "rhythm"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accentuation.mp3",
+  "local_sound_path": "sounds/accentuation.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "bash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7633.png",
+      "local_image_path": "images/7633.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129993.png",
+      "local_image_path": "images/129993.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129994.png",
+      "local_image_path": "images/129994.png"
+    }
+  ],
+  "synonyms": [
+    "attempt",
+    "try",
+    "go",
+    "hit",
+    "dent",
+    "bump",
+    "smash",
+    "prang"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bashful",
+    "bashfully",
+    "bashfulness",
+    "bashing",
+    "bashless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bash.mp3",
+  "local_sound_path": "sounds/bash.mp3"
+}

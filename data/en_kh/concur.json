@@ -1,0 +1,48 @@
+{
+  "word": "concur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "she concured with your plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16527.png",
+      "local_image_path": "images/16527.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117090.png",
+      "local_image_path": "images/117090.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117091.png",
+      "local_image_path": "images/117091.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117092.png",
+      "local_image_path": "images/117092.png"
+    }
+  ],
+  "synonyms": [
+    "coincide",
+    "synchronize",
+    "coexist"
+  ],
+  "antonyms": [
+    "conflict",
+    "resist",
+    "diverge"
+  ],
+  "similar_words": [
+    "concurrence",
+    "concurrent",
+    "concurrently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concur.mp3",
+  "local_sound_path": "sounds/concur.mp3"
+}

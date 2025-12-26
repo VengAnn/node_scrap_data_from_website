@@ -1,0 +1,63 @@
+{
+  "word": "nap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54892.png",
+      "local_image_path": "images/54892.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54891.png",
+      "local_image_path": "images/54891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54893.png",
+      "local_image_path": "images/54893.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54894.png",
+      "local_image_path": "images/54894.png"
+    }
+  ],
+  "synonyms": [
+    "pile",
+    "surface",
+    "finish",
+    "weave",
+    "texture",
+    "down",
+    "snooze",
+    "sleep",
+    "catnap",
+    "doze",
+    "drowse",
+    "kip",
+    "slumber"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "napalm",
+    "nape",
+    "napery",
+    "naphtha",
+    "naphthalene",
+    "naphthalenic",
+    "napiform",
+    "napkin",
+    "napless",
+    "nappe",
+    "napped",
+    "nappy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nap.mp3",
+  "local_sound_path": "sounds/nap.mp3"
+}

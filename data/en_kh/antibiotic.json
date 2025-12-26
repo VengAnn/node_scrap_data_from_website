@@ -1,0 +1,36 @@
+{
+  "word": "antibiotic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4615.png",
+      "local_image_path": "images/4615.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4614.png",
+      "local_image_path": "images/4614.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131331.png",
+      "local_image_path": "images/131331.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131511.png",
+      "local_image_path": "images/131511.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/antibiotic.mp3",
+  "local_sound_path": "sounds/antibiotic.mp3"
+}

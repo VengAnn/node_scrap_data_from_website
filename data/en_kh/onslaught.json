@@ -1,0 +1,36 @@
+{
+  "word": "onslaught",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57647.png",
+      "local_image_path": "images/57647.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124922.png",
+      "local_image_path": "images/124922.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124923.png",
+      "local_image_path": "images/124923.png"
+    }
+  ],
+  "synonyms": [
+    "attack",
+    "assault",
+    "ambush",
+    "offensive",
+    "blitz"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/onslaught.mp3",
+  "local_sound_path": "sounds/onslaught.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "procure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67295.png",
+      "local_image_path": "images/67295.png"
+    },
+    {
+      "pos": "tv",
+      "example": "procure supplies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67293.png",
+      "local_image_path": "images/67293.png"
+    },
+    {
+      "pos": "tv",
+      "example": "procure women",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67294.png",
+      "local_image_path": "images/67294.png"
+    }
+  ],
+  "synonyms": [
+    "obtain",
+    "acquire",
+    "secure",
+    "get",
+    "land",
+    "buy",
+    "gain",
+    "attain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "procurement",
+    "procurer",
+    "procuress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/procure.mp3",
+  "local_sound_path": "sounds/procure.mp3"
+}

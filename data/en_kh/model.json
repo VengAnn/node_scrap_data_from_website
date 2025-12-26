@@ -1,0 +1,99 @@
+{
+  "word": "model",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "model airplane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109815.png",
+      "local_image_path": "images/109815.png"
+    },
+    {
+      "pos": "adj",
+      "example": "model student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109816.png",
+      "local_image_path": "images/109816.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109807.png",
+      "local_image_path": "images/109807.png"
+    },
+    {
+      "pos": "n",
+      "example": "airplane model",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109808.png",
+      "local_image_path": "images/109808.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109809.png",
+      "local_image_path": "images/109809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109810.png",
+      "local_image_path": "images/109810.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She earns a living by modelling.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109811.png",
+      "local_image_path": "images/109811.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mode one's life after his",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109812.png",
+      "local_image_path": "images/109812.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109813.png",
+      "local_image_path": "images/109813.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109814.png",
+      "local_image_path": "images/109814.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124208.png",
+      "local_image_path": "images/124208.png"
+    }
+  ],
+  "synonyms": [
+    "example",
+    "paradigm",
+    "pattern",
+    "standard",
+    "archetype",
+    "exemplar",
+    "prototype",
+    "mold",
+    "form",
+    "shape",
+    "fashion",
+    "develop",
+    "cast"
+  ],
+  "antonyms": [
+    "atypical"
+  ],
+  "similar_words": [
+    "modeler",
+    "modelize",
+    "modeller",
+    "modelling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/model.mp3",
+  "local_sound_path": "sounds/model.mp3"
+}

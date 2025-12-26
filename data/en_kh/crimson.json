@@ -1,0 +1,41 @@
+{
+  "word": "crimson",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18610.png",
+      "local_image_path": "images/18610.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18612.png",
+      "local_image_path": "images/18612.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18609.png",
+      "local_image_path": "images/18609.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18611.png",
+      "local_image_path": "images/18611.png"
+    }
+  ],
+  "synonyms": [
+    "pink",
+    "cherry",
+    "red",
+    "cerise"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crimson.mp3",
+  "local_sound_path": "sounds/crimson.mp3"
+}

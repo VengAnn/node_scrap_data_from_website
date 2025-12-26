@@ -1,0 +1,31 @@
+{
+  "word": "dodge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22569.png",
+      "local_image_path": "images/22569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He always manages to dodge doing the house work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22568.png",
+      "local_image_path": "images/22568.png"
+    }
+  ],
+  "synonyms": [
+    "avoid",
+    "evade",
+    "shirk",
+    "elude",
+    "equivocate",
+    "sidestep"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dodge.mp3",
+  "local_sound_path": "sounds/dodge.mp3"
+}

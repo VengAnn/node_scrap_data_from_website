@@ -1,0 +1,38 @@
+{
+  "word": "obtain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rules don't obtain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57028.png",
+      "local_image_path": "images/57028.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57027.png",
+      "local_image_path": "images/57027.png"
+    }
+  ],
+  "synonyms": [
+    "get",
+    "find",
+    "gain",
+    "attain",
+    "acquire",
+    "achieve",
+    "take"
+  ],
+  "antonyms": [
+    "lose"
+  ],
+  "similar_words": [
+    "obtainable",
+    "obtainer",
+    "obtainment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obtain.mp3",
+  "local_sound_path": "sounds/obtain.mp3"
+}

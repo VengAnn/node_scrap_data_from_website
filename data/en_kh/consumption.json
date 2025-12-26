@@ -1,0 +1,36 @@
+{
+  "word": "consumption",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "we have measured the car's fuel consumption",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17165.png",
+      "local_image_path": "images/17165.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17166.png",
+      "local_image_path": "images/17166.png"
+    }
+  ],
+  "synonyms": [
+    "eating",
+    "drinking",
+    "intake",
+    "ingestion",
+    "depletion",
+    "use",
+    "utilization",
+    "spending",
+    "expenditure"
+  ],
+  "antonyms": [
+    "conservation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consumption.mp3",
+  "local_sound_path": "sounds/consumption.mp3"
+}

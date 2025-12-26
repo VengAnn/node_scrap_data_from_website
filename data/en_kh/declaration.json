@@ -1,0 +1,34 @@
+{
+  "word": "declaration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19989.png",
+      "local_image_path": "images/19989.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19990.png",
+      "local_image_path": "images/19990.png"
+    }
+  ],
+  "synonyms": [
+    "statement",
+    "announcement",
+    "assertion",
+    "speech",
+    "pronouncement",
+    "avowal",
+    "affirmation",
+    "testimony",
+    "deposition"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/declaration.mp3",
+  "local_sound_path": "sounds/declaration.mp3"
+}

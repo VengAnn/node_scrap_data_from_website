@@ -1,0 +1,44 @@
+{
+  "word": "office",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Where is your office?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57316.png",
+      "local_image_path": "images/57316.png"
+    },
+    {
+      "pos": "n",
+      "example": "office of the president",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57317.png",
+      "local_image_path": "images/57317.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57318.png",
+      "local_image_path": "images/57318.png"
+    }
+  ],
+  "synonyms": [
+    "responsibility",
+    "job",
+    "position",
+    "work",
+    "task",
+    "function"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "office boy",
+    "office holder",
+    "office hour",
+    "office nerd",
+    "officer",
+    "officership"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/office.mp3",
+  "local_sound_path": "sounds/office.mp3"
+}

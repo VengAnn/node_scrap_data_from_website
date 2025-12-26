@@ -1,0 +1,45 @@
+{
+  "word": "covenant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18216.png",
+      "local_image_path": "images/18216.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18214.png",
+      "local_image_path": "images/18214.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18215.png",
+      "local_image_path": "images/18215.png"
+    }
+  ],
+  "synonyms": [
+    "agreement",
+    "contract",
+    "convention",
+    "treaty",
+    "promise",
+    "pledge",
+    "bond",
+    "pact"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "covenantal",
+    "covenantally",
+    "covenantee",
+    "covenanter",
+    "covenantor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/covenant.mp3",
+  "local_sound_path": "sounds/covenant.mp3"
+}

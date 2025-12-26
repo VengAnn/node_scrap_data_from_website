@@ -1,0 +1,41 @@
+{
+  "word": "caravan",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12895.png",
+      "local_image_path": "images/12895.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12894.png",
+      "local_image_path": "images/12894.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115981.png",
+      "local_image_path": "images/115981.png"
+    }
+  ],
+  "synonyms": [
+    "convoy",
+    "group",
+    "procession",
+    "parade",
+    "motorcade",
+    "column",
+    "line",
+    "cavalcade"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "caravanserai"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caravan.mp3",
+  "local_sound_path": "sounds/caravan.mp3"
+}

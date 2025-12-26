@@ -1,0 +1,39 @@
+{
+  "word": "labor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44288.png",
+      "local_image_path": "images/44288.png"
+    },
+    {
+      "pos": "n",
+      "example": "she is in labor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131558.png",
+      "local_image_path": "images/131558.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "ignore",
+    "management",
+    "skip",
+    "skim"
+  ],
+  "similar_words": [
+    "labor-intensive",
+    "labor-saving",
+    "laborant",
+    "laboratory",
+    "laborer",
+    "laborious",
+    "laboriously",
+    "laboriousness",
+    "laborit"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/labor.mp3",
+  "local_sound_path": "sounds/labor.mp3"
+}

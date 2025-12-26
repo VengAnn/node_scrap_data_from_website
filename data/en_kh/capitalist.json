@@ -1,0 +1,49 @@
+{
+  "word": "capitalist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12810.png",
+      "local_image_path": "images/12810.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12809.png",
+      "local_image_path": "images/12809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115957.png",
+      "local_image_path": "images/115957.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115958.png",
+      "local_image_path": "images/115958.png"
+    }
+  ],
+  "synonyms": [
+    "entrepreneurial",
+    "industrial",
+    "consumerist",
+    "consumer",
+    "commercial",
+    "entrepreneur",
+    "financier",
+    "industrialist",
+    "investor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "capitalistic",
+    "capitalistically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/capitalist.mp3",
+  "local_sound_path": "sounds/capitalist.mp3"
+}

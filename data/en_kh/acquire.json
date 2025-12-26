@@ -1,0 +1,34 @@
+{
+  "word": "acquire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "acquirre a reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2137.png",
+      "local_image_path": "images/2137.png"
+    }
+  ],
+  "synonyms": [
+    "obtain",
+    "get",
+    "gain",
+    "attain",
+    "buy",
+    "purchase",
+    "develop",
+    "learn",
+    "assimilate"
+  ],
+  "antonyms": [
+    "lose",
+    "drop"
+  ],
+  "similar_words": [
+    "acquirement",
+    "acquirer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acquire.mp3",
+  "local_sound_path": "sounds/acquire.mp3"
+}

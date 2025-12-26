@@ -1,0 +1,33 @@
+{
+  "word": "bitch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv (sl)",
+      "example": "Don't bitch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9212.png",
+      "local_image_path": "images/9212.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9210.png",
+      "local_image_path": "images/9210.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9211.png",
+      "local_image_path": "images/9211.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bitchery",
+    "bitchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bitch.mp3",
+  "local_sound_path": "sounds/bitch.mp3"
+}

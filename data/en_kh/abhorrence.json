@@ -1,0 +1,35 @@
+{
+  "word": "abhorrence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1397.png",
+      "local_image_path": "images/1397.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113000.png",
+      "local_image_path": "images/113000.png"
+    }
+  ],
+  "synonyms": [
+    "hatred",
+    "loathing",
+    "detestation",
+    "disgust",
+    "repugnance",
+    "revulsion",
+    "abomination",
+    "aversion"
+  ],
+  "antonyms": [
+    "adoration"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abhorrence.mp3",
+  "local_sound_path": "sounds/abhorrence.mp3"
+}

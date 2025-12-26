@@ -1,0 +1,39 @@
+{
+  "word": "compulsion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I refuse to act under compulsion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16349.png",
+      "local_image_path": "images/16349.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130178.png",
+      "local_image_path": "images/130178.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130179.png",
+      "local_image_path": "images/130179.png"
+    }
+  ],
+  "synonyms": [
+    "urge",
+    "impulse",
+    "desire",
+    "craving",
+    "force",
+    "need"
+  ],
+  "antonyms": [
+    "persuasion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compulsion.mp3",
+  "local_sound_path": "sounds/compulsion.mp3"
+}

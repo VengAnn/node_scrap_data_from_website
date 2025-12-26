@@ -1,0 +1,28 @@
+{
+  "word": "shortage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "food shortage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79403.png",
+      "local_image_path": "images/79403.png"
+    }
+  ],
+  "synonyms": [
+    "lack",
+    "scarcity",
+    "deficiency",
+    "dearth",
+    "famine",
+    "absence",
+    "unavailability"
+  ],
+  "antonyms": [
+    "excess"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shortage.mp3",
+  "local_sound_path": "sounds/shortage.mp3"
+}

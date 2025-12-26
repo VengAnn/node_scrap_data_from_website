@@ -1,0 +1,24 @@
+{
+  "word": "zeppelin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101692.png",
+      "local_image_path": "images/101692.png"
+    }
+  ],
+  "synonyms": [
+    "blimp",
+    "dirigible",
+    "aircraft",
+    "airship",
+    "balloon"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/zeppelin.mp3",
+  "local_sound_path": "sounds/zeppelin.mp3"
+}

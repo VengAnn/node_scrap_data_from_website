@@ -1,0 +1,38 @@
+{
+  "word": "disgorge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She was trying hard to disgorge a fish bone.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21866.png",
+      "local_image_path": "images/21866.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Crowds disgorged from the theatre into the dark.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21867.png",
+      "local_image_path": "images/21867.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21868.png",
+      "local_image_path": "images/21868.png"
+    }
+  ],
+  "synonyms": [
+    "expel",
+    "eject",
+    "empty",
+    "spew",
+    "erupt"
+  ],
+  "antonyms": [
+    "retain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disgorge.mp3",
+  "local_sound_path": "sounds/disgorge.mp3"
+}

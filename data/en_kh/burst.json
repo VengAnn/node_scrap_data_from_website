@@ -1,0 +1,43 @@
+{
+  "word": "burst",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "balloons burst",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11983.png",
+      "local_image_path": "images/11983.png"
+    },
+    {
+      "pos": "n",
+      "example": "burst of gunfire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11985.png",
+      "local_image_path": "images/11985.png"
+    },
+    {
+      "pos": "tv",
+      "example": "burst a balloon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11984.png",
+      "local_image_path": "images/11984.png"
+    }
+  ],
+  "synonyms": [
+    "spurt",
+    "eruption",
+    "gust",
+    "torrent",
+    "rupture",
+    "surge",
+    "disintegrate",
+    "fracture",
+    "fractured",
+    "explode"
+  ],
+  "antonyms": [
+    "trickle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burst.mp3",
+  "local_sound_path": "sounds/burst.mp3"
+}

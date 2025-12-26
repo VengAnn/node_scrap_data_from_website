@@ -1,0 +1,44 @@
+{
+  "word": "ache",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "stomach ache",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2005.png",
+      "local_image_path": "images/2005.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111926.png",
+      "local_image_path": "images/111926.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2006.png",
+      "local_image_path": "images/2006.png"
+    },
+    {
+      "pos": "n",
+      "example": "body ache,",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132142.png",
+      "local_image_path": "images/132142.png"
+    }
+  ],
+  "synonyms": [
+    "hurt",
+    "throb",
+    "sting",
+    "smart"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "achene",
+    "Acheron"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ache.mp3",
+  "local_sound_path": "sounds/ache.mp3"
+}

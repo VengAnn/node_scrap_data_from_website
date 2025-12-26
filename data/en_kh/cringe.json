@@ -1,0 +1,34 @@
+{
+  "word": "cringe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18615.png",
+      "local_image_path": "images/18615.png"
+    },
+    {
+      "pos": "iv",
+      "example": "She's always cringing to the boss.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18616.png",
+      "local_image_path": "images/18616.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18617.png",
+      "local_image_path": "images/18617.png"
+    }
+  ],
+  "synonyms": [
+    "squirm",
+    "blush",
+    "wince"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cringe.mp3",
+  "local_sound_path": "sounds/cringe.mp3"
+}

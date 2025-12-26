@@ -1,0 +1,63 @@
+{
+  "word": "public",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "public official",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68589.png",
+      "local_image_path": "images/68589.png"
+    },
+    {
+      "pos": "adj",
+      "example": "public knowledge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68590.png",
+      "local_image_path": "images/68590.png"
+    },
+    {
+      "pos": "n",
+      "example": "inform the public",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68591.png",
+      "local_image_path": "images/68591.png"
+    },
+    {
+      "pos": "n",
+      "example": "reach a wider public",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68592.png",
+      "local_image_path": "images/68592.png"
+    }
+  ],
+  "synonyms": [
+    "broadcast",
+    "known",
+    "open",
+    "populace",
+    "community",
+    "society",
+    "nation",
+    "everyone",
+    "people"
+  ],
+  "antonyms": [
+    "private",
+    "secret"
+  ],
+  "similar_words": [
+    "public assitance",
+    "public defender",
+    "public domain",
+    "public house",
+    "public-spirited",
+    "publican",
+    "publicate",
+    "publication",
+    "publicist",
+    "publicity",
+    "publicity of conviction",
+    "publicize",
+    "publicly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/public.mp3",
+  "local_sound_path": "sounds/public.mp3"
+}

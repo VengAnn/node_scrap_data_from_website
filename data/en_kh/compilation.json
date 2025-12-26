@@ -1,0 +1,38 @@
+{
+  "word": "compilation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16227.png",
+      "local_image_path": "images/16227.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116876.png",
+      "local_image_path": "images/116876.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116877.png",
+      "local_image_path": "images/116877.png"
+    }
+  ],
+  "synonyms": [
+    "collection",
+    "set",
+    "anthology",
+    "assemblage",
+    "edition"
+  ],
+  "antonyms": [
+    "dispersal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compilation.mp3",
+  "local_sound_path": "sounds/compilation.mp3"
+}

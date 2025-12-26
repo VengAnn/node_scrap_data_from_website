@@ -1,0 +1,80 @@
+{
+  "word": "print",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bold print",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67029.png",
+      "local_image_path": "images/67029.png"
+    },
+    {
+      "pos": "n",
+      "example": "write in print",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67030.png",
+      "local_image_path": "images/67030.png"
+    },
+    {
+      "pos": "n",
+      "example": "photographic print",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67031.png",
+      "local_image_path": "images/67031.png"
+    },
+    {
+      "pos": "tv",
+      "example": "print a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67025.png",
+      "local_image_path": "images/67025.png"
+    },
+    {
+      "pos": "tv",
+      "example": "print a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67026.png",
+      "local_image_path": "images/67026.png"
+    },
+    {
+      "pos": "tv",
+      "example": "print one's name",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67027.png",
+      "local_image_path": "images/67027.png"
+    },
+    {
+      "pos": "tv",
+      "example": "print a photograph",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67028.png",
+      "local_image_path": "images/67028.png"
+    }
+  ],
+  "synonyms": [
+    "font",
+    "typescript",
+    "lettering",
+    "stamp",
+    "imprint",
+    "engrave",
+    "emboss"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "print-seller",
+    "print-shop",
+    "printability",
+    "printable",
+    "printed matter",
+    "printer",
+    "printery",
+    "printing",
+    "printing house",
+    "printing ink",
+    "printing machine",
+    "printing office",
+    "printing paper",
+    "printing press",
+    "printing-room",
+    "printout",
+    "printscript"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/print.mp3",
+  "local_sound_path": "sounds/print.mp3"
+}

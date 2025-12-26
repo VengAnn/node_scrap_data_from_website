@@ -1,0 +1,47 @@
+{
+  "word": "inflate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39726.png",
+      "local_image_path": "images/39726.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39723.png",
+      "local_image_path": "images/39723.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inflate a balloon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39724.png",
+      "local_image_path": "images/39724.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inflate prices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39725.png",
+      "local_image_path": "images/39725.png"
+    }
+  ],
+  "synonyms": [
+    "exaggerate",
+    "overstate",
+    "amplify",
+    "embellish",
+    "magnify",
+    "overestimate"
+  ],
+  "antonyms": [
+    "deflate",
+    "decrease",
+    "understate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inflate.mp3",
+  "local_sound_path": "sounds/inflate.mp3"
+}

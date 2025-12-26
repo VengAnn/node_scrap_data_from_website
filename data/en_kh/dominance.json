@@ -1,0 +1,40 @@
+{
+  "word": "dominance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22678.png",
+      "local_image_path": "images/22678.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118731.png",
+      "local_image_path": "images/118731.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118732.png",
+      "local_image_path": "images/118732.png"
+    }
+  ],
+  "synonyms": [
+    "supremacy",
+    "ascendancy",
+    "domination",
+    "governance",
+    "power",
+    "authority",
+    "control"
+  ],
+  "antonyms": [
+    "weakness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dominance.mp3",
+  "local_sound_path": "sounds/dominance.mp3"
+}

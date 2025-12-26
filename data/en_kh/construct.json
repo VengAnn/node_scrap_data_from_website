@@ -1,0 +1,43 @@
+{
+  "word": "construct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "theoretical construct",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17116.png",
+      "local_image_path": "images/17116.png"
+    },
+    {
+      "pos": "tv",
+      "example": "construct a building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17115.png",
+      "local_image_path": "images/17115.png"
+    }
+  ],
+  "synonyms": [
+    "form",
+    "compose",
+    "create",
+    "structure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "constructer",
+    "constructible",
+    "construction",
+    "constructional",
+    "constructionally",
+    "constructive",
+    "constructive contract",
+    "constructive eviction",
+    "constructively",
+    "constructiveness",
+    "constructivism",
+    "constructivist",
+    "constructor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/construct.mp3",
+  "local_sound_path": "sounds/construct.mp3"
+}

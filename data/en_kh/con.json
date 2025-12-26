@@ -1,0 +1,106 @@
+{
+  "word": "con",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj (sl)",
+      "example": "con man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16378.png",
+      "local_image_path": "images/16378.png"
+    },
+    {
+      "pos": "adv",
+      "example": "pro and con",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16377.png",
+      "local_image_path": "images/16377.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16380.png",
+      "local_image_path": "images/16380.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16381.png",
+      "local_image_path": "images/16381.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16385.png",
+      "local_image_path": "images/16385.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16379.png",
+      "local_image_path": "images/16379.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16382.png",
+      "local_image_path": "images/16382.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16384.png",
+      "local_image_path": "images/16384.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130180.png",
+      "local_image_path": "images/130180.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130181.png",
+      "local_image_path": "images/130181.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130182.png",
+      "local_image_path": "images/130182.png"
+    }
+  ],
+  "synonyms": [
+    "deceive",
+    "hoodwink",
+    "trick",
+    "mislead",
+    "dupe",
+    "inveigle",
+    "sweet-talk",
+    "trap",
+    "entrap",
+    "lure",
+    "take in"
+  ],
+  "antonyms": [
+    "pro"
+  ],
+  "similar_words": [
+    "conacre",
+    "conation",
+    "conatus",
+    "concatenate",
+    "concatenation",
+    "concave",
+    "concavely",
+    "concaveness",
+    "concavity",
+    "concavo-concave",
+    "concavo-convex",
+    "conceal",
+    "concealable",
+    "concealer",
+    "concealment"
+  ],
+  "sound": null
+}

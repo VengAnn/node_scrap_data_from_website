@@ -1,0 +1,48 @@
+{
+  "word": "basic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7641.png",
+      "local_image_path": "images/7641.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114651.png",
+      "local_image_path": "images/114651.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114652.png",
+      "local_image_path": "images/114652.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114653.png",
+      "local_image_path": "images/114653.png"
+    }
+  ],
+  "synonyms": [
+    "primitive",
+    "rudimentary",
+    "unsophisticated"
+  ],
+  "antonyms": [
+    "marginal",
+    "complex",
+    "intricate"
+  ],
+  "similar_words": [
+    "basically",
+    "basicity",
+    "basics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/basic.mp3",
+  "local_sound_path": "sounds/basic.mp3"
+}

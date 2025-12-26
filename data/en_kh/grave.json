@@ -1,0 +1,97 @@
+{
+  "word": "grave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32692.png",
+      "local_image_path": "images/32692.png"
+    },
+    {
+      "pos": "adj",
+      "example": "grave illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32693.png",
+      "local_image_path": "images/32693.png"
+    },
+    {
+      "pos": "adj",
+      "example": "grave expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32694.png",
+      "local_image_path": "images/32694.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32699.png",
+      "local_image_path": "images/32699.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32698.png",
+      "local_image_path": "images/32698.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32691.png",
+      "local_image_path": "images/32691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32695.png",
+      "local_image_path": "images/32695.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32696.png",
+      "local_image_path": "images/32696.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32697.png",
+      "local_image_path": "images/32697.png"
+    }
+  ],
+  "synonyms": [
+    "ominous",
+    "foreboding",
+    "forbidding",
+    "fateful",
+    "dire",
+    "dangerous",
+    "tomb",
+    "crypt",
+    "vault"
+  ],
+  "antonyms": [
+    "minor",
+    "cheerful",
+    "favorable"
+  ],
+  "similar_words": [
+    "grave-digger",
+    "grave-walk",
+    "gravel",
+    "gravel-pit",
+    "graveless",
+    "graveling",
+    "gravelly",
+    "gravelous",
+    "gravely",
+    "graven",
+    "graveness",
+    "graveolent",
+    "graver",
+    "gravery",
+    "gravestone",
+    "graveyard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grave.mp3",
+  "local_sound_path": "sounds/grave.mp3"
+}

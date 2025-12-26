@@ -1,0 +1,46 @@
+{
+  "word": "attempt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "attempt a conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6248.png",
+      "local_image_path": "images/6248.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114226.png",
+      "local_image_path": "images/114226.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114227.png",
+      "local_image_path": "images/114227.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114228.png",
+      "local_image_path": "images/114228.png"
+    }
+  ],
+  "synonyms": [
+    "try",
+    "endeavor",
+    "bid",
+    "struggle"
+  ],
+  "antonyms": [
+    "fail"
+  ],
+  "similar_words": [
+    "attemptable",
+    "attempter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attempt.mp3",
+  "local_sound_path": "sounds/attempt.mp3"
+}

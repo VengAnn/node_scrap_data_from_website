@@ -1,0 +1,30 @@
+{
+  "word": "inflammation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "inflammation of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39718.png",
+      "local_image_path": "images/39718.png"
+    },
+    {
+      "pos": "n",
+      "example": "inflammation of the eye",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39719.png",
+      "local_image_path": "images/39719.png"
+    }
+  ],
+  "synonyms": [
+    "irritation",
+    "swelling",
+    "tenderness",
+    "soreness",
+    "infection"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inflammation.mp3",
+  "local_sound_path": "sounds/inflammation.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "dactyl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19480.png",
+      "local_image_path": "images/19480.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19481.png",
+      "local_image_path": "images/19481.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "dactylogram",
+    "dactylographic",
+    "dactylography",
+    "dactylology"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dactyl.mp3",
+  "local_sound_path": "sounds/dactyl.mp3"
+}

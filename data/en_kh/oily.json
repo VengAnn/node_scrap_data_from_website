@@ -1,0 +1,37 @@
+{
+  "word": "oily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "oily liquid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57431.png",
+      "local_image_path": "images/57431.png"
+    },
+    {
+      "pos": "adj",
+      "example": "oily machine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57432.png",
+      "local_image_path": "images/57432.png"
+    },
+    {
+      "pos": "idm",
+      "example": "oily speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57433.png",
+      "local_image_path": "images/57433.png"
+    }
+  ],
+  "synonyms": [
+    "greasy",
+    "fatty",
+    "slippery",
+    "slick",
+    "oleaginous",
+    "unctuous"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oily.mp3",
+  "local_sound_path": "sounds/oily.mp3"
+}

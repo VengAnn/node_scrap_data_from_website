@@ -1,0 +1,28 @@
+{
+  "word": "movie",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110814.png",
+      "local_image_path": "images/110814.png"
+    }
+  ],
+  "synonyms": [
+    "film",
+    "picture",
+    "motion picture",
+    "show",
+    "flick"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "movie projector",
+    "moviegoer",
+    "moviemaker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/movie.mp3",
+  "local_sound_path": "sounds/movie.mp3"
+}

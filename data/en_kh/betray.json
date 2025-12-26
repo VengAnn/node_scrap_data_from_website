@@ -1,0 +1,32 @@
+{
+  "word": "betray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "betray one's country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8502.png",
+      "local_image_path": "images/8502.png"
+    }
+  ],
+  "synonyms": [
+    "reveal",
+    "disclose",
+    "leak",
+    "tell",
+    "divulge"
+  ],
+  "antonyms": [
+    "protect",
+    "withhold"
+  ],
+  "similar_words": [
+    "betrayal",
+    "betrayed",
+    "betrayer",
+    "betrayment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/betray.mp3",
+  "local_sound_path": "sounds/betray.mp3"
+}

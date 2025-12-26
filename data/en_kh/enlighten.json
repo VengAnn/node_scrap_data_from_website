@@ -1,0 +1,40 @@
+{
+  "word": "enlighten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25122.png",
+      "local_image_path": "images/25122.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130292.png",
+      "local_image_path": "images/130292.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130293.png",
+      "local_image_path": "images/130293.png"
+    }
+  ],
+  "synonyms": [
+    "tell",
+    "inform",
+    "instruct",
+    "edify",
+    "educate",
+    "clarify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "enlightened",
+    "enlightenment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enlighten.mp3",
+  "local_sound_path": "sounds/enlighten.mp3"
+}

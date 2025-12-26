@@ -1,0 +1,42 @@
+{
+  "word": "undertone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94125.png",
+      "local_image_path": "images/94125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94126.png",
+      "local_image_path": "images/94126.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94127.png",
+      "local_image_path": "images/94127.png"
+    }
+  ],
+  "synonyms": [
+    "hint",
+    "suggestion",
+    "trace",
+    "tinge",
+    "undercurrent",
+    "air",
+    "feeling",
+    "connotation",
+    "nuance"
+  ],
+  "antonyms": [
+    "overtone"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/undertone.mp3",
+  "local_sound_path": "sounds/undertone.mp3"
+}

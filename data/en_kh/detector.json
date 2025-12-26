@@ -1,0 +1,30 @@
+{
+  "word": "detector",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20982.png",
+      "local_image_path": "images/20982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118185.png",
+      "local_image_path": "images/118185.png"
+    }
+  ],
+  "synonyms": [
+    "sensor",
+    "indicator",
+    "gauge",
+    "gage",
+    "finder"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detector.mp3",
+  "local_sound_path": "sounds/detector.mp3"
+}

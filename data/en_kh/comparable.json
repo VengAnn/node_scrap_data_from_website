@@ -1,0 +1,33 @@
+{
+  "word": "comparable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "his work is comparable with the very best",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16159.png",
+      "local_image_path": "images/16159.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116851.png",
+      "local_image_path": "images/116851.png"
+    }
+  ],
+  "synonyms": [
+    "similar",
+    "analogous",
+    "akin",
+    "equal",
+    "equivalent",
+    "like"
+  ],
+  "antonyms": [
+    "dissimilar"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comparable.mp3",
+  "local_sound_path": "sounds/comparable.mp3"
+}

@@ -1,0 +1,80 @@
+{
+  "word": "wet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wet clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99850.png",
+      "local_image_path": "images/99850.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wet weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99851.png",
+      "local_image_path": "images/99851.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99852.png",
+      "local_image_path": "images/99852.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99854.png",
+      "local_image_path": "images/99854.png"
+    },
+    {
+      "pos": "n",
+      "example": "the wet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99855.png",
+      "local_image_path": "images/99855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wet a cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99853.png",
+      "local_image_path": "images/99853.png"
+    }
+  ],
+  "synonyms": [
+    "wetness",
+    "rain",
+    "drizzle",
+    "damp",
+    "dampness",
+    "dampen",
+    "moisten",
+    "soak",
+    "soaked",
+    "saturate",
+    "saturated",
+    "drench",
+    "douse",
+    "spray",
+    "splash",
+    "sprinkle"
+  ],
+  "antonyms": [
+    "dry",
+    "dried"
+  ],
+  "similar_words": [
+    "wet blanket",
+    "wet sales",
+    "wet-blanket",
+    "wet-nurse",
+    "wether",
+    "wether-gammon",
+    "wether-hog",
+    "wetly",
+    "wetness",
+    "wetting",
+    "wettish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wet.mp3",
+  "local_sound_path": "sounds/wet.mp3"
+}

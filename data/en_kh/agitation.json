@@ -1,0 +1,46 @@
+{
+  "word": "agitation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "There was a new outbreak of anti-French agitation in Cambodia",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2968.png",
+      "local_image_path": "images/2968.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112312.png",
+      "local_image_path": "images/112312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112313.png",
+      "local_image_path": "images/112313.png"
+    }
+  ],
+  "synonyms": [
+    "anxiety",
+    "worry",
+    "nervousness",
+    "tension",
+    "distress",
+    "activism",
+    "demonstration",
+    "protest",
+    "stir",
+    "confrontation",
+    "disturbance"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [
+    "agitational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agitation.mp3",
+  "local_sound_path": "sounds/agitation.mp3"
+}

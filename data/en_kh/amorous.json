@@ -1,0 +1,43 @@
+{
+  "word": "amorous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "amorous person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3931.png",
+      "local_image_path": "images/3931.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112468.png",
+      "local_image_path": "images/112468.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112469.png",
+      "local_image_path": "images/112469.png"
+    }
+  ],
+  "synonyms": [
+    "ardent",
+    "passionate",
+    "affectionate",
+    "loving",
+    "romantic",
+    "sentimental",
+    "infatuated"
+  ],
+  "antonyms": [
+    "dispassionate"
+  ],
+  "similar_words": [
+    "amorously",
+    "amorousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amorous.mp3",
+  "local_sound_path": "sounds/amorous.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "resignation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "accept his resignation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72708.png",
+      "local_image_path": "images/72708.png"
+    },
+    {
+      "pos": "n",
+      "example": "attitude of resignation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72709.png",
+      "local_image_path": "images/72709.png"
+    }
+  ],
+  "synonyms": [
+    "acceptance",
+    "acquiescence",
+    "acknowledgment",
+    "acknowledgement",
+    "submission",
+    "forbearance"
+  ],
+  "antonyms": [
+    "defiance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resignation.mp3",
+  "local_sound_path": "sounds/resignation.mp3"
+}

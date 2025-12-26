@@ -1,0 +1,37 @@
+{
+  "word": "coffee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15506.png",
+      "local_image_path": "images/15506.png"
+    }
+  ],
+  "synonyms": [
+    "chocolate",
+    "brown",
+    "tan",
+    "russet",
+    "brunette",
+    "auburn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coffee bar",
+    "coffee break",
+    "coffee cup",
+    "coffee house",
+    "coffee maker",
+    "coffee mill",
+    "coffee shop",
+    "coffee table",
+    "coffee tree",
+    "coffeehouse",
+    "coffeepot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coffee.mp3",
+  "local_sound_path": "sounds/coffee.mp3"
+}

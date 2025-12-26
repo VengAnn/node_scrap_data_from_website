@@ -1,0 +1,38 @@
+{
+  "word": "dominion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "have dominion over",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22697.png",
+      "local_image_path": "images/22697.png"
+    },
+    {
+      "pos": "n",
+      "example": "survey his dominion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22698.png",
+      "local_image_path": "images/22698.png"
+    }
+  ],
+  "synonyms": [
+    "territory",
+    "colony",
+    "province",
+    "region",
+    "protectorate",
+    "state",
+    "power",
+    "authority",
+    "control",
+    "command",
+    "say-so",
+    "domination",
+    "dominance"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dominion.mp3",
+  "local_sound_path": "sounds/dominion.mp3"
+}

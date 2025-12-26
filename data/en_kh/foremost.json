@@ -1,0 +1,40 @@
+{
+  "word": "foremost",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "foremost car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29742.png",
+      "local_image_path": "images/29742.png"
+    },
+    {
+      "pos": "adj",
+      "example": "foremost scholar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29743.png",
+      "local_image_path": "images/29743.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29744.png",
+      "local_image_path": "images/29744.png"
+    }
+  ],
+  "synonyms": [
+    "leading",
+    "primary",
+    "prime",
+    "chief",
+    "principal",
+    "notable",
+    "main",
+    "top",
+    "important"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foremost.mp3",
+  "local_sound_path": "sounds/foremost.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "full",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "full cup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30565.png",
+      "local_image_path": "images/30565.png"
+    },
+    {
+      "pos": "adj",
+      "example": "full moon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30566.png",
+      "local_image_path": "images/30566.png"
+    },
+    {
+      "pos": "adj",
+      "example": "full garment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30567.png",
+      "local_image_path": "images/30567.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30568.png",
+      "local_image_path": "images/30568.png"
+    },
+    {
+      "pos": "n",
+      "example": "in full",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30569.png",
+      "local_image_path": "images/30569.png"
+    }
+  ],
+  "synonyms": [
+    "extensive",
+    "broad",
+    "complete",
+    "comprehensive",
+    "detailed",
+    "inclusive",
+    "thorough"
+  ],
+  "antonyms": [
+    "empty",
+    "hungry",
+    "thin",
+    "sketchy",
+    "minimum",
+    "shrill"
+  ],
+  "similar_words": [
+    "full bloodedness",
+    "full moon",
+    "full stop",
+    "full-blooded",
+    "full-fledged",
+    "full-grown",
+    "full-time",
+    "fullness",
+    "fully"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/full.mp3",
+  "local_sound_path": "sounds/full.mp3"
+}

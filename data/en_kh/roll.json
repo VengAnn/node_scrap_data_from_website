@@ -1,0 +1,81 @@
+{
+  "word": "roll",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wheels roll",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74016.png",
+      "local_image_path": "images/74016.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Trains roll on rails",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74017.png",
+      "local_image_path": "images/74017.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74018.png",
+      "local_image_path": "images/74018.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74019.png",
+      "local_image_path": "images/74019.png"
+    },
+    {
+      "pos": "n",
+      "example": "roll of paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74020.png",
+      "local_image_path": "images/74020.png"
+    },
+    {
+      "pos": "n",
+      "example": "roll of fat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74021.png",
+      "local_image_path": "images/74021.png"
+    }
+  ],
+  "synonyms": [
+    "reel",
+    "cylinder",
+    "spool",
+    "tube",
+    "revolve",
+    "turn",
+    "spin",
+    "rotate",
+    "sway",
+    "move",
+    "turn round"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "roll film",
+    "roll-away",
+    "roll-call",
+    "roll-on-girdle",
+    "roll-up",
+    "rollback",
+    "roller",
+    "roller blade",
+    "roller coaster",
+    "roller skate",
+    "rollick",
+    "rollicking",
+    "rollickingly",
+    "rollicksome",
+    "rollicky",
+    "rolling mill",
+    "rolling-press",
+    "rollnumber",
+    "rollon",
+    "rollover"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/roll.mp3",
+  "local_sound_path": "sounds/roll.mp3"
+}

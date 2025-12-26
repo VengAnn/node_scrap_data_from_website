@@ -1,0 +1,73 @@
+{
+  "word": "jig",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43004.png",
+      "local_image_path": "images/43004.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43005.png",
+      "local_image_path": "images/43005.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123113.png",
+      "local_image_path": "images/123113.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123114.png",
+      "local_image_path": "images/123114.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123115.png",
+      "local_image_path": "images/123115.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123116.png",
+      "local_image_path": "images/123116.png"
+    },
+    {
+      "pos": "n",
+      "example": "dance a jig",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43003.png",
+      "local_image_path": "images/43003.png"
+    }
+  ],
+  "synonyms": [
+    "dance",
+    "skip",
+    "hop",
+    "caper",
+    "leap",
+    "spring",
+    "jerk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jigamaree",
+    "jigger",
+    "jiggered",
+    "jiggery-pokery",
+    "jiggety",
+    "jigginess",
+    "jiggish",
+    "jiggle",
+    "jiggy",
+    "jigsaw"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jig.mp3",
+  "local_sound_path": "sounds/jig.mp3"
+}

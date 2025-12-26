@@ -1,0 +1,35 @@
+{
+  "word": "pommel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65014.png",
+      "local_image_path": "images/65014.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65016.png",
+      "local_image_path": "images/65016.png"
+    }
+  ],
+  "synonyms": [
+    "beat",
+    "thump",
+    "bash",
+    "thrash",
+    "pound",
+    "punch",
+    "wallop",
+    "hit",
+    "strike",
+    "batter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pommel.mp3",
+  "local_sound_path": "sounds/pommel.mp3"
+}

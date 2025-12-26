@@ -1,0 +1,66 @@
+{
+  "word": "bug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "black bug",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11697.png",
+      "local_image_path": "images/11697.png"
+    },
+    {
+      "pos": "n",
+      "example": "I think I've caught a bug",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11698.png",
+      "local_image_path": "images/11698.png"
+    },
+    {
+      "pos": "n",
+      "example": "please you try to correct some bugs in this function",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11699.png",
+      "local_image_path": "images/11699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This office's bugged",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11700.png",
+      "local_image_path": "images/11700.png"
+    },
+    {
+      "pos": "tv",
+      "example": "that man realy bugs me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11701.png",
+      "local_image_path": "images/11701.png"
+    }
+  ],
+  "synonyms": [
+    "annoy",
+    "irritate",
+    "infuriate",
+    "madden",
+    "niggle",
+    "get",
+    "bother"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bug word",
+    "bug-eyed",
+    "bugaboo",
+    "bugbear",
+    "bugger",
+    "bugger-all",
+    "buggered",
+    "buggery",
+    "bugginess",
+    "buggy",
+    "bughouse",
+    "bugle",
+    "bugle-horn",
+    "bugler",
+    "bugloss"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bug.mp3",
+  "local_sound_path": "sounds/bug.mp3"
+}

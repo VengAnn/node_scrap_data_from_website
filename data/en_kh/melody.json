@@ -1,0 +1,43 @@
+{
+  "word": "melody",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107562.png",
+      "local_image_path": "images/107562.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123873.png",
+      "local_image_path": "images/123873.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123874.png",
+      "local_image_path": "images/123874.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123875.png",
+      "local_image_path": "images/123875.png"
+    }
+  ],
+  "synonyms": [
+    "tune",
+    "song",
+    "air",
+    "phrase",
+    "strain",
+    "descant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/melody.mp3",
+  "local_sound_path": "sounds/melody.mp3"
+}

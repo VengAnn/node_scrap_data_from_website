@@ -1,0 +1,44 @@
+{
+  "word": "bush",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11993.png",
+      "local_image_path": "images/11993.png"
+    },
+    {
+      "pos": "n",
+      "example": "low bush",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11992.png",
+      "local_image_path": "images/11992.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11994.png",
+      "local_image_path": "images/11994.png"
+    }
+  ],
+  "synonyms": [
+    "shrub",
+    "plant"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bush beating",
+    "bush dog",
+    "bushed",
+    "bushel",
+    "bushido",
+    "bushing",
+    "bushman",
+    "bushmaster",
+    "bushwhack",
+    "bushy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bush.mp3",
+  "local_sound_path": "sounds/bush.mp3"
+}

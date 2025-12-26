@@ -1,0 +1,45 @@
+{
+  "word": "inept",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "inept (at sth/doing sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39383.png",
+      "local_image_path": "images/39383.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inept student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39384.png",
+      "local_image_path": "images/39384.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inept remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39385.png",
+      "local_image_path": "images/39385.png"
+    }
+  ],
+  "synonyms": [
+    "incompetent",
+    "inexpert",
+    "clumsy",
+    "useless",
+    "hopeless",
+    "heavy-handed",
+    "unskilled",
+    "maladroit"
+  ],
+  "antonyms": [
+    "competent"
+  ],
+  "similar_words": [
+    "ineptitude",
+    "ineptly",
+    "ineptness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inept.mp3",
+  "local_sound_path": "sounds/inept.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "arbitration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5288.png",
+      "local_image_path": "images/5288.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112667.png",
+      "local_image_path": "images/112667.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112668.png",
+      "local_image_path": "images/112668.png"
+    }
+  ],
+  "synonyms": [
+    "adjudication",
+    "negotiation",
+    "mediation",
+    "settlement",
+    "intercession"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arbitration.mp3",
+  "local_sound_path": "sounds/arbitration.mp3"
+}

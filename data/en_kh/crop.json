@@ -1,0 +1,58 @@
+{
+  "word": "crop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "crop up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18712.png",
+      "local_image_path": "images/18712.png"
+    },
+    {
+      "pos": "n",
+      "example": "farm crop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18707.png",
+      "local_image_path": "images/18707.png"
+    },
+    {
+      "pos": "n",
+      "example": "riding crop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18708.png",
+      "local_image_path": "images/18708.png"
+    },
+    {
+      "pos": "n",
+      "example": "bird's crop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18709.png",
+      "local_image_path": "images/18709.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crop a field",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18710.png",
+      "local_image_path": "images/18710.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crop a plant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18711.png",
+      "local_image_path": "images/18711.png"
+    }
+  ],
+  "synonyms": [
+    "cut",
+    "shorten",
+    "clip",
+    "snip",
+    "trim",
+    "shear",
+    "curtail",
+    "pare",
+    "shave"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crop.mp3",
+  "local_sound_path": "sounds/crop.mp3"
+}

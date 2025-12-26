@@ -1,0 +1,42 @@
+{
+  "word": "addict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2314.png",
+      "local_image_path": "images/2314.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drug addict",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2315.png",
+      "local_image_path": "images/2315.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132145.png",
+      "local_image_path": "images/132145.png"
+    }
+  ],
+  "synonyms": [
+    "devotee",
+    "fan",
+    "aficionado",
+    "fanatic",
+    "buff",
+    "enthusiast",
+    "follower"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "addicted",
+    "addiction",
+    "addictive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/addict.mp3",
+  "local_sound_path": "sounds/addict.mp3"
+}

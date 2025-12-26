@@ -1,0 +1,68 @@
+{
+  "word": "romance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Romance language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74058.png",
+      "local_image_path": "images/74058.png"
+    },
+    {
+      "pos": "n",
+      "example": "literary Romance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74055.png",
+      "local_image_path": "images/74055.png"
+    },
+    {
+      "pos": "n",
+      "example": "romance of the situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74056.png",
+      "local_image_path": "images/74056.png"
+    },
+    {
+      "pos": "n",
+      "example": "summer romance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74057.png",
+      "local_image_path": "images/74057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74059.png",
+      "local_image_path": "images/74059.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127197.png",
+      "local_image_path": "images/127197.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127198.png",
+      "local_image_path": "images/127198.png"
+    }
+  ],
+  "synonyms": [
+    "story",
+    "account",
+    "fiction",
+    "anecdote",
+    "legend",
+    "saga",
+    "relation",
+    "fable",
+    "yarn",
+    "parable",
+    "narrative",
+    "date"
+  ],
+  "antonyms": [
+    "friendship",
+    "tragedy"
+  ],
+  "similar_words": [],
+  "sound": null
+}

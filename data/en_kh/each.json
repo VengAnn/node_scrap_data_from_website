@@ -1,0 +1,38 @@
+{
+  "word": "each",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "It costs $5 for each person.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23602.png",
+      "local_image_path": "images/23602.png"
+    },
+    {
+      "pos": "adv",
+      "example": "pay $5.00 each",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23603.png",
+      "local_image_path": "images/23603.png"
+    },
+    {
+      "pos": "pron",
+      "example": "each cost $5.00",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23604.png",
+      "local_image_path": "images/23604.png"
+    }
+  ],
+  "synonyms": [
+    "all",
+    "both",
+    "apiece",
+    "per capita",
+    "per head"
+  ],
+  "antonyms": [
+    "collectively"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/each.mp3",
+  "local_sound_path": "sounds/each.mp3"
+}

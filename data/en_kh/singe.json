@@ -1,0 +1,32 @@
+{
+  "word": "singe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80321.png",
+      "local_image_path": "images/80321.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80320.png",
+      "local_image_path": "images/80320.png"
+    }
+  ],
+  "synonyms": [
+    "scorch",
+    "burn",
+    "char",
+    "sear"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "singer",
+    "singeress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/singe.mp3",
+  "local_sound_path": "sounds/singe.mp3"
+}

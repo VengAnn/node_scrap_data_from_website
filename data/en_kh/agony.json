@@ -1,0 +1,31 @@
+{
+  "word": "agony",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he was in agony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3014.png",
+      "local_image_path": "images/3014.png"
+    }
+  ],
+  "synonyms": [
+    "anguish",
+    "pain",
+    "torture",
+    "suffering",
+    "distress",
+    "misery",
+    "woe",
+    "torment",
+    "worry",
+    "heartbreak"
+  ],
+  "antonyms": [
+    "ecstasy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agony.mp3",
+  "local_sound_path": "sounds/agony.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "invective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41960.png",
+      "local_image_path": "images/41960.png"
+    },
+    {
+      "pos": "n",
+      "example": "speech full of invective",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41958.png",
+      "local_image_path": "images/41958.png"
+    },
+    {
+      "pos": "n",
+      "example": "let out a stream of invective",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41959.png",
+      "local_image_path": "images/41959.png"
+    }
+  ],
+  "synonyms": [
+    "diatribe",
+    "criticism",
+    "tirade",
+    "attack",
+    "abuse",
+    "broadside",
+    "counterblast",
+    "polemic",
+    "vituperation",
+    "denunciation",
+    "vilification",
+    "execration"
+  ],
+  "antonyms": [
+    "praise",
+    "eulogy"
+  ],
+  "similar_words": [
+    "invectively",
+    "invectiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/invective.mp3",
+  "local_sound_path": "sounds/invective.mp3"
+}

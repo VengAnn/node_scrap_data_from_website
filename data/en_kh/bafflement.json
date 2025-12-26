@@ -1,0 +1,37 @@
+{
+  "word": "bafflement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7064.png",
+      "local_image_path": "images/7064.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114442.png",
+      "local_image_path": "images/114442.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114443.png",
+      "local_image_path": "images/114443.png"
+    }
+  ],
+  "synonyms": [
+    "bewilderment",
+    "perplexity",
+    "confusion",
+    "puzzlement"
+  ],
+  "antonyms": [
+    "understanding"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bafflement.mp3",
+  "local_sound_path": "sounds/bafflement.mp3"
+}

@@ -1,0 +1,82 @@
+{
+  "word": "vice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97899.png",
+      "local_image_path": "images/97899.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97900.png",
+      "local_image_path": "images/97900.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129736.png",
+      "local_image_path": "images/129736.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129737.png",
+      "local_image_path": "images/129737.png"
+    },
+    {
+      "pos": "pref",
+      "example": "vice president",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97901.png",
+      "local_image_path": "images/97901.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97902.png",
+      "local_image_path": "images/97902.png"
+    }
+  ],
+  "synonyms": [
+    "associate",
+    "subordinate",
+    "secondary",
+    "junior",
+    "defect",
+    "failing",
+    "flaw",
+    "imperfection",
+    "fault",
+    "weakness",
+    "foible"
+  ],
+  "antonyms": [
+    "chief",
+    "goodness",
+    "strength"
+  ],
+  "similar_words": [
+    "vice chairman",
+    "vice chancellor",
+    "vice consul",
+    "vice county",
+    "vice gerency",
+    "vice gerent",
+    "vice nary",
+    "vice premier",
+    "vice president",
+    "vice versa",
+    "vice-admiral",
+    "vice-governor",
+    "vicennial",
+    "viceregal",
+    "vicereine",
+    "viceroy",
+    "viceroyality"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vice.mp3",
+  "local_sound_path": "sounds/vice.mp3"
+}

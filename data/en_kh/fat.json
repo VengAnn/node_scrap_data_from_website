@@ -1,0 +1,77 @@
+{
+  "word": "fat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fat person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27757.png",
+      "local_image_path": "images/27757.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fat profit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27758.png",
+      "local_image_path": "images/27758.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27759.png",
+      "local_image_path": "images/27759.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130321.png",
+      "local_image_path": "images/130321.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130322.png",
+      "local_image_path": "images/130322.png"
+    }
+  ],
+  "synonyms": [
+    "hefty",
+    "thick",
+    "chunky",
+    "big",
+    "large",
+    "huge",
+    "enormous",
+    "lard",
+    "butter",
+    "margarine",
+    "grease"
+  ],
+  "antonyms": [
+    "thin",
+    "slim",
+    "lean",
+    "poor"
+  ],
+  "similar_words": [
+    "fat camp",
+    "fat gram",
+    "fat-cat",
+    "fat-writtted",
+    "fatal",
+    "fatalism",
+    "fatalist",
+    "fatalistic",
+    "fatalistically",
+    "fatality",
+    "fatality rate",
+    "fatally",
+    "fatback",
+    "fate",
+    "fated",
+    "fateful",
+    "fatefully"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fat.mp3",
+  "local_sound_path": "sounds/fat.mp3"
+}

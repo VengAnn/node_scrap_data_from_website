@@ -1,0 +1,48 @@
+{
+  "word": "collide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the bus and the van collided",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15710.png",
+      "local_image_path": "images/15710.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116686.png",
+      "local_image_path": "images/116686.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116687.png",
+      "local_image_path": "images/116687.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116688.png",
+      "local_image_path": "images/116688.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116689.png",
+      "local_image_path": "images/116689.png"
+    }
+  ],
+  "synonyms": [
+    "crash",
+    "bump",
+    "ram",
+    "hit",
+    "strike"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/collide.mp3",
+  "local_sound_path": "sounds/collide.mp3"
+}

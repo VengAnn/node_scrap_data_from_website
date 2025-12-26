@@ -1,0 +1,50 @@
+{
+  "word": "dangle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19612.png",
+      "local_image_path": "images/19612.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117692.png",
+      "local_image_path": "images/117692.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19614.png",
+      "local_image_path": "images/19614.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19613.png",
+      "local_image_path": "images/19613.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117693.png",
+      "local_image_path": "images/117693.png"
+    }
+  ],
+  "synonyms": [
+    "hang",
+    "swing",
+    "sway",
+    "suspend",
+    "droop",
+    "sag",
+    "draggle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dangle.mp3",
+  "local_sound_path": "sounds/dangle.mp3"
+}

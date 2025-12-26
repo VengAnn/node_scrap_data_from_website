@@ -1,0 +1,36 @@
+{
+  "word": "gage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30830.png",
+      "local_image_path": "images/30830.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30831.png",
+      "local_image_path": "images/30831.png"
+    }
+  ],
+  "synonyms": [
+    "evaluate",
+    "judge",
+    "assess",
+    "determine",
+    "measure",
+    "appraise",
+    "estimate",
+    "test",
+    "calculate",
+    "guess",
+    "weigh"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gage.mp3",
+  "local_sound_path": "sounds/gage.mp3"
+}

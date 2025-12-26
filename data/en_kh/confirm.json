@@ -1,0 +1,58 @@
+{
+  "word": "confirm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "confirm a reservation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16687.png",
+      "local_image_path": "images/16687.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117191.png",
+      "local_image_path": "images/117191.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117192.png",
+      "local_image_path": "images/117192.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117193.png",
+      "local_image_path": "images/117193.png"
+    }
+  ],
+  "synonyms": [
+    "strengthen",
+    "fortify",
+    "settle",
+    "reinforce",
+    "bolster",
+    "enhance"
+  ],
+  "antonyms": [
+    "refute",
+    "weaken"
+  ],
+  "similar_words": [
+    "confirmability",
+    "confirmable",
+    "confirmation",
+    "confirmation bias",
+    "confirmative",
+    "confirmatory",
+    "confirmed",
+    "confirmed credit",
+    "confirmed reservation",
+    "confirmedly",
+    "confirmer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confirm.mp3",
+  "local_sound_path": "sounds/confirm.mp3"
+}

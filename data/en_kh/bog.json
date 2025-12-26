@@ -1,0 +1,45 @@
+{
+  "word": "bog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9965.png",
+      "local_image_path": "images/9965.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9963.png",
+      "local_image_path": "images/9963.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9964.png",
+      "local_image_path": "images/9964.png"
+    }
+  ],
+  "synonyms": [
+    "swamp",
+    "quagmire",
+    "bayou",
+    "marsh",
+    "marshland",
+    "fen"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bogey",
+    "boggle",
+    "boggy",
+    "bogie",
+    "bogtroter",
+    "bogus",
+    "bogy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bog.mp3",
+  "local_sound_path": "sounds/bog.mp3"
+}

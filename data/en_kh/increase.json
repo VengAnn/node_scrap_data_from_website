@@ -1,0 +1,63 @@
+{
+  "word": "increase",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "salaries increase",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38724.png",
+      "local_image_path": "images/38724.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38725.png",
+      "local_image_path": "images/38725.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Your boss should increase your salary.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38721.png",
+      "local_image_path": "images/38721.png"
+    },
+    {
+      "pos": "tv",
+      "example": "increase one's salary",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38722.png",
+      "local_image_path": "images/38722.png"
+    },
+    {
+      "pos": "tv",
+      "example": "increase speed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38723.png",
+      "local_image_path": "images/38723.png"
+    }
+  ],
+  "synonyms": [
+    "upsurge",
+    "rise",
+    "growth",
+    "escalation",
+    "proliferation",
+    "intensification",
+    "spread",
+    "expansion",
+    "multiplication",
+    "intensify",
+    "snowball",
+    "mount",
+    "heighten",
+    "build up"
+  ],
+  "antonyms": [
+    "decrease"
+  ],
+  "similar_words": [
+    "increasebly",
+    "increasement",
+    "increaser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/increase.mp3",
+  "local_sound_path": "sounds/increase.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "carpet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13061.png",
+      "local_image_path": "images/13061.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13062.png",
+      "local_image_path": "images/13062.png"
+    }
+  ],
+  "synonyms": [
+    "covering",
+    "layer",
+    "blanket",
+    "mass",
+    "spread",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "carpet bag",
+    "carpet bagger",
+    "carpet knight",
+    "carpet sweeper",
+    "carpeting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carpet.mp3",
+  "local_sound_path": "sounds/carpet.mp3"
+}

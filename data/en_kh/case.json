@@ -1,0 +1,80 @@
+{
+  "word": "case",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a case of misunderstanding",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13145.png",
+      "local_image_path": "images/13145.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13146.png",
+      "local_image_path": "images/13146.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116020.png",
+      "local_image_path": "images/116020.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116021.png",
+      "local_image_path": "images/116021.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116022.png",
+      "local_image_path": "images/116022.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131294.png",
+      "local_image_path": "images/131294.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13147.png",
+      "local_image_path": "images/13147.png"
+    }
+  ],
+  "synonyms": [
+    "lawsuit",
+    "suit",
+    "indictment",
+    "litigation",
+    "suitcase",
+    "briefcase"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "case book",
+    "case history",
+    "case knife",
+    "case law",
+    "case load",
+    "case shot",
+    "case study",
+    "case system",
+    "case work",
+    "case-harden",
+    "caseate",
+    "caseation",
+    "casemate",
+    "casemated",
+    "casement",
+    "casemented",
+    "caseous",
+    "caserne"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/case.mp3",
+  "local_sound_path": "sounds/case.mp3"
+}

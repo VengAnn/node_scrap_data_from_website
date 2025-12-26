@@ -1,0 +1,88 @@
+{
+  "word": "retract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73137.png",
+      "local_image_path": "images/73137.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127040.png",
+      "local_image_path": "images/127040.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127041.png",
+      "local_image_path": "images/127041.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73136.png",
+      "local_image_path": "images/73136.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retract an antenna",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73138.png",
+      "local_image_path": "images/73138.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retract a statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73139.png",
+      "local_image_path": "images/73139.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127042.png",
+      "local_image_path": "images/127042.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127043.png",
+      "local_image_path": "images/127043.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127044.png",
+      "local_image_path": "images/127044.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127045.png",
+      "local_image_path": "images/127045.png"
+    }
+  ],
+  "synonyms": [
+    "deny",
+    "withdraw",
+    "apologize",
+    "recant",
+    "rescind"
+  ],
+  "antonyms": [
+    "extend"
+  ],
+  "similar_words": [
+    "retractable",
+    "retractible",
+    "retractile",
+    "retractility",
+    "retraction",
+    "retractive",
+    "retractor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retract.mp3",
+  "local_sound_path": "sounds/retract.mp3"
+}

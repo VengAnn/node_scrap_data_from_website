@@ -1,0 +1,73 @@
+{
+  "word": "destroy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "destroy enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20944.png",
+      "local_image_path": "images/20944.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20945.png",
+      "local_image_path": "images/20945.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118148.png",
+      "local_image_path": "images/118148.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118149.png",
+      "local_image_path": "images/118149.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118150.png",
+      "local_image_path": "images/118150.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118151.png",
+      "local_image_path": "images/118151.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118152.png",
+      "local_image_path": "images/118152.png"
+    }
+  ],
+  "synonyms": [
+    "end",
+    "finish",
+    "extinguish",
+    "terminate",
+    "abolish",
+    "defeat",
+    "crush",
+    "subdue",
+    "demolish",
+    "annihilate",
+    "overcome",
+    "overthrow"
+  ],
+  "antonyms": [
+    "build",
+    "conserve",
+    "sustain"
+  ],
+  "similar_words": [
+    "destroyer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/destroy.mp3",
+  "local_sound_path": "sounds/destroy.mp3"
+}

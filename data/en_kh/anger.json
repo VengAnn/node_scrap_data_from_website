@@ -1,0 +1,44 @@
+{
+  "word": "anger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4257.png",
+      "local_image_path": "images/4257.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4255.png",
+      "local_image_path": "images/4255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4256.png",
+      "local_image_path": "images/4256.png"
+    }
+  ],
+  "synonyms": [
+    "annoy",
+    "irritate",
+    "infuriate",
+    "incense",
+    "enrage",
+    "madden",
+    "exasperate",
+    "rile",
+    "aggravate",
+    "provoke"
+  ],
+  "antonyms": [
+    "calm",
+    "pacify"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anger.mp3",
+  "local_sound_path": "sounds/anger.mp3"
+}

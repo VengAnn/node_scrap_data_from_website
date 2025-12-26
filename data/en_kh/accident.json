@@ -1,0 +1,37 @@
+{
+  "word": "accident",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "to meet with an accident",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1840.png",
+      "local_image_path": "images/1840.png"
+    },
+    {
+      "pos": "n",
+      "example": "five people were killed in the car accident",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1839.png",
+      "local_image_path": "images/1839.png"
+    }
+  ],
+  "synonyms": [
+    "crash",
+    "collision",
+    "bump",
+    "smash",
+    "shunt"
+  ],
+  "antonyms": [
+    "design"
+  ],
+  "similar_words": [
+    "accident insurance",
+    "accident prone",
+    "accidental",
+    "accidentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accident.mp3",
+  "local_sound_path": "sounds/accident.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "forswear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29897.png",
+      "local_image_path": "images/29897.png"
+    },
+    {
+      "pos": "tv",
+      "example": "forswear a legiance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29898.png",
+      "local_image_path": "images/29898.png"
+    }
+  ],
+  "synonyms": [
+    "renounce",
+    "disavow",
+    "reject",
+    "disown",
+    "abjure",
+    "deny",
+    "contradict",
+    "gainsay",
+    "disclaim",
+    "swear"
+  ],
+  "antonyms": [
+    "admit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forswear.mp3",
+  "local_sound_path": "sounds/forswear.mp3"
+}

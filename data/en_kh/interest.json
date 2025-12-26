@@ -1,0 +1,77 @@
+{
+  "word": "interest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "strong interest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41188.png",
+      "local_image_path": "images/41188.png"
+    },
+    {
+      "pos": "n",
+      "example": "have many interest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41189.png",
+      "local_image_path": "images/41189.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy an interest in a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41190.png",
+      "local_image_path": "images/41190.png"
+    },
+    {
+      "pos": "n",
+      "example": "have an interest in the outcome",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41191.png",
+      "local_image_path": "images/41191.png"
+    },
+    {
+      "pos": "n",
+      "example": "look out for one's own interest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41192.png",
+      "local_image_path": "images/41192.png"
+    },
+    {
+      "pos": "n",
+      "example": "interest on loan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41193.png",
+      "local_image_path": "images/41193.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Your computer interests me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41194.png",
+      "local_image_path": "images/41194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "these decisions interest us all",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41195.png",
+      "local_image_path": "images/41195.png"
+    }
+  ],
+  "synonyms": [
+    "advantage",
+    "benefit",
+    "gain",
+    "profit",
+    "attract",
+    "appeal",
+    "fascinate",
+    "draw"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "interested",
+    "interestedly",
+    "interestedness",
+    "interester",
+    "interesting",
+    "interestingly",
+    "interestingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interest.mp3",
+  "local_sound_path": "sounds/interest.mp3"
+}

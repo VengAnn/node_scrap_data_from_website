@@ -1,0 +1,72 @@
+{
+  "word": "recover",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70987.png",
+      "local_image_path": "images/70987.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70988.png",
+      "local_image_path": "images/70988.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70989.png",
+      "local_image_path": "images/70989.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70990.png",
+      "local_image_path": "images/70990.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70984.png",
+      "local_image_path": "images/70984.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recover salt from water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70985.png",
+      "local_image_path": "images/70985.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recover lost property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70986.png",
+      "local_image_path": "images/70986.png"
+    }
+  ],
+  "synonyms": [
+    "claim",
+    "regain",
+    "recuperate",
+    "recoup",
+    "retrieve",
+    "salvage",
+    "recapture",
+    "repossess"
+  ],
+  "antonyms": [
+    "deteriorate",
+    "lose"
+  ],
+  "similar_words": [
+    "recoverable",
+    "recoverance",
+    "recoverer",
+    "recovery",
+    "recovery room"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recover.mp3",
+  "local_sound_path": "sounds/recover.mp3"
+}

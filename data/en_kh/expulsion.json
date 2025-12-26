@@ -1,0 +1,39 @@
+{
+  "word": "expulsion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26780.png",
+      "local_image_path": "images/26780.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26942.png",
+      "local_image_path": "images/26942.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27238.png",
+      "local_image_path": "images/27238.png"
+    }
+  ],
+  "synonyms": [
+    "exclusion",
+    "eviction",
+    "removal",
+    "ejection",
+    "discharge",
+    "dismissal"
+  ],
+  "antonyms": [
+    "admittance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expulsion.mp3",
+  "local_sound_path": "sounds/expulsion.mp3"
+}

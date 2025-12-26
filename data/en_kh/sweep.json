@@ -1,0 +1,96 @@
+{
+  "word": "sweep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86795.png",
+      "local_image_path": "images/86795.png"
+    },
+    {
+      "pos": "n",
+      "example": "sweep of the armies across Europe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86796.png",
+      "local_image_path": "images/86796.png"
+    },
+    {
+      "pos": "n",
+      "example": "a sweep of one's hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86797.png",
+      "local_image_path": "images/86797.png"
+    },
+    {
+      "pos": "n",
+      "example": "a sweep of the waves on the sand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86798.png",
+      "local_image_path": "images/86798.png"
+    },
+    {
+      "pos": "n",
+      "example": "a long sweep of sand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86799.png",
+      "local_image_path": "images/86799.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sweep the floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86789.png",
+      "local_image_path": "images/86789.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sweep the sea with a gun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86790.png",
+      "local_image_path": "images/86790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86791.png",
+      "local_image_path": "images/86791.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Her eyes sweep the room.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86792.png",
+      "local_image_path": "images/86792.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86793.png",
+      "local_image_path": "images/86793.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86794.png",
+      "local_image_path": "images/86794.png"
+    }
+  ],
+  "synonyms": [
+    "scope",
+    "range",
+    "extent",
+    "span",
+    "stretch",
+    "carry",
+    "move",
+    "take",
+    "seize",
+    "grab"
+  ],
+  "antonyms": [
+    "creep"
+  ],
+  "similar_words": [
+    "sweeper",
+    "sweeping",
+    "sweepings",
+    "sweepstakes"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sweep.mp3",
+  "local_sound_path": "sounds/sweep.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "instruction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40773.png",
+      "local_image_path": "images/40773.png"
+    },
+    {
+      "pos": "n",
+      "example": "instruction in history",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40774.png",
+      "local_image_path": "images/40774.png"
+    },
+    {
+      "pos": "n",
+      "example": "read the instruction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40775.png",
+      "local_image_path": "images/40775.png"
+    }
+  ],
+  "synonyms": [
+    "order",
+    "command",
+    "direction",
+    "directive"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "instructional",
+    "instructionary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/instruction.mp3",
+  "local_sound_path": "sounds/instruction.mp3"
+}

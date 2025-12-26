@@ -1,0 +1,40 @@
+{
+  "word": "aloofly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3610.png",
+      "local_image_path": "images/3610.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113575.png",
+      "local_image_path": "images/113575.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113576.png",
+      "local_image_path": "images/113576.png"
+    }
+  ],
+  "synonyms": [
+    "indifferently",
+    "apathetically",
+    "impassively",
+    "unresponsively",
+    "dispassionately",
+    "remotely",
+    "unconcernedly",
+    "distantly"
+  ],
+  "antonyms": [
+    "passionately",
+    "closely"
+  ],
+  "similar_words": [],
+  "sound": null
+}

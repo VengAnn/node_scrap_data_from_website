@@ -1,0 +1,31 @@
+{
+  "word": "ruler",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "benevolent ruler",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74609.png",
+      "local_image_path": "images/74609.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74610.png",
+      "local_image_path": "images/74610.png"
+    }
+  ],
+  "synonyms": [
+    "monarch",
+    "sovereign",
+    "leader",
+    "potentate"
+  ],
+  "antonyms": [
+    "subject"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ruler.mp3",
+  "local_sound_path": "sounds/ruler.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "augur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6404.png",
+      "local_image_path": "images/6404.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6402.png",
+      "local_image_path": "images/6402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6403.png",
+      "local_image_path": "images/6403.png"
+    }
+  ],
+  "synonyms": [
+    "bode",
+    "promise",
+    "portend",
+    "foretell",
+    "predict",
+    "prophesy",
+    "prognosticate",
+    "indicate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "augural",
+    "augurate",
+    "auguration",
+    "augurial",
+    "augury"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/augur.mp3",
+  "local_sound_path": "sounds/augur.mp3"
+}

@@ -1,0 +1,72 @@
+{
+  "word": "form",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Water forms ice when it freezes.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29850.png",
+      "local_image_path": "images/29850.png"
+    },
+    {
+      "pos": "n",
+      "example": "form of an object",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29847.png",
+      "local_image_path": "images/29847.png"
+    },
+    {
+      "pos": "tv",
+      "example": "form a status",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29848.png",
+      "local_image_path": "images/29848.png"
+    },
+    {
+      "pos": "tv",
+      "example": "form an orginazation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29849.png",
+      "local_image_path": "images/29849.png"
+    }
+  ],
+  "synonyms": [
+    "procedure",
+    "method",
+    "system",
+    "arrangement",
+    "formula",
+    "custom",
+    "practice",
+    "usage",
+    "fashion",
+    "shape",
+    "model",
+    "create",
+    "mold",
+    "construct",
+    "develop",
+    "produce"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "formal",
+    "formal contact",
+    "formalism",
+    "formalist",
+    "formalistic",
+    "formality",
+    "formalization",
+    "formalize",
+    "format",
+    "formation",
+    "formative",
+    "former",
+    "formerly",
+    "formicary",
+    "formicivorous",
+    "formidability",
+    "formidable",
+    "formidableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/form.mp3",
+  "local_sound_path": "sounds/form.mp3"
+}

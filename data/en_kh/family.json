@@ -1,0 +1,41 @@
+{
+  "word": "family",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "How about your family?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27543.png",
+      "local_image_path": "images/27543.png"
+    },
+    {
+      "pos": "n",
+      "example": "family name",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27544.png",
+      "local_image_path": "images/27544.png"
+    }
+  ],
+  "synonyms": [
+    "species",
+    "genus",
+    "type",
+    "kind",
+    "line",
+    "breed",
+    "strain",
+    "variety",
+    "group",
+    "category"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "family council",
+    "family hotel",
+    "family planning",
+    "family practitioner",
+    "family tree"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/family.mp3",
+  "local_sound_path": "sounds/family.mp3"
+}

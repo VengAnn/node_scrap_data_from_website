@@ -1,0 +1,47 @@
+{
+  "word": "dissonant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22234.png",
+      "local_image_path": "images/22234.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118634.png",
+      "local_image_path": "images/118634.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118635.png",
+      "local_image_path": "images/118635.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118636.png",
+      "local_image_path": "images/118636.png"
+    }
+  ],
+  "synonyms": [
+    "discordant",
+    "jarring",
+    "harsh",
+    "inharmonious",
+    "cacophonous",
+    "unmusical"
+  ],
+  "antonyms": [
+    "harmonious"
+  ],
+  "similar_words": [
+    "dissonantly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissonant.mp3",
+  "local_sound_path": "sounds/dissonant.mp3"
+}

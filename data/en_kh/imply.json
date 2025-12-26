@@ -1,0 +1,42 @@
+{
+  "word": "imply",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "They imply that he's honest.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37827.png",
+      "local_image_path": "images/37827.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121679.png",
+      "local_image_path": "images/121679.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121680.png",
+      "local_image_path": "images/121680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121681.png",
+      "local_image_path": "images/121681.png"
+    }
+  ],
+  "synonyms": [
+    "entail",
+    "involve",
+    "mean",
+    "indicate",
+    "denote"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imply.mp3",
+  "local_sound_path": "sounds/imply.mp3"
+}

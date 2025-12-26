@@ -1,0 +1,54 @@
+{
+  "word": "react",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "react to his proposal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70453.png",
+      "local_image_path": "images/70453.png"
+    },
+    {
+      "pos": "iv",
+      "example": "react (against sb/sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70454.png",
+      "local_image_path": "images/70454.png"
+    },
+    {
+      "pos": "iv",
+      "example": "react on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70455.png",
+      "local_image_path": "images/70455.png"
+    }
+  ],
+  "synonyms": [
+    "respond",
+    "counter",
+    "retort",
+    "answer",
+    "reply",
+    "change",
+    "alter",
+    "oxidize",
+    "reduce",
+    "bond",
+    "ionize"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "react to",
+    "reactant",
+    "reaction",
+    "reaction engine",
+    "reaction time",
+    "reactionary",
+    "reactivate",
+    "reactive",
+    "reactor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/react.mp3",
+  "local_sound_path": "sounds/react.mp3"
+}

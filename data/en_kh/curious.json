@@ -1,0 +1,38 @@
+{
+  "word": "curious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I'm curious to know what she said.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19165.png",
+      "local_image_path": "images/19165.png"
+    },
+    {
+      "pos": "adj",
+      "example": "curious specimen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19166.png",
+      "local_image_path": "images/19166.png"
+    }
+  ],
+  "synonyms": [
+    "peculiar",
+    "odd",
+    "strange",
+    "unusual",
+    "remarkable",
+    "bizarre",
+    "weird"
+  ],
+  "antonyms": [
+    "apathetic",
+    "ordinary"
+  ],
+  "similar_words": [
+    "curiously",
+    "curiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curious.mp3",
+  "local_sound_path": "sounds/curious.mp3"
+}

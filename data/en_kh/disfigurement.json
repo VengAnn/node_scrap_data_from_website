@@ -1,0 +1,35 @@
+{
+  "word": "disfigurement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21851.png",
+      "local_image_path": "images/21851.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118472.png",
+      "local_image_path": "images/118472.png"
+    }
+  ],
+  "synonyms": [
+    "scar",
+    "mutilation",
+    "defacement",
+    "deformity",
+    "blemish",
+    "defect",
+    "mark",
+    "blotch"
+  ],
+  "antonyms": [
+    "enhancement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disfigurement.mp3",
+  "local_sound_path": "sounds/disfigurement.mp3"
+}

@@ -1,0 +1,83 @@
+{
+  "word": "dead",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dead animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19770.png",
+      "local_image_path": "images/19770.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dead language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19771.png",
+      "local_image_path": "images/19771.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dead party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19772.png",
+      "local_image_path": "images/19772.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19775.png",
+      "local_image_path": "images/19775.png"
+    },
+    {
+      "pos": "n",
+      "example": "the dead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19773.png",
+      "local_image_path": "images/19773.png"
+    },
+    {
+      "pos": "n",
+      "example": "the dead of night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19774.png",
+      "local_image_path": "images/19774.png"
+    }
+  ],
+  "synonyms": [
+    "silent",
+    "blank",
+    "quiet",
+    "down",
+    "inactive",
+    "inert",
+    "extinct"
+  ],
+  "antonyms": [
+    "alive",
+    "exciting",
+    "sensitive",
+    "live",
+    "current"
+  ],
+  "similar_words": [
+    "dead end",
+    "dead flower",
+    "dead hour",
+    "dead money",
+    "dead season",
+    "dead tree edition",
+    "dead-beat",
+    "dead-hush",
+    "dead-see-fruid",
+    "dead-see-fruid death toll",
+    "dead-see-fruid sentence",
+    "deaden",
+    "deader",
+    "deadline",
+    "deadlock",
+    "deadlocked",
+    "deadloss",
+    "deadly",
+    "deadly attack",
+    "deadly enemy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dead.mp3",
+  "local_sound_path": "sounds/dead.mp3"
+}

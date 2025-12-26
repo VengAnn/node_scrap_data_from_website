@@ -1,0 +1,55 @@
+{
+  "word": "complaint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I have a number of complaints about the hotelroom you've given me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16237.png",
+      "local_image_path": "images/16237.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130172.png",
+      "local_image_path": "images/130172.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130173.png",
+      "local_image_path": "images/130173.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130174.png",
+      "local_image_path": "images/130174.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131392.png",
+      "local_image_path": "images/131392.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131393.png",
+      "local_image_path": "images/131393.png"
+    }
+  ],
+  "synonyms": [
+    "illness",
+    "condition",
+    "ailment",
+    "disorder"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/complaint.mp3",
+  "local_sound_path": "sounds/complaint.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "ode",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57215.png",
+      "local_image_path": "images/57215.png"
+    }
+  ],
+  "synonyms": [
+    "verse",
+    "rhyme",
+    "sonnet",
+    "elegy",
+    "limerick",
+    "couplet",
+    "epic",
+    "song",
+    "poem"
+  ],
+  "antonyms": [
+    "prose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ode.mp3",
+  "local_sound_path": "sounds/ode.mp3"
+}

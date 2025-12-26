@@ -1,0 +1,37 @@
+{
+  "word": "beach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7830.png",
+      "local_image_path": "images/7830.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114703.png",
+      "local_image_path": "images/114703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7831.png",
+      "local_image_path": "images/7831.png"
+    }
+  ],
+  "synonyms": [
+    "seashore",
+    "coast",
+    "shore",
+    "coastline",
+    "sand",
+    "strand"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beach.mp3",
+  "local_sound_path": "sounds/beach.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "wreck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "wreck his reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101116.png",
+      "local_image_path": "images/101116.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a car wreck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101113.png",
+      "local_image_path": "images/101113.png"
+    },
+    {
+      "pos": "n",
+      "example": "The storm caused wrecks all along the coast.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101114.png",
+      "local_image_path": "images/101114.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129932.png",
+      "local_image_path": "images/129932.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The train was wrecked",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101115.png",
+      "local_image_path": "images/101115.png"
+    }
+  ],
+  "synonyms": [
+    "crash",
+    "collision",
+    "accident",
+    "destroy",
+    "ruin",
+    "demolish",
+    "break",
+    "shatter",
+    "smash",
+    "spoil"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wreckage",
+    "wreckager"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wreck.mp3",
+  "local_sound_path": "sounds/wreck.mp3"
+}

@@ -1,0 +1,84 @@
+{
+  "word": "warm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "It was warm, but not hot, yesterday.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99077.png",
+      "local_image_path": "images/99077.png"
+    },
+    {
+      "pos": "adj",
+      "example": "warm friendship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99078.png",
+      "local_image_path": "images/99078.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99079.png",
+      "local_image_path": "images/99079.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99080.png",
+      "local_image_path": "images/99080.png"
+    },
+    {
+      "pos": "iv",
+      "example": "warm toward",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99083.png",
+      "local_image_path": "images/99083.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99082.png",
+      "local_image_path": "images/99082.png"
+    },
+    {
+      "pos": "tv",
+      "example": "warm the food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99081.png",
+      "local_image_path": "images/99081.png"
+    }
+  ],
+  "synonyms": [
+    "passionate",
+    "ardent",
+    "fiery",
+    "enthusiastic",
+    "zealous",
+    "heat",
+    "reheat",
+    "melt",
+    "thaw"
+  ],
+  "antonyms": [
+    "cool",
+    "cold",
+    "unfriendly",
+    "unwelcoming"
+  ],
+  "similar_words": [
+    "warm clothes",
+    "warm prospect",
+    "warm-blooded",
+    "warm-hearted",
+    "warm-up",
+    "warmer",
+    "warming",
+    "warmish",
+    "warmly",
+    "warmness",
+    "warmonger",
+    "warmongering",
+    "warmth",
+    "warmthless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/warm.mp3",
+  "local_sound_path": "sounds/warm.mp3"
+}

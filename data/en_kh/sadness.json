@@ -1,0 +1,34 @@
+{
+  "word": "sadness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74999.png",
+      "local_image_path": "images/74999.png"
+    }
+  ],
+  "synonyms": [
+    "grief",
+    "sorrow",
+    "unhappiness",
+    "misery",
+    "depression",
+    "wretchedness",
+    "melancholy",
+    "gloom",
+    "despondency",
+    "desolation",
+    "dejection",
+    "woe",
+    "blues"
+  ],
+  "antonyms": [
+    "happiness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sadness.mp3",
+  "local_sound_path": "sounds/sadness.mp3"
+}

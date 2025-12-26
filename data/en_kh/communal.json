@@ -1,0 +1,34 @@
+{
+  "word": "communal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "the flat has four separate bedrooms and a communal kitchen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16084.png",
+      "local_image_path": "images/16084.png"
+    }
+  ],
+  "synonyms": [
+    "common",
+    "public",
+    "collective",
+    "joint",
+    "mutual"
+  ],
+  "antonyms": [
+    "private",
+    "individual"
+  ],
+  "similar_words": [
+    "communalism",
+    "communalist",
+    "communalistic",
+    "communality",
+    "communalize",
+    "communally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/communal.mp3",
+  "local_sound_path": "sounds/communal.mp3"
+}

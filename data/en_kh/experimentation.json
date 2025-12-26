@@ -1,0 +1,32 @@
+{
+  "word": "experimentation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26801.png",
+      "local_image_path": "images/26801.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119696.png",
+      "local_image_path": "images/119696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119697.png",
+      "local_image_path": "images/119697.png"
+    }
+  ],
+  "synonyms": [
+    "testing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/experimentation.mp3",
+  "local_sound_path": "sounds/experimentation.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "abrasive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "abrasive personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1553.png",
+      "local_image_path": "images/1553.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111833.png",
+      "local_image_path": "images/111833.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113045.png",
+      "local_image_path": "images/113045.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1554.png",
+      "local_image_path": "images/1554.png"
+    }
+  ],
+  "synonyms": [
+    "rude",
+    "sharp",
+    "uncompromising",
+    "harsh",
+    "brusque",
+    "argumentative",
+    "aggressive",
+    "unfriendly",
+    "gruff",
+    "severe",
+    "prickly"
+  ],
+  "antonyms": [
+    "gentle",
+    "smooth"
+  ],
+  "similar_words": [
+    "abrasively",
+    "abrasiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abrasive.mp3",
+  "local_sound_path": "sounds/abrasive.mp3"
+}

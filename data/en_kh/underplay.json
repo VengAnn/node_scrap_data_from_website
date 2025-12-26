@@ -1,0 +1,50 @@
+{
+  "word": "underplay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94047.png",
+      "local_image_path": "images/94047.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94048.png",
+      "local_image_path": "images/94048.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94049.png",
+      "local_image_path": "images/94049.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128998.png",
+      "local_image_path": "images/128998.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128999.png",
+      "local_image_path": "images/128999.png"
+    }
+  ],
+  "synonyms": [
+    "minimize",
+    "underestimate",
+    "understate",
+    "dismiss",
+    "underemphasize"
+  ],
+  "antonyms": [
+    "overplay"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/underplay.mp3",
+  "local_sound_path": "sounds/underplay.mp3"
+}

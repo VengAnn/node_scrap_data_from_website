@@ -1,0 +1,94 @@
+{
+  "word": "report",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72378.png",
+      "local_image_path": "images/72378.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He reported what he had seen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72379.png",
+      "local_image_path": "images/72379.png"
+    },
+    {
+      "pos": "iv",
+      "example": "report for work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72380.png",
+      "local_image_path": "images/72380.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126889.png",
+      "local_image_path": "images/126889.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126890.png",
+      "local_image_path": "images/126890.png"
+    },
+    {
+      "pos": "n",
+      "example": "To make a report on the state of the roads.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72374.png",
+      "local_image_path": "images/72374.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72375.png",
+      "local_image_path": "images/72375.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72376.png",
+      "local_image_path": "images/72376.png"
+    },
+    {
+      "pos": "n",
+      "example": "Mr. Mok is of good report",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72377.png",
+      "local_image_path": "images/72377.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72383.png",
+      "local_image_path": "images/72383.png"
+    },
+    {
+      "pos": "tv",
+      "example": "report a crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72381.png",
+      "local_image_path": "images/72381.png"
+    }
+  ],
+  "synonyms": [
+    "bang",
+    "boom",
+    "crash",
+    "explosion",
+    "shot",
+    "arrive",
+    "register"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "reportable",
+    "reportage",
+    "reportedly",
+    "reporter",
+    "reporting",
+    "reportorial",
+    "reportorially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/report.mp3",
+  "local_sound_path": "sounds/report.mp3"
+}

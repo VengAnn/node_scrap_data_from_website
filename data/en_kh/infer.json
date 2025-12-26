@@ -1,0 +1,72 @@
+{
+  "word": "infer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39625.png",
+      "local_image_path": "images/39625.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39624.png",
+      "local_image_path": "images/39624.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122323.png",
+      "local_image_path": "images/122323.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122324.png",
+      "local_image_path": "images/122324.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122325.png",
+      "local_image_path": "images/122325.png"
+    }
+  ],
+  "synonyms": [
+    "deduce",
+    "suppose",
+    "conclude",
+    "gather",
+    "conjecture",
+    "surmise",
+    "assume",
+    "understand",
+    "imply",
+    "suggest",
+    "insinuate"
+  ],
+  "antonyms": [
+    "guess"
+  ],
+  "similar_words": [
+    "inferable",
+    "inferably",
+    "inference",
+    "inferential",
+    "inferer",
+    "inferior",
+    "inferior goods",
+    "inferiority",
+    "infernal",
+    "infernal stone",
+    "infernally",
+    "infernalry",
+    "inferno",
+    "inferrible",
+    "infertile"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infer.mp3",
+  "local_sound_path": "sounds/infer.mp3"
+}

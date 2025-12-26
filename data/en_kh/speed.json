@@ -1,0 +1,60 @@
+{
+  "word": "speed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Don't speed up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83238.png",
+      "local_image_path": "images/83238.png"
+    },
+    {
+      "pos": "n",
+      "example": "unsafe speed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83236.png",
+      "local_image_path": "images/83236.png"
+    },
+    {
+      "pos": "tv",
+      "example": "speed up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83237.png",
+      "local_image_path": "images/83237.png"
+    }
+  ],
+  "synonyms": [
+    "race",
+    "fly",
+    "zip",
+    "zoom",
+    "hurry",
+    "hustle",
+    "run",
+    "rush"
+  ],
+  "antonyms": [
+    "tardiness",
+    "crawl"
+  ],
+  "similar_words": [
+    "speed capacity",
+    "speed car",
+    "speed cop",
+    "speed gear",
+    "speed man",
+    "speed merchant",
+    "speed well",
+    "speed-boat",
+    "speed-ful",
+    "speed-less",
+    "speeder",
+    "speedily",
+    "speediness",
+    "speeding",
+    "speedometer",
+    "speedway",
+    "speedy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/speed.mp3",
+  "local_sound_path": "sounds/speed.mp3"
+}

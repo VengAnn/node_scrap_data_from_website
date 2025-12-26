@@ -1,0 +1,44 @@
+{
+  "word": "resolution",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make a resolution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72776.png",
+      "local_image_path": "images/72776.png"
+    },
+    {
+      "pos": "n",
+      "example": "pass a resolution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72777.png",
+      "local_image_path": "images/72777.png"
+    },
+    {
+      "pos": "n",
+      "example": "resolution of the conflict",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72778.png",
+      "local_image_path": "images/72778.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72779.png",
+      "local_image_path": "images/72779.png"
+    }
+  ],
+  "synonyms": [
+    "solution",
+    "answer",
+    "end",
+    "upshot",
+    "outcome"
+  ],
+  "antonyms": [
+    "indecision"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resolution.mp3",
+  "local_sound_path": "sounds/resolution.mp3"
+}

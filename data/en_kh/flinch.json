@@ -1,0 +1,62 @@
+{
+  "word": "flinch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "flinch from a blow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29095.png",
+      "local_image_path": "images/29095.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29096.png",
+      "local_image_path": "images/29096.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120239.png",
+      "local_image_path": "images/120239.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120240.png",
+      "local_image_path": "images/120240.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120241.png",
+      "local_image_path": "images/120241.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120242.png",
+      "local_image_path": "images/120242.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29097.png",
+      "local_image_path": "images/29097.png"
+    }
+  ],
+  "synonyms": [
+    "recoil",
+    "start",
+    "cringe",
+    "balk",
+    "baulk",
+    "quail",
+    "wince"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flinch.mp3",
+  "local_sound_path": "sounds/flinch.mp3"
+}

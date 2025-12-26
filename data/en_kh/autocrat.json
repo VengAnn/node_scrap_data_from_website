@@ -1,0 +1,31 @@
+{
+  "word": "autocrat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_text": "អត្តាធិបតី"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114291.png",
+      "local_image_path": "images/114291.png"
+    }
+  ],
+  "synonyms": [
+    "dictator",
+    "tyrant",
+    "despot"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "autocratic",
+    "autocratical",
+    "autocratically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/autocrat.mp3",
+  "local_sound_path": "sounds/autocrat.mp3"
+}

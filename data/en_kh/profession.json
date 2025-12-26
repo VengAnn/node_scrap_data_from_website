@@ -1,0 +1,40 @@
+{
+  "word": "profession",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "teaching profession",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67382.png",
+      "local_image_path": "images/67382.png"
+    },
+    {
+      "pos": "n",
+      "example": "profession of innocense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67383.png",
+      "local_image_path": "images/67383.png"
+    }
+  ],
+  "synonyms": [
+    "vocation",
+    "occupation",
+    "job",
+    "career",
+    "work",
+    "business",
+    "living"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "professional",
+    "professional association",
+    "professional tourism",
+    "professionalism",
+    "professionalization",
+    "professionalize",
+    "professionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/profession.mp3",
+  "local_sound_path": "sounds/profession.mp3"
+}

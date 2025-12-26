@@ -1,0 +1,47 @@
+{
+  "word": "terror",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "flee in terror",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88462.png",
+      "local_image_path": "images/88462.png"
+    },
+    {
+      "pos": "n",
+      "example": "terror tactics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88463.png",
+      "local_image_path": "images/88463.png"
+    }
+  ],
+  "synonyms": [
+    "fear",
+    "horror",
+    "fright",
+    "dread",
+    "shock",
+    "panic",
+    "alarm",
+    "pest",
+    "nuisance",
+    "troublemaker",
+    "ruffian",
+    "imp"
+  ],
+  "antonyms": [
+    "security"
+  ],
+  "similar_words": [
+    "terror-struck",
+    "terrorism",
+    "terrorist",
+    "terroristic",
+    "terrorize",
+    "terrorizer",
+    "terrorstriken"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terror.mp3",
+  "local_sound_path": "sounds/terror.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "cognitive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15541.png",
+      "local_image_path": "images/15541.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cognitive level",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15542.png",
+      "local_image_path": "images/15542.png"
+    }
+  ],
+  "synonyms": [
+    "reasoning",
+    "mental",
+    "intellectual",
+    "cerebral",
+    "perceptive",
+    "rational",
+    "thinking",
+    "thought"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cognitive.mp3",
+  "local_sound_path": "sounds/cognitive.mp3"
+}

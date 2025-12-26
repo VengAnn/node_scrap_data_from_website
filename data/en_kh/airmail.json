@@ -1,0 +1,28 @@
+{
+  "word": "airmail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3153.png",
+      "local_image_path": "images/3153.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113479.png",
+      "local_image_path": "images/113479.png"
+    }
+  ],
+  "synonyms": [
+    "mail",
+    "send",
+    "dispatch"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airmail.mp3",
+  "local_sound_path": "sounds/airmail.mp3"
+}

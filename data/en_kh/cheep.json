@@ -1,0 +1,30 @@
+{
+  "word": "cheep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14007.png",
+      "local_image_path": "images/14007.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14008.png",
+      "local_image_path": "images/14008.png"
+    }
+  ],
+  "synonyms": [
+    "peep",
+    "tweet",
+    "twitter",
+    "chirp",
+    "sing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cheep.mp3",
+  "local_sound_path": "sounds/cheep.mp3"
+}

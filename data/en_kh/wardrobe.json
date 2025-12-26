@@ -1,0 +1,36 @@
+{
+  "word": "wardrobe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden wardrobe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99058.png",
+      "local_image_path": "images/99058.png"
+    },
+    {
+      "pos": "n",
+      "example": "fashionable wardrobe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99059.png",
+      "local_image_path": "images/99059.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99060.png",
+      "local_image_path": "images/99060.png"
+    }
+  ],
+  "synonyms": [
+    "clothes",
+    "clothing",
+    "attire",
+    "cupboard",
+    "closet"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wardrobe.mp3",
+  "local_sound_path": "sounds/wardrobe.mp3"
+}

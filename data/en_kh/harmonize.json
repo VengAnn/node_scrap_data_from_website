@@ -1,0 +1,60 @@
+{
+  "word": "harmonize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "don't harmonize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33935.png",
+      "local_image_path": "images/33935.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Views don't harmonize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33936.png",
+      "local_image_path": "images/33936.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harmonize various views",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33933.png",
+      "local_image_path": "images/33933.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harmonize music",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33934.png",
+      "local_image_path": "images/33934.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120965.png",
+      "local_image_path": "images/120965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120966.png",
+      "local_image_path": "images/120966.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120967.png",
+      "local_image_path": "images/120967.png"
+    }
+  ],
+  "synonyms": [
+    "synchronize",
+    "standardize",
+    "regularize"
+  ],
+  "antonyms": [
+    "jar"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harmonize.mp3",
+  "local_sound_path": "sounds/harmonize.mp3"
+}

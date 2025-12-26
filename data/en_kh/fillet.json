@@ -1,0 +1,31 @@
+{
+  "word": "fillet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "some fillet steak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28517.png",
+      "local_image_path": "images/28517.png"
+    },
+    {
+      "pos": "n",
+      "example": "She wears fillet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28518.png",
+      "local_image_path": "images/28518.png"
+    }
+  ],
+  "synonyms": [
+    "bone",
+    "clean",
+    "prepare",
+    "gut",
+    "scale",
+    "skin"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fillet.mp3",
+  "local_sound_path": "sounds/fillet.mp3"
+}

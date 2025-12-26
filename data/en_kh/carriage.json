@@ -1,0 +1,48 @@
+{
+  "word": "carriage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13085.png",
+      "local_image_path": "images/13085.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116011.png",
+      "local_image_path": "images/116011.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116012.png",
+      "local_image_path": "images/116012.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116013.png",
+      "local_image_path": "images/116013.png"
+    }
+  ],
+  "synonyms": [
+    "cart",
+    "wagon",
+    "coach",
+    "trap",
+    "gig",
+    "landau",
+    "brougham",
+    "hansom"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "carriage trade",
+    "carriage way"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carriage.mp3",
+  "local_sound_path": "sounds/carriage.mp3"
+}

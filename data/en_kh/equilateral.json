@@ -1,0 +1,28 @@
+{
+  "word": "equilateral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "equilateral triangle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25641.png",
+      "local_image_path": "images/25641.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119353.png",
+      "local_image_path": "images/119353.png"
+    }
+  ],
+  "synonyms": [
+    "rhombus",
+    "lozenge",
+    "shape"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equilateral.mp3",
+  "local_sound_path": "sounds/equilateral.mp3"
+}

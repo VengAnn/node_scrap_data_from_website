@@ -1,0 +1,52 @@
+{
+  "word": "scream",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77103.png",
+      "local_image_path": "images/77103.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a scream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77104.png",
+      "local_image_path": "images/77104.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77105.png",
+      "local_image_path": "images/77105.png"
+    },
+    {
+      "pos": "v",
+      "example": "The baby screamed all night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77102.png",
+      "local_image_path": "images/77102.png"
+    }
+  ],
+  "synonyms": [
+    "shriek",
+    "yell",
+    "yelp",
+    "shout",
+    "cry",
+    "screech",
+    "squeal",
+    "bawl",
+    "squawk"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [
+    "screamer",
+    "screaming",
+    "screamingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scream.mp3",
+  "local_sound_path": "sounds/scream.mp3"
+}

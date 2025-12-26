@@ -1,0 +1,35 @@
+{
+  "word": "flout",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "flout the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29257.png",
+      "local_image_path": "images/29257.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flout one's enemies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29258.png",
+      "local_image_path": "images/29258.png"
+    }
+  ],
+  "synonyms": [
+    "disobey",
+    "break",
+    "ignore",
+    "defy",
+    "contravene",
+    "scorn",
+    "spurn",
+    "scoff"
+  ],
+  "antonyms": [
+    "obey"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flout.mp3",
+  "local_sound_path": "sounds/flout.mp3"
+}

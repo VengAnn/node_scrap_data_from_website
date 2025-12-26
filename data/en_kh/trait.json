@@ -1,0 +1,38 @@
+{
+  "word": "trait",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a good trait",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90842.png",
+      "local_image_path": "images/90842.png"
+    },
+    {
+      "pos": "n",
+      "example": "cultural trait",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90843.png",
+      "local_image_path": "images/90843.png"
+    }
+  ],
+  "synonyms": [
+    "mannerism",
+    "peculiarity",
+    "attribute",
+    "characteristic",
+    "feature",
+    "quality"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "traitor",
+    "traitoress",
+    "traitorous",
+    "traitorously",
+    "traitorousness",
+    "traitress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trait.mp3",
+  "local_sound_path": "sounds/trait.mp3"
+}

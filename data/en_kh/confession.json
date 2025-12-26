@@ -1,0 +1,40 @@
+{
+  "word": "confession",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the priest will hear confessions in English and French",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16651.png",
+      "local_image_path": "images/16651.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117172.png",
+      "local_image_path": "images/117172.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117173.png",
+      "local_image_path": "images/117173.png"
+    }
+  ],
+  "synonyms": [
+    "declaration",
+    "affirmation",
+    "profession",
+    "assertion",
+    "statement",
+    "acknowledgment",
+    "acknowledgement"
+  ],
+  "antonyms": [
+    "denial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confession.mp3",
+  "local_sound_path": "sounds/confession.mp3"
+}

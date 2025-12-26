@@ -1,0 +1,83 @@
+{
+  "word": "cure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cure for a disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19148.png",
+      "local_image_path": "images/19148.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19149.png",
+      "local_image_path": "images/19149.png"
+    },
+    {
+      "pos": "n",
+      "example": "cure of a problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19150.png",
+      "local_image_path": "images/19150.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19153.png",
+      "local_image_path": "images/19153.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The doctors cure her of cancer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19144.png",
+      "local_image_path": "images/19144.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cure meat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19145.png",
+      "local_image_path": "images/19145.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cure a bad situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19146.png",
+      "local_image_path": "images/19146.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cure him of (doing it)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19147.png",
+      "local_image_path": "images/19147.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131429.png",
+      "local_image_path": "images/131429.png"
+    }
+  ],
+  "synonyms": [
+    "treatment",
+    "therapy",
+    "medicine",
+    "medication",
+    "heal",
+    "treat",
+    "alleviate"
+  ],
+  "antonyms": [
+    "exacerbate"
+  ],
+  "similar_words": [
+    "cure-all",
+    "cureless",
+    "curer",
+    "curet",
+    "curettage",
+    "curette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cure.mp3",
+  "local_sound_path": "sounds/cure.mp3"
+}

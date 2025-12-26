@@ -1,0 +1,43 @@
+{
+  "word": "malevolent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105587.png",
+      "local_image_path": "images/105587.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123735.png",
+      "local_image_path": "images/123735.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123736.png",
+      "local_image_path": "images/123736.png"
+    }
+  ],
+  "synonyms": [
+    "malicious",
+    "spiteful",
+    "wicked",
+    "nasty",
+    "mean",
+    "unkind",
+    "vindictive",
+    "malign",
+    "malignant",
+    "evil"
+  ],
+  "antonyms": [
+    "benevolent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/malevolent.mp3",
+  "local_sound_path": "sounds/malevolent.mp3"
+}

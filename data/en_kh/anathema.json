@@ -1,0 +1,34 @@
+{
+  "word": "anathema",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "give a anathema",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4130.png",
+      "local_image_path": "images/4130.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113699.png",
+      "local_image_path": "images/113699.png"
+    }
+  ],
+  "synonyms": [
+    "abhorrence",
+    "abomination",
+    "loathing",
+    "curse",
+    "denunciation",
+    "censure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "anathematization",
+    "anathematize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anathema.mp3",
+  "local_sound_path": "sounds/anathema.mp3"
+}

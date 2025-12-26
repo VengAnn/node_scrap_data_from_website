@@ -1,0 +1,54 @@
+{
+  "word": "cancel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "you should cancel this appointment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12602.png",
+      "local_image_path": "images/12602.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115896.png",
+      "local_image_path": "images/115896.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115897.png",
+      "local_image_path": "images/115897.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115898.png",
+      "local_image_path": "images/115898.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115899.png",
+      "local_image_path": "images/115899.png"
+    }
+  ],
+  "synonyms": [
+    "annul",
+    "revoke",
+    "terminate",
+    "stop",
+    "rescind",
+    "repeal"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cancelable",
+    "canceler",
+    "cancellation",
+    "cancellation insurance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cancel.mp3",
+  "local_sound_path": "sounds/cancel.mp3"
+}

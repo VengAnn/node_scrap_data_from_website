@@ -1,0 +1,43 @@
+{
+  "word": "throng",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89190.png",
+      "local_image_path": "images/89190.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89189.png",
+      "local_image_path": "images/89189.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89191.png",
+      "local_image_path": "images/89191.png"
+    }
+  ],
+  "synonyms": [
+    "crowd",
+    "pack",
+    "jam",
+    "cram",
+    "inundate",
+    "swamp",
+    "flood",
+    "flock",
+    "fill"
+  ],
+  "antonyms": [
+    "few",
+    "disperse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/throng.mp3",
+  "local_sound_path": "sounds/throng.mp3"
+}

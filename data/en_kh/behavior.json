@@ -1,0 +1,47 @@
+{
+  "word": "behavior",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111443.png",
+      "local_image_path": "images/111443.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114840.png",
+      "local_image_path": "images/114840.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114841.png",
+      "local_image_path": "images/114841.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114842.png",
+      "local_image_path": "images/114842.png"
+    }
+  ],
+  "synonyms": [
+    "performance",
+    "activities",
+    "conduct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "behavior disorder",
+    "behavioral",
+    "behavioral disorder",
+    "behavioral science",
+    "behaviorally",
+    "behavioristic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/behavior.mp3",
+  "local_sound_path": "sounds/behavior.mp3"
+}

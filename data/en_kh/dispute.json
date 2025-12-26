@@ -1,0 +1,41 @@
+{
+  "word": "dispute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Some people love to dispute.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22111.png",
+      "local_image_path": "images/22111.png"
+    },
+    {
+      "pos": "n",
+      "example": "labour dispute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22113.png",
+      "local_image_path": "images/22113.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dispute his claim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22112.png",
+      "local_image_path": "images/22112.png"
+    }
+  ],
+  "synonyms": [
+    "challenge",
+    "question",
+    "contest",
+    "impugn",
+    "query",
+    "doubt"
+  ],
+  "antonyms": [
+    "agreement",
+    "agree",
+    "accept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dispute.mp3",
+  "local_sound_path": "sounds/dispute.mp3"
+}

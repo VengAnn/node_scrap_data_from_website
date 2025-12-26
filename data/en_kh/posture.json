@@ -1,0 +1,51 @@
+{
+  "word": "posture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65559.png",
+      "local_image_path": "images/65559.png"
+    },
+    {
+      "pos": "n",
+      "example": "poor posture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65555.png",
+      "local_image_path": "images/65555.png"
+    },
+    {
+      "pos": "n",
+      "example": "military posture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65556.png",
+      "local_image_path": "images/65556.png"
+    },
+    {
+      "pos": "n",
+      "example": "sitting posture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65557.png",
+      "local_image_path": "images/65557.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65558.png",
+      "local_image_path": "images/65558.png"
+    }
+  ],
+  "synonyms": [
+    "bearing",
+    "stance",
+    "attitude",
+    "position",
+    "carriage",
+    "pose",
+    "deportment",
+    "mien"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/posture.mp3",
+  "local_sound_path": "sounds/posture.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "sully",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "sully one's honor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86189.png",
+      "local_image_path": "images/86189.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sully one's clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86190.png",
+      "local_image_path": "images/86190.png"
+    }
+  ],
+  "synonyms": [
+    "pollute",
+    "contaminate",
+    "dirty",
+    "soil",
+    "befoul",
+    "foul",
+    "stain",
+    "adulterate"
+  ],
+  "antonyms": [
+    "praise",
+    "clean"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sully.mp3",
+  "local_sound_path": "sounds/sully.mp3"
+}

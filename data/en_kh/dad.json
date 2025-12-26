@@ -1,0 +1,29 @@
+{
+  "word": "dad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19486.png",
+      "local_image_path": "images/19486.png"
+    }
+  ],
+  "synonyms": [
+    "father",
+    "pop",
+    "papa",
+    "pa",
+    "daddy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dada",
+    "dadaism",
+    "daddy",
+    "dado"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dad.mp3",
+  "local_sound_path": "sounds/dad.mp3"
+}

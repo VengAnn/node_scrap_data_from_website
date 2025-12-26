@@ -1,0 +1,62 @@
+{
+  "word": "bawl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7811.png",
+      "local_image_path": "images/7811.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7810.png",
+      "local_image_path": "images/7810.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114696.png",
+      "local_image_path": "images/114696.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114697.png",
+      "local_image_path": "images/114697.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114698.png",
+      "local_image_path": "images/114698.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114699.png",
+      "local_image_path": "images/114699.png"
+    }
+  ],
+  "synonyms": [
+    "shout",
+    "bellow",
+    "scream",
+    "yell",
+    "roar",
+    "holler",
+    "shriek",
+    "howl",
+    "screech"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [
+    "bawler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bawl.mp3",
+  "local_sound_path": "sounds/bawl.mp3"
+}

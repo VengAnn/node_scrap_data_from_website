@@ -1,0 +1,35 @@
+{
+  "word": "bubbly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11599.png",
+      "local_image_path": "images/11599.png"
+    },
+    {
+      "pos": "n",
+      "example": "have you some more bubbly?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11600.png",
+      "local_image_path": "images/11600.png"
+    }
+  ],
+  "synonyms": [
+    "effervescent",
+    "sparkling",
+    "fizzy",
+    "carbonated",
+    "champagne",
+    "cold duck"
+  ],
+  "antonyms": [
+    "dull",
+    "still",
+    "sad"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bubbly.mp3",
+  "local_sound_path": "sounds/bubbly.mp3"
+}

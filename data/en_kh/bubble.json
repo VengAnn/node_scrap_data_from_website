@@ -1,0 +1,63 @@
+{
+  "word": "bubble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "water bubbles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11595.png",
+      "local_image_path": "images/11595.png"
+    },
+    {
+      "pos": "n",
+      "example": "children love blowing bubbles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11594.png",
+      "local_image_path": "images/11594.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115750.png",
+      "local_image_path": "images/115750.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115751.png",
+      "local_image_path": "images/115751.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11596.png",
+      "local_image_path": "images/11596.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115752.png",
+      "local_image_path": "images/115752.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115753.png",
+      "local_image_path": "images/115753.png"
+    }
+  ],
+  "synonyms": [
+    "fizz",
+    "effervesce",
+    "boil",
+    "simmer",
+    "gurgle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bubble gum",
+    "bubbler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bubble.mp3",
+  "local_sound_path": "sounds/bubble.mp3"
+}

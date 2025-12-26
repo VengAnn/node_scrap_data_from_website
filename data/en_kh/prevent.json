@@ -1,0 +1,61 @@
+{
+  "word": "prevent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "prevent disaster",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66796.png",
+      "local_image_path": "images/66796.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125991.png",
+      "local_image_path": "images/125991.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125992.png",
+      "local_image_path": "images/125992.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125993.png",
+      "local_image_path": "images/125993.png"
+    }
+  ],
+  "synonyms": [
+    "stop",
+    "avert",
+    "avoid",
+    "foil",
+    "thwart",
+    "check",
+    "preclude",
+    "inhibit",
+    "counteract",
+    "block"
+  ],
+  "antonyms": [
+    "permit",
+    "encourage"
+  ],
+  "similar_words": [
+    "preventability",
+    "preventable",
+    "preventative",
+    "preventer",
+    "preventiability",
+    "prevention",
+    "preventive",
+    "preventive detention",
+    "preventively",
+    "preventiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prevent.mp3",
+  "local_sound_path": "sounds/prevent.mp3"
+}

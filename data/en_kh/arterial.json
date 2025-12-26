@@ -1,0 +1,30 @@
+{
+  "word": "arterial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "main traffic arterial",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5625.png",
+      "local_image_path": "images/5625.png"
+    }
+  ],
+  "synonyms": [
+    "major",
+    "main",
+    "principal",
+    "through",
+    "trunk"
+  ],
+  "antonyms": [
+    "side"
+  ],
+  "similar_words": [
+    "arterialization",
+    "arterialize",
+    "arterially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arterial.mp3",
+  "local_sound_path": "sounds/arterial.mp3"
+}

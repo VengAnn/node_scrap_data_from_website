@@ -1,0 +1,40 @@
+{
+  "word": "deaden",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19779.png",
+      "local_image_path": "images/19779.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117748.png",
+      "local_image_path": "images/117748.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117749.png",
+      "local_image_path": "images/117749.png"
+    }
+  ],
+  "synonyms": [
+    "reduce",
+    "soften",
+    "dull",
+    "muffle",
+    "dampen",
+    "mute",
+    "stifle"
+  ],
+  "antonyms": [
+    "amplify"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deaden.mp3",
+  "local_sound_path": "sounds/deaden.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "administer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "My brother administered my affair while I was absent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2441.png",
+      "local_image_path": "images/2441.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112062.png",
+      "local_image_path": "images/112062.png"
+    }
+  ],
+  "synonyms": [
+    "dispense",
+    "process"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/administer.mp3",
+  "local_sound_path": "sounds/administer.mp3"
+}

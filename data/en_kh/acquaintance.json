@@ -1,0 +1,49 @@
+{
+  "word": "acquaintance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He's only any acquaintance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2127.png",
+      "local_image_path": "images/2127.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111910.png",
+      "local_image_path": "images/111910.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113190.png",
+      "local_image_path": "images/113190.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113191.png",
+      "local_image_path": "images/113191.png"
+    }
+  ],
+  "synonyms": [
+    "knowledge",
+    "understanding",
+    "relationship",
+    "association",
+    "friendship",
+    "contact"
+  ],
+  "antonyms": [
+    "stranger",
+    "ignorance"
+  ],
+  "similar_words": [
+    "acquaintance rape",
+    "acquaintanceship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acquaintance.mp3",
+  "local_sound_path": "sounds/acquaintance.mp3"
+}

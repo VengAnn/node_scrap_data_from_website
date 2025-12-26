@@ -1,0 +1,43 @@
+{
+  "word": "florid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "florid style",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29213.png",
+      "local_image_path": "images/29213.png"
+    },
+    {
+      "pos": "adj",
+      "example": "florid complexion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29214.png",
+      "local_image_path": "images/29214.png"
+    }
+  ],
+  "synonyms": [
+    "ornate",
+    "baroque",
+    "elaborate",
+    "extravagant",
+    "fancy",
+    "flowery",
+    "ruddy",
+    "red",
+    "sanguine",
+    "rosy",
+    "blowzy"
+  ],
+  "antonyms": [
+    "plain",
+    "pallid"
+  ],
+  "similar_words": [
+    "floridity",
+    "floridly",
+    "floridness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/florid.mp3",
+  "local_sound_path": "sounds/florid.mp3"
+}

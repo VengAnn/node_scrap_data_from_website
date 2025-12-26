@@ -1,0 +1,49 @@
+{
+  "word": "succeed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85974.png",
+      "local_image_path": "images/85974.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85975.png",
+      "local_image_path": "images/85975.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85976.png",
+      "local_image_path": "images/85976.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Three succeeds two",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85977.png",
+      "local_image_path": "images/85977.png"
+    }
+  ],
+  "synonyms": [
+    "follow",
+    "ensue",
+    "result",
+    "replace",
+    "supersede",
+    "supplant"
+  ],
+  "antonyms": [
+    "fail",
+    "precede"
+  ],
+  "similar_words": [
+    "succeeder",
+    "succeeding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/succeed.mp3",
+  "local_sound_path": "sounds/succeed.mp3"
+}

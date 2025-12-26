@@ -1,0 +1,33 @@
+{
+  "word": "calumny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12500.png",
+      "local_image_path": "images/12500.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115874.png",
+      "local_image_path": "images/115874.png"
+    }
+  ],
+  "synonyms": [
+    "slander",
+    "defamation",
+    "denigration",
+    "libel",
+    "lie",
+    "misrepresentation",
+    "slur",
+    "smear"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calumny.mp3",
+  "local_sound_path": "sounds/calumny.mp3"
+}

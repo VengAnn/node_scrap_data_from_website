@@ -1,0 +1,57 @@
+{
+  "word": "settlement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78464.png",
+      "local_image_path": "images/78464.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78465.png",
+      "local_image_path": "images/78465.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78466.png",
+      "local_image_path": "images/78466.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78467.png",
+      "local_image_path": "images/78467.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127684.png",
+      "local_image_path": "images/127684.png"
+    }
+  ],
+  "synonyms": [
+    "community",
+    "village",
+    "town",
+    "colony",
+    "commune",
+    "hamlet",
+    "neighborhood",
+    "suburb",
+    "township"
+  ],
+  "antonyms": [
+    "receipt"
+  ],
+  "similar_words": [
+    "settlement day",
+    "settlement duty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/settlement.mp3",
+  "local_sound_path": "sounds/settlement.mp3"
+}

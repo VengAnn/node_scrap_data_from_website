@@ -1,0 +1,41 @@
+{
+  "word": "abridged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1569.png",
+      "local_image_path": "images/1569.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113048.png",
+      "local_image_path": "images/113048.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113049.png",
+      "local_image_path": "images/113049.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113050.png",
+      "local_image_path": "images/113050.png"
+    }
+  ],
+  "synonyms": [
+    "reduced",
+    "cut"
+  ],
+  "antonyms": [
+    "complete"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abridged.mp3",
+  "local_sound_path": "sounds/abridged.mp3"
+}

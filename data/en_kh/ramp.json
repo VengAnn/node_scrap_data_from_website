@@ -1,0 +1,82 @@
+{
+  "word": "ramp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70088.png",
+      "local_image_path": "images/70088.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70089.png",
+      "local_image_path": "images/70089.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70092.png",
+      "local_image_path": "images/70092.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ramp about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70090.png",
+      "local_image_path": "images/70090.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70091.png",
+      "local_image_path": "images/70091.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130690.png",
+      "local_image_path": "images/130690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130691.png",
+      "local_image_path": "images/130691.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130692.png",
+      "local_image_path": "images/130692.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130693.png",
+      "local_image_path": "images/130693.png"
+    }
+  ],
+  "synonyms": [
+    "slope",
+    "incline",
+    "rise",
+    "hump",
+    "ridge",
+    "bump"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rampage",
+    "rampageous",
+    "rampageously",
+    "rampageousness",
+    "rampager",
+    "rampant",
+    "rampike",
+    "rampion"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ramp.mp3",
+  "local_sound_path": "sounds/ramp.mp3"
+}

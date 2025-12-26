@@ -1,0 +1,71 @@
+{
+  "word": "service",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "This shop has good services.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78366.png",
+      "local_image_path": "images/78366.png"
+    },
+    {
+      "pos": "n",
+      "example": "marriage service",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78367.png",
+      "local_image_path": "images/78367.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127665.png",
+      "local_image_path": "images/127665.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127666.png",
+      "local_image_path": "images/127666.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127667.png",
+      "local_image_path": "images/127667.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127668.png",
+      "local_image_path": "images/127668.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We will service you well.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78368.png",
+      "local_image_path": "images/78368.png"
+    }
+  ],
+  "synonyms": [
+    "help",
+    "assistance",
+    "use",
+    "benefit",
+    "advantage",
+    "repair",
+    "overhaul",
+    "check",
+    "examine",
+    "tune"
+  ],
+  "antonyms": [
+    "disservice"
+  ],
+  "similar_words": [
+    "serviceable",
+    "serviceableness",
+    "serviceably"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/service.mp3",
+  "local_sound_path": "sounds/service.mp3"
+}

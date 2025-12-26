@@ -1,0 +1,74 @@
+{
+  "word": "obstruct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "obstruct progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57015.png",
+      "local_image_path": "images/57015.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124840.png",
+      "local_image_path": "images/124840.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124841.png",
+      "local_image_path": "images/124841.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124842.png",
+      "local_image_path": "images/124842.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124843.png",
+      "local_image_path": "images/124843.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124844.png",
+      "local_image_path": "images/124844.png"
+    }
+  ],
+  "synonyms": [
+    "hinder",
+    "block",
+    "barricade",
+    "impede",
+    "thwart",
+    "frustrate",
+    "hamper",
+    "check",
+    "complicate",
+    "bar",
+    "stop",
+    "prohibit"
+  ],
+  "antonyms": [
+    "assist",
+    "clear"
+  ],
+  "similar_words": [
+    "obstructer",
+    "obstruction",
+    "obstruction of justice",
+    "obstructionism",
+    "obstructionist",
+    "obstructive",
+    "obstructively",
+    "obstructiveness",
+    "obstructor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obstruct.mp3",
+  "local_sound_path": "sounds/obstruct.mp3"
+}

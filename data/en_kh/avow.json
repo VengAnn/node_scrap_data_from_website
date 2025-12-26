@@ -1,0 +1,39 @@
+{
+  "word": "avow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "avow one's intentions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6740.png",
+      "local_image_path": "images/6740.png"
+    }
+  ],
+  "synonyms": [
+    "affirm",
+    "state",
+    "confirm",
+    "declare",
+    "acknowledge",
+    "admit",
+    "maintain",
+    "aver",
+    "assert",
+    "depose"
+  ],
+  "antonyms": [
+    "deny"
+  ],
+  "similar_words": [
+    "avowable",
+    "avowably",
+    "avowal",
+    "avowance",
+    "avowed",
+    "avowedly",
+    "avower"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avow.mp3",
+  "local_sound_path": "sounds/avow.mp3"
+}

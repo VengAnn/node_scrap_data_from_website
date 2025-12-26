@@ -1,0 +1,30 @@
+{
+  "word": "unlucky",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94821.png",
+      "local_image_path": "images/94821.png"
+    }
+  ],
+  "synonyms": [
+    "inauspicious",
+    "fateful",
+    "ill-fated",
+    "ill-starred",
+    "ill-omened",
+    "ominous",
+    "baleful"
+  ],
+  "antonyms": [
+    "lucky",
+    "auspicious",
+    "fortunate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unlucky.mp3",
+  "local_sound_path": "sounds/unlucky.mp3"
+}

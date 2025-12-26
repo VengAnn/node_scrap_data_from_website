@@ -1,0 +1,31 @@
+{
+  "word": "unhappiness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94458.png",
+      "local_image_path": "images/94458.png"
+    }
+  ],
+  "synonyms": [
+    "sadness",
+    "sorrow",
+    "grief",
+    "misery",
+    "discontent",
+    "despondency",
+    "gloom",
+    "melancholy",
+    "depression",
+    "despair"
+  ],
+  "antonyms": [
+    "happiness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unhappiness.mp3",
+  "local_sound_path": "sounds/unhappiness.mp3"
+}

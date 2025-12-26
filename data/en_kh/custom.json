@@ -1,0 +1,51 @@
+{
+  "word": "custom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19269.png",
+      "local_image_path": "images/19269.png"
+    },
+    {
+      "pos": "n",
+      "example": "It is my custom to speak English.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19267.png",
+      "local_image_path": "images/19267.png"
+    },
+    {
+      "pos": "n",
+      "example": "custom tariff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19268.png",
+      "local_image_path": "images/19268.png"
+    }
+  ],
+  "synonyms": [
+    "trade",
+    "business",
+    "patronage",
+    "clientele",
+    "market"
+  ],
+  "antonyms": [
+    "novelty"
+  ],
+  "similar_words": [
+    "custom-built",
+    "custom-made",
+    "customable",
+    "customarily",
+    "customariness",
+    "customary",
+    "custome-facing",
+    "customehouse",
+    "customer",
+    "customize",
+    "customs",
+    "customs invoice"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/custom.mp3",
+  "local_sound_path": "sounds/custom.mp3"
+}

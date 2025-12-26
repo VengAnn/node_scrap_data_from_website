@@ -1,0 +1,33 @@
+{
+  "word": "bicycle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8717.png",
+      "local_image_path": "images/8717.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8716.png",
+      "local_image_path": "images/8716.png"
+    }
+  ],
+  "synonyms": [
+    "bike",
+    "cycle",
+    "tandem",
+    "pushbike",
+    "trail bike"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bicycle race",
+    "bicycler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bicycle.mp3",
+  "local_sound_path": "sounds/bicycle.mp3"
+}

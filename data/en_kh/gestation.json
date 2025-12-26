@@ -1,0 +1,31 @@
+{
+  "word": "gestation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "period of gestation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31603.png",
+      "local_image_path": "images/31603.png"
+    },
+    {
+      "pos": "n",
+      "example": "long gestation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31604.png",
+      "local_image_path": "images/31604.png"
+    }
+  ],
+  "synonyms": [
+    "development",
+    "growth",
+    "conception",
+    "incubation",
+    "maturation",
+    "pregnancy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gestation.mp3",
+  "local_sound_path": "sounds/gestation.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "briefness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11107.png",
+      "local_image_path": "images/11107.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11114.png",
+      "local_image_path": "images/11114.png"
+    }
+  ],
+  "synonyms": [
+    "shortness",
+    "brevity",
+    "conciseness",
+    "concision",
+    "pithiness",
+    "terseness"
+  ],
+  "antonyms": [
+    "length",
+    "permanence",
+    "permanency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/briefness.mp3",
+  "local_sound_path": "sounds/briefness.mp3"
+}

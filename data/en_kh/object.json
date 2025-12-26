@@ -1,0 +1,57 @@
+{
+  "word": "object",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56848.png",
+      "local_image_path": "images/56848.png"
+    },
+    {
+      "pos": "n",
+      "example": "object of cultural value",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56847.png",
+      "local_image_path": "images/56847.png"
+    }
+  ],
+  "synonyms": [
+    "target",
+    "focus",
+    "recipient",
+    "victim",
+    "protest",
+    "complain",
+    "oppose",
+    "demur",
+    "balk",
+    "baulk",
+    "challenge"
+  ],
+  "antonyms": [
+    "approve"
+  ],
+  "similar_words": [
+    "object glass",
+    "object language",
+    "object lens",
+    "object-lesson",
+    "object-matter",
+    "objectable",
+    "objectification",
+    "objectify",
+    "objection",
+    "objectionability",
+    "objectionable",
+    "objectionably",
+    "objectional",
+    "objective",
+    "objectively",
+    "objectiveness",
+    "objectives",
+    "objectivism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/object.mp3",
+  "local_sound_path": "sounds/object.mp3"
+}

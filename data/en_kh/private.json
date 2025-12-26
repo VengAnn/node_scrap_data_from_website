@@ -1,0 +1,54 @@
+{
+  "word": "private",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "private property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67098.png",
+      "local_image_path": "images/67098.png"
+    },
+    {
+      "pos": "adj",
+      "example": "private throughts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67099.png",
+      "local_image_path": "images/67099.png"
+    },
+    {
+      "pos": "adj",
+      "example": "private car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67100.png",
+      "local_image_path": "images/67100.png"
+    }
+  ],
+  "synonyms": [
+    "privileged",
+    "restricted",
+    "exclusive",
+    "reserved",
+    "soldier",
+    "sapper",
+    "gunner",
+    "corporal",
+    "sergeant",
+    "trooper",
+    "squaddie",
+    "guardsman"
+  ],
+  "antonyms": [
+    "public",
+    "forthcoming"
+  ],
+  "similar_words": [
+    "private eye",
+    "private investigator",
+    "private law",
+    "private parts",
+    "privateer",
+    "privately",
+    "privateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/private.mp3",
+  "local_sound_path": "sounds/private.mp3"
+}

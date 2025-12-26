@@ -1,0 +1,70 @@
+{
+  "word": "disguise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21879.png",
+      "local_image_path": "images/21879.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118479.png",
+      "local_image_path": "images/118479.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118480.png",
+      "local_image_path": "images/118480.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21878.png",
+      "local_image_path": "images/21878.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118481.png",
+      "local_image_path": "images/118481.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118482.png",
+      "local_image_path": "images/118482.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118483.png",
+      "local_image_path": "images/118483.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118484.png",
+      "local_image_path": "images/118484.png"
+    }
+  ],
+  "synonyms": [
+    "hide",
+    "conceal",
+    "mask",
+    "masquerade",
+    "veil",
+    "camouflage",
+    "cloak"
+  ],
+  "antonyms": [
+    "reveal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disguise.mp3",
+  "local_sound_path": "sounds/disguise.mp3"
+}

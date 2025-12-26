@@ -1,0 +1,52 @@
+{
+  "word": "integrity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "moral integrity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40951.png",
+      "local_image_path": "images/40951.png"
+    },
+    {
+      "pos": "n",
+      "example": "territorial integrity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40952.png",
+      "local_image_path": "images/40952.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131579.png",
+      "local_image_path": "images/131579.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131580.png",
+      "local_image_path": "images/131580.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131581.png",
+      "local_image_path": "images/131581.png"
+    }
+  ],
+  "synonyms": [
+    "honesty",
+    "truth",
+    "truthfulness",
+    "honor",
+    "veracity",
+    "reliability",
+    "uprightness"
+  ],
+  "antonyms": [
+    "dishonesty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/integrity.mp3",
+  "local_sound_path": "sounds/integrity.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "word": "question",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I have some questions today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69527.png",
+      "local_image_path": "images/69527.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126364.png",
+      "local_image_path": "images/126364.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126365.png",
+      "local_image_path": "images/126365.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126366.png",
+      "local_image_path": "images/126366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was questioned by the police.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69528.png",
+      "local_image_path": "images/69528.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69529.png",
+      "local_image_path": "images/69529.png"
+    },
+    {
+      "pos": "tv",
+      "example": "question his conclusions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69530.png",
+      "local_image_path": "images/69530.png"
+    }
+  ],
+  "synonyms": [
+    "doubt",
+    "suspect",
+    "mistrust",
+    "distrust",
+    "query"
+  ],
+  "antonyms": [
+    "answer",
+    "resolution",
+    "certainty",
+    "reply",
+    "trust"
+  ],
+  "similar_words": [
+    "question mark",
+    "question of fact",
+    "questionability",
+    "questionable",
+    "questionableness",
+    "questionably",
+    "questionaire",
+    "questioner",
+    "questionist",
+    "questionless",
+    "questionnaire"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/question.mp3",
+  "local_sound_path": "sounds/question.mp3"
+}

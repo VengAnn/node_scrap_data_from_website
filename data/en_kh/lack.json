@@ -1,0 +1,58 @@
+{
+  "word": "lack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44372.png",
+      "local_image_path": "images/44372.png"
+    },
+    {
+      "pos": "n",
+      "example": "the plants died for lack of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44373.png",
+      "local_image_path": "images/44373.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lack food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44371.png",
+      "local_image_path": "images/44371.png"
+    }
+  ],
+  "synonyms": [
+    "need",
+    "require"
+  ],
+  "antonyms": [
+    "have",
+    "surplus",
+    "glut",
+    "abundance",
+    "excess",
+    "plenty"
+  ],
+  "similar_words": [
+    "lack land",
+    "lack-fettle",
+    "lack-Latin",
+    "lack-linen",
+    "lackadaisical",
+    "lackadaisically",
+    "lackadaisicalness",
+    "lackaday",
+    "lackall",
+    "lacker",
+    "lackey",
+    "lackeyed",
+    "lacking",
+    "lackluster",
+    "lackwit",
+    "lackwittedly",
+    "lackwittedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lack.mp3",
+  "local_sound_path": "sounds/lack.mp3"
+}

@@ -1,0 +1,71 @@
+{
+  "word": "correct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "correct answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17817.png",
+      "local_image_path": "images/17817.png"
+    },
+    {
+      "pos": "adj",
+      "example": "correct behavior",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17818.png",
+      "local_image_path": "images/17818.png"
+    },
+    {
+      "pos": "adj",
+      "example": "correct speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17819.png",
+      "local_image_path": "images/17819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "correct an exam paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17814.png",
+      "local_image_path": "images/17814.png"
+    },
+    {
+      "pos": "tv",
+      "example": "correct a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17815.png",
+      "local_image_path": "images/17815.png"
+    },
+    {
+      "pos": "tv",
+      "example": "correct a false statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17816.png",
+      "local_image_path": "images/17816.png"
+    }
+  ],
+  "synonyms": [
+    "mark",
+    "assess",
+    "fix",
+    "rectify",
+    "amend",
+    "adjust",
+    "remedy",
+    "tweak",
+    "emend"
+  ],
+  "antonyms": [
+    "wrong",
+    "incorrect",
+    "inaccurate"
+  ],
+  "similar_words": [
+    "correction",
+    "correctional institution",
+    "correctitude",
+    "corrective",
+    "correctively",
+    "correctly",
+    "correctness",
+    "corrector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/correct.mp3",
+  "local_sound_path": "sounds/correct.mp3"
+}

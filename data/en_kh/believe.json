@@ -1,0 +1,63 @@
+{
+  "word": "believe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "people used to believe that the world was flat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8158.png",
+      "local_image_path": "images/8158.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114864.png",
+      "local_image_path": "images/114864.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114865.png",
+      "local_image_path": "images/114865.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114866.png",
+      "local_image_path": "images/114866.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114867.png",
+      "local_image_path": "images/114867.png"
+    },
+    {
+      "pos": "tv",
+      "example": "believe his story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8157.png",
+      "local_image_path": "images/8157.png"
+    }
+  ],
+  "synonyms": [
+    "trust",
+    "consider",
+    "think",
+    "suppose",
+    "deem",
+    "judge",
+    "imagine",
+    "credit"
+  ],
+  "antonyms": [
+    "doubt",
+    "disbelieve"
+  ],
+  "similar_words": [
+    "believer",
+    "believers"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/believe.mp3",
+  "local_sound_path": "sounds/believe.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "age",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "he is aging fast",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2872.png",
+      "local_image_path": "images/2872.png"
+    },
+    {
+      "pos": "n",
+      "example": "what is your age?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2871.png",
+      "local_image_path": "images/2871.png"
+    }
+  ],
+  "synonyms": [
+    "mature"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "age brush",
+    "age-group",
+    "age-old",
+    "aged",
+    "agedness",
+    "ageing",
+    "ageism",
+    "ageist",
+    "ageless",
+    "agelessness",
+    "agelessy",
+    "agelong",
+    "agency",
+    "agency manager",
+    "agenda",
+    "agendum",
+    "agent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/age.mp3",
+  "local_sound_path": "sounds/age.mp3"
+}

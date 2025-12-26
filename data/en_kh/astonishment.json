@@ -1,0 +1,30 @@
+{
+  "word": "astonishment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6033.png",
+      "local_image_path": "images/6033.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131082.png",
+      "local_image_path": "images/131082.png"
+    }
+  ],
+  "synonyms": [
+    "surprise",
+    "amazement",
+    "wonder",
+    "bewilderment",
+    "shock"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astonishment.mp3",
+  "local_sound_path": "sounds/astonishment.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "indicative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "indicative off approaching winter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39026.png",
+      "local_image_path": "images/39026.png"
+    },
+    {
+      "pos": "adj",
+      "example": "indicative mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39027.png",
+      "local_image_path": "images/39027.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122157.png",
+      "local_image_path": "images/122157.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122158.png",
+      "local_image_path": "images/122158.png"
+    }
+  ],
+  "synonyms": [
+    "analytic",
+    "analytical",
+    "investigative",
+    "suggestive"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indicative.mp3",
+  "local_sound_path": "sounds/indicative.mp3"
+}

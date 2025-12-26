@@ -1,0 +1,111 @@
+{
+  "word": "trash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91284.png",
+      "local_image_path": "images/91284.png"
+    },
+    {
+      "pos": "n",
+      "example": "collect trash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91277.png",
+      "local_image_path": "images/91277.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91278.png",
+      "local_image_path": "images/91278.png"
+    },
+    {
+      "pos": "n",
+      "example": "That book is trash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91279.png",
+      "local_image_path": "images/91279.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91280.png",
+      "local_image_path": "images/91280.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91281.png",
+      "local_image_path": "images/91281.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91282.png",
+      "local_image_path": "images/91282.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91283.png",
+      "local_image_path": "images/91283.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130864.png",
+      "local_image_path": "images/130864.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130865.png",
+      "local_image_path": "images/130865.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130866.png",
+      "local_image_path": "images/130866.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91285.png",
+      "local_image_path": "images/91285.png"
+    }
+  ],
+  "synonyms": [
+    "nonsense",
+    "absurdity",
+    "gibberish",
+    "drivel",
+    "bunk",
+    "hogwash",
+    "hot air",
+    "malarkey",
+    "rubbish",
+    "wreck",
+    "destroy",
+    "ruin",
+    "damage",
+    "smash",
+    "spoil",
+    "demolish",
+    "vandalize",
+    "ravage"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "trash talking",
+    "trashily",
+    "trashiness",
+    "trashtalk",
+    "trashy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trash.mp3",
+  "local_sound_path": "sounds/trash.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "cordially",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17705.png",
+      "local_image_path": "images/17705.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117595.png",
+      "local_image_path": "images/117595.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117596.png",
+      "local_image_path": "images/117596.png"
+    }
+  ],
+  "synonyms": [
+    "genially",
+    "affably",
+    "warmly",
+    "affectionately",
+    "pleasantly",
+    "amiably",
+    "convivially"
+  ],
+  "antonyms": [
+    "frostily",
+    "unpleasantly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cordially.mp3",
+  "local_sound_path": "sounds/cordially.mp3"
+}

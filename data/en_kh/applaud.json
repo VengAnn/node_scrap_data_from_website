@@ -1,0 +1,58 @@
+{
+  "word": "applaud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5087.png",
+      "local_image_path": "images/5087.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112603.png",
+      "local_image_path": "images/112603.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112604.png",
+      "local_image_path": "images/112604.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112605.png",
+      "local_image_path": "images/112605.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112606.png",
+      "local_image_path": "images/112606.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112607.png",
+      "local_image_path": "images/112607.png"
+    }
+  ],
+  "synonyms": [
+    "approve",
+    "support",
+    "admire",
+    "celebrate",
+    "congratulate",
+    "praise"
+  ],
+  "antonyms": [
+    "condemn",
+    "disapprove"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/applaud.mp3",
+  "local_sound_path": "sounds/applaud.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "word": "acoustics",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "acoustics of a hall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2119.png",
+      "local_image_path": "images/2119.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113188.png",
+      "local_image_path": "images/113188.png"
+    }
+  ],
+  "synonyms": [
+    "audibility"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acoustics.mp3",
+  "local_sound_path": "sounds/acoustics.mp3"
+}

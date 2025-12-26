@@ -1,0 +1,31 @@
+{
+  "word": "chug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14468.png",
+      "local_image_path": "images/14468.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14467.png",
+      "local_image_path": "images/14467.png"
+    }
+  ],
+  "synonyms": [
+    "gulp",
+    "swallow",
+    "guzzle",
+    "swig"
+  ],
+  "antonyms": [
+    "stop"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chug.mp3",
+  "local_sound_path": "sounds/chug.mp3"
+}

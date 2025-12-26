@@ -1,0 +1,47 @@
+{
+  "word": "caricature",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13001.png",
+      "local_image_path": "images/13001.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116001.png",
+      "local_image_path": "images/116001.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116002.png",
+      "local_image_path": "images/116002.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13002.png",
+      "local_image_path": "images/13002.png"
+    }
+  ],
+  "synonyms": [
+    "misrepresentation",
+    "distortion",
+    "falsification",
+    "exaggeration",
+    "mimic",
+    "satirize",
+    "ape",
+    "parody",
+    "mock",
+    "ridicule"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caricature.mp3",
+  "local_sound_path": "sounds/caricature.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "slaughter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "senseless slaughter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81030.png",
+      "local_image_path": "images/81030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slaughter cattle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81029.png",
+      "local_image_path": "images/81029.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "thrash",
+    "hammer",
+    "overwhelm",
+    "rout",
+    "crush",
+    "trounce",
+    "beat",
+    "kill",
+    "murder",
+    "massacre",
+    "slay",
+    "butcher"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slaughtered",
+    "slaughterer",
+    "slaughterhouse",
+    "slaughterman",
+    "slaughterous",
+    "slaughterously"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slaughter.mp3",
+  "local_sound_path": "sounds/slaughter.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "disparate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The five experiments gave quite disparate results.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22017.png",
+      "local_image_path": "images/22017.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118557.png",
+      "local_image_path": "images/118557.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118558.png",
+      "local_image_path": "images/118558.png"
+    }
+  ],
+  "synonyms": [
+    "dissimilar",
+    "unlike",
+    "unequal",
+    "different",
+    "incongruent",
+    "unrelated",
+    "distinct"
+  ],
+  "antonyms": [
+    "similar"
+  ],
+  "similar_words": [
+    "disparately",
+    "disparateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disparate.mp3",
+  "local_sound_path": "sounds/disparate.mp3"
+}

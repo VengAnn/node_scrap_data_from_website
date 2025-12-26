@@ -1,0 +1,37 @@
+{
+  "word": "debunk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132086.png",
+      "local_image_path": "images/132086.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132087.png",
+      "local_image_path": "images/132087.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132362.png",
+      "local_image_path": "images/132362.png"
+    }
+  ],
+  "synonyms": [
+    "expose",
+    "deflate",
+    "demystify",
+    "discredit"
+  ],
+  "antonyms": [
+    "perpetuate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debunk.mp3",
+  "local_sound_path": "sounds/debunk.mp3"
+}

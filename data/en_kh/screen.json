@@ -1,0 +1,100 @@
+{
+  "word": "screen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "window screen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77119.png",
+      "local_image_path": "images/77119.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77120.png",
+      "local_image_path": "images/77120.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77121.png",
+      "local_image_path": "images/77121.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77122.png",
+      "local_image_path": "images/77122.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77123.png",
+      "local_image_path": "images/77123.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132048.png",
+      "local_image_path": "images/132048.png"
+    },
+    {
+      "pos": "tv",
+      "example": "screen windows",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77124.png",
+      "local_image_path": "images/77124.png"
+    },
+    {
+      "pos": "tv",
+      "example": "screen of a room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77125.png",
+      "local_image_path": "images/77125.png"
+    },
+    {
+      "pos": "tv",
+      "example": "screen their activities",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77126.png",
+      "local_image_path": "images/77126.png"
+    },
+    {
+      "pos": "tv",
+      "example": "screen sand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77127.png",
+      "local_image_path": "images/77127.png"
+    },
+    {
+      "pos": "tv",
+      "example": "screen candidates",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77128.png",
+      "local_image_path": "images/77128.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77129.png",
+      "local_image_path": "images/77129.png"
+    }
+  ],
+  "synonyms": [
+    "broadcast",
+    "show",
+    "project",
+    "transmit",
+    "air"
+  ],
+  "antonyms": [
+    "reveal"
+  ],
+  "similar_words": [
+    "screen-play",
+    "screen-test",
+    "screen-writer",
+    "screened",
+    "screening",
+    "screenings",
+    "screenplay"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/screen.mp3",
+  "local_sound_path": "sounds/screen.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "stun",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85612.png",
+      "local_image_path": "images/85612.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stun a cow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85613.png",
+      "local_image_path": "images/85613.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stun one's parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85614.png",
+      "local_image_path": "images/85614.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was stuned by the news of his father death.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85615.png",
+      "local_image_path": "images/85615.png"
+    }
+  ],
+  "synonyms": [
+    "daze",
+    "paralyze",
+    "numb",
+    "stupefy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stung",
+    "stunner",
+    "stunning",
+    "stunt",
+    "stunt man"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stun.mp3",
+  "local_sound_path": "sounds/stun.mp3"
+}

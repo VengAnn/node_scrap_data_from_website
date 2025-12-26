@@ -1,0 +1,56 @@
+{
+  "word": "relax",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71848.png",
+      "local_image_path": "images/71848.png"
+    },
+    {
+      "pos": "tv",
+      "example": "relax a muscle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71845.png",
+      "local_image_path": "images/71845.png"
+    },
+    {
+      "pos": "tv",
+      "example": "relax controls",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71846.png",
+      "local_image_path": "images/71846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "relax a person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71847.png",
+      "local_image_path": "images/71847.png"
+    }
+  ],
+  "synonyms": [
+    "reduce",
+    "lessen",
+    "decrease",
+    "diminish",
+    "lower",
+    "loosen",
+    "slacken",
+    "ease"
+  ],
+  "antonyms": [
+    "tense",
+    "increase"
+  ],
+  "similar_words": [
+    "relaxable",
+    "relaxant",
+    "relaxation",
+    "relaxative",
+    "relaxed",
+    "relaxer",
+    "relaxing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relax.mp3",
+  "local_sound_path": "sounds/relax.mp3"
+}

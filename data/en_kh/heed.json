@@ -1,0 +1,61 @@
+{
+  "word": "heed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34452.png",
+      "local_image_path": "images/34452.png"
+    },
+    {
+      "pos": "tv",
+      "example": "heed my warning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34449.png",
+      "local_image_path": "images/34449.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34450.png",
+      "local_image_path": "images/34450.png"
+    },
+    {
+      "pos": "tv",
+      "example": "heed the speed limit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34451.png",
+      "local_image_path": "images/34451.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121041.png",
+      "local_image_path": "images/121041.png"
+    }
+  ],
+  "synonyms": [
+    "attention",
+    "notice",
+    "note",
+    "regard",
+    "observe",
+    "follow"
+  ],
+  "antonyms": [
+    "ignore",
+    "disregard"
+  ],
+  "similar_words": [
+    "heedful",
+    "heedfully",
+    "heedfulness",
+    "heediness",
+    "heedless",
+    "heedlessly",
+    "heedlessness",
+    "heedy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heed.mp3",
+  "local_sound_path": "sounds/heed.mp3"
+}

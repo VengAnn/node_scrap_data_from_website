@@ -1,0 +1,36 @@
+{
+  "word": "coppice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17643.png",
+      "local_image_path": "images/17643.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117588.png",
+      "local_image_path": "images/117588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17644.png",
+      "local_image_path": "images/17644.png"
+    }
+  ],
+  "synonyms": [
+    "wood",
+    "copse",
+    "thicket",
+    "grove",
+    "covert"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coppice.mp3",
+  "local_sound_path": "sounds/coppice.mp3"
+}

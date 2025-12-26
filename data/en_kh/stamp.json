@@ -1,0 +1,77 @@
+{
+  "word": "stamp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "postage stamp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84189.png",
+      "local_image_path": "images/84189.png"
+    },
+    {
+      "pos": "n",
+      "example": "rubber stamp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84190.png",
+      "local_image_path": "images/84190.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stamp the foot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84184.png",
+      "local_image_path": "images/84184.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stamp a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84185.png",
+      "local_image_path": "images/84185.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stamp a passport",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84186.png",
+      "local_image_path": "images/84186.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stamp out crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84187.png",
+      "local_image_path": "images/84187.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stamp out of the room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84188.png",
+      "local_image_path": "images/84188.png"
+    }
+  ],
+  "synonyms": [
+    "character",
+    "kind",
+    "make",
+    "sort",
+    "type",
+    "form",
+    "trample",
+    "beat",
+    "stomp",
+    "crush",
+    "squash",
+    "plod",
+    "trudge",
+    "pound"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stamp collector",
+    "stamp-album",
+    "stamp-collection",
+    "stampede",
+    "stamper",
+    "stamping",
+    "stamping ground"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stamp.mp3",
+  "local_sound_path": "sounds/stamp.mp3"
+}

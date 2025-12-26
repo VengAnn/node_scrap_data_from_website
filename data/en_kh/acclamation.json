@@ -1,0 +1,31 @@
+{
+  "word": "acclamation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1848.png",
+      "local_image_path": "images/1848.png"
+    }
+  ],
+  "synonyms": [
+    "applause",
+    "cheers",
+    "cheering",
+    "ovation",
+    "roar",
+    "acclaim",
+    "praise",
+    "commendation",
+    "approbation",
+    "approval"
+  ],
+  "antonyms": [
+    "jeering"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acclamation.mp3",
+  "local_sound_path": "sounds/acclamation.mp3"
+}

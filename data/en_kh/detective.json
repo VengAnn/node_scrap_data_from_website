@@ -1,0 +1,34 @@
+{
+  "word": "detective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20981.png",
+      "local_image_path": "images/20981.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118183.png",
+      "local_image_path": "images/118183.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118184.png",
+      "local_image_path": "images/118184.png"
+    }
+  ],
+  "synonyms": [
+    "police officer",
+    "officer",
+    "policewoman"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detective.mp3",
+  "local_sound_path": "sounds/detective.mp3"
+}

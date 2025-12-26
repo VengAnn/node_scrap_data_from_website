@@ -1,0 +1,40 @@
+{
+  "word": "encourage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "encourage a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24818.png",
+      "local_image_path": "images/24818.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132471.png",
+      "local_image_path": "images/132471.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132472.png",
+      "local_image_path": "images/132472.png"
+    }
+  ],
+  "synonyms": [
+    "promote",
+    "advance",
+    "further"
+  ],
+  "antonyms": [
+    "discourage",
+    "stifle"
+  ],
+  "similar_words": [
+    "encouragement",
+    "encourager"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encourage.mp3",
+  "local_sound_path": "sounds/encourage.mp3"
+}

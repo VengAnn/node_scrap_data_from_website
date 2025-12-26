@@ -1,0 +1,63 @@
+{
+  "word": "awe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the lazy boy stood in awe of his stern teacher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6775.png",
+      "local_image_path": "images/6775.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112946.png",
+      "local_image_path": "images/112946.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112947.png",
+      "local_image_path": "images/112947.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6776.png",
+      "local_image_path": "images/6776.png"
+    }
+  ],
+  "synonyms": [
+    "wonder",
+    "admiration",
+    "respect",
+    "amazement",
+    "surprise",
+    "wonderment",
+    "astonishment",
+    "fear",
+    "terror",
+    "dread",
+    "fright",
+    "trepidation",
+    "fearfulness"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "awearied",
+    "aweary",
+    "aweather",
+    "aweek",
+    "aweigh",
+    "awesome",
+    "awesomely",
+    "awesomeness",
+    "awest",
+    "awestricken",
+    "awestrike",
+    "awestruck"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/awe.mp3",
+  "local_sound_path": "sounds/awe.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "diner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "late diner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21429.png",
+      "local_image_path": "images/21429.png"
+    },
+    {
+      "pos": "n",
+      "example": "I eat at a diner.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21430.png",
+      "local_image_path": "images/21430.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21431.png",
+      "local_image_path": "images/21431.png"
+    },
+    {
+      "pos": "n",
+      "example": "diner out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21432.png",
+      "local_image_path": "images/21432.png"
+    }
+  ],
+  "synonyms": [
+    "restaurant",
+    "cafeteria"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diner.mp3",
+  "local_sound_path": "sounds/diner.mp3"
+}

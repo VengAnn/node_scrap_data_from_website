@@ -1,0 +1,37 @@
+{
+  "word": "bottleneck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "glass bottleneck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10314.png",
+      "local_image_path": "images/10314.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115436.png",
+      "local_image_path": "images/115436.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115437.png",
+      "local_image_path": "images/115437.png"
+    }
+  ],
+  "synonyms": [
+    "block",
+    "blockage",
+    "holdup",
+    "traffic jam",
+    "jam",
+    "logjam"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bottleneck.mp3",
+  "local_sound_path": "sounds/bottleneck.mp3"
+}

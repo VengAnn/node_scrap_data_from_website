@@ -1,0 +1,68 @@
+{
+  "word": "weight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "His weight is 60 kilos",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99665.png",
+      "local_image_path": "images/99665.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99666.png",
+      "local_image_path": "images/99666.png"
+    },
+    {
+      "pos": "n",
+      "example": "paper weight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99667.png",
+      "local_image_path": "images/99667.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99668.png",
+      "local_image_path": "images/99668.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weight one's arguments",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99669.png",
+      "local_image_path": "images/99669.png"
+    }
+  ],
+  "synonyms": [
+    "influence",
+    "power",
+    "credence",
+    "substance",
+    "significance",
+    "import",
+    "importance",
+    "emphasis",
+    "stress",
+    "consequence",
+    "authority",
+    "clout"
+  ],
+  "antonyms": [
+    "lightness"
+  ],
+  "similar_words": [
+    "weight-lifter",
+    "weight-lifting",
+    "weight-watcher",
+    "weightily",
+    "weightiness",
+    "weighting",
+    "weightless",
+    "weightlessly",
+    "weightlessness",
+    "weighty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weight.mp3",
+  "local_sound_path": "sounds/weight.mp3"
+}

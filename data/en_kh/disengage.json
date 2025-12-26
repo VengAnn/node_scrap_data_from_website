@@ -1,0 +1,73 @@
+{
+  "word": "disengage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "forces will disengage soon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21825.png",
+      "local_image_path": "images/21825.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We must disengage our troops form the conflict.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21824.png",
+      "local_image_path": "images/21824.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118460.png",
+      "local_image_path": "images/118460.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118461.png",
+      "local_image_path": "images/118461.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118462.png",
+      "local_image_path": "images/118462.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118463.png",
+      "local_image_path": "images/118463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118464.png",
+      "local_image_path": "images/118464.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118465.png",
+      "local_image_path": "images/118465.png"
+    }
+  ],
+  "synonyms": [
+    "undo",
+    "unfasten",
+    "unlock",
+    "untie",
+    "uncouple",
+    "free",
+    "extricate",
+    "separate"
+  ],
+  "antonyms": [
+    "fasten"
+  ],
+  "similar_words": [
+    "disengagement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disengage.mp3",
+  "local_sound_path": "sounds/disengage.mp3"
+}

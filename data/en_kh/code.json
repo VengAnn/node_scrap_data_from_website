@@ -1,0 +1,55 @@
+{
+  "word": "code",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "civil code",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15428.png",
+      "local_image_path": "images/15428.png"
+    },
+    {
+      "pos": "n",
+      "example": "code of conduct",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15429.png",
+      "local_image_path": "images/15429.png"
+    },
+    {
+      "pos": "n",
+      "example": "secret code",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15430.png",
+      "local_image_path": "images/15430.png"
+    },
+    {
+      "pos": "n",
+      "example": "penal code",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15431.png",
+      "local_image_path": "images/15431.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15432.png",
+      "local_image_path": "images/15432.png"
+    }
+  ],
+  "synonyms": [
+    "program",
+    "programming",
+    "language",
+    "cipher",
+    "cryptogram"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "code message",
+    "code-sharing",
+    "codeine",
+    "codependency",
+    "coder",
+    "codex"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/code.mp3",
+  "local_sound_path": "sounds/code.mp3"
+}

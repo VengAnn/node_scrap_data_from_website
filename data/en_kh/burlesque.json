@@ -1,0 +1,40 @@
+{
+  "word": "burlesque",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "burlesque treatmen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11936.png",
+      "local_image_path": "images/11936.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11937.png",
+      "local_image_path": "images/11937.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11938.png",
+      "local_image_path": "images/11938.png"
+    }
+  ],
+  "synonyms": [
+    "spoof",
+    "mock",
+    "lampoon",
+    "caricature",
+    "satirize",
+    "parody"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "burlesquely",
+    "burlesquer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burlesque.mp3",
+  "local_sound_path": "sounds/burlesque.mp3"
+}

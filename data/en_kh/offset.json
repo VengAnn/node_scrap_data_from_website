@@ -1,0 +1,52 @@
+{
+  "word": "offset",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57368.png",
+      "local_image_path": "images/57368.png"
+    },
+    {
+      "pos": "n",
+      "example": "offset in the wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57369.png",
+      "local_image_path": "images/57369.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57365.png",
+      "local_image_path": "images/57365.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He offsets his small salary by living economically",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57366.png",
+      "local_image_path": "images/57366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offset a wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57367.png",
+      "local_image_path": "images/57367.png"
+    }
+  ],
+  "synonyms": [
+    "counterbalance",
+    "counteract",
+    "compensate",
+    "equalize",
+    "balance",
+    "counterweigh",
+    "equipoise",
+    "balanced",
+    "counterpoise"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/offset.mp3",
+  "local_sound_path": "sounds/offset.mp3"
+}

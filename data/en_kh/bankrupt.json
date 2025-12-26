@@ -1,0 +1,55 @@
+{
+  "word": "bankrupt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "go bankrupt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7350.png",
+      "local_image_path": "images/7350.png"
+    },
+    {
+      "pos": "n",
+      "example": "bankrupt policy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7351.png",
+      "local_image_path": "images/7351.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114546.png",
+      "local_image_path": "images/114546.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114547.png",
+      "local_image_path": "images/114547.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114548.png",
+      "local_image_path": "images/114548.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bankrupt a company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7352.png",
+      "local_image_path": "images/7352.png"
+    }
+  ],
+  "synonyms": [
+    "ruin",
+    "destroy",
+    "liquidate",
+    "impoverish"
+  ],
+  "antonyms": [
+    "solvent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bankrupt.mp3",
+  "local_sound_path": "sounds/bankrupt.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "twirl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92684.png",
+      "local_image_path": "images/92684.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92685.png",
+      "local_image_path": "images/92685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92682.png",
+      "local_image_path": "images/92682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92683.png",
+      "local_image_path": "images/92683.png"
+    }
+  ],
+  "synonyms": [
+    "whirl",
+    "circle",
+    "spin",
+    "turn",
+    "revolution",
+    "pirouette",
+    "rotate",
+    "revolve",
+    "turn round"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twirl.mp3",
+  "local_sound_path": "sounds/twirl.mp3"
+}

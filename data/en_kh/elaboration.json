@@ -1,0 +1,35 @@
+{
+  "word": "elaboration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24114.png",
+      "local_image_path": "images/24114.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118956.png",
+      "local_image_path": "images/118956.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118957.png",
+      "local_image_path": "images/118957.png"
+    }
+  ],
+  "synonyms": [
+    "amplification",
+    "embellishment",
+    "explanation",
+    "expansion"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elaboration.mp3",
+  "local_sound_path": "sounds/elaboration.mp3"
+}

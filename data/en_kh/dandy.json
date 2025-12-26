@@ -1,0 +1,42 @@
+{
+  "word": "dandy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dandy getleman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19603.png",
+      "local_image_path": "images/19603.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dandy time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19604.png",
+      "local_image_path": "images/19604.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19602.png",
+      "local_image_path": "images/19602.png"
+    }
+  ],
+  "synonyms": [
+    "fine",
+    "great",
+    "excellent",
+    "cool",
+    "groovy",
+    "fop",
+    "beau",
+    "coxcomb",
+    "dude"
+  ],
+  "antonyms": [
+    "bad"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dandy.mp3",
+  "local_sound_path": "sounds/dandy.mp3"
+}

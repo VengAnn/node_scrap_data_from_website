@@ -1,0 +1,49 @@
+{
+  "word": "attend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "attend a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6251.png",
+      "local_image_path": "images/6251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112110.png",
+      "local_image_path": "images/112110.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112111.png",
+      "local_image_path": "images/112111.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112112.png",
+      "local_image_path": "images/112112.png"
+    }
+  ],
+  "synonyms": [
+    "listen",
+    "concentrate",
+    "focus"
+  ],
+  "antonyms": [
+    "miss",
+    "ignore"
+  ],
+  "similar_words": [
+    "attendance",
+    "attendant",
+    "attendantly",
+    "attendee",
+    "attender"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attend.mp3",
+  "local_sound_path": "sounds/attend.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "inauspicious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38206.png",
+      "local_image_path": "images/38206.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121889.png",
+      "local_image_path": "images/121889.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121890.png",
+      "local_image_path": "images/121890.png"
+    }
+  ],
+  "synonyms": [
+    "unpromising",
+    "discouraging",
+    "ill-fated",
+    "ominous",
+    "unfavorable",
+    "gloomy",
+    "ill-starred",
+    "fateful",
+    "adverse"
+  ],
+  "antonyms": [
+    "promising"
+  ],
+  "similar_words": [
+    "inauspiciously",
+    "inauspiciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inauspicious.mp3",
+  "local_sound_path": "sounds/inauspicious.mp3"
+}

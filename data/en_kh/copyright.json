@@ -1,0 +1,35 @@
+{
+  "word": "copyright",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17677.png",
+      "local_image_path": "images/17677.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17675.png",
+      "local_image_path": "images/17675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17676.png",
+      "local_image_path": "images/17676.png"
+    }
+  ],
+  "synonyms": [
+    "patent"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "copyrightable",
+    "copyrighter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/copyright.mp3",
+  "local_sound_path": "sounds/copyright.mp3"
+}

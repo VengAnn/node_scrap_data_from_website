@@ -1,0 +1,33 @@
+{
+  "word": "disk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21962.png",
+      "local_image_path": "images/21962.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21963.png",
+      "local_image_path": "images/21963.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21964.png",
+      "local_image_path": "images/21964.png"
+    }
+  ],
+  "synonyms": [
+    "floppy",
+    "record"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disk.mp3",
+  "local_sound_path": "sounds/disk.mp3"
+}

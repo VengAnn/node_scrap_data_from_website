@@ -1,0 +1,43 @@
+{
+  "word": "censure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13555.png",
+      "local_image_path": "images/13555.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13556.png",
+      "local_image_path": "images/13556.png"
+    }
+  ],
+  "synonyms": [
+    "criticism",
+    "disapproval",
+    "condemnation",
+    "denunciation",
+    "deprecation",
+    "scorn",
+    "contempt",
+    "fault",
+    "criticize",
+    "reprimand",
+    "condemn",
+    "knock",
+    "reproach",
+    "denounce",
+    "slate"
+  ],
+  "antonyms": [
+    "praise",
+    "approval"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/censure.mp3",
+  "local_sound_path": "sounds/censure.mp3"
+}

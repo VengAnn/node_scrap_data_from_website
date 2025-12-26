@@ -1,0 +1,26 @@
+{
+  "word": "nobility",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "privileged nobility",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55906.png",
+      "local_image_path": "images/55906.png"
+    },
+    {
+      "pos": "n",
+      "example": "nobility of his birth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55907.png",
+      "local_image_path": "images/55907.png"
+    }
+  ],
+  "synonyms": [
+    "aristocracy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nobility.mp3",
+  "local_sound_path": "sounds/nobility.mp3"
+}

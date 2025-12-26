@@ -1,0 +1,33 @@
+{
+  "word": "aflame",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, adj",
+      "example": "aflame cheeks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2782.png",
+      "local_image_path": "images/2782.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112088.png",
+      "local_image_path": "images/112088.png"
+    }
+  ],
+  "synonyms": [
+    "ablaze",
+    "enthusiastic",
+    "passionate",
+    "afire",
+    "excited",
+    "burning"
+  ],
+  "antonyms": [
+    "apathetic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aflame.mp3",
+  "local_sound_path": "sounds/aflame.mp3"
+}

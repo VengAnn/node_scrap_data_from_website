@@ -1,0 +1,36 @@
+{
+  "word": "keeping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "keeping of old papers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43715.png",
+      "local_image_path": "images/43715.png"
+    },
+    {
+      "pos": "n",
+      "example": "keeping of bees",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43716.png",
+      "local_image_path": "images/43716.png"
+    }
+  ],
+  "synonyms": [
+    "custody",
+    "observance",
+    "maintenance",
+    "care",
+    "trust",
+    "charge",
+    "observing",
+    "respecting"
+  ],
+  "antonyms": [
+    "becoming",
+    "breaking"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/keeping.mp3",
+  "local_sound_path": "sounds/keeping.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "measly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "measly skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107080.png",
+      "local_image_path": "images/107080.png"
+    },
+    {
+      "pos": "adj",
+      "example": "measly salary",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107081.png",
+      "local_image_path": "images/107081.png"
+    }
+  ],
+  "synonyms": [
+    "stingy",
+    "meager",
+    "ungenerous",
+    "derisory",
+    "miserable",
+    "paltry",
+    "small",
+    "inadequate",
+    "insufficient",
+    "mean"
+  ],
+  "antonyms": [
+    "generous",
+    "ample"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/measly.mp3",
+  "local_sound_path": "sounds/measly.mp3"
+}

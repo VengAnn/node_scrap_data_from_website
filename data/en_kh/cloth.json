@@ -1,0 +1,57 @@
+{
+  "word": "cloth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sell cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15142.png",
+      "local_image_path": "images/15142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116513.png",
+      "local_image_path": "images/116513.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116514.png",
+      "local_image_path": "images/116514.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116515.png",
+      "local_image_path": "images/116515.png"
+    }
+  ],
+  "synonyms": [
+    "rag",
+    "duster",
+    "tablecloth",
+    "handkerchief",
+    "napkin",
+    "scarf"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clothbound",
+    "clothe",
+    "clothes",
+    "clothes-basket",
+    "clothes-brush",
+    "clothes-hanger",
+    "clothes-line",
+    "clothespeg",
+    "clothespin",
+    "clothespress",
+    "clothier",
+    "clothing",
+    "clothing optional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloth.mp3",
+  "local_sound_path": "sounds/cloth.mp3"
+}

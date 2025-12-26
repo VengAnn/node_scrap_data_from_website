@@ -1,0 +1,36 @@
+{
+  "word": "crutch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "personality crutch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18887.png",
+      "local_image_path": "images/18887.png"
+    },
+    {
+      "pos": "n",
+      "example": "walk with a crutch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18886.png",
+      "local_image_path": "images/18886.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18888.png",
+      "local_image_path": "images/18888.png"
+    }
+  ],
+  "synonyms": [
+    "prop",
+    "support",
+    "stick",
+    "staff",
+    "rest"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crutch.mp3",
+  "local_sound_path": "sounds/crutch.mp3"
+}

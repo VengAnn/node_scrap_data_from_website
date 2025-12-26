@@ -1,0 +1,76 @@
+{
+  "word": "trace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The police were unable to find any trace of the thief.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90600.png",
+      "local_image_path": "images/90600.png"
+    },
+    {
+      "pos": "n",
+      "example": "trace of humere",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90601.png",
+      "local_image_path": "images/90601.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90602.png",
+      "local_image_path": "images/90602.png"
+    },
+    {
+      "pos": "n",
+      "example": "break the trace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90608.png",
+      "local_image_path": "images/90608.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trace a rabbit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90603.png",
+      "local_image_path": "images/90603.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128350.png",
+      "local_image_path": "images/128350.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128351.png",
+      "local_image_path": "images/128351.png"
+    }
+  ],
+  "synonyms": [
+    "sign",
+    "indication",
+    "evidence",
+    "remnant",
+    "residue",
+    "mark",
+    "vestige",
+    "find",
+    "locate",
+    "discover",
+    "track",
+    "follow",
+    "trail"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "traceability",
+    "traceable",
+    "traceableness",
+    "traceably",
+    "traceless",
+    "tracer",
+    "tracery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trace.mp3",
+  "local_sound_path": "sounds/trace.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "bluster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wind blusters",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9855.png",
+      "local_image_path": "images/9855.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115307.png",
+      "local_image_path": "images/115307.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115308.png",
+      "local_image_path": "images/115308.png"
+    },
+    {
+      "pos": "n",
+      "example": "bluster of the wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9856.png",
+      "local_image_path": "images/9856.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115309.png",
+      "local_image_path": "images/115309.png"
+    }
+  ],
+  "synonyms": [
+    "harangue",
+    "threaten",
+    "bully",
+    "protest",
+    "rant",
+    "bristle",
+    "bridle",
+    "complain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blusterer",
+    "blustery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bluster.mp3",
+  "local_sound_path": "sounds/bluster.mp3"
+}

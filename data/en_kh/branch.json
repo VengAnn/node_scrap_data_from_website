@@ -1,0 +1,69 @@
+{
+  "word": "branch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "trees branch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10598.png",
+      "local_image_path": "images/10598.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130026.png",
+      "local_image_path": "images/130026.png"
+    },
+    {
+      "pos": "n",
+      "example": "branch of a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10597.png",
+      "local_image_path": "images/10597.png"
+    }
+  ],
+  "synonyms": [
+    "split",
+    "fork",
+    "divide",
+    "diverge",
+    "separate",
+    "bifurcate"
+  ],
+  "antonyms": [
+    "converge"
+  ],
+  "similar_words": [
+    "branch bank",
+    "branch line",
+    "branch manager",
+    "branch out",
+    "branch water",
+    "branchage",
+    "branched",
+    "branchellion",
+    "brancher",
+    "branchery",
+    "branchi cardiac",
+    "branchi colous",
+    "branchia",
+    "branchial",
+    "branchiate",
+    "branchier",
+    "branchiferous",
+    "branchiform",
+    "branching",
+    "branchio",
+    "branchio anal",
+    "branchio bdella",
+    "branchiopod",
+    "branchiopodan",
+    "branchiopodous",
+    "branchiostege",
+    "branchiostegous",
+    "branchireme",
+    "branchless bank"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/branch.mp3",
+  "local_sound_path": "sounds/branch.mp3"
+}

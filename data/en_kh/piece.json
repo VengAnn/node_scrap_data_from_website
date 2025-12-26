@@ -1,0 +1,85 @@
+{
+  "word": "piece",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "piece of candy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63132.png",
+      "local_image_path": "images/63132.png"
+    },
+    {
+      "pos": "n",
+      "example": "piece of pie",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63133.png",
+      "local_image_path": "images/63133.png"
+    },
+    {
+      "pos": "n",
+      "example": "piece of pipe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63134.png",
+      "local_image_path": "images/63134.png"
+    },
+    {
+      "pos": "n",
+      "example": "piece of land",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63135.png",
+      "local_image_path": "images/63135.png"
+    },
+    {
+      "pos": "n",
+      "example": "piece of paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63136.png",
+      "local_image_path": "images/63136.png"
+    },
+    {
+      "pos": "n",
+      "example": "literay piece",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63137.png",
+      "local_image_path": "images/63137.png"
+    },
+    {
+      "pos": "n",
+      "example": "piece of music",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63138.png",
+      "local_image_path": "images/63138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63139.png",
+      "local_image_path": "images/63139.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63140.png",
+      "local_image_path": "images/63140.png"
+    }
+  ],
+  "synonyms": [
+    "example",
+    "case",
+    "sample",
+    "instance",
+    "occurrence",
+    "model",
+    "patch",
+    "mend",
+    "repair",
+    "restore",
+    "fix"
+  ],
+  "antonyms": [
+    "whole"
+  ],
+  "similar_words": [
+    "piecemeal",
+    "piecen",
+    "piecework",
+    "pieceworker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/piece.mp3",
+  "local_sound_path": "sounds/piece.mp3"
+}

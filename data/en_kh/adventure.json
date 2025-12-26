@@ -1,0 +1,38 @@
+{
+  "word": "adventure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2564.png",
+      "local_image_path": "images/2564.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112023.png",
+      "local_image_path": "images/112023.png"
+    }
+  ],
+  "synonyms": [
+    "escapade",
+    "exploit",
+    "quest",
+    "venture",
+    "journey",
+    "exploration",
+    "voyage",
+    "undertaking"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "adventure playground",
+    "adventurer",
+    "adventuresome",
+    "adventuress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adventure.mp3",
+  "local_sound_path": "sounds/adventure.mp3"
+}

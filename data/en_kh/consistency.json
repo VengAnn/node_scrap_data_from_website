@@ -1,0 +1,43 @@
+{
+  "word": "consistency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "consistency of a food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17012.png",
+      "local_image_path": "images/17012.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131943.png",
+      "local_image_path": "images/131943.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131944.png",
+      "local_image_path": "images/131944.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131945.png",
+      "local_image_path": "images/131945.png"
+    }
+  ],
+  "synonyms": [
+    "texture",
+    "thickness",
+    "feel",
+    "make-up"
+  ],
+  "antonyms": [
+    "inconsistency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consistency.mp3",
+  "local_sound_path": "sounds/consistency.mp3"
+}

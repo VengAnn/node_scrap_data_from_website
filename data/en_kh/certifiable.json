@@ -1,0 +1,49 @@
+{
+  "word": "certifiable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he is certifiable",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13663.png",
+      "local_image_path": "images/13663.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13671.png",
+      "local_image_path": "images/13671.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116118.png",
+      "local_image_path": "images/116118.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116119.png",
+      "local_image_path": "images/116119.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116120.png",
+      "local_image_path": "images/116120.png"
+    }
+  ],
+  "synonyms": [
+    "demonstrable",
+    "provable",
+    "confirmable",
+    "supportable"
+  ],
+  "antonyms": [
+    "moot"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/certifiable.mp3",
+  "local_sound_path": "sounds/certifiable.mp3"
+}

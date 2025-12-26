@@ -1,0 +1,29 @@
+{
+  "word": "attribute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "important attribute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6310.png",
+      "local_image_path": "images/6310.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6309.png",
+      "local_image_path": "images/6309.png"
+    }
+  ],
+  "synonyms": [
+    "ascribe",
+    "assign",
+    "accredit",
+    "attach"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attribute.mp3",
+  "local_sound_path": "sounds/attribute.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "flay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "flay skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28985.png",
+      "local_image_path": "images/28985.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flay one's critics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28986.png",
+      "local_image_path": "images/28986.png"
+    }
+  ],
+  "synonyms": [
+    "criticize",
+    "censure",
+    "condemn",
+    "slate",
+    "pillory",
+    "lambaste",
+    "blast"
+  ],
+  "antonyms": [
+    "endorse",
+    "indorse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flay.mp3",
+  "local_sound_path": "sounds/flay.mp3"
+}

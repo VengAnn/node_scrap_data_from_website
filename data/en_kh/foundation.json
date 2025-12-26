@@ -1,0 +1,43 @@
+{
+  "word": "foundation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "foundation of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29988.png",
+      "local_image_path": "images/29988.png"
+    },
+    {
+      "pos": "n",
+      "example": "foundation of his argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29989.png",
+      "local_image_path": "images/29989.png"
+    },
+    {
+      "pos": "n",
+      "example": "philanthropic foundation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29990.png",
+      "local_image_path": "images/29990.png"
+    },
+    {
+      "pos": "n",
+      "example": "foundation of a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29991.png",
+      "local_image_path": "images/29991.png"
+    }
+  ],
+  "synonyms": [
+    "establishment",
+    "institution",
+    "charity",
+    "organization",
+    "institute",
+    "society"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foundation.mp3",
+  "local_sound_path": "sounds/foundation.mp3"
+}

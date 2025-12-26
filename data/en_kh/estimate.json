@@ -1,0 +1,35 @@
+{
+  "word": "estimate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "We ask our builder to estimate for the repair of the house.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25944.png",
+      "local_image_path": "images/25944.png"
+    }
+  ],
+  "synonyms": [
+    "quote",
+    "price",
+    "estimation",
+    "valuation",
+    "costing",
+    "assessment",
+    "approximate",
+    "guess",
+    "guesstimate",
+    "assess",
+    "reckon",
+    "value",
+    "appraise"
+  ],
+  "antonyms": [
+    "cost",
+    "calculate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/estimate.mp3",
+  "local_sound_path": "sounds/estimate.mp3"
+}

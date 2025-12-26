@@ -1,0 +1,101 @@
+{
+  "word": "score",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "settle a score",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76903.png",
+      "local_image_path": "images/76903.png"
+    },
+    {
+      "pos": "idm",
+      "example": "score with sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76909.png",
+      "local_image_path": "images/76909.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76908.png",
+      "local_image_path": "images/76908.png"
+    },
+    {
+      "pos": "n",
+      "example": "test score",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76898.png",
+      "local_image_path": "images/76898.png"
+    },
+    {
+      "pos": "n",
+      "example": "put a score on a gun barrel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76899.png",
+      "local_image_path": "images/76899.png"
+    },
+    {
+      "pos": "n",
+      "example": "a score of years",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76900.png",
+      "local_image_path": "images/76900.png"
+    },
+    {
+      "pos": "n",
+      "example": "on that score",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76901.png",
+      "local_image_path": "images/76901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76902.png",
+      "local_image_path": "images/76902.png"
+    },
+    {
+      "pos": "tv",
+      "example": "score 5 points",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76904.png",
+      "local_image_path": "images/76904.png"
+    },
+    {
+      "pos": "tv",
+      "example": "score a test",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76905.png",
+      "local_image_path": "images/76905.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76906.png",
+      "local_image_path": "images/76906.png"
+    },
+    {
+      "pos": "tv",
+      "example": "score one's gun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76907.png",
+      "local_image_path": "images/76907.png"
+    }
+  ],
+  "synonyms": [
+    "notch",
+    "cut",
+    "slash",
+    "groove",
+    "mark",
+    "achieve",
+    "attain",
+    "do",
+    "make",
+    "gain",
+    "get"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "score card",
+    "score-book",
+    "scored",
+    "scorer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/score.mp3",
+  "local_sound_path": "sounds/score.mp3"
+}

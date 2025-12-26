@@ -1,0 +1,31 @@
+{
+  "word": "gulf",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33247.png",
+      "local_image_path": "images/33247.png"
+    },
+    {
+      "pos": "n",
+      "example": "The gulf between the two leader's can not be bridged.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33248.png",
+      "local_image_path": "images/33248.png"
+    }
+  ],
+  "synonyms": [
+    "abyss",
+    "chasm",
+    "gap",
+    "hollow",
+    "vacuum",
+    "hole"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gulf.mp3",
+  "local_sound_path": "sounds/gulf.mp3"
+}

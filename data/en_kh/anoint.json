@@ -1,0 +1,46 @@
+{
+  "word": "anoint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4442.png",
+      "local_image_path": "images/4442.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112544.png",
+      "local_image_path": "images/112544.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112545.png",
+      "local_image_path": "images/112545.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112546.png",
+      "local_image_path": "images/112546.png"
+    }
+  ],
+  "synonyms": [
+    "smear",
+    "daub",
+    "rub",
+    "smooth",
+    "massage",
+    "oil"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "anointing",
+    "anointment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anoint.mp3",
+  "local_sound_path": "sounds/anoint.mp3"
+}

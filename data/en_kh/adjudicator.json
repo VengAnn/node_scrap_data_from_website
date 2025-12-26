@@ -1,0 +1,33 @@
+{
+  "word": "adjudicator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2405.png",
+      "local_image_path": "images/2405.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113264.png",
+      "local_image_path": "images/113264.png"
+    }
+  ],
+  "synonyms": [
+    "judge",
+    "arbitrator",
+    "referee",
+    "umpire",
+    "mediator",
+    "negotiator"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "adjudicatory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjudicator.mp3",
+  "local_sound_path": "sounds/adjudicator.mp3"
+}

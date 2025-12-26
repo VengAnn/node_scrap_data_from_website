@@ -1,0 +1,57 @@
+{
+  "word": "sting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bee sting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84813.png",
+      "local_image_path": "images/84813.png"
+    },
+    {
+      "pos": "n",
+      "example": "sting of his works",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84814.png",
+      "local_image_path": "images/84814.png"
+    },
+    {
+      "pos": "n",
+      "example": "sting of his blow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84815.png",
+      "local_image_path": "images/84815.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Bees sting people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84811.png",
+      "local_image_path": "images/84811.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Smoke stings the eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84812.png",
+      "local_image_path": "images/84812.png"
+    }
+  ],
+  "synonyms": [
+    "smart",
+    "tingle",
+    "throb",
+    "nip",
+    "hurt",
+    "prick"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stinger",
+    "stinginess",
+    "stinging",
+    "stingless",
+    "stingo",
+    "stingray",
+    "stingy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sting.mp3",
+  "local_sound_path": "sounds/sting.mp3"
+}

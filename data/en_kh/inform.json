@@ -1,0 +1,81 @@
+{
+  "word": "inform",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39791.png",
+      "local_image_path": "images/39791.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inform the authorities",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39790.png",
+      "local_image_path": "images/39790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122371.png",
+      "local_image_path": "images/122371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122372.png",
+      "local_image_path": "images/122372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122373.png",
+      "local_image_path": "images/122373.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122374.png",
+      "local_image_path": "images/122374.png"
+    }
+  ],
+  "synonyms": [
+    "tell",
+    "notify",
+    "update",
+    "enlighten",
+    "denounce",
+    "betray",
+    "tattle",
+    "snitch",
+    "squeal",
+    "grass"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "informal",
+    "informal visit",
+    "informality",
+    "informalize",
+    "informally",
+    "informant",
+    "informatics",
+    "information",
+    "information officer",
+    "information science",
+    "information technology",
+    "informational",
+    "informative",
+    "informatively",
+    "informativeness",
+    "informatory",
+    "informed",
+    "informed consent",
+    "informedly",
+    "informer",
+    "informidable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inform.mp3",
+  "local_sound_path": "sounds/inform.mp3"
+}

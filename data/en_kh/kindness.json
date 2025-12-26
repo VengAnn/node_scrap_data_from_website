@@ -1,0 +1,49 @@
+{
+  "word": "kindness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43923.png",
+      "local_image_path": "images/43923.png"
+    },
+    {
+      "pos": "n",
+      "example": "kindness of his offer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43924.png",
+      "local_image_path": "images/43924.png"
+    },
+    {
+      "pos": "n",
+      "example": "treat him kindness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43925.png",
+      "local_image_path": "images/43925.png"
+    },
+    {
+      "pos": "n",
+      "example": "bestow a kindness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43926.png",
+      "local_image_path": "images/43926.png"
+    }
+  ],
+  "synonyms": [
+    "compassion",
+    "sympathy",
+    "gentleness",
+    "kindheartedness",
+    "benevolence",
+    "thoughtfulness",
+    "humanity",
+    "consideration",
+    "helpfulness",
+    "charity"
+  ],
+  "antonyms": [
+    "cruelty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/kindness.mp3",
+  "local_sound_path": "sounds/kindness.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "autumn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6638.png",
+      "local_image_path": "images/6638.png"
+    }
+  ],
+  "synonyms": [
+    "end",
+    "conclusion",
+    "close",
+    "culmination",
+    "decline"
+  ],
+  "antonyms": [
+    "spring",
+    "beginning"
+  ],
+  "similar_words": [
+    "autumnal",
+    "autumnally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/autumn.mp3",
+  "local_sound_path": "sounds/autumn.mp3"
+}

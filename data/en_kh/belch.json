@@ -1,0 +1,30 @@
+{
+  "word": "belch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8144.png",
+      "local_image_path": "images/8144.png"
+    },
+    {
+      "pos": "v",
+      "example": "belch gas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8143.png",
+      "local_image_path": "images/8143.png"
+    }
+  ],
+  "synonyms": [
+    "burp",
+    "eruct",
+    "hiccup",
+    "gulp",
+    "posset"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/belch.mp3",
+  "local_sound_path": "sounds/belch.mp3"
+}

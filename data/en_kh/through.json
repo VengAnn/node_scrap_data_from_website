@@ -1,0 +1,55 @@
+{
+  "word": "through",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "through with your work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89203.png",
+      "local_image_path": "images/89203.png"
+    },
+    {
+      "pos": "prep",
+      "example": "The burglar came in through the window.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89199.png",
+      "local_image_path": "images/89199.png"
+    },
+    {
+      "pos": "prep",
+      "example": "through the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89200.png",
+      "local_image_path": "images/89200.png"
+    },
+    {
+      "pos": "prep",
+      "example": "He slept the whole night through.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89201.png",
+      "local_image_path": "images/89201.png"
+    },
+    {
+      "pos": "prep",
+      "example": "When will you be through with your work?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89202.png",
+      "local_image_path": "images/89202.png"
+    }
+  ],
+  "synonyms": [
+    "finished",
+    "done",
+    "over",
+    "complete",
+    "via"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "through-passage",
+    "through-stone",
+    "through-toll",
+    "throughly",
+    "throughout",
+    "throughway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/through.mp3",
+  "local_sound_path": "sounds/through.mp3"
+}

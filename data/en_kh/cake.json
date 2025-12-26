@@ -1,0 +1,37 @@
+{
+  "word": "cake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "do you want to eat some cakes?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12341.png",
+      "local_image_path": "images/12341.png"
+    },
+    {
+      "pos": "n",
+      "example": "cake of soap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12342.png",
+      "local_image_path": "images/12342.png"
+    },
+    {
+      "pos": "tv",
+      "example": "his shoe were caked with mud",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12343.png",
+      "local_image_path": "images/12343.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "coat",
+    "encrust",
+    "incrust",
+    "congeal",
+    "coagulate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cake.mp3",
+  "local_sound_path": "sounds/cake.mp3"
+}

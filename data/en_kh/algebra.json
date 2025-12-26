@@ -1,0 +1,34 @@
+{
+  "word": "algebra",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3318.png",
+      "local_image_path": "images/3318.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113505.png",
+      "local_image_path": "images/113505.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113506.png",
+      "local_image_path": "images/113506.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "algebraic",
+    "algebraically",
+    "algebraist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/algebra.mp3",
+  "local_sound_path": "sounds/algebra.mp3"
+}

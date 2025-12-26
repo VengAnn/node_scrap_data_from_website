@@ -1,0 +1,51 @@
+{
+  "word": "meaning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107061.png",
+      "local_image_path": "images/107061.png"
+    },
+    {
+      "pos": "n",
+      "example": "mean of a work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107059.png",
+      "local_image_path": "images/107059.png"
+    },
+    {
+      "pos": "n",
+      "example": "I get your meaning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107060.png",
+      "local_image_path": "images/107060.png"
+    }
+  ],
+  "synonyms": [
+    "significance",
+    "importance",
+    "implication",
+    "value",
+    "consequence",
+    "worth",
+    "intending",
+    "planning",
+    "wanting",
+    "wishing"
+  ],
+  "antonyms": [
+    "insignificance"
+  ],
+  "similar_words": [
+    "meaningful",
+    "meaningfully",
+    "meaningfulness",
+    "meaningless",
+    "meaninglessly",
+    "meaninglessness",
+    "meaningly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meaning.mp3",
+  "local_sound_path": "sounds/meaning.mp3"
+}

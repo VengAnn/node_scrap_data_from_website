@@ -1,0 +1,30 @@
+{
+  "word": "around",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "travel around",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5544.png",
+      "local_image_path": "images/5544.png"
+    },
+    {
+      "pos": "prep",
+      "example": "fence around a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5543.png",
+      "local_image_path": "images/5543.png"
+    }
+  ],
+  "synonyms": [
+    "about",
+    "throughout",
+    "round"
+  ],
+  "antonyms": [
+    "exactly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/around.mp3",
+  "local_sound_path": "sounds/around.mp3"
+}

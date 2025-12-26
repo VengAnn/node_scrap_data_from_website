@@ -1,0 +1,65 @@
+{
+  "word": "mist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109553.png",
+      "local_image_path": "images/109553.png"
+    },
+    {
+      "pos": "n",
+      "example": "mist in the air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109550.png",
+      "local_image_path": "images/109550.png"
+    },
+    {
+      "pos": "n",
+      "example": "mist on the window",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109551.png",
+      "local_image_path": "images/109551.png"
+    },
+    {
+      "pos": "n",
+      "example": "mist in one's eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109552.png",
+      "local_image_path": "images/109552.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109554.png",
+      "local_image_path": "images/109554.png"
+    }
+  ],
+  "synonyms": [
+    "haze",
+    "fog",
+    "vapor",
+    "smog",
+    "steam",
+    "spray",
+    "film"
+  ],
+  "antonyms": [
+    "clear"
+  ],
+  "similar_words": [
+    "mist-flower",
+    "mistakable",
+    "mistake",
+    "mistake of fact",
+    "mistake of law",
+    "mistaken",
+    "mistakenly",
+    "mistaker",
+    "mistaking",
+    "mistakingly",
+    "mistate",
+    "mistatement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mist.mp3",
+  "local_sound_path": "sounds/mist.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "dough",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bread dough",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22854.png",
+      "local_image_path": "images/22854.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22855.png",
+      "local_image_path": "images/22855.png"
+    }
+  ],
+  "synonyms": [
+    "cash",
+    "currency",
+    "bread",
+    "brass",
+    "money"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "doughnut",
+    "doughty",
+    "doughy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dough.mp3",
+  "local_sound_path": "sounds/dough.mp3"
+}

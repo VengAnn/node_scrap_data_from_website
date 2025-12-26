@@ -1,0 +1,66 @@
+{
+  "word": "wood",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Tables are usually made of wood.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100784.png",
+      "local_image_path": "images/100784.png"
+    },
+    {
+      "pos": "n",
+      "example": "lost in the wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100785.png",
+      "local_image_path": "images/100785.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100786.png",
+      "local_image_path": "images/100786.png"
+    }
+  ],
+  "synonyms": [
+    "forest",
+    "woodland",
+    "copse",
+    "covert",
+    "coppice",
+    "thicket"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wood-cutter",
+    "wood-cutting",
+    "wood-engraver",
+    "wood-engraving",
+    "wood-head",
+    "wood-headed",
+    "wood-hen",
+    "wood-kenn",
+    "wood-oil",
+    "wood-pile",
+    "wood-pulp",
+    "wood-saw",
+    "wood-shaw",
+    "wood-waxen",
+    "woodcack",
+    "woodcarver",
+    "woodcarving",
+    "woodchet",
+    "woodchuck",
+    "woodcraft",
+    "woodcut",
+    "wooded",
+    "wooden",
+    "woodenhead",
+    "woodenly",
+    "woodenness",
+    "woodhouse",
+    "woodiness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wood.mp3",
+  "local_sound_path": "sounds/wood.mp3"
+}

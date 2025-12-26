@@ -1,0 +1,55 @@
+{
+  "word": "powder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65718.png",
+      "local_image_path": "images/65718.png"
+    },
+    {
+      "pos": "n",
+      "example": "face powder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65715.png",
+      "local_image_path": "images/65715.png"
+    },
+    {
+      "pos": "tv",
+      "example": "powder one's face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65716.png",
+      "local_image_path": "images/65716.png"
+    },
+    {
+      "pos": "tv",
+      "example": "powder with sugar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65717.png",
+      "local_image_path": "images/65717.png"
+    }
+  ],
+  "synonyms": [
+    "crush",
+    "grind",
+    "pulverize",
+    "pound",
+    "mill",
+    "process",
+    "triturate",
+    "comminute"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "powder monkey",
+    "powder room",
+    "powder-flask",
+    "powder-keg",
+    "powder-magazine",
+    "powder-puff",
+    "powderable",
+    "powdered",
+    "powdery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/powder.mp3",
+  "local_sound_path": "sounds/powder.mp3"
+}

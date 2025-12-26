@@ -1,0 +1,31 @@
+{
+  "word": "information",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "important information",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39799.png",
+      "local_image_path": "images/39799.png"
+    }
+  ],
+  "synonyms": [
+    "news",
+    "report",
+    "word",
+    "communication",
+    "intelligence",
+    "knowledge",
+    "tidings"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "information officer",
+    "information science",
+    "information technology",
+    "informational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/information.mp3",
+  "local_sound_path": "sounds/information.mp3"
+}

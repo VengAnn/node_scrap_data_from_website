@@ -1,0 +1,32 @@
+{
+  "word": "penny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "without a penny",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61392.png",
+      "local_image_path": "images/61392.png"
+    }
+  ],
+  "synonyms": [
+    "currency",
+    "money",
+    "coinage",
+    "denomination",
+    "change"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "penny pincher",
+    "penny pinching",
+    "penny-farthing",
+    "penny-pinch",
+    "penny-wise",
+    "pennyweight",
+    "pennyworth"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/penny.mp3",
+  "local_sound_path": "sounds/penny.mp3"
+}

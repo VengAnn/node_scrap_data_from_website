@@ -1,0 +1,43 @@
+{
+  "word": "festoon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28235.png",
+      "local_image_path": "images/28235.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28236.png",
+      "local_image_path": "images/28236.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120070.png",
+      "local_image_path": "images/120070.png"
+    }
+  ],
+  "synonyms": [
+    "garland",
+    "decoration",
+    "ornament",
+    "chain",
+    "decorate",
+    "adorn",
+    "swathe",
+    "hang",
+    "drape",
+    "embellish"
+  ],
+  "antonyms": [
+    "strip"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/festoon.mp3",
+  "local_sound_path": "sounds/festoon.mp3"
+}

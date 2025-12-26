@@ -1,0 +1,29 @@
+{
+  "word": "overdue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "overdue bill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58675.png",
+      "local_image_path": "images/58675.png"
+    }
+  ],
+  "synonyms": [
+    "unpaid",
+    "outstanding",
+    "late",
+    "tardy",
+    "unsettled",
+    "belated"
+  ],
+  "antonyms": [
+    "premature",
+    "early",
+    "paid"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overdue.mp3",
+  "local_sound_path": "sounds/overdue.mp3"
+}

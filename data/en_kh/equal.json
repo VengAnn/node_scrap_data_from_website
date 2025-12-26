@@ -1,0 +1,76 @@
+{
+  "word": "equal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25607.png",
+      "local_image_path": "images/25607.png"
+    },
+    {
+      "pos": "adj",
+      "example": "equal in size",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25608.png",
+      "local_image_path": "images/25608.png"
+    },
+    {
+      "pos": "adj",
+      "example": "equal in age",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25609.png",
+      "local_image_path": "images/25609.png"
+    },
+    {
+      "pos": "adj",
+      "example": "equal part",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25610.png",
+      "local_image_path": "images/25610.png"
+    },
+    {
+      "pos": "adj",
+      "example": "equal treatment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25611.png",
+      "local_image_path": "images/25611.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25612.png",
+      "local_image_path": "images/25612.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25613.png",
+      "local_image_path": "images/25613.png"
+    }
+  ],
+  "synonyms": [
+    "peer",
+    "match",
+    "equivalent",
+    "counterpart",
+    "parallel",
+    "rival",
+    "copy",
+    "meet",
+    "approximate"
+  ],
+  "antonyms": [
+    "unequal"
+  ],
+  "similar_words": [
+    "equal right",
+    "equalisation",
+    "equalise",
+    "equalitarian",
+    "equalitarianism",
+    "equality",
+    "equalization",
+    "equalize",
+    "equally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equal.mp3",
+  "local_sound_path": "sounds/equal.mp3"
+}

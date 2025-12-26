@@ -1,0 +1,32 @@
+{
+  "word": "wither",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The hot summer withered up the grass.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100637.png",
+      "local_image_path": "images/100637.png"
+    }
+  ],
+  "synonyms": [
+    "decline",
+    "fade",
+    "shrivel",
+    "wilt",
+    "shrink",
+    "droop"
+  ],
+  "antonyms": [
+    "bloom",
+    "strengthen"
+  ],
+  "similar_words": [
+    "withered",
+    "witherlock",
+    "withershins"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wither.mp3",
+  "local_sound_path": "sounds/wither.mp3"
+}

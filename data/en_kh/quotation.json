@@ -1,0 +1,48 @@
+{
+  "word": "quotation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Can you give me a quotation for building a garage?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69704.png",
+      "local_image_path": "images/69704.png"
+    },
+    {
+      "pos": "n",
+      "example": "famous quotation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69705.png",
+      "local_image_path": "images/69705.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69706.png",
+      "local_image_path": "images/69706.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69707.png",
+      "local_image_path": "images/69707.png"
+    }
+  ],
+  "synonyms": [
+    "estimate",
+    "price",
+    "figure",
+    "costing",
+    "quote",
+    "appraisal",
+    "estimation",
+    "assessment"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "quotational",
+    "quotationally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quotation.mp3",
+  "local_sound_path": "sounds/quotation.mp3"
+}

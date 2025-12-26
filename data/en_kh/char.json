@@ -1,0 +1,57 @@
+{
+  "word": "char",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13838.png",
+      "local_image_path": "images/13838.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13839.png",
+      "local_image_path": "images/13839.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13840.png",
+      "local_image_path": "images/13840.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13837.png",
+      "local_image_path": "images/13837.png"
+    }
+  ],
+  "synonyms": [
+    "burn",
+    "singe",
+    "scorch",
+    "carbonize",
+    "sear",
+    "cauterize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "charabanc",
+    "character",
+    "characterisation",
+    "characteristic",
+    "characteristically",
+    "characterize",
+    "characterizer",
+    "charactery",
+    "charade",
+    "charbroil",
+    "charcoal",
+    "chard",
+    "charge"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/char.mp3",
+  "local_sound_path": "sounds/char.mp3"
+}

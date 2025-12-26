@@ -1,0 +1,57 @@
+{
+  "word": "restrict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "restrict his movements",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72959.png",
+      "local_image_path": "images/72959.png"
+    },
+    {
+      "pos": "tv",
+      "example": "restrict trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72960.png",
+      "local_image_path": "images/72960.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127008.png",
+      "local_image_path": "images/127008.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127009.png",
+      "local_image_path": "images/127009.png"
+    }
+  ],
+  "synonyms": [
+    "limit",
+    "confine",
+    "curb",
+    "check",
+    "control",
+    "contain",
+    "hamper",
+    "constrain",
+    "impede",
+    "inhibit",
+    "constrict",
+    "cramp"
+  ],
+  "antonyms": [
+    "loosen"
+  ],
+  "similar_words": [
+    "restricted",
+    "restriction",
+    "restrictive",
+    "restrictively",
+    "restrictiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restrict.mp3",
+  "local_sound_path": "sounds/restrict.mp3"
+}

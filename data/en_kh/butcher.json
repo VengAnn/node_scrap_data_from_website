@@ -1,0 +1,35 @@
+{
+  "word": "butcher",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he works as a butcher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12064.png",
+      "local_image_path": "images/12064.png"
+    },
+    {
+      "pos": "tv",
+      "example": "butcher cows",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12065.png",
+      "local_image_path": "images/12065.png"
+    }
+  ],
+  "synonyms": [
+    "botch",
+    "ruin",
+    "bungle",
+    "spoil",
+    "masculine",
+    "muscular",
+    "strapping"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "butcherer",
+    "butchery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/butcher.mp3",
+  "local_sound_path": "sounds/butcher.mp3"
+}

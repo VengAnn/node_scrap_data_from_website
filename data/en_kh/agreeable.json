@@ -1,0 +1,54 @@
+{
+  "word": "agreeable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Is that agreeable with you?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3029.png",
+      "local_image_path": "images/3029.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113459.png",
+      "local_image_path": "images/113459.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113460.png",
+      "local_image_path": "images/113460.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3030.png",
+      "local_image_path": "images/3030.png"
+    }
+  ],
+  "synonyms": [
+    "amenable",
+    "willing",
+    "compliant",
+    "pleasant",
+    "pleasing",
+    "pleasurable",
+    "enjoyable",
+    "delightful",
+    "satisfying",
+    "good",
+    "comfortable",
+    "acceptable",
+    "suitable"
+  ],
+  "antonyms": [
+    "unpleasant",
+    "disagreeable",
+    "unwilling"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agreeable.mp3",
+  "local_sound_path": "sounds/agreeable.mp3"
+}

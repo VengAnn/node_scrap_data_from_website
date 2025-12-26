@@ -1,0 +1,25 @@
+{
+  "word": "hearsay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34265.png",
+      "local_image_path": "images/34265.png"
+    }
+  ],
+  "synonyms": [
+    "rumor",
+    "gossip",
+    "tittle-tattle",
+    "scuttlebutt"
+  ],
+  "antonyms": [
+    "fact"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hearsay.mp3",
+  "local_sound_path": "sounds/hearsay.mp3"
+}

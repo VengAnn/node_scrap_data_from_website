@@ -1,0 +1,24 @@
+{
+  "word": "bilabial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8866.png",
+      "local_image_path": "images/8866.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8867.png",
+      "local_image_path": "images/8867.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bilabial.mp3",
+  "local_sound_path": "sounds/bilabial.mp3"
+}

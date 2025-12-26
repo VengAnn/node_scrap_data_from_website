@@ -1,0 +1,61 @@
+{
+  "word": "stop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "cars stop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85022.png",
+      "local_image_path": "images/85022.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a stop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85023.png",
+      "local_image_path": "images/85023.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85024.png",
+      "local_image_path": "images/85024.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stop smoking",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85020.png",
+      "local_image_path": "images/85020.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85021.png",
+      "local_image_path": "images/85021.png"
+    }
+  ],
+  "synonyms": [
+    "block",
+    "obstruct",
+    "plug"
+  ],
+  "antonyms": [
+    "begin",
+    "permit"
+  ],
+  "similar_words": [
+    "stop payment",
+    "stop-gap",
+    "stop-press",
+    "stop-watch",
+    "stopcock",
+    "stoplight",
+    "stopover",
+    "stoppage",
+    "stopped",
+    "stopper",
+    "stopping-place"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stop.mp3",
+  "local_sound_path": "sounds/stop.mp3"
+}

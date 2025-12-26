@@ -1,0 +1,52 @@
+{
+  "word": "involved",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42098.png",
+      "local_image_path": "images/42098.png"
+    },
+    {
+      "pos": "adj",
+      "example": "involved in the crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42099.png",
+      "local_image_path": "images/42099.png"
+    },
+    {
+      "pos": "adj",
+      "example": "involved in his work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42100.png",
+      "local_image_path": "images/42100.png"
+    },
+    {
+      "pos": "adj",
+      "example": "situation is very involved",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42101.png",
+      "local_image_path": "images/42101.png"
+    }
+  ],
+  "synonyms": [
+    "complicated",
+    "complex",
+    "intricate",
+    "elaborate",
+    "knotty",
+    "tangled",
+    "difficult",
+    "convoluted",
+    "tortuous",
+    "concerned",
+    "affected",
+    "interested"
+  ],
+  "antonyms": [
+    "simple",
+    "bored"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/involved.mp3",
+  "local_sound_path": "sounds/involved.mp3"
+}

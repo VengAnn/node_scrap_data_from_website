@@ -1,0 +1,43 @@
+{
+  "word": "telephone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I will phone you tomorrow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88000.png",
+      "local_image_path": "images/88000.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87999.png",
+      "local_image_path": "images/87999.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88001.png",
+      "local_image_path": "images/88001.png"
+    }
+  ],
+  "synonyms": [
+    "call",
+    "phone",
+    "ring"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "telephone banking",
+    "telephone book",
+    "telephone booth",
+    "telephone directory",
+    "telephone exchange",
+    "telephone number",
+    "telephone tapping",
+    "telephoner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/telephone.mp3",
+  "local_sound_path": "sounds/telephone.mp3"
+}

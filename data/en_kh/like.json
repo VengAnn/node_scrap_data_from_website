@@ -1,0 +1,79 @@
+{
+  "word": "like",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "you are like your father",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46540.png",
+      "local_image_path": "images/46540.png"
+    },
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46542.png",
+      "local_image_path": "images/46542.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46538.png",
+      "local_image_path": "images/46538.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46541.png",
+      "local_image_path": "images/46541.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Do you like fish?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46535.png",
+      "local_image_path": "images/46535.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46536.png",
+      "local_image_path": "images/46536.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I would like to thank you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46537.png",
+      "local_image_path": "images/46537.png"
+    }
+  ],
+  "synonyms": [
+    "similar",
+    "comparable",
+    "enjoy",
+    "adore",
+    "love"
+  ],
+  "antonyms": [
+    "unlike",
+    "dislike"
+  ],
+  "similar_words": [
+    "like some",
+    "like-minded",
+    "like-mindedly",
+    "like-mindedness",
+    "like-sex",
+    "likeable",
+    "likelihood",
+    "likely",
+    "liken",
+    "likeness",
+    "liker",
+    "likes",
+    "likewise",
+    "likewisely",
+    "likewiseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/like.mp3",
+  "local_sound_path": "sounds/like.mp3"
+}

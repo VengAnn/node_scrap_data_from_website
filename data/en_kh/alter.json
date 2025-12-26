@@ -1,0 +1,65 @@
+{
+  "word": "alter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "alter one's course",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3651.png",
+      "local_image_path": "images/3651.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113588.png",
+      "local_image_path": "images/113588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113589.png",
+      "local_image_path": "images/113589.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113590.png",
+      "local_image_path": "images/113590.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113591.png",
+      "local_image_path": "images/113591.png"
+    }
+  ],
+  "synonyms": [
+    "change",
+    "modify",
+    "adjust",
+    "vary",
+    "amend",
+    "revise",
+    "rework",
+    "correct"
+  ],
+  "antonyms": [
+    "maintain"
+  ],
+  "similar_words": [
+    "alter ego",
+    "alterability",
+    "alterable",
+    "alterableness",
+    "alterably",
+    "alterant",
+    "alteration",
+    "alterative",
+    "altercate",
+    "altercation",
+    "alterego"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alter.mp3",
+  "local_sound_path": "sounds/alter.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "disquiet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22118.png",
+      "local_image_path": "images/22118.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118598.png",
+      "local_image_path": "images/118598.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118599.png",
+      "local_image_path": "images/118599.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22119.png",
+      "local_image_path": "images/22119.png"
+    }
+  ],
+  "synonyms": [
+    "unrest",
+    "uneasiness",
+    "concern",
+    "worry",
+    "anxiety",
+    "foreboding",
+    "alarm"
+  ],
+  "antonyms": [
+    "calmness"
+  ],
+  "similar_words": [
+    "disquieting",
+    "disquietingly",
+    "disquietly",
+    "disquietness",
+    "disquietude"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disquiet.mp3",
+  "local_sound_path": "sounds/disquiet.mp3"
+}

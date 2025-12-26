@@ -1,0 +1,39 @@
+{
+  "word": "growth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "population growth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33097.png",
+      "local_image_path": "images/33097.png"
+    },
+    {
+      "pos": "n",
+      "example": "malignant growth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33098.png",
+      "local_image_path": "images/33098.png"
+    }
+  ],
+  "synonyms": [
+    "tumor",
+    "cyst",
+    "lump",
+    "swelling",
+    "enlargement",
+    "increase",
+    "expansion",
+    "development",
+    "augmentation",
+    "intensification",
+    "escalation"
+  ],
+  "antonyms": [
+    "reduction",
+    "decay"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/growth.mp3",
+  "local_sound_path": "sounds/growth.mp3"
+}

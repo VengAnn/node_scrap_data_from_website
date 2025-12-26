@@ -1,0 +1,61 @@
+{
+  "word": "expect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26742.png",
+      "local_image_path": "images/26742.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She spects a baby.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26743.png",
+      "local_image_path": "images/26743.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119671.png",
+      "local_image_path": "images/119671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119672.png",
+      "local_image_path": "images/119672.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119673.png",
+      "local_image_path": "images/119673.png"
+    }
+  ],
+  "synonyms": [
+    "require",
+    "demand",
+    "anticipate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "expectance",
+    "expectancy",
+    "expectant",
+    "expectant mother",
+    "expectantly",
+    "expectation",
+    "expectative",
+    "expected",
+    "expected profit",
+    "expecting",
+    "expecting mother",
+    "expectorant",
+    "expectorate",
+    "expectoration"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expect.mp3",
+  "local_sound_path": "sounds/expect.mp3"
+}

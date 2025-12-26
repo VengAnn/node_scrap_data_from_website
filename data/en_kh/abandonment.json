@@ -1,0 +1,35 @@
+{
+  "word": "abandonment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "abandonment of a ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1317.png",
+      "local_image_path": "images/1317.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112966.png",
+      "local_image_path": "images/112966.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112967.png",
+      "local_image_path": "images/112967.png"
+    }
+  ],
+  "synonyms": [
+    "desertion",
+    "rejection",
+    "neglect",
+    "relinquishment"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abandonment.mp3",
+  "local_sound_path": "sounds/abandonment.mp3"
+}

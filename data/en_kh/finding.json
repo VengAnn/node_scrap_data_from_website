@@ -1,0 +1,32 @@
+{
+  "word": "finding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "finding of the court",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28592.png",
+      "local_image_path": "images/28592.png"
+    },
+    {
+      "pos": "n",
+      "example": "finding of his research",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28593.png",
+      "local_image_path": "images/28593.png"
+    }
+  ],
+  "synonyms": [
+    "discovery",
+    "conclusion",
+    "result",
+    "learning",
+    "observing"
+  ],
+  "antonyms": [
+    "losing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/finding.mp3",
+  "local_sound_path": "sounds/finding.mp3"
+}

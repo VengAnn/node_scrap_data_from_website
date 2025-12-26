@@ -1,0 +1,36 @@
+{
+  "word": "triad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91571.png",
+      "local_image_path": "images/91571.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91572.png",
+      "local_image_path": "images/91572.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91573.png",
+      "local_image_path": "images/91573.png"
+    }
+  ],
+  "synonyms": [
+    "harmony",
+    "chord",
+    "arpeggio"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "triadic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/triad.mp3",
+  "local_sound_path": "sounds/triad.mp3"
+}

@@ -1,0 +1,77 @@
+{
+  "word": "jog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43115.png",
+      "local_image_path": "images/43115.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43119.png",
+      "local_image_path": "images/43119.png"
+    },
+    {
+      "pos": "n",
+      "example": "give him a jog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43120.png",
+      "local_image_path": "images/43120.png"
+    },
+    {
+      "pos": "n",
+      "example": "run at a jog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43121.png",
+      "local_image_path": "images/43121.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The horse jogged its rider up and down.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43114.png",
+      "local_image_path": "images/43114.png"
+    },
+    {
+      "pos": "tv",
+      "example": "jog one's memory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43116.png",
+      "local_image_path": "images/43116.png"
+    },
+    {
+      "pos": "tv",
+      "example": "jog papers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43117.png",
+      "local_image_path": "images/43117.png"
+    },
+    {
+      "pos": "tv",
+      "example": "jog a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43118.png",
+      "local_image_path": "images/43118.png"
+    }
+  ],
+  "synonyms": [
+    "nudge",
+    "prod",
+    "bump",
+    "bang",
+    "hit",
+    "push",
+    "shake",
+    "run",
+    "trot",
+    "train",
+    "exercise",
+    "sprint"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jogger",
+    "jogging",
+    "joggle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jog.mp3",
+  "local_sound_path": "sounds/jog.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "caddy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "would you like me to caddy for you?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12279.png",
+      "local_image_path": "images/12279.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12278.png",
+      "local_image_path": "images/12278.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12284.png",
+      "local_image_path": "images/12284.png"
+    }
+  ],
+  "synonyms": [
+    "assist",
+    "transport",
+    "carry"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caddy.mp3",
+  "local_sound_path": "sounds/caddy.mp3"
+}

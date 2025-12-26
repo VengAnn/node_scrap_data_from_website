@@ -1,0 +1,61 @@
+{
+  "word": "one",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "one house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57586.png",
+      "local_image_path": "images/57586.png"
+    },
+    {
+      "pos": "n",
+      "example": "You are number one.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57587.png",
+      "local_image_path": "images/57587.png"
+    }
+  ],
+  "synonyms": [
+    "single",
+    "solitary",
+    "lone",
+    "individual",
+    "any",
+    "some",
+    "several"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "one horse",
+    "one legged",
+    "one piece",
+    "one-arched",
+    "one-armed",
+    "one-armed bandit",
+    "one-edged",
+    "one-eyed",
+    "one-fold",
+    "one-gazer",
+    "one-handed",
+    "one-man",
+    "one-night stand",
+    "one-shot",
+    "one-sided",
+    "one-sidedly",
+    "one-sidedness",
+    "one-storied",
+    "one-time",
+    "one-to one",
+    "oneiric",
+    "oneirocritic",
+    "oneirocritical",
+    "oneirology",
+    "oneiromancer",
+    "oneiromancy",
+    "oneness",
+    "onerary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/one.mp3",
+  "local_sound_path": "sounds/one.mp3"
+}

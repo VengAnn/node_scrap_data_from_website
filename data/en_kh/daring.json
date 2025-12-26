@@ -1,0 +1,42 @@
+{
+  "word": "daring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19637.png",
+      "local_image_path": "images/19637.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19638.png",
+      "local_image_path": "images/19638.png"
+    }
+  ],
+  "synonyms": [
+    "bravery",
+    "bottle",
+    "nerve",
+    "boldness",
+    "audacity",
+    "courage",
+    "heroism",
+    "challenging",
+    "provoking",
+    "urging"
+  ],
+  "antonyms": [
+    "cowardly",
+    "cowardice",
+    "safe"
+  ],
+  "similar_words": [
+    "daringly",
+    "daringness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/daring.mp3",
+  "local_sound_path": "sounds/daring.mp3"
+}

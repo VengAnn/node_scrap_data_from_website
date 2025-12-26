@@ -1,0 +1,45 @@
+{
+  "word": "isolation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "isolation of patients",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42453.png",
+      "local_image_path": "images/42453.png"
+    },
+    {
+      "pos": "n",
+      "example": "isolation of the village",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42454.png",
+      "local_image_path": "images/42454.png"
+    },
+    {
+      "pos": "n",
+      "example": "put patients in isolation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42455.png",
+      "local_image_path": "images/42455.png"
+    }
+  ],
+  "synonyms": [
+    "separation",
+    "segregation",
+    "remoteness",
+    "loneliness",
+    "seclusion",
+    "inaccessibility",
+    "sequestration",
+    "quarantine"
+  ],
+  "antonyms": [
+    "inclusion"
+  ],
+  "similar_words": [
+    "isolation hospital",
+    "isolationism",
+    "isolationist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/isolation.mp3",
+  "local_sound_path": "sounds/isolation.mp3"
+}

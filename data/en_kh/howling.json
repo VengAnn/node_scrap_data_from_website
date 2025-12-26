@@ -1,0 +1,33 @@
+{
+  "word": "howling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36202.png",
+      "local_image_path": "images/36202.png"
+    },
+    {
+      "pos": "adj",
+      "example": "howling success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36203.png",
+      "local_image_path": "images/36203.png"
+    }
+  ],
+  "synonyms": [
+    "crying",
+    "lamentation",
+    "cry",
+    "weeping",
+    "dirge"
+  ],
+  "antonyms": [
+    "gentle",
+    "celebration"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/howling.mp3",
+  "local_sound_path": "sounds/howling.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "dissonance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22233.png",
+      "local_image_path": "images/22233.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118632.png",
+      "local_image_path": "images/118632.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118633.png",
+      "local_image_path": "images/118633.png"
+    }
+  ],
+  "synonyms": [
+    "discord",
+    "disagreement",
+    "dissension",
+    "conflict",
+    "difference"
+  ],
+  "antonyms": [
+    "harmony"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissonance.mp3",
+  "local_sound_path": "sounds/dissonance.mp3"
+}

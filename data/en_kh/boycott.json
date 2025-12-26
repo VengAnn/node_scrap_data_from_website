@@ -1,0 +1,37 @@
+{
+  "word": "boycott",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10470.png",
+      "local_image_path": "images/10470.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115505.png",
+      "local_image_path": "images/115505.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10469.png",
+      "local_image_path": "images/10469.png"
+    }
+  ],
+  "synonyms": [
+    "refuse",
+    "embargo",
+    "shun",
+    "proscribe",
+    "prohibit",
+    "reject"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boycott.mp3",
+  "local_sound_path": "sounds/boycott.mp3"
+}

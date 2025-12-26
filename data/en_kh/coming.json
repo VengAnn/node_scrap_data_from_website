@@ -1,0 +1,46 @@
+{
+  "word": "coming",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "coming attraction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15931.png",
+      "local_image_path": "images/15931.png"
+    },
+    {
+      "pos": "n",
+      "example": "coming politician",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15932.png",
+      "local_image_path": "images/15932.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116755.png",
+      "local_image_path": "images/116755.png"
+    }
+  ],
+  "synonyms": [
+    "emergence",
+    "appearance",
+    "development",
+    "introduction",
+    "launch",
+    "advent",
+    "stretching",
+    "going",
+    "touching"
+  ],
+  "antonyms": [
+    "distant",
+    "departure",
+    "going"
+  ],
+  "similar_words": [
+    "coming out"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coming.mp3",
+  "local_sound_path": "sounds/coming.mp3"
+}

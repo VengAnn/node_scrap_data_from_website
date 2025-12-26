@@ -1,0 +1,76 @@
+{
+  "word": "void",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98474.png",
+      "local_image_path": "images/98474.png"
+    },
+    {
+      "pos": "adj",
+      "example": "void passport",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98475.png",
+      "local_image_path": "images/98475.png"
+    },
+    {
+      "pos": "adj",
+      "example": "void space",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98476.png",
+      "local_image_path": "images/98476.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98481.png",
+      "local_image_path": "images/98481.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98477.png",
+      "local_image_path": "images/98477.png"
+    },
+    {
+      "pos": "tv",
+      "example": "void a contract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98478.png",
+      "local_image_path": "images/98478.png"
+    },
+    {
+      "pos": "tv",
+      "example": "void the contents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98479.png",
+      "local_image_path": "images/98479.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98480.png",
+      "local_image_path": "images/98480.png"
+    }
+  ],
+  "synonyms": [
+    "cancel",
+    "annul",
+    "vacate",
+    "reject",
+    "empty"
+  ],
+  "antonyms": [
+    "valid"
+  ],
+  "similar_words": [
+    "voidability",
+    "voidable",
+    "voidance",
+    "voided",
+    "voider",
+    "voiding",
+    "voidness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/void.mp3",
+  "local_sound_path": "sounds/void.mp3"
+}

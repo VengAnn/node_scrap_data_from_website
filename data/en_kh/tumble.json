@@ -1,0 +1,79 @@
+{
+  "word": "tumble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "walls tumble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92324.png",
+      "local_image_path": "images/92324.png"
+    },
+    {
+      "pos": "iv",
+      "example": "markets tumble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92325.png",
+      "local_image_path": "images/92325.png"
+    },
+    {
+      "pos": "iv",
+      "example": "likes to tumble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92326.png",
+      "local_image_path": "images/92326.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92327.png",
+      "local_image_path": "images/92327.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92328.png",
+      "local_image_path": "images/92328.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a tumble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92330.png",
+      "local_image_path": "images/92330.png"
+    },
+    {
+      "pos": "n",
+      "example": "room was in a tumble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92331.png",
+      "local_image_path": "images/92331.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92329.png",
+      "local_image_path": "images/92329.png"
+    }
+  ],
+  "synonyms": [
+    "stumble",
+    "fall",
+    "drop",
+    "plunge",
+    "dive",
+    "topple",
+    "plummet",
+    "lurch",
+    "nose-dive",
+    "stand up"
+  ],
+  "antonyms": [
+    "rise"
+  ],
+  "similar_words": [
+    "tumble drier",
+    "tumbledown",
+    "tumbleful",
+    "tumbler",
+    "tumblerweel"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tumble.mp3",
+  "local_sound_path": "sounds/tumble.mp3"
+}

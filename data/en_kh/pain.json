@@ -1,0 +1,96 @@
+{
+  "word": "pain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59301.png",
+      "local_image_path": "images/59301.png"
+    },
+    {
+      "pos": "n",
+      "example": "physical pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59296.png",
+      "local_image_path": "images/59296.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59297.png",
+      "local_image_path": "images/59297.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59298.png",
+      "local_image_path": "images/59298.png"
+    },
+    {
+      "pos": "n",
+      "example": "on pain of dealth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59299.png",
+      "local_image_path": "images/59299.png"
+    },
+    {
+      "pos": "n",
+      "example": "feel no pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59302.png",
+      "local_image_path": "images/59302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Your laziness pain your parents.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59300.png",
+      "local_image_path": "images/59300.png"
+    }
+  ],
+  "synonyms": [
+    "nuisance",
+    "bother",
+    "drag",
+    "bind",
+    "pest",
+    "menace",
+    "sadden",
+    "distress",
+    "upset",
+    "disturb",
+    "grieve",
+    "displease",
+    "worry"
+  ],
+  "antonyms": [
+    "pleasure",
+    "joy",
+    "hearten"
+  ],
+  "similar_words": [
+    "pain killer",
+    "pain-killer",
+    "pain-killing",
+    "pained",
+    "painful",
+    "painfully",
+    "painfulness",
+    "painless",
+    "painlessly",
+    "painlessness",
+    "pains",
+    "pains worthy",
+    "painstaker",
+    "painstaking",
+    "painstakingly",
+    "paint",
+    "paint box",
+    "paint-can",
+    "paint-work",
+    "paintable",
+    "paintbrush",
+    "painted",
+    "painter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pain.mp3",
+  "local_sound_path": "sounds/pain.mp3"
+}

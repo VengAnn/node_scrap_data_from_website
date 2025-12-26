@@ -1,0 +1,33 @@
+{
+  "word": "anarchism",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4118.png",
+      "local_image_path": "images/4118.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113695.png",
+      "local_image_path": "images/113695.png"
+    }
+  ],
+  "synonyms": [
+    "disorder",
+    "chaos",
+    "lawlessness",
+    "revolution",
+    "mayhem",
+    "rebellion"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anarchism.mp3",
+  "local_sound_path": "sounds/anarchism.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "nothing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He's a nothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56411.png",
+      "local_image_path": "images/56411.png"
+    },
+    {
+      "pos": "pron",
+      "example": "get it for nothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56410.png",
+      "local_image_path": "images/56410.png"
+    },
+    {
+      "pos": "pron",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124742.png",
+      "local_image_path": "images/124742.png"
+    },
+    {
+      "pos": "pron",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124743.png",
+      "local_image_path": "images/124743.png"
+    }
+  ],
+  "synonyms": [
+    "nonentity",
+    "nobody",
+    "naught",
+    "zero",
+    "nil"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "nothing-worth",
+    "nothingarian",
+    "nothingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nothing.mp3",
+  "local_sound_path": "sounds/nothing.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "amendment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "amendment of the contract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3844.png",
+      "local_image_path": "images/3844.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112448.png",
+      "local_image_path": "images/112448.png"
+    }
+  ],
+  "synonyms": [
+    "alteration",
+    "adjustment",
+    "modification",
+    "revision",
+    "change",
+    "improvement",
+    "correction"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amendment.mp3",
+  "local_sound_path": "sounds/amendment.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "cluster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15216.png",
+      "local_image_path": "images/15216.png"
+    },
+    {
+      "pos": "n",
+      "example": "cluster of trees",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15215.png",
+      "local_image_path": "images/15215.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15217.png",
+      "local_image_path": "images/15217.png"
+    }
+  ],
+  "synonyms": [
+    "bunch",
+    "group",
+    "collection",
+    "band",
+    "gathering",
+    "constellation",
+    "knot",
+    "mass",
+    "nugget",
+    "gather",
+    "collect",
+    "huddle",
+    "crowd",
+    "bundle",
+    "assemble"
+  ],
+  "antonyms": [
+    "disperse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cluster.mp3",
+  "local_sound_path": "sounds/cluster.mp3"
+}

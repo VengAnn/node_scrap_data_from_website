@@ -1,0 +1,51 @@
+{
+  "word": "adequate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "5000 riel a month is not adequate to support a family of three persons",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2352.png",
+      "local_image_path": "images/2352.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113238.png",
+      "local_image_path": "images/113238.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113239.png",
+      "local_image_path": "images/113239.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113240.png",
+      "local_image_path": "images/113240.png"
+    }
+  ],
+  "synonyms": [
+    "passable",
+    "satisfactory",
+    "tolerable",
+    "acceptable",
+    "sufficient",
+    "ample",
+    "enough",
+    "plenty"
+  ],
+  "antonyms": [
+    "insufficient",
+    "inadequate"
+  ],
+  "similar_words": [
+    "adequately",
+    "adequateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adequate.mp3",
+  "local_sound_path": "sounds/adequate.mp3"
+}

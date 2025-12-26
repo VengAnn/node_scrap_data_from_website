@@ -1,0 +1,53 @@
+{
+  "word": "designate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "secretary designate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20854.png",
+      "local_image_path": "images/20854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "designate a successor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20852.png",
+      "local_image_path": "images/20852.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20853.png",
+      "local_image_path": "images/20853.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118118.png",
+      "local_image_path": "images/118118.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118119.png",
+      "local_image_path": "images/118119.png"
+    }
+  ],
+  "synonyms": [
+    "elect",
+    "assign",
+    "select",
+    "choose",
+    "delegate",
+    "allocate",
+    "appoint",
+    "authorize",
+    "specify",
+    "indicate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/designate.mp3",
+  "local_sound_path": "sounds/designate.mp3"
+}

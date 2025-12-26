@@ -1,0 +1,50 @@
+{
+  "word": "precision",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "predict with precision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66046.png",
+      "local_image_path": "images/66046.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125844.png",
+      "local_image_path": "images/125844.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125845.png",
+      "local_image_path": "images/125845.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125846.png",
+      "local_image_path": "images/125846.png"
+    }
+  ],
+  "synonyms": [
+    "accuracy",
+    "exactitude",
+    "exactness",
+    "care",
+    "meticulousness",
+    "correctness",
+    "fastidiousness",
+    "strictness"
+  ],
+  "antonyms": [
+    "vagueness"
+  ],
+  "similar_words": [
+    "precisionism",
+    "precisionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/precision.mp3",
+  "local_sound_path": "sounds/precision.mp3"
+}

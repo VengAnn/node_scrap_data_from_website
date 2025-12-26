@@ -1,0 +1,53 @@
+{
+  "word": "import",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37844.png",
+      "local_image_path": "images/37844.png"
+    },
+    {
+      "pos": "tv",
+      "example": "import cars.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37843.png",
+      "local_image_path": "images/37843.png"
+    }
+  ],
+  "synonyms": [
+    "significance",
+    "importance",
+    "consequence",
+    "weight",
+    "meaning",
+    "solemnity",
+    "seriousness",
+    "introduce",
+    "smuggle"
+  ],
+  "antonyms": [
+    "export"
+  ],
+  "similar_words": [
+    "import ban",
+    "import permit",
+    "import-export",
+    "importability",
+    "importable",
+    "importance",
+    "important",
+    "importantly",
+    "importation",
+    "importer",
+    "importing",
+    "importless",
+    "imports",
+    "importunate",
+    "importunately",
+    "importunateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/import.mp3",
+  "local_sound_path": "sounds/import.mp3"
+}

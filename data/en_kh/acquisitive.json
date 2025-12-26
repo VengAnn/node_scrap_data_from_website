@@ -1,0 +1,42 @@
+{
+  "word": "acquisitive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2143.png",
+      "local_image_path": "images/2143.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113193.png",
+      "local_image_path": "images/113193.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113194.png",
+      "local_image_path": "images/113194.png"
+    }
+  ],
+  "synonyms": [
+    "greedy",
+    "avid",
+    "covetous",
+    "grasping",
+    "avaricious",
+    "materialistic"
+  ],
+  "antonyms": [
+    "generous"
+  ],
+  "similar_words": [
+    "acquisitively",
+    "acquisitiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acquisitive.mp3",
+  "local_sound_path": "sounds/acquisitive.mp3"
+}

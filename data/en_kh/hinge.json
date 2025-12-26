@@ -1,0 +1,46 @@
+{
+  "word": "hinge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hinge on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35261.png",
+      "local_image_path": "images/35261.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35259.png",
+      "local_image_path": "images/35259.png"
+    },
+    {
+      "pos": "n",
+      "example": "off the hinge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35260.png",
+      "local_image_path": "images/35260.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35262.png",
+      "local_image_path": "images/35262.png"
+    }
+  ],
+  "synonyms": [
+    "pivot",
+    "axis",
+    "center",
+    "crux",
+    "fulcrum",
+    "joint"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hinged",
+    "hingeless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hinge.mp3",
+  "local_sound_path": "sounds/hinge.mp3"
+}

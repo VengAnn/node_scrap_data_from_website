@@ -1,0 +1,58 @@
+{
+  "word": "disgust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21881.png",
+      "local_image_path": "images/21881.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118485.png",
+      "local_image_path": "images/118485.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118486.png",
+      "local_image_path": "images/118486.png"
+    },
+    {
+      "pos": "tv",
+      "example": "snakes disgust her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21880.png",
+      "local_image_path": "images/21880.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118487.png",
+      "local_image_path": "images/118487.png"
+    }
+  ],
+  "synonyms": [
+    "sicken",
+    "repulse",
+    "revolt",
+    "repel",
+    "shock",
+    "nauseate"
+  ],
+  "antonyms": [
+    "attraction",
+    "please"
+  ],
+  "similar_words": [
+    "disgusted",
+    "disgustedly",
+    "disgustful",
+    "disgusting",
+    "disgustingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disgust.mp3",
+  "local_sound_path": "sounds/disgust.mp3"
+}

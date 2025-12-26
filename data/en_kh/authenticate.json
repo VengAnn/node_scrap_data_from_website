@@ -1,0 +1,32 @@
+{
+  "word": "authenticate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6506.png",
+      "local_image_path": "images/6506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112903.png",
+      "local_image_path": "images/112903.png"
+    }
+  ],
+  "synonyms": [
+    "validate",
+    "confirm",
+    "verify",
+    "substantiate",
+    "endorse",
+    "indorse",
+    "check"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authenticate.mp3",
+  "local_sound_path": "sounds/authenticate.mp3"
+}

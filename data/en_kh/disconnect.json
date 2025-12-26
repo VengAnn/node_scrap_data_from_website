@@ -1,0 +1,31 @@
+{
+  "word": "disconnect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "If you don't pay your bill, they will disconnect your electricity.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21698.png",
+      "local_image_path": "images/21698.png"
+    }
+  ],
+  "synonyms": [
+    "separate",
+    "detach",
+    "disengage",
+    "divide",
+    "remove",
+    "sever"
+  ],
+  "antonyms": [
+    "connect"
+  ],
+  "similar_words": [
+    "disconnected",
+    "disconnectedly",
+    "disconnection"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disconnect.mp3",
+  "local_sound_path": "sounds/disconnect.mp3"
+}

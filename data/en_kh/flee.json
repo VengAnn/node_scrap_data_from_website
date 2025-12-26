@@ -1,0 +1,47 @@
+{
+  "word": "flee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "During the civil war thousands of people fled the country.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29003.png",
+      "local_image_path": "images/29003.png"
+    },
+    {
+      "pos": "iv",
+      "example": "All hope had fled.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29004.png",
+      "local_image_path": "images/29004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29005.png",
+      "local_image_path": "images/29005.png"
+    }
+  ],
+  "synonyms": [
+    "escape",
+    "fly",
+    "abscond",
+    "bolt"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fleece",
+    "fleecily",
+    "fleeciness",
+    "fleecy",
+    "fleense",
+    "fleer",
+    "fleet",
+    "fleeting",
+    "fleetingly",
+    "fleetly",
+    "fleetness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flee.mp3",
+  "local_sound_path": "sounds/flee.mp3"
+}

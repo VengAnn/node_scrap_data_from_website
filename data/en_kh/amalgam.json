@@ -1,0 +1,36 @@
+{
+  "word": "amalgam",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "subtles amalgam of spices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3729.png",
+      "local_image_path": "images/3729.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113614.png",
+      "local_image_path": "images/113614.png"
+    }
+  ],
+  "synonyms": [
+    "mixture",
+    "mix",
+    "combination",
+    "blend",
+    "amalgamation",
+    "fusion"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "amalgamate",
+    "amalgamation",
+    "amalgamative",
+    "amalgamator"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amalgam.mp3",
+  "local_sound_path": "sounds/amalgam.mp3"
+}

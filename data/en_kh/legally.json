@@ -1,0 +1,32 @@
+{
+  "word": "legally",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45704.png",
+      "local_image_path": "images/45704.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123451.png",
+      "local_image_path": "images/123451.png"
+    }
+  ],
+  "synonyms": [
+    "lawfully",
+    "officially",
+    "validly",
+    "rightfully",
+    "legitimately"
+  ],
+  "antonyms": [
+    "illegally"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/legally.mp3",
+  "local_sound_path": "sounds/legally.mp3"
+}

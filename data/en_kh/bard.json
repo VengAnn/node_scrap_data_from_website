@@ -1,0 +1,30 @@
+{
+  "word": "bard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7445.png",
+      "local_image_path": "images/7445.png"
+    }
+  ],
+  "synonyms": [
+    "poet",
+    "writer",
+    "lyricist",
+    "rhymester",
+    "versifier",
+    "composer",
+    "songster",
+    "poetaster"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bardic",
+    "bardocucullous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bard.mp3",
+  "local_sound_path": "sounds/bard.mp3"
+}

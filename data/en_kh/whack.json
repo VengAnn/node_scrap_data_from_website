@@ -1,0 +1,57 @@
+{
+  "word": "whack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99869.png",
+      "local_image_path": "images/99869.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99870.png",
+      "local_image_path": "images/99870.png"
+    },
+    {
+      "pos": "sl",
+      "example": "whack out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99871.png",
+      "local_image_path": "images/99871.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99868.png",
+      "local_image_path": "images/99868.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99872.png",
+      "local_image_path": "images/99872.png"
+    }
+  ],
+  "synonyms": [
+    "thump",
+    "wallop",
+    "slap",
+    "thwack",
+    "clout",
+    "smack",
+    "hit",
+    "strike",
+    "belt"
+  ],
+  "antonyms": [
+    "blow"
+  ],
+  "similar_words": [
+    "whacked",
+    "whacking"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whack.mp3",
+  "local_sound_path": "sounds/whack.mp3"
+}

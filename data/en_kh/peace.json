@@ -1,0 +1,70 @@
+{
+  "word": "peace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "world peace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60873.png",
+      "local_image_path": "images/60873.png"
+    },
+    {
+      "pos": "n",
+      "example": "peace of mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60874.png",
+      "local_image_path": "images/60874.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60875.png",
+      "local_image_path": "images/60875.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125259.png",
+      "local_image_path": "images/125259.png"
+    }
+  ],
+  "synonyms": [
+    "concord",
+    "amity",
+    "harmony",
+    "reconciliation",
+    "calm",
+    "quiet",
+    "stillness",
+    "tranquility",
+    "silence",
+    "serenity"
+  ],
+  "antonyms": [
+    "uproar",
+    "war"
+  ],
+  "similar_words": [
+    "peace-breaker",
+    "peace-lover",
+    "peace-offering",
+    "peace-pipe",
+    "peaceable",
+    "peaceable enjoyment",
+    "peaceable possession",
+    "peaceableness",
+    "peaceably",
+    "peaceful",
+    "peaceful coexistence",
+    "peaceful means",
+    "peacefully",
+    "peacefulness",
+    "peacekeeping",
+    "peaceless",
+    "peacemaker",
+    "peacemaking",
+    "peacetime"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peace.mp3",
+  "local_sound_path": "sounds/peace.mp3"
+}

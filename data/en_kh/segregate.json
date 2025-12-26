@@ -1,0 +1,47 @@
+{
+  "word": "segregate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77733.png",
+      "local_image_path": "images/77733.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77732.png",
+      "local_image_path": "images/77732.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77731.png",
+      "local_image_path": "images/77731.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127610.png",
+      "local_image_path": "images/127610.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127611.png",
+      "local_image_path": "images/127611.png"
+    }
+  ],
+  "synonyms": [
+    "separate",
+    "isolate"
+  ],
+  "antonyms": [
+    "integrate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/segregate.mp3",
+  "local_sound_path": "sounds/segregate.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "reticence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73080.png",
+      "local_image_path": "images/73080.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73079.png",
+      "local_image_path": "images/73079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127033.png",
+      "local_image_path": "images/127033.png"
+    }
+  ],
+  "synonyms": [
+    "shyness",
+    "bashfulness",
+    "reserve",
+    "quietness",
+    "modesty",
+    "introversion"
+  ],
+  "antonyms": [
+    "boldness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reticence.mp3",
+  "local_sound_path": "sounds/reticence.mp3"
+}

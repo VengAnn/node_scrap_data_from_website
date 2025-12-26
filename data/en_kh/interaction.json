@@ -1,0 +1,36 @@
+{
+  "word": "interaction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41069.png",
+      "local_image_path": "images/41069.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122697.png",
+      "local_image_path": "images/122697.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122698.png",
+      "local_image_path": "images/122698.png"
+    }
+  ],
+  "synonyms": [
+    "communication",
+    "contact",
+    "interface",
+    "dealings",
+    "collaboration"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interaction.mp3",
+  "local_sound_path": "sounds/interaction.mp3"
+}

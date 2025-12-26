@@ -1,0 +1,31 @@
+{
+  "word": "commend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "her teaching was highly commended",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15970.png",
+      "local_image_path": "images/15970.png"
+    }
+  ],
+  "synonyms": [
+    "entrust",
+    "convey",
+    "commit",
+    "give"
+  ],
+  "antonyms": [
+    "denigrate",
+    "keep"
+  ],
+  "similar_words": [
+    "commendable",
+    "commendably",
+    "commendation",
+    "commendatory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/commend.mp3",
+  "local_sound_path": "sounds/commend.mp3"
+}

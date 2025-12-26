@@ -1,0 +1,40 @@
+{
+  "word": "accrual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1933.png",
+      "local_image_path": "images/1933.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113153.png",
+      "local_image_path": "images/113153.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113154.png",
+      "local_image_path": "images/113154.png"
+    }
+  ],
+  "synonyms": [
+    "accumulation",
+    "increase",
+    "accretion",
+    "addition",
+    "growth",
+    "enlargement",
+    "build up"
+  ],
+  "antonyms": [
+    "loss"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accrual.mp3",
+  "local_sound_path": "sounds/accrual.mp3"
+}

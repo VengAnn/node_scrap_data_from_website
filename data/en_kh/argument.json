@@ -1,0 +1,64 @@
+{
+  "word": "argument",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "convincing argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5451.png",
+      "local_image_path": "images/5451.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112688.png",
+      "local_image_path": "images/112688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112689.png",
+      "local_image_path": "images/112689.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112690.png",
+      "local_image_path": "images/112690.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112691.png",
+      "local_image_path": "images/112691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112692.png",
+      "local_image_path": "images/112692.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131925.png",
+      "local_image_path": "images/131925.png"
+    }
+  ],
+  "synonyms": [
+    "case",
+    "reason",
+    "contention",
+    "claim"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "argumenta",
+    "argumentation",
+    "argumentative",
+    "argumentum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/argument.mp3",
+  "local_sound_path": "sounds/argument.mp3"
+}

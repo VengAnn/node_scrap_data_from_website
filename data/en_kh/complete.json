@@ -1,0 +1,80 @@
+{
+  "word": "complete",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "a complete edition of shakespeare's works",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16251.png",
+      "local_image_path": "images/16251.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111600.png",
+      "local_image_path": "images/111600.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116892.png",
+      "local_image_path": "images/116892.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116893.png",
+      "local_image_path": "images/116893.png"
+    },
+    {
+      "pos": "tv",
+      "example": "whe will the railway be completed?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16252.png",
+      "local_image_path": "images/16252.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116894.png",
+      "local_image_path": "images/116894.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116895.png",
+      "local_image_path": "images/116895.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116896.png",
+      "local_image_path": "images/116896.png"
+    }
+  ],
+  "synonyms": [
+    "extreme",
+    "utter",
+    "great",
+    "absolute",
+    "downright",
+    "perfect",
+    "accomplish",
+    "achieve",
+    "fulfill",
+    "realize"
+  ],
+  "antonyms": [
+    "partial",
+    "start",
+    "unfinished",
+    "imperfect"
+  ],
+  "similar_words": [
+    "complete performance",
+    "completely",
+    "completeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/complete.mp3",
+  "local_sound_path": "sounds/complete.mp3"
+}

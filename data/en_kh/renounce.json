@@ -1,0 +1,46 @@
+{
+  "word": "renounce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72193.png",
+      "local_image_path": "images/72193.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72194.png",
+      "local_image_path": "images/72194.png"
+    }
+  ],
+  "synonyms": [
+    "reject",
+    "relinquish",
+    "abandon",
+    "forsake",
+    "leave",
+    "refuse",
+    "surrender",
+    "turn down",
+    "repudiate",
+    "disown",
+    "abdicate",
+    "demit",
+    "disavow",
+    "desert",
+    "quit"
+  ],
+  "antonyms": [
+    "accept",
+    "embrace"
+  ],
+  "similar_words": [
+    "renouncement",
+    "renouncer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/renounce.mp3",
+  "local_sound_path": "sounds/renounce.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "wreckage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "gather up the wreckage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101117.png",
+      "local_image_path": "images/101117.png"
+    },
+    {
+      "pos": "n",
+      "example": "widespread wreckage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101118.png",
+      "local_image_path": "images/101118.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101119.png",
+      "local_image_path": "images/101119.png"
+    }
+  ],
+  "synonyms": [
+    "ruins",
+    "remains",
+    "debris",
+    "wreck",
+    "rubble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wreckager"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wreckage.mp3",
+  "local_sound_path": "sounds/wreckage.mp3"
+}

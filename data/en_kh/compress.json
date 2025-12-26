@@ -1,0 +1,86 @@
+{
+  "word": "compress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16333.png",
+      "local_image_path": "images/16333.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16332.png",
+      "local_image_path": "images/16332.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116951.png",
+      "local_image_path": "images/116951.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116952.png",
+      "local_image_path": "images/116952.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116953.png",
+      "local_image_path": "images/116953.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116954.png",
+      "local_image_path": "images/116954.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131396.png",
+      "local_image_path": "images/131396.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16331.png",
+      "local_image_path": "images/16331.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16330.png",
+      "local_image_path": "images/16330.png"
+    }
+  ],
+  "synonyms": [
+    "bandage",
+    "wrapping",
+    "squeeze",
+    "condense",
+    "squash",
+    "reduce",
+    "constrict",
+    "compact",
+    "tamp"
+  ],
+  "antonyms": [
+    "expand"
+  ],
+  "similar_words": [
+    "compressed",
+    "compressibility",
+    "compressible",
+    "compression",
+    "compressive",
+    "compressively",
+    "compressor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compress.mp3",
+  "local_sound_path": "sounds/compress.mp3"
+}

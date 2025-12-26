@@ -1,0 +1,39 @@
+{
+  "word": "carnival",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13032.png",
+      "local_image_path": "images/13032.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116004.png",
+      "local_image_path": "images/116004.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116005.png",
+      "local_image_path": "images/116005.png"
+    }
+  ],
+  "synonyms": [
+    "festival",
+    "celebration",
+    "street party",
+    "fair",
+    "f�te",
+    "parade",
+    "pageant",
+    "cavalcade"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carnival.mp3",
+  "local_sound_path": "sounds/carnival.mp3"
+}

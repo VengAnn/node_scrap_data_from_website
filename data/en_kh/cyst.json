@@ -1,0 +1,50 @@
+{
+  "word": "cyst",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19410.png",
+      "local_image_path": "images/19410.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131430.png",
+      "local_image_path": "images/131430.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131431.png",
+      "local_image_path": "images/131431.png"
+    }
+  ],
+  "synonyms": [
+    "ulcer",
+    "sore",
+    "carbuncle",
+    "spot",
+    "swelling"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cystectomy",
+    "cystic",
+    "cystic fibrosis",
+    "cystitis",
+    "cysto",
+    "cystocele",
+    "cystoid",
+    "cystoplast",
+    "cystoplastic",
+    "cystoscope",
+    "cystoscopic",
+    "cystoscopy",
+    "cystostomy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cyst.mp3",
+  "local_sound_path": "sounds/cyst.mp3"
+}

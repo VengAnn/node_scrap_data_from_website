@@ -1,0 +1,42 @@
+{
+  "word": "annotate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4394.png",
+      "local_image_path": "images/4394.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112521.png",
+      "local_image_path": "images/112521.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112522.png",
+      "local_image_path": "images/112522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112523.png",
+      "local_image_path": "images/112523.png"
+    }
+  ],
+  "synonyms": [
+    "gloss",
+    "interpret",
+    "explain",
+    "note",
+    "mark"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/annotate.mp3",
+  "local_sound_path": "sounds/annotate.mp3"
+}

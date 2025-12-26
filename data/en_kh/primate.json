@@ -1,0 +1,47 @@
+{
+  "word": "primate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66932.png",
+      "local_image_path": "images/66932.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66933.png",
+      "local_image_path": "images/66933.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131873.png",
+      "local_image_path": "images/131873.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131874.png",
+      "local_image_path": "images/131874.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131875.png",
+      "local_image_path": "images/131875.png"
+    }
+  ],
+  "synonyms": [
+    "monkey",
+    "ape",
+    "mandrill",
+    "chimpanzee"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/primate.mp3",
+  "local_sound_path": "sounds/primate.mp3"
+}

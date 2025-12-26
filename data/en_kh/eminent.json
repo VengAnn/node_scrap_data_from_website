@@ -1,0 +1,51 @@
+{
+  "word": "eminent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "eminent scholar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24583.png",
+      "local_image_path": "images/24583.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24584.png",
+      "local_image_path": "images/24584.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119083.png",
+      "local_image_path": "images/119083.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119084.png",
+      "local_image_path": "images/119084.png"
+    }
+  ],
+  "synonyms": [
+    "well-known",
+    "renowned",
+    "important",
+    "distinguished",
+    "famous",
+    "reputed",
+    "prominent",
+    "celebrated",
+    "outstanding"
+  ],
+  "antonyms": [
+    "unknown"
+  ],
+  "similar_words": [
+    "eminent domain",
+    "eminently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eminent.mp3",
+  "local_sound_path": "sounds/eminent.mp3"
+}

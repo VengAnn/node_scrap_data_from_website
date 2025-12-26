@@ -1,0 +1,64 @@
+{
+  "word": "hint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "give me a hint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35268.png",
+      "local_image_path": "images/35268.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35269.png",
+      "local_image_path": "images/35269.png"
+    },
+    {
+      "pos": "v",
+      "example": "She has already hinted to me that I've won the prize.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35270.png",
+      "local_image_path": "images/35270.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121124.png",
+      "local_image_path": "images/121124.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121125.png",
+      "local_image_path": "images/121125.png"
+    }
+  ],
+  "synonyms": [
+    "trace",
+    "tinge",
+    "suggestion",
+    "dash",
+    "taste",
+    "breath",
+    "whisper",
+    "whiff",
+    "touch",
+    "element",
+    "suggest",
+    "intimate",
+    "insinuate",
+    "imply",
+    "mention",
+    "cue",
+    "infer",
+    "indicate",
+    "signal"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hinterland"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hint.mp3",
+  "local_sound_path": "sounds/hint.mp3"
+}

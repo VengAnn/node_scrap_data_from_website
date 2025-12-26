@@ -1,0 +1,57 @@
+{
+  "word": "independent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38963.png",
+      "local_image_path": "images/38963.png"
+    },
+    {
+      "pos": "adj",
+      "example": "independent country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38964.png",
+      "local_image_path": "images/38964.png"
+    },
+    {
+      "pos": "adj",
+      "example": "independent discoverises",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38965.png",
+      "local_image_path": "images/38965.png"
+    },
+    {
+      "pos": "adj",
+      "example": "independent thinker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38966.png",
+      "local_image_path": "images/38966.png"
+    }
+  ],
+  "synonyms": [
+    "separate",
+    "impartial",
+    "outside",
+    "unconnected",
+    "unrelated",
+    "individual",
+    "detached",
+    "objective",
+    "stand-alone"
+  ],
+  "antonyms": [
+    "dependent",
+    "conventional",
+    "partial"
+  ],
+  "similar_words": [
+    "independent clause",
+    "independent contractor",
+    "independent hotel",
+    "independent tour",
+    "independently",
+    "independents"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/independent.mp3",
+  "local_sound_path": "sounds/independent.mp3"
+}

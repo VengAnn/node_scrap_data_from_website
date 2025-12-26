@@ -1,0 +1,44 @@
+{
+  "word": "discrepancy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21763.png",
+      "local_image_path": "images/21763.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21764.png",
+      "local_image_path": "images/21764.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118447.png",
+      "local_image_path": "images/118447.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118448.png",
+      "local_image_path": "images/118448.png"
+    }
+  ],
+  "synonyms": [
+    "inconsistency",
+    "difference",
+    "incongruity",
+    "divergence",
+    "disagreement"
+  ],
+  "antonyms": [
+    "correspondence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discrepancy.mp3",
+  "local_sound_path": "sounds/discrepancy.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "dreadful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dreadful storm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23065.png",
+      "local_image_path": "images/23065.png"
+    },
+    {
+      "pos": "adv",
+      "example": "dreadful noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23066.png",
+      "local_image_path": "images/23066.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23067.png",
+      "local_image_path": "images/23067.png"
+    }
+  ],
+  "synonyms": [
+    "terrible",
+    "awful",
+    "horrible",
+    "frightful",
+    "alarming",
+    "shocking",
+    "appalling",
+    "outrageous",
+    "vile",
+    "ghastly"
+  ],
+  "antonyms": [
+    "lovely"
+  ],
+  "similar_words": [
+    "dreadfully",
+    "dreadfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dreadful.mp3",
+  "local_sound_path": "sounds/dreadful.mp3"
+}

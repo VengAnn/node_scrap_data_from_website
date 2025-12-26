@@ -1,0 +1,45 @@
+{
+  "word": "confine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16679.png",
+      "local_image_path": "images/16679.png"
+    },
+    {
+      "pos": "tv",
+      "example": "confine a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16678.png",
+      "local_image_path": "images/16678.png"
+    }
+  ],
+  "synonyms": [
+    "restrict",
+    "limit",
+    "curb",
+    "narrow",
+    "keep",
+    "detain",
+    "sequester",
+    "quarantine",
+    "imprison",
+    "jail",
+    "impound",
+    "incarcerate"
+  ],
+  "antonyms": [
+    "release"
+  ],
+  "similar_words": [
+    "confineable",
+    "confined",
+    "confinement",
+    "confiner",
+    "confines"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confine.mp3",
+  "local_sound_path": "sounds/confine.mp3"
+}

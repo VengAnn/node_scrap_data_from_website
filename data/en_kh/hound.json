@@ -1,0 +1,51 @@
+{
+  "word": "hound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hunting hound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36109.png",
+      "local_image_path": "images/36109.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36110.png",
+      "local_image_path": "images/36110.png"
+    },
+    {
+      "pos": "n",
+      "example": "monie hound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36111.png",
+      "local_image_path": "images/36111.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hound foxes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36112.png",
+      "local_image_path": "images/36112.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hound him for money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36113.png",
+      "local_image_path": "images/36113.png"
+    }
+  ],
+  "synonyms": [
+    "pursue",
+    "chase",
+    "harass",
+    "pester",
+    "persecute",
+    "hunt",
+    "badger",
+    "dog"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hound.mp3",
+  "local_sound_path": "sounds/hound.mp3"
+}

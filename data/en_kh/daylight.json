@@ -1,0 +1,34 @@
+{
+  "word": "daylight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "see daylight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19746.png",
+      "local_image_path": "images/19746.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19745.png",
+      "local_image_path": "images/19745.png"
+    }
+  ],
+  "synonyms": [
+    "dawn",
+    "sunrise",
+    "daybreak",
+    "first light",
+    "morning",
+    "sun-up"
+  ],
+  "antonyms": [
+    "nighttime",
+    "dusk"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/daylight.mp3",
+  "local_sound_path": "sounds/daylight.mp3"
+}

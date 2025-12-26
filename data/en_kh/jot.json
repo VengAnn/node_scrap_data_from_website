@@ -1,0 +1,56 @@
+{
+  "word": "jot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43233.png",
+      "local_image_path": "images/43233.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43231.png",
+      "local_image_path": "images/43231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The policeman jotted down my address.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43232.png",
+      "local_image_path": "images/43232.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123153.png",
+      "local_image_path": "images/123153.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123154.png",
+      "local_image_path": "images/123154.png"
+    }
+  ],
+  "synonyms": [
+    "iota",
+    "atom",
+    "whit",
+    "bit",
+    "speck",
+    "tittle",
+    "dot",
+    "mite",
+    "smidgen"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jotter",
+    "jotting",
+    "jotty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jot.mp3",
+  "local_sound_path": "sounds/jot.mp3"
+}

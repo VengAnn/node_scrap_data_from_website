@@ -1,0 +1,48 @@
+{
+  "word": "sunny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86318.png",
+      "local_image_path": "images/86318.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sunny day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86319.png",
+      "local_image_path": "images/86319.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sunny disposition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86320.png",
+      "local_image_path": "images/86320.png"
+    }
+  ],
+  "synonyms": [
+    "cheerful",
+    "cheery",
+    "bright",
+    "positive",
+    "optimistic",
+    "happy",
+    "smiling",
+    "beaming",
+    "genial",
+    "cordial",
+    "jolly",
+    "warm",
+    "good-natured",
+    "affable"
+  ],
+  "antonyms": [
+    "dark",
+    "gloomy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sunny.mp3",
+  "local_sound_path": "sounds/sunny.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "defamation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20116.png",
+      "local_image_path": "images/20116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117873.png",
+      "local_image_path": "images/117873.png"
+    }
+  ],
+  "synonyms": [
+    "insult",
+    "offense",
+    "slander",
+    "libel",
+    "slur",
+    "smear",
+    "denigration",
+    "vilification",
+    "calumny",
+    "offence"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defamation.mp3",
+  "local_sound_path": "sounds/defamation.mp3"
+}

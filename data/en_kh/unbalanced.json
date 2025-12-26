@@ -1,0 +1,38 @@
+{
+  "word": "unbalanced",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "unbalanced load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93313.png",
+      "local_image_path": "images/93313.png"
+    },
+    {
+      "pos": "adj",
+      "example": "mentally unbalanced",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93314.png",
+      "local_image_path": "images/93314.png"
+    }
+  ],
+  "synonyms": [
+    "biased",
+    "one-sided",
+    "inequitable",
+    "unfair",
+    "misleading",
+    "partial",
+    "deranged",
+    "confused"
+  ],
+  "antonyms": [
+    "even",
+    "fair",
+    "well-balanced",
+    "impartial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unbalanced.mp3",
+  "local_sound_path": "sounds/unbalanced.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "word": "soak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82273.png",
+      "local_image_path": "images/82273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82274.png",
+      "local_image_path": "images/82274.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82275.png",
+      "local_image_path": "images/82275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82270.png",
+      "local_image_path": "images/82270.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82271.png",
+      "local_image_path": "images/82271.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82272.png",
+      "local_image_path": "images/82272.png"
+    }
+  ],
+  "synonyms": [
+    "drench",
+    "douse",
+    "saturate",
+    "absorb",
+    "imbibe",
+    "assimilate",
+    "take in"
+  ],
+  "antonyms": [
+    "dip",
+    "exude"
+  ],
+  "similar_words": [
+    "soaked",
+    "soaker",
+    "soaking"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soak.mp3",
+  "local_sound_path": "sounds/soak.mp3"
+}

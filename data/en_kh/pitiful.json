@@ -1,0 +1,43 @@
+{
+  "word": "pitiful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pitiful fate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63655.png",
+      "local_image_path": "images/63655.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pitiful amount",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63656.png",
+      "local_image_path": "images/63656.png"
+    }
+  ],
+  "synonyms": [
+    "meager",
+    "inadequate",
+    "small",
+    "paltry",
+    "insignificant",
+    "miserable",
+    "derisory",
+    "cheap",
+    "shabby",
+    "worthless",
+    "beggarly"
+  ],
+  "antonyms": [
+    "admirable",
+    "heartening",
+    "magnanimous"
+  ],
+  "similar_words": [
+    "pitifully",
+    "pitifulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pitiful.mp3",
+  "local_sound_path": "sounds/pitiful.mp3"
+}

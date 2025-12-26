@@ -1,0 +1,40 @@
+{
+  "word": "transcendent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "transcendent thoughts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90923.png",
+      "local_image_path": "images/90923.png"
+    },
+    {
+      "pos": "adj",
+      "example": "transcendent considerations",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90924.png",
+      "local_image_path": "images/90924.png"
+    }
+  ],
+  "synonyms": [
+    "inspiring",
+    "inspirational",
+    "moving",
+    "magnificent",
+    "sublime",
+    "transcendental"
+  ],
+  "antonyms": [
+    "ridiculous",
+    "inferior"
+  ],
+  "similar_words": [
+    "transcendental",
+    "transcendentalism",
+    "transcendentalist",
+    "transcendentally",
+    "transcendently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transcendent.mp3",
+  "local_sound_path": "sounds/transcendent.mp3"
+}

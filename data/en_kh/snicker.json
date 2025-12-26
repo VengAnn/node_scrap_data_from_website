@@ -1,0 +1,38 @@
+{
+  "word": "snicker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82036.png",
+      "local_image_path": "images/82036.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82037.png",
+      "local_image_path": "images/82037.png"
+    }
+  ],
+  "synonyms": [
+    "scorn",
+    "scoff",
+    "mock",
+    "deride",
+    "giggle",
+    "sneer",
+    "titter",
+    "snort",
+    "laugh",
+    "guffaw"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "snickerer",
+    "snickersnee"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/snicker.mp3",
+  "local_sound_path": "sounds/snicker.mp3"
+}

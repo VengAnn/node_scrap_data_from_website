@@ -1,0 +1,43 @@
+{
+  "word": "lord",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "lord of manor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47649.png",
+      "local_image_path": "images/47649.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47650.png",
+      "local_image_path": "images/47650.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lord it over so",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47651.png",
+      "local_image_path": "images/47651.png"
+    }
+  ],
+  "synonyms": [
+    "noble",
+    "aristocrat",
+    "lady"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "lord lieutenant",
+    "lord's supper",
+    "lordless",
+    "lordling",
+    "lordly",
+    "lordolatry",
+    "lords wike",
+    "lordship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lord.mp3",
+  "local_sound_path": "sounds/lord.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "malicious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105602.png",
+      "local_image_path": "images/105602.png"
+    }
+  ],
+  "synonyms": [
+    "hateful",
+    "spiteful",
+    "malevolent",
+    "mean",
+    "nasty",
+    "cruel",
+    "wicked",
+    "mischievous",
+    "evil"
+  ],
+  "antonyms": [
+    "kind"
+  ],
+  "similar_words": [
+    "malicious arrest",
+    "malicious mischief",
+    "malicious prosecution",
+    "maliciously",
+    "maliciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/malicious.mp3",
+  "local_sound_path": "sounds/malicious.mp3"
+}

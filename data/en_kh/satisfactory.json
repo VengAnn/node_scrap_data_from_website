@@ -1,0 +1,41 @@
+{
+  "word": "satisfactory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "satisfactory solution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75992.png",
+      "local_image_path": "images/75992.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75993.png",
+      "local_image_path": "images/75993.png"
+    },
+    {
+      "pos": "adj",
+      "example": "in satisfactory condition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75994.png",
+      "local_image_path": "images/75994.png"
+    }
+  ],
+  "synonyms": [
+    "acceptable",
+    "suitable",
+    "all right",
+    "reasonable",
+    "pleasing",
+    "fitting",
+    "agreeable",
+    "adequate"
+  ],
+  "antonyms": [
+    "unsatisfactory"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/satisfactory.mp3",
+  "local_sound_path": "sounds/satisfactory.mp3"
+}

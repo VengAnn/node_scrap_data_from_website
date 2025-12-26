@@ -1,0 +1,52 @@
+{
+  "word": "transparent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "transparent glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91135.png",
+      "local_image_path": "images/91135.png"
+    },
+    {
+      "pos": "adj",
+      "example": "transparent motives",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91136.png",
+      "local_image_path": "images/91136.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91137.png",
+      "local_image_path": "images/91137.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91138.png",
+      "local_image_path": "images/91138.png"
+    }
+  ],
+  "synonyms": [
+    "obvious",
+    "clear",
+    "apparent",
+    "visible",
+    "plain",
+    "evident",
+    "patent",
+    "blatant",
+    "understandable"
+  ],
+  "antonyms": [
+    "opaque",
+    "unclear"
+  ],
+  "similar_words": [
+    "transparently",
+    "transparentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transparent.mp3",
+  "local_sound_path": "sounds/transparent.mp3"
+}

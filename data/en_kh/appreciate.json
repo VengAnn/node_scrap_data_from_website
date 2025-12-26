@@ -1,0 +1,62 @@
+{
+  "word": "appreciate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I greatly appreciate your kindness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5142.png",
+      "local_image_path": "images/5142.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you can't appreciate Pali poem unless you have a good knowledge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5141.png",
+      "local_image_path": "images/5141.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113876.png",
+      "local_image_path": "images/113876.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113877.png",
+      "local_image_path": "images/113877.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113878.png",
+      "local_image_path": "images/113878.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132480.png",
+      "local_image_path": "images/132480.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132481.png",
+      "local_image_path": "images/132481.png"
+    }
+  ],
+  "synonyms": [
+    "rise",
+    "escalate",
+    "understand",
+    "realize",
+    "grasp"
+  ],
+  "antonyms": [
+    "depreciate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appreciate.mp3",
+  "local_sound_path": "sounds/appreciate.mp3"
+}

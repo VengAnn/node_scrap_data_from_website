@@ -1,0 +1,42 @@
+{
+  "word": "antagonist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4502.png",
+      "local_image_path": "images/4502.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113769.png",
+      "local_image_path": "images/113769.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113770.png",
+      "local_image_path": "images/113770.png"
+    }
+  ],
+  "synonyms": [
+    "rival",
+    "adversary",
+    "opponent",
+    "enemy",
+    "contender",
+    "competitor"
+  ],
+  "antonyms": [
+    "friend"
+  ],
+  "similar_words": [
+    "antagonistic",
+    "antagonistically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/antagonist.mp3",
+  "local_sound_path": "sounds/antagonist.mp3"
+}

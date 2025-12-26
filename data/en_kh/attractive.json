@@ -1,0 +1,47 @@
+{
+  "word": "attractive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "attractive woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6302.png",
+      "local_image_path": "images/6302.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114256.png",
+      "local_image_path": "images/114256.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114257.png",
+      "local_image_path": "images/114257.png"
+    }
+  ],
+  "synonyms": [
+    "appealing",
+    "alluring",
+    "charming",
+    "pleasing",
+    "pleasant",
+    "delightful",
+    "lovely",
+    "fascinating",
+    "charismatic",
+    "desirable"
+  ],
+  "antonyms": [
+    "ugly",
+    "repellent"
+  ],
+  "similar_words": [
+    "attractively",
+    "attractiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attractive.mp3",
+  "local_sound_path": "sounds/attractive.mp3"
+}

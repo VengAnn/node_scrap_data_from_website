@@ -1,0 +1,54 @@
+{
+  "word": "fracture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30058.png",
+      "local_image_path": "images/30058.png"
+    },
+    {
+      "pos": "n",
+      "example": "bone fracture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30054.png",
+      "local_image_path": "images/30054.png"
+    },
+    {
+      "pos": "n",
+      "example": "fracture in the party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30055.png",
+      "local_image_path": "images/30055.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fracture a bone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30056.png",
+      "local_image_path": "images/30056.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fracture a union",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30057.png",
+      "local_image_path": "images/30057.png"
+    }
+  ],
+  "synonyms": [
+    "break",
+    "breakage",
+    "crack",
+    "rupture",
+    "fissure",
+    "splinter",
+    "split",
+    "shatter"
+  ],
+  "antonyms": [
+    "mend",
+    "repair"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fracture.mp3",
+  "local_sound_path": "sounds/fracture.mp3"
+}

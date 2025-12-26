@@ -1,0 +1,67 @@
+{
+  "word": "affix",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2740.png",
+      "local_image_path": "images/2740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "affix it to the wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2739.png",
+      "local_image_path": "images/2739.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113369.png",
+      "local_image_path": "images/113369.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113370.png",
+      "local_image_path": "images/113370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113371.png",
+      "local_image_path": "images/113371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113372.png",
+      "local_image_path": "images/113372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113373.png",
+      "local_image_path": "images/113373.png"
+    }
+  ],
+  "synonyms": [
+    "attach",
+    "fix",
+    "fasten",
+    "stick",
+    "pin",
+    "glue"
+  ],
+  "antonyms": [
+    "remove"
+  ],
+  "similar_words": [
+    "affixable",
+    "affixer",
+    "affixture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affix.mp3",
+  "local_sound_path": "sounds/affix.mp3"
+}

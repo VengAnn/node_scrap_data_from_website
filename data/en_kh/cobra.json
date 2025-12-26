@@ -1,0 +1,24 @@
+{
+  "word": "cobra",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15327.png",
+      "local_image_path": "images/15327.png"
+    },
+    {
+      "pos": "n",
+      "example": "king cobra",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15328.png",
+      "local_image_path": "images/15328.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cobra.mp3",
+  "local_sound_path": "sounds/cobra.mp3"
+}

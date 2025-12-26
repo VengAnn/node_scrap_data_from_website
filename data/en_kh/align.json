@@ -1,0 +1,40 @@
+{
+  "word": "align",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "align oneself with other country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3378.png",
+      "local_image_path": "images/3378.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112370.png",
+      "local_image_path": "images/112370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112371.png",
+      "local_image_path": "images/112371.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "ally",
+    "affiliate",
+    "associate"
+  ],
+  "antonyms": [
+    "disarrange",
+    "distance"
+  ],
+  "similar_words": [
+    "alignment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/align.mp3",
+  "local_sound_path": "sounds/align.mp3"
+}

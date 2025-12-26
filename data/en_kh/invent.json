@@ -1,0 +1,48 @@
+{
+  "word": "invent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "invent a gadget",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41968.png",
+      "local_image_path": "images/41968.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41969.png",
+      "local_image_path": "images/41969.png"
+    },
+    {
+      "pos": "tv",
+      "example": "invent an excuse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41970.png",
+      "local_image_path": "images/41970.png"
+    }
+  ],
+  "synonyms": [
+    "make up",
+    "fabricate",
+    "contrive",
+    "concoct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "inventful",
+    "inventible",
+    "invention",
+    "inventional",
+    "inventive",
+    "inventively",
+    "inventiveness",
+    "inventor",
+    "inventorial",
+    "inventorially",
+    "inventory",
+    "inventress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/invent.mp3",
+  "local_sound_path": "sounds/invent.mp3"
+}

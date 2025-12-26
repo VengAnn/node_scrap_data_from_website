@@ -1,0 +1,36 @@
+{
+  "word": "soporific",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82761.png",
+      "local_image_path": "images/82761.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82760.png",
+      "local_image_path": "images/82760.png"
+    }
+  ],
+  "synonyms": [
+    "hypnotic",
+    "heavy",
+    "monotonous",
+    "dull",
+    "tedious",
+    "boring",
+    "interminable",
+    "turgid",
+    "endless"
+  ],
+  "antonyms": [
+    "stimulating"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soporific.mp3",
+  "local_sound_path": "sounds/soporific.mp3"
+}

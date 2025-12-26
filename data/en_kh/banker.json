@@ -1,0 +1,38 @@
+{
+  "word": "banker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7341.png",
+      "local_image_path": "images/7341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114543.png",
+      "local_image_path": "images/114543.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114544.png",
+      "local_image_path": "images/114544.png"
+    }
+  ],
+  "synonyms": [
+    "financier",
+    "investor",
+    "backer",
+    "sponsor",
+    "supporter",
+    "teller",
+    "cashier"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banker.mp3",
+  "local_sound_path": "sounds/banker.mp3"
+}

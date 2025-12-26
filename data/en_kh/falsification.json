@@ -1,0 +1,35 @@
+{
+  "word": "falsification",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27518.png",
+      "local_image_path": "images/27518.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119870.png",
+      "local_image_path": "images/119870.png"
+    }
+  ],
+  "synonyms": [
+    "fabrication",
+    "distortion",
+    "forgery",
+    "fiddling",
+    "misrepresentation",
+    "prevarication",
+    "deception",
+    "alteration"
+  ],
+  "antonyms": [
+    "correction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/falsification.mp3",
+  "local_sound_path": "sounds/falsification.mp3"
+}

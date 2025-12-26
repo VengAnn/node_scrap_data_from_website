@@ -1,0 +1,45 @@
+{
+  "word": "tank",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "water tank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87479.png",
+      "local_image_path": "images/87479.png"
+    },
+    {
+      "pos": "n",
+      "example": "drive a tank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87480.png",
+      "local_image_path": "images/87480.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87481.png",
+      "local_image_path": "images/87481.png"
+    }
+  ],
+  "synonyms": [
+    "boiler",
+    "cistern",
+    "reservoir",
+    "container",
+    "chamber",
+    "vat"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tank destroyer",
+    "tank suit",
+    "tank town",
+    "tank up",
+    "tankage",
+    "tankard",
+    "tanker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tank.mp3",
+  "local_sound_path": "sounds/tank.mp3"
+}

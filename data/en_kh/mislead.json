@@ -1,0 +1,63 @@
+{
+  "word": "mislead",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109288.png",
+      "local_image_path": "images/109288.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you misled me as to your intentions.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109289.png",
+      "local_image_path": "images/109289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He misled me into thinking he was rich.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109290.png",
+      "local_image_path": "images/109290.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130528.png",
+      "local_image_path": "images/130528.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130529.png",
+      "local_image_path": "images/130529.png"
+    }
+  ],
+  "synonyms": [
+    "misinform",
+    "deceive",
+    "hoodwink",
+    "delude",
+    "take in",
+    "misinformed",
+    "lie",
+    "lied",
+    "lay",
+    "deluded",
+    "misrepresent",
+    "distort",
+    "fabricate",
+    "bamboozle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "misleadable",
+    "misleader",
+    "misleading",
+    "misleadingly",
+    "misleadingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mislead.mp3",
+  "local_sound_path": "sounds/mislead.mp3"
+}

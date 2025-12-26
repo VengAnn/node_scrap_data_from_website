@@ -1,0 +1,95 @@
+{
+  "word": "command",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he gives a command for his men",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15943.png",
+      "local_image_path": "images/15943.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116758.png",
+      "local_image_path": "images/116758.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116759.png",
+      "local_image_path": "images/116759.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116760.png",
+      "local_image_path": "images/116760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the officer commanded his men to fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15942.png",
+      "local_image_path": "images/15942.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116761.png",
+      "local_image_path": "images/116761.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116762.png",
+      "local_image_path": "images/116762.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116763.png",
+      "local_image_path": "images/116763.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116764.png",
+      "local_image_path": "images/116764.png"
+    }
+  ],
+  "synonyms": [
+    "directive",
+    "order",
+    "commandment",
+    "demand",
+    "charge",
+    "instruction",
+    "mandate",
+    "decree",
+    "control",
+    "dominate",
+    "rule",
+    "lead",
+    "direct"
+  ],
+  "antonyms": [
+    "obey"
+  ],
+  "similar_words": [
+    "command headquarter",
+    "command post",
+    "commandant",
+    "commandeer",
+    "commander",
+    "commander-in-chief",
+    "commandery",
+    "commanding",
+    "commanding officer",
+    "commandingly",
+    "commandment",
+    "commando"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/command.mp3",
+  "local_sound_path": "sounds/command.mp3"
+}

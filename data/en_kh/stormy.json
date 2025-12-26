@@ -1,0 +1,73 @@
+{
+  "word": "stormy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85086.png",
+      "local_image_path": "images/85086.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stormy weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85087.png",
+      "local_image_path": "images/85087.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stormy sea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85088.png",
+      "local_image_path": "images/85088.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85089.png",
+      "local_image_path": "images/85089.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stormy debate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85090.png",
+      "local_image_path": "images/85090.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85091.png",
+      "local_image_path": "images/85091.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85092.png",
+      "local_image_path": "images/85092.png"
+    }
+  ],
+  "synonyms": [
+    "wild",
+    "rainy",
+    "squally",
+    "thundery",
+    "windy",
+    "blustery",
+    "tempestuous",
+    "violent",
+    "turbulent",
+    "unsettled",
+    "volatile",
+    "fiery",
+    "passionate",
+    "vehement",
+    "frenzied"
+  ],
+  "antonyms": [
+    "calm",
+    "placid"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stormy.mp3",
+  "local_sound_path": "sounds/stormy.mp3"
+}

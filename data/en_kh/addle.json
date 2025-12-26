@@ -1,0 +1,45 @@
+{
+  "word": "addle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2328.png",
+      "local_image_path": "images/2328.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2327.png",
+      "local_image_path": "images/2327.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112161.png",
+      "local_image_path": "images/112161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112162.png",
+      "local_image_path": "images/112162.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112163.png",
+      "local_image_path": "images/112163.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "addle-brained",
+    "addled"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/addle.mp3",
+  "local_sound_path": "sounds/addle.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "wax",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99433.png",
+      "local_image_path": "images/99433.png"
+    },
+    {
+      "pos": "n",
+      "example": "bee wax",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99430.png",
+      "local_image_path": "images/99430.png"
+    },
+    {
+      "pos": "n",
+      "example": "floor wax",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99431.png",
+      "local_image_path": "images/99431.png"
+    },
+    {
+      "pos": "n",
+      "example": "Moon is on the wax",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99434.png",
+      "local_image_path": "images/99434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99432.png",
+      "local_image_path": "images/99432.png"
+    }
+  ],
+  "synonyms": [
+    "expand",
+    "increase",
+    "enlarge",
+    "grow",
+    "swell"
+  ],
+  "antonyms": [
+    "wane"
+  ],
+  "similar_words": [
+    "wax chandler",
+    "wax light",
+    "wax maker",
+    "wax-candle",
+    "wax-flower",
+    "wax-shot",
+    "wax-worker",
+    "wax-working",
+    "waxbill",
+    "waxcrayon",
+    "waxed",
+    "waxen",
+    "waxily",
+    "waxiness",
+    "waxwork",
+    "waxy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wax.mp3",
+  "local_sound_path": "sounds/wax.mp3"
+}

@@ -1,0 +1,93 @@
+{
+  "word": "element",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24265.png",
+      "local_image_path": "images/24265.png"
+    },
+    {
+      "pos": "n",
+      "example": "chemincal element",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24266.png",
+      "local_image_path": "images/24266.png"
+    },
+    {
+      "pos": "n",
+      "example": "element of grammar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24267.png",
+      "local_image_path": "images/24267.png"
+    },
+    {
+      "pos": "n",
+      "example": "element of the situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24268.png",
+      "local_image_path": "images/24268.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118973.png",
+      "local_image_path": "images/118973.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118974.png",
+      "local_image_path": "images/118974.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118975.png",
+      "local_image_path": "images/118975.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118976.png",
+      "local_image_path": "images/118976.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118977.png",
+      "local_image_path": "images/118977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118978.png",
+      "local_image_path": "images/118978.png"
+    }
+  ],
+  "synonyms": [
+    "amount",
+    "quantity",
+    "touch",
+    "bit",
+    "degree",
+    "constituent",
+    "part",
+    "component",
+    "ingredient",
+    "factor",
+    "aspect",
+    "facet",
+    "cause",
+    "feature"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "elemental",
+    "elementarily",
+    "elementariness",
+    "elementary",
+    "elements"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/element.mp3",
+  "local_sound_path": "sounds/element.mp3"
+}

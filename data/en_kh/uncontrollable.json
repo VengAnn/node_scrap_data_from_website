@@ -1,0 +1,41 @@
+{
+  "word": "uncontrollable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "uncontrollable expenses",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93812.png",
+      "local_image_path": "images/93812.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128929.png",
+      "local_image_path": "images/128929.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128930.png",
+      "local_image_path": "images/128930.png"
+    }
+  ],
+  "synonyms": [
+    "unmanageable",
+    "irrepressible",
+    "unruly",
+    "disobedient",
+    "disorderly",
+    "wild",
+    "abandoned"
+  ],
+  "antonyms": [
+    "orderly",
+    "well-behaved"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uncontrollable.mp3",
+  "local_sound_path": "sounds/uncontrollable.mp3"
+}

@@ -1,0 +1,65 @@
+{
+  "word": "barren",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7584.png",
+      "local_image_path": "images/7584.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129966.png",
+      "local_image_path": "images/129966.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129967.png",
+      "local_image_path": "images/129967.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7585.png",
+      "local_image_path": "images/7585.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114632.png",
+      "local_image_path": "images/114632.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114633.png",
+      "local_image_path": "images/114633.png"
+    }
+  ],
+  "synonyms": [
+    "desolate",
+    "bleak",
+    "inhospitable",
+    "stark",
+    "harsh",
+    "austere",
+    "bare",
+    "empty",
+    "deserted",
+    "lonely"
+  ],
+  "antonyms": [
+    "fertile"
+  ],
+  "similar_words": [
+    "barreness",
+    "barrenize",
+    "barrenness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barren.mp3",
+  "local_sound_path": "sounds/barren.mp3"
+}

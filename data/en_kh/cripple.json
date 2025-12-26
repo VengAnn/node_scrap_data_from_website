@@ -1,0 +1,30 @@
+{
+  "word": "cripple",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18625.png",
+      "local_image_path": "images/18625.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cripple a person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18626.png",
+      "local_image_path": "images/18626.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cripple a project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18627.png",
+      "local_image_path": "images/18627.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cripple.mp3",
+  "local_sound_path": "sounds/cripple.mp3"
+}

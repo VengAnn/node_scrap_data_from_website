@@ -1,0 +1,70 @@
+{
+  "word": "adjoin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the playing field adjoins the school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2393.png",
+      "local_image_path": "images/2393.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113255.png",
+      "local_image_path": "images/113255.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113256.png",
+      "local_image_path": "images/113256.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113257.png",
+      "local_image_path": "images/113257.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2394.png",
+      "local_image_path": "images/2394.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113258.png",
+      "local_image_path": "images/113258.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113259.png",
+      "local_image_path": "images/113259.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113260.png",
+      "local_image_path": "images/113260.png"
+    }
+  ],
+  "synonyms": [
+    "connect",
+    "attach",
+    "affix",
+    "border",
+    "abut"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "adjoining",
+    "adjoining room",
+    "adjoint"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjoin.mp3",
+  "local_sound_path": "sounds/adjoin.mp3"
+}

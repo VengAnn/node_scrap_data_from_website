@@ -1,0 +1,73 @@
+{
+  "word": "friend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30306.png",
+      "local_image_path": "images/30306.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120451.png",
+      "local_image_path": "images/120451.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120452.png",
+      "local_image_path": "images/120452.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120453.png",
+      "local_image_path": "images/120453.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120454.png",
+      "local_image_path": "images/120454.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120455.png",
+      "local_image_path": "images/120455.png"
+    }
+  ],
+  "synonyms": [
+    "ally",
+    "associate",
+    "colleague",
+    "comrade",
+    "supporter",
+    "isolated",
+    "helper",
+    "alone",
+    "lonely",
+    "lonesome",
+    "well-wisher",
+    "collaborator"
+  ],
+  "antonyms": [
+    "stranger",
+    "foe",
+    "rival"
+  ],
+  "similar_words": [
+    "friend at court",
+    "friendless",
+    "friendlessness",
+    "friendlike",
+    "friendliness",
+    "friendly",
+    "friendship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/friend.mp3",
+  "local_sound_path": "sounds/friend.mp3"
+}

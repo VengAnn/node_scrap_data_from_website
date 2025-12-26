@@ -1,0 +1,38 @@
+{
+  "word": "bigmouth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8837.png",
+      "local_image_path": "images/8837.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8838.png",
+      "local_image_path": "images/8838.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115063.png",
+      "local_image_path": "images/115063.png"
+    }
+  ],
+  "synonyms": [
+    "chatterer",
+    "chatterbox",
+    "blabbermouth",
+    "busybody",
+    "gossip"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bigmouthed"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bigmouth.mp3",
+  "local_sound_path": "sounds/bigmouth.mp3"
+}

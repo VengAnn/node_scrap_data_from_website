@@ -1,0 +1,60 @@
+{
+  "word": "aberration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1386.png",
+      "local_image_path": "images/1386.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111869.png",
+      "local_image_path": "images/111869.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112137.png",
+      "local_image_path": "images/112137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112138.png",
+      "local_image_path": "images/112138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112996.png",
+      "local_image_path": "images/112996.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112997.png",
+      "local_image_path": "images/112997.png"
+    }
+  ],
+  "synonyms": [
+    "deviation",
+    "abnormality",
+    "irregularity",
+    "peculiarity",
+    "eccentricity",
+    "oddness",
+    "unusualness"
+  ],
+  "antonyms": [
+    "normality"
+  ],
+  "similar_words": [
+    "aberrational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aberration.mp3",
+  "local_sound_path": "sounds/aberration.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "word": "guide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "professional guide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33197.png",
+      "local_image_path": "images/33197.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33198.png",
+      "local_image_path": "images/33198.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33199.png",
+      "local_image_path": "images/33199.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33200.png",
+      "local_image_path": "images/33200.png"
+    },
+    {
+      "pos": "tv",
+      "example": "guide a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33194.png",
+      "local_image_path": "images/33194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "guide a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33195.png",
+      "local_image_path": "images/33195.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I know the place well, so let me be your guide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33196.png",
+      "local_image_path": "images/33196.png"
+    }
+  ],
+  "synonyms": [
+    "handbook",
+    "guidebook",
+    "manual",
+    "steer",
+    "drive",
+    "pilot",
+    "direct",
+    "handle",
+    "manage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "guide dog",
+    "guidebook",
+    "guided",
+    "guided missile",
+    "guided tour",
+    "guideless",
+    "guideline",
+    "guidepost",
+    "guideship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guide.mp3",
+  "local_sound_path": "sounds/guide.mp3"
+}

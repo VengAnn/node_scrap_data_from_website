@@ -1,0 +1,71 @@
+{
+  "word": "bad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I have the bad day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7039.png",
+      "local_image_path": "images/7039.png"
+    },
+    {
+      "pos": "n",
+      "example": "to go to the bad",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7038.png",
+      "local_image_path": "images/7038.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114428.png",
+      "local_image_path": "images/114428.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114429.png",
+      "local_image_path": "images/114429.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114430.png",
+      "local_image_path": "images/114430.png"
+    }
+  ],
+  "synonyms": [
+    "rotten",
+    "putrid",
+    "moldy",
+    "sour",
+    "stale",
+    "rancid",
+    "proposed"
+  ],
+  "antonyms": [
+    "good",
+    "slight",
+    "fresh"
+  ],
+  "similar_words": [
+    "bad ass",
+    "bad debets",
+    "bad faith",
+    "bad lands",
+    "bad-tempered",
+    "badding plant",
+    "baddish",
+    "baddy",
+    "badge",
+    "badger",
+    "badigeon",
+    "badinage",
+    "badly",
+    "badmash",
+    "badminton",
+    "badness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bad.mp3",
+  "local_sound_path": "sounds/bad.mp3"
+}

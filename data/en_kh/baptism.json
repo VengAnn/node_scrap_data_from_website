@@ -1,0 +1,31 @@
+{
+  "word": "baptism",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7387.png",
+      "local_image_path": "images/7387.png"
+    }
+  ],
+  "synonyms": [
+    "initiation",
+    "introduction",
+    "debut",
+    "beginning",
+    "launching",
+    "induction",
+    "rite",
+    "ceremony"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "baptismal",
+    "baptismal name",
+    "baptismally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baptism.mp3",
+  "local_sound_path": "sounds/baptism.mp3"
+}

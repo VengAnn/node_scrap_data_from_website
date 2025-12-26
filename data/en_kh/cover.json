@@ -1,0 +1,94 @@
+{
+  "word": "cover",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cover of a pot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18230.png",
+      "local_image_path": "images/18230.png"
+    },
+    {
+      "pos": "n",
+      "example": "legitimate cover",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18231.png",
+      "local_image_path": "images/18231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cover a pot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18223.png",
+      "local_image_path": "images/18223.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weeds cover the ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18224.png",
+      "local_image_path": "images/18224.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cover the meat water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18225.png",
+      "local_image_path": "images/18225.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cover express",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18226.png",
+      "local_image_path": "images/18226.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cover a crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18227.png",
+      "local_image_path": "images/18227.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cover a couch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18228.png",
+      "local_image_path": "images/18228.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cover a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18229.png",
+      "local_image_path": "images/18229.png"
+    }
+  ],
+  "synonyms": [
+    "shelter",
+    "shield",
+    "protection",
+    "include",
+    "comprise",
+    "involve",
+    "embrace",
+    "contain",
+    "encompass",
+    "report",
+    "take in"
+  ],
+  "antonyms": [
+    "uncover",
+    "expose",
+    "reveal"
+  ],
+  "similar_words": [
+    "cover-up",
+    "coverage",
+    "coveralls",
+    "covered",
+    "covering",
+    "coverlet",
+    "covert",
+    "covertly",
+    "covertness",
+    "coverture",
+    "coverup"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cover.mp3",
+  "local_sound_path": "sounds/cover.mp3"
+}

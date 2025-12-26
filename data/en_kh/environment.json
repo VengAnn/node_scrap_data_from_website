@@ -1,0 +1,38 @@
+{
+  "word": "environment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25416.png",
+      "local_image_path": "images/25416.png"
+    },
+    {
+      "pos": "n",
+      "example": "the environment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25417.png",
+      "local_image_path": "images/25417.png"
+    }
+  ],
+  "synonyms": [
+    "nature",
+    "ecosystem",
+    "earth",
+    "world"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "environment impact",
+    "environment scan",
+    "environment security",
+    "environmental",
+    "environmental biology",
+    "environmental science",
+    "environmentalist",
+    "environmentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/environment.mp3",
+  "local_sound_path": "sounds/environment.mp3"
+}

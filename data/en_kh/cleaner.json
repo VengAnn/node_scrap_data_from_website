@@ -1,0 +1,51 @@
+{
+  "word": "cleaner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14901.png",
+      "local_image_path": "images/14901.png"
+    },
+    {
+      "pos": "idm",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116436.png",
+      "local_image_path": "images/116436.png"
+    },
+    {
+      "pos": "n",
+      "example": "liquid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14898.png",
+      "local_image_path": "images/14898.png"
+    },
+    {
+      "pos": "n",
+      "example": "clothes cleaner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14899.png",
+      "local_image_path": "images/14899.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14900.png",
+      "local_image_path": "images/14900.png"
+    }
+  ],
+  "synonyms": [
+    "better",
+    "wholesome",
+    "spotless",
+    "innocent",
+    "virtuous",
+    "unadulterated",
+    "unpolluted",
+    "impure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cleaner.mp3",
+  "local_sound_path": "sounds/cleaner.mp3"
+}

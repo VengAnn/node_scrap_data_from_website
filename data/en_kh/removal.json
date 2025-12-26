@@ -1,0 +1,30 @@
+{
+  "word": "removal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "garbage removal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72104.png",
+      "local_image_path": "images/72104.png"
+    }
+  ],
+  "synonyms": [
+    "elimination",
+    "exclusion",
+    "subtraction",
+    "deletion",
+    "amputation",
+    "confiscation",
+    "deduction",
+    "abstraction",
+    "ejection"
+  ],
+  "antonyms": [
+    "addition"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/removal.mp3",
+  "local_sound_path": "sounds/removal.mp3"
+}

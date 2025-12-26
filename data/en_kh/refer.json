@@ -1,0 +1,55 @@
+{
+  "word": "refer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71320.png",
+      "local_image_path": "images/71320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refer to the reader to a footnote",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71317.png",
+      "local_image_path": "images/71317.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refer it to the court",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71318.png",
+      "local_image_path": "images/71318.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refer him to a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71319.png",
+      "local_image_path": "images/71319.png"
+    }
+  ],
+  "synonyms": [
+    "submit",
+    "downgrade",
+    "transfer",
+    "demote"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "referable",
+    "referal",
+    "referee",
+    "reference",
+    "referendary",
+    "referendum",
+    "referent",
+    "referential",
+    "referment",
+    "referral",
+    "referrer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refer.mp3",
+  "local_sound_path": "sounds/refer.mp3"
+}

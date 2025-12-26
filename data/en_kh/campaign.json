@@ -1,0 +1,45 @@
+{
+  "word": "campaign",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "she spent her life campaigning for women's right",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12561.png",
+      "local_image_path": "images/12561.png"
+    },
+    {
+      "pos": "n",
+      "example": "military campaign",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12560.png",
+      "local_image_path": "images/12560.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115885.png",
+      "local_image_path": "images/115885.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115886.png",
+      "local_image_path": "images/115886.png"
+    }
+  ],
+  "synonyms": [
+    "fight",
+    "work",
+    "push",
+    "struggle",
+    "canvass",
+    "battle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "campaigner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/campaign.mp3",
+  "local_sound_path": "sounds/campaign.mp3"
+}

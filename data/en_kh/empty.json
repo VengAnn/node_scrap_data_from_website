@@ -1,0 +1,81 @@
+{
+  "word": "empty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "empty bottle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24678.png",
+      "local_image_path": "images/24678.png"
+    },
+    {
+      "pos": "adj",
+      "example": "empty threats",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24679.png",
+      "local_image_path": "images/24679.png"
+    },
+    {
+      "pos": "adj",
+      "example": "empty life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24680.png",
+      "local_image_path": "images/24680.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24681.png",
+      "local_image_path": "images/24681.png"
+    },
+    {
+      "pos": "iv",
+      "example": "empty into",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24684.png",
+      "local_image_path": "images/24684.png"
+    },
+    {
+      "pos": "n",
+      "example": "put your empties on the doorstep for the milkman.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24685.png",
+      "local_image_path": "images/24685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She empties the milk into the pan.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24682.png",
+      "local_image_path": "images/24682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "empty a bottle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24683.png",
+      "local_image_path": "images/24683.png"
+    }
+  ],
+  "synonyms": [
+    "meaningless",
+    "purposeless",
+    "pointless",
+    "barren",
+    "drain",
+    "discharge",
+    "evacuate",
+    "exhaust",
+    "void",
+    "clear",
+    "pour",
+    "tip"
+  ],
+  "antonyms": [
+    "full",
+    "meaningful",
+    "fill"
+  ],
+  "similar_words": [
+    "empty-handed",
+    "empty-headed",
+    "emptying"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/empty.mp3",
+  "local_sound_path": "sounds/empty.mp3"
+}

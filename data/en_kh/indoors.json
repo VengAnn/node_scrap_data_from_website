@@ -1,0 +1,25 @@
+{
+  "word": "indoors",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39222.png",
+      "local_image_path": "images/39222.png"
+    }
+  ],
+  "synonyms": [
+    "inside",
+    "in",
+    "within",
+    "at home"
+  ],
+  "antonyms": [
+    "outside"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indoors.mp3",
+  "local_sound_path": "sounds/indoors.mp3"
+}

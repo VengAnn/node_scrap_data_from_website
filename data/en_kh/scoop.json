@@ -1,0 +1,86 @@
+{
+  "word": "scoop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "snow scoop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76852.png",
+      "local_image_path": "images/76852.png"
+    },
+    {
+      "pos": "n",
+      "example": "water scoop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76853.png",
+      "local_image_path": "images/76853.png"
+    },
+    {
+      "pos": "n",
+      "example": "scoop of ice cream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76854.png",
+      "local_image_path": "images/76854.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76855.png",
+      "local_image_path": "images/76855.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76856.png",
+      "local_image_path": "images/76856.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76857.png",
+      "local_image_path": "images/76857.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76858.png",
+      "local_image_path": "images/76858.png"
+    },
+    {
+      "pos": "sl",
+      "example": "scoop a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76861.png",
+      "local_image_path": "images/76861.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scoop snow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76859.png",
+      "local_image_path": "images/76859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scoop water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76860.png",
+      "local_image_path": "images/76860.png"
+    }
+  ],
+  "synonyms": [
+    "revelation",
+    "dig",
+    "hollow",
+    "scrape",
+    "shovel",
+    "excavate",
+    "gouge"
+  ],
+  "antonyms": [
+    "drop",
+    "fill"
+  ],
+  "similar_words": [
+    "scooper",
+    "scoopful"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scoop.mp3",
+  "local_sound_path": "sounds/scoop.mp3"
+}

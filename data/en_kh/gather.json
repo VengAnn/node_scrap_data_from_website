@@ -1,0 +1,61 @@
+{
+  "word": "gather",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "gather around the table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31205.png",
+      "local_image_path": "images/31205.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31206.png",
+      "local_image_path": "images/31206.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gather berries",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31202.png",
+      "local_image_path": "images/31202.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gather that he's going",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31203.png",
+      "local_image_path": "images/31203.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gather information",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31204.png",
+      "local_image_path": "images/31204.png"
+    }
+  ],
+  "synonyms": [
+    "understand",
+    "conclude",
+    "hear",
+    "assume",
+    "collect",
+    "heap",
+    "arrange",
+    "pleat",
+    "fold"
+  ],
+  "antonyms": [
+    "disperse",
+    "distribute",
+    "scatter",
+    "misunderstand",
+    "smooth"
+  ],
+  "similar_words": [
+    "gatherer",
+    "gathering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gather.mp3",
+  "local_sound_path": "sounds/gather.mp3"
+}

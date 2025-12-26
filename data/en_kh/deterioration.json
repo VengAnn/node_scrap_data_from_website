@@ -1,0 +1,36 @@
+{
+  "word": "deterioration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20994.png",
+      "local_image_path": "images/20994.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118189.png",
+      "local_image_path": "images/118189.png"
+    }
+  ],
+  "synonyms": [
+    "decline",
+    "corrosion",
+    "fall",
+    "drop",
+    "descent",
+    "wear and tear",
+    "wear",
+    "relapse",
+    "depreciation"
+  ],
+  "antonyms": [
+    "improvement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deterioration.mp3",
+  "local_sound_path": "sounds/deterioration.mp3"
+}

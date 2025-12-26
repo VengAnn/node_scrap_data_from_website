@@ -1,0 +1,32 @@
+{
+  "word": "unseat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/95846.png",
+      "local_image_path": "images/95846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/95847.png",
+      "local_image_path": "images/95847.png"
+    }
+  ],
+  "synonyms": [
+    "depose",
+    "oust",
+    "overthrow",
+    "dethrone",
+    "remove"
+  ],
+  "antonyms": [
+    "enthrone"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unseat.mp3",
+  "local_sound_path": "sounds/unseat.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "word": "bin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dust bin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8974.png",
+      "local_image_path": "images/8974.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8975.png",
+      "local_image_path": "images/8975.png"
+    }
+  ],
+  "synonyms": [
+    "basket",
+    "container",
+    "silo",
+    "holder",
+    "tub",
+    "case",
+    "vat",
+    "discard",
+    "ditch",
+    "jettison"
+  ],
+  "antonyms": [
+    "keep",
+    "recycle"
+  ],
+  "similar_words": [
+    "binal",
+    "binary",
+    "binate",
+    "binational",
+    "binaural",
+    "bind",
+    "bind over",
+    "binder",
+    "bindering",
+    "bindery",
+    "bindi",
+    "binding",
+    "binding force",
+    "binding instructions",
+    "bindingly",
+    "bindingness",
+    "bindlestiff",
+    "bindweed",
+    "bine"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bin.mp3",
+  "local_sound_path": "sounds/bin.mp3"
+}

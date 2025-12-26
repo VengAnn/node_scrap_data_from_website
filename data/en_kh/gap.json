@@ -1,0 +1,51 @@
+{
+  "word": "gap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31016.png",
+      "local_image_path": "images/31016.png"
+    },
+    {
+      "pos": "n",
+      "example": "gap in the fense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31013.png",
+      "local_image_path": "images/31013.png"
+    },
+    {
+      "pos": "n",
+      "example": "mountain gap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31014.png",
+      "local_image_path": "images/31014.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31015.png",
+      "local_image_path": "images/31015.png"
+    }
+  ],
+  "synonyms": [
+    "chasm",
+    "gorge",
+    "ravine",
+    "canyon",
+    "rift",
+    "gully",
+    "gulch"
+  ],
+  "antonyms": [
+    "continuity",
+    "parity"
+  ],
+  "similar_words": [
+    "gape",
+    "gapeworm",
+    "gaping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gap.mp3",
+  "local_sound_path": "sounds/gap.mp3"
+}

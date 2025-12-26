@@ -1,0 +1,48 @@
+{
+  "word": "outlet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58373.png",
+      "local_image_path": "images/58373.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58371.png",
+      "local_image_path": "images/58371.png"
+    },
+    {
+      "pos": "n",
+      "example": "outlet of a lake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58372.png",
+      "local_image_path": "images/58372.png"
+    },
+    {
+      "pos": "n",
+      "example": "sale outlet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58374.png",
+      "local_image_path": "images/58374.png"
+    }
+  ],
+  "synonyms": [
+    "department store",
+    "shop",
+    "market",
+    "store",
+    "retailer",
+    "channel",
+    "conduit",
+    "vent",
+    "instrument",
+    "vehicle",
+    "means"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outlet.mp3",
+  "local_sound_path": "sounds/outlet.mp3"
+}

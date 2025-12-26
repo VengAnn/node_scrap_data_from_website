@@ -1,0 +1,55 @@
+{
+  "word": "cast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13208.png",
+      "local_image_path": "images/13208.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131375.png",
+      "local_image_path": "images/131375.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13207.png",
+      "local_image_path": "images/13207.png"
+    }
+  ],
+  "synonyms": [
+    "typecast",
+    "stereotype",
+    "classify",
+    "stereotyped",
+    "classified"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cast-of",
+    "castanet",
+    "castaway",
+    "caste",
+    "castellan",
+    "castellany",
+    "castellated",
+    "castellation",
+    "caster",
+    "caster oil plant",
+    "castigate",
+    "castigation",
+    "castigator",
+    "casting",
+    "casting vote",
+    "castion",
+    "castle",
+    "castle hotel"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cast.mp3",
+  "local_sound_path": "sounds/cast.mp3"
+}

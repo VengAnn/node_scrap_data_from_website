@@ -1,0 +1,42 @@
+{
+  "word": "impasse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37596.png",
+      "local_image_path": "images/37596.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121574.png",
+      "local_image_path": "images/121574.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121575.png",
+      "local_image_path": "images/121575.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121576.png",
+      "local_image_path": "images/121576.png"
+    }
+  ],
+  "synonyms": [
+    "stalemate",
+    "deadlock",
+    "gridlock",
+    "bottleneck",
+    "dead end"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impasse.mp3",
+  "local_sound_path": "sounds/impasse.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "goal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "professional goal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32136.png",
+      "local_image_path": "images/32136.png"
+    },
+    {
+      "pos": "n",
+      "example": "cross the goal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32137.png",
+      "local_image_path": "images/32137.png"
+    }
+  ],
+  "synonyms": [
+    "objective",
+    "aim",
+    "end",
+    "ambition",
+    "purpose",
+    "target",
+    "object",
+    "aspiration"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "goalkeeper",
+    "goalkick",
+    "goalless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/goal.mp3",
+  "local_sound_path": "sounds/goal.mp3"
+}

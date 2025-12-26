@@ -1,0 +1,38 @@
+{
+  "word": "binding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8990.png",
+      "local_image_path": "images/8990.png"
+    },
+    {
+      "pos": "n",
+      "example": "binding of a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8989.png",
+      "local_image_path": "images/8989.png"
+    }
+  ],
+  "synonyms": [
+    "edging",
+    "cover",
+    "strip",
+    "obliging",
+    "compelling"
+  ],
+  "antonyms": [
+    "voluntary",
+    "undoing"
+  ],
+  "similar_words": [
+    "binding force",
+    "binding instructions",
+    "bindingly",
+    "bindingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/binding.mp3",
+  "local_sound_path": "sounds/binding.mp3"
+}

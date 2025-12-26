@@ -1,0 +1,41 @@
+{
+  "word": "foster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "forster trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29962.png",
+      "local_image_path": "images/29962.png"
+    },
+    {
+      "pos": "tv",
+      "example": "forster a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29963.png",
+      "local_image_path": "images/29963.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to foster desire for revenge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29964.png",
+      "local_image_path": "images/29964.png"
+    }
+  ],
+  "synonyms": [
+    "nurture",
+    "promote",
+    "further",
+    "advance",
+    "cultivate",
+    "forward",
+    "encourage"
+  ],
+  "antonyms": [
+    "discourage",
+    "natural"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foster.mp3",
+  "local_sound_path": "sounds/foster.mp3"
+}

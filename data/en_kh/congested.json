@@ -1,0 +1,28 @@
+{
+  "word": "congested",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "streets congested with traffic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16782.png",
+      "local_image_path": "images/16782.png"
+    }
+  ],
+  "synonyms": [
+    "jammed",
+    "choked",
+    "overcrowded",
+    "crowded",
+    "packed"
+  ],
+  "antonyms": [
+    "empty",
+    "clear",
+    "freed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/congested.mp3",
+  "local_sound_path": "sounds/congested.mp3"
+}

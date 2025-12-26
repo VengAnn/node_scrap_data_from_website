@@ -1,0 +1,33 @@
+{
+  "word": "touched",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "touched by his plight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90408.png",
+      "local_image_path": "images/90408.png"
+    },
+    {
+      "pos": "adj",
+      "example": "touched in the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90409.png",
+      "local_image_path": "images/90409.png"
+    }
+  ],
+  "synonyms": [
+    "affected",
+    "moved",
+    "upset",
+    "impressed",
+    "strike home"
+  ],
+  "antonyms": [
+    "unmoved",
+    "separated"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/touched.mp3",
+  "local_sound_path": "sounds/touched.mp3"
+}

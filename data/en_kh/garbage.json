@@ -1,0 +1,51 @@
+{
+  "word": "garbage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "gabage collection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31032.png",
+      "local_image_path": "images/31032.png"
+    },
+    {
+      "pos": "n",
+      "example": "He writes garbage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31033.png",
+      "local_image_path": "images/31033.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120579.png",
+      "local_image_path": "images/120579.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120580.png",
+      "local_image_path": "images/120580.png"
+    }
+  ],
+  "synonyms": [
+    "nonsense",
+    "trivia",
+    "rubbish",
+    "gobbledygook",
+    "drivel",
+    "hogwash",
+    "baloney",
+    "boloney"
+  ],
+  "antonyms": [
+    "sense"
+  ],
+  "similar_words": [
+    "garbage can",
+    "garbage man",
+    "garbage truck"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/garbage.mp3",
+  "local_sound_path": "sounds/garbage.mp3"
+}

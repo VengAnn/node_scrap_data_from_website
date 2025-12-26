@@ -1,0 +1,32 @@
+{
+  "word": "continue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "how far does the road continue?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17294.png",
+      "local_image_path": "images/17294.png"
+    },
+    {
+      "pos": "tv",
+      "example": "continue a project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17293.png",
+      "local_image_path": "images/17293.png"
+    }
+  ],
+  "synonyms": [
+    "resume"
+  ],
+  "antonyms": [
+    "stop",
+    "end"
+  ],
+  "similar_words": [
+    "continued fractions",
+    "continuer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/continue.mp3",
+  "local_sound_path": "sounds/continue.mp3"
+}

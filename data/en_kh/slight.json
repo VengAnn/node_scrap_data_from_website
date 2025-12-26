@@ -1,0 +1,75 @@
+{
+  "word": "slight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "slight increase",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81222.png",
+      "local_image_path": "images/81222.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81223.png",
+      "local_image_path": "images/81223.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81224.png",
+      "local_image_path": "images/81224.png"
+    },
+    {
+      "pos": "n",
+      "example": "slight of an heir",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81228.png",
+      "local_image_path": "images/81228.png"
+    },
+    {
+      "pos": "n",
+      "example": "intentional slight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81229.png",
+      "local_image_path": "images/81229.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slight the sugar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81225.png",
+      "local_image_path": "images/81225.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slight an heir",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81226.png",
+      "local_image_path": "images/81226.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slight an acquaintance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81227.png",
+      "local_image_path": "images/81227.png"
+    }
+  ],
+  "synonyms": [
+    "insult",
+    "offend",
+    "snub",
+    "scorn",
+    "affront"
+  ],
+  "antonyms": [
+    "considerable",
+    "stocky"
+  ],
+  "similar_words": [
+    "slighting",
+    "slightingly",
+    "slightly",
+    "slightness",
+    "slighty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slight.mp3",
+  "local_sound_path": "sounds/slight.mp3"
+}

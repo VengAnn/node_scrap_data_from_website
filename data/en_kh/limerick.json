@@ -1,0 +1,28 @@
+{
+  "word": "limerick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46621.png",
+      "local_image_path": "images/46621.png"
+    }
+  ],
+  "synonyms": [
+    "verse",
+    "rhyme",
+    "ode",
+    "sonnet",
+    "elegy",
+    "couplet",
+    "epic"
+  ],
+  "antonyms": [
+    "prose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/limerick.mp3",
+  "local_sound_path": "sounds/limerick.mp3"
+}

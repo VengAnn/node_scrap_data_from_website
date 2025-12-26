@@ -1,0 +1,42 @@
+{
+  "word": "astound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6034.png",
+      "local_image_path": "images/6034.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112820.png",
+      "local_image_path": "images/112820.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112821.png",
+      "local_image_path": "images/112821.png"
+    }
+  ],
+  "synonyms": [
+    "amaze",
+    "astonish",
+    "surprise",
+    "shock",
+    "dumbfound",
+    "flabbergast",
+    "overwhelm",
+    "daze"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "astounding",
+    "astoundingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astound.mp3",
+  "local_sound_path": "sounds/astound.mp3"
+}

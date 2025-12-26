@@ -1,0 +1,45 @@
+{
+  "word": "retention",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "retention of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73066.png",
+      "local_image_path": "images/73066.png"
+    },
+    {
+      "pos": "n",
+      "example": "Students have good retention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73067.png",
+      "local_image_path": "images/73067.png"
+    },
+    {
+      "pos": "n",
+      "example": "retention of old customers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73068.png",
+      "local_image_path": "images/73068.png"
+    },
+    {
+      "pos": "n",
+      "example": "retention of urine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73069.png",
+      "local_image_path": "images/73069.png"
+    }
+  ],
+  "synonyms": [
+    "preservation",
+    "maintenance",
+    "custody",
+    "memory",
+    "recollection"
+  ],
+  "antonyms": [
+    "release",
+    "forgetfulness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retention.mp3",
+  "local_sound_path": "sounds/retention.mp3"
+}

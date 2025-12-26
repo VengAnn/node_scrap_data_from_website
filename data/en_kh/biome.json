@@ -1,0 +1,33 @@
+{
+  "word": "biome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9060.png",
+      "local_image_path": "images/9060.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130010.png",
+      "local_image_path": "images/130010.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "biomechanics",
+    "biomedical research",
+    "biomedicine",
+    "biometric",
+    "biometrical",
+    "biometrically",
+    "biometrics",
+    "biometry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/biome.mp3",
+  "local_sound_path": "sounds/biome.mp3"
+}

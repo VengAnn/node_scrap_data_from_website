@@ -1,0 +1,49 @@
+{
+  "word": "discontent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21706.png",
+      "local_image_path": "images/21706.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118421.png",
+      "local_image_path": "images/118421.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118422.png",
+      "local_image_path": "images/118422.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21705.png",
+      "local_image_path": "images/21705.png"
+    }
+  ],
+  "synonyms": [
+    "dissatisfaction",
+    "unhappiness",
+    "restlessness",
+    "displeasure",
+    "sadness"
+  ],
+  "antonyms": [
+    "contentment"
+  ],
+  "similar_words": [
+    "discontented",
+    "discontentedly",
+    "discontentedness",
+    "discontentment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discontent.mp3",
+  "local_sound_path": "sounds/discontent.mp3"
+}

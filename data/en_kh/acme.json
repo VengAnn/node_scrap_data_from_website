@@ -1,0 +1,36 @@
+{
+  "word": "acme",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2087.png",
+      "local_image_path": "images/2087.png"
+    },
+    {
+      "pos": "n",
+      "example": "when he became president, he reached the acme of his hope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2086.png",
+      "local_image_path": "images/2086.png"
+    }
+  ],
+  "synonyms": [
+    "peak",
+    "height",
+    "summit",
+    "top",
+    "zenith",
+    "pinnacle",
+    "culmination",
+    "apex",
+    "apogee"
+  ],
+  "antonyms": [
+    "nadir"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acme.mp3",
+  "local_sound_path": "sounds/acme.mp3"
+}

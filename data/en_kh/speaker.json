@@ -1,0 +1,33 @@
+{
+  "word": "speaker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "public speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83132.png",
+      "local_image_path": "images/83132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83133.png",
+      "local_image_path": "images/83133.png"
+    },
+    {
+      "pos": "n",
+      "example": "radio speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83134.png",
+      "local_image_path": "images/83134.png"
+    }
+  ],
+  "synonyms": [
+    "amplifier",
+    "amp"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/speaker.mp3",
+  "local_sound_path": "sounds/speaker.mp3"
+}

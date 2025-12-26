@@ -1,0 +1,60 @@
+{
+  "word": "want",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "fulfill his want",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99006.png",
+      "local_image_path": "images/99006.png"
+    },
+    {
+      "pos": "n",
+      "example": "free from want",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99007.png",
+      "local_image_path": "images/99007.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99008.png",
+      "local_image_path": "images/99008.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I want some money today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99004.png",
+      "local_image_path": "images/99004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She wants to go to Italy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99005.png",
+      "local_image_path": "images/99005.png"
+    }
+  ],
+  "synonyms": [
+    "lack",
+    "absence",
+    "need",
+    "dearth",
+    "choose",
+    "like",
+    "desire"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "want wit",
+    "wantage",
+    "wanted",
+    "wanter",
+    "wanting",
+    "wantless",
+    "wanton",
+    "wantonly",
+    "wantonness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/want.mp3",
+  "local_sound_path": "sounds/want.mp3"
+}

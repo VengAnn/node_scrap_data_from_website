@@ -1,0 +1,69 @@
+{
+  "word": "fool",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29555.png",
+      "local_image_path": "images/29555.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I was only fooling when I said, I'd lost your keys.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29556.png",
+      "local_image_path": "images/29556.png"
+    },
+    {
+      "pos": "n",
+      "example": "avoid a fool",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29552.png",
+      "local_image_path": "images/29552.png"
+    },
+    {
+      "pos": "n",
+      "example": "professional fool",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29553.png",
+      "local_image_path": "images/29553.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29557.png",
+      "local_image_path": "images/29557.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29554.png",
+      "local_image_path": "images/29554.png"
+    }
+  ],
+  "synonyms": [
+    "trick",
+    "hoodwink",
+    "dupe",
+    "con",
+    "take in",
+    "deceive",
+    "bamboozle",
+    "mislead"
+  ],
+  "antonyms": [
+    "sage"
+  ],
+  "similar_words": [
+    "foolery",
+    "foolhardily",
+    "foolhardiness",
+    "foolhardy",
+    "foolish",
+    "foolishly",
+    "foolishness",
+    "foolproof",
+    "foolscap"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fool.mp3",
+  "local_sound_path": "sounds/fool.mp3"
+}

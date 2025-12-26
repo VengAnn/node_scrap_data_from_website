@@ -1,0 +1,32 @@
+{
+  "word": "lurch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The drunken man lurched along.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48130.png",
+      "local_image_path": "images/48130.png"
+    },
+    {
+      "pos": "n",
+      "example": "train gave a lurch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48131.png",
+      "local_image_path": "images/48131.png"
+    }
+  ],
+  "synonyms": [
+    "totter",
+    "stagger",
+    "stumble",
+    "sway",
+    "reel",
+    "falter",
+    "stammer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lurch.mp3",
+  "local_sound_path": "sounds/lurch.mp3"
+}

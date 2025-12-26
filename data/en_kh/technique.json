@@ -1,0 +1,37 @@
+{
+  "word": "technique",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "management technique",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87890.png",
+      "local_image_path": "images/87890.png"
+    },
+    {
+      "pos": "n",
+      "example": "new technique",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87891.png",
+      "local_image_path": "images/87891.png"
+    },
+    {
+      "pos": "n",
+      "example": "good technique",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87892.png",
+      "local_image_path": "images/87892.png"
+    }
+  ],
+  "synonyms": [
+    "method",
+    "system",
+    "practice",
+    "procedure",
+    "performance",
+    "skill"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/technique.mp3",
+  "local_sound_path": "sounds/technique.mp3"
+}

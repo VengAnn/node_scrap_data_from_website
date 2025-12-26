@@ -1,0 +1,30 @@
+{
+  "word": "foe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29435.png",
+      "local_image_path": "images/29435.png"
+    }
+  ],
+  "synonyms": [
+    "enemy",
+    "antagonist",
+    "rival",
+    "opponent",
+    "adversary"
+  ],
+  "antonyms": [
+    "friend"
+  ],
+  "similar_words": [
+    "foeman",
+    "foetal",
+    "foetus"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foe.mp3",
+  "local_sound_path": "sounds/foe.mp3"
+}

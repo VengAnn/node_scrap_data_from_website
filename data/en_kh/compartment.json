@@ -1,0 +1,32 @@
+{
+  "word": "compartment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "compartment of a box",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16174.png",
+      "local_image_path": "images/16174.png"
+    }
+  ],
+  "synonyms": [
+    "section",
+    "cubicle",
+    "booth",
+    "stall",
+    "partition",
+    "box",
+    "slot",
+    "part"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "compartmental",
+    "compartmentalise",
+    "compartmentalization",
+    "compartmentalize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compartment.mp3",
+  "local_sound_path": "sounds/compartment.mp3"
+}

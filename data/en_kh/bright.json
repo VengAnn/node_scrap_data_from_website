@@ -1,0 +1,85 @@
+{
+  "word": "bright",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bright colors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11135.png",
+      "local_image_path": "images/11135.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115635.png",
+      "local_image_path": "images/115635.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115636.png",
+      "local_image_path": "images/115636.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115637.png",
+      "local_image_path": "images/115637.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115638.png",
+      "local_image_path": "images/115638.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115639.png",
+      "local_image_path": "images/115639.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115640.png",
+      "local_image_path": "images/115640.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11136.png",
+      "local_image_path": "images/11136.png"
+    }
+  ],
+  "synonyms": [
+    "cheerful",
+    "happy",
+    "lively",
+    "optimistic",
+    "positive",
+    "upbeat",
+    "intelligent",
+    "clever",
+    "smart",
+    "brainy",
+    "quick",
+    "sharp",
+    "sharp-witted"
+  ],
+  "antonyms": [
+    "dark",
+    "unintelligent",
+    "gloomy"
+  ],
+  "similar_words": [
+    "brighten",
+    "brightener",
+    "brightly",
+    "brightness",
+    "brightsome",
+    "brightwork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bright.mp3",
+  "local_sound_path": "sounds/bright.mp3"
+}

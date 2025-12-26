@@ -1,0 +1,54 @@
+{
+  "word": "attraction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "coming attraction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6301.png",
+      "local_image_path": "images/6301.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114253.png",
+      "local_image_path": "images/114253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114254.png",
+      "local_image_path": "images/114254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114255.png",
+      "local_image_path": "images/114255.png"
+    }
+  ],
+  "synonyms": [
+    "appeal",
+    "lure",
+    "desirability",
+    "value",
+    "charm",
+    "fascination",
+    "allure",
+    "temptation",
+    "enticement",
+    "benefit",
+    "magnetism",
+    "pull",
+    "hold",
+    "draw",
+    "attractiveness"
+  ],
+  "antonyms": [
+    "repulsion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attraction.mp3",
+  "local_sound_path": "sounds/attraction.mp3"
+}

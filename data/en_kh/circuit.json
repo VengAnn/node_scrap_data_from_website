@@ -1,0 +1,58 @@
+{
+  "word": "circuit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "circuit court",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14576.png",
+      "local_image_path": "images/14576.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14574.png",
+      "local_image_path": "images/14574.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116341.png",
+      "local_image_path": "images/116341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116342.png",
+      "local_image_path": "images/116342.png"
+    },
+    {
+      "pos": "tv",
+      "example": "circuit a city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14575.png",
+      "local_image_path": "images/14575.png"
+    }
+  ],
+  "synonyms": [
+    "tour",
+    "trip",
+    "route",
+    "course",
+    "track",
+    "trail",
+    "path"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "circuit court",
+    "circuit rider",
+    "circuitous",
+    "circuitously",
+    "circuitousness",
+    "circuitry",
+    "circuity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/circuit.mp3",
+  "local_sound_path": "sounds/circuit.mp3"
+}

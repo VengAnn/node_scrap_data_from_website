@@ -1,0 +1,79 @@
+{
+  "word": "heat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34314.png",
+      "local_image_path": "images/34314.png"
+    },
+    {
+      "pos": "n",
+      "example": "heat of a fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34310.png",
+      "local_image_path": "images/34310.png"
+    },
+    {
+      "pos": "n",
+      "example": "heat of an argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34311.png",
+      "local_image_path": "images/34311.png"
+    },
+    {
+      "pos": "n",
+      "example": "heat of a race",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34312.png",
+      "local_image_path": "images/34312.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34313.png",
+      "local_image_path": "images/34313.png"
+    }
+  ],
+  "synonyms": [
+    "round",
+    "leg",
+    "stage",
+    "section",
+    "part",
+    "warm",
+    "reheat",
+    "roast",
+    "boil",
+    "cook",
+    "microwave"
+  ],
+  "antonyms": [
+    "coldness",
+    "cool",
+    "indifference"
+  ],
+  "similar_words": [
+    "heat exhaustion",
+    "heat of passion",
+    "heat stroke",
+    "heat-wave",
+    "heated",
+    "heatedly",
+    "heater",
+    "heath",
+    "heathen",
+    "heathendom",
+    "heathenish",
+    "heathenishly",
+    "heathenishness",
+    "heathenism",
+    "heathenize",
+    "heather",
+    "heathy",
+    "heating",
+    "heatless",
+    "heatstroke"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heat.mp3",
+  "local_sound_path": "sounds/heat.mp3"
+}

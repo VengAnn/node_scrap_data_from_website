@@ -1,0 +1,37 @@
+{
+  "word": "roof",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "house roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74095.png",
+      "local_image_path": "images/74095.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74096.png",
+      "local_image_path": "images/74096.png"
+    }
+  ],
+  "synonyms": [
+    "top",
+    "crown",
+    "covering",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "roofed",
+    "roofer",
+    "roofies",
+    "roofing",
+    "roofless",
+    "rooftop",
+    "rooftree"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/roof.mp3",
+  "local_sound_path": "sounds/roof.mp3"
+}

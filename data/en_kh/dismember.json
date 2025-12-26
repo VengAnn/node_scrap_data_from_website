@@ -1,0 +1,31 @@
+{
+  "word": "dismember",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The victime's dismembered body was found in a trunk.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21983.png",
+      "local_image_path": "images/21983.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21984.png",
+      "local_image_path": "images/21984.png"
+    }
+  ],
+  "synonyms": [
+    "dissect",
+    "mutilate",
+    "disarticulate",
+    "disjoint"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dismemberment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dismember.mp3",
+  "local_sound_path": "sounds/dismember.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "successful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85983.png",
+      "local_image_path": "images/85983.png"
+    }
+  ],
+  "synonyms": [
+    "thriving",
+    "booming",
+    "profitable",
+    "lucrative",
+    "winning",
+    "victorious",
+    "triumphant",
+    "unbeaten"
+  ],
+  "antonyms": [
+    "unsuccessful",
+    "ailing"
+  ],
+  "similar_words": [
+    "successfully",
+    "successfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/successful.mp3",
+  "local_sound_path": "sounds/successful.mp3"
+}

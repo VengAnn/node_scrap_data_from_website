@@ -1,0 +1,46 @@
+{
+  "word": "ambiguous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3791.png",
+      "local_image_path": "images/3791.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112442.png",
+      "local_image_path": "images/112442.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112443.png",
+      "local_image_path": "images/112443.png"
+    }
+  ],
+  "synonyms": [
+    "vague",
+    "unclear",
+    "uncertain",
+    "indefinite",
+    "confusing",
+    "indistinct",
+    "hazy",
+    "abstruse",
+    "equivocal",
+    "woolly"
+  ],
+  "antonyms": [
+    "clear"
+  ],
+  "similar_words": [
+    "ambiguously",
+    "ambiguousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ambiguous.mp3",
+  "local_sound_path": "sounds/ambiguous.mp3"
+}

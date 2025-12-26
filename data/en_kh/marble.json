@@ -1,0 +1,38 @@
+{
+  "word": "marble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106185.png",
+      "local_image_path": "images/106185.png"
+    },
+    {
+      "pos": "n",
+      "example": "play with marble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106186.png",
+      "local_image_path": "images/106186.png"
+    }
+  ],
+  "synonyms": [
+    "mineral",
+    "sandstone",
+    "limestone",
+    "granite"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "marble flower",
+    "marble-breasted",
+    "marbled",
+    "marblehead",
+    "marblehearted",
+    "marbleize",
+    "marbler",
+    "marblewood"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/marble.mp3",
+  "local_sound_path": "sounds/marble.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "genealogy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "family genealogy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31355.png",
+      "local_image_path": "images/31355.png"
+    },
+    {
+      "pos": "n",
+      "example": "study of genealogy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31356.png",
+      "local_image_path": "images/31356.png"
+    }
+  ],
+  "synonyms": [
+    "family tree",
+    "descent",
+    "lineage",
+    "pedigree",
+    "family"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/genealogy.mp3",
+  "local_sound_path": "sounds/genealogy.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "bladder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9340.png",
+      "local_image_path": "images/9340.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115144.png",
+      "local_image_path": "images/115144.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115145.png",
+      "local_image_path": "images/115145.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115146.png",
+      "local_image_path": "images/115146.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bladder control",
+    "bladder infection",
+    "bladder-wort",
+    "bladdered"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bladder.mp3",
+  "local_sound_path": "sounds/bladder.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "builder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he is a builder of this table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11726.png",
+      "local_image_path": "images/11726.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115771.png",
+      "local_image_path": "images/115771.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115772.png",
+      "local_image_path": "images/115772.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115773.png",
+      "local_image_path": "images/115773.png"
+    }
+  ],
+  "synonyms": [
+    "designer",
+    "draftsman",
+    "planner",
+    "engineer",
+    "draughtsman"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/builder.mp3",
+  "local_sound_path": "sounds/builder.mp3"
+}

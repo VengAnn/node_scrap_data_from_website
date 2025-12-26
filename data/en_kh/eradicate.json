@@ -1,0 +1,49 @@
+{
+  "word": "eradicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25691.png",
+      "local_image_path": "images/25691.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119377.png",
+      "local_image_path": "images/119377.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119378.png",
+      "local_image_path": "images/119378.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119379.png",
+      "local_image_path": "images/119379.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119380.png",
+      "local_image_path": "images/119380.png"
+    }
+  ],
+  "synonyms": [
+    "eliminate",
+    "destroy",
+    "exterminate",
+    "remove"
+  ],
+  "antonyms": [
+    "introduce"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eradicate.mp3",
+  "local_sound_path": "sounds/eradicate.mp3"
+}

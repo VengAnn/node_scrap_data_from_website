@@ -1,0 +1,46 @@
+{
+  "word": "regulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "regulate their activities",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71655.png",
+      "local_image_path": "images/71655.png"
+    },
+    {
+      "pos": "tv",
+      "example": "regulate the controls",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71656.png",
+      "local_image_path": "images/71656.png"
+    },
+    {
+      "pos": "tv",
+      "example": "regulate the voltage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71657.png",
+      "local_image_path": "images/71657.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71658.png",
+      "local_image_path": "images/71658.png"
+    }
+  ],
+  "synonyms": [
+    "control",
+    "order",
+    "adjust",
+    "normalize",
+    "legalize",
+    "standardize",
+    "police",
+    "set",
+    "synchronize"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/regulate.mp3",
+  "local_sound_path": "sounds/regulate.mp3"
+}

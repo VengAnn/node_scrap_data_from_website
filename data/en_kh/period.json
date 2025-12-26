@@ -1,0 +1,65 @@
+{
+  "word": "period",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61766.png",
+      "local_image_path": "images/61766.png"
+    },
+    {
+      "pos": "n",
+      "example": "period of time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61767.png",
+      "local_image_path": "images/61767.png"
+    },
+    {
+      "pos": "n",
+      "example": "period of history",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61768.png",
+      "local_image_path": "images/61768.png"
+    },
+    {
+      "pos": "n",
+      "example": "third period",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61769.png",
+      "local_image_path": "images/61769.png"
+    },
+    {
+      "pos": "n",
+      "example": "menstrual period",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61770.png",
+      "local_image_path": "images/61770.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61771.png",
+      "local_image_path": "images/61771.png"
+    }
+  ],
+  "synonyms": [
+    "dot",
+    "spot",
+    "point",
+    "full stop",
+    "stop"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "periodic",
+    "periodical",
+    "periodically",
+    "periodicity",
+    "periodontal",
+    "periodontally",
+    "periodontic",
+    "periodontical",
+    "periodontics",
+    "periodontist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/period.mp3",
+  "local_sound_path": "sounds/period.mp3"
+}

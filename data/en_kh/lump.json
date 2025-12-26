@@ -1,0 +1,75 @@
+{
+  "word": "lump",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lump sugar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48060.png",
+      "local_image_path": "images/48060.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48054.png",
+      "local_image_path": "images/48054.png"
+    },
+    {
+      "pos": "n",
+      "example": "lump of iron",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48055.png",
+      "local_image_path": "images/48055.png"
+    },
+    {
+      "pos": "n",
+      "example": "lump sum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48056.png",
+      "local_image_path": "images/48056.png"
+    },
+    {
+      "pos": "n",
+      "example": "lump on the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48057.png",
+      "local_image_path": "images/48057.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48058.png",
+      "local_image_path": "images/48058.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48059.png",
+      "local_image_path": "images/48059.png"
+    }
+  ],
+  "synonyms": [
+    "collect",
+    "combine",
+    "join",
+    "amalgamate",
+    "mass",
+    "consolidate",
+    "group",
+    "conjoin"
+  ],
+  "antonyms": [
+    "split"
+  ],
+  "similar_words": [
+    "lumper",
+    "lumpet",
+    "lumping",
+    "lumpingly",
+    "lumpish",
+    "lumpishly",
+    "lumpishness",
+    "lumpkin",
+    "lumpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lump.mp3",
+  "local_sound_path": "sounds/lump.mp3"
+}

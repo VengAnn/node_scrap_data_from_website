@@ -1,0 +1,65 @@
+{
+  "word": "wanton",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wanton destruction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99014.png",
+      "local_image_path": "images/99014.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wanton woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99015.png",
+      "local_image_path": "images/99015.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99016.png",
+      "local_image_path": "images/99016.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129833.png",
+      "local_image_path": "images/129833.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129834.png",
+      "local_image_path": "images/129834.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99017.png",
+      "local_image_path": "images/99017.png"
+    }
+  ],
+  "synonyms": [
+    "immoral",
+    "immodest",
+    "shameless",
+    "abandoned",
+    "licentious",
+    "lustful",
+    "impious",
+    "dissipated",
+    "dissolute"
+  ],
+  "antonyms": [
+    "justifiable",
+    "chaste",
+    "benign"
+  ],
+  "similar_words": [
+    "wantonly",
+    "wantonness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wanton.mp3",
+  "local_sound_path": "sounds/wanton.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "word": "potion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65636.png",
+      "local_image_path": "images/65636.png"
+    }
+  ],
+  "synonyms": [
+    "medicine",
+    "concoction",
+    "mixture",
+    "brew",
+    "tonic",
+    "liquid",
+    "remedy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/potion.mp3",
+  "local_sound_path": "sounds/potion.mp3"
+}

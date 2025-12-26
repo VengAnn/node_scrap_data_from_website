@@ -1,0 +1,60 @@
+{
+  "word": "relapse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71812.png",
+      "local_image_path": "images/71812.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71813.png",
+      "local_image_path": "images/71813.png"
+    },
+    {
+      "pos": "iv",
+      "example": "patients relapse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71814.png",
+      "local_image_path": "images/71814.png"
+    },
+    {
+      "pos": "n",
+      "example": "moral relapse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71815.png",
+      "local_image_path": "images/71815.png"
+    },
+    {
+      "pos": "n",
+      "example": "patient had a relapse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71816.png",
+      "local_image_path": "images/71816.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126750.png",
+      "local_image_path": "images/126750.png"
+    }
+  ],
+  "synonyms": [
+    "revert",
+    "deteriorate",
+    "degenerate",
+    "worsen",
+    "lapse"
+  ],
+  "antonyms": [
+    "improvement",
+    "improve"
+  ],
+  "similar_words": [
+    "relapse fever",
+    "relapser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relapse.mp3",
+  "local_sound_path": "sounds/relapse.mp3"
+}

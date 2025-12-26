@@ -1,0 +1,29 @@
+{
+  "word": "guillotine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33222.png",
+      "local_image_path": "images/33222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33223.png",
+      "local_image_path": "images/33223.png"
+    }
+  ],
+  "synonyms": [
+    "behead",
+    "decapitate",
+    "execute",
+    "kill"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guillotine.mp3",
+  "local_sound_path": "sounds/guillotine.mp3"
+}

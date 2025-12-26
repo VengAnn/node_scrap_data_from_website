@@ -1,0 +1,80 @@
+{
+  "word": "bloc",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "capitalist bloc",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9598.png",
+      "local_image_path": "images/9598.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115226.png",
+      "local_image_path": "images/115226.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115227.png",
+      "local_image_path": "images/115227.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115228.png",
+      "local_image_path": "images/115228.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115229.png",
+      "local_image_path": "images/115229.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115230.png",
+      "local_image_path": "images/115230.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9597.png",
+      "local_image_path": "images/9597.png"
+    }
+  ],
+  "synonyms": [
+    "community",
+    "coalition",
+    "union",
+    "alliance",
+    "federation",
+    "league",
+    "syndicate",
+    "confederacy",
+    "partnership"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bloch",
+    "block",
+    "block and tackle",
+    "block head",
+    "block letter",
+    "block plan",
+    "block printing",
+    "block signal",
+    "block system",
+    "blockade",
+    "blockade-runner",
+    "blockade-running",
+    "blockader",
+    "blockage",
+    "blockbuster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bloc.mp3",
+  "local_sound_path": "sounds/bloc.mp3"
+}

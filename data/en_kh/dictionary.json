@@ -1,0 +1,24 @@
+{
+  "word": "dictionary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21260.png",
+      "local_image_path": "images/21260.png"
+    }
+  ],
+  "synonyms": [
+    "lexicon",
+    "vocabulary",
+    "glossary",
+    "phrase book",
+    "thesaurus"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dictionary.mp3",
+  "local_sound_path": "sounds/dictionary.mp3"
+}

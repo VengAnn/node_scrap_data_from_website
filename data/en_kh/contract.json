@@ -1,0 +1,49 @@
+{
+  "word": "contract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17330.png",
+      "local_image_path": "images/17330.png"
+    },
+    {
+      "pos": "n",
+      "example": "we have a contract with the government to supply vehicles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17327.png",
+      "local_image_path": "images/17327.png"
+    },
+    {
+      "pos": "tv",
+      "example": "contract a muscle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17328.png",
+      "local_image_path": "images/17328.png"
+    },
+    {
+      "pos": "tv",
+      "example": "contract a disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17329.png",
+      "local_image_path": "images/17329.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "expand"
+  ],
+  "similar_words": [
+    "contract law",
+    "contract note",
+    "contractible",
+    "contractile",
+    "contraction",
+    "contractor",
+    "contractual",
+    "contractual payment",
+    "contractually",
+    "contracture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contract.mp3",
+  "local_sound_path": "sounds/contract.mp3"
+}

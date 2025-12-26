@@ -1,0 +1,29 @@
+{
+  "word": "wealthy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wealthy family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99493.png",
+      "local_image_path": "images/99493.png"
+    }
+  ],
+  "synonyms": [
+    "rich",
+    "well-off",
+    "well-to-do",
+    "affluent",
+    "prosperous",
+    "flush",
+    "loaded",
+    "moneyed"
+  ],
+  "antonyms": [
+    "poor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wealthy.mp3",
+  "local_sound_path": "sounds/wealthy.mp3"
+}

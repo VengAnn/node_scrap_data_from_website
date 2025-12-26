@@ -1,0 +1,47 @@
+{
+  "word": "sleeping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sleeping room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81120.png",
+      "local_image_path": "images/81120.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81121.png",
+      "local_image_path": "images/81121.png"
+    }
+  ],
+  "synonyms": [
+    "latent",
+    "inactive",
+    "resting",
+    "undeveloped",
+    "hidden",
+    "quiescent"
+  ],
+  "antonyms": [
+    "active",
+    "awake"
+  ],
+  "similar_words": [
+    "sleeping bag",
+    "sleeping-accommodation",
+    "sleeping-car",
+    "sleeping-chamber",
+    "sleeping-compartment",
+    "sleeping-draught",
+    "sleeping-partner",
+    "sleeping-pill",
+    "sleeping-potion",
+    "sleeping-room",
+    "sleeping-sickness",
+    "sleeping-suit"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sleeping.mp3",
+  "local_sound_path": "sounds/sleeping.mp3"
+}

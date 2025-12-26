@@ -1,0 +1,31 @@
+{
+  "word": "causative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13420.png",
+      "local_image_path": "images/13420.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116072.png",
+      "local_image_path": "images/116072.png"
+    }
+  ],
+  "synonyms": [
+    "causal",
+    "contributory",
+    "instrumental",
+    "connective",
+    "relevant",
+    "two-way"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/causative.mp3",
+  "local_sound_path": "sounds/causative.mp3"
+}

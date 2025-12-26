@@ -1,0 +1,62 @@
+{
+  "word": "pour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65697.png",
+      "local_image_path": "images/65697.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65698.png",
+      "local_image_path": "images/65698.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65699.png",
+      "local_image_path": "images/65699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65695.png",
+      "local_image_path": "images/65695.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pour water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65696.png",
+      "local_image_path": "images/65696.png"
+    }
+  ],
+  "synonyms": [
+    "swarm",
+    "crowd",
+    "teem",
+    "stream",
+    "gush",
+    "flow",
+    "rush",
+    "surge",
+    "cascade",
+    "course"
+  ],
+  "antonyms": [
+    "drizzle",
+    "trickle"
+  ],
+  "similar_words": [
+    "pourboire",
+    "pourer",
+    "pouring",
+    "pourparler",
+    "pourpoint"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pour.mp3",
+  "local_sound_path": "sounds/pour.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "agile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2952.png",
+      "local_image_path": "images/2952.png"
+    }
+  ],
+  "synonyms": [
+    "nimble",
+    "supple",
+    "lithe",
+    "lively",
+    "sprightly",
+    "alert",
+    "responsive",
+    "swift",
+    "active",
+    "clear-headed",
+    "bright"
+  ],
+  "antonyms": [
+    "clumsy",
+    "dull"
+  ],
+  "similar_words": [
+    "agilely",
+    "agileness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agile.mp3",
+  "local_sound_path": "sounds/agile.mp3"
+}

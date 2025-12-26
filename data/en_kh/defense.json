@@ -1,0 +1,58 @@
+{
+  "word": "defense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "national defense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20146.png",
+      "local_image_path": "images/20146.png"
+    },
+    {
+      "pos": "n",
+      "example": "defense of an accused",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20147.png",
+      "local_image_path": "images/20147.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117890.png",
+      "local_image_path": "images/117890.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117891.png",
+      "local_image_path": "images/117891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117892.png",
+      "local_image_path": "images/117892.png"
+    }
+  ],
+  "synonyms": [
+    "argument",
+    "justification",
+    "vindication",
+    "plea",
+    "apology",
+    "excuse"
+  ],
+  "antonyms": [
+    "attack",
+    "accusation"
+  ],
+  "similar_words": [
+    "defense department",
+    "defenseless",
+    "defenselessly",
+    "defenselessness",
+    "defenseman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defense.mp3",
+  "local_sound_path": "sounds/defense.mp3"
+}

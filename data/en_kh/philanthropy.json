@@ -1,0 +1,44 @@
+{
+  "word": "philanthropy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62487.png",
+      "local_image_path": "images/62487.png"
+    },
+    {
+      "pos": "n",
+      "example": "spend a fortune in philanthropy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62488.png",
+      "local_image_path": "images/62488.png"
+    },
+    {
+      "pos": "n",
+      "example": "life of philanthropy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62489.png",
+      "local_image_path": "images/62489.png"
+    }
+  ],
+  "synonyms": [
+    "charity",
+    "compassion",
+    "patronage",
+    "humanity",
+    "generosity",
+    "benevolence",
+    "altruism",
+    "clemency",
+    "goodwill",
+    "amity"
+  ],
+  "antonyms": [
+    "nastiness",
+    "misanthropy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/philanthropy.mp3",
+  "local_sound_path": "sounds/philanthropy.mp3"
+}

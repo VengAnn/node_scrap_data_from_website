@@ -1,0 +1,34 @@
+{
+  "word": "actually",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2259.png",
+      "local_image_path": "images/2259.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111886.png",
+      "local_image_path": "images/111886.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113213.png",
+      "local_image_path": "images/113213.png"
+    }
+  ],
+  "synonyms": [
+    "really",
+    "truly",
+    "essentially"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/actually.mp3",
+  "local_sound_path": "sounds/actually.mp3"
+}

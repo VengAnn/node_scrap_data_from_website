@@ -1,0 +1,43 @@
+{
+  "word": "peacock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60908.png",
+      "local_image_path": "images/60908.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60906.png",
+      "local_image_path": "images/60906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60907.png",
+      "local_image_path": "images/60907.png"
+    }
+  ],
+  "synonyms": [
+    "egoist",
+    "exhibitionist",
+    "dandy",
+    "fop",
+    "coxcomb"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "peacock blue",
+    "peacock's tail",
+    "peacock-flower",
+    "peacockblue",
+    "peacockish",
+    "peacocky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peacock.mp3",
+  "local_sound_path": "sounds/peacock.mp3"
+}

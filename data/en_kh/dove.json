@@ -1,0 +1,31 @@
+{
+  "word": "dove",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "political dove",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22867.png",
+      "local_image_path": "images/22867.png"
+    },
+    {
+      "pos": "n",
+      "example": "cooing of a dove",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22866.png",
+      "local_image_path": "images/22866.png"
+    }
+  ],
+  "synonyms": [
+    "fell"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dovecot",
+    "dovelet",
+    "dovelike",
+    "dovetail"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dove.mp3",
+  "local_sound_path": "sounds/dove.mp3"
+}

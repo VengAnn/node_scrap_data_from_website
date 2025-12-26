@@ -1,0 +1,40 @@
+{
+  "word": "astonishing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6031.png",
+      "local_image_path": "images/6031.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112818.png",
+      "local_image_path": "images/112818.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112819.png",
+      "local_image_path": "images/112819.png"
+    }
+  ],
+  "synonyms": [
+    "amazing",
+    "surprising",
+    "astounding",
+    "shocking",
+    "overwhelming"
+  ],
+  "antonyms": [
+    "predictable"
+  ],
+  "similar_words": [
+    "astonishingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astonishing.mp3",
+  "local_sound_path": "sounds/astonishing.mp3"
+}

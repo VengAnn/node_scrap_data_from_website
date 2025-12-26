@@ -1,0 +1,27 @@
+{
+  "word": "leprechaun",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45919.png",
+      "local_image_path": "images/45919.png"
+    }
+  ],
+  "synonyms": [
+    "sprite",
+    "elf",
+    "imp",
+    "dwarf",
+    "pixie",
+    "pixy",
+    "gnome",
+    "goblin"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leprechaun.mp3",
+  "local_sound_path": "sounds/leprechaun.mp3"
+}

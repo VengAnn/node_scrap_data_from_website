@@ -1,0 +1,47 @@
+{
+  "word": "baleful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7174.png",
+      "local_image_path": "images/7174.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114467.png",
+      "local_image_path": "images/114467.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114468.png",
+      "local_image_path": "images/114468.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114469.png",
+      "local_image_path": "images/114469.png"
+    }
+  ],
+  "synonyms": [
+    "malevolent",
+    "sinister",
+    "malignant",
+    "vindictive",
+    "spiteful"
+  ],
+  "antonyms": [
+    "benevolent"
+  ],
+  "similar_words": [
+    "balefully",
+    "balefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baleful.mp3",
+  "local_sound_path": "sounds/baleful.mp3"
+}

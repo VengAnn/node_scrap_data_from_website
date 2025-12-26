@@ -1,0 +1,41 @@
+{
+  "word": "blotch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9729.png",
+      "local_image_path": "images/9729.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9731.png",
+      "local_image_path": "images/9731.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9730.png",
+      "local_image_path": "images/9730.png"
+    }
+  ],
+  "synonyms": [
+    "mark",
+    "blemish",
+    "spot",
+    "splotch",
+    "stain",
+    "imperfection",
+    "blot"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blotched",
+    "blotchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blotch.mp3",
+  "local_sound_path": "sounds/blotch.mp3"
+}

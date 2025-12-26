@@ -1,0 +1,58 @@
+{
+  "word": "classic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14825.png",
+      "local_image_path": "images/14825.png"
+    },
+    {
+      "pos": "adj",
+      "example": "classic example",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14826.png",
+      "local_image_path": "images/14826.png"
+    },
+    {
+      "pos": "adj",
+      "example": "classic architechure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14827.png",
+      "local_image_path": "images/14827.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14828.png",
+      "local_image_path": "images/14828.png"
+    }
+  ],
+  "synonyms": [
+    "traditional",
+    "simple",
+    "stylish",
+    "elegant",
+    "timeless",
+    "enduring",
+    "masterpiece",
+    "landmark",
+    "benchmark",
+    "model",
+    "masterwork",
+    "prototype",
+    "standard"
+  ],
+  "antonyms": [
+    "atypical",
+    "modern"
+  ],
+  "similar_words": [
+    "classical",
+    "classicism",
+    "classicist",
+    "classics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/classic.mp3",
+  "local_sound_path": "sounds/classic.mp3"
+}

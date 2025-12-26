@@ -1,0 +1,57 @@
+{
+  "word": "crook",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I am feeling a bit crook.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18697.png",
+      "local_image_path": "images/18697.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18699.png",
+      "local_image_path": "images/18699.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18695.png",
+      "local_image_path": "images/18695.png"
+    },
+    {
+      "pos": "n",
+      "example": "The crooks got away with most of the money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18696.png",
+      "local_image_path": "images/18696.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18698.png",
+      "local_image_path": "images/18698.png"
+    }
+  ],
+  "synonyms": [
+    "criminal",
+    "offender",
+    "villain",
+    "felon",
+    "robber",
+    "lawbreaker",
+    "outlaw",
+    "convict",
+    "jailbird",
+    "malefactor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "crooked",
+    "crookedly",
+    "crookedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crook.mp3",
+  "local_sound_path": "sounds/crook.mp3"
+}

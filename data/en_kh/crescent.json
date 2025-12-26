@@ -1,0 +1,40 @@
+{
+  "word": "crescent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "crescent shape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18545.png",
+      "local_image_path": "images/18545.png"
+    },
+    {
+      "pos": "adj",
+      "example": "crescent moon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18546.png",
+      "local_image_path": "images/18546.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18544.png",
+      "local_image_path": "images/18544.png"
+    }
+  ],
+  "synonyms": [
+    "semi-circular",
+    "hemispherical",
+    "falcate",
+    "curved",
+    "horseshoe",
+    "curve",
+    "arc",
+    "loop",
+    "bend"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crescent.mp3",
+  "local_sound_path": "sounds/crescent.mp3"
+}

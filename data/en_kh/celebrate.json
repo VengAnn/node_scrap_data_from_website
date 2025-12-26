@@ -1,0 +1,33 @@
+{
+  "word": "celebrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "celebrate marriage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13485.png",
+      "local_image_path": "images/13485.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116099.png",
+      "local_image_path": "images/116099.png"
+    }
+  ],
+  "synonyms": [
+    "commemorate",
+    "observe",
+    "mark",
+    "keep",
+    "remember",
+    "honor"
+  ],
+  "antonyms": [
+    "lament"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/celebrate.mp3",
+  "local_sound_path": "sounds/celebrate.mp3"
+}

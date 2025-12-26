@@ -1,0 +1,27 @@
+{
+  "word": "carpenter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13057.png",
+      "local_image_path": "images/13057.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13056.png",
+      "local_image_path": "images/13056.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "carpenter ant",
+    "carpenter bee"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carpenter.mp3",
+  "local_sound_path": "sounds/carpenter.mp3"
+}

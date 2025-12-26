@@ -1,0 +1,106 @@
+{
+  "word": "foul",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "foul smell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29970.png",
+      "local_image_path": "images/29970.png"
+    },
+    {
+      "pos": "adj",
+      "example": "foul weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29971.png",
+      "local_image_path": "images/29971.png"
+    },
+    {
+      "pos": "adj",
+      "example": "foul mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29972.png",
+      "local_image_path": "images/29972.png"
+    },
+    {
+      "pos": "adj",
+      "example": "foul language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29973.png",
+      "local_image_path": "images/29973.png"
+    },
+    {
+      "pos": "adj",
+      "example": "foul ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29974.png",
+      "local_image_path": "images/29974.png"
+    },
+    {
+      "pos": "iv",
+      "example": "foul lines",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29979.png",
+      "local_image_path": "images/29979.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29980.png",
+      "local_image_path": "images/29980.png"
+    },
+    {
+      "pos": "n",
+      "example": "personal foul",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29975.png",
+      "local_image_path": "images/29975.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29976.png",
+      "local_image_path": "images/29976.png"
+    },
+    {
+      "pos": "tv",
+      "example": "foul the air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29977.png",
+      "local_image_path": "images/29977.png"
+    },
+    {
+      "pos": "tv",
+      "example": "foul a drain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29978.png",
+      "local_image_path": "images/29978.png"
+    }
+  ],
+  "synonyms": [
+    "horrible",
+    "rotten",
+    "terrible",
+    "dreadful",
+    "frightful",
+    "abominable",
+    "wild",
+    "violent",
+    "stormy",
+    "pollute",
+    "soil",
+    "contaminate",
+    "sully",
+    "defile",
+    "taint"
+  ],
+  "antonyms": [
+    "clean",
+    "pleasant",
+    "fair",
+    "decent",
+    "charming",
+    "legitimate",
+    "free"
+  ],
+  "similar_words": [
+    "foul-mouthed",
+    "foully",
+    "foulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foul.mp3",
+  "local_sound_path": "sounds/foul.mp3"
+}

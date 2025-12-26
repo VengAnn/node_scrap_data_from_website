@@ -1,0 +1,51 @@
+{
+  "word": "bilk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8907.png",
+      "local_image_path": "images/8907.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8906.png",
+      "local_image_path": "images/8906.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115072.png",
+      "local_image_path": "images/115072.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115073.png",
+      "local_image_path": "images/115073.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115074.png",
+      "local_image_path": "images/115074.png"
+    }
+  ],
+  "synonyms": [
+    "deceive",
+    "trick",
+    "con",
+    "swindle",
+    "defraud",
+    "bamboozle",
+    "dupe",
+    "cheat"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bilk.mp3",
+  "local_sound_path": "sounds/bilk.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "coax",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "he coaxed her into letting him take her to the cinema",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15308.png",
+      "local_image_path": "images/15308.png"
+    },
+    {
+      "pos": "tv",
+      "example": "coax oneself to slumber",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15309.png",
+      "local_image_path": "images/15309.png"
+    }
+  ],
+  "synonyms": [
+    "wheedle",
+    "persuade",
+    "sweet-talk",
+    "cajole",
+    "charm",
+    "entice",
+    "inveigle",
+    "lure",
+    "tempt"
+  ],
+  "antonyms": [
+    "force"
+  ],
+  "similar_words": [
+    "coaxer",
+    "coaxial",
+    "coaxing",
+    "coaxingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coax.mp3",
+  "local_sound_path": "sounds/coax.mp3"
+}

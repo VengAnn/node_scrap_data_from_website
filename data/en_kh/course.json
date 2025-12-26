@@ -1,0 +1,54 @@
+{
+  "word": "course",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The blood coursed through this veins",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18179.png",
+      "local_image_path": "images/18179.png"
+    },
+    {
+      "pos": "n",
+      "example": "course of a ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18175.png",
+      "local_image_path": "images/18175.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18176.png",
+      "local_image_path": "images/18176.png"
+    },
+    {
+      "pos": "tv",
+      "example": "course the oceans",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18177.png",
+      "local_image_path": "images/18177.png"
+    },
+    {
+      "pos": "tv",
+      "example": "course deer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18178.png",
+      "local_image_path": "images/18178.png"
+    }
+  ],
+  "synonyms": [
+    "flow",
+    "pour",
+    "run",
+    "gush",
+    "stream",
+    "surge"
+  ],
+  "antonyms": [
+    "trickle"
+  ],
+  "similar_words": [
+    "courser",
+    "courseware"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/course.mp3",
+  "local_sound_path": "sounds/course.mp3"
+}

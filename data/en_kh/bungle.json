@@ -1,0 +1,31 @@
+{
+  "word": "bungle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the whole job was a gigantic bungle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11858.png",
+      "local_image_path": "images/11858.png"
+    },
+    {
+      "pos": "v",
+      "example": "he's sure to bungle the job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11857.png",
+      "local_image_path": "images/11857.png"
+    }
+  ],
+  "synonyms": [
+    "botch",
+    "mismanage",
+    "ruin",
+    "spoil"
+  ],
+  "antonyms": [
+    "succeed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bungle.mp3",
+  "local_sound_path": "sounds/bungle.mp3"
+}

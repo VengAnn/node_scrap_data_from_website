@@ -1,0 +1,70 @@
+{
+  "word": "messy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "messy house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108085.png",
+      "local_image_path": "images/108085.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108086.png",
+      "local_image_path": "images/108086.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108087.png",
+      "local_image_path": "images/108087.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108088.png",
+      "local_image_path": "images/108088.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123947.png",
+      "local_image_path": "images/123947.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123948.png",
+      "local_image_path": "images/123948.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123949.png",
+      "local_image_path": "images/123949.png"
+    }
+  ],
+  "synonyms": [
+    "unpleasant",
+    "acrimonious",
+    "bitter",
+    "difficult",
+    "awkward",
+    "complicated",
+    "nasty",
+    "tricky",
+    "complex",
+    "problematic",
+    "distressing",
+    "painful"
+  ],
+  "antonyms": [
+    "neat",
+    "amicable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/messy.mp3",
+  "local_sound_path": "sounds/messy.mp3"
+}

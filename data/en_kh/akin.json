@@ -1,0 +1,46 @@
+{
+  "word": "akin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Pity is often akin to love",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3217.png",
+      "local_image_path": "images/3217.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112343.png",
+      "local_image_path": "images/112343.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112344.png",
+      "local_image_path": "images/112344.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112345.png",
+      "local_image_path": "images/112345.png"
+    }
+  ],
+  "synonyms": [
+    "similar",
+    "parallel",
+    "like",
+    "analogous",
+    "alike"
+  ],
+  "antonyms": [
+    "unlike"
+  ],
+  "similar_words": [
+    "akinesia"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/akin.mp3",
+  "local_sound_path": "sounds/akin.mp3"
+}

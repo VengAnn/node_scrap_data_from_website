@@ -1,0 +1,98 @@
+{
+  "word": "hurt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "my finger hurts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36458.png",
+      "local_image_path": "images/36458.png"
+    },
+    {
+      "pos": "iv",
+      "example": "his words hurt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36459.png",
+      "local_image_path": "images/36459.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental hurt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36460.png",
+      "local_image_path": "images/36460.png"
+    },
+    {
+      "pos": "n",
+      "example": "physical hurt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36461.png",
+      "local_image_path": "images/36461.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurt a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36452.png",
+      "local_image_path": "images/36452.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurt one's chances",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36453.png",
+      "local_image_path": "images/36453.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurt one's foot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36454.png",
+      "local_image_path": "images/36454.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurt engine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36455.png",
+      "local_image_path": "images/36455.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurt his feeling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36456.png",
+      "local_image_path": "images/36456.png"
+    },
+    {
+      "pos": "tv",
+      "example": "get hurt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36457.png",
+      "local_image_path": "images/36457.png"
+    }
+  ],
+  "synonyms": [
+    "damage",
+    "harm",
+    "injury",
+    "offend",
+    "upset",
+    "wound",
+    "wounded",
+    "insult",
+    "injure",
+    "injured"
+  ],
+  "antonyms": [
+    "benefit",
+    "gratification",
+    "improve",
+    "soothe",
+    "comfort"
+  ],
+  "similar_words": [
+    "hurter",
+    "hurtful",
+    "hurtfully",
+    "hurtfulness",
+    "hurtle",
+    "hurtless",
+    "hurtlessly",
+    "hurtlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hurt.mp3",
+  "local_sound_path": "sounds/hurt.mp3"
+}

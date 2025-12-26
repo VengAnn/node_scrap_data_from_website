@@ -1,0 +1,29 @@
+{
+  "word": "serenity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "serenity of the sea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78271.png",
+      "local_image_path": "images/78271.png"
+    }
+  ],
+  "synonyms": [
+    "composure",
+    "coolness",
+    "poise",
+    "equanimity",
+    "contentment",
+    "repose",
+    "mellowness"
+  ],
+  "antonyms": [
+    "bustle",
+    "panic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/serenity.mp3",
+  "local_sound_path": "sounds/serenity.mp3"
+}

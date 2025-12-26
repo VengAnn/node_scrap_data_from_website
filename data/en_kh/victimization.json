@@ -1,0 +1,37 @@
+{
+  "word": "victimization",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97936.png",
+      "local_image_path": "images/97936.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129739.png",
+      "local_image_path": "images/129739.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129740.png",
+      "local_image_path": "images/129740.png"
+    }
+  ],
+  "synonyms": [
+    "persecution",
+    "oppression",
+    "ill-treatment",
+    "discrimination"
+  ],
+  "antonyms": [
+    "favoritism"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/victimization.mp3",
+  "local_sound_path": "sounds/victimization.mp3"
+}

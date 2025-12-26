@@ -1,0 +1,84 @@
+{
+  "word": "race",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69750.png",
+      "local_image_path": "images/69750.png"
+    },
+    {
+      "pos": "n",
+      "example": "horse race",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69749.png",
+      "local_image_path": "images/69749.png"
+    },
+    {
+      "pos": "n",
+      "example": "white race",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69752.png",
+      "local_image_path": "images/69752.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69753.png",
+      "local_image_path": "images/69753.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126397.png",
+      "local_image_path": "images/126397.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126398.png",
+      "local_image_path": "images/126398.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69751.png",
+      "local_image_path": "images/69751.png"
+    }
+  ],
+  "synonyms": [
+    "ethnic group",
+    "nation",
+    "people",
+    "tribe",
+    "line",
+    "run",
+    "sprint",
+    "hurry",
+    "speed",
+    "dash",
+    "rush",
+    "fly",
+    "zip",
+    "gallop"
+  ],
+  "antonyms": [
+    "saunter",
+    "withdraw",
+    "crawl"
+  ],
+  "similar_words": [
+    "race car",
+    "race card",
+    "race course",
+    "race horse",
+    "race-ground",
+    "racecard",
+    "raceme",
+    "racer",
+    "racetrack",
+    "raceway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/race.mp3",
+  "local_sound_path": "sounds/race.mp3"
+}

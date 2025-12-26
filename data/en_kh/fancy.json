@@ -1,0 +1,101 @@
+{
+  "word": "fancy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fancy lace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27579.png",
+      "local_image_path": "images/27579.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fancy clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27580.png",
+      "local_image_path": "images/27580.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119891.png",
+      "local_image_path": "images/119891.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119892.png",
+      "local_image_path": "images/119892.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119893.png",
+      "local_image_path": "images/119893.png"
+    },
+    {
+      "pos": "n",
+      "example": "indulge in fancy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27581.png",
+      "local_image_path": "images/27581.png"
+    },
+    {
+      "pos": "n",
+      "example": "to have a fancy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27582.png",
+      "local_image_path": "images/27582.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27583.png",
+      "local_image_path": "images/27583.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27584.png",
+      "local_image_path": "images/27584.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119894.png",
+      "local_image_path": "images/119894.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fancy a girl.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27585.png",
+      "local_image_path": "images/27585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He fancied, She likes him.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27586.png",
+      "local_image_path": "images/27586.png"
+    }
+  ],
+  "synonyms": [
+    "dream",
+    "hope",
+    "desire",
+    "fantasy",
+    "daydream",
+    "notion",
+    "whim",
+    "like",
+    "want"
+  ],
+  "antonyms": [
+    "plain",
+    "reality"
+  ],
+  "similar_words": [
+    "fancy ball",
+    "fancy free",
+    "fancy goods"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fancy.mp3",
+  "local_sound_path": "sounds/fancy.mp3"
+}

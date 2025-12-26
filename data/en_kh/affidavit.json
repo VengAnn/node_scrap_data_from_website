@@ -1,0 +1,36 @@
+{
+  "word": "affidavit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2719.png",
+      "local_image_path": "images/2719.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112234.png",
+      "local_image_path": "images/112234.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112235.png",
+      "local_image_path": "images/112235.png"
+    }
+  ],
+  "synonyms": [
+    "affirmation",
+    "confirmation",
+    "proclamation",
+    "confession",
+    "document"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affidavit.mp3",
+  "local_sound_path": "sounds/affidavit.mp3"
+}

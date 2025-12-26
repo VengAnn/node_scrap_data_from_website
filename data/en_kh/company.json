@@ -1,0 +1,57 @@
+{
+  "word": "company",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I have worked for a computer compnay in PP",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16158.png",
+      "local_image_path": "images/16158.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130159.png",
+      "local_image_path": "images/130159.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130160.png",
+      "local_image_path": "images/130160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130161.png",
+      "local_image_path": "images/130161.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130162.png",
+      "local_image_path": "images/130162.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130163.png",
+      "local_image_path": "images/130163.png"
+    }
+  ],
+  "synonyms": [
+    "troupe",
+    "ballet",
+    "band",
+    "corps",
+    "troop"
+  ],
+  "antonyms": [
+    "isolation",
+    "individual"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/company.mp3",
+  "local_sound_path": "sounds/company.mp3"
+}

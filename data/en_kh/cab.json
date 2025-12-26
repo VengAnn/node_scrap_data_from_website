@@ -1,0 +1,60 @@
+{
+  "word": "cab",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "taxi cab",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12167.png",
+      "local_image_path": "images/12167.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12168.png",
+      "local_image_path": "images/12168.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12169.png",
+      "local_image_path": "images/12169.png"
+    }
+  ],
+  "synonyms": [
+    "taxi",
+    "minicab",
+    "cabin",
+    "compartment",
+    "cockpit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cab driver",
+    "cab-rank",
+    "cabal",
+    "cabala",
+    "cabalism",
+    "cabalist",
+    "cabalistic",
+    "cabalistical",
+    "cabalistically",
+    "caballero",
+    "caballine",
+    "cabana",
+    "cabaret",
+    "cabbage",
+    "cabbage butterfly",
+    "cabbage palm",
+    "cabbage worm",
+    "cabbage yellow",
+    "cabbala",
+    "cabby",
+    "cabdriver",
+    "caber tossing",
+    "cabin"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cab.mp3",
+  "local_sound_path": "sounds/cab.mp3"
+}

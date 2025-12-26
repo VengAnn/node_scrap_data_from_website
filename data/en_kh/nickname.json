@@ -1,0 +1,31 @@
+{
+  "word": "nickname",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is your nickname?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55699.png",
+      "local_image_path": "images/55699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was nicknamed Shorty because he was so tall.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55700.png",
+      "local_image_path": "images/55700.png"
+    }
+  ],
+  "synonyms": [
+    "call",
+    "name",
+    "designate",
+    "dub",
+    "label",
+    "tag"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nickname.mp3",
+  "local_sound_path": "sounds/nickname.mp3"
+}

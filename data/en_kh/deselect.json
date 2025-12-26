@@ -1,0 +1,27 @@
+{
+  "word": "deselect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20818.png",
+      "local_image_path": "images/20818.png"
+    }
+  ],
+  "synonyms": [
+    "reject",
+    "abandon",
+    "discard",
+    "dump",
+    "ditch",
+    "remove"
+  ],
+  "antonyms": [
+    "select"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deselect.mp3",
+  "local_sound_path": "sounds/deselect.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "word": "irregular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42267.png",
+      "local_image_path": "images/42267.png"
+    },
+    {
+      "pos": "adj",
+      "example": "irregular occurrence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42268.png",
+      "local_image_path": "images/42268.png"
+    },
+    {
+      "pos": "adj",
+      "example": "irregular coastline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42269.png",
+      "local_image_path": "images/42269.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122966.png",
+      "local_image_path": "images/122966.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42270.png",
+      "local_image_path": "images/42270.png"
+    }
+  ],
+  "synonyms": [
+    "improper",
+    "unacceptable",
+    "abnormal",
+    "wrong",
+    "unsuitable",
+    "inappropriate",
+    "unconventional",
+    "unorthodox",
+    "unusual",
+    "erratic",
+    "variable",
+    "random",
+    "haphazard",
+    "intermittent",
+    "sporadic",
+    "patchy",
+    "fitful"
+  ],
+  "antonyms": [
+    "even",
+    "regular",
+    "proper"
+  ],
+  "similar_words": [
+    "irregularities",
+    "irregularity",
+    "irregularly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/irregular.mp3",
+  "local_sound_path": "sounds/irregular.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "permanent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "permanent position",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61870.png",
+      "local_image_path": "images/61870.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61871.png",
+      "local_image_path": "images/61871.png"
+    }
+  ],
+  "synonyms": [
+    "enduring",
+    "lasting",
+    "everlasting",
+    "eternal",
+    "undying",
+    "stable",
+    "undeviating",
+    "unending",
+    "perpetual",
+    "constant"
+  ],
+  "antonyms": [
+    "temporary"
+  ],
+  "similar_words": [
+    "permanent committee",
+    "permanent wave",
+    "permanently",
+    "permanentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/permanent.mp3",
+  "local_sound_path": "sounds/permanent.mp3"
+}

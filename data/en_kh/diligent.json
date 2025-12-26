@@ -1,0 +1,39 @@
+{
+  "word": "diligent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "diligent worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21383.png",
+      "local_image_path": "images/21383.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118319.png",
+      "local_image_path": "images/118319.png"
+    }
+  ],
+  "synonyms": [
+    "hard-working",
+    "industrious",
+    "assiduous",
+    "meticulous",
+    "conscientious",
+    "thorough",
+    "attentive",
+    "careful",
+    "painstaking",
+    "persistent"
+  ],
+  "antonyms": [
+    "lazy"
+  ],
+  "similar_words": [
+    "diligently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diligent.mp3",
+  "local_sound_path": "sounds/diligent.mp3"
+}

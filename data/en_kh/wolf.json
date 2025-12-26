@@ -1,0 +1,48 @@
+{
+  "word": "wolf",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100713.png",
+      "local_image_path": "images/100713.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100714.png",
+      "local_image_path": "images/100714.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100715.png",
+      "local_image_path": "images/100715.png"
+    }
+  ],
+  "synonyms": [
+    "consume",
+    "bolt",
+    "gobble",
+    "devour",
+    "guzzle",
+    "gorge",
+    "eat",
+    "scoff"
+  ],
+  "antonyms": [
+    "nibble"
+  ],
+  "similar_words": [
+    "wolf-skin",
+    "wolfish",
+    "wolfling",
+    "wolfly",
+    "wolfram",
+    "wolframite"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wolf.mp3",
+  "local_sound_path": "sounds/wolf.mp3"
+}

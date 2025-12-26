@@ -1,0 +1,40 @@
+{
+  "word": "manipulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "manipulate a tractor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105950.png",
+      "local_image_path": "images/105950.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manipulate others",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105951.png",
+      "local_image_path": "images/105951.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manipulate prices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105952.png",
+      "local_image_path": "images/105952.png"
+    }
+  ],
+  "synonyms": [
+    "operate",
+    "work",
+    "use",
+    "employ",
+    "maneuver",
+    "direct",
+    "control",
+    "stage-manage",
+    "engineer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/manipulate.mp3",
+  "local_sound_path": "sounds/manipulate.mp3"
+}

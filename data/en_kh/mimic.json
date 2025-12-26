@@ -1,0 +1,61 @@
+{
+  "word": "mimic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108791.png",
+      "local_image_path": "images/108791.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124032.png",
+      "local_image_path": "images/124032.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124033.png",
+      "local_image_path": "images/124033.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124034.png",
+      "local_image_path": "images/124034.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108792.png",
+      "local_image_path": "images/108792.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Tom mimiced actor's voice and gestures perfectly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108790.png",
+      "local_image_path": "images/108790.png"
+    }
+  ],
+  "synonyms": [
+    "impersonator",
+    "impressionist",
+    "imitator",
+    "caricature",
+    "satirize",
+    "ape",
+    "parody",
+    "mock",
+    "ridicule"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mimicker",
+    "mimicry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mimic.mp3",
+  "local_sound_path": "sounds/mimic.mp3"
+}

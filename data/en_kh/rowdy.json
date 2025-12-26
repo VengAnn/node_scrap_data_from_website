@@ -1,0 +1,33 @@
+{
+  "word": "rowdy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74405.png",
+      "local_image_path": "images/74405.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74406.png",
+      "local_image_path": "images/74406.png"
+    }
+  ],
+  "synonyms": [
+    "disorderly",
+    "unruly",
+    "noisy",
+    "loud",
+    "raucous",
+    "disruptive",
+    "boisterous",
+    "wild"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rowdy.mp3",
+  "local_sound_path": "sounds/rowdy.mp3"
+}

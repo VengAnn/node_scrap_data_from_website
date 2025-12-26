@@ -1,0 +1,61 @@
+{
+  "word": "allure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3554.png",
+      "local_image_path": "images/3554.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113559.png",
+      "local_image_path": "images/113559.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't be allured into bars by the pretty waitress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3553.png",
+      "local_image_path": "images/3553.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113560.png",
+      "local_image_path": "images/113560.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113561.png",
+      "local_image_path": "images/113561.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113562.png",
+      "local_image_path": "images/113562.png"
+    }
+  ],
+  "synonyms": [
+    "attraction",
+    "appeal",
+    "draw",
+    "pull",
+    "magnetism",
+    "charm",
+    "glamor",
+    "fascination",
+    "charisma",
+    "glamour"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "allurement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allure.mp3",
+  "local_sound_path": "sounds/allure.mp3"
+}

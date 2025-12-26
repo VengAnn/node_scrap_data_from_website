@@ -1,0 +1,39 @@
+{
+  "word": "brightness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "brightness of person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11141.png",
+      "local_image_path": "images/11141.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115642.png",
+      "local_image_path": "images/115642.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115643.png",
+      "local_image_path": "images/115643.png"
+    }
+  ],
+  "synonyms": [
+    "cheerfulness",
+    "optimism",
+    "cheeriness",
+    "enthusiasm",
+    "happiness",
+    "sunniness"
+  ],
+  "antonyms": [
+    "dullness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brightness.mp3",
+  "local_sound_path": "sounds/brightness.mp3"
+}

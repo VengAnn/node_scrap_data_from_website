@@ -1,0 +1,57 @@
+{
+  "word": "pretty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pretty girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66765.png",
+      "local_image_path": "images/66765.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pretty song",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66766.png",
+      "local_image_path": "images/66766.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66767.png",
+      "local_image_path": "images/66767.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66768.png",
+      "local_image_path": "images/66768.png"
+    }
+  ],
+  "synonyms": [
+    "attractive",
+    "beautiful",
+    "cute",
+    "nice-looking",
+    "good-looking",
+    "appealing",
+    "sweet",
+    "rather",
+    "reasonably",
+    "somewhat",
+    "moderately",
+    "adequately",
+    "satisfactorily",
+    "fairly",
+    "quite"
+  ],
+  "antonyms": [
+    "unattractive"
+  ],
+  "similar_words": [
+    "pretty-pretty",
+    "prettyish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pretty.mp3",
+  "local_sound_path": "sounds/pretty.mp3"
+}

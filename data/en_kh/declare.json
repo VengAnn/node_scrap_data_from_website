@@ -1,0 +1,31 @@
+{
+  "word": "declare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19994.png",
+      "local_image_path": "images/19994.png"
+    },
+    {
+      "pos": "tv",
+      "example": "declare imported goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19995.png",
+      "local_image_path": "images/19995.png"
+    }
+  ],
+  "synonyms": [
+    "state",
+    "announce",
+    "assert",
+    "affirm",
+    "pronounce",
+    "proclaim"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/declare.mp3",
+  "local_sound_path": "sounds/declare.mp3"
+}

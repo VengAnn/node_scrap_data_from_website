@@ -1,0 +1,40 @@
+{
+  "word": "deliberation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "lengthy deliberation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20313.png",
+      "local_image_path": "images/20313.png"
+    },
+    {
+      "pos": "n",
+      "example": "move with deliberation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20314.png",
+      "local_image_path": "images/20314.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117957.png",
+      "local_image_path": "images/117957.png"
+    }
+  ],
+  "synonyms": [
+    "care",
+    "thoughtfulness",
+    "consideration",
+    "caution",
+    "purposefulness",
+    "determination"
+  ],
+  "antonyms": [
+    "impulsiveness",
+    "rashness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deliberation.mp3",
+  "local_sound_path": "sounds/deliberation.mp3"
+}

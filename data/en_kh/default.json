@@ -1,0 +1,26 @@
+{
+  "word": "default",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20119.png",
+      "local_image_path": "images/20119.png"
+    }
+  ],
+  "synonyms": [
+    "evade",
+    "shirk",
+    "duck",
+    "dodge"
+  ],
+  "antonyms": [
+    "payment",
+    "pay"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/default.mp3",
+  "local_sound_path": "sounds/default.mp3"
+}

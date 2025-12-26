@@ -1,0 +1,58 @@
+{
+  "word": "barrack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7558.png",
+      "local_image_path": "images/7558.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114615.png",
+      "local_image_path": "images/114615.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114616.png",
+      "local_image_path": "images/114616.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7559.png",
+      "local_image_path": "images/7559.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114617.png",
+      "local_image_path": "images/114617.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7557.png",
+      "local_image_path": "images/7557.png"
+    }
+  ],
+  "synonyms": [
+    "heckle",
+    "shout",
+    "interrupt",
+    "jeer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "barrack bag",
+    "barrack-square",
+    "barracking",
+    "barracks"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barrack.mp3",
+  "local_sound_path": "sounds/barrack.mp3"
+}

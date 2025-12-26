@@ -1,0 +1,35 @@
+{
+  "word": "ensemble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "musical ensemble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25210.png",
+      "local_image_path": "images/25210.png"
+    },
+    {
+      "pos": "n",
+      "example": "in the ensemble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25211.png",
+      "local_image_path": "images/25211.png"
+    }
+  ],
+  "synonyms": [
+    "together",
+    "collection",
+    "assembly",
+    "aggregate",
+    "set",
+    "combination",
+    "composite",
+    "amalgamation"
+  ],
+  "antonyms": [
+    "solo"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ensemble.mp3",
+  "local_sound_path": "sounds/ensemble.mp3"
+}

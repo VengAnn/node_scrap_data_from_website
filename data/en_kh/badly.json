@@ -1,0 +1,54 @@
+{
+  "word": "badly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "I am badly in need for money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7051.png",
+      "local_image_path": "images/7051.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114438.png",
+      "local_image_path": "images/114438.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114439.png",
+      "local_image_path": "images/114439.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114440.png",
+      "local_image_path": "images/114440.png"
+    }
+  ],
+  "synonyms": [
+    "seriously",
+    "severely",
+    "gravely",
+    "critically",
+    "desperately",
+    "acutely",
+    "naughtily",
+    "disobediently",
+    "troublesomely",
+    "waywardly",
+    "mischievously",
+    "unmanageably",
+    "rudely",
+    "improperly"
+  ],
+  "antonyms": [
+    "well",
+    "slightly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/badly.mp3",
+  "local_sound_path": "sounds/badly.mp3"
+}

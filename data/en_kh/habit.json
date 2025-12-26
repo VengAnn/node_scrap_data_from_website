@@ -1,0 +1,65 @@
+{
+  "word": "habit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Smoking is a bad habit.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33423.png",
+      "local_image_path": "images/33423.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33424.png",
+      "local_image_path": "images/33424.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33425.png",
+      "local_image_path": "images/33425.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33426.png",
+      "local_image_path": "images/33426.png"
+    }
+  ],
+  "synonyms": [
+    "addiction",
+    "problem",
+    "dependency",
+    "tendency",
+    "inclination",
+    "leaning",
+    "liking",
+    "preference",
+    "fondness",
+    "bent"
+  ],
+  "antonyms": [
+    "deviation"
+  ],
+  "similar_words": [
+    "habit-building",
+    "habit-forming",
+    "habitable",
+    "habitant",
+    "habitat",
+    "habitation",
+    "habitual",
+    "habitual offender",
+    "habitually",
+    "habitualness",
+    "habituate",
+    "habituation",
+    "habitude",
+    "habitue",
+    "habitus"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/habit.mp3",
+  "local_sound_path": "sounds/habit.mp3"
+}

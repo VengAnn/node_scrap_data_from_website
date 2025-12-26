@@ -1,0 +1,34 @@
+{
+  "word": "blather",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9448.png",
+      "local_image_path": "images/9448.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9447.png",
+      "local_image_path": "images/9447.png"
+    }
+  ],
+  "synonyms": [
+    "chatter",
+    "prattle",
+    "drivel",
+    "nonsense",
+    "natter",
+    "jabber"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blatherer",
+    "blatherskite"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blather.mp3",
+  "local_sound_path": "sounds/blather.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "romantic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74069.png",
+      "local_image_path": "images/74069.png"
+    },
+    {
+      "pos": "adj",
+      "example": "romantic novel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74070.png",
+      "local_image_path": "images/74070.png"
+    },
+    {
+      "pos": "adj",
+      "example": "romantic affair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74071.png",
+      "local_image_path": "images/74071.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74072.png",
+      "local_image_path": "images/74072.png"
+    }
+  ],
+  "synonyms": [
+    "loving",
+    "passionate",
+    "tender",
+    "amorous",
+    "adoring",
+    "idealist",
+    "optimist",
+    "dreamer"
+  ],
+  "antonyms": [
+    "prosaic",
+    "platonic",
+    "realist"
+  ],
+  "similar_words": [
+    "romanticism",
+    "romanticization",
+    "romanticize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/romantic.mp3",
+  "local_sound_path": "sounds/romantic.mp3"
+}

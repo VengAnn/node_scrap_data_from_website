@@ -1,0 +1,66 @@
+{
+  "word": "boost",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10190.png",
+      "local_image_path": "images/10190.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115391.png",
+      "local_image_path": "images/115391.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115392.png",
+      "local_image_path": "images/115392.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115393.png",
+      "local_image_path": "images/115393.png"
+    },
+    {
+      "pos": "tv",
+      "example": "we should boost prices for our goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10189.png",
+      "local_image_path": "images/10189.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131043.png",
+      "local_image_path": "images/131043.png"
+    }
+  ],
+  "synonyms": [
+    "encourage",
+    "support",
+    "lift",
+    "uplift",
+    "inspire",
+    "raise",
+    "build up",
+    "motivate"
+  ],
+  "antonyms": [
+    "damage",
+    "knock",
+    "blow",
+    "reduce",
+    "discourage"
+  ],
+  "similar_words": [
+    "booster",
+    "booster cable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boost.mp3",
+  "local_sound_path": "sounds/boost.mp3"
+}

@@ -1,0 +1,96 @@
+{
+  "word": "cross",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "street",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18722.png",
+      "local_image_path": "images/18722.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cross mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18723.png",
+      "local_image_path": "images/18723.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18721.png",
+      "local_image_path": "images/18721.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a cross",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18717.png",
+      "local_image_path": "images/18717.png"
+    },
+    {
+      "pos": "n",
+      "example": "bear a cross",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18718.png",
+      "local_image_path": "images/18718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cross the street",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18719.png",
+      "local_image_path": "images/18719.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18720.png",
+      "local_image_path": "images/18720.png"
+    }
+  ],
+  "synonyms": [
+    "thwart",
+    "frustrate",
+    "impede",
+    "oppose",
+    "obstruct",
+    "resist",
+    "annoy",
+    "foil",
+    "vie",
+    "circumvent"
+  ],
+  "antonyms": [
+    "assist"
+  ],
+  "similar_words": [
+    "cross check",
+    "cross fire",
+    "cross fish",
+    "cross grained",
+    "cross legged",
+    "cross patch",
+    "cross purposes",
+    "cross question",
+    "cross section",
+    "cross sectional",
+    "cross talk",
+    "cross town",
+    "cross trading",
+    "cross trainer",
+    "cross training",
+    "cross way",
+    "cross-country",
+    "cross-cultural",
+    "cross-examination",
+    "cross-examine",
+    "cross-examiner",
+    "cross-eye",
+    "cross-eyed",
+    "cross-fertile",
+    "cross-fertilization",
+    "cross-fertilize",
+    "cross-multiply",
+    "cross-pollinatation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cross.mp3",
+  "local_sound_path": "sounds/cross.mp3"
+}

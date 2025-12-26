@@ -1,0 +1,44 @@
+{
+  "word": "adjust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2419.png",
+      "local_image_path": "images/2419.png"
+    },
+    {
+      "pos": "tv",
+      "example": "adjust machine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2418.png",
+      "local_image_path": "images/2418.png"
+    }
+  ],
+  "synonyms": [
+    "regulate",
+    "alter",
+    "correct",
+    "change",
+    "bend",
+    "amend",
+    "modify",
+    "tweak",
+    "attune",
+    "accustom",
+    "adapt",
+    "accommodate",
+    "acclimate",
+    "acclimatize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "adjustable",
+    "adjuster",
+    "adjustern",
+    "adjustment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjust.mp3",
+  "local_sound_path": "sounds/adjust.mp3"
+}

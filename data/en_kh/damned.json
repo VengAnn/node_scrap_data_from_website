@@ -1,0 +1,29 @@
+{
+  "word": "damned",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19565.png",
+      "local_image_path": "images/19565.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19566.png",
+      "local_image_path": "images/19566.png"
+    }
+  ],
+  "synonyms": [
+    "hopeless",
+    "lost",
+    "ill-fated",
+    "unlucky"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/damned.mp3",
+  "local_sound_path": "sounds/damned.mp3"
+}

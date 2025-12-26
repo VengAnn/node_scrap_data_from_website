@@ -1,0 +1,24 @@
+{
+  "word": "armed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "armed forces",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5498.png",
+      "local_image_path": "images/5498.png"
+    }
+  ],
+  "synonyms": [
+    "equipped",
+    "prepared",
+    "provided"
+  ],
+  "antonyms": [
+    "unarmed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/armed.mp3",
+  "local_sound_path": "sounds/armed.mp3"
+}

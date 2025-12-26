@@ -1,0 +1,107 @@
+{
+  "word": "pick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63024.png",
+      "local_image_path": "images/63024.png"
+    },
+    {
+      "pos": "n",
+      "example": "good pick of apples",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63025.png",
+      "local_image_path": "images/63025.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63026.png",
+      "local_image_path": "images/63026.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63027.png",
+      "local_image_path": "images/63027.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63028.png",
+      "local_image_path": "images/63028.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pick peas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63018.png",
+      "local_image_path": "images/63018.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63019.png",
+      "local_image_path": "images/63019.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pick a pocket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63020.png",
+      "local_image_path": "images/63020.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pick one's teeth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63021.png",
+      "local_image_path": "images/63021.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pick one's nose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63022.png",
+      "local_image_path": "images/63022.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pick a disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63023.png",
+      "local_image_path": "images/63023.png"
+    }
+  ],
+  "synonyms": [
+    "tool",
+    "select",
+    "choose",
+    "accept",
+    "elect",
+    "opt"
+  ],
+  "antonyms": [
+    "reject"
+  ],
+  "similar_words": [
+    "pick-me-up",
+    "pickaback",
+    "pickaninny",
+    "pickaxe",
+    "picked",
+    "pickeer",
+    "picker",
+    "pickerel",
+    "pickery",
+    "picket",
+    "picket fence",
+    "picket line",
+    "picketer",
+    "picking",
+    "pickinglist",
+    "pickings",
+    "pickle",
+    "pickle-herring",
+    "pickled"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pick.mp3",
+  "local_sound_path": "sounds/pick.mp3"
+}

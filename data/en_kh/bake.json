@@ -1,0 +1,40 @@
+{
+  "word": "bake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bake in the sun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7122.png",
+      "local_image_path": "images/7122.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7121.png",
+      "local_image_path": "images/7121.png"
+    }
+  ],
+  "synonyms": [
+    "swelter",
+    "scorch",
+    "burn",
+    "roast",
+    "boil",
+    "heat",
+    "harden",
+    "cook"
+  ],
+  "antonyms": [
+    "freeze"
+  ],
+  "similar_words": [
+    "baked",
+    "baker",
+    "bakerlite",
+    "bakery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bake.mp3",
+  "local_sound_path": "sounds/bake.mp3"
+}

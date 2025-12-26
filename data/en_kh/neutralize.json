@@ -1,0 +1,37 @@
+{
+  "word": "neutralize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "neutralize a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55570.png",
+      "local_image_path": "images/55570.png"
+    },
+    {
+      "pos": "tv",
+      "example": "neutralize the opposition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55571.png",
+      "local_image_path": "images/55571.png"
+    },
+    {
+      "pos": "tv",
+      "example": "neutralize an acid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55572.png",
+      "local_image_path": "images/55572.png"
+    }
+  ],
+  "synonyms": [
+    "counteract",
+    "counterbalance",
+    "deactivate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "neutralized state",
+    "neutralizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/neutralize.mp3",
+  "local_sound_path": "sounds/neutralize.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "entirely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "I'm not entirely happy with that idea.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25309.png",
+      "local_image_path": "images/25309.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119267.png",
+      "local_image_path": "images/119267.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119268.png",
+      "local_image_path": "images/119268.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119269.png",
+      "local_image_path": "images/119269.png"
+    }
+  ],
+  "synonyms": [
+    "unreservedly",
+    "unconditionally",
+    "lock",
+    "completely",
+    "fully",
+    "unequivocally"
+  ],
+  "antonyms": [
+    "partly",
+    "partially"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entirely.mp3",
+  "local_sound_path": "sounds/entirely.mp3"
+}

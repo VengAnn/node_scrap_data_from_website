@@ -1,0 +1,44 @@
+{
+  "word": "congestion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16783.png",
+      "local_image_path": "images/16783.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131400.png",
+      "local_image_path": "images/131400.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131401.png",
+      "local_image_path": "images/131401.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131402.png",
+      "local_image_path": "images/131402.png"
+    }
+  ],
+  "synonyms": [
+    "blockage",
+    "obstruction",
+    "jam",
+    "bottleneck"
+  ],
+  "antonyms": [
+    "emptiness",
+    "clearance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/congestion.mp3",
+  "local_sound_path": "sounds/congestion.mp3"
+}

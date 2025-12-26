@@ -1,0 +1,32 @@
+{
+  "word": "analyze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4088.png",
+      "local_image_path": "images/4088.png"
+    }
+  ],
+  "synonyms": [
+    "examine",
+    "study",
+    "investigate",
+    "scrutinize",
+    "evaluate",
+    "consider",
+    "question",
+    "explore",
+    "probe",
+    "dissect"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "analyzed",
+    "analyzer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/analyze.mp3",
+  "local_sound_path": "sounds/analyze.mp3"
+}

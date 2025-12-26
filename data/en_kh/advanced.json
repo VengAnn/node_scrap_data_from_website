@@ -1,0 +1,37 @@
+{
+  "word": "advanced",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "advanced country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2551.png",
+      "local_image_path": "images/2551.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112025.png",
+      "local_image_path": "images/112025.png"
+    }
+  ],
+  "synonyms": [
+    "progressive",
+    "unconventional",
+    "innovative",
+    "vanguard",
+    "forward-looking",
+    "developed",
+    "spread",
+    "build up"
+  ],
+  "antonyms": [
+    "basic",
+    "earlier",
+    "traditional"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advanced.mp3",
+  "local_sound_path": "sounds/advanced.mp3"
+}

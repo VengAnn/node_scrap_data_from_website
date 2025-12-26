@@ -1,0 +1,30 @@
+{
+  "word": "ballet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7207.png",
+      "local_image_path": "images/7207.png"
+    }
+  ],
+  "synonyms": [
+    "dance",
+    "tap",
+    "jazz",
+    "salsa",
+    "tango",
+    "waltz",
+    "bop",
+    "rhumba"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ballet-dancer",
+    "balletic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ballet.mp3",
+  "local_sound_path": "sounds/ballet.mp3"
+}

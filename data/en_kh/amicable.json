@@ -1,0 +1,40 @@
+{
+  "word": "amicable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "when nations cannot settle a quarrel in an amicable way",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3879.png",
+      "local_image_path": "images/3879.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112460.png",
+      "local_image_path": "images/112460.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112461.png",
+      "local_image_path": "images/112461.png"
+    }
+  ],
+  "synonyms": [
+    "friendly",
+    "good-natured",
+    "harmonious",
+    "cordial",
+    "agreeable",
+    "kind",
+    "polite"
+  ],
+  "antonyms": [
+    "disagreeable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amicable.mp3",
+  "local_sound_path": "sounds/amicable.mp3"
+}

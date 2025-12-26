@@ -1,0 +1,62 @@
+{
+  "word": "edge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "edge him toward a decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23862.png",
+      "local_image_path": "images/23862.png"
+    },
+    {
+      "pos": "iv",
+      "example": "edge a long a building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23863.png",
+      "local_image_path": "images/23863.png"
+    },
+    {
+      "pos": "n",
+      "example": "edge of a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23858.png",
+      "local_image_path": "images/23858.png"
+    },
+    {
+      "pos": "n",
+      "example": "edge of the forest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23859.png",
+      "local_image_path": "images/23859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "edge a cloth with lace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23860.png",
+      "local_image_path": "images/23860.png"
+    },
+    {
+      "pos": "tv",
+      "example": "edge a knife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23861.png",
+      "local_image_path": "images/23861.png"
+    }
+  ],
+  "synonyms": [
+    "border",
+    "frame",
+    "trim",
+    "approach",
+    "skirt",
+    "sidle",
+    "creep",
+    "tiptoe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "edge city",
+    "edgeless",
+    "edgeways",
+    "edgewise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/edge.mp3",
+  "local_sound_path": "sounds/edge.mp3"
+}

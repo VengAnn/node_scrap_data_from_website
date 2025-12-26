@@ -1,0 +1,30 @@
+{
+  "word": "stunning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stunning idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85617.png",
+      "local_image_path": "images/85617.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stunning revelation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85618.png",
+      "local_image_path": "images/85618.png"
+    }
+  ],
+  "synonyms": [
+    "beautiful",
+    "striking",
+    "gorgeous"
+  ],
+  "antonyms": [
+    "unimpressive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stunning.mp3",
+  "local_sound_path": "sounds/stunning.mp3"
+}

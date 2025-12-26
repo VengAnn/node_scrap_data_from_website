@@ -1,0 +1,37 @@
+{
+  "word": "volume",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "volume of a box",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98548.png",
+      "local_image_path": "images/98548.png"
+    },
+    {
+      "pos": "n",
+      "example": "volume of the radio",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98549.png",
+      "local_image_path": "images/98549.png"
+    }
+  ],
+  "synonyms": [
+    "part",
+    "section",
+    "quantity",
+    "amount",
+    "degree",
+    "size",
+    "level",
+    "number"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "volumed",
+    "volumeter",
+    "volumetric"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/volume.mp3",
+  "local_sound_path": "sounds/volume.mp3"
+}

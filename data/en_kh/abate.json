@@ -1,0 +1,46 @@
+{
+  "word": "abate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1327.png",
+      "local_image_path": "images/1327.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The doctor gave me some medicines to abate my stomachache",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1328.png",
+      "local_image_path": "images/1328.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111878.png",
+      "local_image_path": "images/111878.png"
+    }
+  ],
+  "synonyms": [
+    "decrease",
+    "subside",
+    "decline",
+    "fall",
+    "stop",
+    "halt",
+    "end",
+    "terminate",
+    "lessen"
+  ],
+  "antonyms": [
+    "rise"
+  ],
+  "similar_words": [
+    "abatement",
+    "abatement of action",
+    "abater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abate.mp3",
+  "local_sound_path": "sounds/abate.mp3"
+}

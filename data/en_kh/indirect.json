@@ -1,0 +1,57 @@
+{
+  "word": "indirect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39091.png",
+      "local_image_path": "images/39091.png"
+    },
+    {
+      "pos": "adj",
+      "example": "indirect route",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39092.png",
+      "local_image_path": "images/39092.png"
+    },
+    {
+      "pos": "adj",
+      "example": "indirect insult",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39093.png",
+      "local_image_path": "images/39093.png"
+    },
+    {
+      "pos": "adj",
+      "example": "indirect evidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39094.png",
+      "local_image_path": "images/39094.png"
+    }
+  ],
+  "synonyms": [
+    "unplanned",
+    "secondary",
+    "subsidiary",
+    "incidental",
+    "unforeseen",
+    "oblique",
+    "implicit",
+    "implied",
+    "roundabout",
+    "veiled"
+  ],
+  "antonyms": [
+    "direct",
+    "overt",
+    "intended",
+    "straight"
+  ],
+  "similar_words": [
+    "indirect suffrage",
+    "indirection",
+    "indirectly",
+    "indirectness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indirect.mp3",
+  "local_sound_path": "sounds/indirect.mp3"
+}

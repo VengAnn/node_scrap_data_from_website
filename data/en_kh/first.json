@@ -1,0 +1,67 @@
+{
+  "word": "first",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "first house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28689.png",
+      "local_image_path": "images/28689.png"
+    },
+    {
+      "pos": "adv",
+      "example": "go first",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28690.png",
+      "local_image_path": "images/28690.png"
+    },
+    {
+      "pos": "n",
+      "example": "the first in line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28691.png",
+      "local_image_path": "images/28691.png"
+    },
+    {
+      "pos": "n",
+      "example": "win a first",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28692.png",
+      "local_image_path": "images/28692.png"
+    },
+    {
+      "pos": "n",
+      "example": "at first",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28693.png",
+      "local_image_path": "images/28693.png"
+    }
+  ],
+  "synonyms": [
+    "original",
+    "originator",
+    "pioneer",
+    "any",
+    "some",
+    "several"
+  ],
+  "antonyms": [
+    "last",
+    "lastly",
+    "minor",
+    "advanced"
+  ],
+  "similar_words": [
+    "first aid",
+    "first devisee",
+    "first impression",
+    "first light",
+    "first refusal",
+    "first-born",
+    "first-class",
+    "first-fruits",
+    "first-hand",
+    "first-rate",
+    "firstling",
+    "firstly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/first.mp3",
+  "local_sound_path": "sounds/first.mp3"
+}

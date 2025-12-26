@@ -1,0 +1,41 @@
+{
+  "word": "affray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2764.png",
+      "local_image_path": "images/2764.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112259.png",
+      "local_image_path": "images/112259.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112260.png",
+      "local_image_path": "images/112260.png"
+    }
+  ],
+  "synonyms": [
+    "scuffle",
+    "fight",
+    "brawl",
+    "broil",
+    "disturbance",
+    "commotion",
+    "rumble",
+    "tussle"
+  ],
+  "antonyms": [
+    "agreement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affray.mp3",
+  "local_sound_path": "sounds/affray.mp3"
+}

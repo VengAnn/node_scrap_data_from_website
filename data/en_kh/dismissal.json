@@ -1,0 +1,40 @@
+{
+  "word": "dismissal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dismissal of an employee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21989.png",
+      "local_image_path": "images/21989.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118546.png",
+      "local_image_path": "images/118546.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118547.png",
+      "local_image_path": "images/118547.png"
+    }
+  ],
+  "synonyms": [
+    "notice",
+    "discharge",
+    "firing",
+    "release",
+    "sacking",
+    "removal",
+    "sack"
+  ],
+  "antonyms": [
+    "appointment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dismissal.mp3",
+  "local_sound_path": "sounds/dismissal.mp3"
+}

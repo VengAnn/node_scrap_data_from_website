@@ -1,0 +1,75 @@
+{
+  "word": "mock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109771.png",
+      "local_image_path": "images/109771.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mock his suggestion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109768.png",
+      "local_image_path": "images/109768.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mock the teacher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109769.png",
+      "local_image_path": "images/109769.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Why do you mock me?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109770.png",
+      "local_image_path": "images/109770.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130535.png",
+      "local_image_path": "images/130535.png"
+    }
+  ],
+  "synonyms": [
+    "mimic",
+    "imitate",
+    "parody",
+    "ape",
+    "simulate",
+    "caricature",
+    "satirize"
+  ],
+  "antonyms": [
+    "genuine",
+    "praise"
+  ],
+  "similar_words": [
+    "mock battle",
+    "mock exam",
+    "mock-diamond",
+    "mock-heroic",
+    "mock-lead",
+    "mock-moon",
+    "mock-ore",
+    "mock-privet",
+    "mock-sun",
+    "mock-turtle",
+    "mock-up",
+    "mock-velvet",
+    "mockable",
+    "mockado",
+    "mockage",
+    "mocker",
+    "mockery",
+    "mocking-bird",
+    "mocking-stock",
+    "mockingly",
+    "mockish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mock.mp3",
+  "local_sound_path": "sounds/mock.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "itch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "scratch an itch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42513.png",
+      "local_image_path": "images/42513.png"
+    },
+    {
+      "pos": "n",
+      "example": "contagious itch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42514.png",
+      "local_image_path": "images/42514.png"
+    },
+    {
+      "pos": "n",
+      "example": "have an itch to travel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42515.png",
+      "local_image_path": "images/42515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "feet itch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42511.png",
+      "local_image_path": "images/42511.png"
+    },
+    {
+      "pos": "tv",
+      "example": "itch to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42512.png",
+      "local_image_path": "images/42512.png"
+    }
+  ],
+  "synonyms": [
+    "longing",
+    "eagerness",
+    "yearning",
+    "craving",
+    "long",
+    "desire",
+    "wish",
+    "hanker",
+    "yearn",
+    "ache",
+    "burn",
+    "crave"
+  ],
+  "antonyms": [
+    "soothe"
+  ],
+  "similar_words": [
+    "itch-mite",
+    "itchiness",
+    "itching",
+    "itchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/itch.mp3",
+  "local_sound_path": "sounds/itch.mp3"
+}

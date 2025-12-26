@@ -1,0 +1,60 @@
+{
+  "word": "account",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take into account",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1902.png",
+      "local_image_path": "images/1902.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111951.png",
+      "local_image_path": "images/111951.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111952.png",
+      "local_image_path": "images/111952.png"
+    },
+    {
+      "pos": "tv, iv",
+      "example": "account for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1903.png",
+      "local_image_path": "images/1903.png"
+    }
+  ],
+  "synonyms": [
+    "bank account",
+    "checking account",
+    "credit",
+    "bill",
+    "tab",
+    "tally",
+    "balance",
+    "arrangement"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "account currency",
+    "account cycle",
+    "account payable",
+    "account receivable",
+    "account sale",
+    "accountability",
+    "accountable",
+    "accountableness",
+    "accountably",
+    "accountancy",
+    "accountant",
+    "accountantship",
+    "accounter",
+    "accounting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/account.mp3",
+  "local_sound_path": "sounds/account.mp3"
+}

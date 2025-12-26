@@ -1,0 +1,39 @@
+{
+  "word": "screech",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77112.png",
+      "local_image_path": "images/77112.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77111.png",
+      "local_image_path": "images/77111.png"
+    }
+  ],
+  "synonyms": [
+    "scream",
+    "shriek",
+    "squeal",
+    "skid",
+    "judder",
+    "shudder",
+    "career"
+  ],
+  "antonyms": [
+    "whisper",
+    "glide"
+  ],
+  "similar_words": [
+    "screech-owl",
+    "screecher",
+    "screechy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/screech.mp3",
+  "local_sound_path": "sounds/screech.mp3"
+}

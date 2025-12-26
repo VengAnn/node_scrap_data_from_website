@@ -1,0 +1,37 @@
+{
+  "word": "downgrade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22900.png",
+      "local_image_path": "images/22900.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22901.png",
+      "local_image_path": "images/22901.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22899.png",
+      "local_image_path": "images/22899.png"
+    }
+  ],
+  "synonyms": [
+    "demote",
+    "reduce",
+    "lower",
+    "relegate"
+  ],
+  "antonyms": [
+    "upgrade"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/downgrade.mp3",
+  "local_sound_path": "sounds/downgrade.mp3"
+}

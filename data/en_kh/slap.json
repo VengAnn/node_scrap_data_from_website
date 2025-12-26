@@ -1,0 +1,78 @@
+{
+  "word": "slap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "The car ran slap into the wall.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80980.png",
+      "local_image_path": "images/80980.png"
+    },
+    {
+      "pos": "fig",
+      "example": "slap in the face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80979.png",
+      "local_image_path": "images/80979.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80977.png",
+      "local_image_path": "images/80977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80978.png",
+      "local_image_path": "images/80978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slap one's face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80974.png",
+      "local_image_path": "images/80974.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Pronh slapped the book down on the table.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80975.png",
+      "local_image_path": "images/80975.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slap paint on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80976.png",
+      "local_image_path": "images/80976.png"
+    }
+  ],
+  "synonyms": [
+    "smack",
+    "blow",
+    "spanking",
+    "cuff",
+    "clout",
+    "whack",
+    "bang",
+    "wallop",
+    "hit",
+    "spank",
+    "strike",
+    "swipe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slap-bang",
+    "slap-happy",
+    "slap-up",
+    "slapdash",
+    "slape",
+    "slaphead",
+    "slapjack",
+    "slapper",
+    "slapping",
+    "slapstick"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slap.mp3",
+  "local_sound_path": "sounds/slap.mp3"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "schedule",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "train schedule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76582.png",
+      "local_image_path": "images/76582.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76583.png",
+      "local_image_path": "images/76583.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127503.png",
+      "local_image_path": "images/127503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127504.png",
+      "local_image_path": "images/127504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127505.png",
+      "local_image_path": "images/127505.png"
+    },
+    {
+      "pos": "tv",
+      "example": "schedule one's day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76584.png",
+      "local_image_path": "images/76584.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76585.png",
+      "local_image_path": "images/76585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76586.png",
+      "local_image_path": "images/76586.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127506.png",
+      "local_image_path": "images/127506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127507.png",
+      "local_image_path": "images/127507.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127508.png",
+      "local_image_path": "images/127508.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127509.png",
+      "local_image_path": "images/127509.png"
+    }
+  ],
+  "synonyms": [
+    "arrange",
+    "plan",
+    "program",
+    "book",
+    "slate",
+    "reserve",
+    "organize",
+    "list",
+    "timetable"
+  ],
+  "antonyms": [
+    "cancel"
+  ],
+  "similar_words": [
+    "scheduled",
+    "scheduler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/schedule.mp3",
+  "local_sound_path": "sounds/schedule.mp3"
+}

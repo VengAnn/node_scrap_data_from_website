@@ -1,0 +1,57 @@
+{
+  "word": "adherent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2360.png",
+      "local_image_path": "images/2360.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112172.png",
+      "local_image_path": "images/112172.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112173.png",
+      "local_image_path": "images/112173.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2361.png",
+      "local_image_path": "images/2361.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112122.png",
+      "local_image_path": "images/112122.png"
+    }
+  ],
+  "synonyms": [
+    "supporter",
+    "believer",
+    "devotee",
+    "advocate",
+    "fanatic",
+    "enthusiast",
+    "aficionado",
+    "member",
+    "zealot",
+    "follower",
+    "buff"
+  ],
+  "antonyms": [
+    "skeptic",
+    "opponent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adherent.mp3",
+  "local_sound_path": "sounds/adherent.mp3"
+}

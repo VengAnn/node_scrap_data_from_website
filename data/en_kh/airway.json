@@ -1,0 +1,41 @@
+{
+  "word": "airway",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3201.png",
+      "local_image_path": "images/3201.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113484.png",
+      "local_image_path": "images/113484.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132161.png",
+      "local_image_path": "images/132161.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132162.png",
+      "local_image_path": "images/132162.png"
+    }
+  ],
+  "synonyms": [
+    "route",
+    "air corridor",
+    "air lane",
+    "flight path"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airway.mp3",
+  "local_sound_path": "sounds/airway.mp3"
+}

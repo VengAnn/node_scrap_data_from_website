@@ -1,0 +1,43 @@
+{
+  "word": "guess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33177.png",
+      "local_image_path": "images/33177.png"
+    },
+    {
+      "pos": "n",
+      "example": "My guess is that it will rain soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33178.png",
+      "local_image_path": "images/33178.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can you guess her age?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33176.png",
+      "local_image_path": "images/33176.png"
+    }
+  ],
+  "synonyms": [
+    "deduce",
+    "presume",
+    "speculate",
+    "suppose",
+    "estimate",
+    "conjecture"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "guessable",
+    "guesser",
+    "guessingly",
+    "guesstimate",
+    "guesswork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guess.mp3",
+  "local_sound_path": "sounds/guess.mp3"
+}

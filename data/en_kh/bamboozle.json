@@ -1,0 +1,41 @@
+{
+  "word": "bamboozle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7258.png",
+      "local_image_path": "images/7258.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129976.png",
+      "local_image_path": "images/129976.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129977.png",
+      "local_image_path": "images/129977.png"
+    }
+  ],
+  "synonyms": [
+    "confuse",
+    "bewilder",
+    "puzzle",
+    "bemuse",
+    "perplex",
+    "muddle",
+    "baffle",
+    "flummox"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bamboozlement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bamboozle.mp3",
+  "local_sound_path": "sounds/bamboozle.mp3"
+}

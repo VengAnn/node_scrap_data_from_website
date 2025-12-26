@@ -1,0 +1,51 @@
+{
+  "word": "senseless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "What a senseless fellow his is!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78117.png",
+      "local_image_path": "images/78117.png"
+    },
+    {
+      "pos": "adj",
+      "example": "senseless slaughter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78118.png",
+      "local_image_path": "images/78118.png"
+    },
+    {
+      "pos": "adj",
+      "example": "senseless message",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78119.png",
+      "local_image_path": "images/78119.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127636.png",
+      "local_image_path": "images/127636.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127637.png",
+      "local_image_path": "images/127637.png"
+    }
+  ],
+  "synonyms": [
+    "unconscious",
+    "comatose",
+    "insensible",
+    "numb"
+  ],
+  "antonyms": [
+    "worthwhile",
+    "sensible",
+    "conscious"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/senseless.mp3",
+  "local_sound_path": "sounds/senseless.mp3"
+}

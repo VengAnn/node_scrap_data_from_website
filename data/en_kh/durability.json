@@ -1,0 +1,44 @@
+{
+  "word": "durability",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23471.png",
+      "local_image_path": "images/23471.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118831.png",
+      "local_image_path": "images/118831.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118832.png",
+      "local_image_path": "images/118832.png"
+    }
+  ],
+  "synonyms": [
+    "toughness",
+    "sturdiness",
+    "strength",
+    "robustness",
+    "resilience",
+    "stability",
+    "permanence",
+    "hardiness",
+    "permanency",
+    "endurance",
+    "indestructibility"
+  ],
+  "antonyms": [
+    "flimsiness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/durability.mp3",
+  "local_sound_path": "sounds/durability.mp3"
+}

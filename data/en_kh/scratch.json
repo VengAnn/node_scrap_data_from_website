@@ -1,0 +1,99 @@
+{
+  "word": "scratch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wool pants scratch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77073.png",
+      "local_image_path": "images/77073.png"
+    },
+    {
+      "pos": "iv",
+      "example": "cats scratch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77074.png",
+      "local_image_path": "images/77074.png"
+    },
+    {
+      "pos": "n",
+      "example": "a scratch on fender",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77075.png",
+      "local_image_path": "images/77075.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77076.png",
+      "local_image_path": "images/77076.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77077.png",
+      "local_image_path": "images/77077.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77078.png",
+      "local_image_path": "images/77078.png"
+    },
+    {
+      "pos": "n",
+      "example": "old scratch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77079.png",
+      "local_image_path": "images/77079.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scratch one's head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77070.png",
+      "local_image_path": "images/77070.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77071.png",
+      "local_image_path": "images/77071.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77072.png",
+      "local_image_path": "images/77072.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131272.png",
+      "local_image_path": "images/131272.png"
+    }
+  ],
+  "synonyms": [
+    "abandon",
+    "withdraw",
+    "drop out",
+    "leave"
+  ],
+  "antonyms": [
+    "keep",
+    "continue"
+  ],
+  "similar_words": [
+    "scratch race",
+    "scratch wig",
+    "scratch-back",
+    "scratch-board",
+    "scratch-bush",
+    "scratch-card",
+    "scratch-cat",
+    "scratcher",
+    "scratches",
+    "scratchily",
+    "scratchiness",
+    "scratchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scratch.mp3",
+  "local_sound_path": "sounds/scratch.mp3"
+}

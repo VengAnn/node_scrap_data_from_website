@@ -1,0 +1,39 @@
+{
+  "word": "creative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "creative thinking",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18472.png",
+      "local_image_path": "images/18472.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131021.png",
+      "local_image_path": "images/131021.png"
+    }
+  ],
+  "synonyms": [
+    "original",
+    "imaginative",
+    "inspired",
+    "artistic",
+    "inventive",
+    "resourceful",
+    "ingenious",
+    "innovative",
+    "productive"
+  ],
+  "antonyms": [
+    "unimaginative"
+  ],
+  "similar_words": [
+    "creatively",
+    "creativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/creative.mp3",
+  "local_sound_path": "sounds/creative.mp3"
+}

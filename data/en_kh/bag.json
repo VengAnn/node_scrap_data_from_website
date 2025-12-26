@@ -1,0 +1,55 @@
+{
+  "word": "bag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7072.png",
+      "local_image_path": "images/7072.png"
+    },
+    {
+      "pos": "n",
+      "example": "paper bag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7070.png",
+      "local_image_path": "images/7070.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7071.png",
+      "local_image_path": "images/7071.png"
+    }
+  ],
+  "synonyms": [
+    "get",
+    "grab",
+    "occupy",
+    "reserve",
+    "keep",
+    "claim"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bag lagy",
+    "bag-sleeve",
+    "bagasse",
+    "bagatelle",
+    "baggage",
+    "baggage car",
+    "baggage-room",
+    "baggateile",
+    "baggily",
+    "bagginess",
+    "bagging",
+    "baggipes",
+    "baggy",
+    "bagman",
+    "bagnio",
+    "bags",
+    "baguette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bag.mp3",
+  "local_sound_path": "sounds/bag.mp3"
+}

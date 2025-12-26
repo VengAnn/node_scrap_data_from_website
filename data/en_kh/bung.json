@@ -1,0 +1,41 @@
+{
+  "word": "bung",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "remove the bung",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11854.png",
+      "local_image_path": "images/11854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the drains are bunged up with dead leaves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11855.png",
+      "local_image_path": "images/11855.png"
+    }
+  ],
+  "synonyms": [
+    "stop",
+    "cap",
+    "cork",
+    "block",
+    "close",
+    "chuck",
+    "throw",
+    "toss",
+    "fling",
+    "lob",
+    "pass"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bungalow",
+    "bungle",
+    "bungler",
+    "bunglingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bung.mp3",
+  "local_sound_path": "sounds/bung.mp3"
+}

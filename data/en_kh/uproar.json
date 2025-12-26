@@ -1,0 +1,43 @@
+{
+  "word": "uproar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The meeting ended in uproar.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96774.png",
+      "local_image_path": "images/96774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129623.png",
+      "local_image_path": "images/129623.png"
+    }
+  ],
+  "synonyms": [
+    "chaos",
+    "pandemonium",
+    "upheaval",
+    "tumult",
+    "din",
+    "racket",
+    "hue and cry",
+    "hullabaloo",
+    "turbulence",
+    "hubbub",
+    "disturbance",
+    "noise"
+  ],
+  "antonyms": [
+    "quiet"
+  ],
+  "similar_words": [
+    "uproarious",
+    "uproariously",
+    "uproariousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uproar.mp3",
+  "local_sound_path": "sounds/uproar.mp3"
+}

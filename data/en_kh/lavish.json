@@ -1,0 +1,71 @@
+{
+  "word": "lavish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45303.png",
+      "local_image_path": "images/45303.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lavish gofts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45304.png",
+      "local_image_path": "images/45304.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lavish spending",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45305.png",
+      "local_image_path": "images/45305.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45306.png",
+      "local_image_path": "images/45306.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123381.png",
+      "local_image_path": "images/123381.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123382.png",
+      "local_image_path": "images/123382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123383.png",
+      "local_image_path": "images/123383.png"
+    }
+  ],
+  "synonyms": [
+    "heap",
+    "pour",
+    "bestow",
+    "smother",
+    "cover",
+    "load",
+    "shower"
+  ],
+  "antonyms": [
+    "scanty",
+    "frugal",
+    "sparse"
+  ],
+  "similar_words": [
+    "lavisher",
+    "lavishing",
+    "lavishly",
+    "lavishness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lavish.mp3",
+  "local_sound_path": "sounds/lavish.mp3"
+}

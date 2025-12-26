@@ -1,0 +1,95 @@
+{
+  "word": "think",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "How do you think?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88961.png",
+      "local_image_path": "images/88961.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I can't think what you mean",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88962.png",
+      "local_image_path": "images/88962.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I never think that I see you here!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88963.png",
+      "local_image_path": "images/88963.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128221.png",
+      "local_image_path": "images/128221.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128222.png",
+      "local_image_path": "images/128222.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128223.png",
+      "local_image_path": "images/128223.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128224.png",
+      "local_image_path": "images/128224.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88965.png",
+      "local_image_path": "images/88965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "What do you think?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88964.png",
+      "local_image_path": "images/88964.png"
+    }
+  ],
+  "synonyms": [
+    "reason",
+    "contemplate",
+    "ponder",
+    "deliberate",
+    "meditate",
+    "ruminate",
+    "cogitate",
+    "believe",
+    "feel",
+    "consider",
+    "deem",
+    "judge",
+    "agree",
+    "suppose",
+    "assume",
+    "imagine",
+    "sense",
+    "reflect"
+  ],
+  "antonyms": [
+    "act",
+    "doubt"
+  ],
+  "similar_words": [
+    "think tank",
+    "thinkable",
+    "thinkably",
+    "thinker",
+    "thinking",
+    "thinktank"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/think.mp3",
+  "local_sound_path": "sounds/think.mp3"
+}

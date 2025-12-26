@@ -1,0 +1,60 @@
+{
+  "word": "darken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "darken another's door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19653.png",
+      "local_image_path": "images/19653.png"
+    },
+    {
+      "pos": "iv",
+      "example": "darken in the sun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19654.png",
+      "local_image_path": "images/19654.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117704.png",
+      "local_image_path": "images/117704.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117705.png",
+      "local_image_path": "images/117705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "darken the color",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19650.png",
+      "local_image_path": "images/19650.png"
+    },
+    {
+      "pos": "tv",
+      "example": "darken the future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19651.png",
+      "local_image_path": "images/19651.png"
+    },
+    {
+      "pos": "tv",
+      "example": "darken one's mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19652.png",
+      "local_image_path": "images/19652.png"
+    }
+  ],
+  "synonyms": [
+    "dim",
+    "blacken",
+    "obscure"
+  ],
+  "antonyms": [
+    "brighten"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/darken.mp3",
+  "local_sound_path": "sounds/darken.mp3"
+}

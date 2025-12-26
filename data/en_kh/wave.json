@@ -1,0 +1,81 @@
+{
+  "word": "wave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "flags wave",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99412.png",
+      "local_image_path": "images/99412.png"
+    },
+    {
+      "pos": "n",
+      "example": "ocean wave",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99405.png",
+      "local_image_path": "images/99405.png"
+    },
+    {
+      "pos": "n",
+      "example": "wave of excitement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99406.png",
+      "local_image_path": "images/99406.png"
+    },
+    {
+      "pos": "n",
+      "example": "a wave of the hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99407.png",
+      "local_image_path": "images/99407.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99408.png",
+      "local_image_path": "images/99408.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wave a flag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99409.png",
+      "local_image_path": "images/99409.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wave one's hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99410.png",
+      "local_image_path": "images/99410.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wave one's hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99411.png",
+      "local_image_path": "images/99411.png"
+    }
+  ],
+  "synonyms": [
+    "curl",
+    "kink",
+    "undulation",
+    "brandish",
+    "flourish",
+    "wield",
+    "wag",
+    "shake",
+    "flail"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wave length",
+    "wave-like",
+    "waveless",
+    "wavelet",
+    "waver",
+    "waverer",
+    "wavering",
+    "waveringly",
+    "wavery",
+    "wavey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wave.mp3",
+  "local_sound_path": "sounds/wave.mp3"
+}

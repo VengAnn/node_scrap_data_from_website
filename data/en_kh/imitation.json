@@ -1,0 +1,44 @@
+{
+  "word": "imitation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37411.png",
+      "local_image_path": "images/37411.png"
+    },
+    {
+      "pos": "n",
+      "example": "imitation of one's elders",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37408.png",
+      "local_image_path": "images/37408.png"
+    },
+    {
+      "pos": "n",
+      "example": "an imitation of the orginal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37409.png",
+      "local_image_path": "images/37409.png"
+    },
+    {
+      "pos": "n",
+      "example": "do an imitation of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37410.png",
+      "local_image_path": "images/37410.png"
+    }
+  ],
+  "synonyms": [
+    "impersonation",
+    "impression",
+    "takeoff",
+    "skit",
+    "parody"
+  ],
+  "antonyms": [
+    "real"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imitation.mp3",
+  "local_sound_path": "sounds/imitation.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "bird",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9128.png",
+      "local_image_path": "images/9128.png"
+    }
+  ],
+  "synonyms": [
+    "chicken",
+    "hen",
+    "layer",
+    "fowl"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bird brained",
+    "bird of passage",
+    "bird wather",
+    "bird's nest",
+    "bird's-eye",
+    "bird's-nest",
+    "bird-cage",
+    "bird-song",
+    "birdbath",
+    "birdbrain",
+    "birddog",
+    "birdie",
+    "birdikin",
+    "birdlime",
+    "birdmand",
+    "birdseed",
+    "birdyback"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bird.mp3",
+  "local_sound_path": "sounds/bird.mp3"
+}

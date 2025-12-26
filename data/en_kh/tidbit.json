@@ -1,0 +1,31 @@
+{
+  "word": "tidbit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tidbit of food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89348.png",
+      "local_image_path": "images/89348.png"
+    },
+    {
+      "pos": "n",
+      "example": "tidbit of news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89349.png",
+      "local_image_path": "images/89349.png"
+    }
+  ],
+  "synonyms": [
+    "morsel",
+    "treat",
+    "delicacy",
+    "scrap",
+    "crumb",
+    "piece"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tidbit.mp3",
+  "local_sound_path": "sounds/tidbit.mp3"
+}

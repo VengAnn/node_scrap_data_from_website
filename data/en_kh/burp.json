@@ -1,0 +1,30 @@
+{
+  "word": "burp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11967.png",
+      "local_image_path": "images/11967.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11968.png",
+      "local_image_path": "images/11968.png"
+    }
+  ],
+  "synonyms": [
+    "belch",
+    "eruct",
+    "hiccup",
+    "gulp",
+    "posset"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burp.mp3",
+  "local_sound_path": "sounds/burp.mp3"
+}

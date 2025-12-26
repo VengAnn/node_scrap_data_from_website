@@ -1,0 +1,69 @@
+{
+  "word": "fold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "doors fold back",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29468.png",
+      "local_image_path": "images/29468.png"
+    },
+    {
+      "pos": "iv",
+      "example": "business fold up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29469.png",
+      "local_image_path": "images/29469.png"
+    },
+    {
+      "pos": "n",
+      "example": "sheep fold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29470.png",
+      "local_image_path": "images/29470.png"
+    },
+    {
+      "pos": "suff",
+      "example": "tenfold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29472.png",
+      "local_image_path": "images/29472.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fold clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29465.png",
+      "local_image_path": "images/29465.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fold one's arm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29466.png",
+      "local_image_path": "images/29466.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fold the wings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29467.png",
+      "local_image_path": "images/29467.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29471.png",
+      "local_image_path": "images/29471.png"
+    }
+  ],
+  "synonyms": [
+    "collapse",
+    "close"
+  ],
+  "antonyms": [
+    "straighten"
+  ],
+  "similar_words": [
+    "foldaway",
+    "folder",
+    "folding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fold.mp3",
+  "local_sound_path": "sounds/fold.mp3"
+}

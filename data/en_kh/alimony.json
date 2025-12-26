@@ -1,0 +1,30 @@
+{
+  "word": "alimony",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3392.png",
+      "local_image_path": "images/3392.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112374.png",
+      "local_image_path": "images/112374.png"
+    }
+  ],
+  "synonyms": [
+    "maintenance",
+    "money",
+    "allowance",
+    "keep",
+    "grant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alimony.mp3",
+  "local_sound_path": "sounds/alimony.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "normal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "normal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56272.png",
+      "local_image_path": "images/56272.png"
+    },
+    {
+      "pos": "adj",
+      "example": "normal time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56273.png",
+      "local_image_path": "images/56273.png"
+    }
+  ],
+  "synonyms": [
+    "usual",
+    "standard",
+    "regular",
+    "ordinary",
+    "typical",
+    "customary",
+    "common",
+    "average",
+    "natural",
+    "habitual",
+    "routine",
+    "conventional"
+  ],
+  "antonyms": [
+    "abnormal"
+  ],
+  "similar_words": [
+    "normal duties",
+    "normal school",
+    "normalcy",
+    "normality",
+    "normalization",
+    "normalize",
+    "normally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/normal.mp3",
+  "local_sound_path": "sounds/normal.mp3"
+}

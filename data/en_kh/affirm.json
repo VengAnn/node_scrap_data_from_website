@@ -1,0 +1,56 @@
+{
+  "word": "affirm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2730.png",
+      "local_image_path": "images/2730.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111766.png",
+      "local_image_path": "images/111766.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113363.png",
+      "local_image_path": "images/113363.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "uphold",
+    "encourage",
+    "sustain",
+    "assert",
+    "insist",
+    "confirm",
+    "avow",
+    "state",
+    "announce",
+    "establish",
+    "verify",
+    "pronounce",
+    "acknowledge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "affirmable",
+    "affirmably",
+    "affirmance",
+    "affirmation",
+    "affirmative",
+    "affirmative action",
+    "affirmative defense",
+    "affirmatively",
+    "affirmatory",
+    "affirmer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affirm.mp3",
+  "local_sound_path": "sounds/affirm.mp3"
+}

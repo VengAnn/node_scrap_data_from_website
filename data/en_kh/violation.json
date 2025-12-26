@@ -1,0 +1,38 @@
+{
+  "word": "violation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "violation of the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98124.png",
+      "local_image_path": "images/98124.png"
+    },
+    {
+      "pos": "n",
+      "example": "traffic violation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98125.png",
+      "local_image_path": "images/98125.png"
+    }
+  ],
+  "synonyms": [
+    "intrusion",
+    "encroachment",
+    "disturbance",
+    "interruption",
+    "infringement",
+    "breach",
+    "contravention",
+    "abuse",
+    "defiance",
+    "disobedience"
+  ],
+  "antonyms": [
+    "respect",
+    "obedience"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/violation.mp3",
+  "local_sound_path": "sounds/violation.mp3"
+}

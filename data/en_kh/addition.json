@@ -1,0 +1,42 @@
+{
+  "word": "addition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "good at addition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2320.png",
+      "local_image_path": "images/2320.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113231.png",
+      "local_image_path": "images/113231.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113232.png",
+      "local_image_path": "images/113232.png"
+    }
+  ],
+  "synonyms": [
+    "supplement",
+    "appendage",
+    "addendum",
+    "adjunct",
+    "extra",
+    "additive",
+    "surcharge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "additional",
+    "additionally",
+    "additionary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/addition.mp3",
+  "local_sound_path": "sounds/addition.mp3"
+}

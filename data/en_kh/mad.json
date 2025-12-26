@@ -1,0 +1,86 @@
+{
+  "word": "mad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He is mad about his work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105118.png",
+      "local_image_path": "images/105118.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105119.png",
+      "local_image_path": "images/105119.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105120.png",
+      "local_image_path": "images/105120.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105121.png",
+      "local_image_path": "images/105121.png"
+    },
+    {
+      "pos": "adj",
+      "example": "be mad for sb/sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105122.png",
+      "local_image_path": "images/105122.png"
+    }
+  ],
+  "synonyms": [
+    "wild",
+    "uncontrolled",
+    "crazy",
+    "frenzied",
+    "frenetic",
+    "panic-stricken",
+    "absurd",
+    "preposterous",
+    "ridiculous",
+    "ludicrous",
+    "wacky",
+    "misguided",
+    "illogical",
+    "foolish"
+  ],
+  "antonyms": [
+    "sensible",
+    "pleased",
+    "calm",
+    "indifferent"
+  ],
+  "similar_words": [
+    "mad cap",
+    "mad-apple",
+    "mad-bred",
+    "mad-doctor",
+    "madam",
+    "madam and gentlemen",
+    "madame",
+    "madarosis",
+    "madarostic",
+    "madbrain",
+    "madden",
+    "maddening",
+    "maddeningly",
+    "maddeningness",
+    "madder",
+    "madderish",
+    "madding",
+    "maddingly",
+    "maddish",
+    "maddle",
+    "made",
+    "made for",
+    "made up"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mad.mp3",
+  "local_sound_path": "sounds/mad.mp3"
+}

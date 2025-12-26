@@ -1,0 +1,30 @@
+{
+  "word": "colic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15634.png",
+      "local_image_path": "images/15634.png"
+    }
+  ],
+  "synonyms": [
+    "bellyache",
+    "indigestion",
+    "cramp",
+    "stitch",
+    "heartburn",
+    "pain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "colicin",
+    "colicinogenic",
+    "colicinogenicity",
+    "colicky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/colic.mp3",
+  "local_sound_path": "sounds/colic.mp3"
+}

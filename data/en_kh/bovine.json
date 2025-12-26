@@ -1,0 +1,31 @@
+{
+  "word": "bovine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bovine family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10399.png",
+      "local_image_path": "images/10399.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10400.png",
+      "local_image_path": "images/10400.png"
+    }
+  ],
+  "synonyms": [
+    "stupid",
+    "slow",
+    "unintelligent",
+    "dim",
+    "dense",
+    "dull"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bovine.mp3",
+  "local_sound_path": "sounds/bovine.mp3"
+}

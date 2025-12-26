@@ -1,0 +1,60 @@
+{
+  "word": "jovial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43265.png",
+      "local_image_path": "images/43265.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43266.png",
+      "local_image_path": "images/43266.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123161.png",
+      "local_image_path": "images/123161.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123162.png",
+      "local_image_path": "images/123162.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123163.png",
+      "local_image_path": "images/123163.png"
+    }
+  ],
+  "synonyms": [
+    "cheerful",
+    "jolly",
+    "happy",
+    "cheery",
+    "buoyant",
+    "breezy",
+    "merry",
+    "jocund",
+    "blithe"
+  ],
+  "antonyms": [
+    "miserable"
+  ],
+  "similar_words": [
+    "jovialist",
+    "jovialisty",
+    "joviality",
+    "jovialize",
+    "jovialness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jovial.mp3",
+  "local_sound_path": "sounds/jovial.mp3"
+}

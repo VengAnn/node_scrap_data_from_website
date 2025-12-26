@@ -1,0 +1,35 @@
+{
+  "word": "bijou",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8857.png",
+      "local_image_path": "images/8857.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8856.png",
+      "local_image_path": "images/8856.png"
+    }
+  ],
+  "synonyms": [
+    "quaint",
+    "twee",
+    "cute",
+    "pretty-pretty",
+    "sentimental",
+    "precious",
+    "dainty",
+    "sweet"
+  ],
+  "antonyms": [
+    "spacious"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bijou.mp3",
+  "local_sound_path": "sounds/bijou.mp3"
+}

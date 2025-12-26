@@ -1,0 +1,29 @@
+{
+  "word": "buggy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11712.png",
+      "local_image_path": "images/11712.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11711.png",
+      "local_image_path": "images/11711.png"
+    }
+  ],
+  "synonyms": [
+    "pram",
+    "perambulator",
+    "stroller",
+    "baby carriage"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buggy.mp3",
+  "local_sound_path": "sounds/buggy.mp3"
+}

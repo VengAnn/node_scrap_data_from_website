@@ -1,0 +1,40 @@
+{
+  "word": "dozy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I'm feeling a bit dozy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22935.png",
+      "local_image_path": "images/22935.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22936.png",
+      "local_image_path": "images/22936.png"
+    }
+  ],
+  "synonyms": [
+    "sleepy",
+    "drowsy",
+    "tired",
+    "nodding",
+    "lethargic",
+    "dimwitted",
+    "slow",
+    "thick",
+    "dull",
+    "dopey",
+    "stupid",
+    "simple"
+  ],
+  "antonyms": [
+    "alert",
+    "bright"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dozy.mp3",
+  "local_sound_path": "sounds/dozy.mp3"
+}

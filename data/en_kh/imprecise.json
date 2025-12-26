@@ -1,0 +1,50 @@
+{
+  "word": "imprecise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37918.png",
+      "local_image_path": "images/37918.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121724.png",
+      "local_image_path": "images/121724.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121725.png",
+      "local_image_path": "images/121725.png"
+    }
+  ],
+  "synonyms": [
+    "vague",
+    "inexact",
+    "rough",
+    "loose",
+    "inaccurate",
+    "indefinite",
+    "unfocused",
+    "unclear",
+    "indistinct",
+    "blurred",
+    "hazy",
+    "fuzzy",
+    "woolly",
+    "sketchy"
+  ],
+  "antonyms": [
+    "precise"
+  ],
+  "similar_words": [
+    "imprecisely",
+    "impreciseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imprecise.mp3",
+  "local_sound_path": "sounds/imprecise.mp3"
+}

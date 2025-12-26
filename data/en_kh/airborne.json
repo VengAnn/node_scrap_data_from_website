@@ -1,0 +1,31 @@
+{
+  "word": "airborne",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "plane is airbone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3100.png",
+      "local_image_path": "images/3100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3101.png",
+      "local_image_path": "images/3101.png"
+    }
+  ],
+  "synonyms": [
+    "flying",
+    "above ground",
+    "aerial",
+    "floating",
+    "midair",
+    "inflight"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airborne.mp3",
+  "local_sound_path": "sounds/airborne.mp3"
+}

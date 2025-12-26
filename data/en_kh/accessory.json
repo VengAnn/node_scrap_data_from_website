@@ -1,0 +1,38 @@
+{
+  "word": "accessory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "accessory during the fact",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1830.png",
+      "local_image_path": "images/1830.png"
+    },
+    {
+      "pos": "n",
+      "example": "accessory after the fact",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1829.png",
+      "local_image_path": "images/1829.png"
+    }
+  ],
+  "synonyms": [
+    "accomplice",
+    "partner",
+    "assistant",
+    "abettor",
+    "ornament",
+    "handbag",
+    "belt",
+    "scarf"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "accessory after the fact",
+    "accessory before the fact",
+    "accessory during the fact",
+    "accessory penalty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accessory.mp3",
+  "local_sound_path": "sounds/accessory.mp3"
+}

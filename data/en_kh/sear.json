@@ -1,0 +1,86 @@
+{
+  "word": "sear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77457.png",
+      "local_image_path": "images/77457.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127573.png",
+      "local_image_path": "images/127573.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127574.png",
+      "local_image_path": "images/127574.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127575.png",
+      "local_image_path": "images/127575.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77456.png",
+      "local_image_path": "images/77456.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77458.png",
+      "local_image_path": "images/77458.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78264.png",
+      "local_image_path": "images/78264.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sear hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77453.png",
+      "local_image_path": "images/77453.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sear meat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77454.png",
+      "local_image_path": "images/77454.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sear the earth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77455.png",
+      "local_image_path": "images/77455.png"
+    }
+  ],
+  "synonyms": [
+    "burn",
+    "scorch",
+    "char",
+    "singe",
+    "flame",
+    "blister",
+    "solder"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "search",
+    "searcher",
+    "searching",
+    "searchingly",
+    "searchlight"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sear.mp3",
+  "local_sound_path": "sounds/sear.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "word": "erode",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "soils erode",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25745.png",
+      "local_image_path": "images/25745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25744.png",
+      "local_image_path": "images/25744.png"
+    }
+  ],
+  "synonyms": [
+    "corrode"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erode.mp3",
+  "local_sound_path": "sounds/erode.mp3"
+}

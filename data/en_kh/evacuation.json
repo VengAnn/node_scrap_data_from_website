@@ -1,0 +1,43 @@
+{
+  "word": "evacuation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26137.png",
+      "local_image_path": "images/26137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119470.png",
+      "local_image_path": "images/119470.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119471.png",
+      "local_image_path": "images/119471.png"
+    }
+  ],
+  "synonyms": [
+    "migration",
+    "emigration",
+    "flight",
+    "removal",
+    "clearing",
+    "emptying",
+    "withdrawal",
+    "departure",
+    "retreat",
+    "exodus"
+  ],
+  "antonyms": [
+    "influx"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/evacuation.mp3",
+  "local_sound_path": "sounds/evacuation.mp3"
+}

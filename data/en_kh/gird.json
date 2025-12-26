@@ -1,0 +1,52 @@
+{
+  "word": "gird",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31774.png",
+      "local_image_path": "images/31774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31775.png",
+      "local_image_path": "images/31775.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gird one's waist",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31771.png",
+      "local_image_path": "images/31771.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gird oneself for action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31772.png",
+      "local_image_path": "images/31772.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gird up one's loins",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31773.png",
+      "local_image_path": "images/31773.png"
+    }
+  ],
+  "synonyms": [
+    "bind",
+    "restrain",
+    "fix",
+    "tighten"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "girder",
+    "girdle",
+    "girdler",
+    "girdlestead"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gird.mp3",
+  "local_sound_path": "sounds/gird.mp3"
+}

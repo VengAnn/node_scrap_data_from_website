@@ -1,0 +1,31 @@
+{
+  "word": "defunct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "defunct journal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20242.png",
+      "local_image_path": "images/20242.png"
+    }
+  ],
+  "synonyms": [
+    "dead",
+    "deceased",
+    "departed",
+    "extinct",
+    "gone"
+  ],
+  "antonyms": [
+    "current",
+    "alive",
+    "living"
+  ],
+  "similar_words": [
+    "defunctive",
+    "defunctness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defunct.mp3",
+  "local_sound_path": "sounds/defunct.mp3"
+}

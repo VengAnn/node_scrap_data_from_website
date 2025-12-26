@@ -1,0 +1,31 @@
+{
+  "word": "divvy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22497.png",
+      "local_image_path": "images/22497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22496.png",
+      "local_image_path": "images/22496.png"
+    }
+  ],
+  "synonyms": [
+    "divide",
+    "distribute",
+    "allocate",
+    "split",
+    "apportion",
+    "allot"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divvy.mp3",
+  "local_sound_path": "sounds/divvy.mp3"
+}

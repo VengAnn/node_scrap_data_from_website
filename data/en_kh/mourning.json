@@ -1,0 +1,30 @@
+{
+  "word": "mourning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "when grand mother died they went into mourning.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110743.png",
+      "local_image_path": "images/110743.png"
+    }
+  ],
+  "synonyms": [
+    "grief",
+    "bereavement",
+    "sorrow",
+    "sadness",
+    "remembrance",
+    "respect",
+    "grieving",
+    "lamenting",
+    "bewailing"
+  ],
+  "antonyms": [
+    "exultation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mourning.mp3",
+  "local_sound_path": "sounds/mourning.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "word": "fitting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28775.png",
+      "local_image_path": "images/28775.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28772.png",
+      "local_image_path": "images/28772.png"
+    },
+    {
+      "pos": "n",
+      "example": "electrical fitting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28773.png",
+      "local_image_path": "images/28773.png"
+    },
+    {
+      "pos": "n",
+      "example": "tailor's fitting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28774.png",
+      "local_image_path": "images/28774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130330.png",
+      "local_image_path": "images/130330.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130331.png",
+      "local_image_path": "images/130331.png"
+    }
+  ],
+  "synonyms": [
+    "appropriate",
+    "right",
+    "correct",
+    "proper",
+    "apt",
+    "decent",
+    "fit",
+    "suiting",
+    "corresponding"
+  ],
+  "antonyms": [
+    "inappropriate"
+  ],
+  "similar_words": [
+    "fitting room",
+    "fitting-shop"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fitting.mp3",
+  "local_sound_path": "sounds/fitting.mp3"
+}

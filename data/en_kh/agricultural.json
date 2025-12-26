@@ -1,0 +1,26 @@
+{
+  "word": "agricultural",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "agricultural economist",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3037.png",
+      "local_image_path": "images/3037.png"
+    }
+  ],
+  "synonyms": [
+    "undeveloped",
+    "farming",
+    "rural",
+    "pastoral",
+    "bucolic"
+  ],
+  "antonyms": [
+    "urban"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agricultural.mp3",
+  "local_sound_path": "sounds/agricultural.mp3"
+}

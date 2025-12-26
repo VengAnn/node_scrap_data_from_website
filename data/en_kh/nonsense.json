@@ -1,0 +1,72 @@
+{
+  "word": "nonsense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56186.png",
+      "local_image_path": "images/56186.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56187.png",
+      "local_image_path": "images/56187.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124710.png",
+      "local_image_path": "images/124710.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124711.png",
+      "local_image_path": "images/124711.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124712.png",
+      "local_image_path": "images/124712.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124713.png",
+      "local_image_path": "images/124713.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124714.png",
+      "local_image_path": "images/124714.png"
+    }
+  ],
+  "synonyms": [
+    "garbage",
+    "baloney",
+    "twaddle",
+    "claptrap",
+    "drivel",
+    "gobbledygook",
+    "gibberish",
+    "hot air",
+    "noise",
+    "babble",
+    "jabber",
+    "boloney",
+    "rubbish",
+    "poppycock",
+    "balderdash"
+  ],
+  "antonyms": [
+    "sense"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nonsense.mp3",
+  "local_sound_path": "sounds/nonsense.mp3"
+}

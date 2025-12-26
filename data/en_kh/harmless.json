@@ -1,0 +1,44 @@
+{
+  "word": "harmless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33912.png",
+      "local_image_path": "images/33912.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33913.png",
+      "local_image_path": "images/33913.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120958.png",
+      "local_image_path": "images/120958.png"
+    }
+  ],
+  "synonyms": [
+    "inoffensive",
+    "innocuous",
+    "innocent",
+    "meaningless",
+    "safe",
+    "sound"
+  ],
+  "antonyms": [
+    "harmful",
+    "offensive"
+  ],
+  "similar_words": [
+    "harmless error",
+    "harmlessly",
+    "harmlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harmless.mp3",
+  "local_sound_path": "sounds/harmless.mp3"
+}

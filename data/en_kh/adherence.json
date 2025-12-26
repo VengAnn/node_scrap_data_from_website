@@ -1,0 +1,38 @@
+{
+  "word": "adherence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2359.png",
+      "local_image_path": "images/2359.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2358.png",
+      "local_image_path": "images/2358.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2357.png",
+      "local_image_path": "images/2357.png"
+    }
+  ],
+  "synonyms": [
+    "devotion",
+    "obedience",
+    "observance",
+    "loyalty",
+    "faithfulness"
+  ],
+  "antonyms": [
+    "disobedience"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adherence.mp3",
+  "local_sound_path": "sounds/adherence.mp3"
+}

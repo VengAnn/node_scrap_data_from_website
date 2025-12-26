@@ -1,0 +1,72 @@
+{
+  "word": "provision",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "provision of money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68250.png",
+      "local_image_path": "images/68250.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68251.png",
+      "local_image_path": "images/68251.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68252.png",
+      "local_image_path": "images/68252.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy provision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68253.png",
+      "local_image_path": "images/68253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68254.png",
+      "local_image_path": "images/68254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68255.png",
+      "local_image_path": "images/68255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68256.png",
+      "local_image_path": "images/68256.png"
+    }
+  ],
+  "synonyms": [
+    "stipulation",
+    "rider",
+    "condition",
+    "proviso",
+    "but",
+    "if",
+    "terms",
+    "prerequisite",
+    "specification",
+    "requirement",
+    "obligation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "provisional",
+    "provisional remedy",
+    "provisionally",
+    "provisionalness",
+    "provisionary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/provision.mp3",
+  "local_sound_path": "sounds/provision.mp3"
+}

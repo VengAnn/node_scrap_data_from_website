@@ -1,0 +1,35 @@
+{
+  "word": "loathe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "You loathe the smell of greasy food when you're seasick.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47196.png",
+      "local_image_path": "images/47196.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I loathe that woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47197.png",
+      "local_image_path": "images/47197.png"
+    }
+  ],
+  "synonyms": [
+    "hate",
+    "dislike",
+    "detest",
+    "despise",
+    "abhor",
+    "abominate",
+    "scorn",
+    "disdain"
+  ],
+  "antonyms": [
+    "adore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/loathe.mp3",
+  "local_sound_path": "sounds/loathe.mp3"
+}

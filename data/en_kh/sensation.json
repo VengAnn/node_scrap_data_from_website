@@ -1,0 +1,60 @@
+{
+  "word": "sensation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sensation of cold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78102.png",
+      "local_image_path": "images/78102.png"
+    },
+    {
+      "pos": "n",
+      "example": "cause a sensation in the neighborhood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78103.png",
+      "local_image_path": "images/78103.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a sensation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78104.png",
+      "local_image_path": "images/78104.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78105.png",
+      "local_image_path": "images/78105.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127634.png",
+      "local_image_path": "images/127634.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127635.png",
+      "local_image_path": "images/127635.png"
+    }
+  ],
+  "synonyms": [
+    "hit",
+    "smash"
+  ],
+  "antonyms": [
+    "numbness",
+    "calm",
+    "lull"
+  ],
+  "similar_words": [
+    "sensational",
+    "sensationalism",
+    "sensationalist",
+    "sensationalize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sensation.mp3",
+  "local_sound_path": "sounds/sensation.mp3"
+}

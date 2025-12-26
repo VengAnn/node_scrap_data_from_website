@@ -1,0 +1,39 @@
+{
+  "word": "sacrilege",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "It's a sacrilege to put catsup on steak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74978.png",
+      "local_image_path": "images/74978.png"
+    },
+    {
+      "pos": "n",
+      "example": "sacrilege of a holy place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74977.png",
+      "local_image_path": "images/74977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127297.png",
+      "local_image_path": "images/127297.png"
+    }
+  ],
+  "synonyms": [
+    "blasphemy",
+    "irreverence",
+    "disrespect",
+    "profanity",
+    "violation",
+    "desecration"
+  ],
+  "antonyms": [
+    "piety"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sacrilege.mp3",
+  "local_sound_path": "sounds/sacrilege.mp3"
+}

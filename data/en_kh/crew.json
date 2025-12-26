@@ -1,0 +1,33 @@
+{
+  "word": "crew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ship's crew",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18568.png",
+      "local_image_path": "images/18568.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18569.png",
+      "local_image_path": "images/18569.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "gang",
+    "bunch",
+    "party",
+    "circle",
+    "crowd",
+    "band",
+    "assembly"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crew.mp3",
+  "local_sound_path": "sounds/crew.mp3"
+}

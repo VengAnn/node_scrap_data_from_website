@@ -1,0 +1,29 @@
+{
+  "word": "locker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47276.png",
+      "local_image_path": "images/47276.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47277.png",
+      "local_image_path": "images/47277.png"
+    }
+  ],
+  "synonyms": [
+    "storeroom",
+    "closet",
+    "cabinet",
+    "sideboard"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/locker.mp3",
+  "local_sound_path": "sounds/locker.mp3"
+}

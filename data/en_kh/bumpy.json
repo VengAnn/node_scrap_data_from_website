@@ -1,0 +1,33 @@
+{
+  "word": "bumpy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11833.png",
+      "local_image_path": "images/11833.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131051.png",
+      "local_image_path": "images/131051.png"
+    }
+  ],
+  "synonyms": [
+    "uncomfortable",
+    "rough",
+    "bouncy",
+    "jarring",
+    "jerky",
+    "uneven"
+  ],
+  "antonyms": [
+    "smooth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bumpy.mp3",
+  "local_sound_path": "sounds/bumpy.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "word": "collision",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the two ships came into collision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15721.png",
+      "local_image_path": "images/15721.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15722.png",
+      "local_image_path": "images/15722.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116690.png",
+      "local_image_path": "images/116690.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116691.png",
+      "local_image_path": "images/116691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116692.png",
+      "local_image_path": "images/116692.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116693.png",
+      "local_image_path": "images/116693.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116694.png",
+      "local_image_path": "images/116694.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116695.png",
+      "local_image_path": "images/116695.png"
+    }
+  ],
+  "synonyms": [
+    "clash",
+    "conflict",
+    "confrontation",
+    "disagreement",
+    "difficulty",
+    "overlap"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "collision course",
+    "collisional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/collision.mp3",
+  "local_sound_path": "sounds/collision.mp3"
+}

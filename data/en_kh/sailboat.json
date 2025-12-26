@@ -1,0 +1,27 @@
+{
+  "word": "sailboat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75151.png",
+      "local_image_path": "images/75151.png"
+    }
+  ],
+  "synonyms": [
+    "dinghy",
+    "yacht",
+    "boat",
+    "schooner",
+    "clipper"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sailboater",
+    "sailboating"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sailboat.mp3",
+  "local_sound_path": "sounds/sailboat.mp3"
+}

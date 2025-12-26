@@ -1,0 +1,32 @@
+{
+  "word": "correction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17822.png",
+      "local_image_path": "images/17822.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17823.png",
+      "local_image_path": "images/17823.png"
+    }
+  ],
+  "synonyms": [
+    "alteration",
+    "improvement",
+    "rectification",
+    "modification",
+    "amendment",
+    "adjustment",
+    "tweak"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/correction.mp3",
+  "local_sound_path": "sounds/correction.mp3"
+}

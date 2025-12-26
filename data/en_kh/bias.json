@@ -1,0 +1,70 @@
+{
+  "word": "bias",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "he has bias towards (against) the plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8602.png",
+      "local_image_path": "images/8602.png"
+    },
+    {
+      "pos": "n",
+      "example": "liberal bias",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8600.png",
+      "local_image_path": "images/8600.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115010.png",
+      "local_image_path": "images/115010.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115011.png",
+      "local_image_path": "images/115011.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115012.png",
+      "local_image_path": "images/115012.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8601.png",
+      "local_image_path": "images/8601.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115013.png",
+      "local_image_path": "images/115013.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115014.png",
+      "local_image_path": "images/115014.png"
+    }
+  ],
+  "synonyms": [
+    "prejudice",
+    "partiality",
+    "unfairness",
+    "favoritism",
+    "predisposition",
+    "preconception",
+    "preference"
+  ],
+  "antonyms": [
+    "impartiality"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bias.mp3",
+  "local_sound_path": "sounds/bias.mp3"
+}

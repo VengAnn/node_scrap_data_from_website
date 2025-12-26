@@ -1,0 +1,50 @@
+{
+  "word": "diction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "speech diction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21256.png",
+      "local_image_path": "images/21256.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118269.png",
+      "local_image_path": "images/118269.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118270.png",
+      "local_image_path": "images/118270.png"
+    }
+  ],
+  "synonyms": [
+    "language",
+    "expression",
+    "wording",
+    "phraseology",
+    "phrasing",
+    "style",
+    "pronunciation",
+    "enunciation",
+    "articulation",
+    "delivery",
+    "elocution",
+    "projection",
+    "speech",
+    "accent"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dictional",
+    "dictionally",
+    "dictionarian",
+    "dictionary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diction.mp3",
+  "local_sound_path": "sounds/diction.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "word": "blame",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9353.png",
+      "local_image_path": "images/9353.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115150.png",
+      "local_image_path": "images/115150.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115151.png",
+      "local_image_path": "images/115151.png"
+    },
+    {
+      "pos": "tv",
+      "example": "she blames her staffs for working slowly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9352.png",
+      "local_image_path": "images/9352.png"
+    }
+  ],
+  "synonyms": [
+    "reproach",
+    "condemn",
+    "criticize",
+    "upbraid",
+    "reprimand",
+    "reprehend",
+    "denunciate"
+  ],
+  "antonyms": [
+    "commend",
+    "commendation",
+    "exculpate"
+  ],
+  "similar_words": [
+    "blame storming",
+    "blameable",
+    "blamebleness",
+    "blamebly",
+    "blamed",
+    "blameful",
+    "blamefully",
+    "blamefulness",
+    "blameless",
+    "blamelessly",
+    "blamelessness",
+    "blamer",
+    "blameworthiness",
+    "blameworthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blame.mp3",
+  "local_sound_path": "sounds/blame.mp3"
+}

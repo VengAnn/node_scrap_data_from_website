@@ -1,0 +1,90 @@
+{
+  "word": "inscribe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40419.png",
+      "local_image_path": "images/40419.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inscribe a bracelet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40420.png",
+      "local_image_path": "images/40420.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inscribe a name",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40421.png",
+      "local_image_path": "images/40421.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40422.png",
+      "local_image_path": "images/40422.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122518.png",
+      "local_image_path": "images/122518.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122519.png",
+      "local_image_path": "images/122519.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122520.png",
+      "local_image_path": "images/122520.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122521.png",
+      "local_image_path": "images/122521.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122522.png",
+      "local_image_path": "images/122522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122523.png",
+      "local_image_path": "images/122523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122524.png",
+      "local_image_path": "images/122524.png"
+    }
+  ],
+  "synonyms": [
+    "write",
+    "mark",
+    "dedicate",
+    "autograph",
+    "address",
+    "sign",
+    "assign",
+    "consecrate"
+  ],
+  "antonyms": [
+    "erase",
+    "delete"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inscribe.mp3",
+  "local_sound_path": "sounds/inscribe.mp3"
+}

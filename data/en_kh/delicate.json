@@ -1,0 +1,55 @@
+{
+  "word": "delicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "delicate structure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20317.png",
+      "local_image_path": "images/20317.png"
+    },
+    {
+      "pos": "adj",
+      "example": "delicate child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20318.png",
+      "local_image_path": "images/20318.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117960.png",
+      "local_image_path": "images/117960.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117961.png",
+      "local_image_path": "images/117961.png"
+    }
+  ],
+  "synonyms": [
+    "difficult",
+    "tricky",
+    "complicated",
+    "sensitive",
+    "awkward",
+    "sticky",
+    "uncomfortable"
+  ],
+  "antonyms": [
+    "robust",
+    "overpowering",
+    "tactless",
+    "inelegant",
+    "inaccurate",
+    "straightforward",
+    "rough"
+  ],
+  "similar_words": [
+    "delicatesse",
+    "delicatessen"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delicate.mp3",
+  "local_sound_path": "sounds/delicate.mp3"
+}

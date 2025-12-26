@@ -1,0 +1,66 @@
+{
+  "word": "then",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "then the prime minister",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88727.png",
+      "local_image_path": "images/88727.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I was still unmarried then.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88722.png",
+      "local_image_path": "images/88722.png"
+    },
+    {
+      "pos": "adv",
+      "example": "We had a week in Rome and then went to Nepal.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88723.png",
+      "local_image_path": "images/88723.png"
+    },
+    {
+      "pos": "adv",
+      "example": "then do it!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88724.png",
+      "local_image_path": "images/88724.png"
+    },
+    {
+      "pos": "adv",
+      "example": "now and then",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88725.png",
+      "local_image_path": "images/88725.png"
+    },
+    {
+      "pos": "adv",
+      "example": "but then",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88726.png",
+      "local_image_path": "images/88726.png"
+    },
+    {
+      "pos": "n",
+      "example": "still then",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88728.png",
+      "local_image_path": "images/88728.png"
+    }
+  ],
+  "synonyms": [
+    "therefore",
+    "so"
+  ],
+  "antonyms": [
+    "now"
+  ],
+  "similar_words": [
+    "thenar",
+    "thence",
+    "thence-from",
+    "thenceforth",
+    "thenceforward",
+    "thenceforwards"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/then.mp3",
+  "local_sound_path": "sounds/then.mp3"
+}

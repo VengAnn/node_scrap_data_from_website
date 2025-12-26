@@ -1,0 +1,71 @@
+{
+  "word": "pound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hearts pound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65686.png",
+      "local_image_path": "images/65686.png"
+    },
+    {
+      "pos": "iv",
+      "example": "drums pound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65687.png",
+      "local_image_path": "images/65687.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65688.png",
+      "local_image_path": "images/65688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65689.png",
+      "local_image_path": "images/65689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pound the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65684.png",
+      "local_image_path": "images/65684.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65690.png",
+      "local_image_path": "images/65690.png"
+    },
+    {
+      "pos": "v",
+      "example": "pound meat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65685.png",
+      "local_image_path": "images/65685.png"
+    }
+  ],
+  "synonyms": [
+    "throb",
+    "beat",
+    "pulsate",
+    "grind",
+    "crush",
+    "pulverize",
+    "bruise",
+    "mash",
+    "squash",
+    "smash",
+    "stamp"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pound-foolish",
+    "poundage",
+    "pounder",
+    "pounding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pound.mp3",
+  "local_sound_path": "sounds/pound.mp3"
+}

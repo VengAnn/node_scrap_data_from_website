@@ -1,0 +1,46 @@
+{
+  "word": "blunt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9841.png",
+      "local_image_path": "images/9841.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9840.png",
+      "local_image_path": "images/9840.png"
+    },
+    {
+      "pos": "tv",
+      "example": "if you try to cut stome with your knife, you will blunt the edge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9842.png",
+      "local_image_path": "images/9842.png"
+    }
+  ],
+  "synonyms": [
+    "dampen",
+    "dull",
+    "reduce",
+    "diminish",
+    "soothe",
+    "moderate",
+    "lessen"
+  ],
+  "antonyms": [
+    "sharp",
+    "hesitant",
+    "heighten",
+    "indirect"
+  ],
+  "similar_words": [
+    "bluntly",
+    "bluntness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blunt.mp3",
+  "local_sound_path": "sounds/blunt.mp3"
+}

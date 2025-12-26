@@ -1,0 +1,33 @@
+{
+  "word": "bewail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he is bewailing his failure in the examination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8538.png",
+      "local_image_path": "images/8538.png"
+    }
+  ],
+  "synonyms": [
+    "lament",
+    "bemoan",
+    "regret",
+    "grieve",
+    "deplore",
+    "complain",
+    "moan",
+    "grumble"
+  ],
+  "antonyms": [
+    "applaud"
+  ],
+  "similar_words": [
+    "bewailer",
+    "bewailing",
+    "bewailment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bewail.mp3",
+  "local_sound_path": "sounds/bewail.mp3"
+}

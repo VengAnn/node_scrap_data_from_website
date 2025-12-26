@@ -1,0 +1,94 @@
+{
+  "word": "hole",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hole into the ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35572.png",
+      "local_image_path": "images/35572.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hole up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35573.png",
+      "local_image_path": "images/35573.png"
+    },
+    {
+      "pos": "n",
+      "example": "hole in the wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35564.png",
+      "local_image_path": "images/35564.png"
+    },
+    {
+      "pos": "n",
+      "example": "snake hole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35565.png",
+      "local_image_path": "images/35565.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a hold in his theory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35566.png",
+      "local_image_path": "images/35566.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35567.png",
+      "local_image_path": "images/35567.png"
+    },
+    {
+      "pos": "n",
+      "example": "His apartment is a hole.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35568.png",
+      "local_image_path": "images/35568.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hole the ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35569.png",
+      "local_image_path": "images/35569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hole an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35570.png",
+      "local_image_path": "images/35570.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hole the ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35571.png",
+      "local_image_path": "images/35571.png"
+    }
+  ],
+  "synonyms": [
+    "hovel",
+    "dump",
+    "cell",
+    "pit",
+    "gap",
+    "opening",
+    "crack",
+    "break",
+    "outlet",
+    "puncture",
+    "fissure",
+    "tear",
+    "perforation",
+    "aperture"
+  ],
+  "antonyms": [
+    "mansion",
+    "strength"
+  ],
+  "similar_words": [
+    "hole puncher",
+    "hole-and-corner",
+    "holey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hole.mp3",
+  "local_sound_path": "sounds/hole.mp3"
+}

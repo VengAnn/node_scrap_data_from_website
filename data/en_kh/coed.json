@@ -1,0 +1,34 @@
+{
+  "word": "coed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "coed school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15457.png",
+      "local_image_path": "images/15457.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116607.png",
+      "local_image_path": "images/116607.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15456.png",
+      "local_image_path": "images/15456.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "coeducation",
+    "coeducational",
+    "coeducationally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coed.mp3",
+  "local_sound_path": "sounds/coed.mp3"
+}

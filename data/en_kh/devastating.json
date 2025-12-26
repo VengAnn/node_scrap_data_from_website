@@ -1,0 +1,37 @@
+{
+  "word": "devastating",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21064.png",
+      "local_image_path": "images/21064.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118209.png",
+      "local_image_path": "images/118209.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118210.png",
+      "local_image_path": "images/118210.png"
+    }
+  ],
+  "synonyms": [
+    "destructive",
+    "harmful",
+    "damaging",
+    "ruinous",
+    "injurious",
+    "dreadful"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devastating.mp3",
+  "local_sound_path": "sounds/devastating.mp3"
+}

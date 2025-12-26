@@ -1,0 +1,85 @@
+{
+  "word": "express",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "express train",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26909.png",
+      "local_image_path": "images/26909.png"
+    },
+    {
+      "pos": "adj",
+      "example": "express purpose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26910.png",
+      "local_image_path": "images/26910.png"
+    },
+    {
+      "pos": "adj",
+      "example": "express agency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26911.png",
+      "local_image_path": "images/26911.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26912.png",
+      "local_image_path": "images/26912.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26913.png",
+      "local_image_path": "images/26913.png"
+    },
+    {
+      "pos": "n",
+      "example": "send by express",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26914.png",
+      "local_image_path": "images/26914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "express an idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26907.png",
+      "local_image_path": "images/26907.png"
+    },
+    {
+      "pos": "tv",
+      "example": "express one's gratitude",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26908.png",
+      "local_image_path": "images/26908.png"
+    }
+  ],
+  "synonyms": [
+    "extract"
+  ],
+  "antonyms": [
+    "slow",
+    "vague"
+  ],
+  "similar_words": [
+    "express age",
+    "express contract",
+    "express delivery",
+    "express tour",
+    "express way",
+    "expressage",
+    "expressible",
+    "expression",
+    "expressionism",
+    "expressionist",
+    "expressionistic",
+    "expressionless",
+    "expressive",
+    "expressively",
+    "expressiveness",
+    "expressless",
+    "expressly",
+    "expressman",
+    "expresso"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/express.mp3",
+  "local_sound_path": "sounds/express.mp3"
+}

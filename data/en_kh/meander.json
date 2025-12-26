@@ -1,0 +1,36 @@
+{
+  "word": "meander",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "streams meander",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107052.png",
+      "local_image_path": "images/107052.png"
+    },
+    {
+      "pos": "iv",
+      "example": "mean along the street",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107053.png",
+      "local_image_path": "images/107053.png"
+    }
+  ],
+  "synonyms": [
+    "wind",
+    "zigzag",
+    "snake",
+    "twist",
+    "bend",
+    "curve"
+  ],
+  "antonyms": [
+    "rush"
+  ],
+  "similar_words": [
+    "meanderingly",
+    "meanderous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meander.mp3",
+  "local_sound_path": "sounds/meander.mp3"
+}

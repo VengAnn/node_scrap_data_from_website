@@ -1,0 +1,44 @@
+{
+  "word": "additional",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2321.png",
+      "local_image_path": "images/2321.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113233.png",
+      "local_image_path": "images/113233.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113234.png",
+      "local_image_path": "images/113234.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113235.png",
+      "local_image_path": "images/113235.png"
+    }
+  ],
+  "synonyms": [
+    "extra",
+    "supplementary",
+    "other",
+    "further",
+    "bonus",
+    "surplus",
+    "superfluous"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/additional.mp3",
+  "local_sound_path": "sounds/additional.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "poem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64541.png",
+      "local_image_path": "images/64541.png"
+    }
+  ],
+  "synonyms": [
+    "verse",
+    "rhyme",
+    "ode",
+    "sonnet",
+    "elegy",
+    "limerick",
+    "couplet",
+    "epic"
+  ],
+  "antonyms": [
+    "prose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poem.mp3",
+  "local_sound_path": "sounds/poem.mp3"
+}

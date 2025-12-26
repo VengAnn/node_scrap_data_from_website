@@ -1,0 +1,54 @@
+{
+  "word": "bread",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10812.png",
+      "local_image_path": "images/10812.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10813.png",
+      "local_image_path": "images/10813.png"
+    }
+  ],
+  "synonyms": [
+    "cash",
+    "currency",
+    "food",
+    "sustenance",
+    "nourishment",
+    "diet"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bread basket",
+    "bread crumb",
+    "bread root",
+    "bread stitch",
+    "bread stuff",
+    "bread tree",
+    "bread wheat",
+    "bread-corn",
+    "bread-winning",
+    "breadboard",
+    "breadboarding",
+    "breaded",
+    "breadfruit",
+    "breadgrain",
+    "breadless",
+    "breadline",
+    "breadness",
+    "breadnut",
+    "breadth",
+    "breadth ways",
+    "breadthwise",
+    "breadwinner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bread.mp3",
+  "local_sound_path": "sounds/bread.mp3"
+}

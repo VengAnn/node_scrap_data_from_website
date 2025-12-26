@@ -1,0 +1,68 @@
+{
+  "word": "near",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "near neighbors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55141.png",
+      "local_image_path": "images/55141.png"
+    },
+    {
+      "pos": "adj",
+      "example": "He's my a near friend.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55142.png",
+      "local_image_path": "images/55142.png"
+    },
+    {
+      "pos": "adj",
+      "example": "near accident",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55143.png",
+      "local_image_path": "images/55143.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124510.png",
+      "local_image_path": "images/124510.png"
+    },
+    {
+      "pos": "adv, prep",
+      "example": "Don't sit near the door.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55140.png",
+      "local_image_path": "images/55140.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55145.png",
+      "local_image_path": "images/55145.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The day is nearing when we'll have to decide.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55144.png",
+      "local_image_path": "images/55144.png"
+    }
+  ],
+  "synonyms": [
+    "approach",
+    "reach"
+  ],
+  "antonyms": [
+    "far",
+    "leave"
+  ],
+  "similar_words": [
+    "nearby",
+    "nearer",
+    "nearly",
+    "nearness",
+    "nearsighted",
+    "nearsightedly",
+    "nearsightedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/near.mp3",
+  "local_sound_path": "sounds/near.mp3"
+}

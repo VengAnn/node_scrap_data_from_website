@@ -1,0 +1,111 @@
+{
+  "word": "stock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stock acticles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84886.png",
+      "local_image_path": "images/84886.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stock argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84887.png",
+      "local_image_path": "images/84887.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stock up (on)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84891.png",
+      "local_image_path": "images/84891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84882.png",
+      "local_image_path": "images/84882.png"
+    },
+    {
+      "pos": "n",
+      "example": "raise stock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84883.png",
+      "local_image_path": "images/84883.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84884.png",
+      "local_image_path": "images/84884.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84885.png",
+      "local_image_path": "images/84885.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stock merchandise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84888.png",
+      "local_image_path": "images/84888.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stock a farm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84889.png",
+      "local_image_path": "images/84889.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stock a camp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84890.png",
+      "local_image_path": "images/84890.png"
+    }
+  ],
+  "synonyms": [
+    "standard",
+    "typical",
+    "routine",
+    "keep",
+    "carry",
+    "supply",
+    "sell",
+    "provide"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stock breeder",
+    "stock broker",
+    "stock broking",
+    "stock car racing",
+    "stock certificate",
+    "stock farmer",
+    "stock holder",
+    "stock holding",
+    "stock jobber",
+    "stock jobbing",
+    "stock list",
+    "stock man",
+    "stock market",
+    "stock parking",
+    "stock taking",
+    "stock-dove",
+    "stock-exchange",
+    "stock-in-trade",
+    "stock-job",
+    "stock-yard",
+    "stockade",
+    "stockholm syndrome",
+    "stockily",
+    "stockinette",
+    "stocking",
+    "stockingless",
+    "stockish",
+    "stockist",
+    "stocklist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stock.mp3",
+  "local_sound_path": "sounds/stock.mp3"
+}

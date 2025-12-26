@@ -1,0 +1,30 @@
+{
+  "word": "veer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The wind veered round to the north.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97381.png",
+      "local_image_path": "images/97381.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97382.png",
+      "local_image_path": "images/97382.png"
+    }
+  ],
+  "synonyms": [
+    "turn",
+    "swerve",
+    "bend",
+    "swing",
+    "deviate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/veer.mp3",
+  "local_sound_path": "sounds/veer.mp3"
+}

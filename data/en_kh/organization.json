@@ -1,0 +1,47 @@
+{
+  "word": "organization",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "political organization",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57987.png",
+      "local_image_path": "images/57987.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57988.png",
+      "local_image_path": "images/57988.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57989.png",
+      "local_image_path": "images/57989.png"
+    }
+  ],
+  "synonyms": [
+    "orderliness",
+    "order",
+    "method",
+    "regulation",
+    "neatness",
+    "tidiness",
+    "government",
+    "administration",
+    "officialdom",
+    "establishment",
+    "civil service"
+  ],
+  "antonyms": [
+    "chaos"
+  ],
+  "similar_words": [
+    "organizational",
+    "organizationally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/organization.mp3",
+  "local_sound_path": "sounds/organization.mp3"
+}

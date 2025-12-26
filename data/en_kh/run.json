@@ -1,0 +1,102 @@
+{
+  "word": "run",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "My son is runing outside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74658.png",
+      "local_image_path": "images/74658.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74659.png",
+      "local_image_path": "images/74659.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Rivers run",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74660.png",
+      "local_image_path": "images/74660.png"
+    },
+    {
+      "pos": "iv",
+      "example": "run for election",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74661.png",
+      "local_image_path": "images/74661.png"
+    },
+    {
+      "pos": "n",
+      "example": "go for a run",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74665.png",
+      "local_image_path": "images/74665.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a car out for a run",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74666.png",
+      "local_image_path": "images/74666.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a run up to Phnom Penh",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74667.png",
+      "local_image_path": "images/74667.png"
+    },
+    {
+      "pos": "tv",
+      "example": "run a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74662.png",
+      "local_image_path": "images/74662.png"
+    },
+    {
+      "pos": "tv",
+      "example": "run a horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74663.png",
+      "local_image_path": "images/74663.png"
+    },
+    {
+      "pos": "tv",
+      "example": "run a tractor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74664.png",
+      "local_image_path": "images/74664.png"
+    }
+  ],
+  "synonyms": [
+    "outing",
+    "trip",
+    "ride",
+    "continue",
+    "extend",
+    "reach",
+    "stretch",
+    "go",
+    "gone",
+    "last",
+    "persist"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "run the show",
+    "run-down",
+    "run-in",
+    "run-off",
+    "run-on",
+    "run-through",
+    "run-up",
+    "runabout",
+    "runagate",
+    "runaway",
+    "runcinate",
+    "rundle",
+    "rung",
+    "runlet",
+    "runnel",
+    "runner",
+    "runner-up"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/run.mp3",
+  "local_sound_path": "sounds/run.mp3"
+}

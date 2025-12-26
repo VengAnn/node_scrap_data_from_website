@@ -1,0 +1,58 @@
+{
+  "word": "delight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20324.png",
+      "local_image_path": "images/20324.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117962.png",
+      "local_image_path": "images/117962.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117963.png",
+      "local_image_path": "images/117963.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20325.png",
+      "local_image_path": "images/20325.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117964.png",
+      "local_image_path": "images/117964.png"
+    }
+  ],
+  "synonyms": [
+    "please",
+    "charm",
+    "amuse",
+    "thrill",
+    "gratify",
+    "enchant"
+  ],
+  "antonyms": [
+    "displeasure",
+    "dislike",
+    "disappoint"
+  ],
+  "similar_words": [
+    "delighted",
+    "delightful",
+    "delightfully",
+    "delightfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delight.mp3",
+  "local_sound_path": "sounds/delight.mp3"
+}

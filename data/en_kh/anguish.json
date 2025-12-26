@@ -1,0 +1,68 @@
+{
+  "word": "anguish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4301.png",
+      "local_image_path": "images/4301.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112507.png",
+      "local_image_path": "images/112507.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112508.png",
+      "local_image_path": "images/112508.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112509.png",
+      "local_image_path": "images/112509.png"
+    },
+    {
+      "pos": "v",
+      "example": "she was in anguish until she knew that her husband's life had been saved",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4302.png",
+      "local_image_path": "images/4302.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112510.png",
+      "local_image_path": "images/112510.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112511.png",
+      "local_image_path": "images/112511.png"
+    }
+  ],
+  "synonyms": [
+    "suffering",
+    "torment",
+    "agony",
+    "torture",
+    "pain",
+    "distress",
+    "grief",
+    "sorrow",
+    "angst",
+    "affliction",
+    "anxiety"
+  ],
+  "antonyms": [
+    "content"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anguish.mp3",
+  "local_sound_path": "sounds/anguish.mp3"
+}

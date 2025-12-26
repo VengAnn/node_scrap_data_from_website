@@ -1,0 +1,56 @@
+{
+  "word": "but",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "he but a boy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12060.png",
+      "local_image_path": "images/12060.png"
+    },
+    {
+      "pos": "conj",
+      "example": "Po went to the party, but his brother didn't",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12058.png",
+      "local_image_path": "images/12058.png"
+    },
+    {
+      "pos": "prep",
+      "example": "everyone was here but him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12059.png",
+      "local_image_path": "images/12059.png"
+    }
+  ],
+  "synonyms": [
+    "however",
+    "although",
+    "nevertheless",
+    "except",
+    "bar"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "butane",
+    "butch",
+    "butcher",
+    "butcherer",
+    "butchery",
+    "butea",
+    "butea monosperma",
+    "butler",
+    "butt",
+    "butt weld",
+    "butte",
+    "butter",
+    "butter wort",
+    "butter-bean",
+    "butter-fingers",
+    "butterball",
+    "buttercup",
+    "butterfat",
+    "butterfish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/but.mp3",
+  "local_sound_path": "sounds/but.mp3"
+}

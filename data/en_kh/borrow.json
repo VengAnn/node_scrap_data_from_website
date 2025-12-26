@@ -1,0 +1,30 @@
+{
+  "word": "borrow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "may I borrow your dictionary?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10256.png",
+      "local_image_path": "images/10256.png"
+    }
+  ],
+  "synonyms": [
+    "use",
+    "scrounge",
+    "sponge"
+  ],
+  "antonyms": [
+    "lend"
+  ],
+  "similar_words": [
+    "borrowed plumes",
+    "borrowedreserves",
+    "borrower",
+    "borrowing",
+    "borrowings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/borrow.mp3",
+  "local_sound_path": "sounds/borrow.mp3"
+}

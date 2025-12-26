@@ -1,0 +1,35 @@
+{
+  "word": "airsick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3182.png",
+      "local_image_path": "images/3182.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132157.png",
+      "local_image_path": "images/132157.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132158.png",
+      "local_image_path": "images/132158.png"
+    }
+  ],
+  "synonyms": [
+    "nauseous",
+    "queasy",
+    "sick",
+    "ill"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airsick.mp3",
+  "local_sound_path": "sounds/airsick.mp3"
+}

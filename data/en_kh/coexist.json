@@ -1,0 +1,40 @@
+{
+  "word": "coexist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15498.png",
+      "local_image_path": "images/15498.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116618.png",
+      "local_image_path": "images/116618.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116619.png",
+      "local_image_path": "images/116619.png"
+    }
+  ],
+  "synonyms": [
+    "harmonize",
+    "synchronize",
+    "collaborate",
+    "cooperate",
+    "reconcile",
+    "cohabit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coexistence",
+    "coexistent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coexist.mp3",
+  "local_sound_path": "sounds/coexist.mp3"
+}

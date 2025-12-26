@@ -1,0 +1,54 @@
+{
+  "word": "aim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I hope you all aim at succeding in the examination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3085.png",
+      "local_image_path": "images/3085.png"
+    },
+    {
+      "pos": "n",
+      "example": "he has a good aim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3086.png",
+      "local_image_path": "images/3086.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he aimed his gun at the lion, fired and killed it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3084.png",
+      "local_image_path": "images/3084.png"
+    }
+  ],
+  "synonyms": [
+    "goal",
+    "purpose",
+    "intention",
+    "object",
+    "objective",
+    "target",
+    "ambition",
+    "wish",
+    "aspiration",
+    "aspire",
+    "plan",
+    "intend",
+    "try",
+    "mean",
+    "endeavor",
+    "want",
+    "seek"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "aimer",
+    "aimful",
+    "aimless",
+    "aimlessly",
+    "aimlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aim.mp3",
+  "local_sound_path": "sounds/aim.mp3"
+}

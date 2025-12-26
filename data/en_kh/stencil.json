@@ -1,0 +1,35 @@
+{
+  "word": "stencil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84623.png",
+      "local_image_path": "images/84623.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84624.png",
+      "local_image_path": "images/84624.png"
+    }
+  ],
+  "synonyms": [
+    "pattern",
+    "template",
+    "model",
+    "guide",
+    "outline",
+    "shape",
+    "decorate",
+    "adorn",
+    "paint",
+    "ornament"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stencil.mp3",
+  "local_sound_path": "sounds/stencil.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "word": "doom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22731.png",
+      "local_image_path": "images/22731.png"
+    },
+    {
+      "pos": "n",
+      "example": "go to his doom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22732.png",
+      "local_image_path": "images/22732.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22733.png",
+      "local_image_path": "images/22733.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118739.png",
+      "local_image_path": "images/118739.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118740.png",
+      "local_image_path": "images/118740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22734.png",
+      "local_image_path": "images/22734.png"
+    },
+    {
+      "pos": "tv",
+      "example": "doom him to stenal guilt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22735.png",
+      "local_image_path": "images/22735.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118741.png",
+      "local_image_path": "images/118741.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118742.png",
+      "local_image_path": "images/118742.png"
+    }
+  ],
+  "synonyms": [
+    "disaster",
+    "trouble",
+    "end",
+    "death",
+    "tragedy",
+    "ruin",
+    "catastrophe",
+    "misfortune",
+    "calamity"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "doomsayer",
+    "doomsday"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doom.mp3",
+  "local_sound_path": "sounds/doom.mp3"
+}

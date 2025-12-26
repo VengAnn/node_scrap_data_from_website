@@ -1,0 +1,31 @@
+{
+  "word": "city",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14694.png",
+      "local_image_path": "images/14694.png"
+    }
+  ],
+  "synonyms": [
+    "urban",
+    "metropolitan",
+    "town",
+    "metropolis",
+    "municipality",
+    "conurbation",
+    "capital"
+  ],
+  "antonyms": [
+    "country"
+  ],
+  "similar_words": [
+    "city council",
+    "city guide"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/city.mp3",
+  "local_sound_path": "sounds/city.mp3"
+}

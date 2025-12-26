@@ -1,0 +1,53 @@
+{
+  "word": "debauch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19864.png",
+      "local_image_path": "images/19864.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117802.png",
+      "local_image_path": "images/117802.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19863.png",
+      "local_image_path": "images/19863.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117803.png",
+      "local_image_path": "images/117803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117804.png",
+      "local_image_path": "images/117804.png"
+    }
+  ],
+  "synonyms": [
+    "corrupt",
+    "degrade",
+    "ruin",
+    "debase"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "debauched",
+    "debauchedly",
+    "debauchee",
+    "debaucher",
+    "debauchery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debauch.mp3",
+  "local_sound_path": "sounds/debauch.mp3"
+}

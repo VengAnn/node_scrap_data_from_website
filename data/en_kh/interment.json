@@ -1,0 +1,41 @@
+{
+  "word": "interment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41350.png",
+      "local_image_path": "images/41350.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41351.png",
+      "local_image_path": "images/41351.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122743.png",
+      "local_image_path": "images/122743.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122744.png",
+      "local_image_path": "images/122744.png"
+    }
+  ],
+  "synonyms": [
+    "burial",
+    "committal",
+    "entombment",
+    "funeral"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interment.mp3",
+  "local_sound_path": "sounds/interment.mp3"
+}

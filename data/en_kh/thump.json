@@ -1,0 +1,47 @@
+{
+  "word": "thump",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89254.png",
+      "local_image_path": "images/89254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89255.png",
+      "local_image_path": "images/89255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "thump him on the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89252.png",
+      "local_image_path": "images/89252.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Limbs thump the house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89253.png",
+      "local_image_path": "images/89253.png"
+    }
+  ],
+  "synonyms": [
+    "thud",
+    "bump",
+    "pound",
+    "throb",
+    "pulsate",
+    "beat",
+    "bang"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "thumping",
+    "thumpingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thump.mp3",
+  "local_sound_path": "sounds/thump.mp3"
+}

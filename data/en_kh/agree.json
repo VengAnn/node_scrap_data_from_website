@@ -1,0 +1,43 @@
+{
+  "word": "agree",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I asked him to come with me and he agreed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3027.png",
+      "local_image_path": "images/3027.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3028.png",
+      "local_image_path": "images/3028.png"
+    }
+  ],
+  "synonyms": [
+    "correspond",
+    "match",
+    "harmonize",
+    "consent",
+    "assent",
+    "acquiesce",
+    "accede",
+    "grant",
+    "permit",
+    "allow"
+  ],
+  "antonyms": [
+    "differ",
+    "disagree"
+  ],
+  "similar_words": [
+    "agreeable",
+    "agreeably",
+    "agreed",
+    "agreement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agree.mp3",
+  "local_sound_path": "sounds/agree.mp3"
+}

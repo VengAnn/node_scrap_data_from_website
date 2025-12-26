@@ -1,0 +1,59 @@
+{
+  "word": "glow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "lights glow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32052.png",
+      "local_image_path": "images/32052.png"
+    },
+    {
+      "pos": "iv",
+      "example": "glow with happiness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32053.png",
+      "local_image_path": "images/32053.png"
+    },
+    {
+      "pos": "n",
+      "example": "glow of candle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32054.png",
+      "local_image_path": "images/32054.png"
+    },
+    {
+      "pos": "n",
+      "example": "glow of happiness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32055.png",
+      "local_image_path": "images/32055.png"
+    }
+  ],
+  "synonyms": [
+    "radiance",
+    "ruddiness",
+    "light",
+    "luminosity",
+    "spark",
+    "glimmering",
+    "afterglow",
+    "burn",
+    "blaze",
+    "flame",
+    "shine",
+    "smolder",
+    "flush",
+    "blush"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "glow-worm",
+    "glower",
+    "glowering",
+    "gloweringly",
+    "glowing",
+    "glowingly",
+    "glowworm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glow.mp3",
+  "local_sound_path": "sounds/glow.mp3"
+}

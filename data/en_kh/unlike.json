@@ -1,0 +1,48 @@
+{
+  "word": "unlike",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "My son is unlike me in every respect.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94757.png",
+      "local_image_path": "images/94757.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94756.png",
+      "local_image_path": "images/94756.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129266.png",
+      "local_image_path": "images/129266.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129267.png",
+      "local_image_path": "images/129267.png"
+    }
+  ],
+  "synonyms": [
+    "different",
+    "dissimilar",
+    "distinct",
+    "disparate"
+  ],
+  "antonyms": [
+    "like"
+  ],
+  "similar_words": [
+    "unlikelihood",
+    "unlikeliness",
+    "unlikely",
+    "unlikeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unlike.mp3",
+  "local_sound_path": "sounds/unlike.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "gnaw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The dog was gnawing at a bone.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32109.png",
+      "local_image_path": "images/32109.png"
+    }
+  ],
+  "synonyms": [
+    "worry",
+    "trouble",
+    "bother",
+    "concern",
+    "distress",
+    "aggravate",
+    "chew",
+    "bite",
+    "nibble"
+  ],
+  "antonyms": [
+    "comfort"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gnaw.mp3",
+  "local_sound_path": "sounds/gnaw.mp3"
+}

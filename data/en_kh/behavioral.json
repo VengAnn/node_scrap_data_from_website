@@ -1,0 +1,35 @@
+{
+  "word": "behavioral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8106.png",
+      "local_image_path": "images/8106.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132256.png",
+      "local_image_path": "images/132256.png"
+    }
+  ],
+  "synonyms": [
+    "social",
+    "interactive",
+    "behavior",
+    "communication",
+    "communicative",
+    "developmental"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "behavioral disorder",
+    "behavioral science",
+    "behaviorally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/behavioral.mp3",
+  "local_sound_path": "sounds/behavioral.mp3"
+}

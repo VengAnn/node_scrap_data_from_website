@@ -1,0 +1,36 @@
+{
+  "word": "disarray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The troops fled in disarray.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21603.png",
+      "local_image_path": "images/21603.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21602.png",
+      "local_image_path": "images/21602.png"
+    }
+  ],
+  "synonyms": [
+    "mess",
+    "disorder",
+    "confusion",
+    "chaos",
+    "untidiness",
+    "jumble",
+    "tangle",
+    "clutter",
+    "shambles"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disarray.mp3",
+  "local_sound_path": "sounds/disarray.mp3"
+}

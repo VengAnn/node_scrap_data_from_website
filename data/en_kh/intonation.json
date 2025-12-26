@@ -1,0 +1,36 @@
+{
+  "word": "intonation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41703.png",
+      "local_image_path": "images/41703.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41704.png",
+      "local_image_path": "images/41704.png"
+    }
+  ],
+  "synonyms": [
+    "lilt",
+    "cadence",
+    "accent",
+    "modulation",
+    "inflection",
+    "tone",
+    "chant",
+    "incantation",
+    "invocation",
+    "singing",
+    "humming"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intonation.mp3",
+  "local_sound_path": "sounds/intonation.mp3"
+}

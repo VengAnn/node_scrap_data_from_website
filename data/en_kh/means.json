@@ -1,0 +1,33 @@
+{
+  "word": "means",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "use any means",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107070.png",
+      "local_image_path": "images/107070.png"
+    },
+    {
+      "pos": "n",
+      "example": "means of transportation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107071.png",
+      "local_image_path": "images/107071.png"
+    }
+  ],
+  "synonyms": [
+    "way",
+    "method",
+    "process",
+    "agency",
+    "channel",
+    "course",
+    "instrument",
+    "wishes"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/means.mp3",
+  "local_sound_path": "sounds/means.mp3"
+}

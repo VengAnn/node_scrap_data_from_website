@@ -1,0 +1,82 @@
+{
+  "word": "swing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86895.png",
+      "local_image_path": "images/86895.png"
+    },
+    {
+      "pos": "n",
+      "example": "swing of a pendulum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86896.png",
+      "local_image_path": "images/86896.png"
+    },
+    {
+      "pos": "n",
+      "example": "child's swing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86897.png",
+      "local_image_path": "images/86897.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86888.png",
+      "local_image_path": "images/86888.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swing a club",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86889.png",
+      "local_image_path": "images/86889.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swing a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86890.png",
+      "local_image_path": "images/86890.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swing a pendant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86891.png",
+      "local_image_path": "images/86891.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86892.png",
+      "local_image_path": "images/86892.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86893.png",
+      "local_image_path": "images/86893.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86894.png",
+      "local_image_path": "images/86894.png"
+    }
+  ],
+  "synonyms": [
+    "manage",
+    "accomplish",
+    "make",
+    "do",
+    "arrange"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "swing-door",
+    "swinging",
+    "swinglamp"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swing.mp3",
+  "local_sound_path": "sounds/swing.mp3"
+}

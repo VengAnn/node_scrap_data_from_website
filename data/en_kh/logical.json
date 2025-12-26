@@ -1,0 +1,40 @@
+{
+  "word": "logical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47383.png",
+      "local_image_path": "images/47383.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47384.png",
+      "local_image_path": "images/47384.png"
+    }
+  ],
+  "synonyms": [
+    "plausible",
+    "reasonable",
+    "obvious",
+    "sensible",
+    "understandable",
+    "likely",
+    "compelling"
+  ],
+  "antonyms": [
+    "illogical",
+    "implausible"
+  ],
+  "similar_words": [
+    "logicality",
+    "logicalize",
+    "logically",
+    "logicalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/logical.mp3",
+  "local_sound_path": "sounds/logical.mp3"
+}

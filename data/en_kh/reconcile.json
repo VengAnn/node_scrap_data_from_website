@@ -1,0 +1,40 @@
+{
+  "word": "reconcile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70914.png",
+      "local_image_path": "images/70914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126587.png",
+      "local_image_path": "images/126587.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126588.png",
+      "local_image_path": "images/126588.png"
+    }
+  ],
+  "synonyms": [
+    "settle",
+    "square",
+    "reunite",
+    "resolve",
+    "merge",
+    "join"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "reconcilement",
+    "reconciler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reconcile.mp3",
+  "local_sound_path": "sounds/reconcile.mp3"
+}

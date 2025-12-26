@@ -1,0 +1,32 @@
+{
+  "word": "amelioration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3836.png",
+      "local_image_path": "images/3836.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3835.png",
+      "local_image_path": "images/3835.png"
+    }
+  ],
+  "synonyms": [
+    "improvement",
+    "enhancement",
+    "betterment",
+    "enrichment",
+    "amendment"
+  ],
+  "antonyms": [
+    "deterioration"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amelioration.mp3",
+  "local_sound_path": "sounds/amelioration.mp3"
+}

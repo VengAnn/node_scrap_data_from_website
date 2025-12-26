@@ -1,0 +1,52 @@
+{
+  "word": "significance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80020.png",
+      "local_image_path": "images/80020.png"
+    },
+    {
+      "pos": "n",
+      "example": "significance of a word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80021.png",
+      "local_image_path": "images/80021.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80022.png",
+      "local_image_path": "images/80022.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127865.png",
+      "local_image_path": "images/127865.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127866.png",
+      "local_image_path": "images/127866.png"
+    }
+  ],
+  "synonyms": [
+    "importance",
+    "impact",
+    "substance",
+    "consequence",
+    "weight",
+    "magnitude",
+    "moment"
+  ],
+  "antonyms": [
+    "meaninglessness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/significance.mp3",
+  "local_sound_path": "sounds/significance.mp3"
+}

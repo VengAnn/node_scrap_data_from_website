@@ -1,0 +1,52 @@
+{
+  "word": "snake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "green snake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81899.png",
+      "local_image_path": "images/81899.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81900.png",
+      "local_image_path": "images/81900.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81901.png",
+      "local_image_path": "images/81901.png"
+    }
+  ],
+  "synonyms": [
+    "wind",
+    "bend",
+    "twist",
+    "turn",
+    "meander"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "snake farm",
+    "snake like",
+    "snake wood",
+    "snake's head",
+    "snake-bite",
+    "snake-charmer",
+    "snake-charming",
+    "snake-dance",
+    "snake-head",
+    "snake-lizard",
+    "snake-locked",
+    "snake-root",
+    "snake-weed",
+    "snakebird",
+    "snakeskin"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/snake.mp3",
+  "local_sound_path": "sounds/snake.mp3"
+}

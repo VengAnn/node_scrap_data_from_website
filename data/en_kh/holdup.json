@@ -1,0 +1,39 @@
+{
+  "word": "holdup",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bank holdup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35562.png",
+      "local_image_path": "images/35562.png"
+    },
+    {
+      "pos": "n",
+      "example": "What's the holdup?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35563.png",
+      "local_image_path": "images/35563.png"
+    }
+  ],
+  "synonyms": [
+    "rob",
+    "raid",
+    "burgle",
+    "ransack",
+    "mug",
+    "snafu",
+    "delay",
+    "hitch",
+    "snag",
+    "stoppage",
+    "obstruction",
+    "difficulty",
+    "bottleneck",
+    "hindrance"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/holdup.mp3",
+  "local_sound_path": "sounds/holdup.mp3"
+}

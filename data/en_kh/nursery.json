@@ -1,0 +1,32 @@
+{
+  "word": "nursery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "child nursery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56678.png",
+      "local_image_path": "images/56678.png"
+    },
+    {
+      "pos": "n",
+      "example": "plant nursery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56679.png",
+      "local_image_path": "images/56679.png"
+    }
+  ],
+  "synonyms": [
+    "kindergarten",
+    "day nursery"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "nursery-rhyme",
+    "nursery-tale",
+    "nurserymaid",
+    "nurseryman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nursery.mp3",
+  "local_sound_path": "sounds/nursery.mp3"
+}

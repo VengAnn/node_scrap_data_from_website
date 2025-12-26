@@ -1,0 +1,26 @@
+{
+  "word": "heartburn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34279.png",
+      "local_image_path": "images/34279.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131273.png",
+      "local_image_path": "images/131273.png"
+    }
+  ],
+  "synonyms": [
+    "indigestion"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heartburn.mp3",
+  "local_sound_path": "sounds/heartburn.mp3"
+}

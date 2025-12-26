@@ -1,0 +1,44 @@
+{
+  "word": "merciful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She was merciful to the prisoners.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107835.png",
+      "local_image_path": "images/107835.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123914.png",
+      "local_image_path": "images/123914.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123915.png",
+      "local_image_path": "images/123915.png"
+    }
+  ],
+  "synonyms": [
+    "fortunate",
+    "thankful",
+    "timely",
+    "opportune",
+    "welcome",
+    "lucky",
+    "happy"
+  ],
+  "antonyms": [
+    "hard-hearted",
+    "unfortunate"
+  ],
+  "similar_words": [
+    "mercifully",
+    "mercifulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/merciful.mp3",
+  "local_sound_path": "sounds/merciful.mp3"
+}

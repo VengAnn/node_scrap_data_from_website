@@ -1,0 +1,37 @@
+{
+  "word": "infusion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39876.png",
+      "local_image_path": "images/39876.png"
+    },
+    {
+      "pos": "n",
+      "example": "infusion of new blood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39877.png",
+      "local_image_path": "images/39877.png"
+    },
+    {
+      "pos": "n",
+      "example": "infusion of tea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39878.png",
+      "local_image_path": "images/39878.png"
+    }
+  ],
+  "synonyms": [
+    "mixture",
+    "mix",
+    "blend",
+    "combination",
+    "concoction",
+    "cocktail"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infusion.mp3",
+  "local_sound_path": "sounds/infusion.mp3"
+}

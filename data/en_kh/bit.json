@@ -1,0 +1,77 @@
+{
+  "word": "bit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "a bit hot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9207.png",
+      "local_image_path": "images/9207.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9209.png",
+      "local_image_path": "images/9209.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115120.png",
+      "local_image_path": "images/115120.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115121.png",
+      "local_image_path": "images/115121.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a bit of tea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9206.png",
+      "local_image_path": "images/9206.png"
+    },
+    {
+      "pos": "n",
+      "example": "horse's bit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9208.png",
+      "local_image_path": "images/9208.png"
+    }
+  ],
+  "synonyms": [
+    "morsel",
+    "crumb",
+    "fragment",
+    "speck",
+    "smidgen",
+    "spot",
+    "trace",
+    "hurt",
+    "stung"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bitch",
+    "bitchery",
+    "bitchy",
+    "bite",
+    "biter",
+    "biting",
+    "bitingly",
+    "bitten",
+    "bitter",
+    "bitterful",
+    "bitterling",
+    "bitterly",
+    "bittern",
+    "bitterness",
+    "bitters weet",
+    "bitumen",
+    "bituminization",
+    "bituminize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bit.mp3",
+  "local_sound_path": "sounds/bit.mp3"
+}

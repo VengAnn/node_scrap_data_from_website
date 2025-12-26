@@ -1,0 +1,35 @@
+{
+  "word": "cafeteria",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12312.png",
+      "local_image_path": "images/12312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12313.png",
+      "local_image_path": "images/12313.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115814.png",
+      "local_image_path": "images/115814.png"
+    }
+  ],
+  "synonyms": [
+    "canteen",
+    "restaurant",
+    "refectory",
+    "buffet"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cafeteria.mp3",
+  "local_sound_path": "sounds/cafeteria.mp3"
+}

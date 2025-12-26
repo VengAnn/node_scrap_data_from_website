@@ -1,0 +1,72 @@
+{
+  "word": "bring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bring forward",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11179.png",
+      "local_image_path": "images/11179.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bring me a box",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11177.png",
+      "local_image_path": "images/11177.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bring suit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11178.png",
+      "local_image_path": "images/11178.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115650.png",
+      "local_image_path": "images/115650.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115651.png",
+      "local_image_path": "images/115651.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115652.png",
+      "local_image_path": "images/115652.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115653.png",
+      "local_image_path": "images/115653.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115654.png",
+      "local_image_path": "images/115654.png"
+    }
+  ],
+  "synonyms": [
+    "earn",
+    "fetch",
+    "give",
+    "produce",
+    "make",
+    "command"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bringdown",
+    "bringer",
+    "bringer up",
+    "bringing up"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bring.mp3",
+  "local_sound_path": "sounds/bring.mp3"
+}

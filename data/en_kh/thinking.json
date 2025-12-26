@@ -1,0 +1,38 @@
+{
+  "word": "thinking",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88969.png",
+      "local_image_path": "images/88969.png"
+    },
+    {
+      "pos": "n",
+      "example": "You are of my way of thinking.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88970.png",
+      "local_image_path": "images/88970.png"
+    }
+  ],
+  "synonyms": [
+    "philosophy",
+    "idea",
+    "opinion",
+    "view",
+    "judgment",
+    "belief",
+    "assessment",
+    "feeling",
+    "considering",
+    "supposing"
+  ],
+  "antonyms": [
+    "unthinking",
+    "acting"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thinking.mp3",
+  "local_sound_path": "sounds/thinking.mp3"
+}

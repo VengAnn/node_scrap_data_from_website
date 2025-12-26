@@ -1,0 +1,37 @@
+{
+  "word": "blistering",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "blistering pace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9576.png",
+      "local_image_path": "images/9576.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115221.png",
+      "local_image_path": "images/115221.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115222.png",
+      "local_image_path": "images/115222.png"
+    }
+  ],
+  "synonyms": [
+    "scorching",
+    "baking",
+    "roasting",
+    "blazing",
+    "burning",
+    "intense"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blistering.mp3",
+  "local_sound_path": "sounds/blistering.mp3"
+}

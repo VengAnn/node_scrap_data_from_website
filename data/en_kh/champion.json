@@ -1,0 +1,42 @@
+{
+  "word": "champion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "chmpion boxer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13765.png",
+      "local_image_path": "images/13765.png"
+    },
+    {
+      "pos": "n",
+      "example": "champion of the world",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13763.png",
+      "local_image_path": "images/13763.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116149.png",
+      "local_image_path": "images/116149.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13764.png",
+      "local_image_path": "images/13764.png"
+    }
+  ],
+  "synonyms": [
+    "defend",
+    "support",
+    "back",
+    "campaign",
+    "advocate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/champion.mp3",
+  "local_sound_path": "sounds/champion.mp3"
+}

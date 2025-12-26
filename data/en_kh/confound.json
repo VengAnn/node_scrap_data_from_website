@@ -1,0 +1,56 @@
+{
+  "word": "confound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "confound the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16733.png",
+      "local_image_path": "images/16733.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117206.png",
+      "local_image_path": "images/117206.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117207.png",
+      "local_image_path": "images/117207.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117208.png",
+      "local_image_path": "images/117208.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117209.png",
+      "local_image_path": "images/117209.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "rout",
+    "thwart",
+    "annihilate",
+    "vanquish",
+    "conquer"
+  ],
+  "antonyms": [
+    "distinguish"
+  ],
+  "similar_words": [
+    "confounded",
+    "confoundedly",
+    "confoundedness",
+    "confounder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confound.mp3",
+  "local_sound_path": "sounds/confound.mp3"
+}

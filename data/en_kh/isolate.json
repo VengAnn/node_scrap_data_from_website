@@ -1,0 +1,52 @@
+{
+  "word": "isolate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42451.png",
+      "local_image_path": "images/42451.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123012.png",
+      "local_image_path": "images/123012.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123013.png",
+      "local_image_path": "images/123013.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123014.png",
+      "local_image_path": "images/123014.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123015.png",
+      "local_image_path": "images/123015.png"
+    }
+  ],
+  "synonyms": [
+    "separate",
+    "segregate",
+    "detach",
+    "divorce",
+    "insulate",
+    "quarantine",
+    "sequester"
+  ],
+  "antonyms": [
+    "include"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/isolate.mp3",
+  "local_sound_path": "sounds/isolate.mp3"
+}

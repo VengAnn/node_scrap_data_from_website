@@ -1,0 +1,34 @@
+{
+  "word": "derange",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "derange a schedule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20724.png",
+      "local_image_path": "images/20724.png"
+    },
+    {
+      "pos": "tv",
+      "example": "derange his mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20725.png",
+      "local_image_path": "images/20725.png"
+    }
+  ],
+  "synonyms": [
+    "unbalance",
+    "unhinge",
+    "madden",
+    "disturb",
+    "confuse",
+    "distort"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "deranged",
+    "derangement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/derange.mp3",
+  "local_sound_path": "sounds/derange.mp3"
+}

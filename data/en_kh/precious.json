@@ -1,0 +1,49 @@
+{
+  "word": "precious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "precious stones",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66001.png",
+      "local_image_path": "images/66001.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66003.png",
+      "local_image_path": "images/66003.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66002.png",
+      "local_image_path": "images/66002.png"
+    }
+  ],
+  "synonyms": [
+    "valued",
+    "beloved",
+    "important",
+    "dear",
+    "fastidious",
+    "affected",
+    "fussy",
+    "self-conscious",
+    "dainty",
+    "pretentious",
+    "artificial"
+  ],
+  "antonyms": [
+    "worthless",
+    "natural"
+  ],
+  "similar_words": [
+    "precious stones",
+    "preciously",
+    "preciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/precious.mp3",
+  "local_sound_path": "sounds/precious.mp3"
+}

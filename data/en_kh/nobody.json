@@ -1,0 +1,31 @@
+{
+  "word": "nobody",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He was just a nobody before he met her.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55921.png",
+      "local_image_path": "images/55921.png"
+    },
+    {
+      "pos": "pron",
+      "example": "Nobody came to see me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55920.png",
+      "local_image_path": "images/55920.png"
+    }
+  ],
+  "synonyms": [
+    "nonentity",
+    "minion",
+    "unknown",
+    "upstart"
+  ],
+  "antonyms": [
+    "everybody"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nobody.mp3",
+  "local_sound_path": "sounds/nobody.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "interruption",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "interruption of trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41539.png",
+      "local_image_path": "images/41539.png"
+    },
+    {
+      "pos": "n",
+      "example": "have an interruption",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41540.png",
+      "local_image_path": "images/41540.png"
+    }
+  ],
+  "synonyms": [
+    "break",
+    "pause",
+    "disruption",
+    "intermission",
+    "stoppage",
+    "interlude",
+    "disturbance",
+    "interval",
+    "intrusion",
+    "disconnection"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interruption.mp3",
+  "local_sound_path": "sounds/interruption.mp3"
+}

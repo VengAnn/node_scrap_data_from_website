@@ -1,0 +1,54 @@
+{
+  "word": "constant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "constant noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17066.png",
+      "local_image_path": "images/17066.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117370.png",
+      "local_image_path": "images/117370.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117371.png",
+      "local_image_path": "images/117371.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117372.png",
+      "local_image_path": "images/117372.png"
+    }
+  ],
+  "synonyms": [
+    "frequent",
+    "persistent",
+    "recurrent",
+    "incessant",
+    "continual",
+    "coefficient",
+    "number",
+    "factor",
+    "amount",
+    "quantity",
+    "figure",
+    "measurement"
+  ],
+  "antonyms": [
+    "irregular",
+    "intermittent",
+    "disloyal",
+    "occasional"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/constant.mp3",
+  "local_sound_path": "sounds/constant.mp3"
+}

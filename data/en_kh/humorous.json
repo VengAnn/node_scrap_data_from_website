@@ -1,0 +1,34 @@
+{
+  "word": "humorous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He is a a homorous writer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36355.png",
+      "local_image_path": "images/36355.png"
+    }
+  ],
+  "synonyms": [
+    "funny",
+    "amusing",
+    "entertaining",
+    "hilarious",
+    "jokey",
+    "witty",
+    "comical",
+    "comic",
+    "droll",
+    "waggish"
+  ],
+  "antonyms": [
+    "dull"
+  ],
+  "similar_words": [
+    "humorously",
+    "humorousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/humorous.mp3",
+  "local_sound_path": "sounds/humorous.mp3"
+}

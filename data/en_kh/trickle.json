@@ -1,0 +1,57 @@
+{
+  "word": "trickle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Blood trickled from the wound.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91687.png",
+      "local_image_path": "images/91687.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91688.png",
+      "local_image_path": "images/91688.png"
+    },
+    {
+      "pos": "n",
+      "example": "trickle of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91689.png",
+      "local_image_path": "images/91689.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91690.png",
+      "local_image_path": "images/91690.png"
+    },
+    {
+      "pos": "n",
+      "example": "trickle of visitors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91691.png",
+      "local_image_path": "images/91691.png"
+    },
+    {
+      "pos": "v",
+      "example": "trickle up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91692.png",
+      "local_image_path": "images/91692.png"
+    }
+  ],
+  "synonyms": [
+    "dribble",
+    "drop",
+    "drip",
+    "ooze",
+    "filter",
+    "seep"
+  ],
+  "antonyms": [
+    "flood"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trickle.mp3",
+  "local_sound_path": "sounds/trickle.mp3"
+}

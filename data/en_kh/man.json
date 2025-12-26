@@ -1,0 +1,67 @@
+{
+  "word": "man",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I am a man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105738.png",
+      "local_image_path": "images/105738.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105739.png",
+      "local_image_path": "images/105739.png"
+    },
+    {
+      "pos": "tv",
+      "example": "man a ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105740.png",
+      "local_image_path": "images/105740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "man a gun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105741.png",
+      "local_image_path": "images/105741.png"
+    }
+  ],
+  "synonyms": [
+    "operate",
+    "staff",
+    "work",
+    "crew",
+    "manage",
+    "handle"
+  ],
+  "antonyms": [
+    "woman"
+  ],
+  "similar_words": [
+    "man in the street",
+    "man-at-arms",
+    "man-back",
+    "man-child",
+    "man-day",
+    "man-drute",
+    "man-eater",
+    "man-entered",
+    "man-hater",
+    "man-hunt",
+    "man-hunter",
+    "man-killer",
+    "man-killing",
+    "man-made",
+    "man-of-war",
+    "man-size",
+    "man-to-man",
+    "manacle",
+    "manada",
+    "manage",
+    "manageability"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/man.mp3",
+  "local_sound_path": "sounds/man.mp3"
+}

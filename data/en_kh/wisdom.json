@@ -1,0 +1,33 @@
+{
+  "word": "wisdom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100567.png",
+      "local_image_path": "images/100567.png"
+    },
+    {
+      "pos": "n",
+      "example": "wisdom tooth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100568.png",
+      "local_image_path": "images/100568.png"
+    }
+  ],
+  "synonyms": [
+    "advisability",
+    "desirability",
+    "judiciousness",
+    "prudence",
+    "good sense",
+    "judgment"
+  ],
+  "antonyms": [
+    "foolishness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wisdom.mp3",
+  "local_sound_path": "sounds/wisdom.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "word": "treasury",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91404.png",
+      "local_image_path": "images/91404.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91405.png",
+      "local_image_path": "images/91405.png"
+    },
+    {
+      "pos": "n",
+      "example": "This dictionary is a treasury of information.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91406.png",
+      "local_image_path": "images/91406.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128450.png",
+      "local_image_path": "images/128450.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128451.png",
+      "local_image_path": "images/128451.png"
+    }
+  ],
+  "synonyms": [
+    "reserves",
+    "capital",
+    "bank account"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "treasury bill",
+    "treasury bond",
+    "treasury secretary",
+    "treasury-note"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/treasury.mp3",
+  "local_sound_path": "sounds/treasury.mp3"
+}

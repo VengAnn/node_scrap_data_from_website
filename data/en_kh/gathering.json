@@ -1,0 +1,43 @@
+{
+  "word": "gathering",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gathering place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31210.png",
+      "local_image_path": "images/31210.png"
+    },
+    {
+      "pos": "n",
+      "example": "gathering of crops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31208.png",
+      "local_image_path": "images/31208.png"
+    },
+    {
+      "pos": "n",
+      "example": "gathering of crowds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31209.png",
+      "local_image_path": "images/31209.png"
+    }
+  ],
+  "synonyms": [
+    "meeting",
+    "assembly",
+    "congregation",
+    "crowd",
+    "get-together",
+    "jamboree",
+    "heaping",
+    "folding"
+  ],
+  "antonyms": [
+    "scattering",
+    "misunderstanding",
+    "smoothing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gathering.mp3",
+  "local_sound_path": "sounds/gathering.mp3"
+}

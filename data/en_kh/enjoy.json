@@ -1,0 +1,35 @@
+{
+  "word": "enjoy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "enjoy a meal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25104.png",
+      "local_image_path": "images/25104.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enjoy special privileges",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25105.png",
+      "local_image_path": "images/25105.png"
+    }
+  ],
+  "synonyms": [
+    "have",
+    "like"
+  ],
+  "antonyms": [
+    "dislike",
+    "lack"
+  ],
+  "similar_words": [
+    "enjoyable",
+    "enjoyably",
+    "enjoyer",
+    "enjoyment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enjoy.mp3",
+  "local_sound_path": "sounds/enjoy.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "combat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15858.png",
+      "local_image_path": "images/15858.png"
+    },
+    {
+      "pos": "v",
+      "example": "I don't want to combat with you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15859.png",
+      "local_image_path": "images/15859.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116718.png",
+      "local_image_path": "images/116718.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116719.png",
+      "local_image_path": "images/116719.png"
+    }
+  ],
+  "synonyms": [
+    "resist",
+    "prevent",
+    "reduce",
+    "stop",
+    "tackle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "combatant",
+    "combative",
+    "combatively",
+    "combativeness",
+    "combats"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/combat.mp3",
+  "local_sound_path": "sounds/combat.mp3"
+}

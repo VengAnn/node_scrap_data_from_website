@@ -1,0 +1,37 @@
+{
+  "word": "glamorous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "glamorous woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31849.png",
+      "local_image_path": "images/31849.png"
+    },
+    {
+      "pos": "adj",
+      "example": "glamorous life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31850.png",
+      "local_image_path": "images/31850.png"
+    }
+  ],
+  "synonyms": [
+    "prestigious",
+    "sophisticated",
+    "impressive",
+    "attractive",
+    "glittering"
+  ],
+  "antonyms": [
+    "dull",
+    "unattractive",
+    "drab"
+  ],
+  "similar_words": [
+    "glamorously",
+    "glamorousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glamorous.mp3",
+  "local_sound_path": "sounds/glamorous.mp3"
+}

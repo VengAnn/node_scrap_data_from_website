@@ -1,0 +1,34 @@
+{
+  "word": "armlet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5514.png",
+      "local_image_path": "images/5514.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114008.png",
+      "local_image_path": "images/114008.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114009.png",
+      "local_image_path": "images/114009.png"
+    }
+  ],
+  "synonyms": [
+    "bangle",
+    "bracelet",
+    "wristlet"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/armlet.mp3",
+  "local_sound_path": "sounds/armlet.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "diplomacy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "international diplomacy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21475.png",
+      "local_image_path": "images/21475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21476.png",
+      "local_image_path": "images/21476.png"
+    }
+  ],
+  "synonyms": [
+    "tact",
+    "skill",
+    "subtlety",
+    "discretion",
+    "savoir-faire",
+    "address"
+  ],
+  "antonyms": [
+    "tactlessness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diplomacy.mp3",
+  "local_sound_path": "sounds/diplomacy.mp3"
+}

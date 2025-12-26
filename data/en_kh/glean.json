@@ -1,0 +1,26 @@
+{
+  "word": "glean",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "glean facts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31923.png",
+      "local_image_path": "images/31923.png"
+    }
+  ],
+  "synonyms": [
+    "garner",
+    "collect",
+    "gather",
+    "assemble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "gleaner",
+    "gleanings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glean.mp3",
+  "local_sound_path": "sounds/glean.mp3"
+}

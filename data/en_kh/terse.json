@@ -1,0 +1,40 @@
+{
+  "word": "terse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "terse prose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88473.png",
+      "local_image_path": "images/88473.png"
+    },
+    {
+      "pos": "adj",
+      "example": "be terse with someone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88474.png",
+      "local_image_path": "images/88474.png"
+    }
+  ],
+  "synonyms": [
+    "abrupt",
+    "short",
+    "brief",
+    "curt",
+    "brusque",
+    "snappish",
+    "concise",
+    "snappy"
+  ],
+  "antonyms": [
+    "rambling",
+    "wordy",
+    "expansive"
+  ],
+  "similar_words": [
+    "tersely",
+    "terseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terse.mp3",
+  "local_sound_path": "sounds/terse.mp3"
+}

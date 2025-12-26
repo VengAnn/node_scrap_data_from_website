@@ -1,0 +1,53 @@
+{
+  "word": "brash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10693.png",
+      "local_image_path": "images/10693.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10694.png",
+      "local_image_path": "images/10694.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115543.png",
+      "local_image_path": "images/115543.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10697.png",
+      "local_image_path": "images/10697.png"
+    }
+  ],
+  "synonyms": [
+    "loud",
+    "garish",
+    "vulgar",
+    "gaudy",
+    "bright",
+    "tasteless",
+    "brassy",
+    "trashy"
+  ],
+  "antonyms": [
+    "slow",
+    "self-effacing",
+    "measured"
+  ],
+  "similar_words": [
+    "brashly",
+    "brashness",
+    "brashy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brash.mp3",
+  "local_sound_path": "sounds/brash.mp3"
+}

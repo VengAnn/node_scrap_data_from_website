@@ -1,0 +1,43 @@
+{
+  "word": "droop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "flowers drooping for lack of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23205.png",
+      "local_image_path": "images/23205.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23207.png",
+      "local_image_path": "images/23207.png"
+    },
+    {
+      "pos": "tv",
+      "example": "droop with exhaustion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23206.png",
+      "local_image_path": "images/23206.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118803.png",
+      "local_image_path": "images/118803.png"
+    }
+  ],
+  "synonyms": [
+    "tire",
+    "flag",
+    "wilt",
+    "fade",
+    "slump",
+    "subside"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/droop.mp3",
+  "local_sound_path": "sounds/droop.mp3"
+}

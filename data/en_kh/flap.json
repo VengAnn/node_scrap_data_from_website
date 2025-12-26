@@ -1,0 +1,46 @@
+{
+  "word": "flap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "clothes flap in the wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28892.png",
+      "local_image_path": "images/28892.png"
+    },
+    {
+      "pos": "iv",
+      "example": "wings flap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28893.png",
+      "local_image_path": "images/28893.png"
+    },
+    {
+      "pos": "n",
+      "example": "flap of wings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28894.png",
+      "local_image_path": "images/28894.png"
+    }
+  ],
+  "synonyms": [
+    "fret",
+    "panic",
+    "worry",
+    "stress",
+    "beat",
+    "wave",
+    "flutter",
+    "flail",
+    "shake",
+    "wag"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [
+    "flappable",
+    "flapper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flap.mp3",
+  "local_sound_path": "sounds/flap.mp3"
+}

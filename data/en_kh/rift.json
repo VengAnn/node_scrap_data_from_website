@@ -1,0 +1,40 @@
+{
+  "word": "rift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "rift in the board",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73609.png",
+      "local_image_path": "images/73609.png"
+    },
+    {
+      "pos": "n",
+      "example": "rift between the two men",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73610.png",
+      "local_image_path": "images/73610.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73611.png",
+      "local_image_path": "images/73611.png"
+    }
+  ],
+  "synonyms": [
+    "division",
+    "split",
+    "gulf",
+    "schism",
+    "rupture",
+    "falling-out",
+    "separation",
+    "estrangement",
+    "discord"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rift.mp3",
+  "local_sound_path": "sounds/rift.mp3"
+}

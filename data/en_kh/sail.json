@@ -1,0 +1,103 @@
+{
+  "word": "sail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75144.png",
+      "local_image_path": "images/75144.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I like to sail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75145.png",
+      "local_image_path": "images/75145.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75146.png",
+      "local_image_path": "images/75146.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Clouds sail overhead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75147.png",
+      "local_image_path": "images/75147.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75138.png",
+      "local_image_path": "images/75138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75139.png",
+      "local_image_path": "images/75139.png"
+    },
+    {
+      "pos": "n",
+      "example": "ship's sail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75140.png",
+      "local_image_path": "images/75140.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75141.png",
+      "local_image_path": "images/75141.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75142.png",
+      "local_image_path": "images/75142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75143.png",
+      "local_image_path": "images/75143.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75148.png",
+      "local_image_path": "images/75148.png"
+    }
+  ],
+  "synonyms": [
+    "glide",
+    "float",
+    "flow",
+    "drift",
+    "fly"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sail-fish",
+    "sail-pole",
+    "sailable",
+    "sailboard",
+    "sailboat",
+    "sailboater",
+    "sailboating",
+    "sailcloth",
+    "sailer",
+    "sailing",
+    "sailing boat",
+    "sailing vesel",
+    "sailless",
+    "sailor",
+    "sailor hat",
+    "sailorly",
+    "sailplane",
+    "sailplaner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sail.mp3",
+  "local_sound_path": "sounds/sail.mp3"
+}

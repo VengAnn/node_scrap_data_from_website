@@ -1,0 +1,28 @@
+{
+  "word": "ruby",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74492.png",
+      "local_image_path": "images/74492.png"
+    },
+    {
+      "pos": "n",
+      "example": "made of ruby",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74491.png",
+      "local_image_path": "images/74491.png"
+    }
+  ],
+  "synonyms": [
+    "garnet",
+    "crimson",
+    "claret"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ruby.mp3",
+  "local_sound_path": "sounds/ruby.mp3"
+}

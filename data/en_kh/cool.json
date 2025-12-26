@@ -1,0 +1,102 @@
+{
+  "word": "cool",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cool drink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17564.png",
+      "local_image_path": "images/17564.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cool approach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17565.png",
+      "local_image_path": "images/17565.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cool reception",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17566.png",
+      "local_image_path": "images/17566.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117570.png",
+      "local_image_path": "images/117570.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117571.png",
+      "local_image_path": "images/117571.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117572.png",
+      "local_image_path": "images/117572.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17568.png",
+      "local_image_path": "images/17568.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17569.png",
+      "local_image_path": "images/17569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cool coffee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17567.png",
+      "local_image_path": "images/17567.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117573.png",
+      "local_image_path": "images/117573.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117574.png",
+      "local_image_path": "images/117574.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117575.png",
+      "local_image_path": "images/117575.png"
+    }
+  ],
+  "synonyms": [
+    "wane",
+    "abate",
+    "dampen",
+    "decrease"
+  ],
+  "antonyms": [
+    "warm",
+    "excited",
+    "unfashionable",
+    "friendly",
+    "increase"
+  ],
+  "similar_words": [
+    "cool headed",
+    "cooler",
+    "coolie",
+    "cooling",
+    "coolly",
+    "coolness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cool.mp3",
+  "local_sound_path": "sounds/cool.mp3"
+}

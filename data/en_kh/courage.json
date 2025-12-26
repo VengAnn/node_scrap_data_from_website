@@ -1,0 +1,32 @@
+{
+  "word": "courage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He showed great courage in battle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18169.png",
+      "local_image_path": "images/18169.png"
+    }
+  ],
+  "synonyms": [
+    "bravery",
+    "nerve",
+    "daring",
+    "audacity",
+    "pluck",
+    "mettle",
+    "resolution"
+  ],
+  "antonyms": [
+    "cowardice"
+  ],
+  "similar_words": [
+    "courageous",
+    "courageously",
+    "courageousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/courage.mp3",
+  "local_sound_path": "sounds/courage.mp3"
+}

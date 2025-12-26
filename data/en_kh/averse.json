@@ -1,0 +1,51 @@
+{
+  "word": "averse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "to be averse to hard work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6692.png",
+      "local_image_path": "images/6692.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114308.png",
+      "local_image_path": "images/114308.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114309.png",
+      "local_image_path": "images/114309.png"
+    }
+  ],
+  "synonyms": [
+    "reluctant",
+    "disinclined",
+    "loath",
+    "indisposed",
+    "opposed",
+    "antagonistic",
+    "hostile",
+    "unfavorable",
+    "antipathetic",
+    "unwilling",
+    "hesitant",
+    "ill-disposed",
+    "anti"
+  ],
+  "antonyms": [
+    "inclined",
+    "favorable",
+    "keen"
+  ],
+  "similar_words": [
+    "aversely",
+    "averseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/averse.mp3",
+  "local_sound_path": "sounds/averse.mp3"
+}

@@ -1,0 +1,85 @@
+{
+  "word": "sour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sour soup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82900.png",
+      "local_image_path": "images/82900.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sour mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82901.png",
+      "local_image_path": "images/82901.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82902.png",
+      "local_image_path": "images/82902.png"
+    },
+    {
+      "pos": "iv",
+      "example": "wine sours",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82903.png",
+      "local_image_path": "images/82903.png"
+    },
+    {
+      "pos": "iv",
+      "example": "outlooks sours",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82904.png",
+      "local_image_path": "images/82904.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82907.png",
+      "local_image_path": "images/82907.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The hot weather has soured the milk.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82905.png",
+      "local_image_path": "images/82905.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82906.png",
+      "local_image_path": "images/82906.png"
+    }
+  ],
+  "synonyms": [
+    "taint",
+    "ruin",
+    "harm",
+    "spoil",
+    "embitter",
+    "damage"
+  ],
+  "antonyms": [
+    "sweet",
+    "enhance",
+    "fresh",
+    "agreeable",
+    "improve"
+  ],
+  "similar_words": [
+    "sour-sop",
+    "sour-sweet",
+    "source",
+    "sourcrout",
+    "sourdough",
+    "souring",
+    "sourish",
+    "sourishly",
+    "sourishness",
+    "sourly",
+    "sourness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sour.mp3",
+  "local_sound_path": "sounds/sour.mp3"
+}

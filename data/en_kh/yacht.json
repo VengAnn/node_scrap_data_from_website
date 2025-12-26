@@ -1,0 +1,43 @@
+{
+  "word": "yacht",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I go yachting most weekends in the summer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101345.png",
+      "local_image_path": "images/101345.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101343.png",
+      "local_image_path": "images/101343.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101344.png",
+      "local_image_path": "images/101344.png"
+    }
+  ],
+  "synonyms": [
+    "ship",
+    "vessel",
+    "liner",
+    "cruiser",
+    "dinghy",
+    "ferry",
+    "craft"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "yacht club",
+    "yachting",
+    "yachtsman",
+    "yachtsmanship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yacht.mp3",
+  "local_sound_path": "sounds/yacht.mp3"
+}

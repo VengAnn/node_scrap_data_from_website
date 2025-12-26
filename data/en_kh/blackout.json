@@ -1,0 +1,39 @@
+{
+  "word": "blackout",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9318.png",
+      "local_image_path": "images/9318.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115142.png",
+      "local_image_path": "images/115142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115143.png",
+      "local_image_path": "images/115143.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131355.png",
+      "local_image_path": "images/131355.png"
+    }
+  ],
+  "synonyms": [
+    "seizure",
+    "collapse"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blackout.mp3",
+  "local_sound_path": "sounds/blackout.mp3"
+}

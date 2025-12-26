@@ -1,0 +1,60 @@
+{
+  "word": "leader",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "leader of the parade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45428.png",
+      "local_image_path": "images/45428.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123404.png",
+      "local_image_path": "images/123404.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123405.png",
+      "local_image_path": "images/123405.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123406.png",
+      "local_image_path": "images/123406.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123407.png",
+      "local_image_path": "images/123407.png"
+    }
+  ],
+  "synonyms": [
+    "head",
+    "manager",
+    "organizer",
+    "principal",
+    "chief",
+    "boss",
+    "director",
+    "guide",
+    "mentor",
+    "guru",
+    "adviser",
+    "advisor",
+    "superior",
+    "supervisor",
+    "top dog"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "leadership"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leader.mp3",
+  "local_sound_path": "sounds/leader.mp3"
+}

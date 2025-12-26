@@ -1,0 +1,61 @@
+{
+  "word": "litter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47068.png",
+      "local_image_path": "images/47068.png"
+    },
+    {
+      "pos": "n",
+      "example": "pick up litter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47063.png",
+      "local_image_path": "images/47063.png"
+    },
+    {
+      "pos": "n",
+      "example": "litter of pups",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47064.png",
+      "local_image_path": "images/47064.png"
+    },
+    {
+      "pos": "n",
+      "example": "medic's litter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47065.png",
+      "local_image_path": "images/47065.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47066.png",
+      "local_image_path": "images/47066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47067.png",
+      "local_image_path": "images/47067.png"
+    }
+  ],
+  "synonyms": [
+    "family",
+    "brood",
+    "scatter",
+    "spoil",
+    "strew",
+    "clutter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "litter bin",
+    "litter-lout",
+    "litterature",
+    "litterbag",
+    "litterer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/litter.mp3",
+  "local_sound_path": "sounds/litter.mp3"
+}

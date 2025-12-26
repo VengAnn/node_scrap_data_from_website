@@ -1,0 +1,35 @@
+{
+  "word": "indigo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "plant indigo",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39079.png",
+      "local_image_path": "images/39079.png"
+    },
+    {
+      "pos": "n",
+      "example": "color of indigo",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39080.png",
+      "local_image_path": "images/39080.png"
+    }
+  ],
+  "synonyms": [
+    "azure",
+    "cobalt",
+    "navy",
+    "sapphire",
+    "cerulean"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "indigo derous",
+    "indigo-blue",
+    "indigo-plant",
+    "indigotic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indigo.mp3",
+  "local_sound_path": "sounds/indigo.mp3"
+}

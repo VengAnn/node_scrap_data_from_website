@@ -1,0 +1,39 @@
+{
+  "word": "dimple",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Her cheeks dimpled as she smiled",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21420.png",
+      "local_image_path": "images/21420.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21418.png",
+      "local_image_path": "images/21418.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21419.png",
+      "local_image_path": "images/21419.png"
+    }
+  ],
+  "synonyms": [
+    "hollow",
+    "depression",
+    "pit",
+    "indentation",
+    "dent",
+    "dint"
+  ],
+  "antonyms": [
+    "bump"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dimple.mp3",
+  "local_sound_path": "sounds/dimple.mp3"
+}

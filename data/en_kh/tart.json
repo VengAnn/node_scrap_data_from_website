@@ -1,0 +1,61 @@
+{
+  "word": "tart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tart flavor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87611.png",
+      "local_image_path": "images/87611.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87612.png",
+      "local_image_path": "images/87612.png"
+    },
+    {
+      "pos": "n",
+      "example": "cherry tart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87613.png",
+      "local_image_path": "images/87613.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87614.png",
+      "local_image_path": "images/87614.png"
+    }
+  ],
+  "synonyms": [
+    "biting",
+    "sharp",
+    "sour",
+    "acid",
+    "bitter",
+    "unkind",
+    "unpleasant",
+    "sarcastic",
+    "cruel",
+    "pie",
+    "tartlet",
+    "pastry"
+  ],
+  "antonyms": [
+    "sweet",
+    "kind"
+  ],
+  "similar_words": [
+    "tartan",
+    "tartar",
+    "tartar sauce",
+    "tartareous",
+    "tartish",
+    "tartlet",
+    "tartly",
+    "tartness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tart.mp3",
+  "local_sound_path": "sounds/tart.mp3"
+}

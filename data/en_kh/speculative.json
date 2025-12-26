@@ -1,0 +1,34 @@
+{
+  "word": "speculative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "speculative conclusion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83211.png",
+      "local_image_path": "images/83211.png"
+    },
+    {
+      "pos": "adj",
+      "example": "speculative venture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83212.png",
+      "local_image_path": "images/83212.png"
+    }
+  ],
+  "synonyms": [
+    "tentative",
+    "approximate",
+    "rough",
+    "exploratory",
+    "provisional"
+  ],
+  "antonyms": [
+    "definite",
+    "proven",
+    "safe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/speculative.mp3",
+  "local_sound_path": "sounds/speculative.mp3"
+}

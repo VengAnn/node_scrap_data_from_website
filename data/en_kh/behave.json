@@ -1,0 +1,42 @@
+{
+  "word": "behave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "behave well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8103.png",
+      "local_image_path": "images/8103.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114838.png",
+      "local_image_path": "images/114838.png"
+    },
+    {
+      "pos": "tv",
+      "example": "behave oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8104.png",
+      "local_image_path": "images/8104.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114839.png",
+      "local_image_path": "images/114839.png"
+    }
+  ],
+  "synonyms": [
+    "act",
+    "perform",
+    "work"
+  ],
+  "antonyms": [
+    "misbehave"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/behave.mp3",
+  "local_sound_path": "sounds/behave.mp3"
+}

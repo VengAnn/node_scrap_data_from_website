@@ -1,0 +1,94 @@
+{
+  "word": "deal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "deal with a company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19807.png",
+      "local_image_path": "images/19807.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19808.png",
+      "local_image_path": "images/19808.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117757.png",
+      "local_image_path": "images/117757.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117758.png",
+      "local_image_path": "images/117758.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117759.png",
+      "local_image_path": "images/117759.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117760.png",
+      "local_image_path": "images/117760.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117761.png",
+      "local_image_path": "images/117761.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117762.png",
+      "local_image_path": "images/117762.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117763.png",
+      "local_image_path": "images/117763.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19810.png",
+      "local_image_path": "images/19810.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deal sth to sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19809.png",
+      "local_image_path": "images/19809.png"
+    }
+  ],
+  "synonyms": [
+    "distribute",
+    "apportion",
+    "split",
+    "trade",
+    "exchange",
+    "sell",
+    "hawk",
+    "buy"
+  ],
+  "antonyms": [
+    "receive"
+  ],
+  "similar_words": [
+    "dealer",
+    "dealing",
+    "dealings",
+    "dealt"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deal.mp3",
+  "local_sound_path": "sounds/deal.mp3"
+}

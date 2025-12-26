@@ -1,0 +1,61 @@
+{
+  "word": "bluff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9825.png",
+      "local_image_path": "images/9825.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115304.png",
+      "local_image_path": "images/115304.png"
+    },
+    {
+      "pos": "n",
+      "example": "a poker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9821.png",
+      "local_image_path": "images/9821.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9824.png",
+      "local_image_path": "images/9824.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bluff the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9820.png",
+      "local_image_path": "images/9820.png"
+    }
+  ],
+  "synonyms": [
+    "sham",
+    "trick",
+    "con",
+    "pretense",
+    "fake",
+    "lie",
+    "deceit",
+    "ruse",
+    "scam",
+    "pretend",
+    "deceive"
+  ],
+  "antonyms": [
+    "retiring"
+  ],
+  "similar_words": [
+    "bluffable",
+    "bluffer",
+    "bluffly",
+    "bluffness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bluff.mp3",
+  "local_sound_path": "sounds/bluff.mp3"
+}

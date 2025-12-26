@@ -1,0 +1,80 @@
+{
+  "word": "dig",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "dig for living",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21319.png",
+      "local_image_path": "images/21319.png"
+    },
+    {
+      "pos": "iv",
+      "example": "dig in (at the table)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21320.png",
+      "local_image_path": "images/21320.png"
+    },
+    {
+      "pos": "n",
+      "example": "dig in the ribs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21321.png",
+      "local_image_path": "images/21321.png"
+    },
+    {
+      "pos": "n",
+      "example": "a sarcastic dig",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21322.png",
+      "local_image_path": "images/21322.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21323.png",
+      "local_image_path": "images/21323.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dig a hole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21318.png",
+      "local_image_path": "images/21318.png"
+    }
+  ],
+  "synonyms": [
+    "excavation",
+    "jab",
+    "prod",
+    "nudge",
+    "push",
+    "shove",
+    "poke"
+  ],
+  "antonyms": [
+    "compliment"
+  ],
+  "similar_words": [
+    "digametic",
+    "digamist",
+    "digamous",
+    "digamy",
+    "digeneous",
+    "digest",
+    "digestibility",
+    "digestible",
+    "digestibly",
+    "digestion",
+    "digestive",
+    "digestive system",
+    "diggable",
+    "digger",
+    "digging",
+    "digit",
+    "digital",
+    "diglett",
+    "diglot",
+    "diglott",
+    "dignified"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dig.mp3",
+  "local_sound_path": "sounds/dig.mp3"
+}

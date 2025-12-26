@@ -1,0 +1,43 @@
+{
+  "word": "appetite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "good appetite",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5080.png",
+      "local_image_path": "images/5080.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131336.png",
+      "local_image_path": "images/131336.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131337.png",
+      "local_image_path": "images/131337.png"
+    }
+  ],
+  "synonyms": [
+    "desire",
+    "taste",
+    "enthusiasm",
+    "eagerness",
+    "keenness",
+    "inclination",
+    "hunger",
+    "passion",
+    "craving",
+    "wish"
+  ],
+  "antonyms": [
+    "aversion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appetite.mp3",
+  "local_sound_path": "sounds/appetite.mp3"
+}

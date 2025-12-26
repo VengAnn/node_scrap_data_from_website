@@ -1,0 +1,44 @@
+{
+  "word": "congenial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "congenial company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16774.png",
+      "local_image_path": "images/16774.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117236.png",
+      "local_image_path": "images/117236.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117237.png",
+      "local_image_path": "images/117237.png"
+    }
+  ],
+  "synonyms": [
+    "friendly",
+    "affable",
+    "amiable",
+    "pleasant",
+    "genial",
+    "agreeable",
+    "good-natured",
+    "hospitable"
+  ],
+  "antonyms": [
+    "hostile"
+  ],
+  "similar_words": [
+    "congeniality",
+    "congenially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/congenial.mp3",
+  "local_sound_path": "sounds/congenial.mp3"
+}

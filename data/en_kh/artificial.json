@@ -1,0 +1,44 @@
+{
+  "word": "artificial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "artificial diamond",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5672.png",
+      "local_image_path": "images/5672.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131343.png",
+      "local_image_path": "images/131343.png"
+    }
+  ],
+  "synonyms": [
+    "insincere",
+    "false",
+    "put-on",
+    "pretend",
+    "unnatural",
+    "contrived",
+    "feigned",
+    "hollow"
+  ],
+  "antonyms": [
+    "natural",
+    "real",
+    "sincere"
+  ],
+  "similar_words": [
+    "artificial insemination",
+    "artificial respiration",
+    "artificial selection",
+    "artificiality",
+    "artificially",
+    "artificialness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/artificial.mp3",
+  "local_sound_path": "sounds/artificial.mp3"
+}

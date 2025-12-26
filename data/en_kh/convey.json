@@ -1,0 +1,64 @@
+{
+  "word": "convey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "convey coal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17506.png",
+      "local_image_path": "images/17506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "convey a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17507.png",
+      "local_image_path": "images/17507.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17508.png",
+      "local_image_path": "images/17508.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117550.png",
+      "local_image_path": "images/117550.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117551.png",
+      "local_image_path": "images/117551.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117552.png",
+      "local_image_path": "images/117552.png"
+    }
+  ],
+  "synonyms": [
+    "carry",
+    "transport",
+    "bear",
+    "send",
+    "transfer",
+    "deliver",
+    "transmit",
+    "communicate",
+    "give"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "conveyance",
+    "conveyancer",
+    "conveyancing",
+    "conveyer",
+    "conveyor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/convey.mp3",
+  "local_sound_path": "sounds/convey.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "unfrock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94393.png",
+      "local_image_path": "images/94393.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94394.png",
+      "local_image_path": "images/94394.png"
+    }
+  ],
+  "synonyms": [
+    "defrock",
+    "excommunicate",
+    "disqualify",
+    "expel",
+    "demote",
+    "dismiss"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unfrock.mp3",
+  "local_sound_path": "sounds/unfrock.mp3"
+}

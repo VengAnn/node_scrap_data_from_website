@@ -1,0 +1,26 @@
+{
+  "word": "disabled",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21544.png",
+      "local_image_path": "images/21544.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131470.png",
+      "local_image_path": "images/131470.png"
+    }
+  ],
+  "synonyms": [
+    "stopped"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disabled.mp3",
+  "local_sound_path": "sounds/disabled.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "flimsiness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29091.png",
+      "local_image_path": "images/29091.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120237.png",
+      "local_image_path": "images/120237.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120238.png",
+      "local_image_path": "images/120238.png"
+    }
+  ],
+  "synonyms": [
+    "fragility",
+    "weakness",
+    "delicacy",
+    "frailty",
+    "ricketiness",
+    "feebleness",
+    "insubstantiality"
+  ],
+  "antonyms": [
+    "sturdiness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flimsiness.mp3",
+  "local_sound_path": "sounds/flimsiness.mp3"
+}

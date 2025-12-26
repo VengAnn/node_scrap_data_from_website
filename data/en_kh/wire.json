@@ -1,0 +1,70 @@
+{
+  "word": "wire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wire basket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100543.png",
+      "local_image_path": "images/100543.png"
+    },
+    {
+      "pos": "n",
+      "example": "copper wire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100539.png",
+      "local_image_path": "images/100539.png"
+    },
+    {
+      "pos": "n",
+      "example": "send a wire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100540.png",
+      "local_image_path": "images/100540.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wire the pieces together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100541.png",
+      "local_image_path": "images/100541.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wire a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100542.png",
+      "local_image_path": "images/100542.png"
+    }
+  ],
+  "synonyms": [
+    "cable",
+    "rope",
+    "line",
+    "lead",
+    "chain",
+    "connect",
+    "install",
+    "equip"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wire drawn",
+    "wire wove",
+    "wire-basket",
+    "wire-bridge",
+    "wire-cutter",
+    "wire-draw",
+    "wire-drawer",
+    "wire-entanglement",
+    "wire-puller",
+    "wire-work",
+    "wire-worker",
+    "wire-worm",
+    "wired",
+    "wireless",
+    "wireless apparatus",
+    "wireless station",
+    "wireless telegraphy",
+    "wiretap"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wire.mp3",
+  "local_sound_path": "sounds/wire.mp3"
+}

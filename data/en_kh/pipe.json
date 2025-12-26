@@ -1,0 +1,84 @@
+{
+  "word": "pipe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63475.png",
+      "local_image_path": "images/63475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63468.png",
+      "local_image_path": "images/63468.png"
+    },
+    {
+      "pos": "n",
+      "example": "smoke a pipe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63469.png",
+      "local_image_path": "images/63469.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63470.png",
+      "local_image_path": "images/63470.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63471.png",
+      "local_image_path": "images/63471.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pipe water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63472.png",
+      "local_image_path": "images/63472.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pipe a tune",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63473.png",
+      "local_image_path": "images/63473.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63474.png",
+      "local_image_path": "images/63474.png"
+    }
+  ],
+  "synonyms": [
+    "supply",
+    "channel",
+    "convey",
+    "transmit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pipe cleaner",
+    "pipe dream",
+    "pipe fish",
+    "pipe fitter",
+    "pipe fitting",
+    "pipe light",
+    "pipe line",
+    "pipe mouth",
+    "pipe-clay",
+    "pipe-layer",
+    "pipeful",
+    "pipeline",
+    "piper",
+    "piper longum",
+    "piperaceous",
+    "piperic",
+    "piperine",
+    "pipette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pipe.mp3",
+  "local_sound_path": "sounds/pipe.mp3"
+}

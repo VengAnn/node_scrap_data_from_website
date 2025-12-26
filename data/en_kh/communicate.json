@@ -1,0 +1,65 @@
+{
+  "word": "communicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "communicate with headquarters",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16100.png",
+      "local_image_path": "images/16100.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116824.png",
+      "local_image_path": "images/116824.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116825.png",
+      "local_image_path": "images/116825.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the officer communicated his orders to the men by radio",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16099.png",
+      "local_image_path": "images/16099.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116826.png",
+      "local_image_path": "images/116826.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116827.png",
+      "local_image_path": "images/116827.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116828.png",
+      "local_image_path": "images/116828.png"
+    }
+  ],
+  "synonyms": [
+    "connect",
+    "interconnect",
+    "link",
+    "join",
+    "convey",
+    "share",
+    "impart",
+    "publicize",
+    "transmit",
+    "reveal"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/communicate.mp3",
+  "local_sound_path": "sounds/communicate.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "word": "entertain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I don't entertain very often.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25282.png",
+      "local_image_path": "images/25282.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25278.png",
+      "local_image_path": "images/25278.png"
+    },
+    {
+      "pos": "tv",
+      "example": "entertain an audience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25279.png",
+      "local_image_path": "images/25279.png"
+    },
+    {
+      "pos": "tv",
+      "example": "entertain guests",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25280.png",
+      "local_image_path": "images/25280.png"
+    },
+    {
+      "pos": "tv",
+      "example": "entertain a proposal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25281.png",
+      "local_image_path": "images/25281.png"
+    }
+  ],
+  "synonyms": [
+    "consider",
+    "contemplate"
+  ],
+  "antonyms": [
+    "bore",
+    "visit",
+    "reject"
+  ],
+  "similar_words": [
+    "entertainer",
+    "entertaining",
+    "entertainingly",
+    "entertainment",
+    "entertainment place"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entertain.mp3",
+  "local_sound_path": "sounds/entertain.mp3"
+}

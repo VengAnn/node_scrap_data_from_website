@@ -1,0 +1,71 @@
+{
+  "word": "admonish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "teacher admonished the student not be late again",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2475.png",
+      "local_image_path": "images/2475.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112050.png",
+      "local_image_path": "images/112050.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113299.png",
+      "local_image_path": "images/113299.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113300.png",
+      "local_image_path": "images/113300.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113301.png",
+      "local_image_path": "images/113301.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113302.png",
+      "local_image_path": "images/113302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113303.png",
+      "local_image_path": "images/113303.png"
+    }
+  ],
+  "synonyms": [
+    "reprove",
+    "caution",
+    "reprimand",
+    "rebuke",
+    "reproach",
+    "scold",
+    "chide",
+    "warn"
+  ],
+  "antonyms": [
+    "approve",
+    "praise"
+  ],
+  "similar_words": [
+    "admonisher",
+    "admonishingly",
+    "admonishly",
+    "admonishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/admonish.mp3",
+  "local_sound_path": "sounds/admonish.mp3"
+}

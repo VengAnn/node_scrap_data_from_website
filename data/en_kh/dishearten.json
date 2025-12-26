@@ -1,0 +1,55 @@
+{
+  "word": "dishearten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "to be disheartened",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21899.png",
+      "local_image_path": "images/21899.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118491.png",
+      "local_image_path": "images/118491.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118492.png",
+      "local_image_path": "images/118492.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118493.png",
+      "local_image_path": "images/118493.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118494.png",
+      "local_image_path": "images/118494.png"
+    }
+  ],
+  "synonyms": [
+    "discourage",
+    "depress",
+    "sadden",
+    "dismay",
+    "deject",
+    "dampen",
+    "disappoint"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "disheartening",
+    "dishearteningly",
+    "disheartenly",
+    "disheartenment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dishearten.mp3",
+  "local_sound_path": "sounds/dishearten.mp3"
+}

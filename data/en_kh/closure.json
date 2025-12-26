@@ -1,0 +1,27 @@
+{
+  "word": "closure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "closure of the store",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15138.png",
+      "local_image_path": "images/15138.png"
+    }
+  ],
+  "synonyms": [
+    "finality",
+    "resolution",
+    "conclusiveness",
+    "stoppage",
+    "stop",
+    "cloture"
+  ],
+  "antonyms": [
+    "opening"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/closure.mp3",
+  "local_sound_path": "sounds/closure.mp3"
+}

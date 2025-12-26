@@ -1,0 +1,47 @@
+{
+  "word": "bellyache",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8205.png",
+      "local_image_path": "images/8205.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8204.png",
+      "local_image_path": "images/8204.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114883.png",
+      "local_image_path": "images/114883.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114884.png",
+      "local_image_path": "images/114884.png"
+    }
+  ],
+  "synonyms": [
+    "moan",
+    "complaint",
+    "grumble",
+    "grouse",
+    "gripe",
+    "beef",
+    "complain",
+    "carp",
+    "chunter",
+    "whine"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bellyache.mp3",
+  "local_sound_path": "sounds/bellyache.mp3"
+}

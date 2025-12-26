@@ -1,0 +1,30 @@
+{
+  "word": "barely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7463.png",
+      "local_image_path": "images/7463.png"
+    },
+    {
+      "pos": "adv",
+      "example": "we have barely enough food to keep us alive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7462.png",
+      "local_image_path": "images/7462.png"
+    }
+  ],
+  "synonyms": [
+    "hardly",
+    "scarcely",
+    "just"
+  ],
+  "antonyms": [
+    "easily"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barely.mp3",
+  "local_sound_path": "sounds/barely.mp3"
+}

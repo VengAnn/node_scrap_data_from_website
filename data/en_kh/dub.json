@@ -1,0 +1,46 @@
+{
+  "word": "dub",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "dub him a knight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23297.png",
+      "local_image_path": "images/23297.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dub a film",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23298.png",
+      "local_image_path": "images/23298.png"
+    }
+  ],
+  "synonyms": [
+    "call",
+    "name",
+    "christen",
+    "nickname",
+    "label",
+    "style"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dubba",
+    "dubbed",
+    "dubbin",
+    "dubiety",
+    "dubiosity",
+    "dubious",
+    "dubiously",
+    "dubiousness",
+    "dubitable",
+    "dubitancy",
+    "dubitante",
+    "dubitate",
+    "dubitation",
+    "dubitative"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dub.mp3",
+  "local_sound_path": "sounds/dub.mp3"
+}

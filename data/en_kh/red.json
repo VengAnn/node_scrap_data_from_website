@@ -1,0 +1,76 @@
+{
+  "word": "red",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "red car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71095.png",
+      "local_image_path": "images/71095.png"
+    },
+    {
+      "pos": "adj",
+      "example": "red politics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71096.png",
+      "local_image_path": "images/71096.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71098.png",
+      "local_image_path": "images/71098.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71099.png",
+      "local_image_path": "images/71099.png"
+    }
+  ],
+  "synonyms": [
+    "crimson",
+    "scarlet",
+    "ruby",
+    "burgundy",
+    "cherry",
+    "bolshie",
+    "communist",
+    "lefty",
+    "socialist",
+    "Bolshevik"
+  ],
+  "antonyms": [
+    "clear",
+    "pale"
+  ],
+  "similar_words": [
+    "red ant",
+    "red blood cell",
+    "red carpet",
+    "red cent",
+    "red cross",
+    "red eye",
+    "red heat",
+    "red herring",
+    "red ink",
+    "red light",
+    "red pepper",
+    "red snapper",
+    "red-blooded",
+    "red-cheeked",
+    "red-cross",
+    "red-cross society",
+    "red-handed",
+    "red-hot",
+    "red-letter",
+    "red-nosed",
+    "red-pencil",
+    "red-tape",
+    "redact",
+    "redacteur",
+    "redaction"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/red.mp3",
+  "local_sound_path": "sounds/red.mp3"
+}

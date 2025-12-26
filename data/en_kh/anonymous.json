@@ -1,0 +1,33 @@
+{
+  "word": "anonymous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4457.png",
+      "local_image_path": "images/4457.png"
+    }
+  ],
+  "synonyms": [
+    "undistinguished",
+    "indistinctive",
+    "ordinary",
+    "everyday",
+    "unexceptional",
+    "unmemorable",
+    "dull"
+  ],
+  "antonyms": [
+    "distinctive",
+    "named"
+  ],
+  "similar_words": [
+    "anonymous letter",
+    "anonymously",
+    "anonymousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anonymous.mp3",
+  "local_sound_path": "sounds/anonymous.mp3"
+}

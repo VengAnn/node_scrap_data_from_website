@@ -1,0 +1,77 @@
+{
+  "word": "moan",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "moan with pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109727.png",
+      "local_image_path": "images/109727.png"
+    },
+    {
+      "pos": "n",
+      "example": "moan of a patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109730.png",
+      "local_image_path": "images/109730.png"
+    },
+    {
+      "pos": "n",
+      "example": "We had a good moan about the weather.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109731.png",
+      "local_image_path": "images/109731.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Where's the doctor? he moaned.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109728.png",
+      "local_image_path": "images/109728.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He's always moaning (on) about how poor he is.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109729.png",
+      "local_image_path": "images/109729.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124203.png",
+      "local_image_path": "images/124203.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124204.png",
+      "local_image_path": "images/124204.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124205.png",
+      "local_image_path": "images/124205.png"
+    }
+  ],
+  "synonyms": [
+    "complaint",
+    "grumble",
+    "gripe",
+    "grouse",
+    "complain",
+    "whine",
+    "bemoan",
+    "carp",
+    "lament"
+  ],
+  "antonyms": [
+    "compliment",
+    "rejoice"
+  ],
+  "similar_words": [
+    "moanful",
+    "moanfully",
+    "moaning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/moan.mp3",
+  "local_sound_path": "sounds/moan.mp3"
+}

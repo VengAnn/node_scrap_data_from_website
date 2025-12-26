@@ -1,0 +1,44 @@
+{
+  "word": "articulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5661.png",
+      "local_image_path": "images/5661.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114052.png",
+      "local_image_path": "images/114052.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5660.png",
+      "local_image_path": "images/5660.png"
+    }
+  ],
+  "synonyms": [
+    "enunciate",
+    "pronounce",
+    "express",
+    "convey",
+    "verbalize",
+    "communicate",
+    "formulate"
+  ],
+  "antonyms": [
+    "inarticulate",
+    "mumble"
+  ],
+  "similar_words": [
+    "articulately",
+    "articulateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/articulate.mp3",
+  "local_sound_path": "sounds/articulate.mp3"
+}

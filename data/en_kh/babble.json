@@ -1,0 +1,65 @@
+{
+  "word": "babble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6875.png",
+      "local_image_path": "images/6875.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114356.png",
+      "local_image_path": "images/114356.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114357.png",
+      "local_image_path": "images/114357.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114358.png",
+      "local_image_path": "images/114358.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6874.png",
+      "local_image_path": "images/6874.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114359.png",
+      "local_image_path": "images/114359.png"
+    }
+  ],
+  "synonyms": [
+    "prattle",
+    "jabber",
+    "gibberish",
+    "nonsense",
+    "chatter",
+    "twaddle",
+    "chat",
+    "drivel",
+    "gibber",
+    "blather",
+    "gabble",
+    "natter",
+    "mutter",
+    "gab"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "babbler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/babble.mp3",
+  "local_sound_path": "sounds/babble.mp3"
+}

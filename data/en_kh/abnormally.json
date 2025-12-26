@@ -1,0 +1,40 @@
+{
+  "word": "abnormally",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1476.png",
+      "local_image_path": "images/1476.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111844.png",
+      "local_image_path": "images/111844.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113028.png",
+      "local_image_path": "images/113028.png"
+    }
+  ],
+  "synonyms": [
+    "unusually",
+    "strangely",
+    "oddly",
+    "peculiarly",
+    "uncharacteristically",
+    "atypically",
+    "irregularly"
+  ],
+  "antonyms": [
+    "normally"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abnormally.mp3",
+  "local_sound_path": "sounds/abnormally.mp3"
+}

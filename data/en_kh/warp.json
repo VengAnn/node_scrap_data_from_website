@@ -1,0 +1,56 @@
+{
+  "word": "warp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "warp his personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99115.png",
+      "local_image_path": "images/99115.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99113.png",
+      "local_image_path": "images/99113.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99117.png",
+      "local_image_path": "images/99117.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The hot sun warped the boards.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99114.png",
+      "local_image_path": "images/99114.png"
+    }
+  ],
+  "synonyms": [
+    "twist",
+    "bend",
+    "distortion",
+    "deviation",
+    "change",
+    "alteration",
+    "misrepresentation",
+    "distort",
+    "deform",
+    "damage",
+    "buckle",
+    "pervert",
+    "misrepresent",
+    "confuse"
+  ],
+  "antonyms": [
+    "straighten"
+  ],
+  "similar_words": [
+    "warp-paint",
+    "warper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/warp.mp3",
+  "local_sound_path": "sounds/warp.mp3"
+}

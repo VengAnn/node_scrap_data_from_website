@@ -1,0 +1,40 @@
+{
+  "word": "palatable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "palatable food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59372.png",
+      "local_image_path": "images/59372.png"
+    },
+    {
+      "pos": "adj",
+      "example": "palatable duty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59373.png",
+      "local_image_path": "images/59373.png"
+    }
+  ],
+  "synonyms": [
+    "acceptable",
+    "agreeable",
+    "satisfactory",
+    "pleasant",
+    "welcome",
+    "passable"
+  ],
+  "antonyms": [
+    "inedible",
+    "tasteless",
+    "disgusting",
+    "foul",
+    "disagreeable",
+    "unpleasant",
+    "unacceptable",
+    "inacceptable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/palatable.mp3",
+  "local_sound_path": "sounds/palatable.mp3"
+}

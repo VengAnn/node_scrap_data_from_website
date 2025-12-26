@@ -1,0 +1,67 @@
+{
+  "word": "official",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "government official",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57327.png",
+      "local_image_path": "images/57327.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124886.png",
+      "local_image_path": "images/124886.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124887.png",
+      "local_image_path": "images/124887.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57326.png",
+      "local_image_path": "images/57326.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124888.png",
+      "local_image_path": "images/124888.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124889.png",
+      "local_image_path": "images/124889.png"
+    }
+  ],
+  "synonyms": [
+    "authorized",
+    "certified",
+    "formal",
+    "authoritative",
+    "legitimate",
+    "bureaucrat",
+    "administrator",
+    "representative",
+    "officer",
+    "executive"
+  ],
+  "antonyms": [
+    "informal"
+  ],
+  "similar_words": [
+    "officialdom",
+    "officialese",
+    "officialism",
+    "officialize",
+    "officially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/official.mp3",
+  "local_sound_path": "sounds/official.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "terribly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88430.png",
+      "local_image_path": "images/88430.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I am terribly sorry.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88431.png",
+      "local_image_path": "images/88431.png"
+    }
+  ],
+  "synonyms": [
+    "very",
+    "extremely",
+    "tremendously",
+    "exceedingly",
+    "incredibly",
+    "inordinately",
+    "enormously"
+  ],
+  "antonyms": [
+    "pleasantly",
+    "slightly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terribly.mp3",
+  "local_sound_path": "sounds/terribly.mp3"
+}

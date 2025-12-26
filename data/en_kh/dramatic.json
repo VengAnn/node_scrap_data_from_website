@@ -1,0 +1,44 @@
+{
+  "word": "dramatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dramatic performance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22992.png",
+      "local_image_path": "images/22992.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dramatic event",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22993.png",
+      "local_image_path": "images/22993.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22994.png",
+      "local_image_path": "images/22994.png"
+    }
+  ],
+  "synonyms": [
+    "exciting",
+    "thrilling",
+    "stirring",
+    "tense",
+    "breathtaking",
+    "sensational"
+  ],
+  "antonyms": [
+    "modest",
+    "natural",
+    "dull"
+  ],
+  "similar_words": [
+    "dramatically",
+    "dramatics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dramatic.mp3",
+  "local_sound_path": "sounds/dramatic.mp3"
+}

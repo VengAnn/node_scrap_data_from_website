@@ -1,0 +1,49 @@
+{
+  "word": "pedestrian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pedestrian crosswalk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61079.png",
+      "local_image_path": "images/61079.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pedestrian performance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61080.png",
+      "local_image_path": "images/61080.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61078.png",
+      "local_image_path": "images/61078.png"
+    }
+  ],
+  "synonyms": [
+    "dull",
+    "ordinary",
+    "uninspired",
+    "prosaic",
+    "everyday",
+    "humdrum",
+    "unexciting",
+    "walker",
+    "ambler",
+    "perambulator",
+    "hiker",
+    "rambler"
+  ],
+  "antonyms": [
+    "exciting"
+  ],
+  "similar_words": [
+    "pedestrianism",
+    "pedestrianization",
+    "pedestrianize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pedestrian.mp3",
+  "local_sound_path": "sounds/pedestrian.mp3"
+}

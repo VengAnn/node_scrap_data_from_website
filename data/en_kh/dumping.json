@@ -1,0 +1,30 @@
+{
+  "word": "dumping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23418.png",
+      "local_image_path": "images/23418.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118824.png",
+      "local_image_path": "images/118824.png"
+    }
+  ],
+  "synonyms": [
+    "removal",
+    "clearance"
+  ],
+  "antonyms": [
+    "retention",
+    "keeping"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dumping.mp3",
+  "local_sound_path": "sounds/dumping.mp3"
+}

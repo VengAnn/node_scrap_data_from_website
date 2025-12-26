@@ -1,0 +1,33 @@
+{
+  "word": "disorganize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22007.png",
+      "local_image_path": "images/22007.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disorganize a room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22006.png",
+      "local_image_path": "images/22006.png"
+    }
+  ],
+  "synonyms": [
+    "muddle",
+    "confuse",
+    "jumble",
+    "dislocate",
+    "disorder",
+    "upset"
+  ],
+  "antonyms": [
+    "organize"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disorganize.mp3",
+  "local_sound_path": "sounds/disorganize.mp3"
+}

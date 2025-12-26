@@ -1,0 +1,50 @@
+{
+  "word": "decry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20062.png",
+      "local_image_path": "images/20062.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117862.png",
+      "local_image_path": "images/117862.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117863.png",
+      "local_image_path": "images/117863.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117864.png",
+      "local_image_path": "images/117864.png"
+    }
+  ],
+  "synonyms": [
+    "criticize",
+    "condemn",
+    "belittle",
+    "disparage",
+    "deprecate",
+    "complain",
+    "denounce",
+    "rail"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "decrypt",
+    "decryption"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decry.mp3",
+  "local_sound_path": "sounds/decry.mp3"
+}

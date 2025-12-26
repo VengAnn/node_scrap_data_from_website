@@ -1,0 +1,33 @@
+{
+  "word": "adjudicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2402.png",
+      "local_image_path": "images/2402.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2401.png",
+      "local_image_path": "images/2401.png"
+    }
+  ],
+  "synonyms": [
+    "arbitrate",
+    "referee",
+    "umpire",
+    "judge",
+    "decide",
+    "settle",
+    "resolve",
+    "adjudge"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjudicate.mp3",
+  "local_sound_path": "sounds/adjudicate.mp3"
+}

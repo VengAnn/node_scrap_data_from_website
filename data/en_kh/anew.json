@@ -1,0 +1,29 @@
+{
+  "word": "anew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4239.png",
+      "local_image_path": "images/4239.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24964.png",
+      "local_image_path": "images/24964.png"
+    }
+  ],
+  "synonyms": [
+    "again",
+    "afresh",
+    "over",
+    "new"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anew.mp3",
+  "local_sound_path": "sounds/anew.mp3"
+}

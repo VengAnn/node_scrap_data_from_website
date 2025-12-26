@@ -1,0 +1,60 @@
+{
+  "word": "complain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16234.png",
+      "local_image_path": "images/16234.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130169.png",
+      "local_image_path": "images/130169.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130170.png",
+      "local_image_path": "images/130170.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130171.png",
+      "local_image_path": "images/130171.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131394.png",
+      "local_image_path": "images/131394.png"
+    }
+  ],
+  "synonyms": [
+    "protest",
+    "criticize",
+    "grumble",
+    "whine",
+    "carp",
+    "nag",
+    "object",
+    "nit-pick",
+    "moan",
+    "murmur",
+    "knock"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "complainant",
+    "complainer",
+    "complaint"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/complain.mp3",
+  "local_sound_path": "sounds/complain.mp3"
+}

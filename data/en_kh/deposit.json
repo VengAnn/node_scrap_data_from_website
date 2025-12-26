@@ -1,0 +1,56 @@
+{
+  "word": "deposit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "deposit of silt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20641.png",
+      "local_image_path": "images/20641.png"
+    },
+    {
+      "pos": "n",
+      "example": "bank deposit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20642.png",
+      "local_image_path": "images/20642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deposit one's load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20638.png",
+      "local_image_path": "images/20638.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deposit money in an account",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20639.png",
+      "local_image_path": "images/20639.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deposit money to bind a purchase",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20640.png",
+      "local_image_path": "images/20640.png"
+    }
+  ],
+  "synonyms": [
+    "accumulate",
+    "build up"
+  ],
+  "antonyms": [
+    "lift",
+    "withdraw",
+    "withdrawal",
+    "remove"
+  ],
+  "similar_words": [
+    "deposit slip",
+    "depositary",
+    "deposition",
+    "depositor",
+    "depository"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deposit.mp3",
+  "local_sound_path": "sounds/deposit.mp3"
+}

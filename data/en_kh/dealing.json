@@ -1,0 +1,41 @@
+{
+  "word": "dealing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19812.png",
+      "local_image_path": "images/19812.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117764.png",
+      "local_image_path": "images/117764.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117765.png",
+      "local_image_path": "images/117765.png"
+    }
+  ],
+  "synonyms": [
+    "commerce",
+    "trade",
+    "industry",
+    "selling",
+    "production",
+    "trading",
+    "hawking",
+    "buying"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dealings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dealing.mp3",
+  "local_sound_path": "sounds/dealing.mp3"
+}

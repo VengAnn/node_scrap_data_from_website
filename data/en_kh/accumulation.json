@@ -1,0 +1,37 @@
+{
+  "word": "accumulation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "by accumulation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1947.png",
+      "local_image_path": "images/1947.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111937.png",
+      "local_image_path": "images/111937.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113157.png",
+      "local_image_path": "images/113157.png"
+    }
+  ],
+  "synonyms": [
+    "collection",
+    "stock",
+    "store",
+    "hoard",
+    "deposit",
+    "heap"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accumulation.mp3",
+  "local_sound_path": "sounds/accumulation.mp3"
+}

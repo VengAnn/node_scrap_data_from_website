@@ -1,0 +1,65 @@
+{
+  "word": "flow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Most rivers flow into the sea.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29259.png",
+      "local_image_path": "images/29259.png"
+    },
+    {
+      "pos": "iv",
+      "example": "his stories flow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29260.png",
+      "local_image_path": "images/29260.png"
+    },
+    {
+      "pos": "n",
+      "example": "flow of a stream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29261.png",
+      "local_image_path": "images/29261.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29262.png",
+      "local_image_path": "images/29262.png"
+    },
+    {
+      "pos": "n",
+      "example": "steady flow of immigrants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29263.png",
+      "local_image_path": "images/29263.png"
+    }
+  ],
+  "synonyms": [
+    "spring",
+    "arise",
+    "emerge",
+    "emanate",
+    "issue"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "flower",
+    "flower bug",
+    "flower power",
+    "flower scented",
+    "flower-bed",
+    "flower-children",
+    "flower-girl",
+    "flower-show",
+    "flowerage",
+    "floweret",
+    "floweriness",
+    "flowerless",
+    "flowerpot",
+    "flowery",
+    "flowing",
+    "flown"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flow.mp3",
+  "local_sound_path": "sounds/flow.mp3"
+}

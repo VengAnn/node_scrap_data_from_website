@@ -1,0 +1,38 @@
+{
+  "word": "clinic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15038.png",
+      "local_image_path": "images/15038.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116481.png",
+      "local_image_path": "images/116481.png"
+    }
+  ],
+  "synonyms": [
+    "workshop",
+    "seminar",
+    "practicum",
+    "class",
+    "meeting",
+    "doctor",
+    "expert",
+    "specialist",
+    "consultant",
+    "placement"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clinical",
+    "clinician"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clinic.mp3",
+  "local_sound_path": "sounds/clinic.mp3"
+}

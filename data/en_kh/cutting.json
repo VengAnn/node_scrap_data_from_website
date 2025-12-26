@@ -1,0 +1,50 @@
+{
+  "word": "cutting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cutting edge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19334.png",
+      "local_image_path": "images/19334.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cutting remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19335.png",
+      "local_image_path": "images/19335.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cutting wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19336.png",
+      "local_image_path": "images/19336.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19333.png",
+      "local_image_path": "images/19333.png"
+    }
+  ],
+  "synonyms": [
+    "cold",
+    "biting",
+    "icy",
+    "sharp",
+    "keen",
+    "bitter",
+    "take out"
+  ],
+  "antonyms": [
+    "flattering",
+    "mild",
+    "kind",
+    "joining",
+    "increasing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cutting.mp3",
+  "local_sound_path": "sounds/cutting.mp3"
+}

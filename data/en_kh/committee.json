@@ -1,0 +1,37 @@
+{
+  "word": "committee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16029.png",
+      "local_image_path": "images/16029.png"
+    },
+    {
+      "pos": "n",
+      "example": "steering committee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16030.png",
+      "local_image_path": "images/16030.png"
+    },
+    {
+      "pos": "n",
+      "example": "joint committee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16031.png",
+      "local_image_path": "images/16031.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "board",
+    "team",
+    "commission",
+    "working group",
+    "agency"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/committee.mp3",
+  "local_sound_path": "sounds/committee.mp3"
+}

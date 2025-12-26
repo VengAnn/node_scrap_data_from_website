@@ -1,0 +1,30 @@
+{
+  "word": "dragon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "year of the dragon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22969.png",
+      "local_image_path": "images/22969.png"
+    },
+    {
+      "pos": "n",
+      "example": "dragon's teeth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22970.png",
+      "local_image_path": "images/22970.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "dragon-tree",
+    "dragoness",
+    "dragonet",
+    "dragonify",
+    "dragonish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dragon.mp3",
+  "local_sound_path": "sounds/dragon.mp3"
+}

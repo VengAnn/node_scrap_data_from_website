@@ -1,0 +1,31 @@
+{
+  "word": "revere",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73311.png",
+      "local_image_path": "images/73311.png"
+    }
+  ],
+  "synonyms": [
+    "admire",
+    "respect",
+    "worship",
+    "venerate"
+  ],
+  "antonyms": [
+    "despise"
+  ],
+  "similar_words": [
+    "reverence",
+    "reverend",
+    "reverent",
+    "reverential",
+    "reverentially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/revere.mp3",
+  "local_sound_path": "sounds/revere.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "pottery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make pottery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65653.png",
+      "local_image_path": "images/65653.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65654.png",
+      "local_image_path": "images/65654.png"
+    }
+  ],
+  "synonyms": [
+    "earthenware",
+    "stoneware",
+    "ceramics"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pottery.mp3",
+  "local_sound_path": "sounds/pottery.mp3"
+}

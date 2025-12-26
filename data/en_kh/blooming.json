@@ -1,0 +1,44 @@
+{
+  "word": "blooming",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "blooming health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9718.png",
+      "local_image_path": "images/9718.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115267.png",
+      "local_image_path": "images/115267.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115268.png",
+      "local_image_path": "images/115268.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115269.png",
+      "local_image_path": "images/115269.png"
+    }
+  ],
+  "synonyms": [
+    "thriving",
+    "budding",
+    "promising",
+    "growing",
+    "developing",
+    "glowing",
+    "maturing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blooming.mp3",
+  "local_sound_path": "sounds/blooming.mp3"
+}

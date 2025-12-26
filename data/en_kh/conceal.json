@@ -1,0 +1,54 @@
+{
+  "word": "conceal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16398.png",
+      "local_image_path": "images/16398.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116980.png",
+      "local_image_path": "images/116980.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116981.png",
+      "local_image_path": "images/116981.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116982.png",
+      "local_image_path": "images/116982.png"
+    }
+  ],
+  "synonyms": [
+    "suppress",
+    "censor",
+    "secrete",
+    "camouflage",
+    "mask",
+    "cloak",
+    "veil",
+    "bury",
+    "disguise"
+  ],
+  "antonyms": [
+    "reveal",
+    "disclose",
+    "divulge"
+  ],
+  "similar_words": [
+    "concealable",
+    "concealer",
+    "concealment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conceal.mp3",
+  "local_sound_path": "sounds/conceal.mp3"
+}

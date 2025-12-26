@@ -1,0 +1,51 @@
+{
+  "word": "alleviate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3447.png",
+      "local_image_path": "images/3447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112096.png",
+      "local_image_path": "images/112096.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113545.png",
+      "local_image_path": "images/113545.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113546.png",
+      "local_image_path": "images/113546.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113547.png",
+      "local_image_path": "images/113547.png"
+    }
+  ],
+  "synonyms": [
+    "ease",
+    "lessen",
+    "assuage",
+    "improve",
+    "lighten",
+    "relieve"
+  ],
+  "antonyms": [
+    "aggravate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alleviate.mp3",
+  "local_sound_path": "sounds/alleviate.mp3"
+}

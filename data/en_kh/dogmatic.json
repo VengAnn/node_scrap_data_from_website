@@ -1,0 +1,41 @@
+{
+  "word": "dogmatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dogmatic person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22602.png",
+      "local_image_path": "images/22602.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118724.png",
+      "local_image_path": "images/118724.png"
+    }
+  ],
+  "synonyms": [
+    "rigid",
+    "inflexible",
+    "unbending",
+    "strict",
+    "assertive",
+    "narrow",
+    "doctrinaire",
+    "fixed",
+    "authoritarian",
+    "dictatorial",
+    "intransigent"
+  ],
+  "antonyms": [
+    "flexible"
+  ],
+  "similar_words": [
+    "dogmatical",
+    "dogmatically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dogmatic.mp3",
+  "local_sound_path": "sounds/dogmatic.mp3"
+}

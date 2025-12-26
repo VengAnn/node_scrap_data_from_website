@@ -1,0 +1,28 @@
+{
+  "word": "lucky",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "You are a lucky fellow to have a big house.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47938.png",
+      "local_image_path": "images/47938.png"
+    }
+  ],
+  "synonyms": [
+    "fortunate",
+    "blessed",
+    "fluky",
+    "auspicious",
+    "providential",
+    "propitious",
+    "timely"
+  ],
+  "antonyms": [
+    "unlucky"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lucky.mp3",
+  "local_sound_path": "sounds/lucky.mp3"
+}

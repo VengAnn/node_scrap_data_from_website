@@ -1,0 +1,39 @@
+{
+  "word": "adaptation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2299.png",
+      "local_image_path": "images/2299.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113229.png",
+      "local_image_path": "images/113229.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113230.png",
+      "local_image_path": "images/113230.png"
+    }
+  ],
+  "synonyms": [
+    "alteration",
+    "adjustment",
+    "acclimatization",
+    "modification",
+    "change"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "adaptational",
+    "adaptationally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adaptation.mp3",
+  "local_sound_path": "sounds/adaptation.mp3"
+}

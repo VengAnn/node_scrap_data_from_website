@@ -1,0 +1,44 @@
+{
+  "word": "dredge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23089.png",
+      "local_image_path": "images/23089.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23090.png",
+      "local_image_path": "images/23090.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23091.png",
+      "local_image_path": "images/23091.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23093.png",
+      "local_image_path": "images/23093.png"
+    }
+  ],
+  "synonyms": [
+    "search",
+    "scour",
+    "comb",
+    "ransack",
+    "rummage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dredger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dredge.mp3",
+  "local_sound_path": "sounds/dredge.mp3"
+}

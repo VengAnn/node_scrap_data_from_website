@@ -1,0 +1,35 @@
+{
+  "word": "abomination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1504.png",
+      "local_image_path": "images/1504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113035.png",
+      "local_image_path": "images/113035.png"
+    }
+  ],
+  "synonyms": [
+    "hatred",
+    "dislike",
+    "repugnance",
+    "loathing",
+    "revulsion",
+    "abhorrence",
+    "detestation",
+    "disgust"
+  ],
+  "antonyms": [
+    "love"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abomination.mp3",
+  "local_sound_path": "sounds/abomination.mp3"
+}

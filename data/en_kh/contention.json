@@ -1,0 +1,45 @@
+{
+  "word": "contention",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "contention between enemies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17236.png",
+      "local_image_path": "images/17236.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117422.png",
+      "local_image_path": "images/117422.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117423.png",
+      "local_image_path": "images/117423.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117424.png",
+      "local_image_path": "images/117424.png"
+    }
+  ],
+  "synonyms": [
+    "assertion",
+    "argument",
+    "opinion",
+    "belief",
+    "claim",
+    "position"
+  ],
+  "antonyms": [
+    "harmony"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contention.mp3",
+  "local_sound_path": "sounds/contention.mp3"
+}

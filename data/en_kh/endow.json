@@ -1,0 +1,36 @@
+{
+  "word": "endow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24932.png",
+      "local_image_path": "images/24932.png"
+    },
+    {
+      "pos": "tv",
+      "example": "endow a college",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24933.png",
+      "local_image_path": "images/24933.png"
+    }
+  ],
+  "synonyms": [
+    "award",
+    "donate",
+    "bestow",
+    "give",
+    "bequeath",
+    "provide",
+    "grant"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "endowed with life",
+    "endower",
+    "endowment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endow.mp3",
+  "local_sound_path": "sounds/endow.mp3"
+}

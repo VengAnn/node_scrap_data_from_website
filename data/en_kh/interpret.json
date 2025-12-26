@@ -1,0 +1,66 @@
+{
+  "word": "interpret",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41480.png",
+      "local_image_path": "images/41480.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41481.png",
+      "local_image_path": "images/41481.png"
+    },
+    {
+      "pos": "tv",
+      "example": "interpret his speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41476.png",
+      "local_image_path": "images/41476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41477.png",
+      "local_image_path": "images/41477.png"
+    },
+    {
+      "pos": "tv",
+      "example": "interpret omens",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41478.png",
+      "local_image_path": "images/41478.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41479.png",
+      "local_image_path": "images/41479.png"
+    }
+  ],
+  "synonyms": [
+    "explain",
+    "clarify",
+    "elucidate",
+    "illuminate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "interpretability",
+    "interpretable",
+    "interpretableness",
+    "interpretation",
+    "interpretational",
+    "interpretative",
+    "interpretatively",
+    "interpreter",
+    "interpretive",
+    "interpretively",
+    "interpretorial",
+    "interpretress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interpret.mp3",
+  "local_sound_path": "sounds/interpret.mp3"
+}

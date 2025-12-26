@@ -1,0 +1,95 @@
+{
+  "word": "pen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pen name",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61262.png",
+      "local_image_path": "images/61262.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61260.png",
+      "local_image_path": "images/61260.png"
+    },
+    {
+      "pos": "n",
+      "example": "hog pen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61263.png",
+      "local_image_path": "images/61263.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61266.png",
+      "local_image_path": "images/61266.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61267.png",
+      "local_image_path": "images/61267.png"
+    },
+    {
+      "pos": "sl",
+      "example": "He's in the pen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61264.png",
+      "local_image_path": "images/61264.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61261.png",
+      "local_image_path": "images/61261.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61265.png",
+      "local_image_path": "images/61265.png"
+    }
+  ],
+  "synonyms": [
+    "write",
+    "notate",
+    "compose",
+    "scribble",
+    "jot",
+    "construct",
+    "create",
+    "author",
+    "scrawl"
+  ],
+  "antonyms": [
+    "release"
+  ],
+  "similar_words": [
+    "pen pal",
+    "pen point",
+    "pen-and-ink",
+    "pen-clerk",
+    "pen-friend",
+    "pen-name",
+    "penal",
+    "penal institution",
+    "penalcode",
+    "penality",
+    "penalization",
+    "penalize",
+    "penally",
+    "penalty",
+    "penance",
+    "penannular",
+    "pence",
+    "pencel",
+    "penchant",
+    "pencil",
+    "pencil pusher",
+    "pencil-case"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pen.mp3",
+  "local_sound_path": "sounds/pen.mp3"
+}

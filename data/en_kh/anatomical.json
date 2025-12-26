@@ -1,0 +1,30 @@
+{
+  "word": "anatomical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4136.png",
+      "local_image_path": "images/4136.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113701.png",
+      "local_image_path": "images/113701.png"
+    }
+  ],
+  "synonyms": [
+    "functional",
+    "structural",
+    "material",
+    "bodily",
+    "body"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anatomical.mp3",
+  "local_sound_path": "sounds/anatomical.mp3"
+}

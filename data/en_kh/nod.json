@@ -1,0 +1,88 @@
+{
+  "word": "nod",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "nob in approval",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55939.png",
+      "local_image_path": "images/55939.png"
+    },
+    {
+      "pos": "iv",
+      "example": "nob in disapproval",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55940.png",
+      "local_image_path": "images/55940.png"
+    },
+    {
+      "pos": "iv",
+      "example": "nob with sleep",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55941.png",
+      "local_image_path": "images/55941.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55942.png",
+      "local_image_path": "images/55942.png"
+    },
+    {
+      "pos": "n",
+      "example": "nob of approval",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55947.png",
+      "local_image_path": "images/55947.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55943.png",
+      "local_image_path": "images/55943.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55944.png",
+      "local_image_path": "images/55944.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55945.png",
+      "local_image_path": "images/55945.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55946.png",
+      "local_image_path": "images/55946.png"
+    }
+  ],
+  "synonyms": [
+    "signal",
+    "sign",
+    "affirmation",
+    "go-ahead",
+    "okay",
+    "acquiesce",
+    "concur"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "nodal",
+    "nodated",
+    "nodder",
+    "nodding",
+    "noddle",
+    "noddy",
+    "node",
+    "nodose",
+    "nodosity",
+    "nodular",
+    "nodule",
+    "noduled",
+    "nodulose"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nod.mp3",
+  "local_sound_path": "sounds/nod.mp3"
+}

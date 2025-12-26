@@ -1,0 +1,42 @@
+{
+  "word": "crumble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18846.png",
+      "local_image_path": "images/18846.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18847.png",
+      "local_image_path": "images/18847.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18845.png",
+      "local_image_path": "images/18845.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132115.png",
+      "local_image_path": "images/132115.png"
+    }
+  ],
+  "synonyms": [
+    "yield",
+    "submit",
+    "surrender"
+  ],
+  "antonyms": [
+    "resist"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crumble.mp3",
+  "local_sound_path": "sounds/crumble.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "aeration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2624.png",
+      "local_image_path": "images/2624.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112187.png",
+      "local_image_path": "images/112187.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112188.png",
+      "local_image_path": "images/112188.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112189.png",
+      "local_image_path": "images/112189.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112190.png",
+      "local_image_path": "images/112190.png"
+    }
+  ],
+  "synonyms": [
+    "ventilation",
+    "airing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aeration.mp3",
+  "local_sound_path": "sounds/aeration.mp3"
+}

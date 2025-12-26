@@ -1,0 +1,50 @@
+{
+  "word": "conclusion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "judge's conclusion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16487.png",
+      "local_image_path": "images/16487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117070.png",
+      "local_image_path": "images/117070.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117071.png",
+      "local_image_path": "images/117071.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117072.png",
+      "local_image_path": "images/117072.png"
+    }
+  ],
+  "synonyms": [
+    "deduction",
+    "assumption",
+    "inference",
+    "supposition",
+    "end",
+    "close",
+    "finish",
+    "termination",
+    "finale",
+    "ending",
+    "closing"
+  ],
+  "antonyms": [
+    "start"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conclusion.mp3",
+  "local_sound_path": "sounds/conclusion.mp3"
+}

@@ -1,0 +1,106 @@
+{
+  "word": "trim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91808.png",
+      "local_image_path": "images/91808.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91809.png",
+      "local_image_path": "images/91809.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's in to trim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91805.png",
+      "local_image_path": "images/91805.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91806.png",
+      "local_image_path": "images/91806.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91807.png",
+      "local_image_path": "images/91807.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trim a hedge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91800.png",
+      "local_image_path": "images/91800.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trim lumber",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91801.png",
+      "local_image_path": "images/91801.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trim the plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91802.png",
+      "local_image_path": "images/91802.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trim the sails",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91803.png",
+      "local_image_path": "images/91803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "A hat trimmed with fur.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91804.png",
+      "local_image_path": "images/91804.png"
+    }
+  ],
+  "synonyms": [
+    "decoration",
+    "adornment",
+    "frill",
+    "edge",
+    "border",
+    "clip",
+    "cut",
+    "shear",
+    "pare",
+    "prune",
+    "shave",
+    "lop off"
+  ],
+  "antonyms": [
+    "messy",
+    "lengthen",
+    "augment",
+    "bulky"
+  ],
+  "similar_words": [
+    "trimaran",
+    "trimerism",
+    "trimerous",
+    "trimester",
+    "trimesterial",
+    "trimestral",
+    "trimeter",
+    "trimetric",
+    "trimetrical",
+    "trimmer",
+    "trimming",
+    "trimonthly",
+    "trimorphic",
+    "trimorphically",
+    "trimorphism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trim.mp3",
+  "local_sound_path": "sounds/trim.mp3"
+}

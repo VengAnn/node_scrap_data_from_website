@@ -1,0 +1,57 @@
+{
+  "word": "jelly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42886.png",
+      "local_image_path": "images/42886.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42887.png",
+      "local_image_path": "images/42887.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42883.png",
+      "local_image_path": "images/42883.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42884.png",
+      "local_image_path": "images/42884.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42885.png",
+      "local_image_path": "images/42885.png"
+    }
+  ],
+  "synonyms": [
+    "conserve",
+    "set",
+    "thicken",
+    "jellify",
+    "gelatinize",
+    "congeal",
+    "jell",
+    "gel",
+    "firm"
+  ],
+  "antonyms": [
+    "liquefy"
+  ],
+  "similar_words": [
+    "jelly fish",
+    "jellybean"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jelly.mp3",
+  "local_sound_path": "sounds/jelly.mp3"
+}

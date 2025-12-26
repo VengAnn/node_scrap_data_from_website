@@ -1,0 +1,48 @@
+{
+  "word": "contaminate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "contaminate his character",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17192.png",
+      "local_image_path": "images/17192.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117402.png",
+      "local_image_path": "images/117402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117403.png",
+      "local_image_path": "images/117403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117404.png",
+      "local_image_path": "images/117404.png"
+    }
+  ],
+  "synonyms": [
+    "pollute",
+    "foul",
+    "taint",
+    "infect",
+    "sully",
+    "dirty",
+    "soil"
+  ],
+  "antonyms": [
+    "purify"
+  ],
+  "similar_words": [
+    "contaminated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contaminate.mp3",
+  "local_sound_path": "sounds/contaminate.mp3"
+}

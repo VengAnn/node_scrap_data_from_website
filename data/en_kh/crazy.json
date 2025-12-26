@@ -1,0 +1,37 @@
+{
+  "word": "crazy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "you are crazy today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18449.png",
+      "local_image_path": "images/18449.png"
+    }
+  ],
+  "synonyms": [
+    "outrageous",
+    "outlandish",
+    "ridiculous",
+    "bizarre",
+    "peculiar",
+    "weird",
+    "eccentric",
+    "odd",
+    "zany",
+    "wild",
+    "passionate",
+    "fanatical",
+    "mad",
+    "extreme"
+  ],
+  "antonyms": [
+    "indifferent",
+    "sensible",
+    "normal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crazy.mp3",
+  "local_sound_path": "sounds/crazy.mp3"
+}

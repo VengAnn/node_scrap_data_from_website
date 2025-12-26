@@ -1,0 +1,46 @@
+{
+  "word": "remodel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72065.png",
+      "local_image_path": "images/72065.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126816.png",
+      "local_image_path": "images/126816.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126817.png",
+      "local_image_path": "images/126817.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126818.png",
+      "local_image_path": "images/126818.png"
+    }
+  ],
+  "synonyms": [
+    "alter",
+    "change",
+    "modify",
+    "modernize",
+    "adapt",
+    "adjust",
+    "amend",
+    "transform",
+    "renovate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remodel.mp3",
+  "local_sound_path": "sounds/remodel.mp3"
+}

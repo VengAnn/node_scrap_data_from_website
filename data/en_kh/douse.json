@@ -1,0 +1,33 @@
+{
+  "word": "douse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "douse a fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22862.png",
+      "local_image_path": "images/22862.png"
+    },
+    {
+      "pos": "tv",
+      "example": "douse a light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22863.png",
+      "local_image_path": "images/22863.png"
+    }
+  ],
+  "synonyms": [
+    "quench",
+    "extinguish",
+    "drench",
+    "soak",
+    "steep",
+    "dunk",
+    "immerse",
+    "submerge"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/douse.mp3",
+  "local_sound_path": "sounds/douse.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "sophisticated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sophisticated society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82743.png",
+      "local_image_path": "images/82743.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sophisticated equipment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82744.png",
+      "local_image_path": "images/82744.png"
+    }
+  ],
+  "synonyms": [
+    "complex",
+    "advanced",
+    "high-level",
+    "erudite",
+    "clever",
+    "superior",
+    "educated"
+  ],
+  "antonyms": [
+    "primitive",
+    "gauche",
+    "naive",
+    "crude"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sophisticated.mp3",
+  "local_sound_path": "sounds/sophisticated.mp3"
+}

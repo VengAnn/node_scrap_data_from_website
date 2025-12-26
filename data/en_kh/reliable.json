@@ -1,0 +1,47 @@
+{
+  "word": "reliable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "reliable worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71892.png",
+      "local_image_path": "images/71892.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126768.png",
+      "local_image_path": "images/126768.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126769.png",
+      "local_image_path": "images/126769.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126770.png",
+      "local_image_path": "images/126770.png"
+    }
+  ],
+  "synonyms": [
+    "dependable",
+    "consistent",
+    "steadfast",
+    "unswerving",
+    "unfailing",
+    "trustworthy"
+  ],
+  "antonyms": [
+    "undependable"
+  ],
+  "similar_words": [
+    "reliableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reliable.mp3",
+  "local_sound_path": "sounds/reliable.mp3"
+}

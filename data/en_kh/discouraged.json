@@ -1,0 +1,33 @@
+{
+  "word": "discouraged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21739.png",
+      "local_image_path": "images/21739.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118437.png",
+      "local_image_path": "images/118437.png"
+    }
+  ],
+  "synonyms": [
+    "dispirited",
+    "downcast",
+    "depressed",
+    "dejected",
+    "opposed",
+    "stopped"
+  ],
+  "antonyms": [
+    "positive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discouraged.mp3",
+  "local_sound_path": "sounds/discouraged.mp3"
+}

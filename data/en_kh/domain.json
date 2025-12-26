@@ -1,0 +1,33 @@
+{
+  "word": "domain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "domain of a king",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22651.png",
+      "local_image_path": "images/22651.png"
+    },
+    {
+      "pos": "n",
+      "example": "domain of science",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22652.png",
+      "local_image_path": "images/22652.png"
+    }
+  ],
+  "synonyms": [
+    "area",
+    "field",
+    "sphere",
+    "province",
+    "realm",
+    "dominion",
+    "territory",
+    "purview"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/domain.mp3",
+  "local_sound_path": "sounds/domain.mp3"
+}

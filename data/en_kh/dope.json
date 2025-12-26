@@ -1,0 +1,43 @@
+{
+  "word": "dope",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "preservative dope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22754.png",
+      "local_image_path": "images/22754.png"
+    },
+    {
+      "pos": "sl",
+      "example": "take dope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22755.png",
+      "local_image_path": "images/22755.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22756.png",
+      "local_image_path": "images/22756.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22757.png",
+      "local_image_path": "images/22757.png"
+    }
+  ],
+  "synonyms": [
+    "nobble",
+    "incapacitate",
+    "fix",
+    "drug"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dopey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dope.mp3",
+  "local_sound_path": "sounds/dope.mp3"
+}

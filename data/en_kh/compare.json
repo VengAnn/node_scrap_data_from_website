@@ -1,0 +1,40 @@
+{
+  "word": "compare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "you can't compare with her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16166.png",
+      "local_image_path": "images/16166.png"
+    },
+    {
+      "pos": "n",
+      "example": "beyond compare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16167.png",
+      "local_image_path": "images/16167.png"
+    },
+    {
+      "pos": "tv",
+      "example": "if you compare her work, you find hers is much better",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16165.png",
+      "local_image_path": "images/16165.png"
+    }
+  ],
+  "synonyms": [
+    "associate",
+    "link",
+    "relate",
+    "equate",
+    "contrast",
+    "evaluate",
+    "balance",
+    "judge",
+    "assess"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compare.mp3",
+  "local_sound_path": "sounds/compare.mp3"
+}

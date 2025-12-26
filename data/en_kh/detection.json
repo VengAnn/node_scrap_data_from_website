@@ -1,0 +1,38 @@
+{
+  "word": "detection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20980.png",
+      "local_image_path": "images/20980.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118181.png",
+      "local_image_path": "images/118181.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118182.png",
+      "local_image_path": "images/118182.png"
+    }
+  ],
+  "synonyms": [
+    "discovery",
+    "finding",
+    "recognition",
+    "exposure",
+    "revealing"
+  ],
+  "antonyms": [
+    "concealment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detection.mp3",
+  "local_sound_path": "sounds/detection.mp3"
+}

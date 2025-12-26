@@ -1,0 +1,35 @@
+{
+  "word": "maul",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106889.png",
+      "local_image_path": "images/106889.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106890.png",
+      "local_image_path": "images/106890.png"
+    }
+  ],
+  "synonyms": [
+    "criticize",
+    "attack",
+    "slate",
+    "slam",
+    "pan",
+    "savage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mauler",
+    "mauling",
+    "maulstick"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/maul.mp3",
+  "local_sound_path": "sounds/maul.mp3"
+}

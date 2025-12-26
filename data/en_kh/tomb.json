@@ -1,0 +1,30 @@
+{
+  "word": "tomb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89972.png",
+      "local_image_path": "images/89972.png"
+    }
+  ],
+  "synonyms": [
+    "crypt",
+    "vault",
+    "grave",
+    "ossuary"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tombac",
+    "tombless",
+    "tombola",
+    "tomboy",
+    "tomboyish",
+    "tombstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tomb.mp3",
+  "local_sound_path": "sounds/tomb.mp3"
+}

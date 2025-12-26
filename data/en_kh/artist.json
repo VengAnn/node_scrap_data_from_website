@@ -1,0 +1,32 @@
+{
+  "word": "artist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5683.png",
+      "local_image_path": "images/5683.png"
+    }
+  ],
+  "synonyms": [
+    "performer",
+    "artiste",
+    "singer",
+    "actor",
+    "musician",
+    "dancer",
+    "comedian",
+    "entertainer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "artiste",
+    "artistic",
+    "artistically",
+    "artistry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/artist.mp3",
+  "local_sound_path": "sounds/artist.mp3"
+}

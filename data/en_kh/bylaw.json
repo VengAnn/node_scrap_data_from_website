@@ -1,0 +1,37 @@
+{
+  "word": "bylaw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12145.png",
+      "local_image_path": "images/12145.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12146.png",
+      "local_image_path": "images/12146.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131061.png",
+      "local_image_path": "images/131061.png"
+    }
+  ],
+  "synonyms": [
+    "regulation",
+    "rule",
+    "ruling",
+    "law",
+    "statute",
+    "guideline"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bylaw.mp3",
+  "local_sound_path": "sounds/bylaw.mp3"
+}

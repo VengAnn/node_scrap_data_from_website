@@ -1,0 +1,31 @@
+{
+  "word": "indorse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39227.png",
+      "local_image_path": "images/39227.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "back",
+    "advocate",
+    "favor",
+    "approve",
+    "sanction",
+    "ratify"
+  ],
+  "antonyms": [
+    "reject",
+    "denounce"
+  ],
+  "similar_words": [
+    "indorsement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indorse.mp3",
+  "local_sound_path": "sounds/indorse.mp3"
+}

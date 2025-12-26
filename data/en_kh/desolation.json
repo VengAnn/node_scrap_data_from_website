@@ -1,0 +1,33 @@
+{
+  "word": "desolation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20882.png",
+      "local_image_path": "images/20882.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20883.png",
+      "local_image_path": "images/20883.png"
+    }
+  ],
+  "synonyms": [
+    "barrenness",
+    "isolation",
+    "bleakness",
+    "emptiness",
+    "dereliction",
+    "devastation"
+  ],
+  "antonyms": [
+    "happiness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desolation.mp3",
+  "local_sound_path": "sounds/desolation.mp3"
+}

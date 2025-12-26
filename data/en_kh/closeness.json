@@ -1,0 +1,49 @@
+{
+  "word": "closeness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15118.png",
+      "local_image_path": "images/15118.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116510.png",
+      "local_image_path": "images/116510.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116511.png",
+      "local_image_path": "images/116511.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116512.png",
+      "local_image_path": "images/116512.png"
+    }
+  ],
+  "synonyms": [
+    "intimacy",
+    "nearness",
+    "friendship",
+    "understanding",
+    "confidence",
+    "proximity",
+    "contact",
+    "convenience",
+    "imminence"
+  ],
+  "antonyms": [
+    "distance",
+    "freshness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/closeness.mp3",
+  "local_sound_path": "sounds/closeness.mp3"
+}

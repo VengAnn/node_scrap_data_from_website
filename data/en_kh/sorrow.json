@@ -1,0 +1,45 @@
+{
+  "word": "sorrow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82813.png",
+      "local_image_path": "images/82813.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82811.png",
+      "local_image_path": "images/82811.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82812.png",
+      "local_image_path": "images/82812.png"
+    }
+  ],
+  "synonyms": [
+    "grieve",
+    "mourn",
+    "regret"
+  ],
+  "antonyms": [
+    "joy",
+    "rejoice"
+  ],
+  "similar_words": [
+    "sorrow-laden",
+    "sorrow-stricken",
+    "sorrower",
+    "sorrowful",
+    "sorrowfully",
+    "sorrowfulness",
+    "sorrowless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sorrow.mp3",
+  "local_sound_path": "sounds/sorrow.mp3"
+}

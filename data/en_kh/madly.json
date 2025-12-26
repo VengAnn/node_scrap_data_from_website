@@ -1,0 +1,32 @@
+{
+  "word": "madly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "work madly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105164.png",
+      "local_image_path": "images/105164.png"
+    },
+    {
+      "pos": "adv",
+      "example": "love madly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105165.png",
+      "local_image_path": "images/105165.png"
+    }
+  ],
+  "synonyms": [
+    "very",
+    "wildly",
+    "incredibly",
+    "amazingly",
+    "utterly"
+  ],
+  "antonyms": [
+    "calmly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/madly.mp3",
+  "local_sound_path": "sounds/madly.mp3"
+}

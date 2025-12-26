@@ -1,0 +1,104 @@
+{
+  "word": "dash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19684.png",
+      "local_image_path": "images/19684.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19685.png",
+      "local_image_path": "images/19685.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117710.png",
+      "local_image_path": "images/117710.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117711.png",
+      "local_image_path": "images/117711.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117712.png",
+      "local_image_path": "images/117712.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117713.png",
+      "local_image_path": "images/117713.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117714.png",
+      "local_image_path": "images/117714.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Dash a bucketful of water on his muddy floor!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19680.png",
+      "local_image_path": "images/19680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19681.png",
+      "local_image_path": "images/19681.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He dashed down his enemy to the ground.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19682.png",
+      "local_image_path": "images/19682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dash his hopes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19683.png",
+      "local_image_path": "images/19683.png"
+    }
+  ],
+  "synonyms": [
+    "frustrate",
+    "confound",
+    "shatter",
+    "ruin",
+    "crush",
+    "thwart",
+    "smash",
+    "break",
+    "hurl",
+    "slam",
+    "fling",
+    "knock",
+    "throw",
+    "sling",
+    "splinter",
+    "crash"
+  ],
+  "antonyms": [
+    "amble",
+    "encourage",
+    "bolster"
+  ],
+  "similar_words": [
+    "dashboard",
+    "dashboard dining",
+    "dashing",
+    "dashingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dash.mp3",
+  "local_sound_path": "sounds/dash.mp3"
+}

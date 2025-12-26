@@ -1,0 +1,54 @@
+{
+  "word": "elaborate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elaborate design",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24109.png",
+      "local_image_path": "images/24109.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24110.png",
+      "local_image_path": "images/24110.png"
+    },
+    {
+      "pos": "v",
+      "example": "Please elaborate your plan.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24111.png",
+      "local_image_path": "images/24111.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118952.png",
+      "local_image_path": "images/118952.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118953.png",
+      "local_image_path": "images/118953.png"
+    }
+  ],
+  "synonyms": [
+    "complicate",
+    "develop",
+    "detail"
+  ],
+  "antonyms": [
+    "straightforward",
+    "simple",
+    "simplify",
+    "condense"
+  ],
+  "similar_words": [
+    "elaborately",
+    "elaborateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elaborate.mp3",
+  "local_sound_path": "sounds/elaborate.mp3"
+}

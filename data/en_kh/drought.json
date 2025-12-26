@@ -1,0 +1,26 @@
+{
+  "word": "drought",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23226.png",
+      "local_image_path": "images/23226.png"
+    }
+  ],
+  "synonyms": [
+    "lack",
+    "dearth",
+    "deficiency",
+    "famine",
+    "scarcity"
+  ],
+  "antonyms": [
+    "abundance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drought.mp3",
+  "local_sound_path": "sounds/drought.mp3"
+}

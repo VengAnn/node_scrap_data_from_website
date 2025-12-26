@@ -1,0 +1,38 @@
+{
+  "word": "anodyne",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4439.png",
+      "local_image_path": "images/4439.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4438.png",
+      "local_image_path": "images/4438.png"
+    }
+  ],
+  "synonyms": [
+    "insipid",
+    "bland",
+    "tame",
+    "neutral",
+    "inoffensive",
+    "colorless",
+    "dull",
+    "antiseptic",
+    "unexciting",
+    "anemic"
+  ],
+  "antonyms": [
+    "exciting",
+    "stimulating"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anodyne.mp3",
+  "local_sound_path": "sounds/anodyne.mp3"
+}

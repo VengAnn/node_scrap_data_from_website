@@ -1,0 +1,43 @@
+{
+  "word": "unaffected",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93083.png",
+      "local_image_path": "images/93083.png"
+    },
+    {
+      "pos": "adj",
+      "example": "with unaffected pleasure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93084.png",
+      "local_image_path": "images/93084.png"
+    }
+  ],
+  "synonyms": [
+    "natural",
+    "unpretentious",
+    "genuine",
+    "sincere",
+    "artless",
+    "unchanged",
+    "unaltered",
+    "unmoved",
+    "impervious",
+    "impassive",
+    "untouched"
+  ],
+  "antonyms": [
+    "affected",
+    "pretentious",
+    "different"
+  ],
+  "similar_words": [
+    "unaffectedly",
+    "unaffectedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unaffected.mp3",
+  "local_sound_path": "sounds/unaffected.mp3"
+}

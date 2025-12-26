@@ -1,0 +1,33 @@
+{
+  "word": "puppet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68931.png",
+      "local_image_path": "images/68931.png"
+    }
+  ],
+  "synonyms": [
+    "pawn",
+    "flunky",
+    "lackey",
+    "patsy",
+    "instrument",
+    "tool",
+    "creature",
+    "minion"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "puppet state",
+    "puppet-play",
+    "puppetish",
+    "puppetry",
+    "puppetshow"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/puppet.mp3",
+  "local_sound_path": "sounds/puppet.mp3"
+}

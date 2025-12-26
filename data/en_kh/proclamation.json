@@ -1,0 +1,30 @@
+{
+  "word": "proclamation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The government restricted the use of water by proclamation.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111638.png",
+      "local_image_path": "images/111638.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126055.png",
+      "local_image_path": "images/126055.png"
+    }
+  ],
+  "synonyms": [
+    "announcement",
+    "declaration",
+    "decree",
+    "assertion",
+    "edict"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proclamation.mp3",
+  "local_sound_path": "sounds/proclamation.mp3"
+}

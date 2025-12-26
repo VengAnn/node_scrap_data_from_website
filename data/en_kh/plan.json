@@ -1,0 +1,87 @@
+{
+  "word": "plan",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "plan for the future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63804.png",
+      "local_image_path": "images/63804.png"
+    },
+    {
+      "pos": "n",
+      "example": "I have the plan.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63805.png",
+      "local_image_path": "images/63805.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63806.png",
+      "local_image_path": "images/63806.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63807.png",
+      "local_image_path": "images/63807.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63808.png",
+      "local_image_path": "images/63808.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plan a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63809.png",
+      "local_image_path": "images/63809.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63810.png",
+      "local_image_path": "images/63810.png"
+    }
+  ],
+  "synonyms": [
+    "strategy",
+    "idea",
+    "proposal",
+    "plot",
+    "design",
+    "intend",
+    "propose",
+    "mean",
+    "schedule",
+    "project",
+    "arrange",
+    "organize",
+    "prearrange",
+    "prepare"
+  ],
+  "antonyms": [
+    "improvise"
+  ],
+  "similar_words": [
+    "planar",
+    "planarity",
+    "planation",
+    "planch",
+    "plancher",
+    "planchette",
+    "plane",
+    "plane crash",
+    "planeload",
+    "planer",
+    "planeside",
+    "planet",
+    "planet-struck",
+    "planetarium",
+    "planetary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plan.mp3",
+  "local_sound_path": "sounds/plan.mp3"
+}

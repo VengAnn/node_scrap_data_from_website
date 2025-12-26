@@ -1,0 +1,37 @@
+{
+  "word": "bilingual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bilingual person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8892.png",
+      "local_image_path": "images/8892.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115067.png",
+      "local_image_path": "images/115067.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115068.png",
+      "local_image_path": "images/115068.png"
+    }
+  ],
+  "synonyms": [
+    "fluent",
+    "multilingual",
+    "polyglot"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bilingualism",
+    "bilingually"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bilingual.mp3",
+  "local_sound_path": "sounds/bilingual.mp3"
+}

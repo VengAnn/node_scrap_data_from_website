@@ -1,0 +1,30 @@
+{
+  "word": "crunch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18857.png",
+      "local_image_path": "images/18857.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The dog was crunching a bone.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18856.png",
+      "local_image_path": "images/18856.png"
+    }
+  ],
+  "synonyms": [
+    "crisis",
+    "chomp",
+    "munch",
+    "chew",
+    "champ"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crunch.mp3",
+  "local_sound_path": "sounds/crunch.mp3"
+}

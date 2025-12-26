@@ -1,0 +1,25 @@
+{
+  "word": "arena",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the arena of politics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5410.png",
+      "local_image_path": "images/5410.png"
+    }
+  ],
+  "synonyms": [
+    "stadium",
+    "ground",
+    "pitch",
+    "field",
+    "ring",
+    "dome"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arena.mp3",
+  "local_sound_path": "sounds/arena.mp3"
+}

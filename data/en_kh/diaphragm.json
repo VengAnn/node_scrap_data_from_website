@@ -1,0 +1,33 @@
+{
+  "word": "diaphragm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21206.png",
+      "local_image_path": "images/21206.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131463.png",
+      "local_image_path": "images/131463.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131464.png",
+      "local_image_path": "images/131464.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "diaphragmatic",
+    "diaphragmatically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diaphragm.mp3",
+  "local_sound_path": "sounds/diaphragm.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "contact",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17170.png",
+      "local_image_path": "images/17170.png"
+    },
+    {
+      "pos": "n",
+      "example": "contact person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17171.png",
+      "local_image_path": "images/17171.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17172.png",
+      "local_image_path": "images/17172.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131408.png",
+      "local_image_path": "images/131408.png"
+    },
+    {
+      "pos": "tv",
+      "example": "contact two ends",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17173.png",
+      "local_image_path": "images/17173.png"
+    },
+    {
+      "pos": "tv",
+      "example": "contact a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17174.png",
+      "local_image_path": "images/17174.png"
+    }
+  ],
+  "synonyms": [
+    "acquaintance",
+    "connection",
+    "friend",
+    "link",
+    "associate",
+    "call",
+    "phone",
+    "e-mail",
+    "email"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "contact lense",
+    "contactual",
+    "contactually"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contact.mp3",
+  "local_sound_path": "sounds/contact.mp3"
+}

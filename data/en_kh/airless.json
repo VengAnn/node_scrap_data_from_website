@@ -1,0 +1,40 @@
+{
+  "word": "airless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3145.png",
+      "local_image_path": "images/3145.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112339.png",
+      "local_image_path": "images/112339.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112340.png",
+      "local_image_path": "images/112340.png"
+    }
+  ],
+  "synonyms": [
+    "stuffy",
+    "close",
+    "muggy",
+    "unventilated",
+    "oppressive",
+    "heavy",
+    "stifling"
+  ],
+  "antonyms": [
+    "airy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airless.mp3",
+  "local_sound_path": "sounds/airless.mp3"
+}

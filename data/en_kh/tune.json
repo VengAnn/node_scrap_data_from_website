@@ -1,0 +1,76 @@
+{
+  "word": "tune",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Orchestras tune up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92385.png",
+      "local_image_path": "images/92385.png"
+    },
+    {
+      "pos": "iv",
+      "example": "tune in tomorrow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92386.png",
+      "local_image_path": "images/92386.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92387.png",
+      "local_image_path": "images/92387.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92388.png",
+      "local_image_path": "images/92388.png"
+    },
+    {
+      "pos": "n",
+      "example": "a popular tune",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92382.png",
+      "local_image_path": "images/92382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tune a guitar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92383.png",
+      "local_image_path": "images/92383.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tune instruments",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92384.png",
+      "local_image_path": "images/92384.png"
+    }
+  ],
+  "synonyms": [
+    "adjust",
+    "alter",
+    "change",
+    "modify",
+    "tweak",
+    "regulate",
+    "pitch",
+    "set"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tune-oil",
+    "tune-up",
+    "tuneable",
+    "tuned",
+    "tuned in",
+    "tuneful",
+    "tunefully",
+    "tunefulness",
+    "tuneless",
+    "tunelessly",
+    "tunelessness",
+    "tuner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tune.mp3",
+  "local_sound_path": "sounds/tune.mp3"
+}

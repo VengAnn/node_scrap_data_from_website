@@ -1,0 +1,45 @@
+{
+  "word": "adjunct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2409.png",
+      "local_image_path": "images/2409.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2408.png",
+      "local_image_path": "images/2408.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112066.png",
+      "local_image_path": "images/112066.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112067.png",
+      "local_image_path": "images/112067.png"
+    }
+  ],
+  "synonyms": [
+    "addition",
+    "attachment",
+    "appendage",
+    "accessory",
+    "extra"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "adjunction",
+    "adjunctive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjunct.mp3",
+  "local_sound_path": "sounds/adjunct.mp3"
+}

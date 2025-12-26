@@ -1,0 +1,30 @@
+{
+  "word": "individually",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39170.png",
+      "local_image_path": "images/39170.png"
+    },
+    {
+      "pos": "adv",
+      "example": "treat them individually",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39182.png",
+      "local_image_path": "images/39182.png"
+    }
+  ],
+  "synonyms": [
+    "personally",
+    "separately"
+  ],
+  "antonyms": [
+    "together",
+    "collectively"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/individually.mp3",
+  "local_sound_path": "sounds/individually.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "sensible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sensible person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78124.png",
+      "local_image_path": "images/78124.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sensible plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78125.png",
+      "local_image_path": "images/78125.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I am always sensible of his danger.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78126.png",
+      "local_image_path": "images/78126.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78127.png",
+      "local_image_path": "images/78127.png"
+    }
+  ],
+  "synonyms": [
+    "aware",
+    "mindful",
+    "conscious"
+  ],
+  "antonyms": [
+    "foolish",
+    "unaware",
+    "impractical"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sensible.mp3",
+  "local_sound_path": "sounds/sensible.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "chew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14122.png",
+      "local_image_path": "images/14122.png"
+    },
+    {
+      "pos": "tv",
+      "example": "chew food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14121.png",
+      "local_image_path": "images/14121.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131384.png",
+      "local_image_path": "images/131384.png"
+    }
+  ],
+  "synonyms": [
+    "portion",
+    "plug",
+    "wad",
+    "masticate",
+    "gnaw",
+    "grind",
+    "crush",
+    "chomp",
+    "squash",
+    "champ",
+    "munch"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chewer",
+    "chewing gum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chew.mp3",
+  "local_sound_path": "sounds/chew.mp3"
+}

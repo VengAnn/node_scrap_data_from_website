@@ -1,0 +1,34 @@
+{
+  "word": "gurgle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33307.png",
+      "local_image_path": "images/33307.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33306.png",
+      "local_image_path": "images/33306.png"
+    }
+  ],
+  "synonyms": [
+    "burble",
+    "babble",
+    "coo",
+    "bubble",
+    "slosh",
+    "splash",
+    "ripple",
+    "murmur",
+    "gush"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gurgle.mp3",
+  "local_sound_path": "sounds/gurgle.mp3"
+}

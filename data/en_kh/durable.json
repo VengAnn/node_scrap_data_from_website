@@ -1,0 +1,38 @@
+{
+  "word": "durable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "durable clothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23472.png",
+      "local_image_path": "images/23472.png"
+    }
+  ],
+  "synonyms": [
+    "stable",
+    "enduring",
+    "robust",
+    "lasting",
+    "secure",
+    "tough",
+    "sturdy",
+    "strong",
+    "resilient",
+    "heavy-duty",
+    "permanent",
+    "hardy",
+    "indestructible"
+  ],
+  "antonyms": [
+    "flimsy",
+    "fickle"
+  ],
+  "similar_words": [
+    "durableness",
+    "durables"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/durable.mp3",
+  "local_sound_path": "sounds/durable.mp3"
+}

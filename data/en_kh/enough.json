@@ -1,0 +1,34 @@
+{
+  "word": "enough",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I've got enough money to pay for taxi.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25167.png",
+      "local_image_path": "images/25167.png"
+    },
+    {
+      "pos": "adj",
+      "example": "Is the river deep enough for swimming?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25168.png",
+      "local_image_path": "images/25168.png"
+    },
+    {
+      "pos": "n",
+      "example": "have enough to live on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25169.png",
+      "local_image_path": "images/25169.png"
+    }
+  ],
+  "synonyms": [
+    "sufficient"
+  ],
+  "antonyms": [
+    "insufficient"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enough.mp3",
+  "local_sound_path": "sounds/enough.mp3"
+}

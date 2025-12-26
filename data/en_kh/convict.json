@@ -1,0 +1,49 @@
+{
+  "word": "convict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17516.png",
+      "local_image_path": "images/17516.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17515.png",
+      "local_image_path": "images/17515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117553.png",
+      "local_image_path": "images/117553.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117554.png",
+      "local_image_path": "images/117554.png"
+    }
+  ],
+  "synonyms": [
+    "condemn",
+    "sentence",
+    "imprison"
+  ],
+  "antonyms": [
+    "acquit"
+  ],
+  "similar_words": [
+    "conviction",
+    "conviction bias",
+    "conviction politics",
+    "convictional",
+    "convictive",
+    "convictively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/convict.mp3",
+  "local_sound_path": "sounds/convict.mp3"
+}

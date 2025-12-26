@@ -1,0 +1,41 @@
+{
+  "word": "outfit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cowboy outfit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58327.png",
+      "local_image_path": "images/58327.png"
+    },
+    {
+      "pos": "n",
+      "example": "military outfit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58328.png",
+      "local_image_path": "images/58328.png"
+    },
+    {
+      "pos": "tv",
+      "example": "outfit her in fine clothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58329.png",
+      "local_image_path": "images/58329.png"
+    },
+    {
+      "pos": "tv",
+      "example": "outfit an expedition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58330.png",
+      "local_image_path": "images/58330.png"
+    }
+  ],
+  "synonyms": [
+    "furnish",
+    "equip",
+    "supply",
+    "arm"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outfit.mp3",
+  "local_sound_path": "sounds/outfit.mp3"
+}

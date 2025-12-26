@@ -1,0 +1,44 @@
+{
+  "word": "burgeon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11912.png",
+      "local_image_path": "images/11912.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132066.png",
+      "local_image_path": "images/132066.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132067.png",
+      "local_image_path": "images/132067.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11913.png",
+      "local_image_path": "images/11913.png"
+    }
+  ],
+  "synonyms": [
+    "mushroom",
+    "multiply",
+    "prosper",
+    "proliferate",
+    "flourish"
+  ],
+  "antonyms": [
+    "dwindle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burgeon.mp3",
+  "local_sound_path": "sounds/burgeon.mp3"
+}

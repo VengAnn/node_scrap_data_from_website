@@ -1,0 +1,30 @@
+{
+  "word": "apostate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4995.png",
+      "local_image_path": "images/4995.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113832.png",
+      "local_image_path": "images/113832.png"
+    }
+  ],
+  "synonyms": [
+    "absconder",
+    "traitor",
+    "runaway",
+    "fugitive",
+    "renegade"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apostate.mp3",
+  "local_sound_path": "sounds/apostate.mp3"
+}

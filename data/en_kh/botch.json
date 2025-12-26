@@ -1,0 +1,33 @@
+{
+  "word": "botch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10292.png",
+      "local_image_path": "images/10292.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10291.png",
+      "local_image_path": "images/10291.png"
+    }
+  ],
+  "synonyms": [
+    "spoil",
+    "damage",
+    "fail"
+  ],
+  "antonyms": [
+    "correct"
+  ],
+  "similar_words": [
+    "botcher",
+    "botchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/botch.mp3",
+  "local_sound_path": "sounds/botch.mp3"
+}

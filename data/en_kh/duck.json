@@ -1,0 +1,62 @@
+{
+  "word": "duck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23318.png",
+      "local_image_path": "images/23318.png"
+    },
+    {
+      "pos": "n",
+      "example": "duck of the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23322.png",
+      "local_image_path": "images/23322.png"
+    },
+    {
+      "pos": "n",
+      "example": "duck in the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23323.png",
+      "local_image_path": "images/23323.png"
+    },
+    {
+      "pos": "tv",
+      "example": "duck the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23319.png",
+      "local_image_path": "images/23319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "duck a blow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23320.png",
+      "local_image_path": "images/23320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "duck him in the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23321.png",
+      "local_image_path": "images/23321.png"
+    }
+  ],
+  "synonyms": [
+    "immerse",
+    "dunk",
+    "submerge",
+    "douse",
+    "dip",
+    "plunge"
+  ],
+  "antonyms": [
+    "straighten",
+    "confront"
+  ],
+  "similar_words": [
+    "duck weed",
+    "duck-billed",
+    "duckling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duck.mp3",
+  "local_sound_path": "sounds/duck.mp3"
+}

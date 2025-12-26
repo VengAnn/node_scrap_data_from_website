@@ -1,0 +1,49 @@
+{
+  "word": "vitriol",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98342.png",
+      "local_image_path": "images/98342.png"
+    },
+    {
+      "pos": "n",
+      "example": "treat it with vitriol",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98340.png",
+      "local_image_path": "images/98340.png"
+    },
+    {
+      "pos": "n",
+      "example": "a stream of vitriol",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98341.png",
+      "local_image_path": "images/98341.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98343.png",
+      "local_image_path": "images/98343.png"
+    }
+  ],
+  "synonyms": [
+    "anger",
+    "wrath",
+    "fury",
+    "rage",
+    "temper",
+    "ire",
+    "spleen"
+  ],
+  "antonyms": [
+    "composure",
+    "love"
+  ],
+  "similar_words": [
+    "vitriolic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vitriol.mp3",
+  "local_sound_path": "sounds/vitriol.mp3"
+}

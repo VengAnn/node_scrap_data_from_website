@@ -1,0 +1,61 @@
+{
+  "word": "money",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I will save some money for my future.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110081.png",
+      "local_image_path": "images/110081.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110082.png",
+      "local_image_path": "images/110082.png"
+    },
+    {
+      "pos": "n",
+      "example": "issue money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110083.png",
+      "local_image_path": "images/110083.png"
+    }
+  ],
+  "synonyms": [
+    "wealth",
+    "capital",
+    "riches",
+    "income",
+    "wherewithal",
+    "stock",
+    "affluence",
+    "earnings",
+    "means",
+    "equities"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "money bags",
+    "money market",
+    "money of account",
+    "money order",
+    "money-belt",
+    "money-box",
+    "money-changer",
+    "money-grub",
+    "money-grubber",
+    "money-grubbing",
+    "money-lender",
+    "money-maker",
+    "money-making",
+    "money-ridder",
+    "money-spider",
+    "money-spinner",
+    "moneyed",
+    "moneyer",
+    "moneyless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/money.mp3",
+  "local_sound_path": "sounds/money.mp3"
+}

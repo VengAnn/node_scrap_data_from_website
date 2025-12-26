@@ -1,0 +1,57 @@
+{
+  "word": "invade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "invade a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41924.png",
+      "local_image_path": "images/41924.png"
+    },
+    {
+      "pos": "tv",
+      "example": "invade one's privacy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41925.png",
+      "local_image_path": "images/41925.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41926.png",
+      "local_image_path": "images/41926.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122868.png",
+      "local_image_path": "images/122868.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122869.png",
+      "local_image_path": "images/122869.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122870.png",
+      "local_image_path": "images/122870.png"
+    }
+  ],
+  "synonyms": [
+    "overrun",
+    "plague",
+    "infect",
+    "infest",
+    "colonize",
+    "parasitize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "invader"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/invade.mp3",
+  "local_sound_path": "sounds/invade.mp3"
+}

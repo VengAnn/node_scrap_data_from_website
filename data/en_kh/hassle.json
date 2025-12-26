@@ -1,0 +1,54 @@
+{
+  "word": "hassle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33998.png",
+      "local_image_path": "images/33998.png"
+    },
+    {
+      "pos": "n",
+      "example": "loud hassle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33995.png",
+      "local_image_path": "images/33995.png"
+    },
+    {
+      "pos": "n",
+      "example": "difficult hassle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33996.png",
+      "local_image_path": "images/33996.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33997.png",
+      "local_image_path": "images/33997.png"
+    }
+  ],
+  "synonyms": [
+    "bother",
+    "annoyance",
+    "irritation",
+    "aggravation",
+    "disturbance",
+    "agitation",
+    "harass",
+    "irritate",
+    "annoy",
+    "aggravate",
+    "pester",
+    "disturb",
+    "stress",
+    "agitate",
+    "badger",
+    "worry",
+    "trouble"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hassle.mp3",
+  "local_sound_path": "sounds/hassle.mp3"
+}

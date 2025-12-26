@@ -1,0 +1,31 @@
+{
+  "word": "caring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Children need a caring environment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13009.png",
+      "local_image_path": "images/13009.png"
+    }
+  ],
+  "synonyms": [
+    "kind",
+    "thoughtful",
+    "gentle",
+    "helpful",
+    "considerate",
+    "compassionate",
+    "concerned",
+    "loving",
+    "sensitive",
+    "worrying"
+  ],
+  "antonyms": [
+    "uncaring"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caring.mp3",
+  "local_sound_path": "sounds/caring.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "coma",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he was in a come for several weeks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15848.png",
+      "local_image_path": "images/15848.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15849.png",
+      "local_image_path": "images/15849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130138.png",
+      "local_image_path": "images/130138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131391.png",
+      "local_image_path": "images/131391.png"
+    }
+  ],
+  "synonyms": [
+    "unconsciousness",
+    "blackout",
+    "stupor",
+    "oblivion"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "comae",
+    "comal",
+    "comate",
+    "comatose",
+    "comatosely"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coma.mp3",
+  "local_sound_path": "sounds/coma.mp3"
+}

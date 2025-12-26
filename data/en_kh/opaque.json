@@ -1,0 +1,44 @@
+{
+  "word": "opaque",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "opaque glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57694.png",
+      "local_image_path": "images/57694.png"
+    },
+    {
+      "pos": "adj",
+      "example": "opaque treatise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57695.png",
+      "local_image_path": "images/57695.png"
+    },
+    {
+      "pos": "adj",
+      "example": "opaque person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57696.png",
+      "local_image_path": "images/57696.png"
+    }
+  ],
+  "synonyms": [
+    "obscure",
+    "unclear",
+    "dense",
+    "difficult",
+    "incomprehensible",
+    "hard",
+    "impenetrable"
+  ],
+  "antonyms": [
+    "transparent",
+    "clear"
+  ],
+  "similar_words": [
+    "opaquely",
+    "opaqueness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/opaque.mp3",
+  "local_sound_path": "sounds/opaque.mp3"
+}

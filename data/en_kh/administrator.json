@@ -1,0 +1,49 @@
+{
+  "word": "administrator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2450.png",
+      "local_image_path": "images/2450.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112059.png",
+      "local_image_path": "images/112059.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113284.png",
+      "local_image_path": "images/113284.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113285.png",
+      "local_image_path": "images/113285.png"
+    }
+  ],
+  "synonyms": [
+    "manager",
+    "superintendent",
+    "commissioner",
+    "overseer",
+    "officer",
+    "bureaucrat",
+    "supervisor",
+    "proprietor",
+    "governor",
+    "official",
+    "executive",
+    "director"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/administrator.mp3",
+  "local_sound_path": "sounds/administrator.mp3"
+}

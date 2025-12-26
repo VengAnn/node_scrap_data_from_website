@@ -1,0 +1,44 @@
+{
+  "word": "ambition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the height of ambition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3799.png",
+      "local_image_path": "images/3799.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112444.png",
+      "local_image_path": "images/112444.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112445.png",
+      "local_image_path": "images/112445.png"
+    }
+  ],
+  "synonyms": [
+    "drive",
+    "determination",
+    "motivation",
+    "goal",
+    "aim",
+    "objective",
+    "aspiration",
+    "dream",
+    "hope",
+    "desire",
+    "purpose"
+  ],
+  "antonyms": [
+    "apathy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ambition.mp3",
+  "local_sound_path": "sounds/ambition.mp3"
+}

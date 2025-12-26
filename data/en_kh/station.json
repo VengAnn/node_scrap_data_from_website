@@ -1,0 +1,56 @@
+{
+  "word": "station",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "radio station",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84423.png",
+      "local_image_path": "images/84423.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84424.png",
+      "local_image_path": "images/84424.png"
+    },
+    {
+      "pos": "n",
+      "example": "station in life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84425.png",
+      "local_image_path": "images/84425.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84426.png",
+      "local_image_path": "images/84426.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84427.png",
+      "local_image_path": "images/84427.png"
+    }
+  ],
+  "synonyms": [
+    "post",
+    "base",
+    "position",
+    "place",
+    "locate",
+    "situate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "station master",
+    "stational",
+    "stationariness",
+    "stationary",
+    "stationer",
+    "stationery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/station.mp3",
+  "local_sound_path": "sounds/station.mp3"
+}

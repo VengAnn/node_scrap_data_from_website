@@ -1,0 +1,34 @@
+{
+  "word": "coronary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "coronary attack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17772.png",
+      "local_image_path": "images/17772.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131416.png",
+      "local_image_path": "images/131416.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17773.png",
+      "local_image_path": "images/17773.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "coronary angioplasty",
+    "coronary artery disease",
+    "coronary bypass surgery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coronary.mp3",
+  "local_sound_path": "sounds/coronary.mp3"
+}

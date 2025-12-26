@@ -1,0 +1,31 @@
+{
+  "word": "cox",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18274.png",
+      "local_image_path": "images/18274.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18273.png",
+      "local_image_path": "images/18273.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "coxa",
+    "coxalgia",
+    "coxalgic",
+    "coxcomb",
+    "coxitis",
+    "coxswain"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cox.mp3",
+  "local_sound_path": "sounds/cox.mp3"
+}

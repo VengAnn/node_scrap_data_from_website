@@ -1,0 +1,57 @@
+{
+  "word": "fickle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fickle lover",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28338.png",
+      "local_image_path": "images/28338.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120091.png",
+      "local_image_path": "images/120091.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120092.png",
+      "local_image_path": "images/120092.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120093.png",
+      "local_image_path": "images/120093.png"
+    }
+  ],
+  "synonyms": [
+    "indecisive",
+    "inconsistent",
+    "changeable",
+    "capricious",
+    "vacillating",
+    "unpredictable",
+    "erratic",
+    "picky",
+    "choosy",
+    "fussy",
+    "inconstant",
+    "unfaithful",
+    "faithless",
+    "frivolous",
+    "unreliable"
+  ],
+  "antonyms": [
+    "consistent",
+    "constant"
+  ],
+  "similar_words": [
+    "fickleness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fickle.mp3",
+  "local_sound_path": "sounds/fickle.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "foray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "foray for weapon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29625.png",
+      "local_image_path": "images/29625.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a foray",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29624.png",
+      "local_image_path": "images/29624.png"
+    },
+    {
+      "pos": "tv",
+      "example": "foray a village",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29626.png",
+      "local_image_path": "images/29626.png"
+    }
+  ],
+  "synonyms": [
+    "sortie",
+    "raid",
+    "attack",
+    "venture",
+    "expedition",
+    "incursion",
+    "assault"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foray.mp3",
+  "local_sound_path": "sounds/foray.mp3"
+}

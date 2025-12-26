@@ -1,0 +1,36 @@
+{
+  "word": "gone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32266.png",
+      "local_image_path": "images/32266.png"
+    },
+    {
+      "pos": "pp",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32265.png",
+      "local_image_path": "images/32265.png"
+    }
+  ],
+  "synonyms": [
+    "dead",
+    "deceased",
+    "become",
+    "grown"
+  ],
+  "antonyms": [
+    "remaining",
+    "alive",
+    "present",
+    "lived",
+    "come",
+    "stopped"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gone.mp3",
+  "local_sound_path": "sounds/gone.mp3"
+}

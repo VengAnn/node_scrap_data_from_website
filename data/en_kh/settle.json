@@ -1,0 +1,108 @@
+{
+  "word": "settle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "settle an argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78454.png",
+      "local_image_path": "images/78454.png"
+    },
+    {
+      "pos": "tv",
+      "example": "settle debts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78455.png",
+      "local_image_path": "images/78455.png"
+    },
+    {
+      "pos": "tv",
+      "example": "settle a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78456.png",
+      "local_image_path": "images/78456.png"
+    },
+    {
+      "pos": "tv",
+      "example": "settle one's nerves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78457.png",
+      "local_image_path": "images/78457.png"
+    },
+    {
+      "pos": "tv",
+      "example": "settle an estate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78458.png",
+      "local_image_path": "images/78458.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78461.png",
+      "local_image_path": "images/78461.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127679.png",
+      "local_image_path": "images/127679.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127680.png",
+      "local_image_path": "images/127680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127681.png",
+      "local_image_path": "images/127681.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127682.png",
+      "local_image_path": "images/127682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127683.png",
+      "local_image_path": "images/127683.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78459.png",
+      "local_image_path": "images/78459.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78460.png",
+      "local_image_path": "images/78460.png"
+    }
+  ],
+  "synonyms": [
+    "sink",
+    "drop",
+    "descend",
+    "fall",
+    "lie"
+  ],
+  "antonyms": [
+    "owe",
+    "float",
+    "rise",
+    "fluster"
+  ],
+  "similar_words": [
+    "settled",
+    "settledness",
+    "settlement",
+    "settlement day",
+    "settlement duty",
+    "settler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/settle.mp3",
+  "local_sound_path": "sounds/settle.mp3"
+}

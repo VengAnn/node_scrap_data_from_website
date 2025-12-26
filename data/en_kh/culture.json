@@ -1,0 +1,63 @@
+{
+  "word": "culture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "primitive culture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19051.png",
+      "local_image_path": "images/19051.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131426.png",
+      "local_image_path": "images/131426.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131427.png",
+      "local_image_path": "images/131427.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131428.png",
+      "local_image_path": "images/131428.png"
+    },
+    {
+      "pos": "tv",
+      "example": "culture pearls",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19052.png",
+      "local_image_path": "images/19052.png"
+    },
+    {
+      "pos": "tv",
+      "example": "culture a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19053.png",
+      "local_image_path": "images/19053.png"
+    }
+  ],
+  "synonyms": [
+    "sophistication",
+    "refinement",
+    "urbanity",
+    "civilization",
+    "cultivation",
+    "polish",
+    "taste",
+    "discernment",
+    "discrimination"
+  ],
+  "antonyms": [
+    "uncouthness"
+  ],
+  "similar_words": [
+    "culture shock",
+    "cultured"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/culture.mp3",
+  "local_sound_path": "sounds/culture.mp3"
+}

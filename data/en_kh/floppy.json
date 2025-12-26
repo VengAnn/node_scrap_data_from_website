@@ -1,0 +1,23 @@
+{
+  "word": "floppy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "floppy disk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29200.png",
+      "local_image_path": "images/29200.png"
+    }
+  ],
+  "synonyms": [
+    "disk",
+    "disc"
+  ],
+  "antonyms": [
+    "firm"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/floppy.mp3",
+  "local_sound_path": "sounds/floppy.mp3"
+}

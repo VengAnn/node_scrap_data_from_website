@@ -1,0 +1,30 @@
+{
+  "word": "recitative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70803.png",
+      "local_image_path": "images/70803.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130704.png",
+      "local_image_path": "images/130704.png"
+    }
+  ],
+  "synonyms": [
+    "declamation",
+    "narrative",
+    "oratorio",
+    "opera",
+    "singing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recitative.mp3",
+  "local_sound_path": "sounds/recitative.mp3"
+}

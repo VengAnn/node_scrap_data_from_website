@@ -1,0 +1,31 @@
+{
+  "word": "bach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6928.png",
+      "local_image_path": "images/6928.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6927.png",
+      "local_image_path": "images/6927.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bacharach",
+    "bachelor",
+    "bachelorette",
+    "bachelorhood",
+    "bachelorship",
+    "bachelry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bach.mp3",
+  "local_sound_path": "sounds/bach.mp3"
+}

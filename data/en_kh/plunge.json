@@ -1,0 +1,85 @@
+{
+  "word": "plunge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64374.png",
+      "local_image_path": "images/64374.png"
+    },
+    {
+      "pos": "n",
+      "example": "plunge of a driver",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64375.png",
+      "local_image_path": "images/64375.png"
+    },
+    {
+      "pos": "n",
+      "example": "economy took a plunge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64376.png",
+      "local_image_path": "images/64376.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64369.png",
+      "local_image_path": "images/64369.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plunge a danger into him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64370.png",
+      "local_image_path": "images/64370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64371.png",
+      "local_image_path": "images/64371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64372.png",
+      "local_image_path": "images/64372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64373.png",
+      "local_image_path": "images/64373.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125642.png",
+      "local_image_path": "images/125642.png"
+    }
+  ],
+  "synonyms": [
+    "rush",
+    "jump",
+    "leap",
+    "lurch",
+    "charge",
+    "thrust",
+    "force",
+    "throw",
+    "push",
+    "pitch",
+    "sink",
+    "stab"
+  ],
+  "antonyms": [
+    "soar",
+    "climb",
+    "hesitate"
+  ],
+  "similar_words": [
+    "plunger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plunge.mp3",
+  "local_sound_path": "sounds/plunge.mp3"
+}

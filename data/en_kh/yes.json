@@ -1,0 +1,39 @@
+{
+  "word": "yes",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "Yes, I am 20 years old.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101513.png",
+      "local_image_path": "images/101513.png"
+    }
+  ],
+  "synonyms": [
+    "all right",
+    "okay",
+    "sure",
+    "agreed",
+    "affirmative",
+    "aye",
+    "nod"
+  ],
+  "antonyms": [
+    "no"
+  ],
+  "similar_words": [
+    "yesman",
+    "yester",
+    "yester night",
+    "yester-evening",
+    "yester-year",
+    "yesterday",
+    "yestereve",
+    "yestermorn",
+    "yestermorning",
+    "yestreen"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yes.mp3",
+  "local_sound_path": "sounds/yes.mp3"
+}

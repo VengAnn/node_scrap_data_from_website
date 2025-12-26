@@ -1,0 +1,73 @@
+{
+  "word": "dilute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21391.png",
+      "local_image_path": "images/21391.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118323.png",
+      "local_image_path": "images/118323.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118324.png",
+      "local_image_path": "images/118324.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21390.png",
+      "local_image_path": "images/21390.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21389.png",
+      "local_image_path": "images/21389.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118325.png",
+      "local_image_path": "images/118325.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118326.png",
+      "local_image_path": "images/118326.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118327.png",
+      "local_image_path": "images/118327.png"
+    }
+  ],
+  "synonyms": [
+    "weak",
+    "watery",
+    "insipid",
+    "reduce",
+    "attenuate",
+    "temper",
+    "mitigate",
+    "offset"
+  ],
+  "antonyms": [
+    "concentrate",
+    "increase",
+    "concentrated"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dilute.mp3",
+  "local_sound_path": "sounds/dilute.mp3"
+}

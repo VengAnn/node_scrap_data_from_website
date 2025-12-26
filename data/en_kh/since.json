@@ -1,0 +1,63 @@
+{
+  "word": "since",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80281.png",
+      "local_image_path": "images/80281.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80282.png",
+      "local_image_path": "images/80282.png"
+    },
+    {
+      "pos": "conj",
+      "example": "Since we have no money, we can't buy it.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80278.png",
+      "local_image_path": "images/80278.png"
+    },
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80279.png",
+      "local_image_path": "images/80279.png"
+    },
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130807.png",
+      "local_image_path": "images/130807.png"
+    },
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130808.png",
+      "local_image_path": "images/130808.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80280.png",
+      "local_image_path": "images/80280.png"
+    }
+  ],
+  "synonyms": [
+    "as",
+    "because",
+    "while"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sincere",
+    "sincerely",
+    "sincereness",
+    "sincerity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/since.mp3",
+  "local_sound_path": "sounds/since.mp3"
+}

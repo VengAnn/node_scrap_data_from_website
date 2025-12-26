@@ -1,0 +1,34 @@
+{
+  "word": "achievement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2012.png",
+      "local_image_path": "images/2012.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111924.png",
+      "local_image_path": "images/111924.png"
+    }
+  ],
+  "synonyms": [
+    "attainment",
+    "accomplishment",
+    "success",
+    "feat",
+    "triumph",
+    "realization",
+    "getting"
+  ],
+  "antonyms": [
+    "failure"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/achievement.mp3",
+  "local_sound_path": "sounds/achievement.mp3"
+}

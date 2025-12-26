@@ -1,0 +1,78 @@
+{
+  "word": "license",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "driver's license",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46244.png",
+      "local_image_path": "images/46244.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123497.png",
+      "local_image_path": "images/123497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123498.png",
+      "local_image_path": "images/123498.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123499.png",
+      "local_image_path": "images/123499.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123500.png",
+      "local_image_path": "images/123500.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123501.png",
+      "local_image_path": "images/123501.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46245.png",
+      "local_image_path": "images/46245.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123502.png",
+      "local_image_path": "images/123502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123503.png",
+      "local_image_path": "images/123503.png"
+    }
+  ],
+  "synonyms": [
+    "freedom",
+    "liberty",
+    "carte blanche",
+    "dispensation",
+    "authority",
+    "privilege",
+    "permission",
+    "right"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "licensee",
+    "licenser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/license.mp3",
+  "local_sound_path": "sounds/license.mp3"
+}

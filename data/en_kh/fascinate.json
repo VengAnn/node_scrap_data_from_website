@@ -1,0 +1,49 @@
+{
+  "word": "fascinate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27705.png",
+      "local_image_path": "images/27705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119928.png",
+      "local_image_path": "images/119928.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119929.png",
+      "local_image_path": "images/119929.png"
+    }
+  ],
+  "synonyms": [
+    "charm",
+    "attract",
+    "enthrall",
+    "mesmerize",
+    "captivate",
+    "interest",
+    "absorb",
+    "intrigue",
+    "appeal",
+    "beguile",
+    "allure",
+    "entice",
+    "bewitch",
+    "enchant",
+    "transfix",
+    "rivet"
+  ],
+  "antonyms": [
+    "repel"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fascinate.mp3",
+  "local_sound_path": "sounds/fascinate.mp3"
+}

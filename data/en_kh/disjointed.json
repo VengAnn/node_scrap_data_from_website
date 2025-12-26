@@ -1,0 +1,36 @@
+{
+  "word": "disjointed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21957.png",
+      "local_image_path": "images/21957.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118529.png",
+      "local_image_path": "images/118529.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118530.png",
+      "local_image_path": "images/118530.png"
+    }
+  ],
+  "synonyms": [
+    "rambling",
+    "incoherent",
+    "disorderly"
+  ],
+  "antonyms": [
+    "coherent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disjointed.mp3",
+  "local_sound_path": "sounds/disjointed.mp3"
+}

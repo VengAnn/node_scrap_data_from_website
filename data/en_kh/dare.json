@@ -1,0 +1,43 @@
+{
+  "word": "dare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19632.png",
+      "local_image_path": "images/19632.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19630.png",
+      "local_image_path": "images/19630.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19631.png",
+      "local_image_path": "images/19631.png"
+    }
+  ],
+  "synonyms": [
+    "taunt",
+    "challenge",
+    "provocation",
+    "ultimatum",
+    "defy",
+    "provoke",
+    "goad",
+    "urge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "daredevil",
+    "daredevilry",
+    "daredevilty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dare.mp3",
+  "local_sound_path": "sounds/dare.mp3"
+}

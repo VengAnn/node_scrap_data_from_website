@@ -1,0 +1,65 @@
+{
+  "word": "character",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he's a man of strong character",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13842.png",
+      "local_image_path": "images/13842.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116177.png",
+      "local_image_path": "images/116177.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116178.png",
+      "local_image_path": "images/116178.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116179.png",
+      "local_image_path": "images/116179.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116180.png",
+      "local_image_path": "images/116180.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116181.png",
+      "local_image_path": "images/116181.png"
+    }
+  ],
+  "synonyms": [
+    "eccentric",
+    "oddball",
+    "personality",
+    "nature",
+    "quality",
+    "temperament",
+    "disposition",
+    "spirit",
+    "make-up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "characterisation",
+    "characteristic",
+    "characteristically",
+    "characterize",
+    "characterizer",
+    "charactery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/character.mp3",
+  "local_sound_path": "sounds/character.mp3"
+}

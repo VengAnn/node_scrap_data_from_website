@@ -1,0 +1,40 @@
+{
+  "word": "scholarly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "scholarly book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76658.png",
+      "local_image_path": "images/76658.png"
+    },
+    {
+      "pos": "adj",
+      "example": "scholarly pursuits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76659.png",
+      "local_image_path": "images/76659.png"
+    }
+  ],
+  "synonyms": [
+    "learned",
+    "academic",
+    "erudite",
+    "intellectual",
+    "educated",
+    "studious",
+    "bookish",
+    "cerebral",
+    "learnt",
+    "knowledgeable",
+    "well-read",
+    "highbrow",
+    "donnish"
+  ],
+  "antonyms": [
+    "lowbrow"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scholarly.mp3",
+  "local_sound_path": "sounds/scholarly.mp3"
+}

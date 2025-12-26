@@ -1,0 +1,28 @@
+{
+  "word": "divergence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22416.png",
+      "local_image_path": "images/22416.png"
+    }
+  ],
+  "synonyms": [
+    "difference",
+    "disagreement",
+    "variance",
+    "conflict",
+    "nonconformity"
+  ],
+  "antonyms": [
+    "convergence",
+    "concurrence",
+    "agreement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divergence.mp3",
+  "local_sound_path": "sounds/divergence.mp3"
+}

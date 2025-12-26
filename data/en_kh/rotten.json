@@ -1,0 +1,52 @@
+{
+  "word": "rotten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rotten apples",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74259.png",
+      "local_image_path": "images/74259.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rotten character",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74260.png",
+      "local_image_path": "images/74260.png"
+    },
+    {
+      "pos": "sl",
+      "example": "feel rotten",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74261.png",
+      "local_image_path": "images/74261.png"
+    }
+  ],
+  "synonyms": [
+    "awful",
+    "bad",
+    "terrible",
+    "nasty",
+    "terribly",
+    "unduly",
+    "excessively",
+    "overly",
+    "outrageously",
+    "dreadfully"
+  ],
+  "antonyms": [
+    "fresh",
+    "pleasant",
+    "good",
+    "happy",
+    "fine",
+    "slightly"
+  ],
+  "similar_words": [
+    "rottenly",
+    "rottenness",
+    "rottenstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rotten.mp3",
+  "local_sound_path": "sounds/rotten.mp3"
+}

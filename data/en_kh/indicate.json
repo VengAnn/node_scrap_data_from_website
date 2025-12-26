@@ -1,0 +1,64 @@
+{
+  "word": "indicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39021.png",
+      "local_image_path": "images/39021.png"
+    },
+    {
+      "pos": "tv",
+      "example": "indicate the right man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39022.png",
+      "local_image_path": "images/39022.png"
+    },
+    {
+      "pos": "tv",
+      "example": "indicate his willingness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39023.png",
+      "local_image_path": "images/39023.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122148.png",
+      "local_image_path": "images/122148.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122149.png",
+      "local_image_path": "images/122149.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122150.png",
+      "local_image_path": "images/122150.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122151.png",
+      "local_image_path": "images/122151.png"
+    }
+  ],
+  "synonyms": [
+    "signify",
+    "denote",
+    "imply",
+    "suggest",
+    "reveal",
+    "show",
+    "signal",
+    "wink",
+    "flash"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indicate.mp3",
+  "local_sound_path": "sounds/indicate.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "dribble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23129.png",
+      "local_image_path": "images/23129.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23128.png",
+      "local_image_path": "images/23128.png"
+    }
+  ],
+  "synonyms": [
+    "drool",
+    "salivate",
+    "slobber",
+    "slaver",
+    "trickle",
+    "drip",
+    "ooze",
+    "seep",
+    "leak",
+    "drop"
+  ],
+  "antonyms": [
+    "flood",
+    "gush"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dribble.mp3",
+  "local_sound_path": "sounds/dribble.mp3"
+}

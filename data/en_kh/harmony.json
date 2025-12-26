@@ -1,0 +1,46 @@
+{
+  "word": "harmony",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33937.png",
+      "local_image_path": "images/33937.png"
+    },
+    {
+      "pos": "n",
+      "example": "harmony of views",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33938.png",
+      "local_image_path": "images/33938.png"
+    },
+    {
+      "pos": "n",
+      "example": "harmony of tones",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33939.png",
+      "local_image_path": "images/33939.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33940.png",
+      "local_image_path": "images/33940.png"
+    }
+  ],
+  "synonyms": [
+    "agreement",
+    "accord",
+    "concord",
+    "synchronization",
+    "congruence",
+    "coordination",
+    "coherence"
+  ],
+  "antonyms": [
+    "discord"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harmony.mp3",
+  "local_sound_path": "sounds/harmony.mp3"
+}

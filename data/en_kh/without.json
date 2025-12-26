@@ -1,0 +1,29 @@
+{
+  "word": "without",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "prep",
+      "example": "without food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100650.png",
+      "local_image_path": "images/100650.png"
+    },
+    {
+      "pos": "prep",
+      "example": "leave without eating",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100651.png",
+      "local_image_path": "images/100651.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "with"
+  ],
+  "similar_words": [
+    "without doors",
+    "withoutside"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/without.mp3",
+  "local_sound_path": "sounds/without.mp3"
+}

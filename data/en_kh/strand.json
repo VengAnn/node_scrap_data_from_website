@@ -1,0 +1,49 @@
+{
+  "word": "strand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "strand of hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85206.png",
+      "local_image_path": "images/85206.png"
+    },
+    {
+      "pos": "n",
+      "example": "strand of beads",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85207.png",
+      "local_image_path": "images/85207.png"
+    },
+    {
+      "pos": "n",
+      "example": "rope made of strand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85208.png",
+      "local_image_path": "images/85208.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strand a boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85209.png",
+      "local_image_path": "images/85209.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strand passengers in Chicago",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85210.png",
+      "local_image_path": "images/85210.png"
+    }
+  ],
+  "synonyms": [
+    "maroon",
+    "trap",
+    "abandon",
+    "leave"
+  ],
+  "antonyms": [
+    "rescue"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strand.mp3",
+  "local_sound_path": "sounds/strand.mp3"
+}

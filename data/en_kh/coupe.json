@@ -1,0 +1,33 @@
+{
+  "word": "coupe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18155.png",
+      "local_image_path": "images/18155.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18156.png",
+      "local_image_path": "images/18156.png"
+    }
+  ],
+  "synonyms": [
+    "car",
+    "auto",
+    "vehicle",
+    "van",
+    "sedan",
+    "sports car",
+    "motor",
+    "saloon"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coupe.mp3",
+  "local_sound_path": "sounds/coupe.mp3"
+}

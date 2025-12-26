@@ -1,0 +1,51 @@
+{
+  "word": "amaze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3759.png",
+      "local_image_path": "images/3759.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112435.png",
+      "local_image_path": "images/112435.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112436.png",
+      "local_image_path": "images/112436.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112437.png",
+      "local_image_path": "images/112437.png"
+    }
+  ],
+  "synonyms": [
+    "astonish",
+    "astound",
+    "shock",
+    "stun",
+    "startle",
+    "surprise",
+    "flabbergast",
+    "dumbfound",
+    "stagger"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "amazed",
+    "amazedly",
+    "amazement",
+    "amazeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amaze.mp3",
+  "local_sound_path": "sounds/amaze.mp3"
+}

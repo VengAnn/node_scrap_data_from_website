@@ -1,0 +1,119 @@
+{
+  "word": "test",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "chemical test",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88489.png",
+      "local_image_path": "images/88489.png"
+    },
+    {
+      "pos": "n",
+      "example": "How about your the result of your test?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88490.png",
+      "local_image_path": "images/88490.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88494.png",
+      "local_image_path": "images/88494.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128174.png",
+      "local_image_path": "images/128174.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128175.png",
+      "local_image_path": "images/128175.png"
+    },
+    {
+      "pos": "tv",
+      "example": "test students",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88491.png",
+      "local_image_path": "images/88491.png"
+    },
+    {
+      "pos": "tv",
+      "example": "test the courage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88492.png",
+      "local_image_path": "images/88492.png"
+    },
+    {
+      "pos": "tv",
+      "example": "test the soil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88493.png",
+      "local_image_path": "images/88493.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128176.png",
+      "local_image_path": "images/128176.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128177.png",
+      "local_image_path": "images/128177.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128178.png",
+      "local_image_path": "images/128178.png"
+    },
+    {
+      "pos": "v",
+      "example": "This is a test.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111654.png",
+      "local_image_path": "images/111654.png"
+    }
+  ],
+  "synonyms": [
+    "try",
+    "investigate",
+    "check",
+    "analyze",
+    "examine",
+    "experiment",
+    "assess",
+    "quiz",
+    "scan"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "test case",
+    "test drive",
+    "test match",
+    "test pilot",
+    "test tube baby",
+    "test-tube",
+    "test1",
+    "testa",
+    "testable",
+    "testacean",
+    "testaceous",
+    "testacy",
+    "testament",
+    "testamental",
+    "testamentary",
+    "testamentary succession",
+    "testamentation",
+    "testas",
+    "testate",
+    "testation",
+    "testator",
+    "testatrix",
+    "tester",
+    "testicle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/test.mp3",
+  "local_sound_path": "sounds/test.mp3"
+}

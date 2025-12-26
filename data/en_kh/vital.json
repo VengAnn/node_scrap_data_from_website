@@ -1,0 +1,49 @@
+{
+  "word": "vital",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "vital organs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98298.png",
+      "local_image_path": "images/98298.png"
+    },
+    {
+      "pos": "adj",
+      "example": "vital to our success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98299.png",
+      "local_image_path": "images/98299.png"
+    },
+    {
+      "pos": "adj",
+      "example": "vital wound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98300.png",
+      "local_image_path": "images/98300.png"
+    }
+  ],
+  "synonyms": [
+    "fundamental",
+    "imperative",
+    "essential",
+    "critical",
+    "crucial",
+    "central",
+    "necessary",
+    "important"
+  ],
+  "antonyms": [
+    "unimportant",
+    "lifeless"
+  ],
+  "similar_words": [
+    "vital statistics",
+    "vitalism",
+    "vitality",
+    "vitalize",
+    "vitally",
+    "vitals"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vital.mp3",
+  "local_sound_path": "sounds/vital.mp3"
+}

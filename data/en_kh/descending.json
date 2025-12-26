@@ -1,0 +1,37 @@
+{
+  "word": "descending",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20797.png",
+      "local_image_path": "images/20797.png"
+    },
+    {
+      "pos": "adj",
+      "example": "descending order of size",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20798.png",
+      "local_image_path": "images/20798.png"
+    }
+  ],
+  "synonyms": [
+    "downward",
+    "down",
+    "downhill",
+    "sliding",
+    "stooping",
+    "sinking",
+    "falling"
+  ],
+  "antonyms": [
+    "upward",
+    "ascendant",
+    "ascending",
+    "rising"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/descending.mp3",
+  "local_sound_path": "sounds/descending.mp3"
+}

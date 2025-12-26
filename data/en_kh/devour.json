@@ -1,0 +1,37 @@
+{
+  "word": "devour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "devour food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21125.png",
+      "local_image_path": "images/21125.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fires devour the forest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21126.png",
+      "local_image_path": "images/21126.png"
+    },
+    {
+      "pos": "tv",
+      "example": "be devoured by sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21127.png",
+      "local_image_path": "images/21127.png"
+    }
+  ],
+  "synonyms": [
+    "overwhelm",
+    "overcome",
+    "engulf",
+    "consume",
+    "obsess",
+    "demolish"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devour.mp3",
+  "local_sound_path": "sounds/devour.mp3"
+}

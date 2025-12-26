@@ -1,0 +1,38 @@
+{
+  "word": "evolve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26286.png",
+      "local_image_path": "images/26286.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The American constitution was planned, the British constitution \n\nevolved.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26287.png",
+      "local_image_path": "images/26287.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119516.png",
+      "local_image_path": "images/119516.png"
+    }
+  ],
+  "synonyms": [
+    "develop",
+    "change",
+    "grow",
+    "progress",
+    "advance"
+  ],
+  "antonyms": [
+    "regress"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/evolve.mp3",
+  "local_sound_path": "sounds/evolve.mp3"
+}

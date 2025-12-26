@@ -1,0 +1,76 @@
+{
+  "word": "force",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take by force",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29638.png",
+      "local_image_path": "images/29638.png"
+    },
+    {
+      "pos": "n",
+      "example": "military force",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29639.png",
+      "local_image_path": "images/29639.png"
+    },
+    {
+      "pos": "n",
+      "example": "force of a argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29640.png",
+      "local_image_path": "images/29640.png"
+    },
+    {
+      "pos": "n",
+      "example": "force of character",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29641.png",
+      "local_image_path": "images/29641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "force him to confess",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29642.png",
+      "local_image_path": "images/29642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "force a smile",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29643.png",
+      "local_image_path": "images/29643.png"
+    }
+  ],
+  "synonyms": [
+    "influence",
+    "weight",
+    "power",
+    "strength",
+    "intensity",
+    "cogency",
+    "push",
+    "press",
+    "shove",
+    "prize",
+    "pry"
+  ],
+  "antonyms": [
+    "weakness"
+  ],
+  "similar_words": [
+    "force majeure",
+    "force up",
+    "force-down",
+    "force-feed",
+    "forceable",
+    "forced",
+    "forceful",
+    "forcefully",
+    "forcefulness",
+    "forcemeat",
+    "forceps",
+    "forcer",
+    "forces"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/force.mp3",
+  "local_sound_path": "sounds/force.mp3"
+}

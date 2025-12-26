@@ -1,0 +1,34 @@
+{
+  "word": "connotation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16907.png",
+      "local_image_path": "images/16907.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16911.png",
+      "local_image_path": "images/16911.png"
+    }
+  ],
+  "synonyms": [
+    "nuance",
+    "suggestion",
+    "implication",
+    "undertone",
+    "association",
+    "overtone",
+    "meaning",
+    "inference",
+    "reference"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/connotation.mp3",
+  "local_sound_path": "sounds/connotation.mp3"
+}

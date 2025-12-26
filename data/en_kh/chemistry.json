@@ -1,0 +1,32 @@
+{
+  "word": "chemistry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14062.png",
+      "local_image_path": "images/14062.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131684.png",
+      "local_image_path": "images/131684.png"
+    }
+  ],
+  "synonyms": [
+    "interaction",
+    "attraction",
+    "understanding",
+    "empathy",
+    "harmony",
+    "sympathy",
+    "vibes"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chemistry.mp3",
+  "local_sound_path": "sounds/chemistry.mp3"
+}

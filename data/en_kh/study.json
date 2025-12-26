@@ -1,0 +1,56 @@
+{
+  "word": "study",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85572.png",
+      "local_image_path": "images/85572.png"
+    },
+    {
+      "pos": "n",
+      "example": "How about your study for this year?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85573.png",
+      "local_image_path": "images/85573.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I am studying English",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85570.png",
+      "local_image_path": "images/85570.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85571.png",
+      "local_image_path": "images/85571.png"
+    }
+  ],
+  "synonyms": [
+    "report",
+    "review",
+    "analysis",
+    "survey",
+    "inquiry",
+    "examine",
+    "consider",
+    "scrutinize",
+    "experiment",
+    "investigate",
+    "research",
+    "analyze",
+    "explore",
+    "probe"
+  ],
+  "antonyms": [
+    "forget"
+  ],
+  "similar_words": [
+    "study group",
+    "study tour"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/study.mp3",
+  "local_sound_path": "sounds/study.mp3"
+}

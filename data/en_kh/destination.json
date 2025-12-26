@@ -1,0 +1,26 @@
+{
+  "word": "destination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Tokyo was our final destination.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20933.png",
+      "local_image_path": "images/20933.png"
+    }
+  ],
+  "synonyms": [
+    "purpose",
+    "end",
+    "target",
+    "aim",
+    "goal",
+    "objective",
+    "intention"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/destination.mp3",
+  "local_sound_path": "sounds/destination.mp3"
+}

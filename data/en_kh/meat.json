@@ -1,0 +1,43 @@
+{
+  "word": "meat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107105.png",
+      "local_image_path": "images/107105.png"
+    }
+  ],
+  "synonyms": [
+    "essence",
+    "core",
+    "nub",
+    "substance",
+    "beef",
+    "pork",
+    "lamb",
+    "mutton",
+    "chicken",
+    "ham",
+    "veal"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "meat space",
+    "meat-safe",
+    "meatal",
+    "meatball",
+    "meatbird",
+    "meatcutter",
+    "meatiness",
+    "meatless",
+    "meatman",
+    "meatus",
+    "meatworks",
+    "meaty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meat.mp3",
+  "local_sound_path": "sounds/meat.mp3"
+}

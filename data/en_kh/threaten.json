@@ -1,0 +1,32 @@
+{
+  "word": "threaten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "They threatened revenge.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89101.png",
+      "local_image_path": "images/89101.png"
+    }
+  ],
+  "synonyms": [
+    "endanger",
+    "jeopardize",
+    "imperil",
+    "menace",
+    "compromise",
+    "cloud"
+  ],
+  "antonyms": [
+    "protect",
+    "guard",
+    "reassure"
+  ],
+  "similar_words": [
+    "threatener",
+    "threateningly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/threaten.mp3",
+  "local_sound_path": "sounds/threaten.mp3"
+}

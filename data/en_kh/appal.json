@@ -1,0 +1,34 @@
+{
+  "word": "appal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5015.png",
+      "local_image_path": "images/5015.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113836.png",
+      "local_image_path": "images/113836.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113837.png",
+      "local_image_path": "images/113837.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "appalling",
+    "appallingly",
+    "appaloosa"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appal.mp3",
+  "local_sound_path": "sounds/appal.mp3"
+}

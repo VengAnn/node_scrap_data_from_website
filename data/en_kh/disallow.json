@@ -1,0 +1,50 @@
+{
+  "word": "disallow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21571.png",
+      "local_image_path": "images/21571.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118368.png",
+      "local_image_path": "images/118368.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118369.png",
+      "local_image_path": "images/118369.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118370.png",
+      "local_image_path": "images/118370.png"
+    }
+  ],
+  "synonyms": [
+    "reject",
+    "refuse",
+    "deny",
+    "negate",
+    "disapprove",
+    "turn down",
+    "throw"
+  ],
+  "antonyms": [
+    "allow",
+    "pass"
+  ],
+  "similar_words": [
+    "disallowable",
+    "disallowance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disallow.mp3",
+  "local_sound_path": "sounds/disallow.mp3"
+}

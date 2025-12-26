@@ -1,0 +1,51 @@
+{
+  "word": "chamber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "chamber of commerce",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13748.png",
+      "local_image_path": "images/13748.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116142.png",
+      "local_image_path": "images/116142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116143.png",
+      "local_image_path": "images/116143.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116144.png",
+      "local_image_path": "images/116144.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116145.png",
+      "local_image_path": "images/116145.png"
+    }
+  ],
+  "synonyms": [
+    "cavity",
+    "hollow",
+    "compartment",
+    "hall"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chamber-pot",
+    "chamberlain",
+    "chambermaid"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chamber.mp3",
+  "local_sound_path": "sounds/chamber.mp3"
+}

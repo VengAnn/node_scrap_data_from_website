@@ -1,0 +1,38 @@
+{
+  "word": "inflammable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39713.png",
+      "local_image_path": "images/39713.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inflammable material",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39714.png",
+      "local_image_path": "images/39714.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inflammable emotions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39715.png",
+      "local_image_path": "images/39715.png"
+    }
+  ],
+  "synonyms": [
+    "flammable",
+    "combustible",
+    "ignitable",
+    "burnable",
+    "incendiary"
+  ],
+  "antonyms": [
+    "nonflammable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inflammable.mp3",
+  "local_sound_path": "sounds/inflammable.mp3"
+}

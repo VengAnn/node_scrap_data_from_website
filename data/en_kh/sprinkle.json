@@ -1,0 +1,58 @@
+{
+  "word": "sprinkle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "water sprinkle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83780.png",
+      "local_image_path": "images/83780.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83781.png",
+      "local_image_path": "images/83781.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83782.png",
+      "local_image_path": "images/83782.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sprinkle pepper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83778.png",
+      "local_image_path": "images/83778.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sprinkle clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83779.png",
+      "local_image_path": "images/83779.png"
+    }
+  ],
+  "synonyms": [
+    "dash",
+    "shake",
+    "smidgen",
+    "pinch",
+    "bit",
+    "touch",
+    "sprinkling",
+    "dust",
+    "drop",
+    "spray",
+    "shower",
+    "add",
+    "scatter",
+    "drizzle",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sprinkle.mp3",
+  "local_sound_path": "sounds/sprinkle.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "comedian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15889.png",
+      "local_image_path": "images/15889.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116737.png",
+      "local_image_path": "images/116737.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116738.png",
+      "local_image_path": "images/116738.png"
+    }
+  ],
+  "synonyms": [
+    "comic",
+    "stand-up",
+    "clown",
+    "humorist",
+    "wit",
+    "joker",
+    "jester"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comedian.mp3",
+  "local_sound_path": "sounds/comedian.mp3"
+}

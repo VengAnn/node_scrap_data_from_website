@@ -1,0 +1,80 @@
+{
+  "word": "decline",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "prices decline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20005.png",
+      "local_image_path": "images/20005.png"
+    },
+    {
+      "pos": "n",
+      "example": "decline in price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20006.png",
+      "local_image_path": "images/20006.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She decline to go to U.S.A with me next year.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20002.png",
+      "local_image_path": "images/20002.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20003.png",
+      "local_image_path": "images/20003.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20004.png",
+      "local_image_path": "images/20004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117846.png",
+      "local_image_path": "images/117846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117847.png",
+      "local_image_path": "images/117847.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117848.png",
+      "local_image_path": "images/117848.png"
+    }
+  ],
+  "synonyms": [
+    "failure",
+    "deterioration",
+    "decay",
+    "waning",
+    "drop",
+    "degeneration",
+    "regression",
+    "refuse",
+    "reject",
+    "demur",
+    "eschew",
+    "spurn",
+    "turn down"
+  ],
+  "antonyms": [
+    "accept",
+    "grow",
+    "improve",
+    "growth",
+    "improvement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decline.mp3",
+  "local_sound_path": "sounds/decline.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "chargeable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "you must be chargeable to this girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13856.png",
+      "local_image_path": "images/13856.png"
+    },
+    {
+      "pos": "adj",
+      "example": "chargeable battery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13857.png",
+      "local_image_path": "images/13857.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116199.png",
+      "local_image_path": "images/116199.png"
+    }
+  ],
+  "synonyms": [
+    "punishable",
+    "criminal",
+    "trial",
+    "serious",
+    "taxable",
+    "declarable",
+    "dutiable"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chargeable.mp3",
+  "local_sound_path": "sounds/chargeable.mp3"
+}

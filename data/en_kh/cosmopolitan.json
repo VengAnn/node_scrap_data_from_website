@@ -1,0 +1,40 @@
+{
+  "word": "cosmopolitan",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cosmopolitan ideas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17939.png",
+      "local_image_path": "images/17939.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117635.png",
+      "local_image_path": "images/117635.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17940.png",
+      "local_image_path": "images/17940.png"
+    }
+  ],
+  "synonyms": [
+    "international",
+    "multinational",
+    "mixed",
+    "sophisticated",
+    "multiethnic",
+    "mixt"
+  ],
+  "antonyms": [
+    "insular",
+    "provincial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cosmopolitan.mp3",
+  "local_sound_path": "sounds/cosmopolitan.mp3"
+}

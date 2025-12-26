@@ -1,0 +1,29 @@
+{
+  "word": "disobedient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I was very disobedient towards my father.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21995.png",
+      "local_image_path": "images/21995.png"
+    }
+  ],
+  "synonyms": [
+    "defiant",
+    "noncompliant",
+    "rebellious",
+    "insubordinate",
+    "naughty",
+    "wayward"
+  ],
+  "antonyms": [
+    "obedient"
+  ],
+  "similar_words": [
+    "disobediently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disobedient.mp3",
+  "local_sound_path": "sounds/disobedient.mp3"
+}

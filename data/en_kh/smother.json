@@ -1,0 +1,64 @@
+{
+  "word": "smother",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81835.png",
+      "local_image_path": "images/81835.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128022.png",
+      "local_image_path": "images/128022.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128023.png",
+      "local_image_path": "images/128023.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81831.png",
+      "local_image_path": "images/81831.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smother a fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81832.png",
+      "local_image_path": "images/81832.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smother a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81833.png",
+      "local_image_path": "images/81833.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smother a scandal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81834.png",
+      "local_image_path": "images/81834.png"
+    }
+  ],
+  "synonyms": [
+    "stifle",
+    "repress",
+    "suppress",
+    "restrain",
+    "check",
+    "conceal",
+    "hide"
+  ],
+  "antonyms": [
+    "express"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/smother.mp3",
+  "local_sound_path": "sounds/smother.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "skirt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "woman's skirt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80820.png",
+      "local_image_path": "images/80820.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80821.png",
+      "local_image_path": "images/80821.png"
+    },
+    {
+      "pos": "n",
+      "example": "on the skirts of the town",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80822.png",
+      "local_image_path": "images/80822.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80823.png",
+      "local_image_path": "images/80823.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80819.png",
+      "local_image_path": "images/80819.png"
+    }
+  ],
+  "synonyms": [
+    "evade",
+    "avoid",
+    "dodge"
+  ],
+  "antonyms": [
+    "address",
+    "tackle"
+  ],
+  "similar_words": [
+    "skirt-board",
+    "skirt-cloth",
+    "skirt-dance",
+    "skirt-dancer",
+    "skirt-dancing",
+    "skirting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skirt.mp3",
+  "local_sound_path": "sounds/skirt.mp3"
+}

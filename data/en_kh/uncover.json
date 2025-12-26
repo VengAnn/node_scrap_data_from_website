@@ -1,0 +1,40 @@
+{
+  "word": "uncover",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93848.png",
+      "local_image_path": "images/93848.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93846.png",
+      "local_image_path": "images/93846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "uncover a plot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93847.png",
+      "local_image_path": "images/93847.png"
+    }
+  ],
+  "synonyms": [
+    "expose",
+    "discover",
+    "reveal",
+    "unearth",
+    "bare",
+    "find",
+    "disclose"
+  ],
+  "antonyms": [
+    "conceal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uncover.mp3",
+  "local_sound_path": "sounds/uncover.mp3"
+}

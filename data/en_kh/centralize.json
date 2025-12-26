@@ -1,0 +1,33 @@
+{
+  "word": "centralize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13588.png",
+      "local_image_path": "images/13588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116107.png",
+      "local_image_path": "images/116107.png"
+    }
+  ],
+  "synonyms": [
+    "unify",
+    "consolidate",
+    "integrate",
+    "compact",
+    "concentrate",
+    "merge"
+  ],
+  "antonyms": [
+    "decentralize"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/centralize.mp3",
+  "local_sound_path": "sounds/centralize.mp3"
+}

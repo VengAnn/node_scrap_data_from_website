@@ -1,0 +1,42 @@
+{
+  "word": "quench",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "quench a fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69508.png",
+      "local_image_path": "images/69508.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69509.png",
+      "local_image_path": "images/69509.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69510.png",
+      "local_image_path": "images/69510.png"
+    }
+  ],
+  "synonyms": [
+    "extinguish",
+    "douse",
+    "smother",
+    "stifle"
+  ],
+  "antonyms": [
+    "stimulate",
+    "ignite"
+  ],
+  "similar_words": [
+    "quenchable",
+    "quencher",
+    "quenchless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quench.mp3",
+  "local_sound_path": "sounds/quench.mp3"
+}

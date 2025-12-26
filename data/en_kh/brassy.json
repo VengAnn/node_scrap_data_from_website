@@ -1,0 +1,40 @@
+{
+  "word": "brassy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10725.png",
+      "local_image_path": "images/10725.png"
+    },
+    {
+      "pos": "adj",
+      "example": "brassy personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10726.png",
+      "local_image_path": "images/10726.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115549.png",
+      "local_image_path": "images/115549.png"
+    }
+  ],
+  "synonyms": [
+    "insolent",
+    "impudent",
+    "lippy",
+    "rude"
+  ],
+  "antonyms": [
+    "soft",
+    "tasteful",
+    "well-mannered",
+    "self-effacing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brassy.mp3",
+  "local_sound_path": "sounds/brassy.mp3"
+}

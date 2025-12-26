@@ -1,0 +1,30 @@
+{
+  "word": "meaningless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107066.png",
+      "local_image_path": "images/107066.png"
+    }
+  ],
+  "synonyms": [
+    "insignificant",
+    "unimportant",
+    "inconsequential",
+    "irrelevant",
+    "trivial"
+  ],
+  "antonyms": [
+    "meaningful",
+    "significant"
+  ],
+  "similar_words": [
+    "meaninglessly",
+    "meaninglessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meaningless.mp3",
+  "local_sound_path": "sounds/meaningless.mp3"
+}

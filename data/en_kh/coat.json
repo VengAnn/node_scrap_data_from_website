@@ -1,0 +1,49 @@
+{
+  "word": "coat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "do you see my coat?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15296.png",
+      "local_image_path": "images/15296.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15297.png",
+      "local_image_path": "images/15297.png"
+    }
+  ],
+  "synonyms": [
+    "coating",
+    "layer",
+    "covering",
+    "veneer",
+    "glaze",
+    "undercoat",
+    "cover",
+    "paint",
+    "smother",
+    "dip",
+    "smear",
+    "spread",
+    "conceal",
+    "hide",
+    "varnish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coat of arms",
+    "coat wards",
+    "coati",
+    "coating",
+    "coattail",
+    "coatward",
+    "coatwise",
+    "coatwises"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coat.mp3",
+  "local_sound_path": "sounds/coat.mp3"
+}

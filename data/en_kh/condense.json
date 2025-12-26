@@ -1,0 +1,61 @@
+{
+  "word": "condense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16545.png",
+      "local_image_path": "images/16545.png"
+    },
+    {
+      "pos": "tv",
+      "example": "condense gas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16544.png",
+      "local_image_path": "images/16544.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117109.png",
+      "local_image_path": "images/117109.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117110.png",
+      "local_image_path": "images/117110.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117111.png",
+      "local_image_path": "images/117111.png"
+    }
+  ],
+  "synonyms": [
+    "abbreviate",
+    "shorten",
+    "abridge",
+    "shrink",
+    "summarize",
+    "reduce",
+    "precis",
+    "concentrate",
+    "compress",
+    "compact",
+    "squeeze",
+    "consolidate"
+  ],
+  "antonyms": [
+    "extend",
+    "expand"
+  ],
+  "similar_words": [
+    "condense milk",
+    "condenser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/condense.mp3",
+  "local_sound_path": "sounds/condense.mp3"
+}

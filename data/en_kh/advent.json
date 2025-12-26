@@ -1,0 +1,46 @@
+{
+  "word": "advent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2559.png",
+      "local_image_path": "images/2559.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113328.png",
+      "local_image_path": "images/113328.png"
+    }
+  ],
+  "synonyms": [
+    "arrival",
+    "start",
+    "beginning",
+    "dawn",
+    "initiation",
+    "introduction"
+  ],
+  "antonyms": [
+    "departure"
+  ],
+  "similar_words": [
+    "adventitous",
+    "adventitously",
+    "adventitousness",
+    "adventive",
+    "adventure",
+    "adventure playground",
+    "adventurer",
+    "adventuresome",
+    "adventuress",
+    "adventurous",
+    "adventurously",
+    "adventurousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advent.mp3",
+  "local_sound_path": "sounds/advent.mp3"
+}

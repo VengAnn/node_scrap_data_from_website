@@ -1,0 +1,50 @@
+{
+  "word": "clobber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15080.png",
+      "local_image_path": "images/15080.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the police clobbers drunken drivers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15079.png",
+      "local_image_path": "images/15079.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116498.png",
+      "local_image_path": "images/116498.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116499.png",
+      "local_image_path": "images/116499.png"
+    }
+  ],
+  "synonyms": [
+    "clothes",
+    "gear",
+    "outfit",
+    "clothing",
+    "hit",
+    "bash",
+    "thump",
+    "beat",
+    "strike",
+    "drub",
+    "punch",
+    "clock",
+    "belt"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clobber.mp3",
+  "local_sound_path": "sounds/clobber.mp3"
+}

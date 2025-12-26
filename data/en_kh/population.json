@@ -1,0 +1,33 @@
+{
+  "word": "population",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is the population?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65190.png",
+      "local_image_path": "images/65190.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131853.png",
+      "local_image_path": "images/131853.png"
+    }
+  ],
+  "synonyms": [
+    "populace",
+    "people"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "population biology",
+    "population dynamics",
+    "population ecology",
+    "population explosion",
+    "population genetics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/population.mp3",
+  "local_sound_path": "sounds/population.mp3"
+}

@@ -1,0 +1,120 @@
+{
+  "word": "dark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dark night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19641.png",
+      "local_image_path": "images/19641.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dark purpose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19642.png",
+      "local_image_path": "images/19642.png"
+    },
+    {
+      "pos": "adj",
+      "example": "in a dark mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19643.png",
+      "local_image_path": "images/19643.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19644.png",
+      "local_image_path": "images/19644.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117698.png",
+      "local_image_path": "images/117698.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117699.png",
+      "local_image_path": "images/117699.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117700.png",
+      "local_image_path": "images/117700.png"
+    },
+    {
+      "pos": "idm",
+      "example": "in the dark about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19647.png",
+      "local_image_path": "images/19647.png"
+    },
+    {
+      "pos": "n",
+      "example": "dark horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19645.png",
+      "local_image_path": "images/19645.png"
+    },
+    {
+      "pos": "n",
+      "example": "afraid of the dark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19646.png",
+      "local_image_path": "images/19646.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117701.png",
+      "local_image_path": "images/117701.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117702.png",
+      "local_image_path": "images/117702.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117703.png",
+      "local_image_path": "images/117703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19648.png",
+      "local_image_path": "images/19648.png"
+    }
+  ],
+  "synonyms": [
+    "night",
+    "darkness",
+    "dusk",
+    "gloom",
+    "dimness",
+    "shade",
+    "obscurity",
+    "blackness",
+    "nighttime"
+  ],
+  "antonyms": [
+    "bright",
+    "cheery",
+    "fair",
+    "light",
+    "good"
+  ],
+  "similar_words": [
+    "darken",
+    "darkhorse",
+    "darkish",
+    "darkly",
+    "darkness",
+    "darksome",
+    "darky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dark.mp3",
+  "local_sound_path": "sounds/dark.mp3"
+}

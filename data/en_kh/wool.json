@@ -1,0 +1,69 @@
+{
+  "word": "wool",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100853.png",
+      "local_image_path": "images/100853.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100852.png",
+      "local_image_path": "images/100852.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100850.png",
+      "local_image_path": "images/100850.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100851.png",
+      "local_image_path": "images/100851.png"
+    }
+  ],
+  "synonyms": [
+    "fur",
+    "coat",
+    "fleece",
+    "hide",
+    "skin",
+    "hair",
+    "strand",
+    "string",
+    "fiber",
+    "yarn",
+    "thread"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wool tree",
+    "wool-bearer",
+    "wool-gathering",
+    "wool-staple",
+    "wool-stapler",
+    "wool-work",
+    "woold",
+    "woolding",
+    "woolen",
+    "wooll-pack",
+    "woollen-draper",
+    "woolliness",
+    "woollsack",
+    "woolly",
+    "woolly-head",
+    "woolly-headed",
+    "woolman",
+    "woolsaw",
+    "woolsey",
+    "woolward"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wool.mp3",
+  "local_sound_path": "sounds/wool.mp3"
+}

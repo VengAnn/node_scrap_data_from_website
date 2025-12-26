@@ -1,0 +1,40 @@
+{
+  "word": "indicator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39029.png",
+      "local_image_path": "images/39029.png"
+    },
+    {
+      "pos": "n",
+      "example": "business indicator",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39030.png",
+      "local_image_path": "images/39030.png"
+    },
+    {
+      "pos": "n",
+      "example": "temperature indicator",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39031.png",
+      "local_image_path": "images/39031.png"
+    }
+  ],
+  "synonyms": [
+    "sign",
+    "marker",
+    "guide",
+    "statistic",
+    "value",
+    "gauge",
+    "gage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "indicatory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indicator.mp3",
+  "local_sound_path": "sounds/indicator.mp3"
+}

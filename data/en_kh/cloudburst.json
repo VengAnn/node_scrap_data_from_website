@@ -1,0 +1,30 @@
+{
+  "word": "cloudburst",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15165.png",
+      "local_image_path": "images/15165.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116523.png",
+      "local_image_path": "images/116523.png"
+    }
+  ],
+  "synonyms": [
+    "shower",
+    "rainstorm",
+    "downpour",
+    "deluge",
+    "flood"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloudburst.mp3",
+  "local_sound_path": "sounds/cloudburst.mp3"
+}

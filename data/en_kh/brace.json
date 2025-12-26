@@ -1,0 +1,73 @@
+{
+  "word": "brace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10480.png",
+      "local_image_path": "images/10480.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130024.png",
+      "local_image_path": "images/130024.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10481.png",
+      "local_image_path": "images/10481.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115506.png",
+      "local_image_path": "images/115506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115507.png",
+      "local_image_path": "images/115507.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115508.png",
+      "local_image_path": "images/115508.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115509.png",
+      "local_image_path": "images/115509.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "strut",
+    "prop",
+    "stay",
+    "bracket",
+    "buttress",
+    "lock",
+    "clench",
+    "stiffen",
+    "tighten"
+  ],
+  "antonyms": [
+    "release",
+    "flex"
+  ],
+  "similar_words": [
+    "bracelet",
+    "bracer",
+    "bracero",
+    "braces"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brace.mp3",
+  "local_sound_path": "sounds/brace.mp3"
+}

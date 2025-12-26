@@ -1,0 +1,85 @@
+{
+  "word": "mend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wounds mend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107669.png",
+      "local_image_path": "images/107669.png"
+    },
+    {
+      "pos": "iv",
+      "example": "relations mend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107670.png",
+      "local_image_path": "images/107670.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107671.png",
+      "local_image_path": "images/107671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107664.png",
+      "local_image_path": "images/107664.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mend clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107665.png",
+      "local_image_path": "images/107665.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107666.png",
+      "local_image_path": "images/107666.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mend relations",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107667.png",
+      "local_image_path": "images/107667.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mend one's ways",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107668.png",
+      "local_image_path": "images/107668.png"
+    }
+  ],
+  "synonyms": [
+    "recover",
+    "recuperate",
+    "heal"
+  ],
+  "antonyms": [
+    "break",
+    "rip",
+    "deteriorate"
+  ],
+  "similar_words": [
+    "mendable",
+    "mendacious",
+    "mendaciously",
+    "mendaciousness",
+    "mendacity",
+    "mendelian",
+    "mendelism",
+    "mender",
+    "mendicancy",
+    "mendicant",
+    "mendicate",
+    "mendicity",
+    "mending",
+    "mendment",
+    "mendole",
+    "mendozite"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mend.mp3",
+  "local_sound_path": "sounds/mend.mp3"
+}

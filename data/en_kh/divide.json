@@ -1,0 +1,58 @@
+{
+  "word": "divide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22448.png",
+      "local_image_path": "images/22448.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22449.png",
+      "local_image_path": "images/22449.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We divided the work between us.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22446.png",
+      "local_image_path": "images/22446.png"
+    },
+    {
+      "pos": "tv",
+      "example": "divide A and B",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22447.png",
+      "local_image_path": "images/22447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118706.png",
+      "local_image_path": "images/118706.png"
+    }
+  ],
+  "synonyms": [
+    "gulf",
+    "rift",
+    "division",
+    "split",
+    "separate",
+    "partition",
+    "segregate",
+    "part"
+  ],
+  "antonyms": [
+    "join",
+    "unite"
+  ],
+  "similar_words": [
+    "dividend",
+    "dividend warrant",
+    "divider"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divide.mp3",
+  "local_sound_path": "sounds/divide.mp3"
+}

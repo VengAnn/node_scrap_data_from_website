@@ -1,0 +1,59 @@
+{
+  "word": "zigzag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101724.png",
+      "local_image_path": "images/101724.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101721.png",
+      "local_image_path": "images/101721.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101722.png",
+      "local_image_path": "images/101722.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129958.png",
+      "local_image_path": "images/129958.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129959.png",
+      "local_image_path": "images/129959.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101723.png",
+      "local_image_path": "images/101723.png"
+    }
+  ],
+  "synonyms": [
+    "wind",
+    "meander",
+    "weave",
+    "snake",
+    "corkscrew"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "zigzagged",
+    "zigzagging",
+    "zigzaggry",
+    "zigzaggy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/zigzag.mp3",
+  "local_sound_path": "sounds/zigzag.mp3"
+}

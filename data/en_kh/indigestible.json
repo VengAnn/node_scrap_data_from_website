@@ -1,0 +1,44 @@
+{
+  "word": "indigestible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39064.png",
+      "local_image_path": "images/39064.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122176.png",
+      "local_image_path": "images/122176.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122177.png",
+      "local_image_path": "images/122177.png"
+    }
+  ],
+  "synonyms": [
+    "impenetrable",
+    "complex",
+    "heavy",
+    "dense",
+    "dry",
+    "stodgy",
+    "rich",
+    "tough",
+    "inedible"
+  ],
+  "antonyms": [
+    "digestible",
+    "readable",
+    "edible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indigestible.mp3",
+  "local_sound_path": "sounds/indigestible.mp3"
+}

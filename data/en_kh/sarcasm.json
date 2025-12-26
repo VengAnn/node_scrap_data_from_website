@@ -1,0 +1,32 @@
+{
+  "word": "sarcasm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75862.png",
+      "local_image_path": "images/75862.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75861.png",
+      "local_image_path": "images/75861.png"
+    }
+  ],
+  "synonyms": [
+    "irony",
+    "mockery",
+    "derision",
+    "scorn",
+    "disdain",
+    "cynicism",
+    "acerbity"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sarcasm.mp3",
+  "local_sound_path": "sounds/sarcasm.mp3"
+}

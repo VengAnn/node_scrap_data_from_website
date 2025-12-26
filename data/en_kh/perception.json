@@ -1,0 +1,51 @@
+{
+  "word": "perception",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61571.png",
+      "local_image_path": "images/61571.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61570.png",
+      "local_image_path": "images/61570.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125323.png",
+      "local_image_path": "images/125323.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125324.png",
+      "local_image_path": "images/125324.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125325.png",
+      "local_image_path": "images/125325.png"
+    }
+  ],
+  "synonyms": [
+    "view",
+    "opinion",
+    "picture",
+    "reading",
+    "slant",
+    "assessment",
+    "experience",
+    "take"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perception.mp3",
+  "local_sound_path": "sounds/perception.mp3"
+}

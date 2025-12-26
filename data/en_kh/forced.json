@@ -1,0 +1,40 @@
+{
+  "word": "forced",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "forced labor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29646.png",
+      "local_image_path": "images/29646.png"
+    },
+    {
+      "pos": "adj",
+      "example": "forced entry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29647.png",
+      "local_image_path": "images/29647.png"
+    },
+    {
+      "pos": "adj",
+      "example": "forced smile",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29648.png",
+      "local_image_path": "images/29648.png"
+    }
+  ],
+  "synonyms": [
+    "strained",
+    "unnatural",
+    "affected",
+    "artificial",
+    "pried"
+  ],
+  "antonyms": [
+    "optional",
+    "natural",
+    "voluntary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forced.mp3",
+  "local_sound_path": "sounds/forced.mp3"
+}

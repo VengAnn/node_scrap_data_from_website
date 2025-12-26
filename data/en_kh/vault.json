@@ -1,0 +1,72 @@
+{
+  "word": "vault",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97355.png",
+      "local_image_path": "images/97355.png"
+    },
+    {
+      "pos": "n",
+      "example": "bank vault",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97356.png",
+      "local_image_path": "images/97356.png"
+    },
+    {
+      "pos": "n",
+      "example": "vault of the ceiling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97357.png",
+      "local_image_path": "images/97357.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97360.png",
+      "local_image_path": "images/97360.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97358.png",
+      "local_image_path": "images/97358.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97359.png",
+      "local_image_path": "images/97359.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129677.png",
+      "local_image_path": "images/129677.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129678.png",
+      "local_image_path": "images/129678.png"
+    }
+  ],
+  "synonyms": [
+    "jump",
+    "leap",
+    "spring",
+    "hurdle",
+    "bound"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "vaultage",
+    "vaulted",
+    "vaulter",
+    "vaulting",
+    "vaulty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vault.mp3",
+  "local_sound_path": "sounds/vault.mp3"
+}

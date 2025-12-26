@@ -1,0 +1,43 @@
+{
+  "word": "horror",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She expressed her horror of cruelty and war.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35979.png",
+      "local_image_path": "images/35979.png"
+    },
+    {
+      "pos": "n",
+      "example": "horror of war",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35980.png",
+      "local_image_path": "images/35980.png"
+    }
+  ],
+  "synonyms": [
+    "dismay",
+    "revulsion",
+    "shock",
+    "disgust",
+    "repulsion",
+    "dreadfulness",
+    "awfulness",
+    "terror",
+    "fear",
+    "dread",
+    "distress",
+    "alarm",
+    "panic"
+  ],
+  "antonyms": [
+    "delight"
+  ],
+  "similar_words": [
+    "horror-stricken",
+    "horror-struck"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/horror.mp3",
+  "local_sound_path": "sounds/horror.mp3"
+}

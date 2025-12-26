@@ -1,0 +1,41 @@
+{
+  "word": "skeleton",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "skeleton outline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80655.png",
+      "local_image_path": "images/80655.png"
+    },
+    {
+      "pos": "n",
+      "example": "human skeleton",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80654.png",
+      "local_image_path": "images/80654.png"
+    }
+  ],
+  "synonyms": [
+    "minimum",
+    "basic",
+    "essential",
+    "draft",
+    "draught",
+    "plan",
+    "outline",
+    "framework",
+    "sketch"
+  ],
+  "antonyms": [
+    "full"
+  ],
+  "similar_words": [
+    "skeleton key",
+    "skeleton regiment",
+    "skeletonize",
+    "skeletonizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skeleton.mp3",
+  "local_sound_path": "sounds/skeleton.mp3"
+}

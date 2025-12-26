@@ -1,0 +1,42 @@
+{
+  "word": "separation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78195.png",
+      "local_image_path": "images/78195.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127654.png",
+      "local_image_path": "images/127654.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127655.png",
+      "local_image_path": "images/127655.png"
+    }
+  ],
+  "synonyms": [
+    "goodbye",
+    "farewell",
+    "division",
+    "severance",
+    "partition",
+    "disconnection",
+    "disjunction"
+  ],
+  "antonyms": [
+    "unification",
+    "meeting",
+    "marriage"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/separation.mp3",
+  "local_sound_path": "sounds/separation.mp3"
+}

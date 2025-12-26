@@ -1,0 +1,36 @@
+{
+  "word": "decadent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19901.png",
+      "local_image_path": "images/19901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19902.png",
+      "local_image_path": "images/19902.png"
+    }
+  ],
+  "synonyms": [
+    "corrupt",
+    "debauched",
+    "depraved",
+    "dissolute",
+    "self-indulgent",
+    "profligate",
+    "degenerate",
+    "immoral",
+    "licentious"
+  ],
+  "antonyms": [
+    "innocent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decadent.mp3",
+  "local_sound_path": "sounds/decadent.mp3"
+}

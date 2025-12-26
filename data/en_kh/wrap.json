@@ -1,0 +1,55 @@
+{
+  "word": "wrap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "He is wrapped up in his work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101084.png",
+      "local_image_path": "images/101084.png"
+    },
+    {
+      "pos": "iv",
+      "example": "wrap up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101085.png",
+      "local_image_path": "images/101085.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101086.png",
+      "local_image_path": "images/101086.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101087.png",
+      "local_image_path": "images/101087.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wrap a gift",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101083.png",
+      "local_image_path": "images/101083.png"
+    }
+  ],
+  "synonyms": [
+    "bathrobe",
+    "robe",
+    "package"
+  ],
+  "antonyms": [
+    "unwrap"
+  ],
+  "similar_words": [
+    "wrap-rascal",
+    "wraparounds",
+    "wrappage",
+    "wrapper",
+    "wrapping",
+    "wrapping paper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wrap.mp3",
+  "local_sound_path": "sounds/wrap.mp3"
+}

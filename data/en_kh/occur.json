@@ -1,0 +1,25 @@
+{
+  "word": "occur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "incidents occur",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57108.png",
+      "local_image_path": "images/57108.png"
+    }
+  ],
+  "synonyms": [
+    "strike",
+    "appear",
+    "hit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "occurent",
+    "occurrence"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/occur.mp3",
+  "local_sound_path": "sounds/occur.mp3"
+}

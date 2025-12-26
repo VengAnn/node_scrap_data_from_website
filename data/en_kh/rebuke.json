@@ -1,0 +1,40 @@
+{
+  "word": "rebuke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70658.png",
+      "local_image_path": "images/70658.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70657.png",
+      "local_image_path": "images/70657.png"
+    }
+  ],
+  "synonyms": [
+    "reproach",
+    "reproof",
+    "censure",
+    "reprimand",
+    "scolding",
+    "admonition",
+    "lecture",
+    "reprove",
+    "scold",
+    "admonish",
+    "chide",
+    "criticize"
+  ],
+  "antonyms": [
+    "praise",
+    "compliment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rebuke.mp3",
+  "local_sound_path": "sounds/rebuke.mp3"
+}

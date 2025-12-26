@@ -1,0 +1,52 @@
+{
+  "word": "baron",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7541.png",
+      "local_image_path": "images/7541.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114609.png",
+      "local_image_path": "images/114609.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114610.png",
+      "local_image_path": "images/114610.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114611.png",
+      "local_image_path": "images/114611.png"
+    }
+  ],
+  "synonyms": [
+    "tycoon",
+    "magnate",
+    "mogul",
+    "industrialist",
+    "boss",
+    "robber baron"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "baronage",
+    "baroness",
+    "baronet",
+    "baronetage",
+    "baronetcy",
+    "barong",
+    "baronial",
+    "barony"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baron.mp3",
+  "local_sound_path": "sounds/baron.mp3"
+}

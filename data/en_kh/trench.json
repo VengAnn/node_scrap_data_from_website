@@ -1,0 +1,42 @@
+{
+  "word": "trench",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dig a trench",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91509.png",
+      "local_image_path": "images/91509.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91510.png",
+      "local_image_path": "images/91510.png"
+    }
+  ],
+  "synonyms": [
+    "ditch",
+    "channel",
+    "drain",
+    "dugout",
+    "trough",
+    "gutter",
+    "furrow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "trench coat",
+    "trenchancy",
+    "trenchant",
+    "trenchantly",
+    "trenchantness",
+    "trencher",
+    "trencher-cap",
+    "trencherman",
+    "trenchmore"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trench.mp3",
+  "local_sound_path": "sounds/trench.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "inappropriate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38156.png",
+      "local_image_path": "images/38156.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inappropriate comment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38157.png",
+      "local_image_path": "images/38157.png"
+    }
+  ],
+  "synonyms": [
+    "improper",
+    "unacceptable",
+    "tasteless",
+    "unseemly",
+    "tactless",
+    "unbecoming",
+    "unsuitable",
+    "untimely",
+    "unfortunate",
+    "inapt",
+    "wrong",
+    "incorrect",
+    "incongruous",
+    "inapplicable",
+    "inapposite",
+    "ill-timed",
+    "insensitive",
+    "inacceptable"
+  ],
+  "antonyms": [
+    "appropriate",
+    "fitting"
+  ],
+  "similar_words": [
+    "inappropriately",
+    "inappropriateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inappropriate.mp3",
+  "local_sound_path": "sounds/inappropriate.mp3"
+}

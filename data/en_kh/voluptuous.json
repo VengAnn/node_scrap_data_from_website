@@ -1,0 +1,34 @@
+{
+  "word": "voluptuous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98579.png",
+      "local_image_path": "images/98579.png"
+    },
+    {
+      "pos": "adj",
+      "example": "voluptuous woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98580.png",
+      "local_image_path": "images/98580.png"
+    },
+    {
+      "pos": "adj",
+      "example": "voluptuous beauty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98581.png",
+      "local_image_path": "images/98581.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "voluptuousity",
+    "voluptuously",
+    "voluptuousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/voluptuous.mp3",
+  "local_sound_path": "sounds/voluptuous.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "dirty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dirty face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21530.png",
+      "local_image_path": "images/21530.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dirty language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21531.png",
+      "local_image_path": "images/21531.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't dirty your new dress.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21532.png",
+      "local_image_path": "images/21532.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dirty his reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21533.png",
+      "local_image_path": "images/21533.png"
+    }
+  ],
+  "synonyms": [
+    "dull",
+    "muddy",
+    "cloudy",
+    "soil",
+    "stain",
+    "pollute",
+    "foul",
+    "defile",
+    "sully",
+    "muck up"
+  ],
+  "antonyms": [
+    "clean",
+    "honest",
+    "clear",
+    "bright"
+  ],
+  "similar_words": [
+    "dirty oldman",
+    "dirty pool",
+    "dirty tricks",
+    "dirty-minded"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dirty.mp3",
+  "local_sound_path": "sounds/dirty.mp3"
+}

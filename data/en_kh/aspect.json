@@ -1,0 +1,51 @@
+{
+  "word": "aspect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "aspect of the problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5801.png",
+      "local_image_path": "images/5801.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114098.png",
+      "local_image_path": "images/114098.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114099.png",
+      "local_image_path": "images/114099.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114100.png",
+      "local_image_path": "images/114100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114101.png",
+      "local_image_path": "images/114101.png"
+    }
+  ],
+  "synonyms": [
+    "expression",
+    "countenance",
+    "air",
+    "bearing",
+    "appearance",
+    "look",
+    "quality",
+    "mien"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aspect.mp3",
+  "local_sound_path": "sounds/aspect.mp3"
+}

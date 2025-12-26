@@ -1,0 +1,26 @@
+{
+  "word": "deductive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20085.png",
+      "local_image_path": "images/20085.png"
+    }
+  ],
+  "synonyms": [
+    "logical",
+    "inferential",
+    "reasonable",
+    "empirical",
+    "rational"
+  ],
+  "antonyms": [
+    "illogical"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deductive.mp3",
+  "local_sound_path": "sounds/deductive.mp3"
+}

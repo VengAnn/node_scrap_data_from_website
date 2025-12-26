@@ -1,0 +1,93 @@
+{
+  "word": "tilt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "The reformer tilted at the tax and property.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89477.png",
+      "local_image_path": "images/89477.png"
+    },
+    {
+      "pos": "idm",
+      "example": "tilt with him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89478.png",
+      "local_image_path": "images/89478.png"
+    },
+    {
+      "pos": "n",
+      "example": "house has a tilt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89479.png",
+      "local_image_path": "images/89479.png"
+    },
+    {
+      "pos": "n",
+      "example": "title of the land",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89480.png",
+      "local_image_path": "images/89480.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89481.png",
+      "local_image_path": "images/89481.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89482.png",
+      "local_image_path": "images/89482.png"
+    },
+    {
+      "pos": "n",
+      "example": "brothers had a tilt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89483.png",
+      "local_image_path": "images/89483.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89484.png",
+      "local_image_path": "images/89484.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89475.png",
+      "local_image_path": "images/89475.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tilt with lances",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89476.png",
+      "local_image_path": "images/89476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89485.png",
+      "local_image_path": "images/89485.png"
+    }
+  ],
+  "synonyms": [
+    "slope",
+    "slant",
+    "angle",
+    "gradient",
+    "incline",
+    "tip",
+    "lean",
+    "list",
+    "roll",
+    "bend",
+    "straighten up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tilt-boat",
+    "tilth"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tilt.mp3",
+  "local_sound_path": "sounds/tilt.mp3"
+}

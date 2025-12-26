@@ -1,0 +1,46 @@
+{
+  "word": "elder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elder brother",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24138.png",
+      "local_image_path": "images/24138.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is my elder.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24137.png",
+      "local_image_path": "images/24137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24139.png",
+      "local_image_path": "images/24139.png"
+    }
+  ],
+  "synonyms": [
+    "senior",
+    "leader",
+    "aged",
+    "elderly",
+    "older",
+    "mature"
+  ],
+  "antonyms": [
+    "younger"
+  ],
+  "similar_words": [
+    "elder abuse",
+    "elderberry",
+    "eldercare",
+    "elderling",
+    "elderly",
+    "eldern"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elder.mp3",
+  "local_sound_path": "sounds/elder.mp3"
+}

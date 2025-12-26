@@ -1,0 +1,43 @@
+{
+  "word": "collection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bill collection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15679.png",
+      "local_image_path": "images/15679.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116679.png",
+      "local_image_path": "images/116679.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116680.png",
+      "local_image_path": "images/116680.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "gathering",
+    "assortment",
+    "assembly",
+    "pool",
+    "crew",
+    "compendium",
+    "compilation",
+    "set",
+    "corpus",
+    "anthology",
+    "album"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/collection.mp3",
+  "local_sound_path": "sounds/collection.mp3"
+}

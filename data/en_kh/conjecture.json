@@ -1,0 +1,44 @@
+{
+  "word": "conjecture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16832.png",
+      "local_image_path": "images/16832.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117246.png",
+      "local_image_path": "images/117246.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117247.png",
+      "local_image_path": "images/117247.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16833.png",
+      "local_image_path": "images/16833.png"
+    }
+  ],
+  "synonyms": [
+    "imagine",
+    "guess",
+    "speculate",
+    "infer",
+    "assume",
+    "suppose",
+    "estimate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conjecture.mp3",
+  "local_sound_path": "sounds/conjecture.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "boob",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10124.png",
+      "local_image_path": "images/10124.png"
+    },
+    {
+      "pos": "n (sl)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10125.png",
+      "local_image_path": "images/10125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10123.png",
+      "local_image_path": "images/10123.png"
+    }
+  ],
+  "synonyms": [
+    "err"
+  ],
+  "antonyms": [
+    "sage"
+  ],
+  "similar_words": [
+    "boob-kerchief",
+    "booboisie",
+    "booby",
+    "booby-prize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boob.mp3",
+  "local_sound_path": "sounds/boob.mp3"
+}

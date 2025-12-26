@@ -1,0 +1,44 @@
+{
+  "word": "antiseptic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4786.png",
+      "local_image_path": "images/4786.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4785.png",
+      "local_image_path": "images/4785.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131335.png",
+      "local_image_path": "images/131335.png"
+    }
+  ],
+  "synonyms": [
+    "bland",
+    "anodyne",
+    "insipid",
+    "tame",
+    "uninteresting",
+    "colorless",
+    "dull",
+    "unexciting",
+    "disinfectant",
+    "purifier"
+  ],
+  "antonyms": [
+    "colorful",
+    "infected"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/antiseptic.mp3",
+  "local_sound_path": "sounds/antiseptic.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "chafe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "skin chafe will",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13698.png",
+      "local_image_path": "images/13698.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116136.png",
+      "local_image_path": "images/116136.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116137.png",
+      "local_image_path": "images/116137.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116138.png",
+      "local_image_path": "images/116138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13699.png",
+      "local_image_path": "images/13699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13697.png",
+      "local_image_path": "images/13697.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131382.png",
+      "local_image_path": "images/131382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131383.png",
+      "local_image_path": "images/131383.png"
+    }
+  ],
+  "synonyms": [
+    "annoy",
+    "bother",
+    "provoke",
+    "vex",
+    "irritate",
+    "aggravate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chafe.mp3",
+  "local_sound_path": "sounds/chafe.mp3"
+}

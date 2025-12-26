@@ -1,0 +1,68 @@
+{
+  "word": "record",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70966.png",
+      "local_image_path": "images/70966.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70967.png",
+      "local_image_path": "images/70967.png"
+    },
+    {
+      "pos": "tv",
+      "example": "record events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70964.png",
+      "local_image_path": "images/70964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70965.png",
+      "local_image_path": "images/70965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126595.png",
+      "local_image_path": "images/126595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126596.png",
+      "local_image_path": "images/126596.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126597.png",
+      "local_image_path": "images/126597.png"
+    }
+  ],
+  "synonyms": [
+    "best",
+    "greatest",
+    "top",
+    "fastest",
+    "highest",
+    "tape",
+    "video",
+    "film"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "recordance",
+    "recordative",
+    "recorder",
+    "recording"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/record.mp3",
+  "local_sound_path": "sounds/record.mp3"
+}

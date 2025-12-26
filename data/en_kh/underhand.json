@@ -1,0 +1,40 @@
+{
+  "word": "underhand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "underhand act",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93995.png",
+      "local_image_path": "images/93995.png"
+    },
+    {
+      "pos": "sl",
+      "example": "underhand pitch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93996.png",
+      "local_image_path": "images/93996.png"
+    }
+  ],
+  "synonyms": [
+    "deceitfully",
+    "dishonestly",
+    "slyly",
+    "secretively",
+    "underhandedly",
+    "craftily",
+    "meanly"
+  ],
+  "antonyms": [
+    "open",
+    "honest",
+    "openly"
+  ],
+  "similar_words": [
+    "underhanded",
+    "underhandedly",
+    "underhandedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/underhand.mp3",
+  "local_sound_path": "sounds/underhand.mp3"
+}

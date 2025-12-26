@@ -1,0 +1,30 @@
+{
+  "word": "curtain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "window curtain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19222.png",
+      "local_image_path": "images/19222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "curtain a window",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19223.png",
+      "local_image_path": "images/19223.png"
+    }
+  ],
+  "synonyms": [
+    "drape",
+    "blind",
+    "screen",
+    "shade",
+    "shutter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curtain.mp3",
+  "local_sound_path": "sounds/curtain.mp3"
+}

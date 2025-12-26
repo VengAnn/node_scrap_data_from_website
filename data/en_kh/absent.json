@@ -1,0 +1,68 @@
+{
+  "word": "absent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "You were absent from school yesterday.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1604.png",
+      "local_image_path": "images/1604.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111804.png",
+      "local_image_path": "images/111804.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He's been absent from class.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1605.png",
+      "local_image_path": "images/1605.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111803.png",
+      "local_image_path": "images/111803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113056.png",
+      "local_image_path": "images/113056.png"
+    }
+  ],
+  "synonyms": [
+    "lacking",
+    "deficient",
+    "nonexistent",
+    "missing",
+    "gone",
+    "out",
+    "away"
+  ],
+  "antonyms": [
+    "present",
+    "alert",
+    "in"
+  ],
+  "similar_words": [
+    "absent minded",
+    "absentation",
+    "absentee",
+    "absentee ballot",
+    "absentee landlord",
+    "absentee voter",
+    "absentee voting",
+    "absenteeism",
+    "absently",
+    "absentminded",
+    "absentmindedly",
+    "absentmindedness",
+    "absentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absent.mp3",
+  "local_sound_path": "sounds/absent.mp3"
+}

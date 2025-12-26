@@ -1,0 +1,49 @@
+{
+  "word": "vary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "You should vary your diet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97318.png",
+      "local_image_path": "images/97318.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The forms vary",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97319.png",
+      "local_image_path": "images/97319.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The price vary with the season",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97320.png",
+      "local_image_path": "images/97320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "vary the temperature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97321.png",
+      "local_image_path": "images/97321.png"
+    }
+  ],
+  "synonyms": [
+    "change",
+    "alter",
+    "fluctuate",
+    "adjust",
+    "adapt",
+    "modify"
+  ],
+  "antonyms": [
+    "conform",
+    "standardize"
+  ],
+  "similar_words": [
+    "varying",
+    "varyingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vary.mp3",
+  "local_sound_path": "sounds/vary.mp3"
+}

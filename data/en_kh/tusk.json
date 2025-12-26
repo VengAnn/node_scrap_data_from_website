@@ -1,0 +1,27 @@
+{
+  "word": "tusk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92551.png",
+      "local_image_path": "images/92551.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92552.png",
+      "local_image_path": "images/92552.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "tusker",
+    "tusky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tusk.mp3",
+  "local_sound_path": "sounds/tusk.mp3"
+}

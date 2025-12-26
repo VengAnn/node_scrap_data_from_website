@@ -1,0 +1,36 @@
+{
+  "word": "attachable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6227.png",
+      "local_image_path": "images/6227.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112852.png",
+      "local_image_path": "images/112852.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112853.png",
+      "local_image_path": "images/112853.png"
+    }
+  ],
+  "synonyms": [
+    "removable",
+    "separable",
+    "separate"
+  ],
+  "antonyms": [
+    "fixed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attachable.mp3",
+  "local_sound_path": "sounds/attachable.mp3"
+}

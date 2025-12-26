@@ -1,0 +1,38 @@
+{
+  "word": "curative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19125.png",
+      "local_image_path": "images/19125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19126.png",
+      "local_image_path": "images/19126.png"
+    }
+  ],
+  "synonyms": [
+    "healing",
+    "remedial",
+    "restorative",
+    "therapeutic",
+    "medicinal",
+    "healthful",
+    "beneficial",
+    "salutary"
+  ],
+  "antonyms": [
+    "injurious"
+  ],
+  "similar_words": [
+    "curatively",
+    "curativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curative.mp3",
+  "local_sound_path": "sounds/curative.mp3"
+}

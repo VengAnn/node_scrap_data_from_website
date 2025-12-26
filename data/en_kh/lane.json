@@ -1,0 +1,44 @@
+{
+  "word": "lane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "small lane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44803.png",
+      "local_image_path": "images/44803.png"
+    },
+    {
+      "pos": "n",
+      "example": "traffice lane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44804.png",
+      "local_image_path": "images/44804.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44805.png",
+      "local_image_path": "images/44805.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44806.png",
+      "local_image_path": "images/44806.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44807.png",
+      "local_image_path": "images/44807.png"
+    }
+  ],
+  "synonyms": [
+    "slow lane"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lane.mp3",
+  "local_sound_path": "sounds/lane.mp3"
+}

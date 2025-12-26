@@ -1,0 +1,48 @@
+{
+  "word": "appoint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "appoint a time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5115.png",
+      "local_image_path": "images/5115.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113871.png",
+      "local_image_path": "images/113871.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113872.png",
+      "local_image_path": "images/113872.png"
+    }
+  ],
+  "synonyms": [
+    "select",
+    "choose",
+    "pick",
+    "fix",
+    "arrange",
+    "allot",
+    "agree"
+  ],
+  "antonyms": [
+    "dismiss",
+    "reject"
+  ],
+  "similar_words": [
+    "appointed",
+    "appointee",
+    "appointer",
+    "appointive",
+    "appointment",
+    "appointor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appoint.mp3",
+  "local_sound_path": "sounds/appoint.mp3"
+}

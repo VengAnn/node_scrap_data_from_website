@@ -1,0 +1,38 @@
+{
+  "word": "invader",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41927.png",
+      "local_image_path": "images/41927.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122871.png",
+      "local_image_path": "images/122871.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122872.png",
+      "local_image_path": "images/122872.png"
+    }
+  ],
+  "synonyms": [
+    "attacker",
+    "aggressor",
+    "raider",
+    "trespasser",
+    "intruder",
+    "assailant",
+    "interloper"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/invader.mp3",
+  "local_sound_path": "sounds/invader.mp3"
+}

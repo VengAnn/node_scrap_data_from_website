@@ -1,0 +1,38 @@
+{
+  "word": "pester",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62189.png",
+      "local_image_path": "images/62189.png"
+    }
+  ],
+  "synonyms": [
+    "bother",
+    "annoy",
+    "harass",
+    "worry",
+    "beleaguer",
+    "disturb",
+    "bedevil",
+    "tease",
+    "hector",
+    "hound",
+    "dog",
+    "nag",
+    "ride"
+  ],
+  "antonyms": [
+    "delight"
+  ],
+  "similar_words": [
+    "pesterer",
+    "pesterment",
+    "pesterous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pester.mp3",
+  "local_sound_path": "sounds/pester.mp3"
+}

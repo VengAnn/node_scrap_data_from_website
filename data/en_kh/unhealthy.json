@@ -1,0 +1,44 @@
+{
+  "word": "unhealthy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94461.png",
+      "local_image_path": "images/94461.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94462.png",
+      "local_image_path": "images/94462.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94463.png",
+      "local_image_path": "images/94463.png"
+    }
+  ],
+  "synonyms": [
+    "unfit",
+    "sickly",
+    "anemic",
+    "pallid",
+    "frail",
+    "weak",
+    "ill",
+    "sick",
+    "unwell"
+  ],
+  "antonyms": [
+    "healthy",
+    "wholesome",
+    "well"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unhealthy.mp3",
+  "local_sound_path": "sounds/unhealthy.mp3"
+}

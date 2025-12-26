@@ -1,0 +1,67 @@
+{
+  "word": "sequester",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78247.png",
+      "local_image_path": "images/78247.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Monk sequesters himself in his study every evening.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78248.png",
+      "local_image_path": "images/78248.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127659.png",
+      "local_image_path": "images/127659.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127660.png",
+      "local_image_path": "images/127660.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127661.png",
+      "local_image_path": "images/127661.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130800.png",
+      "local_image_path": "images/130800.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130801.png",
+      "local_image_path": "images/130801.png"
+    }
+  ],
+  "synonyms": [
+    "confiscate",
+    "requisition",
+    "appropriate",
+    "impound",
+    "seize",
+    "isolate",
+    "separate",
+    "segregate",
+    "insulate",
+    "quarantine"
+  ],
+  "antonyms": [
+    "restore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sequester.mp3",
+  "local_sound_path": "sounds/sequester.mp3"
+}

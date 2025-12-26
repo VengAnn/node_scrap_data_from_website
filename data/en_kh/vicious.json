@@ -1,0 +1,62 @@
+{
+  "word": "vicious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "vicious dog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97924.png",
+      "local_image_path": "images/97924.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97925.png",
+      "local_image_path": "images/97925.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97926.png",
+      "local_image_path": "images/97926.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97927.png",
+      "local_image_path": "images/97927.png"
+    }
+  ],
+  "synonyms": [
+    "spiteful",
+    "malicious",
+    "mean",
+    "rancorous",
+    "backbiting",
+    "venomous",
+    "nasty",
+    "cruel",
+    "hurtful",
+    "brutal",
+    "ferocious",
+    "fierce",
+    "inhuman",
+    "violent",
+    "sadistic",
+    "savage",
+    "wild",
+    "brutish"
+  ],
+  "antonyms": [
+    "good-natured",
+    "kind",
+    "gentle"
+  ],
+  "similar_words": [
+    "viciously",
+    "viciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vicious.mp3",
+  "local_sound_path": "sounds/vicious.mp3"
+}

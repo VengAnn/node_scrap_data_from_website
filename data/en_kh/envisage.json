@@ -1,0 +1,34 @@
+{
+  "word": "envisage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "envisage her face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25425.png",
+      "local_image_path": "images/25425.png"
+    },
+    {
+      "pos": "tv",
+      "example": "envisage a profit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25426.png",
+      "local_image_path": "images/25426.png"
+    }
+  ],
+  "synonyms": [
+    "imagine",
+    "envision",
+    "foresee",
+    "predict",
+    "visualize",
+    "picture",
+    "see"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "envisagement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/envisage.mp3",
+  "local_sound_path": "sounds/envisage.mp3"
+}

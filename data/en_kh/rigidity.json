@@ -1,0 +1,46 @@
+{
+  "word": "rigidity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73670.png",
+      "local_image_path": "images/73670.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127128.png",
+      "local_image_path": "images/127128.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127129.png",
+      "local_image_path": "images/127129.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73669.png",
+      "local_image_path": "images/73669.png"
+    }
+  ],
+  "synonyms": [
+    "inflexibility",
+    "firmness",
+    "severity",
+    "strictness",
+    "stiffness",
+    "stringency",
+    "inelasticity"
+  ],
+  "antonyms": [
+    "laxness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rigidity.mp3",
+  "local_sound_path": "sounds/rigidity.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "muggy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110916.png",
+      "local_image_path": "images/110916.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124380.png",
+      "local_image_path": "images/124380.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124381.png",
+      "local_image_path": "images/124381.png"
+    }
+  ],
+  "synonyms": [
+    "humid",
+    "close",
+    "clammy",
+    "sultry",
+    "oppressive",
+    "stifling",
+    "warm",
+    "damp",
+    "sticky",
+    "sweaty",
+    "moist",
+    "steamy"
+  ],
+  "antonyms": [
+    "fresh"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/muggy.mp3",
+  "local_sound_path": "sounds/muggy.mp3"
+}

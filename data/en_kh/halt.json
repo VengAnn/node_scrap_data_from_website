@@ -1,0 +1,70 @@
+{
+  "word": "halt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33639.png",
+      "local_image_path": "images/33639.png"
+    },
+    {
+      "pos": "n",
+      "example": "The officer called a halt.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33634.png",
+      "local_image_path": "images/33634.png"
+    },
+    {
+      "pos": "n",
+      "example": "The train came to a halt.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33635.png",
+      "local_image_path": "images/33635.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33636.png",
+      "local_image_path": "images/33636.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33637.png",
+      "local_image_path": "images/33637.png"
+    },
+    {
+      "pos": "v",
+      "example": "The officer halted the troops for a rest.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33638.png",
+      "local_image_path": "images/33638.png"
+    }
+  ],
+  "synonyms": [
+    "stop",
+    "close",
+    "standstill",
+    "break",
+    "pause",
+    "cessation",
+    "termination",
+    "cease",
+    "freeze",
+    "finish",
+    "arrest",
+    "terminate",
+    "immobilize",
+    "discontinue"
+  ],
+  "antonyms": [
+    "begin",
+    "start"
+  ],
+  "similar_words": [
+    "halter",
+    "halting",
+    "haltingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/halt.mp3",
+  "local_sound_path": "sounds/halt.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "checker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13982.png",
+      "local_image_path": "images/13982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13981.png",
+      "local_image_path": "images/13981.png"
+    }
+  ],
+  "synonyms": [
+    "manager",
+    "organizer",
+    "regulator",
+    "director",
+    "inspector",
+    "superintendent",
+    "overseer",
+    "assessor",
+    "supervisor",
+    "examiner"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "checkerboard",
+    "checkered"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/checker.mp3",
+  "local_sound_path": "sounds/checker.mp3"
+}

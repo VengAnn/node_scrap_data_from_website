@@ -1,0 +1,78 @@
+{
+  "word": "loop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "strings loop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47583.png",
+      "local_image_path": "images/47583.png"
+    },
+    {
+      "pos": "iv",
+      "example": "airplanes loop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47584.png",
+      "local_image_path": "images/47584.png"
+    },
+    {
+      "pos": "n",
+      "example": "loop in the cord",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47578.png",
+      "local_image_path": "images/47578.png"
+    },
+    {
+      "pos": "n",
+      "example": "loop around a city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47579.png",
+      "local_image_path": "images/47579.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47580.png",
+      "local_image_path": "images/47580.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47585.png",
+      "local_image_path": "images/47585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "loop string around",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47581.png",
+      "local_image_path": "images/47581.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hightways loop the city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47582.png",
+      "local_image_path": "images/47582.png"
+    }
+  ],
+  "synonyms": [
+    "ring",
+    "circle",
+    "round",
+    "sphere",
+    "disk",
+    "ball",
+    "wind",
+    "twist",
+    "coil",
+    "entwine",
+    "encircle",
+    "encompass",
+    "surround"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "looper",
+    "loophole",
+    "loopy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/loop.mp3",
+  "local_sound_path": "sounds/loop.mp3"
+}

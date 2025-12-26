@@ -1,0 +1,65 @@
+{
+  "word": "stroke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "stroke of a hammer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85470.png",
+      "local_image_path": "images/85470.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85471.png",
+      "local_image_path": "images/85471.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85472.png",
+      "local_image_path": "images/85472.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85473.png",
+      "local_image_path": "images/85473.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85477.png",
+      "local_image_path": "images/85477.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stroke a boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85474.png",
+      "local_image_path": "images/85474.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stroke the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85475.png",
+      "local_image_path": "images/85475.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85476.png",
+      "local_image_path": "images/85476.png"
+    }
+  ],
+  "synonyms": [
+    "rub",
+    "caress",
+    "fondle",
+    "pat"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stroke.mp3",
+  "local_sound_path": "sounds/stroke.mp3"
+}

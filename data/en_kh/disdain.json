@@ -1,0 +1,53 @@
+{
+  "word": "disdain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21792.png",
+      "local_image_path": "images/21792.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He disdains going to the cinema.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21790.png",
+      "local_image_path": "images/21790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21791.png",
+      "local_image_path": "images/21791.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118453.png",
+      "local_image_path": "images/118453.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118454.png",
+      "local_image_path": "images/118454.png"
+    }
+  ],
+  "synonyms": [
+    "despise",
+    "scorn",
+    "spurn",
+    "disparage"
+  ],
+  "antonyms": [
+    "respect"
+  ],
+  "similar_words": [
+    "disdainful",
+    "disdainfully",
+    "disdainfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disdain.mp3",
+  "local_sound_path": "sounds/disdain.mp3"
+}

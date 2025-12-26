@@ -1,0 +1,83 @@
+{
+  "word": "slug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81469.png",
+      "local_image_path": "images/81469.png"
+    },
+    {
+      "pos": "n",
+      "example": "slug of metal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81470.png",
+      "local_image_path": "images/81470.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81471.png",
+      "local_image_path": "images/81471.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81472.png",
+      "local_image_path": "images/81472.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81473.png",
+      "local_image_path": "images/81473.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81474.png",
+      "local_image_path": "images/81474.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81476.png",
+      "local_image_path": "images/81476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81475.png",
+      "local_image_path": "images/81475.png"
+    }
+  ],
+  "synonyms": [
+    "strike",
+    "hit",
+    "whack",
+    "belt",
+    "thump",
+    "punch",
+    "wallop",
+    "clout"
+  ],
+  "antonyms": [
+    "sip"
+  ],
+  "similar_words": [
+    "slug-a-bed",
+    "sluggard",
+    "sluggardily",
+    "sluggardiness",
+    "sluggardize",
+    "sluggardy",
+    "slugger",
+    "sluggish",
+    "sluggishly",
+    "sluggishness",
+    "sluggy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slug.mp3",
+  "local_sound_path": "sounds/slug.mp3"
+}

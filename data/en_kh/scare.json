@@ -1,0 +1,94 @@
+{
+  "word": "scare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76435.png",
+      "local_image_path": "images/76435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "don't scare my son",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76433.png",
+      "local_image_path": "images/76433.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scare up (money)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76434.png",
+      "local_image_path": "images/76434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76436.png",
+      "local_image_path": "images/76436.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127483.png",
+      "local_image_path": "images/127483.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127484.png",
+      "local_image_path": "images/127484.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127485.png",
+      "local_image_path": "images/127485.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127486.png",
+      "local_image_path": "images/127486.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127487.png",
+      "local_image_path": "images/127487.png"
+    }
+  ],
+  "synonyms": [
+    "fright",
+    "shock",
+    "start",
+    "jolt",
+    "alarm",
+    "alert",
+    "panic",
+    "worry",
+    "anxiety",
+    "frighten",
+    "terrify",
+    "petrify",
+    "startle",
+    "intimidate"
+  ],
+  "antonyms": [
+    "reassurance",
+    "reassure"
+  ],
+  "similar_words": [
+    "scare-fire",
+    "scare-head",
+    "scare-mongering",
+    "scare-shot",
+    "scarecrow",
+    "scared",
+    "scaredy-cat",
+    "scaremonger",
+    "scarer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scare.mp3",
+  "local_sound_path": "sounds/scare.mp3"
+}

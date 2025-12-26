@@ -1,0 +1,59 @@
+{
+  "word": "evil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "evil man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26255.png",
+      "local_image_path": "images/26255.png"
+    },
+    {
+      "pos": "n",
+      "example": "do evil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26256.png",
+      "local_image_path": "images/26256.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26257.png",
+      "local_image_path": "images/26257.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119510.png",
+      "local_image_path": "images/119510.png"
+    }
+  ],
+  "synonyms": [
+    "foul",
+    "vile",
+    "nasty",
+    "horrible",
+    "unpleasant",
+    "revolting",
+    "disgusting",
+    "obnoxious",
+    "wickedness",
+    "malevolence",
+    "sin",
+    "iniquity",
+    "vice",
+    "immorality"
+  ],
+  "antonyms": [
+    "good",
+    "pleasant"
+  ],
+  "similar_words": [
+    "evil-doer",
+    "evil-minded",
+    "evil-mindedly",
+    "evilmindedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/evil.mp3",
+  "local_sound_path": "sounds/evil.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "kidnap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43841.png",
+      "local_image_path": "images/43841.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43840.png",
+      "local_image_path": "images/43840.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123271.png",
+      "local_image_path": "images/123271.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123272.png",
+      "local_image_path": "images/123272.png"
+    }
+  ],
+  "synonyms": [
+    "abduction",
+    "capture",
+    "hijack",
+    "abduct",
+    "snatch",
+    "shanghai"
+  ],
+  "antonyms": [
+    "release"
+  ],
+  "similar_words": [
+    "kidnapper",
+    "kidnapping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/kidnap.mp3",
+  "local_sound_path": "sounds/kidnap.mp3"
+}

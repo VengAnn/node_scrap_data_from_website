@@ -1,0 +1,26 @@
+{
+  "word": "writer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I want to be a writer in the future.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101187.png",
+      "local_image_path": "images/101187.png"
+    }
+  ],
+  "synonyms": [
+    "author",
+    "novelist",
+    "playwright",
+    "poet",
+    "journalist",
+    "essayist",
+    "critic"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/writer.mp3",
+  "local_sound_path": "sounds/writer.mp3"
+}

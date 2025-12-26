@@ -1,0 +1,38 @@
+{
+  "word": "debasement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19858.png",
+      "local_image_path": "images/19858.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117798.png",
+      "local_image_path": "images/117798.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117799.png",
+      "local_image_path": "images/117799.png"
+    }
+  ],
+  "synonyms": [
+    "defilement",
+    "ruination",
+    "adulteration",
+    "corruption"
+  ],
+  "antonyms": [
+    "glorification",
+    "purification"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debasement.mp3",
+  "local_sound_path": "sounds/debasement.mp3"
+}

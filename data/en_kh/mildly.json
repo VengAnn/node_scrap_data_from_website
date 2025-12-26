@@ -1,0 +1,61 @@
+{
+  "word": "mildly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "She spoke mildly to us.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108649.png",
+      "local_image_path": "images/108649.png"
+    },
+    {
+      "pos": "adv",
+      "example": "to put it mildly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108650.png",
+      "local_image_path": "images/108650.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124010.png",
+      "local_image_path": "images/124010.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124011.png",
+      "local_image_path": "images/124011.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124012.png",
+      "local_image_path": "images/124012.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124013.png",
+      "local_image_path": "images/124013.png"
+    }
+  ],
+  "synonyms": [
+    "slightly",
+    "somewhat",
+    "gently",
+    "kindly",
+    "meekly",
+    "placidly",
+    "calmly",
+    "serenely",
+    "leniently"
+  ],
+  "antonyms": [
+    "harshly",
+    "considerably"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mildly.mp3",
+  "local_sound_path": "sounds/mildly.mp3"
+}

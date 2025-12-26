@@ -1,0 +1,47 @@
+{
+  "word": "ridge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73580.png",
+      "local_image_path": "images/73580.png"
+    },
+    {
+      "pos": "n",
+      "example": "mountain ridge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73577.png",
+      "local_image_path": "images/73577.png"
+    },
+    {
+      "pos": "n",
+      "example": "ridge of the roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73578.png",
+      "local_image_path": "images/73578.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73579.png",
+      "local_image_path": "images/73579.png"
+    }
+  ],
+  "synonyms": [
+    "fold",
+    "crumple",
+    "crinkle",
+    "crease",
+    "wrinkle",
+    "pucker",
+    "pleat"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ridgeling",
+    "ridgepole"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ridge.mp3",
+  "local_sound_path": "sounds/ridge.mp3"
+}

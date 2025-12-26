@@ -1,0 +1,32 @@
+{
+  "word": "chauvinist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13949.png",
+      "local_image_path": "images/13949.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116239.png",
+      "local_image_path": "images/116239.png"
+    }
+  ],
+  "synonyms": [
+    "bigot",
+    "sexist",
+    "jingoist",
+    "xenophobe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chauvinistic",
+    "chauvinistically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chauvinist.mp3",
+  "local_sound_path": "sounds/chauvinist.mp3"
+}

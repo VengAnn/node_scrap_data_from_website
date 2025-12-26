@@ -1,0 +1,49 @@
+{
+  "word": "severe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "severe paint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78512.png",
+      "local_image_path": "images/78512.png"
+    },
+    {
+      "pos": "adj",
+      "example": "severe discipline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78513.png",
+      "local_image_path": "images/78513.png"
+    },
+    {
+      "pos": "adj",
+      "example": "severe weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78514.png",
+      "local_image_path": "images/78514.png"
+    }
+  ],
+  "synonyms": [
+    "plain",
+    "simple",
+    "unadorned",
+    "acute",
+    "grave",
+    "critical",
+    "serious",
+    "dangerous",
+    "awful",
+    "terrible"
+  ],
+  "antonyms": [
+    "gentle",
+    "slight",
+    "ornate",
+    "easygoing"
+  ],
+  "similar_words": [
+    "severely",
+    "severeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/severe.mp3",
+  "local_sound_path": "sounds/severe.mp3"
+}

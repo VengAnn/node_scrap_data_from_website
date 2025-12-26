@@ -1,0 +1,35 @@
+{
+  "word": "gossamer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32385.png",
+      "local_image_path": "images/32385.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120725.png",
+      "local_image_path": "images/120725.png"
+    }
+  ],
+  "synonyms": [
+    "delicate",
+    "flimsy",
+    "sheer",
+    "filmy",
+    "ethereal",
+    "transparent",
+    "diaphanous",
+    "gauzy"
+  ],
+  "antonyms": [
+    "robust"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gossamer.mp3",
+  "local_sound_path": "sounds/gossamer.mp3"
+}

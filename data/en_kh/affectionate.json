@@ -1,0 +1,48 @@
+{
+  "word": "affectionate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2710.png",
+      "local_image_path": "images/2710.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112215.png",
+      "local_image_path": "images/112215.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112216.png",
+      "local_image_path": "images/112216.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112217.png",
+      "local_image_path": "images/112217.png"
+    }
+  ],
+  "synonyms": [
+    "loving",
+    "demonstrative",
+    "warm",
+    "friendly",
+    "kind",
+    "caring"
+  ],
+  "antonyms": [
+    "cold"
+  ],
+  "similar_words": [
+    "affectionately",
+    "affectionateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affectionate.mp3",
+  "local_sound_path": "sounds/affectionate.mp3"
+}

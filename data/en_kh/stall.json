@@ -1,0 +1,96 @@
+{
+  "word": "stall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "motors stall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84146.png",
+      "local_image_path": "images/84146.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stall for time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84147.png",
+      "local_image_path": "images/84147.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84148.png",
+      "local_image_path": "images/84148.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84143.png",
+      "local_image_path": "images/84143.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84144.png",
+      "local_image_path": "images/84144.png"
+    },
+    {
+      "pos": "n",
+      "example": "theather stall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84145.png",
+      "local_image_path": "images/84145.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84152.png",
+      "local_image_path": "images/84152.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stall a motor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84149.png",
+      "local_image_path": "images/84149.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stall the proceedings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84150.png",
+      "local_image_path": "images/84150.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stall the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84151.png",
+      "local_image_path": "images/84151.png"
+    }
+  ],
+  "synonyms": [
+    "prevaricate",
+    "equivocate",
+    "hedge",
+    "hesitate",
+    "dither",
+    "delay",
+    "stop",
+    "freeze",
+    "pause",
+    "halt"
+  ],
+  "antonyms": [
+    "advance"
+  ],
+  "similar_words": [
+    "stall-fed",
+    "stall-keeper",
+    "stallage",
+    "stalled",
+    "staller",
+    "stallfeed",
+    "stallholder",
+    "stalling",
+    "stallion",
+    "stallnet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stall.mp3",
+  "local_sound_path": "sounds/stall.mp3"
+}

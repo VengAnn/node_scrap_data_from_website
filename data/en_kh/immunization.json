@@ -1,0 +1,24 @@
+{
+  "word": "immunization",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37540.png",
+      "local_image_path": "images/37540.png"
+    }
+  ],
+  "synonyms": [
+    "vaccination",
+    "inoculation",
+    "injection",
+    "shot",
+    "booster"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/immunization.mp3",
+  "local_sound_path": "sounds/immunization.mp3"
+}

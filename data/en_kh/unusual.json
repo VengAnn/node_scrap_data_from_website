@@ -1,0 +1,38 @@
+{
+  "word": "unusual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96485.png",
+      "local_image_path": "images/96485.png"
+    }
+  ],
+  "synonyms": [
+    "uncommon",
+    "rare",
+    "infrequent",
+    "scarce",
+    "strange",
+    "odd",
+    "curious",
+    "extraordinary",
+    "abnormal",
+    "remarkable",
+    "bizarre",
+    "atypical"
+  ],
+  "antonyms": [
+    "ordinary",
+    "common"
+  ],
+  "similar_words": [
+    "unusuality",
+    "unusually",
+    "unusualness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unusual.mp3",
+  "local_sound_path": "sounds/unusual.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "prejudice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66273.png",
+      "local_image_path": "images/66273.png"
+    },
+    {
+      "pos": "n",
+      "example": "racial prejudice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66274.png",
+      "local_image_path": "images/66274.png"
+    },
+    {
+      "pos": "n",
+      "example": "prejudice to his case",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66275.png",
+      "local_image_path": "images/66275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66276.png",
+      "local_image_path": "images/66276.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66277.png",
+      "local_image_path": "images/66277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66278.png",
+      "local_image_path": "images/66278.png"
+    }
+  ],
+  "synonyms": [
+    "influence",
+    "bias",
+    "sway",
+    "slant",
+    "distort",
+    "incline",
+    "predispose",
+    "prepossess"
+  ],
+  "antonyms": [
+    "tolerance",
+    "impartiality"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prejudice.mp3",
+  "local_sound_path": "sounds/prejudice.mp3"
+}

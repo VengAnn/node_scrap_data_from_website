@@ -1,0 +1,27 @@
+{
+  "word": "unpolluted",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/95282.png",
+      "local_image_path": "images/95282.png"
+    }
+  ],
+  "synonyms": [
+    "clean",
+    "pure",
+    "uncontaminated",
+    "fresh",
+    "clear",
+    "sterilized"
+  ],
+  "antonyms": [
+    "contaminated"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unpolluted.mp3",
+  "local_sound_path": "sounds/unpolluted.mp3"
+}

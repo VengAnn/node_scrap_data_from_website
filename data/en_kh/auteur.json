@@ -1,0 +1,30 @@
+{
+  "word": "auteur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6503.png",
+      "local_image_path": "images/6503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114283.png",
+      "local_image_path": "images/114283.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114284.png",
+      "local_image_path": "images/114284.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/auteur.mp3",
+  "local_sound_path": "sounds/auteur.mp3"
+}

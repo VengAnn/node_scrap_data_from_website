@@ -1,0 +1,79 @@
+{
+  "word": "term",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Don't use that term",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88345.png",
+      "local_image_path": "images/88345.png"
+    },
+    {
+      "pos": "n",
+      "example": "term of office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88346.png",
+      "local_image_path": "images/88346.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88347.png",
+      "local_image_path": "images/88347.png"
+    },
+    {
+      "pos": "n",
+      "example": "spring term",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88348.png",
+      "local_image_path": "images/88348.png"
+    },
+    {
+      "pos": "n",
+      "example": "terms of the agreement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88349.png",
+      "local_image_path": "images/88349.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132503.png",
+      "local_image_path": "images/132503.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He has no right to term himself a professor.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88350.png",
+      "local_image_path": "images/88350.png"
+    }
+  ],
+  "synonyms": [
+    "call",
+    "name",
+    "label",
+    "dub",
+    "designate",
+    "characterize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "term paper",
+    "termagant",
+    "termer",
+    "terminability",
+    "terminable",
+    "terminableness",
+    "terminably",
+    "terminal",
+    "terminal market",
+    "terminant",
+    "terminate",
+    "termination",
+    "terminational",
+    "terminative",
+    "terminator",
+    "termini",
+    "terminological"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/term.mp3",
+  "local_sound_path": "sounds/term.mp3"
+}

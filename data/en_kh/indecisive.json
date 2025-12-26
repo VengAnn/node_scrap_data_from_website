@@ -1,0 +1,44 @@
+{
+  "word": "indecisive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38864.png",
+      "local_image_path": "images/38864.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122107.png",
+      "local_image_path": "images/122107.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122108.png",
+      "local_image_path": "images/122108.png"
+    }
+  ],
+  "synonyms": [
+    "inconclusive",
+    "unclear",
+    "unhelpful",
+    "woolly",
+    "indefinite",
+    "indeterminate",
+    "tentative"
+  ],
+  "antonyms": [
+    "decisive",
+    "conclusive"
+  ],
+  "similar_words": [
+    "indecisively",
+    "indecisiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indecisive.mp3",
+  "local_sound_path": "sounds/indecisive.mp3"
+}

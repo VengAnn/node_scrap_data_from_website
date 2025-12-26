@@ -1,0 +1,33 @@
+{
+  "word": "instrumentalist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40793.png",
+      "local_image_path": "images/40793.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122624.png",
+      "local_image_path": "images/122624.png"
+    }
+  ],
+  "synonyms": [
+    "performer",
+    "musician",
+    "player",
+    "conductor",
+    "artiste",
+    "composer",
+    "singer",
+    "artist"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/instrumentalist.mp3",
+  "local_sound_path": "sounds/instrumentalist.mp3"
+}

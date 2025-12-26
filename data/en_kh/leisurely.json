@@ -1,0 +1,41 @@
+{
+  "word": "leisurely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "leisurely pace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45798.png",
+      "local_image_path": "images/45798.png"
+    },
+    {
+      "pos": "adj",
+      "example": "leisurely life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45799.png",
+      "local_image_path": "images/45799.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45800.png",
+      "local_image_path": "images/45800.png"
+    }
+  ],
+  "synonyms": [
+    "unhurried",
+    "easy",
+    "relaxed",
+    "restful",
+    "relaxing",
+    "laid-back",
+    "slow",
+    "gentle"
+  ],
+  "antonyms": [
+    "frantic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leisurely.mp3",
+  "local_sound_path": "sounds/leisurely.mp3"
+}

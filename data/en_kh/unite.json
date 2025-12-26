@@ -1,0 +1,57 @@
+{
+  "word": "unite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94626.png",
+      "local_image_path": "images/94626.png"
+    },
+    {
+      "pos": "tv",
+      "example": "unite two companies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94623.png",
+      "local_image_path": "images/94623.png"
+    },
+    {
+      "pos": "tv",
+      "example": "War can unite a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94624.png",
+      "local_image_path": "images/94624.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94625.png",
+      "local_image_path": "images/94625.png"
+    }
+  ],
+  "synonyms": [
+    "marry",
+    "join",
+    "fuse",
+    "mix",
+    "bond",
+    "connect",
+    "amalgamate",
+    "merge",
+    "blend",
+    "combine",
+    "unify"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "united",
+    "united front",
+    "United Nations",
+    "United States",
+    "unitedly",
+    "uniter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unite.mp3",
+  "local_sound_path": "sounds/unite.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "parody",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60194.png",
+      "local_image_path": "images/60194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60195.png",
+      "local_image_path": "images/60195.png"
+    }
+  ],
+  "synonyms": [
+    "distort",
+    "pervert",
+    "misrepresent",
+    "twist",
+    "ape"
+  ],
+  "antonyms": [
+    "model"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/parody.mp3",
+  "local_sound_path": "sounds/parody.mp3"
+}

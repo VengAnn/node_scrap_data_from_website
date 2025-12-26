@@ -1,0 +1,33 @@
+{
+  "word": "savagery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "state of savagery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76110.png",
+      "local_image_path": "images/76110.png"
+    },
+    {
+      "pos": "n",
+      "example": "savagery of his attack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76111.png",
+      "local_image_path": "images/76111.png"
+    }
+  ],
+  "synonyms": [
+    "cruelty",
+    "violence",
+    "barbarity",
+    "viciousness",
+    "barbarism",
+    "ferocity"
+  ],
+  "antonyms": [
+    "gentleness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/savagery.mp3",
+  "local_sound_path": "sounds/savagery.mp3"
+}

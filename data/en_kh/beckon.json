@@ -1,0 +1,36 @@
+{
+  "word": "beckon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "adventures beckon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7952.png",
+      "local_image_path": "images/7952.png"
+    },
+    {
+      "pos": "tv",
+      "example": "beckon the waiter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7951.png",
+      "local_image_path": "images/7951.png"
+    }
+  ],
+  "synonyms": [
+    "signal",
+    "sign",
+    "summon",
+    "gesture",
+    "indicate",
+    "motion"
+  ],
+  "antonyms": [
+    "dismiss"
+  ],
+  "similar_words": [
+    "beckoner",
+    "beckoningly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beckon.mp3",
+  "local_sound_path": "sounds/beckon.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "indulgent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39283.png",
+      "local_image_path": "images/39283.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122263.png",
+      "local_image_path": "images/122263.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122264.png",
+      "local_image_path": "images/122264.png"
+    }
+  ],
+  "synonyms": [
+    "pleasure-seeking",
+    "selfish",
+    "self-indulgent",
+    "decadent",
+    "extravagant",
+    "greedy"
+  ],
+  "antonyms": [
+    "strict",
+    "abstemious"
+  ],
+  "similar_words": [
+    "indulgently",
+    "indulgentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indulgent.mp3",
+  "local_sound_path": "sounds/indulgent.mp3"
+}

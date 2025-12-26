@@ -1,0 +1,40 @@
+{
+  "word": "disability",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21541.png",
+      "local_image_path": "images/21541.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118343.png",
+      "local_image_path": "images/118343.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118344.png",
+      "local_image_path": "images/118344.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118345.png",
+      "local_image_path": "images/118345.png"
+    }
+  ],
+  "synonyms": [
+    "incapacity",
+    "infirmity",
+    "frailty"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disability.mp3",
+  "local_sound_path": "sounds/disability.mp3"
+}

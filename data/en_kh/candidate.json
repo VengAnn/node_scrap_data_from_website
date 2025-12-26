@@ -1,0 +1,32 @@
+{
+  "word": "candidate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12620.png",
+      "local_image_path": "images/12620.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115909.png",
+      "local_image_path": "images/115909.png"
+    }
+  ],
+  "synonyms": [
+    "applicant",
+    "contender",
+    "entrant",
+    "runner",
+    "aspirant",
+    "nominee",
+    "contestant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/candidate.mp3",
+  "local_sound_path": "sounds/candidate.mp3"
+}

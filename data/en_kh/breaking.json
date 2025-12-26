@@ -1,0 +1,35 @@
+{
+  "word": "breaking",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10866.png",
+      "local_image_path": "images/10866.png"
+    }
+  ],
+  "synonyms": [
+    "contravention",
+    "breach",
+    "infringement",
+    "beating",
+    "surpassing",
+    "exceeding",
+    "topping",
+    "bettering",
+    "cracking"
+  ],
+  "antonyms": [
+    "observance",
+    "mending"
+  ],
+  "similar_words": [
+    "breaking and entering",
+    "breaking bulk",
+    "breaking point"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breaking.mp3",
+  "local_sound_path": "sounds/breaking.mp3"
+}

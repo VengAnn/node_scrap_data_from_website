@@ -1,0 +1,33 @@
+{
+  "word": "salutation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75436.png",
+      "local_image_path": "images/75436.png"
+    },
+    {
+      "pos": "n",
+      "example": "He raised his hat in salutation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75435.png",
+      "local_image_path": "images/75435.png"
+    }
+  ],
+  "synonyms": [
+    "greeting",
+    "salute",
+    "acknowledgment",
+    "welcome",
+    "gesture",
+    "acknowledgement",
+    "nod",
+    "salaam"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/salutation.mp3",
+  "local_sound_path": "sounds/salutation.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "coincide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "our holidays don't coincide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15580.png",
+      "local_image_path": "images/15580.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116644.png",
+      "local_image_path": "images/116644.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116645.png",
+      "local_image_path": "images/116645.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116646.png",
+      "local_image_path": "images/116646.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116647.png",
+      "local_image_path": "images/116647.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116648.png",
+      "local_image_path": "images/116648.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116649.png",
+      "local_image_path": "images/116649.png"
+    }
+  ],
+  "synonyms": [
+    "agree",
+    "match",
+    "correspond",
+    "concur",
+    "overlap",
+    "accord"
+  ],
+  "antonyms": [
+    "differ"
+  ],
+  "similar_words": [
+    "coincidence",
+    "coincident",
+    "coincidently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coincide.mp3",
+  "local_sound_path": "sounds/coincide.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "abhor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She abhors cruelty to animals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1396.png",
+      "local_image_path": "images/1396.png"
+    }
+  ],
+  "synonyms": [
+    "detest",
+    "hate",
+    "loathe",
+    "dislike",
+    "despise"
+  ],
+  "antonyms": [
+    "adore"
+  ],
+  "similar_words": [
+    "abhorrence",
+    "abhorrency",
+    "abhorrent",
+    "abhorrently",
+    "abhorrer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abhor.mp3",
+  "local_sound_path": "sounds/abhor.mp3"
+}

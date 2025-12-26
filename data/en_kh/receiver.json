@@ -1,0 +1,28 @@
+{
+  "word": "receiver",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Are you are a receiver of this letter?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70721.png",
+      "local_image_path": "images/70721.png"
+    }
+  ],
+  "synonyms": [
+    "recipient",
+    "beneficiary",
+    "heir",
+    "addressee",
+    "inheritor",
+    "heritor"
+  ],
+  "antonyms": [
+    "sender",
+    "donor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/receiver.mp3",
+  "local_sound_path": "sounds/receiver.mp3"
+}

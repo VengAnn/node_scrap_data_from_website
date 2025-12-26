@@ -1,0 +1,38 @@
+{
+  "word": "reorganize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72243.png",
+      "local_image_path": "images/72243.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126863.png",
+      "local_image_path": "images/126863.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126864.png",
+      "local_image_path": "images/126864.png"
+    }
+  ],
+  "synonyms": [
+    "reorder",
+    "rearrange",
+    "restructure",
+    "adjust",
+    "change",
+    "reschedule",
+    "alter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reorganize.mp3",
+  "local_sound_path": "sounds/reorganize.mp3"
+}

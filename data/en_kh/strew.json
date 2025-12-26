@@ -1,0 +1,36 @@
+{
+  "word": "strew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85372.png",
+      "local_image_path": "images/85372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85373.png",
+      "local_image_path": "images/85373.png"
+    }
+  ],
+  "synonyms": [
+    "encumber",
+    "litter",
+    "fill",
+    "cover",
+    "sprinkle",
+    "dot",
+    "clutter",
+    "pepper"
+  ],
+  "antonyms": [
+    "free",
+    "gather"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strew.mp3",
+  "local_sound_path": "sounds/strew.mp3"
+}

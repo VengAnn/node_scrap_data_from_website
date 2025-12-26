@@ -1,0 +1,52 @@
+{
+  "word": "humanity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36287.png",
+      "local_image_path": "images/36287.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36288.png",
+      "local_image_path": "images/36288.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36289.png",
+      "local_image_path": "images/36289.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36290.png",
+      "local_image_path": "images/36290.png"
+    },
+    {
+      "pos": "n",
+      "example": "study mumanity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36291.png",
+      "local_image_path": "images/36291.png"
+    }
+  ],
+  "synonyms": [
+    "kindness",
+    "charity",
+    "compassion",
+    "sympathy",
+    "mercy",
+    "benevolence"
+  ],
+  "antonyms": [
+    "inhumanity",
+    "cruelty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/humanity.mp3",
+  "local_sound_path": "sounds/humanity.mp3"
+}

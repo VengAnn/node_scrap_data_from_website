@@ -1,0 +1,32 @@
+{
+  "word": "crusade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18861.png",
+      "local_image_path": "images/18861.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18860.png",
+      "local_image_path": "images/18860.png"
+    }
+  ],
+  "synonyms": [
+    "campaign",
+    "movement",
+    "battle",
+    "cause",
+    "fight",
+    "war",
+    "struggle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crusade.mp3",
+  "local_sound_path": "sounds/crusade.mp3"
+}

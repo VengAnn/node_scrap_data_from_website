@@ -1,0 +1,45 @@
+{
+  "word": "abroad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1575.png",
+      "local_image_path": "images/1575.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111826.png",
+      "local_image_path": "images/111826.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113051.png",
+      "local_image_path": "images/113051.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113052.png",
+      "local_image_path": "images/113052.png"
+    },
+    {
+      "pos": "lit",
+      "example": "my younger sister has gone abroad",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1576.png",
+      "local_image_path": "images/1576.png"
+    }
+  ],
+  "synonyms": [
+    "overseas",
+    "away"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abroad.mp3",
+  "local_sound_path": "sounds/abroad.mp3"
+}

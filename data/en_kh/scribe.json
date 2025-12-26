@@ -1,0 +1,40 @@
+{
+  "word": "scribe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77187.png",
+      "local_image_path": "images/77187.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127567.png",
+      "local_image_path": "images/127567.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127568.png",
+      "local_image_path": "images/127568.png"
+    }
+  ],
+  "synonyms": [
+    "engrave",
+    "inscribe",
+    "etch",
+    "cut",
+    "notch",
+    "score"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "scribe-awl",
+    "scriber"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scribe.mp3",
+  "local_sound_path": "sounds/scribe.mp3"
+}

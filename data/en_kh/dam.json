@@ -1,0 +1,55 @@
+{
+  "word": "dam",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19535.png",
+      "local_image_path": "images/19535.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19537.png",
+      "local_image_path": "images/19537.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19536.png",
+      "local_image_path": "images/19536.png"
+    }
+  ],
+  "synonyms": [
+    "block",
+    "stem",
+    "inhibit",
+    "blockade",
+    "control",
+    "hinder",
+    "obstruct",
+    "impede",
+    "restrict"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "damage",
+    "damage control",
+    "damageability",
+    "damageable",
+    "damageably",
+    "damaged",
+    "damaging",
+    "damascene",
+    "damask",
+    "damask's rose",
+    "dame",
+    "dammar",
+    "damn",
+    "damnable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dam.mp3",
+  "local_sound_path": "sounds/dam.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "friendliness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30311.png",
+      "local_image_path": "images/30311.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120456.png",
+      "local_image_path": "images/120456.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120457.png",
+      "local_image_path": "images/120457.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120458.png",
+      "local_image_path": "images/120458.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120459.png",
+      "local_image_path": "images/120459.png"
+    }
+  ],
+  "synonyms": [
+    "sociability",
+    "easiness",
+    "responsiveness",
+    "affability",
+    "kindliness",
+    "pleasantness",
+    "approachability"
+  ],
+  "antonyms": [
+    "mean",
+    "cruel"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/friendliness.mp3",
+  "local_sound_path": "sounds/friendliness.mp3"
+}

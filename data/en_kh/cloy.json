@@ -1,0 +1,35 @@
+{
+  "word": "cloy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15185.png",
+      "local_image_path": "images/15185.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15184.png",
+      "local_image_path": "images/15184.png"
+    }
+  ],
+  "synonyms": [
+    "nauseate",
+    "sicken",
+    "satiate",
+    "pall",
+    "glut",
+    "sate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cloying",
+    "cloyingly",
+    "cloyingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloy.mp3",
+  "local_sound_path": "sounds/cloy.mp3"
+}

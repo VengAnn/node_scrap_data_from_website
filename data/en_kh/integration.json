@@ -1,0 +1,49 @@
+{
+  "word": "integration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "racial integration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40948.png",
+      "local_image_path": "images/40948.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40949.png",
+      "local_image_path": "images/40949.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122677.png",
+      "local_image_path": "images/122677.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122678.png",
+      "local_image_path": "images/122678.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122679.png",
+      "local_image_path": "images/122679.png"
+    }
+  ],
+  "synonyms": [
+    "addition",
+    "mixing",
+    "incorporation",
+    "combination",
+    "amalgamation",
+    "assimilation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/integration.mp3",
+  "local_sound_path": "sounds/integration.mp3"
+}

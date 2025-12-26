@@ -1,0 +1,40 @@
+{
+  "word": "dowry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22929.png",
+      "local_image_path": "images/22929.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130273.png",
+      "local_image_path": "images/130273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130274.png",
+      "local_image_path": "images/130274.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130275.png",
+      "local_image_path": "images/130275.png"
+    }
+  ],
+  "synonyms": [
+    "gift",
+    "offering",
+    "grant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dowry.mp3",
+  "local_sound_path": "sounds/dowry.mp3"
+}

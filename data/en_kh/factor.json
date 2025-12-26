@@ -1,0 +1,47 @@
+{
+  "word": "factor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cost factor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27320.png",
+      "local_image_path": "images/27320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27321.png",
+      "local_image_path": "images/27321.png"
+    }
+  ],
+  "synonyms": [
+    "issue",
+    "thing",
+    "feature",
+    "aspect",
+    "reason",
+    "cause",
+    "part",
+    "dynamic",
+    "influence",
+    "element",
+    "consideration",
+    "circumstance",
+    "component"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "factorage",
+    "factorial",
+    "factoring",
+    "factorise",
+    "factorization",
+    "factorize",
+    "factory",
+    "factory farm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/factor.mp3",
+  "local_sound_path": "sounds/factor.mp3"
+}

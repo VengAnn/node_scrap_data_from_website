@@ -1,0 +1,40 @@
+{
+  "word": "brisk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "brisk walk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11204.png",
+      "local_image_path": "images/11204.png"
+    }
+  ],
+  "synonyms": [
+    "cold",
+    "cool",
+    "sharp",
+    "fresh",
+    "fast",
+    "quick",
+    "rapid",
+    "hurried",
+    "vigorous",
+    "efficient",
+    "energetic"
+  ],
+  "antonyms": [
+    "slow",
+    "soothing",
+    "measured",
+    "warm"
+  ],
+  "similar_words": [
+    "brisken",
+    "brisket",
+    "briskly",
+    "briskness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brisk.mp3",
+  "local_sound_path": "sounds/brisk.mp3"
+}

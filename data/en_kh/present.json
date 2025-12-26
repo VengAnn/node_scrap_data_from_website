@@ -1,0 +1,111 @@
+{
+  "word": "present",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "present government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66552.png",
+      "local_image_path": "images/66552.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125956.png",
+      "local_image_path": "images/125956.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125957.png",
+      "local_image_path": "images/125957.png"
+    },
+    {
+      "pos": "n",
+      "example": "at present",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66553.png",
+      "local_image_path": "images/66553.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66557.png",
+      "local_image_path": "images/66557.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125958.png",
+      "local_image_path": "images/125958.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125959.png",
+      "local_image_path": "images/125959.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125960.png",
+      "local_image_path": "images/125960.png"
+    },
+    {
+      "pos": "tv",
+      "example": "present a gift",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66554.png",
+      "local_image_path": "images/66554.png"
+    },
+    {
+      "pos": "tv",
+      "example": "present a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66555.png",
+      "local_image_path": "images/66555.png"
+    },
+    {
+      "pos": "tv",
+      "example": "present a play",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66556.png",
+      "local_image_path": "images/66556.png"
+    }
+  ],
+  "synonyms": [
+    "introduce",
+    "impart",
+    "offer",
+    "expound",
+    "submit",
+    "state",
+    "communicate"
+  ],
+  "antonyms": [
+    "absent",
+    "past",
+    "deny"
+  ],
+  "similar_words": [
+    "present-day",
+    "presentability",
+    "presentable",
+    "presentableness",
+    "presentably",
+    "presentation",
+    "presentational",
+    "presentative",
+    "presentativeness",
+    "presentee",
+    "presenter",
+    "presential",
+    "presentiality",
+    "presentiate",
+    "presentient",
+    "presentiment",
+    "presentimental",
+    "presentive",
+    "presently",
+    "presentment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/present.mp3",
+  "local_sound_path": "sounds/present.mp3"
+}

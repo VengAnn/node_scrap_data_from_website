@@ -1,0 +1,79 @@
+{
+  "word": "manage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105751.png",
+      "local_image_path": "images/105751.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manage a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105745.png",
+      "local_image_path": "images/105745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manage a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105746.png",
+      "local_image_path": "images/105746.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manage another serving",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105747.png",
+      "local_image_path": "images/105747.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manage a contribution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105748.png",
+      "local_image_path": "images/105748.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manage a performer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105749.png",
+      "local_image_path": "images/105749.png"
+    },
+    {
+      "pos": "tv",
+      "example": "manage to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105750.png",
+      "local_image_path": "images/105750.png"
+    }
+  ],
+  "synonyms": [
+    "cope",
+    "survive",
+    "boss",
+    "control",
+    "master",
+    "discipline",
+    "dominate"
+  ],
+  "antonyms": [
+    "fail"
+  ],
+  "similar_words": [
+    "manageability",
+    "manageable",
+    "manageableness",
+    "manageably",
+    "managed current",
+    "managed fund",
+    "manageless",
+    "management",
+    "manager",
+    "manageress",
+    "managerial",
+    "managerially",
+    "managership",
+    "managery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/manage.mp3",
+  "local_sound_path": "sounds/manage.mp3"
+}

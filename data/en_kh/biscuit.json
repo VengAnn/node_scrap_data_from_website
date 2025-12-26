@@ -1,0 +1,33 @@
+{
+  "word": "biscuit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9170.png",
+      "local_image_path": "images/9170.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115114.png",
+      "local_image_path": "images/115114.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115115.png",
+      "local_image_path": "images/115115.png"
+    }
+  ],
+  "synonyms": [
+    "wafer",
+    "cracker"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/biscuit.mp3",
+  "local_sound_path": "sounds/biscuit.mp3"
+}

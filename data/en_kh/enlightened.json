@@ -1,0 +1,35 @@
+{
+  "word": "enlightened",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25123.png",
+      "local_image_path": "images/25123.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119220.png",
+      "local_image_path": "images/119220.png"
+    }
+  ],
+  "synonyms": [
+    "progressive",
+    "free-thinking",
+    "liberal",
+    "open-minded",
+    "tolerant",
+    "informed",
+    "educated",
+    "told"
+  ],
+  "antonyms": [
+    "intolerant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enlightened.mp3",
+  "local_sound_path": "sounds/enlightened.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "extinguish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "extinguish a fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27054.png",
+      "local_image_path": "images/27054.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extinguish hope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27055.png",
+      "local_image_path": "images/27055.png"
+    }
+  ],
+  "synonyms": [
+    "eclipse",
+    "overshadow",
+    "outshine",
+    "obscure",
+    "surpass"
+  ],
+  "antonyms": [
+    "light"
+  ],
+  "similar_words": [
+    "extinguishable",
+    "extinguisher",
+    "extinguishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extinguish.mp3",
+  "local_sound_path": "sounds/extinguish.mp3"
+}

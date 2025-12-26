@@ -1,0 +1,43 @@
+{
+  "word": "perceptible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61565.png",
+      "local_image_path": "images/61565.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125318.png",
+      "local_image_path": "images/125318.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125319.png",
+      "local_image_path": "images/125319.png"
+    }
+  ],
+  "synonyms": [
+    "noticeable",
+    "traceable",
+    "observable",
+    "appreciable",
+    "visible",
+    "definite",
+    "distinguishable",
+    "audible",
+    "discernible"
+  ],
+  "antonyms": [
+    "undetectable",
+    "invisible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perceptible.mp3",
+  "local_sound_path": "sounds/perceptible.mp3"
+}

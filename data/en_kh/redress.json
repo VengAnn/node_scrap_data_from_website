@@ -1,0 +1,68 @@
+{
+  "word": "redress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71208.png",
+      "local_image_path": "images/71208.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71206.png",
+      "local_image_path": "images/71206.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71207.png",
+      "local_image_path": "images/71207.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126646.png",
+      "local_image_path": "images/126646.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126647.png",
+      "local_image_path": "images/126647.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126648.png",
+      "local_image_path": "images/126648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126649.png",
+      "local_image_path": "images/126649.png"
+    }
+  ],
+  "synonyms": [
+    "compensation",
+    "reparation",
+    "recompense",
+    "reimbursement",
+    "amends",
+    "restore",
+    "equalize",
+    "right",
+    "rectify",
+    "remedy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "redresser",
+    "redressor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/redress.mp3",
+  "local_sound_path": "sounds/redress.mp3"
+}

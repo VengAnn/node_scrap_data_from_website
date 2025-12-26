@@ -1,0 +1,42 @@
+{
+  "word": "betoken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8497.png",
+      "local_image_path": "images/8497.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114983.png",
+      "local_image_path": "images/114983.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114984.png",
+      "local_image_path": "images/114984.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114985.png",
+      "local_image_path": "images/114985.png"
+    }
+  ],
+  "synonyms": [
+    "augur",
+    "portend",
+    "promise",
+    "divine",
+    "prefigure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/betoken.mp3",
+  "local_sound_path": "sounds/betoken.mp3"
+}

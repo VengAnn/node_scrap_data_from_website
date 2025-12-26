@@ -1,0 +1,54 @@
+{
+  "word": "honest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "honest man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35777.png",
+      "local_image_path": "images/35777.png"
+    },
+    {
+      "pos": "adj",
+      "example": "honest answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35778.png",
+      "local_image_path": "images/35778.png"
+    },
+    {
+      "pos": "adj",
+      "example": "honest effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35779.png",
+      "local_image_path": "images/35779.png"
+    },
+    {
+      "pos": "adj",
+      "example": "honest face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35780.png",
+      "local_image_path": "images/35780.png"
+    }
+  ],
+  "synonyms": [
+    "trustworthy",
+    "upright",
+    "good",
+    "decent",
+    "law-abiding",
+    "reliable",
+    "scrupulous",
+    "honorable",
+    "moral"
+  ],
+  "antonyms": [
+    "dishonest",
+    "deceitful",
+    "untruthful",
+    "immoral"
+  ],
+  "similar_words": [
+    "honestly",
+    "honesty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/honest.mp3",
+  "local_sound_path": "sounds/honest.mp3"
+}

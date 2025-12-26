@@ -1,0 +1,31 @@
+{
+  "word": "curdle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The milk has curdle.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19142.png",
+      "local_image_path": "images/19142.png"
+    },
+    {
+      "pos": "tv",
+      "example": "curdle milk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19143.png",
+      "local_image_path": "images/19143.png"
+    }
+  ],
+  "synonyms": [
+    "sour",
+    "turn",
+    "spoil",
+    "ferment"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curdle.mp3",
+  "local_sound_path": "sounds/curdle.mp3"
+}

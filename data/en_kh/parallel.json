@@ -1,0 +1,72 @@
+{
+  "word": "parallel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "parallel lines",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59945.png",
+      "local_image_path": "images/59945.png"
+    },
+    {
+      "pos": "adj",
+      "example": "parallel development",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59946.png",
+      "local_image_path": "images/59946.png"
+    },
+    {
+      "pos": "adj",
+      "example": "parallel opinions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59947.png",
+      "local_image_path": "images/59947.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59948.png",
+      "local_image_path": "images/59948.png"
+    },
+    {
+      "pos": "n",
+      "example": "draw a between",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59949.png",
+      "local_image_path": "images/59949.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59950.png",
+      "local_image_path": "images/59950.png"
+    }
+  ],
+  "synonyms": [
+    "counterpart",
+    "match",
+    "equal",
+    "equivalent",
+    "twin",
+    "like",
+    "similarity",
+    "correspondence",
+    "equivalence",
+    "resemblance",
+    "analogy",
+    "comparison",
+    "congruence"
+  ],
+  "antonyms": [
+    "dissimilar",
+    "unlike",
+    "dissimilarity",
+    "opposite"
+  ],
+  "similar_words": [
+    "parallel bars",
+    "parallelepiped",
+    "parallelism",
+    "parallelogram"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/parallel.mp3",
+  "local_sound_path": "sounds/parallel.mp3"
+}

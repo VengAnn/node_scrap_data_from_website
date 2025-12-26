@@ -1,0 +1,32 @@
+{
+  "word": "dally",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "To dally with a woman's affection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19529.png",
+      "local_image_path": "images/19529.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19530.png",
+      "local_image_path": "images/19530.png"
+    }
+  ],
+  "synonyms": [
+    "linger",
+    "dawdle",
+    "loiter"
+  ],
+  "antonyms": [
+    "hurry"
+  ],
+  "similar_words": [
+    "dallyingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dally.mp3",
+  "local_sound_path": "sounds/dally.mp3"
+}

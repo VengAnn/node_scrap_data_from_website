@@ -1,0 +1,48 @@
+{
+  "word": "acceptance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "present a bill for acceptance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1800.png",
+      "local_image_path": "images/1800.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111989.png",
+      "local_image_path": "images/111989.png"
+    }
+  ],
+  "synonyms": [
+    "belief",
+    "acknowledgment",
+    "credence",
+    "currency",
+    "agreement",
+    "approval",
+    "recognition",
+    "tolerance",
+    "acknowledgement",
+    "acquiescence",
+    "concurrence",
+    "assent",
+    "accession",
+    "toleration"
+  ],
+  "antonyms": [
+    "rejection",
+    "refusal",
+    "disapproval"
+  ],
+  "similar_words": [
+    "acceptance certificate",
+    "acceptance commission",
+    "acceptance credit",
+    "acceptance house"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acceptance.mp3",
+  "local_sound_path": "sounds/acceptance.mp3"
+}

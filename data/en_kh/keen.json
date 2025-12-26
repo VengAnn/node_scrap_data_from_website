@@ -1,0 +1,76 @@
+{
+  "word": "keen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43691.png",
+      "local_image_path": "images/43691.png"
+    },
+    {
+      "pos": "adj",
+      "example": "keen eye",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43692.png",
+      "local_image_path": "images/43692.png"
+    },
+    {
+      "pos": "adj",
+      "example": "keen interest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43693.png",
+      "local_image_path": "images/43693.png"
+    },
+    {
+      "pos": "adj",
+      "example": "keen wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43694.png",
+      "local_image_path": "images/43694.png"
+    },
+    {
+      "pos": "adj",
+      "example": "keen competition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43695.png",
+      "local_image_path": "images/43695.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123261.png",
+      "local_image_path": "images/123261.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43698.png",
+      "local_image_path": "images/43698.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130471.png",
+      "local_image_path": "images/130471.png"
+    }
+  ],
+  "synonyms": [
+    "intense",
+    "strong",
+    "acute",
+    "clear",
+    "perceptive"
+  ],
+  "antonyms": [
+    "indifferent",
+    "blunt",
+    "dull",
+    "mild",
+    "prohibitive",
+    "insensitive"
+  ],
+  "similar_words": [
+    "keenly",
+    "keenness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/keen.mp3",
+  "local_sound_path": "sounds/keen.mp3"
+}

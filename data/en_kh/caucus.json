@@ -1,0 +1,42 @@
+{
+  "word": "caucus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13399.png",
+      "local_image_path": "images/13399.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13398.png",
+      "local_image_path": "images/13398.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130055.png",
+      "local_image_path": "images/130055.png"
+    }
+  ],
+  "synonyms": [
+    "conclave",
+    "group",
+    "assembly",
+    "committee",
+    "conference",
+    "convention",
+    "bloc",
+    "alliance",
+    "league",
+    "union",
+    "faction"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caucus.mp3",
+  "local_sound_path": "sounds/caucus.mp3"
+}

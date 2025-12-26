@@ -1,0 +1,45 @@
+{
+  "word": "luxury",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48248.png",
+      "local_image_path": "images/48248.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48249.png",
+      "local_image_path": "images/48249.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123690.png",
+      "local_image_path": "images/123690.png"
+    }
+  ],
+  "synonyms": [
+    "treat",
+    "extra",
+    "extravagance",
+    "indulgence",
+    "bonus",
+    "lavishness",
+    "comfort",
+    "sumptuousness",
+    "opulence",
+    "magnificence"
+  ],
+  "antonyms": [
+    "austere",
+    "frugal",
+    "poor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/luxury.mp3",
+  "local_sound_path": "sounds/luxury.mp3"
+}

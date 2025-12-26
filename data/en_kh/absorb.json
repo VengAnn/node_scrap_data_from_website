@@ -1,0 +1,75 @@
+{
+  "word": "absorb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "to be absorbed in playing chess",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1650.png",
+      "local_image_path": "images/1650.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113064.png",
+      "local_image_path": "images/113064.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113065.png",
+      "local_image_path": "images/113065.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113066.png",
+      "local_image_path": "images/113066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113067.png",
+      "local_image_path": "images/113067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113068.png",
+      "local_image_path": "images/113068.png"
+    }
+  ],
+  "synonyms": [
+    "engross",
+    "fascinate",
+    "engage",
+    "captivate",
+    "understand",
+    "learn",
+    "grasp",
+    "admit",
+    "recognize",
+    "realize",
+    "take in"
+  ],
+  "antonyms": [
+    "exude",
+    "bore"
+  ],
+  "similar_words": [
+    "absorbability",
+    "absorbable",
+    "absorbed",
+    "absorbedly",
+    "absorbedness",
+    "absorbefacient",
+    "absorbency",
+    "absorbent",
+    "absorber",
+    "absorbing",
+    "absorbingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absorb.mp3",
+  "local_sound_path": "sounds/absorb.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "terminate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88366.png",
+      "local_image_path": "images/88366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88365.png",
+      "local_image_path": "images/88365.png"
+    }
+  ],
+  "synonyms": [
+    "end",
+    "finish",
+    "conclude",
+    "stop",
+    "cease",
+    "expire",
+    "lapse"
+  ],
+  "antonyms": [
+    "start",
+    "hire"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terminate.mp3",
+  "local_sound_path": "sounds/terminate.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "harvest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "help with harvest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33977.png",
+      "local_image_path": "images/33977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33978.png",
+      "local_image_path": "images/33978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harvest rice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33979.png",
+      "local_image_path": "images/33979.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harvest crops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33980.png",
+      "local_image_path": "images/33980.png"
+    }
+  ],
+  "synonyms": [
+    "reap",
+    "gather",
+    "collect",
+    "pick",
+    "garner",
+    "mow",
+    "ingather"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "harvest festival",
+    "harvester",
+    "harvesting strategy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harvest.mp3",
+  "local_sound_path": "sounds/harvest.mp3"
+}

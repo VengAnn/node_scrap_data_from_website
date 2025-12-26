@@ -1,0 +1,47 @@
+{
+  "word": "worth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I paid only $100 for this used car but it's worth much more",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101044.png",
+      "local_image_path": "images/101044.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101042.png",
+      "local_image_path": "images/101042.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101043.png",
+      "local_image_path": "images/101043.png"
+    }
+  ],
+  "synonyms": [
+    "value",
+    "merit",
+    "appeal",
+    "significance",
+    "attraction",
+    "importance",
+    "meaning"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "worthful",
+    "worthily",
+    "worthiness",
+    "worthless",
+    "worthlessly",
+    "worthlessness",
+    "worthwhile",
+    "worthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/worth.mp3",
+  "local_sound_path": "sounds/worth.mp3"
+}

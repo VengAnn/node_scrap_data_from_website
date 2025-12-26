@@ -1,0 +1,41 @@
+{
+  "word": "jail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42674.png",
+      "local_image_path": "images/42674.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42675.png",
+      "local_image_path": "images/42675.png"
+    }
+  ],
+  "synonyms": [
+    "imprison",
+    "incarcerate",
+    "confine",
+    "detain"
+  ],
+  "antonyms": [
+    "free"
+  ],
+  "similar_words": [
+    "jailbait",
+    "jailbird",
+    "jailbreak",
+    "jailer",
+    "jaileress",
+    "jailering",
+    "jailfever",
+    "jailhouse",
+    "jailoring"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jail.mp3",
+  "local_sound_path": "sounds/jail.mp3"
+}

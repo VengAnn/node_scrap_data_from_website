@@ -1,0 +1,38 @@
+{
+  "word": "prohibition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67510.png",
+      "local_image_path": "images/67510.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67511.png",
+      "local_image_path": "images/67511.png"
+    }
+  ],
+  "synonyms": [
+    "ban",
+    "bar",
+    "exclusion",
+    "embargo",
+    "proscription",
+    "prevention",
+    "veto",
+    "injunction"
+  ],
+  "antonyms": [
+    "permission"
+  ],
+  "similar_words": [
+    "prohibitionism",
+    "prohibitionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prohibition.mp3",
+  "local_sound_path": "sounds/prohibition.mp3"
+}

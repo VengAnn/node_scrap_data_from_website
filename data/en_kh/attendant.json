@@ -1,0 +1,70 @@
+{
+  "word": "attendant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "attendant symptoms",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6254.png",
+      "local_image_path": "images/6254.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114235.png",
+      "local_image_path": "images/114235.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114236.png",
+      "local_image_path": "images/114236.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6253.png",
+      "local_image_path": "images/6253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112858.png",
+      "local_image_path": "images/112858.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112859.png",
+      "local_image_path": "images/112859.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112860.png",
+      "local_image_path": "images/112860.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112861.png",
+      "local_image_path": "images/112861.png"
+    }
+  ],
+  "synonyms": [
+    "assistant",
+    "helper",
+    "employee",
+    "escort",
+    "usher",
+    "bridesmaid",
+    "groomsman"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "attendantly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attendant.mp3",
+  "local_sound_path": "sounds/attendant.mp3"
+}

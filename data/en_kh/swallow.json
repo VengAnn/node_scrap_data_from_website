@@ -1,0 +1,56 @@
+{
+  "word": "swallow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86719.png",
+      "local_image_path": "images/86719.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86720.png",
+      "local_image_path": "images/86720.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86721.png",
+      "local_image_path": "images/86721.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swallow medicine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86716.png",
+      "local_image_path": "images/86716.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swallow a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86717.png",
+      "local_image_path": "images/86717.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swallow one's word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86718.png",
+      "local_image_path": "images/86718.png"
+    }
+  ],
+  "synonyms": [
+    "retract",
+    "recant"
+  ],
+  "antonyms": [
+    "regurgitate",
+    "reject",
+    "express",
+    "vomit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swallow.mp3",
+  "local_sound_path": "sounds/swallow.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "word": "entice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "He enticed the young girl away from home.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25302.png",
+      "local_image_path": "images/25302.png"
+    }
+  ],
+  "synonyms": [
+    "beguile",
+    "charm",
+    "fascinate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "enticement",
+    "enticer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entice.mp3",
+  "local_sound_path": "sounds/entice.mp3"
+}

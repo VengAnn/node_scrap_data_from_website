@@ -1,0 +1,43 @@
+{
+  "word": "delusion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20373.png",
+      "local_image_path": "images/20373.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117988.png",
+      "local_image_path": "images/117988.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117989.png",
+      "local_image_path": "images/117989.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117990.png",
+      "local_image_path": "images/117990.png"
+    }
+  ],
+  "synonyms": [
+    "fallacy",
+    "myth",
+    "superstition"
+  ],
+  "antonyms": [
+    "reality",
+    "truth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delusion.mp3",
+  "local_sound_path": "sounds/delusion.mp3"
+}

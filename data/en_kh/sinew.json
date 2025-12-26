@@ -1,0 +1,48 @@
+{
+  "word": "sinew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80296.png",
+      "local_image_path": "images/80296.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80297.png",
+      "local_image_path": "images/80297.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80298.png",
+      "local_image_path": "images/80298.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127896.png",
+      "local_image_path": "images/127896.png"
+    }
+  ],
+  "synonyms": [
+    "tendon",
+    "ligament",
+    "muscle"
+  ],
+  "antonyms": [
+    "frailty"
+  ],
+  "similar_words": [
+    "sinewiness",
+    "sinewish",
+    "sinewless",
+    "sinewous",
+    "sinewy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sinew.mp3",
+  "local_sound_path": "sounds/sinew.mp3"
+}

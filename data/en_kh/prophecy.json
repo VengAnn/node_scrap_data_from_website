@@ -1,0 +1,36 @@
+{
+  "word": "prophecy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67797.png",
+      "local_image_path": "images/67797.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67798.png",
+      "local_image_path": "images/67798.png"
+    },
+    {
+      "pos": "n",
+      "example": "gift of prophecy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67799.png",
+      "local_image_path": "images/67799.png"
+    }
+  ],
+  "synonyms": [
+    "prediction",
+    "forecast",
+    "divination",
+    "insight",
+    "foresight"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prophecy.mp3",
+  "local_sound_path": "sounds/prophecy.mp3"
+}

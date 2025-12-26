@@ -1,0 +1,74 @@
+{
+  "word": "nice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55672.png",
+      "local_image_path": "images/55672.png"
+    },
+    {
+      "pos": "adj",
+      "example": "nice apple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55673.png",
+      "local_image_path": "images/55673.png"
+    },
+    {
+      "pos": "adj",
+      "example": "nice man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55674.png",
+      "local_image_path": "images/55674.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124622.png",
+      "local_image_path": "images/124622.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124623.png",
+      "local_image_path": "images/124623.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124624.png",
+      "local_image_path": "images/124624.png"
+    }
+  ],
+  "synonyms": [
+    "finicky",
+    "fastidious",
+    "careful",
+    "trivial",
+    "fussy",
+    "choosy",
+    "discriminating",
+    "particular",
+    "painstaking",
+    "scrupulous",
+    "precise",
+    "meticulous",
+    "exact"
+  ],
+  "antonyms": [
+    "unpleasant",
+    "nasty",
+    "improper",
+    "unattractive",
+    "broad"
+  ],
+  "similar_words": [
+    "nice-looking",
+    "nice-preserved",
+    "nicely",
+    "niceness",
+    "nicety"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nice.mp3",
+  "local_sound_path": "sounds/nice.mp3"
+}

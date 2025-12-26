@@ -1,0 +1,38 @@
+{
+  "word": "authorization",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6521.png",
+      "local_image_path": "images/6521.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112907.png",
+      "local_image_path": "images/112907.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112908.png",
+      "local_image_path": "images/112908.png"
+    }
+  ],
+  "synonyms": [
+    "approval",
+    "agreement",
+    "sanction",
+    "permission",
+    "consent",
+    "endorsement",
+    "leave"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authorization.mp3",
+  "local_sound_path": "sounds/authorization.mp3"
+}

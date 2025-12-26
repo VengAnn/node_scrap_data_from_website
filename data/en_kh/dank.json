@@ -1,0 +1,32 @@
+{
+  "word": "dank",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19617.png",
+      "local_image_path": "images/19617.png"
+    }
+  ],
+  "synonyms": [
+    "damp",
+    "chilly",
+    "moist",
+    "clammy",
+    "humid",
+    "soggy",
+    "wet",
+    "fusty"
+  ],
+  "antonyms": [
+    "warm"
+  ],
+  "similar_words": [
+    "dankly",
+    "dankness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dank.mp3",
+  "local_sound_path": "sounds/dank.mp3"
+}

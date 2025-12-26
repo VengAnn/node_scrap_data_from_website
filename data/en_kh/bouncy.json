@@ -1,0 +1,35 @@
+{
+  "word": "bouncy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10358.png",
+      "local_image_path": "images/10358.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131044.png",
+      "local_image_path": "images/131044.png"
+    }
+  ],
+  "synonyms": [
+    "lively",
+    "effervescent",
+    "energetic",
+    "bubbly",
+    "playful",
+    "vivacious",
+    "animated",
+    "lethargic"
+  ],
+  "antonyms": [
+    "firm"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bouncy.mp3",
+  "local_sound_path": "sounds/bouncy.mp3"
+}

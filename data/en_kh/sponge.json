@@ -1,0 +1,68 @@
+{
+  "word": "sponge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83592.png",
+      "local_image_path": "images/83592.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a sponge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83593.png",
+      "local_image_path": "images/83593.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83594.png",
+      "local_image_path": "images/83594.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131896.png",
+      "local_image_path": "images/131896.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131897.png",
+      "local_image_path": "images/131897.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sponge the walls",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83595.png",
+      "local_image_path": "images/83595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sponge on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83596.png",
+      "local_image_path": "images/83596.png"
+    }
+  ],
+  "synonyms": [
+    "dab",
+    "mop",
+    "wipe",
+    "clean",
+    "wash",
+    "rub",
+    "swab"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sponge let",
+    "sponge-on",
+    "spongegourd",
+    "sponger",
+    "spongesus"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sponge.mp3",
+  "local_sound_path": "sounds/sponge.mp3"
+}

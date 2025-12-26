@@ -1,0 +1,35 @@
+{
+  "word": "depressing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "depressing sight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20682.png",
+      "local_image_path": "images/20682.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118079.png",
+      "local_image_path": "images/118079.png"
+    }
+  ],
+  "synonyms": [
+    "sad",
+    "miserable",
+    "disheartening",
+    "discouraging",
+    "gloomy",
+    "dismal",
+    "disappointing",
+    "pressing",
+    "pushing",
+    "lowering"
+  ],
+  "antonyms": [
+    "cheering"
+  ],
+  "similar_words": [],
+  "sound": null
+}

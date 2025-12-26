@@ -1,0 +1,44 @@
+{
+  "word": "explosive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "explosive explosion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26855.png",
+      "local_image_path": "images/26855.png"
+    },
+    {
+      "pos": "adj",
+      "example": "explosive situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26856.png",
+      "local_image_path": "images/26856.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26857.png",
+      "local_image_path": "images/26857.png"
+    }
+  ],
+  "synonyms": [
+    "tense",
+    "volatile",
+    "unpredictable",
+    "dangerous",
+    "unstable",
+    "instable"
+  ],
+  "antonyms": [
+    "stable",
+    "placid",
+    "calm"
+  ],
+  "similar_words": [
+    "explosive issue",
+    "explosiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/explosive.mp3",
+  "local_sound_path": "sounds/explosive.mp3"
+}

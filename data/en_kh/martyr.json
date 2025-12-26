@@ -1,0 +1,40 @@
+{
+  "word": "martyr",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106490.png",
+      "local_image_path": "images/106490.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106491.png",
+      "local_image_path": "images/106491.png"
+    }
+  ],
+  "synonyms": [
+    "victim",
+    "prey",
+    "sufferer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "Martyr syndrome",
+    "martyrdom",
+    "martyrer",
+    "martyress",
+    "martyrium",
+    "martyrize",
+    "martyrizer",
+    "martyrly",
+    "martyrologist",
+    "martyrology",
+    "martyry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/martyr.mp3",
+  "local_sound_path": "sounds/martyr.mp3"
+}

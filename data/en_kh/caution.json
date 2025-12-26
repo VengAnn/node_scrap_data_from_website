@@ -1,0 +1,56 @@
+{
+  "word": "caution",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "we proceed with caution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13434.png",
+      "local_image_path": "images/13434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he should caution a violattor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13435.png",
+      "local_image_path": "images/13435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116086.png",
+      "local_image_path": "images/116086.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116087.png",
+      "local_image_path": "images/116087.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116088.png",
+      "local_image_path": "images/116088.png"
+    }
+  ],
+  "synonyms": [
+    "warn",
+    "admonish",
+    "reprimand",
+    "rebuke",
+    "reprove",
+    "advise",
+    "alert",
+    "notify",
+    "signal"
+  ],
+  "antonyms": [
+    "recklessness"
+  ],
+  "similar_words": [
+    "cautionary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caution.mp3",
+  "local_sound_path": "sounds/caution.mp3"
+}

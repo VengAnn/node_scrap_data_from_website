@@ -1,0 +1,30 @@
+{
+  "word": "bishop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9185.png",
+      "local_image_path": "images/9185.png"
+    }
+  ],
+  "synonyms": [
+    "prelate",
+    "archbishop",
+    "cardinal",
+    "abbot",
+    "prior",
+    "cleric",
+    "minister"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bishophood",
+    "bishoplike",
+    "bishopric"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bishop.mp3",
+  "local_sound_path": "sounds/bishop.mp3"
+}

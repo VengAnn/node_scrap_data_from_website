@@ -1,0 +1,60 @@
+{
+  "word": "grace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "feminine grace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32440.png",
+      "local_image_path": "images/32440.png"
+    },
+    {
+      "pos": "n",
+      "example": "have the grace to apologize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32441.png",
+      "local_image_path": "images/32441.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flowers grace the table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32442.png",
+      "local_image_path": "images/32442.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32443.png",
+      "local_image_path": "images/32443.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grace us with his presence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32444.png",
+      "local_image_path": "images/32444.png"
+    }
+  ],
+  "synonyms": [
+    "dignify",
+    "honor",
+    "favor",
+    "distinguish"
+  ],
+  "antonyms": [
+    "awkwardness",
+    "unkindness",
+    "deface",
+    "demean"
+  ],
+  "similar_words": [
+    "grace period",
+    "graceful",
+    "gracefully",
+    "gracefulness",
+    "graceless",
+    "gracelessly",
+    "gracelessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grace.mp3",
+  "local_sound_path": "sounds/grace.mp3"
+}

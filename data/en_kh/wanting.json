@@ -1,0 +1,38 @@
+{
+  "word": "wanting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99012.png",
+      "local_image_path": "images/99012.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129831.png",
+      "local_image_path": "images/129831.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129832.png",
+      "local_image_path": "images/129832.png"
+    }
+  ],
+  "synonyms": [
+    "without",
+    "lacking",
+    "short",
+    "minus",
+    "liking"
+  ],
+  "antonyms": [
+    "adequate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wanting.mp3",
+  "local_sound_path": "sounds/wanting.mp3"
+}

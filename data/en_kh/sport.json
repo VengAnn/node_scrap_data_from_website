@@ -1,0 +1,75 @@
+{
+  "word": "sport",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "sport about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83653.png",
+      "local_image_path": "images/83653.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sport with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83654.png",
+      "local_image_path": "images/83654.png"
+    },
+    {
+      "pos": "n",
+      "example": "She is very fond of sport",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83650.png",
+      "local_image_path": "images/83650.png"
+    },
+    {
+      "pos": "n",
+      "example": "the school sports",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83651.png",
+      "local_image_path": "images/83651.png"
+    },
+    {
+      "pos": "n",
+      "example": "say in sport",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83652.png",
+      "local_image_path": "images/83652.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83655.png",
+      "local_image_path": "images/83655.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sport the girls",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83656.png",
+      "local_image_path": "images/83656.png"
+    }
+  ],
+  "synonyms": [
+    "wear",
+    "model",
+    "don",
+    "display",
+    "exhibit"
+  ],
+  "antonyms": [
+    "work"
+  ],
+  "similar_words": [
+    "sporter",
+    "sportful",
+    "sporting",
+    "sportingly",
+    "sportive",
+    "sportively",
+    "sports car",
+    "sports jacket",
+    "sportsman",
+    "sportsmanlike",
+    "sportsmanship",
+    "sporty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sport.mp3",
+  "local_sound_path": "sounds/sport.mp3"
+}

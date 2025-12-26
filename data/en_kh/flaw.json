@@ -1,0 +1,43 @@
+{
+  "word": "flaw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28977.png",
+      "local_image_path": "images/28977.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28978.png",
+      "local_image_path": "images/28978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120215.png",
+      "local_image_path": "images/120215.png"
+    }
+  ],
+  "synonyms": [
+    "fault",
+    "error",
+    "defect",
+    "mistake",
+    "failing",
+    "blemish",
+    "imperfection",
+    "weakness"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "flawless",
+    "flawlessly",
+    "flawlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flaw.mp3",
+  "local_sound_path": "sounds/flaw.mp3"
+}

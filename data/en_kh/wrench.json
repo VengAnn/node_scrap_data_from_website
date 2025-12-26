@@ -1,0 +1,64 @@
+{
+  "word": "wrench",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101128.png",
+      "local_image_path": "images/101128.png"
+    },
+    {
+      "pos": "n",
+      "example": "adjustable wrench",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101123.png",
+      "local_image_path": "images/101123.png"
+    },
+    {
+      "pos": "n",
+      "example": "give his arm a wrench",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101124.png",
+      "local_image_path": "images/101124.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101125.png",
+      "local_image_path": "images/101125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129933.png",
+      "local_image_path": "images/129933.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101126.png",
+      "local_image_path": "images/101126.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Wrench the door open",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101127.png",
+      "local_image_path": "images/101127.png"
+    }
+  ],
+  "synonyms": [
+    "struggle",
+    "blow",
+    "anguish",
+    "pull",
+    "tug",
+    "jerk",
+    "twist",
+    "yank",
+    "haul"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wrench.mp3",
+  "local_sound_path": "sounds/wrench.mp3"
+}

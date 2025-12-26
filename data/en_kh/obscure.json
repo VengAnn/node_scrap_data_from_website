@@ -1,0 +1,65 @@
+{
+  "word": "obscure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "obscure idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56944.png",
+      "local_image_path": "images/56944.png"
+    },
+    {
+      "pos": "adj",
+      "example": "obscure poet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56945.png",
+      "local_image_path": "images/56945.png"
+    },
+    {
+      "pos": "adj",
+      "example": "obscure view",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56946.png",
+      "local_image_path": "images/56946.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124814.png",
+      "local_image_path": "images/124814.png"
+    },
+    {
+      "pos": "tv",
+      "example": "obscure the issue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56947.png",
+      "local_image_path": "images/56947.png"
+    }
+  ],
+  "synonyms": [
+    "confuse",
+    "disguise",
+    "conceal",
+    "complicate",
+    "obfuscate",
+    "darken",
+    "cloak",
+    "mask",
+    "shroud",
+    "veil",
+    "eclipse",
+    "hide"
+  ],
+  "antonyms": [
+    "obvious",
+    "famous",
+    "clear",
+    "disclose",
+    "clarify"
+  ],
+  "similar_words": [
+    "obscurely",
+    "obscureness",
+    "obscurer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obscure.mp3",
+  "local_sound_path": "sounds/obscure.mp3"
+}

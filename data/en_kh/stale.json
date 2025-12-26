@@ -1,0 +1,64 @@
+{
+  "word": "stale",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stale bread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84125.png",
+      "local_image_path": "images/84125.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stale air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84126.png",
+      "local_image_path": "images/84126.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stale bear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84127.png",
+      "local_image_path": "images/84127.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stale news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84128.png",
+      "local_image_path": "images/84128.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84129.png",
+      "local_image_path": "images/84129.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84130.png",
+      "local_image_path": "images/84130.png"
+    }
+  ],
+  "synonyms": [
+    "hackneyed",
+    "worn-out",
+    "tired",
+    "boring",
+    "unoriginal",
+    "insipid",
+    "vapid",
+    "humdrum",
+    "pedestrian"
+  ],
+  "antonyms": [
+    "fresh",
+    "original"
+  ],
+  "similar_words": [
+    "stalemate",
+    "staleness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stale.mp3",
+  "local_sound_path": "sounds/stale.mp3"
+}

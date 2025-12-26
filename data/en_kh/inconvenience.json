@@ -1,0 +1,52 @@
+{
+  "word": "inconvenience",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38657.png",
+      "local_image_path": "images/38657.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122052.png",
+      "local_image_path": "images/122052.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122053.png",
+      "local_image_path": "images/122053.png"
+    },
+    {
+      "pos": "n",
+      "example": "inconvenience o the location",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38655.png",
+      "local_image_path": "images/38655.png"
+    },
+    {
+      "pos": "n",
+      "example": "an additional inconvenience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38656.png",
+      "local_image_path": "images/38656.png"
+    }
+  ],
+  "synonyms": [
+    "trouble",
+    "bother",
+    "incommode",
+    "disturb",
+    "disrupt",
+    "discommode"
+  ],
+  "antonyms": [
+    "benefit",
+    "help"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inconvenience.mp3",
+  "local_sound_path": "sounds/inconvenience.mp3"
+}

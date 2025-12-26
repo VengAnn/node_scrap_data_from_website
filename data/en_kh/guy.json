@@ -1,0 +1,53 @@
+{
+  "word": "guy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He is a great guy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33361.png",
+      "local_image_path": "images/33361.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33362.png",
+      "local_image_path": "images/33362.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33364.png",
+      "local_image_path": "images/33364.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33363.png",
+      "local_image_path": "images/33363.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33365.png",
+      "local_image_path": "images/33365.png"
+    }
+  ],
+  "synonyms": [
+    "gentleman",
+    "man",
+    "chap",
+    "male",
+    "imitate",
+    "tease",
+    "satirize"
+  ],
+  "antonyms": [
+    "woman",
+    "respect"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guy.mp3",
+  "local_sound_path": "sounds/guy.mp3"
+}

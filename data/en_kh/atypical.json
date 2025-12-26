@@ -1,0 +1,51 @@
+{
+  "word": "atypical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6334.png",
+      "local_image_path": "images/6334.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112885.png",
+      "local_image_path": "images/112885.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112886.png",
+      "local_image_path": "images/112886.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112887.png",
+      "local_image_path": "images/112887.png"
+    }
+  ],
+  "synonyms": [
+    "uncharacteristic",
+    "nonconforming",
+    "different",
+    "unusual",
+    "uncommon",
+    "strange",
+    "odd",
+    "abnormal",
+    "weird",
+    "peculiar"
+  ],
+  "antonyms": [
+    "typical"
+  ],
+  "similar_words": [
+    "atypically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/atypical.mp3",
+  "local_sound_path": "sounds/atypical.mp3"
+}

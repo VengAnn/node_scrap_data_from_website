@@ -1,0 +1,32 @@
+{
+  "word": "eyewitness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27221.png",
+      "local_image_path": "images/27221.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119797.png",
+      "local_image_path": "images/119797.png"
+    }
+  ],
+  "synonyms": [
+    "witness",
+    "observer",
+    "bystander",
+    "onlooker",
+    "looker-on",
+    "watcher",
+    "spectator"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eyewitness.mp3",
+  "local_sound_path": "sounds/eyewitness.mp3"
+}

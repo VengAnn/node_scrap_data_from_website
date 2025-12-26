@@ -1,0 +1,60 @@
+{
+  "word": "grow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "She wants to let her hair grow.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33082.png",
+      "local_image_path": "images/33082.png"
+    },
+    {
+      "pos": "iv",
+      "example": "You must invest if you want your business to grow.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33083.png",
+      "local_image_path": "images/33083.png"
+    },
+    {
+      "pos": "iv",
+      "example": "grow up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33084.png",
+      "local_image_path": "images/33084.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33085.png",
+      "local_image_path": "images/33085.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grow rice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33086.png",
+      "local_image_path": "images/33086.png"
+    }
+  ],
+  "synonyms": [
+    "increase",
+    "multiply",
+    "intensify",
+    "escalate",
+    "strengthen",
+    "develop"
+  ],
+  "antonyms": [
+    "shrink",
+    "decrease"
+  ],
+  "similar_words": [
+    "growing",
+    "growing season",
+    "growl",
+    "grown",
+    "grown on",
+    "grown-up",
+    "growth"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grow.mp3",
+  "local_sound_path": "sounds/grow.mp3"
+}

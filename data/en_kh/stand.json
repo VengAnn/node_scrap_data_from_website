@@ -1,0 +1,109 @@
+{
+  "word": "stand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "stand here",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84206.png",
+      "local_image_path": "images/84206.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stand six feet tall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84207.png",
+      "local_image_path": "images/84207.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stand up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84208.png",
+      "local_image_path": "images/84208.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stand for election",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84209.png",
+      "local_image_path": "images/84209.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84212.png",
+      "local_image_path": "images/84212.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84213.png",
+      "local_image_path": "images/84213.png"
+    },
+    {
+      "pos": "n",
+      "example": "witness stand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84214.png",
+      "local_image_path": "images/84214.png"
+    },
+    {
+      "pos": "n",
+      "example": "flower stand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84215.png",
+      "local_image_path": "images/84215.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stand it here",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84210.png",
+      "local_image_path": "images/84210.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stand the cold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84211.png",
+      "local_image_path": "images/84211.png"
+    }
+  ],
+  "synonyms": [
+    "rack",
+    "frame",
+    "bracket",
+    "support",
+    "holder",
+    "shelf",
+    "rise",
+    "arise",
+    "stand up"
+  ],
+  "antonyms": [
+    "sit"
+  ],
+  "similar_words": [
+    "stand in",
+    "stand mute",
+    "stand up",
+    "stand-alone",
+    "stand-in",
+    "stand-off",
+    "stand-offish",
+    "stand-up",
+    "standage",
+    "standard",
+    "standard-wing",
+    "standardization",
+    "standardize",
+    "standardizer",
+    "standby",
+    "standby agreement",
+    "standby credit",
+    "standby fare",
+    "standby time",
+    "standel",
+    "stander",
+    "stander-by",
+    "standhope",
+    "standing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stand.mp3",
+  "local_sound_path": "sounds/stand.mp3"
+}

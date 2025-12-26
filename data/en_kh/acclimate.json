@@ -1,0 +1,29 @@
+{
+  "word": "acclimate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1852.png",
+      "local_image_path": "images/1852.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1851.png",
+      "local_image_path": "images/1851.png"
+    }
+  ],
+  "synonyms": [
+    "adapt",
+    "adjust",
+    "acclimatize",
+    "accustom"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acclimate.mp3",
+  "local_sound_path": "sounds/acclimate.mp3"
+}

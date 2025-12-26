@@ -1,0 +1,82 @@
+{
+  "word": "incline",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rooves incline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38411.png",
+      "local_image_path": "images/38411.png"
+    },
+    {
+      "pos": "iv",
+      "example": "poles incline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38412.png",
+      "local_image_path": "images/38412.png"
+    },
+    {
+      "pos": "iv",
+      "example": "incline to agree",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38413.png",
+      "local_image_path": "images/38413.png"
+    },
+    {
+      "pos": "iv",
+      "example": "to be inclined to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38414.png",
+      "local_image_path": "images/38414.png"
+    },
+    {
+      "pos": "iv",
+      "example": "incline the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38415.png",
+      "local_image_path": "images/38415.png"
+    },
+    {
+      "pos": "iv",
+      "example": "incline a roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38416.png",
+      "local_image_path": "images/38416.png"
+    },
+    {
+      "pos": "iv",
+      "example": "incline a pole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38417.png",
+      "local_image_path": "images/38417.png"
+    },
+    {
+      "pos": "iv",
+      "example": "factors incline him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38418.png",
+      "local_image_path": "images/38418.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38419.png",
+      "local_image_path": "images/38419.png"
+    }
+  ],
+  "synonyms": [
+    "slope",
+    "slant",
+    "inclination",
+    "gradient",
+    "rise",
+    "ascent",
+    "hill",
+    "tilt",
+    "fall",
+    "lean"
+  ],
+  "antonyms": [
+    "deter"
+  ],
+  "similar_words": [
+    "inclined",
+    "inclined plane"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incline.mp3",
+  "local_sound_path": "sounds/incline.mp3"
+}

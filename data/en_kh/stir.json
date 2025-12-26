@@ -1,0 +1,77 @@
+{
+  "word": "stir",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Leaves stir in the wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84857.png",
+      "local_image_path": "images/84857.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rumors stir",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84858.png",
+      "local_image_path": "images/84858.png"
+    },
+    {
+      "pos": "n",
+      "example": "stir of the leaves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84859.png",
+      "local_image_path": "images/84859.png"
+    },
+    {
+      "pos": "n",
+      "example": "in a stir of activity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84860.png",
+      "local_image_path": "images/84860.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stir coffee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84854.png",
+      "local_image_path": "images/84854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84855.png",
+      "local_image_path": "images/84855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stir public opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84856.png",
+      "local_image_path": "images/84856.png"
+    }
+  ],
+  "synonyms": [
+    "agitate",
+    "disturb",
+    "trouble",
+    "upset",
+    "motivate",
+    "incite",
+    "provoke",
+    "excite",
+    "inspire",
+    "stimulate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stirabout",
+    "stire",
+    "stirk",
+    "stirless",
+    "stirp",
+    "stirpiculture",
+    "stirps",
+    "stirre",
+    "stirring",
+    "stirringly",
+    "stirrup"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stir.mp3",
+  "local_sound_path": "sounds/stir.mp3"
+}

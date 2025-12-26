@@ -1,0 +1,55 @@
+{
+  "word": "annoy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "delays annoy me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4402.png",
+      "local_image_path": "images/4402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112525.png",
+      "local_image_path": "images/112525.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112526.png",
+      "local_image_path": "images/112526.png"
+    }
+  ],
+  "synonyms": [
+    "irritate",
+    "infuriate",
+    "exasperate",
+    "aggravate",
+    "upset",
+    "bother",
+    "madden",
+    "anger",
+    "frustrate",
+    "displease",
+    "provoke",
+    "rile",
+    "incense",
+    "nark",
+    "enrage",
+    "tick off"
+  ],
+  "antonyms": [
+    "please"
+  ],
+  "similar_words": [
+    "annoyance",
+    "annoyed",
+    "annoyer",
+    "annoying",
+    "annoyingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/annoy.mp3",
+  "local_sound_path": "sounds/annoy.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "word": "buyer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12122.png",
+      "local_image_path": "images/12122.png"
+    }
+  ],
+  "synonyms": [
+    "purchaser",
+    "consumer",
+    "shopper",
+    "customer"
+  ],
+  "antonyms": [
+    "seller"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buyer.mp3",
+  "local_sound_path": "sounds/buyer.mp3"
+}

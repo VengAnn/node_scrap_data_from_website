@@ -1,0 +1,39 @@
+{
+  "word": "miserly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109179.png",
+      "local_image_path": "images/109179.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109180.png",
+      "local_image_path": "images/109180.png"
+    }
+  ],
+  "synonyms": [
+    "measly",
+    "paltry",
+    "derisory",
+    "meager",
+    "stingy",
+    "miserable",
+    "parsimonious",
+    "tight",
+    "niggardly",
+    "mingy",
+    "mean",
+    "piddling"
+  ],
+  "antonyms": [
+    "generous"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/miserly.mp3",
+  "local_sound_path": "sounds/miserly.mp3"
+}

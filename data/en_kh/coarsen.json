@@ -1,0 +1,36 @@
+{
+  "word": "coarsen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "the sea air coarsened her skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15286.png",
+      "local_image_path": "images/15286.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116578.png",
+      "local_image_path": "images/116578.png"
+    }
+  ],
+  "synonyms": [
+    "roughen",
+    "toughen",
+    "scratch",
+    "abrade",
+    "season",
+    "harden",
+    "erode",
+    "stiffen",
+    "thicken"
+  ],
+  "antonyms": [
+    "soften"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coarsen.mp3",
+  "local_sound_path": "sounds/coarsen.mp3"
+}

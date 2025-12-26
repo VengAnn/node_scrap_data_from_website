@@ -1,0 +1,31 @@
+{
+  "word": "guilty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33231.png",
+      "local_image_path": "images/33231.png"
+    }
+  ],
+  "synonyms": [
+    "shamefaced",
+    "remorseful",
+    "embarrassed",
+    "uncomfortable",
+    "awkward",
+    "culpable",
+    "responsible",
+    "blameworthy",
+    "accountable"
+  ],
+  "antonyms": [
+    "innocent",
+    "unashamed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guilty.mp3",
+  "local_sound_path": "sounds/guilty.mp3"
+}

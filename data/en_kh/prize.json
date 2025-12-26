@@ -1,0 +1,64 @@
+{
+  "word": "prize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67132.png",
+      "local_image_path": "images/67132.png"
+    },
+    {
+      "pos": "n",
+      "example": "win first prize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67131.png",
+      "local_image_path": "images/67131.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67134.png",
+      "local_image_path": "images/67134.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67136.png",
+      "local_image_path": "images/67136.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67133.png",
+      "local_image_path": "images/67133.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67135.png",
+      "local_image_path": "images/67135.png"
+    }
+  ],
+  "synonyms": [
+    "treasure",
+    "cherish",
+    "value",
+    "respect",
+    "esteem",
+    "appreciate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "prizefight",
+    "prizefighter",
+    "prizefighting",
+    "prizelist",
+    "prizeman",
+    "prizering",
+    "prizewinner",
+    "prizewinning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prize.mp3",
+  "local_sound_path": "sounds/prize.mp3"
+}

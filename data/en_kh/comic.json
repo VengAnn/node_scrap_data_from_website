@@ -1,0 +1,37 @@
+{
+  "word": "comic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he is a famous comic actor in Cambodia",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15921.png",
+      "local_image_path": "images/15921.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15922.png",
+      "local_image_path": "images/15922.png"
+    }
+  ],
+  "synonyms": [
+    "comic book",
+    "magazine",
+    "comic strip"
+  ],
+  "antonyms": [
+    "tragic"
+  ],
+  "similar_words": [
+    "comic book",
+    "comic opera",
+    "comic strip",
+    "comical",
+    "comically",
+    "comicalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comic.mp3",
+  "local_sound_path": "sounds/comic.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "discipline",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21657.png",
+      "local_image_path": "images/21657.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21658.png",
+      "local_image_path": "images/21658.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21659.png",
+      "local_image_path": "images/21659.png"
+    }
+  ],
+  "synonyms": [
+    "subject",
+    "field",
+    "instruct",
+    "educate",
+    "exercise",
+    "drill",
+    "prepare",
+    "train",
+    "regulate",
+    "teach",
+    "school"
+  ],
+  "antonyms": [
+    "chaos",
+    "persuasion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discipline.mp3",
+  "local_sound_path": "sounds/discipline.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "ascertain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "It's difficult to ascertain what really happened",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5728.png",
+      "local_image_path": "images/5728.png"
+    }
+  ],
+  "synonyms": [
+    "determine",
+    "establish",
+    "discover",
+    "learn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ascertainable",
+    "ascertainably",
+    "ascertainment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ascertain.mp3",
+  "local_sound_path": "sounds/ascertain.mp3"
+}

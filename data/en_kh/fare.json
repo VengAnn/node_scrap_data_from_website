@@ -1,0 +1,54 @@
+{
+  "word": "fare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "to fare on good food.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27638.png",
+      "local_image_path": "images/27638.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27639.png",
+      "local_image_path": "images/27639.png"
+    },
+    {
+      "pos": "n",
+      "example": "train fare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27635.png",
+      "local_image_path": "images/27635.png"
+    },
+    {
+      "pos": "n",
+      "example": "culinary fare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27636.png",
+      "local_image_path": "images/27636.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27637.png",
+      "local_image_path": "images/27637.png"
+    }
+  ],
+  "synonyms": [
+    "do",
+    "manage",
+    "cope",
+    "proceed",
+    "progress",
+    "advance",
+    "perform"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "farethee-well",
+    "farewell",
+    "farewell party"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fare.mp3",
+  "local_sound_path": "sounds/fare.mp3"
+}

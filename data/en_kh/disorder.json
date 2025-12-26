@@ -1,0 +1,59 @@
+{
+  "word": "disorder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "room in disorder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22000.png",
+      "local_image_path": "images/22000.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental disorder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22001.png",
+      "local_image_path": "images/22001.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental disorder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132253.png",
+      "local_image_path": "images/132253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132254.png",
+      "local_image_path": "images/132254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132255.png",
+      "local_image_path": "images/132255.png"
+    }
+  ],
+  "synonyms": [
+    "complaint",
+    "illness",
+    "sickness",
+    "ailment",
+    "syndrome",
+    "malady",
+    "disarrange",
+    "disturb",
+    "jumble",
+    "dishevel"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [
+    "disorderliness",
+    "disorderly",
+    "disorderly house"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disorder.mp3",
+  "local_sound_path": "sounds/disorder.mp3"
+}

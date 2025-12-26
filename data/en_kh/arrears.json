@@ -1,0 +1,32 @@
+{
+  "word": "arrears",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "to be in arrears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5567.png",
+      "local_image_path": "images/5567.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112699.png",
+      "local_image_path": "images/112699.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112700.png",
+      "local_image_path": "images/112700.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "credit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arrears.mp3",
+  "local_sound_path": "sounds/arrears.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "furnish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "furnish fuel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30694.png",
+      "local_image_path": "images/30694.png"
+    },
+    {
+      "pos": "tv",
+      "example": "furnish a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30695.png",
+      "local_image_path": "images/30695.png"
+    }
+  ],
+  "synonyms": [
+    "supply",
+    "provide",
+    "equip",
+    "give",
+    "deliver",
+    "hand",
+    "endow",
+    "secure",
+    "yield"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "furnishings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/furnish.mp3",
+  "local_sound_path": "sounds/furnish.mp3"
+}

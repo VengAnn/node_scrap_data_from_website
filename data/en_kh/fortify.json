@@ -1,0 +1,50 @@
+{
+  "word": "fortify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29911.png",
+      "local_image_path": "images/29911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fortify a castle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29912.png",
+      "local_image_path": "images/29912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fortify his resolve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29913.png",
+      "local_image_path": "images/29913.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29914.png",
+      "local_image_path": "images/29914.png"
+    }
+  ],
+  "synonyms": [
+    "enrich",
+    "boost",
+    "strengthen",
+    "enhance",
+    "improve",
+    "mix",
+    "lace"
+  ],
+  "antonyms": [
+    "weaken",
+    "demoralize",
+    "expose",
+    "drain",
+    "deplete"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fortify.mp3",
+  "local_sound_path": "sounds/fortify.mp3"
+}

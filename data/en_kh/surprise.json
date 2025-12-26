@@ -1,0 +1,52 @@
+{
+  "word": "surprise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "advantage of surprise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86607.png",
+      "local_image_path": "images/86607.png"
+    },
+    {
+      "pos": "n",
+      "example": "pleasant surprise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86608.png",
+      "local_image_path": "images/86608.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86603.png",
+      "local_image_path": "images/86603.png"
+    },
+    {
+      "pos": "tv",
+      "example": "surprise the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86604.png",
+      "local_image_path": "images/86604.png"
+    },
+    {
+      "pos": "tv",
+      "example": "You surprise me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86605.png",
+      "local_image_path": "images/86605.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His anger surprises me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86606.png",
+      "local_image_path": "images/86606.png"
+    }
+  ],
+  "synonyms": [
+    "interrupt",
+    "disturb",
+    "disrupt"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/surprise.mp3",
+  "local_sound_path": "sounds/surprise.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "primary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "primary reason",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66926.png",
+      "local_image_path": "images/66926.png"
+    },
+    {
+      "pos": "adj",
+      "example": "primary stages",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66927.png",
+      "local_image_path": "images/66927.png"
+    },
+    {
+      "pos": "adj",
+      "example": "primary sources",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66928.png",
+      "local_image_path": "images/66928.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66930.png",
+      "local_image_path": "images/66930.png"
+    }
+  ],
+  "synonyms": [
+    "basic",
+    "core",
+    "central",
+    "fundamental",
+    "essential",
+    "important"
+  ],
+  "antonyms": [
+    "last",
+    "minor",
+    "secondary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/primary.mp3",
+  "local_sound_path": "sounds/primary.mp3"
+}

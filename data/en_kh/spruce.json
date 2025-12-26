@@ -1,0 +1,40 @@
+{
+  "word": "spruce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83798.png",
+      "local_image_path": "images/83798.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83797.png",
+      "local_image_path": "images/83797.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83799.png",
+      "local_image_path": "images/83799.png"
+    }
+  ],
+  "synonyms": [
+    "neat",
+    "smart",
+    "dapper",
+    "trim",
+    "elegant",
+    "natty"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sprucely",
+    "spruceness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spruce.mp3",
+  "local_sound_path": "sounds/spruce.mp3"
+}

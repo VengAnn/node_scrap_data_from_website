@@ -1,0 +1,49 @@
+{
+  "word": "compliance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16267.png",
+      "local_image_path": "images/16267.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116905.png",
+      "local_image_path": "images/116905.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116906.png",
+      "local_image_path": "images/116906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116907.png",
+      "local_image_path": "images/116907.png"
+    }
+  ],
+  "synonyms": [
+    "obedience",
+    "acquiescence",
+    "agreement",
+    "submission",
+    "fulfillment",
+    "observance",
+    "conformity",
+    "accordance"
+  ],
+  "antonyms": [
+    "disobedience",
+    "resistance",
+    "noncompliance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compliance.mp3",
+  "local_sound_path": "sounds/compliance.mp3"
+}

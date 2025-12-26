@@ -1,0 +1,46 @@
+{
+  "word": "severity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "punish sb with severity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78517.png",
+      "local_image_path": "images/78517.png"
+    },
+    {
+      "pos": "n",
+      "example": "severity of the pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78518.png",
+      "local_image_path": "images/78518.png"
+    },
+    {
+      "pos": "n",
+      "example": "severity of the punishment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78519.png",
+      "local_image_path": "images/78519.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127689.png",
+      "local_image_path": "images/127689.png"
+    }
+  ],
+  "synonyms": [
+    "plainness",
+    "simplicity",
+    "starkness",
+    "bareness",
+    "austerity"
+  ],
+  "antonyms": [
+    "gentleness",
+    "insignificance",
+    "warmth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/severity.mp3",
+  "local_sound_path": "sounds/severity.mp3"
+}

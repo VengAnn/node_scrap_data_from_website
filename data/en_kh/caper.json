@@ -1,0 +1,44 @@
+{
+  "word": "caper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12789.png",
+      "local_image_path": "images/12789.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12790.png",
+      "local_image_path": "images/12790.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115947.png",
+      "local_image_path": "images/115947.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115948.png",
+      "local_image_path": "images/115948.png"
+    }
+  ],
+  "synonyms": [
+    "frolic",
+    "cavort",
+    "dance",
+    "prance",
+    "gambol",
+    "jump",
+    "leap"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caper.mp3",
+  "local_sound_path": "sounds/caper.mp3"
+}

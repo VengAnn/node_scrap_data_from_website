@@ -1,0 +1,50 @@
+{
+  "word": "mongrel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110109.png",
+      "local_image_path": "images/110109.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110107.png",
+      "local_image_path": "images/110107.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110108.png",
+      "local_image_path": "images/110108.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124260.png",
+      "local_image_path": "images/124260.png"
+    }
+  ],
+  "synonyms": [
+    "mutt",
+    "dog",
+    "crossbreed",
+    "pooch",
+    "hound",
+    "cur"
+  ],
+  "antonyms": [
+    "pedigree"
+  ],
+  "similar_words": [
+    "mongrelism",
+    "mongrelization",
+    "mongrelize",
+    "mongrelly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mongrel.mp3",
+  "local_sound_path": "sounds/mongrel.mp3"
+}

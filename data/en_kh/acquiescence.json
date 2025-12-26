@@ -1,0 +1,39 @@
+{
+  "word": "acquiescence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2136.png",
+      "local_image_path": "images/2136.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2135.png",
+      "local_image_path": "images/2135.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111908.png",
+      "local_image_path": "images/111908.png"
+    }
+  ],
+  "synonyms": [
+    "agreement",
+    "consent",
+    "compliance",
+    "submission",
+    "acceptance",
+    "assent"
+  ],
+  "antonyms": [
+    "resistance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acquiescence.mp3",
+  "local_sound_path": "sounds/acquiescence.mp3"
+}

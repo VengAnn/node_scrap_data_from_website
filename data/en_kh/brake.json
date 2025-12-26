@@ -1,0 +1,51 @@
+{
+  "word": "brake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10580.png",
+      "local_image_path": "images/10580.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10581.png",
+      "local_image_path": "images/10581.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10579.png",
+      "local_image_path": "images/10579.png"
+    }
+  ],
+  "synonyms": [
+    "constraint",
+    "curb",
+    "check",
+    "discouragement",
+    "restraint",
+    "damper",
+    "deterrent",
+    "limitation",
+    "decelerate",
+    "slow"
+  ],
+  "antonyms": [
+    "accelerate",
+    "incentive"
+  ],
+  "similar_words": [
+    "brake band",
+    "brake drum",
+    "brake light",
+    "brakeage",
+    "brakeman",
+    "brakesman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brake.mp3",
+  "local_sound_path": "sounds/brake.mp3"
+}

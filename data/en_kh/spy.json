@@ -1,0 +1,39 @@
+{
+  "word": "spy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83841.png",
+      "local_image_path": "images/83841.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83840.png",
+      "local_image_path": "images/83840.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83842.png",
+      "local_image_path": "images/83842.png"
+    }
+  ],
+  "synonyms": [
+    "watch",
+    "scrutinize",
+    "search"
+  ],
+  "antonyms": [
+    "overlook"
+  ],
+  "similar_words": [
+    "spy-glass",
+    "spyware"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spy.mp3",
+  "local_sound_path": "sounds/spy.mp3"
+}

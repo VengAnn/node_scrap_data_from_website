@@ -1,0 +1,47 @@
+{
+  "word": "broker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he is a good real estate broker in PP",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11372.png",
+      "local_image_path": "images/11372.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115691.png",
+      "local_image_path": "images/115691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115692.png",
+      "local_image_path": "images/115692.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115693.png",
+      "local_image_path": "images/115693.png"
+    }
+  ],
+  "synonyms": [
+    "agent",
+    "dealer",
+    "adviser",
+    "negotiator",
+    "advisor",
+    "trader"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brokerage",
+    "brokerly",
+    "brokery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/broker.mp3",
+  "local_sound_path": "sounds/broker.mp3"
+}

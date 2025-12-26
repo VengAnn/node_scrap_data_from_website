@@ -1,0 +1,26 @@
+{
+  "word": "toxicity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90556.png",
+      "local_image_path": "images/90556.png"
+    }
+  ],
+  "synonyms": [
+    "poisonousness",
+    "venomousness",
+    "noxiousness",
+    "harmfulness",
+    "injuriousness"
+  ],
+  "antonyms": [
+    "harmlessness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/toxicity.mp3",
+  "local_sound_path": "sounds/toxicity.mp3"
+}

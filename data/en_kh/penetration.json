@@ -1,0 +1,43 @@
+{
+  "word": "penetration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "penetration of the paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61339.png",
+      "local_image_path": "images/61339.png"
+    },
+    {
+      "pos": "n",
+      "example": "penetration by the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61340.png",
+      "local_image_path": "images/61340.png"
+    },
+    {
+      "pos": "n",
+      "example": "student of great penetration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61341.png",
+      "local_image_path": "images/61341.png"
+    }
+  ],
+  "synonyms": [
+    "discernment",
+    "understanding",
+    "comprehension",
+    "insight",
+    "acumen",
+    "shrewdness",
+    "incursion",
+    "access",
+    "breach",
+    "infringement",
+    "invasion",
+    "entrance"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/penetration.mp3",
+  "local_sound_path": "sounds/penetration.mp3"
+}

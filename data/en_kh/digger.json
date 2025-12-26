@@ -1,0 +1,29 @@
+{
+  "word": "digger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21340.png",
+      "local_image_path": "images/21340.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21341.png",
+      "local_image_path": "images/21341.png"
+    }
+  ],
+  "synonyms": [
+    "excavator",
+    "bulldozer",
+    "crawler",
+    "shovel"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/digger.mp3",
+  "local_sound_path": "sounds/digger.mp3"
+}

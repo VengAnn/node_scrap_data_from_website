@@ -1,0 +1,66 @@
+{
+  "word": "drift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "let the car drift",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23136.png",
+      "local_image_path": "images/23136.png"
+    },
+    {
+      "pos": "iv",
+      "example": "(snow) drifts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23137.png",
+      "local_image_path": "images/23137.png"
+    },
+    {
+      "pos": "n",
+      "example": "forward drift",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23139.png",
+      "local_image_path": "images/23139.png"
+    },
+    {
+      "pos": "n",
+      "example": "snow drift",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23140.png",
+      "local_image_path": "images/23140.png"
+    },
+    {
+      "pos": "n",
+      "example": "drift of a conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23141.png",
+      "local_image_path": "images/23141.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drift from town to town",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23138.png",
+      "local_image_path": "images/23138.png"
+    }
+  ],
+  "synonyms": [
+    "gist",
+    "meaning",
+    "point",
+    "sense",
+    "idea",
+    "implication",
+    "theme",
+    "float",
+    "flow",
+    "glide",
+    "coast",
+    "waft",
+    "wander"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "drift ice",
+    "drifter",
+    "driftwood"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drift.mp3",
+  "local_sound_path": "sounds/drift.mp3"
+}

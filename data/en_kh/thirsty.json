@@ -1,0 +1,43 @@
+{
+  "word": "thirsty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88993.png",
+      "local_image_path": "images/88993.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88994.png",
+      "local_image_path": "images/88994.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88995.png",
+      "local_image_path": "images/88995.png"
+    }
+  ],
+  "synonyms": [
+    "eager",
+    "keen",
+    "hungry",
+    "yearning",
+    "craving",
+    "avid",
+    "voracious",
+    "dehydrated",
+    "dry"
+  ],
+  "antonyms": [
+    "disinterested",
+    "apathetic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thirsty.mp3",
+  "local_sound_path": "sounds/thirsty.mp3"
+}

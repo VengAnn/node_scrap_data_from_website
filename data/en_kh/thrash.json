@@ -1,0 +1,89 @@
+{
+  "word": "thrash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89062.png",
+      "local_image_path": "images/89062.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89063.png",
+      "local_image_path": "images/89063.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89064.png",
+      "local_image_path": "images/89064.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89065.png",
+      "local_image_path": "images/89065.png"
+    },
+    {
+      "pos": "tv",
+      "example": "thrash a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89057.png",
+      "local_image_path": "images/89057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89058.png",
+      "local_image_path": "images/89058.png"
+    },
+    {
+      "pos": "tv",
+      "example": "thrash the opposition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89059.png",
+      "local_image_path": "images/89059.png"
+    },
+    {
+      "pos": "tv",
+      "example": "thrash grain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89060.png",
+      "local_image_path": "images/89060.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89061.png",
+      "local_image_path": "images/89061.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128229.png",
+      "local_image_path": "images/128229.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "trounce",
+    "slaughter",
+    "toss",
+    "writhe",
+    "flail",
+    "squirm",
+    "roll",
+    "wriggle",
+    "wiggle"
+  ],
+  "antonyms": [
+    "lose"
+  ],
+  "similar_words": [
+    "thrash metal",
+    "thrasher",
+    "thrashing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thrash.mp3",
+  "local_sound_path": "sounds/thrash.mp3"
+}

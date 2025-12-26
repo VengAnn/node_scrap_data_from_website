@@ -1,0 +1,74 @@
+{
+  "word": "some",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I have some money today",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82614.png",
+      "local_image_path": "images/82614.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82615.png",
+      "local_image_path": "images/82615.png"
+    },
+    {
+      "pos": "adj",
+      "example": "some four for five people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82616.png",
+      "local_image_path": "images/82616.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82618.png",
+      "local_image_path": "images/82618.png"
+    },
+    {
+      "pos": "conj",
+      "example": "some say he's dead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82617.png",
+      "local_image_path": "images/82617.png"
+    }
+  ],
+  "synonyms": [
+    "approximately",
+    "about",
+    "around",
+    "roughly",
+    "nearly",
+    "certain",
+    "several"
+  ],
+  "antonyms": [
+    "none",
+    "all",
+    "exactly",
+    "every",
+    "no",
+    "many"
+  ],
+  "similar_words": [
+    "somebody",
+    "someday",
+    "somedeal",
+    "somehow",
+    "someone",
+    "someplace",
+    "somersault",
+    "something",
+    "sometime",
+    "sometimes",
+    "somewhat",
+    "somewhen",
+    "somewhere",
+    "somewhile",
+    "somewise",
+    "somewither"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/some.mp3",
+  "local_sound_path": "sounds/some.mp3"
+}

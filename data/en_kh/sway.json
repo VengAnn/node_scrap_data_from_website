@@ -1,0 +1,70 @@
+{
+  "word": "sway",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The branches of the trees were swaying in the wind.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86763.png",
+      "local_image_path": "images/86763.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sway toward his point of view",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86764.png",
+      "local_image_path": "images/86764.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86765.png",
+      "local_image_path": "images/86765.png"
+    },
+    {
+      "pos": "n",
+      "example": "degree of sway",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86768.png",
+      "local_image_path": "images/86768.png"
+    },
+    {
+      "pos": "n",
+      "example": "hold sway over the country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86769.png",
+      "local_image_path": "images/86769.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sway a bridge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86766.png",
+      "local_image_path": "images/86766.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sway public opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86767.png",
+      "local_image_path": "images/86767.png"
+    }
+  ],
+  "synonyms": [
+    "power",
+    "influence",
+    "control",
+    "authority",
+    "command",
+    "bias",
+    "affect",
+    "persuade",
+    "convince",
+    "manipulate",
+    "move",
+    "prompt",
+    "motivate"
+  ],
+  "antonyms": [
+    "subjection"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sway.mp3",
+  "local_sound_path": "sounds/sway.mp3"
+}

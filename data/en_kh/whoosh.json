@@ -1,0 +1,36 @@
+{
+  "word": "whoosh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100200.png",
+      "local_image_path": "images/100200.png"
+    }
+  ],
+  "synonyms": [
+    "whiz",
+    "zip",
+    "rocket",
+    "burn",
+    "swish",
+    "whistle",
+    "whisper",
+    "rustle",
+    "hiss",
+    "zoom",
+    "roar",
+    "rush",
+    "shoot",
+    "burst",
+    "zap"
+  ],
+  "antonyms": [
+    "dawdle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whoosh.mp3",
+  "local_sound_path": "sounds/whoosh.mp3"
+}

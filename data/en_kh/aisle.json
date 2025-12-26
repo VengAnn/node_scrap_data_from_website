@@ -1,0 +1,30 @@
+{
+  "word": "aisle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3209.png",
+      "local_image_path": "images/3209.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112094.png",
+      "local_image_path": "images/112094.png"
+    }
+  ],
+  "synonyms": [
+    "gangway",
+    "walkway",
+    "passage",
+    "corridor",
+    "lane"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aisle.mp3",
+  "local_sound_path": "sounds/aisle.mp3"
+}

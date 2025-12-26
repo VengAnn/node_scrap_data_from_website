@@ -1,0 +1,124 @@
+{
+  "word": "check",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "check by jowl (with sb/sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14002.png",
+      "local_image_path": "images/14002.png"
+    },
+    {
+      "pos": "iv",
+      "example": "two stories check",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13973.png",
+      "local_image_path": "images/13973.png"
+    },
+    {
+      "pos": "iv",
+      "example": "check in (at a hotel)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13974.png",
+      "local_image_path": "images/13974.png"
+    },
+    {
+      "pos": "iv",
+      "example": "check out (of a hotel)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13975.png",
+      "local_image_path": "images/13975.png"
+    },
+    {
+      "pos": "n",
+      "example": "a check on progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13976.png",
+      "local_image_path": "images/13976.png"
+    },
+    {
+      "pos": "n",
+      "example": "bank check",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13977.png",
+      "local_image_path": "images/13977.png"
+    },
+    {
+      "pos": "n",
+      "example": "pay the check",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13978.png",
+      "local_image_path": "images/13978.png"
+    },
+    {
+      "pos": "n",
+      "example": "rosy check",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13999.png",
+      "local_image_path": "images/13999.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14000.png",
+      "local_image_path": "images/14000.png"
+    },
+    {
+      "pos": "tv",
+      "example": "check his room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13970.png",
+      "local_image_path": "images/13970.png"
+    },
+    {
+      "pos": "tv",
+      "example": "check progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13971.png",
+      "local_image_path": "images/13971.png"
+    },
+    {
+      "pos": "tv",
+      "example": "check the oil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13972.png",
+      "local_image_path": "images/13972.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14001.png",
+      "local_image_path": "images/14001.png"
+    }
+  ],
+  "synonyms": [
+    "bill",
+    "invoice",
+    "tab",
+    "score",
+    "curb",
+    "limit",
+    "stop",
+    "impede",
+    "delay",
+    "restrain",
+    "inhibit",
+    "repress",
+    "constrain",
+    "withhold"
+  ],
+  "antonyms": [
+    "expedite"
+  ],
+  "similar_words": [
+    "check card",
+    "check list",
+    "check off",
+    "check on",
+    "check-out",
+    "check-point",
+    "checkbook",
+    "checker",
+    "checkerboard",
+    "checkered",
+    "checking account",
+    "checkmate",
+    "checkrom",
+    "checkroom",
+    "checks and balance",
+    "checkup"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/check.mp3",
+  "local_sound_path": "sounds/check.mp3"
+}

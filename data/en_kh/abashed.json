@@ -1,0 +1,31 @@
+{
+  "word": "abashed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1323.png",
+      "local_image_path": "images/1323.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111882.png",
+      "local_image_path": "images/111882.png"
+    }
+  ],
+  "synonyms": [
+    "embarrassed",
+    "ashamed",
+    "disconcerted",
+    "confused"
+  ],
+  "antonyms": [
+    "unabashed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abashed.mp3",
+  "local_sound_path": "sounds/abashed.mp3"
+}

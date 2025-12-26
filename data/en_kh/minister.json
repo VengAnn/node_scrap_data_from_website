@@ -1,0 +1,45 @@
+{
+  "word": "minister",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108913.png",
+      "local_image_path": "images/108913.png"
+    },
+    {
+      "pos": "n",
+      "example": "Prime minister",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108912.png",
+      "local_image_path": "images/108912.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131669.png",
+      "local_image_path": "images/131669.png"
+    }
+  ],
+  "synonyms": [
+    "attend",
+    "tend",
+    "nurse",
+    "comfort",
+    "care",
+    "aid",
+    "support"
+  ],
+  "antonyms": [
+    "neglect"
+  ],
+  "similar_words": [
+    "ministerial",
+    "ministerial plenipotentiary",
+    "ministerial post",
+    "ministerially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/minister.mp3",
+  "local_sound_path": "sounds/minister.mp3"
+}

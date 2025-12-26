@@ -1,0 +1,52 @@
+{
+  "word": "afford",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "poor people can't afford to buy motorcars",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2758.png",
+      "local_image_path": "images/2758.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113378.png",
+      "local_image_path": "images/113378.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113379.png",
+      "local_image_path": "images/113379.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113380.png",
+      "local_image_path": "images/113380.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113381.png",
+      "local_image_path": "images/113381.png"
+    }
+  ],
+  "synonyms": [
+    "give",
+    "offer",
+    "present",
+    "allow",
+    "provide"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "affordabilty",
+    "affordable",
+    "afforder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/afford.mp3",
+  "local_sound_path": "sounds/afford.mp3"
+}

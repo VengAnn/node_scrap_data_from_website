@@ -1,0 +1,40 @@
+{
+  "word": "stupefy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "stupefy the audience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85626.png",
+      "local_image_path": "images/85626.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stupefy the senses",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85627.png",
+      "local_image_path": "images/85627.png"
+    }
+  ],
+  "synonyms": [
+    "astonish",
+    "astound",
+    "amaze",
+    "surprise",
+    "bewilder",
+    "stagger",
+    "stun",
+    "confuse",
+    "befuddle",
+    "perplex",
+    "bemuse",
+    "daze",
+    "dumbfound"
+  ],
+  "antonyms": [
+    "enlighten"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stupefy.mp3",
+  "local_sound_path": "sounds/stupefy.mp3"
+}

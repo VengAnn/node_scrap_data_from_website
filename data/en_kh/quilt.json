@@ -1,0 +1,48 @@
+{
+  "word": "quilt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69603.png",
+      "local_image_path": "images/69603.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126372.png",
+      "local_image_path": "images/126372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69604.png",
+      "local_image_path": "images/69604.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126373.png",
+      "local_image_path": "images/126373.png"
+    }
+  ],
+  "synonyms": [
+    "coverlet",
+    "cover",
+    "throw",
+    "comforter",
+    "bedding",
+    "sheet",
+    "blanket",
+    "eiderdown",
+    "duvet",
+    "bedspread",
+    "counterpane"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quilt.mp3",
+  "local_sound_path": "sounds/quilt.mp3"
+}

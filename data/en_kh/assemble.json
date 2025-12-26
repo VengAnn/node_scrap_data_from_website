@@ -1,0 +1,42 @@
+{
+  "word": "assemble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5868.png",
+      "local_image_path": "images/5868.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5867.png",
+      "local_image_path": "images/5867.png"
+    }
+  ],
+  "synonyms": [
+    "build",
+    "compile",
+    "connect",
+    "construct",
+    "convene",
+    "congregate",
+    "collect",
+    "rally",
+    "marshal",
+    "meet",
+    "gather",
+    "muster"
+  ],
+  "antonyms": [
+    "disband"
+  ],
+  "similar_words": [
+    "assemblement",
+    "assembler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assemble.mp3",
+  "local_sound_path": "sounds/assemble.mp3"
+}

@@ -1,0 +1,107 @@
+{
+  "word": "house",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I will buy a new house in Phnom Penh.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36121.png",
+      "local_image_path": "images/36121.png"
+    },
+    {
+      "pos": "n",
+      "example": "chicken house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36122.png",
+      "local_image_path": "images/36122.png"
+    },
+    {
+      "pos": "n",
+      "example": "lower house of congress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36123.png",
+      "local_image_path": "images/36123.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36124.png",
+      "local_image_path": "images/36124.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36125.png",
+      "local_image_path": "images/36125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36126.png",
+      "local_image_path": "images/36126.png"
+    },
+    {
+      "pos": "n",
+      "example": "banking house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36127.png",
+      "local_image_path": "images/36127.png"
+    },
+    {
+      "pos": "n",
+      "example": "printing house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36128.png",
+      "local_image_path": "images/36128.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36129.png",
+      "local_image_path": "images/36129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We can house you for the weekend.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36130.png",
+      "local_image_path": "images/36130.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36131.png",
+      "local_image_path": "images/36131.png"
+    }
+  ],
+  "synonyms": [
+    "accommodate",
+    "lodge",
+    "take in",
+    "board",
+    "shelter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "House of Commons",
+    "house of correction",
+    "House of Representative",
+    "house sparrow",
+    "house-agent",
+    "house-builder",
+    "house-dog",
+    "house-dove",
+    "house-father",
+    "house-mother",
+    "house-post",
+    "house-top",
+    "house-wares",
+    "houseboat",
+    "housebreaker",
+    "housebreaking",
+    "housebroken",
+    "housefly",
+    "houseful",
+    "household",
+    "householder",
+    "housekeeper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/house.mp3",
+  "local_sound_path": "sounds/house.mp3"
+}

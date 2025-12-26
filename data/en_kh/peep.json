@@ -1,0 +1,63 @@
+{
+  "word": "peep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61154.png",
+      "local_image_path": "images/61154.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61155.png",
+      "local_image_path": "images/61155.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61157.png",
+      "local_image_path": "images/61157.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61156.png",
+      "local_image_path": "images/61156.png"
+    },
+    {
+      "pos": "n",
+      "example": "peep of a bird",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61158.png",
+      "local_image_path": "images/61158.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61159.png",
+      "local_image_path": "images/61159.png"
+    }
+  ],
+  "synonyms": [
+    "cheep",
+    "chirp",
+    "tweet",
+    "squeak",
+    "beep",
+    "chirrup",
+    "twitter"
+  ],
+  "antonyms": [
+    "gaze"
+  ],
+  "similar_words": [
+    "peep-hole",
+    "peeper",
+    "peepshow",
+    "peepul"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peep.mp3",
+  "local_sound_path": "sounds/peep.mp3"
+}

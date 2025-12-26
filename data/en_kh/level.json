@@ -1,0 +1,140 @@
+{
+  "word": "level",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "level ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46062.png",
+      "local_image_path": "images/46062.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46063.png",
+      "local_image_path": "images/46063.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46064.png",
+      "local_image_path": "images/46064.png"
+    },
+    {
+      "pos": "adj",
+      "example": "level head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46065.png",
+      "local_image_path": "images/46065.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123480.png",
+      "local_image_path": "images/123480.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123481.png",
+      "local_image_path": "images/123481.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123482.png",
+      "local_image_path": "images/123482.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130479.png",
+      "local_image_path": "images/130479.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130480.png",
+      "local_image_path": "images/130480.png"
+    },
+    {
+      "pos": "iv",
+      "example": "level off",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46069.png",
+      "local_image_path": "images/46069.png"
+    },
+    {
+      "pos": "iv",
+      "example": "level with me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46070.png",
+      "local_image_path": "images/46070.png"
+    },
+    {
+      "pos": "n",
+      "example": "water level",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46058.png",
+      "local_image_path": "images/46058.png"
+    },
+    {
+      "pos": "n",
+      "example": "level of education",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46059.png",
+      "local_image_path": "images/46059.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46060.png",
+      "local_image_path": "images/46060.png"
+    },
+    {
+      "pos": "n",
+      "example": "carpenter's level",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46061.png",
+      "local_image_path": "images/46061.png"
+    },
+    {
+      "pos": "tv",
+      "example": "level a floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46066.png",
+      "local_image_path": "images/46066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46067.png",
+      "local_image_path": "images/46067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "level enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46068.png",
+      "local_image_path": "images/46068.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123483.png",
+      "local_image_path": "images/123483.png"
+    }
+  ],
+  "synonyms": [
+    "aim",
+    "direct",
+    "point",
+    "turn"
+  ],
+  "antonyms": [
+    "bumpy",
+    "sloping",
+    "uneven",
+    "rebuild"
+  ],
+  "similar_words": [
+    "level-crossing",
+    "level-headed",
+    "levelheadedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/level.mp3",
+  "local_sound_path": "sounds/level.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "together",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "They are together against",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89879.png",
+      "local_image_path": "images/89879.png"
+    },
+    {
+      "pos": "adv",
+      "example": "play together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89878.png",
+      "local_image_path": "images/89878.png"
+    }
+  ],
+  "synonyms": [
+    "composed",
+    "calm",
+    "collected",
+    "organized",
+    "cool",
+    "unruffled",
+    "self-possessed",
+    "simultaneously",
+    "concurrently"
+  ],
+  "antonyms": [
+    "alone",
+    "separately"
+  ],
+  "similar_words": [
+    "together with",
+    "togetherness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/together.mp3",
+  "local_sound_path": "sounds/together.mp3"
+}

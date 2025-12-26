@@ -1,0 +1,43 @@
+{
+  "word": "consignment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17006.png",
+      "local_image_path": "images/17006.png"
+    },
+    {
+      "pos": "n",
+      "example": "consignment to him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17009.png",
+      "local_image_path": "images/17009.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117335.png",
+      "local_image_path": "images/117335.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117336.png",
+      "local_image_path": "images/117336.png"
+    }
+  ],
+  "synonyms": [
+    "batch",
+    "delivery",
+    "shipment",
+    "load",
+    "package",
+    "quantity"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consignment.mp3",
+  "local_sound_path": "sounds/consignment.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "idol",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37146.png",
+      "local_image_path": "images/37146.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37147.png",
+      "local_image_path": "images/37147.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's my idol",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37148.png",
+      "local_image_path": "images/37148.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121372.png",
+      "local_image_path": "images/121372.png"
+    }
+  ],
+  "synonyms": [
+    "hero",
+    "star",
+    "pin-up",
+    "statue",
+    "god",
+    "deity",
+    "carving",
+    "sculpture",
+    "symbol",
+    "icon"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "idolater",
+    "idolatress",
+    "idolatrous",
+    "idolatrousness",
+    "idolatry",
+    "idolization",
+    "idolize",
+    "idolizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/idol.mp3",
+  "local_sound_path": "sounds/idol.mp3"
+}

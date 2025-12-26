@@ -1,0 +1,29 @@
+{
+  "word": "arouse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "arouse a lion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5546.png",
+      "local_image_path": "images/5546.png"
+    }
+  ],
+  "synonyms": [
+    "stimulate",
+    "provoke",
+    "awaken",
+    "produce",
+    "stir",
+    "rouse"
+  ],
+  "antonyms": [
+    "dampen"
+  ],
+  "similar_words": [
+    "arouser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arouse.mp3",
+  "local_sound_path": "sounds/arouse.mp3"
+}

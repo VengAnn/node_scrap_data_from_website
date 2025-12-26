@@ -1,0 +1,30 @@
+{
+  "word": "auction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6343.png",
+      "local_image_path": "images/6343.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6344.png",
+      "local_image_path": "images/6344.png"
+    }
+  ],
+  "synonyms": [
+    "sale",
+    "mart"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "auctionary",
+    "auctioneer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/auction.mp3",
+  "local_sound_path": "sounds/auction.mp3"
+}

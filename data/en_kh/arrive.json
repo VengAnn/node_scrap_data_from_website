@@ -1,0 +1,24 @@
+{
+  "word": "arrive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I will arrive her today",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5594.png",
+      "local_image_path": "images/5594.png"
+    }
+  ],
+  "synonyms": [
+    "succeed"
+  ],
+  "antonyms": [
+    "depart"
+  ],
+  "similar_words": [
+    "arriver"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arrive.mp3",
+  "local_sound_path": "sounds/arrive.mp3"
+}

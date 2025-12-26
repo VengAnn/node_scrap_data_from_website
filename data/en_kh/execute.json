@@ -1,0 +1,42 @@
+{
+  "word": "execute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "execute criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26531.png",
+      "local_image_path": "images/26531.png"
+    },
+    {
+      "pos": "tv",
+      "example": "execute a task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26532.png",
+      "local_image_path": "images/26532.png"
+    },
+    {
+      "pos": "tv",
+      "example": "execute design",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26533.png",
+      "local_image_path": "images/26533.png"
+    }
+  ],
+  "synonyms": [
+    "kill",
+    "slay",
+    "murder",
+    "hang",
+    "electrocute",
+    "guillotine"
+  ],
+  "antonyms": [
+    "fail"
+  ],
+  "similar_words": [
+    "executed",
+    "executed interest"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/execute.mp3",
+  "local_sound_path": "sounds/execute.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "reprieve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72449.png",
+      "local_image_path": "images/72449.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126894.png",
+      "local_image_path": "images/126894.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126895.png",
+      "local_image_path": "images/126895.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72448.png",
+      "local_image_path": "images/72448.png"
+    }
+  ],
+  "synonyms": [
+    "pardon",
+    "acquit",
+    "stay",
+    "remit",
+    "excuse",
+    "liberate"
+  ],
+  "antonyms": [
+    "punish"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reprieve.mp3",
+  "local_sound_path": "sounds/reprieve.mp3"
+}

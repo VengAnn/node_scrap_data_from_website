@@ -1,0 +1,55 @@
+{
+  "word": "as",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "I speak English as easily as I speak Khmer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5706.png",
+      "local_image_path": "images/5706.png"
+    },
+    {
+      "pos": "conj",
+      "example": "As it is raining, we shall stay at home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5708.png",
+      "local_image_path": "images/5708.png"
+    },
+    {
+      "pos": "prep",
+      "example": "work as carpenter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5707.png",
+      "local_image_path": "images/5707.png"
+    }
+  ],
+  "synonyms": [
+    "being"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "asale",
+    "asarum",
+    "asbestoic",
+    "asbestos",
+    "asbestosis",
+    "ascariasis",
+    "ascarid",
+    "ascarides",
+    "ascend",
+    "ascendable",
+    "ascendance",
+    "ascendancy",
+    "ascendant",
+    "ascendible",
+    "ascending",
+    "ascension",
+    "ascensional",
+    "ascensive",
+    "ascent",
+    "ascertain",
+    "ascertainable",
+    "ascertainably"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/as.mp3",
+  "local_sound_path": "sounds/as.mp3"
+}

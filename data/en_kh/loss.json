@@ -1,0 +1,38 @@
+{
+  "word": "loss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "financial loss",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47688.png",
+      "local_image_path": "images/47688.png"
+    },
+    {
+      "pos": "n",
+      "example": "loss of confidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47689.png",
+      "local_image_path": "images/47689.png"
+    }
+  ],
+  "synonyms": [
+    "damage",
+    "harm",
+    "injury",
+    "cost",
+    "hurt",
+    "deficit",
+    "debit",
+    "deficiency",
+    "shortfall"
+  ],
+  "antonyms": [
+    "victory",
+    "gain",
+    "profit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/loss.mp3",
+  "local_sound_path": "sounds/loss.mp3"
+}

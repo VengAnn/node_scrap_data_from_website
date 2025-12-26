@@ -1,0 +1,93 @@
+{
+  "word": "back",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "back yard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6946.png",
+      "local_image_path": "images/6946.png"
+    },
+    {
+      "pos": "adv",
+      "example": "If we go back a few years …..",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6947.png",
+      "local_image_path": "images/6947.png"
+    },
+    {
+      "pos": "iv",
+      "example": "back down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6945.png",
+      "local_image_path": "images/6945.png"
+    },
+    {
+      "pos": "n",
+      "example": "I have got your back",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6943.png",
+      "local_image_path": "images/6943.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he backed his car into the garage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6944.png",
+      "local_image_path": "images/6944.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114387.png",
+      "local_image_path": "images/114387.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114388.png",
+      "local_image_path": "images/114388.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114389.png",
+      "local_image_path": "images/114389.png"
+    }
+  ],
+  "synonyms": [
+    "earlier",
+    "formerly",
+    "ago"
+  ],
+  "antonyms": [
+    "front",
+    "fore",
+    "proceed",
+    "forward"
+  ],
+  "similar_words": [
+    "back channel",
+    "back last",
+    "back matter",
+    "back mutation",
+    "back side",
+    "back story",
+    "back-burner",
+    "back-formation",
+    "back-office",
+    "back-piece",
+    "back-plate",
+    "back-talk",
+    "back-up",
+    "back-up software",
+    "back-way",
+    "backache",
+    "backbencher",
+    "backbite",
+    "backbiter",
+    "backbiting",
+    "backblow",
+    "backboard",
+    "backbone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/back.mp3",
+  "local_sound_path": "sounds/back.mp3"
+}

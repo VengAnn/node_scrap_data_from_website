@@ -1,0 +1,46 @@
+{
+  "word": "finished",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28625.png",
+      "local_image_path": "images/28625.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120154.png",
+      "local_image_path": "images/120154.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120155.png",
+      "local_image_path": "images/120155.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120156.png",
+      "local_image_path": "images/120156.png"
+    }
+  ],
+  "synonyms": [
+    "lost",
+    "dead",
+    "polished",
+    "buffed",
+    "gilded"
+  ],
+  "antonyms": [
+    "rough",
+    "amateur",
+    "unfinished"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/finished.mp3",
+  "local_sound_path": "sounds/finished.mp3"
+}

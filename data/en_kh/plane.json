@@ -1,0 +1,105 @@
+{
+  "word": "plane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "plane geometry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63827.png",
+      "local_image_path": "images/63827.png"
+    },
+    {
+      "pos": "iv",
+      "example": "boats plane on the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63826.png",
+      "local_image_path": "images/63826.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63817.png",
+      "local_image_path": "images/63817.png"
+    },
+    {
+      "pos": "n",
+      "example": "horizontal plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63818.png",
+      "local_image_path": "images/63818.png"
+    },
+    {
+      "pos": "n",
+      "example": "moral plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63819.png",
+      "local_image_path": "images/63819.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63820.png",
+      "local_image_path": "images/63820.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63821.png",
+      "local_image_path": "images/63821.png"
+    },
+    {
+      "pos": "n",
+      "example": "carpenter's plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63822.png",
+      "local_image_path": "images/63822.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63823.png",
+      "local_image_path": "images/63823.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130946.png",
+      "local_image_path": "images/130946.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plane wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63824.png",
+      "local_image_path": "images/63824.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63825.png",
+      "local_image_path": "images/63825.png"
+    }
+  ],
+  "synonyms": [
+    "flat",
+    "even",
+    "smooth",
+    "level",
+    "horizontal"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "plane crash",
+    "planeload",
+    "planer",
+    "planeside",
+    "planet",
+    "planet-struck",
+    "planetarium",
+    "planetary",
+    "planetary life",
+    "planetoid",
+    "planetoidal",
+    "planetological",
+    "planetologist",
+    "planetology"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plane.mp3",
+  "local_sound_path": "sounds/plane.mp3"
+}

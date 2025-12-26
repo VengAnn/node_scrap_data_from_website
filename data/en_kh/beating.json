@@ -1,0 +1,39 @@
+{
+  "word": "beating",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7908.png",
+      "local_image_path": "images/7908.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129995.png",
+      "local_image_path": "images/129995.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129996.png",
+      "local_image_path": "images/129996.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "pasting",
+    "thrashing",
+    "breaking",
+    "smashing",
+    "bettering",
+    "topping",
+    "surpassing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beating.mp3",
+  "local_sound_path": "sounds/beating.mp3"
+}

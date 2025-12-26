@@ -1,0 +1,46 @@
+{
+  "word": "reduction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71232.png",
+      "local_image_path": "images/71232.png"
+    },
+    {
+      "pos": "n",
+      "example": "reduction of the current",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71233.png",
+      "local_image_path": "images/71233.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy at a reduction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71234.png",
+      "local_image_path": "images/71234.png"
+    }
+  ],
+  "synonyms": [
+    "discount",
+    "cut",
+    "saving",
+    "bargain",
+    "decrease",
+    "drop",
+    "fall",
+    "decline",
+    "diminution",
+    "cutback"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [
+    "reduction of penalty",
+    "reductional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reduction.mp3",
+  "local_sound_path": "sounds/reduction.mp3"
+}

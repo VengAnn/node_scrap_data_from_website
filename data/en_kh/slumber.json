@@ -1,0 +1,53 @@
+{
+  "word": "slumber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The baby slumbered in his cot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81506.png",
+      "local_image_path": "images/81506.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81507.png",
+      "local_image_path": "images/81507.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127996.png",
+      "local_image_path": "images/127996.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81508.png",
+      "local_image_path": "images/81508.png"
+    }
+  ],
+  "synonyms": [
+    "sleep",
+    "nap",
+    "snooze",
+    "doze",
+    "siesta",
+    "catnap",
+    "drowse"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slumber-dress",
+    "slumberer",
+    "slumberingly",
+    "slumberless",
+    "slumberous",
+    "slumberously",
+    "slumberousness",
+    "slumbery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slumber.mp3",
+  "local_sound_path": "sounds/slumber.mp3"
+}

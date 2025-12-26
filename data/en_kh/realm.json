@@ -1,0 +1,44 @@
+{
+  "word": "realm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "British realm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70536.png",
+      "local_image_path": "images/70536.png"
+    },
+    {
+      "pos": "n",
+      "example": "in the realm of physics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70537.png",
+      "local_image_path": "images/70537.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70538.png",
+      "local_image_path": "images/70538.png"
+    }
+  ],
+  "synonyms": [
+    "area",
+    "sphere",
+    "field",
+    "ambit",
+    "space",
+    "domain",
+    "jurisdiction",
+    "department",
+    "branch",
+    "scope",
+    "range",
+    "province",
+    "orbit"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/realm.mp3",
+  "local_sound_path": "sounds/realm.mp3"
+}

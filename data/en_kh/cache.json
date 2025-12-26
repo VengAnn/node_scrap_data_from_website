@@ -1,0 +1,48 @@
+{
+  "word": "cache",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12238.png",
+      "local_image_path": "images/12238.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115792.png",
+      "local_image_path": "images/115792.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12239.png",
+      "local_image_path": "images/12239.png"
+    }
+  ],
+  "synonyms": [
+    "hoard",
+    "store",
+    "supply",
+    "accumulation",
+    "reserve",
+    "collection",
+    "hide",
+    "secrete",
+    "accumulate",
+    "collect"
+  ],
+  "antonyms": [
+    "discard"
+  ],
+  "similar_words": [
+    "cachepot",
+    "cachet",
+    "cachetic",
+    "cachexia"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cache.mp3",
+  "local_sound_path": "sounds/cache.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "combination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Pink is a combination of red and white",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15867.png",
+      "local_image_path": "images/15867.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130142.png",
+      "local_image_path": "images/130142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130143.png",
+      "local_image_path": "images/130143.png"
+    }
+  ],
+  "synonyms": [
+    "arrangement",
+    "permutation",
+    "code",
+    "pattern",
+    "order",
+    "sequence"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "combination lock",
+    "combinational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/combination.mp3",
+  "local_sound_path": "sounds/combination.mp3"
+}

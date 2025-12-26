@@ -1,0 +1,60 @@
+{
+  "word": "outside",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "outside door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58462.png",
+      "local_image_path": "images/58462.png"
+    },
+    {
+      "pos": "adj",
+      "example": "outside influences",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58463.png",
+      "local_image_path": "images/58463.png"
+    },
+    {
+      "pos": "adj",
+      "example": "outside estimate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58464.png",
+      "local_image_path": "images/58464.png"
+    },
+    {
+      "pos": "adv",
+      "example": "go outside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58466.png",
+      "local_image_path": "images/58466.png"
+    },
+    {
+      "pos": "n",
+      "example": "on the outside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58461.png",
+      "local_image_path": "images/58461.png"
+    },
+    {
+      "pos": "prep",
+      "example": "outside the house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58465.png",
+      "local_image_path": "images/58465.png"
+    }
+  ],
+  "synonyms": [
+    "beyond",
+    "farther",
+    "past",
+    "beside"
+  ],
+  "antonyms": [
+    "inside",
+    "strong",
+    "within"
+  ],
+  "similar_words": [
+    "outside of",
+    "outsider"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outside.mp3",
+  "local_sound_path": "sounds/outside.mp3"
+}

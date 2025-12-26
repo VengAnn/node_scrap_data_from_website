@@ -1,0 +1,49 @@
+{
+  "word": "liable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46143.png",
+      "local_image_path": "images/46143.png"
+    },
+    {
+      "pos": "adj",
+      "example": "liable to prosecution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46144.png",
+      "local_image_path": "images/46144.png"
+    },
+    {
+      "pos": "adj",
+      "example": "liable for his debts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46145.png",
+      "local_image_path": "images/46145.png"
+    },
+    {
+      "pos": "adj",
+      "example": "liable to die",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46146.png",
+      "local_image_path": "images/46146.png"
+    },
+    {
+      "pos": "adj",
+      "example": "liable to sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46147.png",
+      "local_image_path": "images/46147.png"
+    }
+  ],
+  "synonyms": [
+    "likely",
+    "apt",
+    "prone"
+  ],
+  "antonyms": [
+    "unaccountable",
+    "unlikely"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liable.mp3",
+  "local_sound_path": "sounds/liable.mp3"
+}

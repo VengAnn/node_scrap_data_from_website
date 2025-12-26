@@ -1,0 +1,32 @@
+{
+  "word": "indeed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38875.png",
+      "local_image_path": "images/38875.png"
+    },
+    {
+      "pos": "adv",
+      "example": "It's sad indeed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38876.png",
+      "local_image_path": "images/38876.png"
+    },
+    {
+      "pos": "adv",
+      "example": "indeed I would go futher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38877.png",
+      "local_image_path": "images/38877.png"
+    }
+  ],
+  "synonyms": [
+    "actually"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indeed.mp3",
+  "local_sound_path": "sounds/indeed.mp3"
+}

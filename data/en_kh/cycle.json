@@ -1,0 +1,48 @@
+{
+  "word": "cycle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19365.png",
+      "local_image_path": "images/19365.png"
+    },
+    {
+      "pos": "n",
+      "example": "cycle of events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19363.png",
+      "local_image_path": "images/19363.png"
+    },
+    {
+      "pos": "n",
+      "example": "ride a cycle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19364.png",
+      "local_image_path": "images/19364.png"
+    }
+  ],
+  "synonyms": [
+    "series",
+    "sequence",
+    "set",
+    "round",
+    "rotation",
+    "succession",
+    "phase",
+    "pedal",
+    "bike",
+    "ride",
+    "drive",
+    "steer",
+    "travel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cycle path",
+    "cycler",
+    "cyclery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cycle.mp3",
+  "local_sound_path": "sounds/cycle.mp3"
+}

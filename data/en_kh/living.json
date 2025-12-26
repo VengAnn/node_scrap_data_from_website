@@ -1,0 +1,58 @@
+{
+  "word": "living",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47148.png",
+      "local_image_path": "images/47148.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47149.png",
+      "local_image_path": "images/47149.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123606.png",
+      "local_image_path": "images/123606.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123607.png",
+      "local_image_path": "images/123607.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123608.png",
+      "local_image_path": "images/123608.png"
+    }
+  ],
+  "synonyms": [
+    "alive",
+    "breathing",
+    "existing",
+    "live",
+    "active",
+    "dwelling",
+    "inhabiting",
+    "settling",
+    "abiding"
+  ],
+  "antonyms": [
+    "dead",
+    "dying"
+  ],
+  "similar_words": [
+    "living organism",
+    "living-room"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/living.mp3",
+  "local_sound_path": "sounds/living.mp3"
+}

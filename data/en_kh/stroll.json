@@ -1,0 +1,40 @@
+{
+  "word": "stroll",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85478.png",
+      "local_image_path": "images/85478.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85480.png",
+      "local_image_path": "images/85480.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85479.png",
+      "local_image_path": "images/85479.png"
+    }
+  ],
+  "synonyms": [
+    "walk",
+    "amble",
+    "saunter",
+    "promenade",
+    "ramble",
+    "wander"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stroller",
+    "strolling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stroll.mp3",
+  "local_sound_path": "sounds/stroll.mp3"
+}

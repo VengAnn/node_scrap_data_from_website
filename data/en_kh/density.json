@@ -1,0 +1,26 @@
+{
+  "word": "density",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "density of population",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20541.png",
+      "local_image_path": "images/20541.png"
+    }
+  ],
+  "synonyms": [
+    "intensity",
+    "concentration",
+    "degree",
+    "extent"
+  ],
+  "antonyms": [
+    "intelligence",
+    "scarcity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/density.mp3",
+  "local_sound_path": "sounds/density.mp3"
+}

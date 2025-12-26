@@ -1,0 +1,102 @@
+{
+  "word": "cloak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15076.png",
+      "local_image_path": "images/15076.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116493.png",
+      "local_image_path": "images/116493.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116494.png",
+      "local_image_path": "images/116494.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116495.png",
+      "local_image_path": "images/116495.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116496.png",
+      "local_image_path": "images/116496.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116497.png",
+      "local_image_path": "images/116497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15074.png",
+      "local_image_path": "images/15074.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15075.png",
+      "local_image_path": "images/15075.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130077.png",
+      "local_image_path": "images/130077.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130078.png",
+      "local_image_path": "images/130078.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130079.png",
+      "local_image_path": "images/130079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130080.png",
+      "local_image_path": "images/130080.png"
+    }
+  ],
+  "synonyms": [
+    "screen",
+    "cover",
+    "shroud",
+    "veil",
+    "facade",
+    "pretense",
+    "hide",
+    "conceal",
+    "envelop",
+    "wrap",
+    "swathe",
+    "mask",
+    "camouflage"
+  ],
+  "antonyms": [
+    "reveal"
+  ],
+  "similar_words": [
+    "cloakroom"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloak.mp3",
+  "local_sound_path": "sounds/cloak.mp3"
+}

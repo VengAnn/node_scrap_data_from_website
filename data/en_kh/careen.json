@@ -1,0 +1,32 @@
+{
+  "word": "careen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "ship careen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12974.png",
+      "local_image_path": "images/12974.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12975.png",
+      "local_image_path": "images/12975.png"
+    }
+  ],
+  "synonyms": [
+    "zigzag",
+    "stagger",
+    "wind",
+    "twist",
+    "snake",
+    "meander",
+    "lurch"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/careen.mp3",
+  "local_sound_path": "sounds/careen.mp3"
+}

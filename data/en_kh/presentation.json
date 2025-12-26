@@ -1,0 +1,56 @@
+{
+  "word": "presentation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66562.png",
+      "local_image_path": "images/66562.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a presentation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66563.png",
+      "local_image_path": "images/66563.png"
+    },
+    {
+      "pos": "n",
+      "example": "presentation of a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66564.png",
+      "local_image_path": "images/66564.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125963.png",
+      "local_image_path": "images/125963.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125964.png",
+      "local_image_path": "images/125964.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125965.png",
+      "local_image_path": "images/125965.png"
+    }
+  ],
+  "synonyms": [
+    "talk",
+    "lecture",
+    "seminar",
+    "report",
+    "speech",
+    "address",
+    "allocution"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/presentation.mp3",
+  "local_sound_path": "sounds/presentation.mp3"
+}

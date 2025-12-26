@@ -1,0 +1,114 @@
+{
+  "word": "sink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80433.png",
+      "local_image_path": "images/80433.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Ships sink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80420.png",
+      "local_image_path": "images/80420.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80421.png",
+      "local_image_path": "images/80421.png"
+    },
+    {
+      "pos": "n",
+      "example": "kitchen sink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80428.png",
+      "local_image_path": "images/80428.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80429.png",
+      "local_image_path": "images/80429.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80430.png",
+      "local_image_path": "images/80430.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80431.png",
+      "local_image_path": "images/80431.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80432.png",
+      "local_image_path": "images/80432.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sink a ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80422.png",
+      "local_image_path": "images/80422.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sink a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80423.png",
+      "local_image_path": "images/80423.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sink a screw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80424.png",
+      "local_image_path": "images/80424.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80425.png",
+      "local_image_path": "images/80425.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80426.png",
+      "local_image_path": "images/80426.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80427.png",
+      "local_image_path": "images/80427.png"
+    }
+  ],
+  "synonyms": [
+    "dig",
+    "drill",
+    "mine",
+    "bore"
+  ],
+  "antonyms": [
+    "float",
+    "rise"
+  ],
+  "similar_words": [
+    "sinkable",
+    "sinkage",
+    "sinker",
+    "sinkhead",
+    "sinkhole",
+    "sinking",
+    "sinking fund",
+    "sinking paper",
+    "sinking sun"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sink.mp3",
+  "local_sound_path": "sounds/sink.mp3"
+}

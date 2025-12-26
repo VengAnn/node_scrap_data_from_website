@@ -1,0 +1,34 @@
+{
+  "word": "excommunicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26467.png",
+      "local_image_path": "images/26467.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119605.png",
+      "local_image_path": "images/119605.png"
+    }
+  ],
+  "synonyms": [
+    "exclude",
+    "bar",
+    "debar",
+    "eject",
+    "remove",
+    "expel",
+    "anathematize"
+  ],
+  "antonyms": [
+    "admit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excommunicate.mp3",
+  "local_sound_path": "sounds/excommunicate.mp3"
+}

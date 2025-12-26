@@ -1,0 +1,76 @@
+{
+  "word": "pinch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63347.png",
+      "local_image_path": "images/63347.png"
+    },
+    {
+      "pos": "n",
+      "example": "give her a pinch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63348.png",
+      "local_image_path": "images/63348.png"
+    },
+    {
+      "pos": "n",
+      "example": "pinch of salt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63349.png",
+      "local_image_path": "images/63349.png"
+    },
+    {
+      "pos": "n",
+      "example": "pinch of inflation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63350.png",
+      "local_image_path": "images/63350.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63342.png",
+      "local_image_path": "images/63342.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pinch her cheek",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63343.png",
+      "local_image_path": "images/63343.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63344.png",
+      "local_image_path": "images/63344.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63345.png",
+      "local_image_path": "images/63345.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63346.png",
+      "local_image_path": "images/63346.png"
+    }
+  ],
+  "synonyms": [
+    "steal",
+    "take",
+    "nab",
+    "pilfer",
+    "thieve",
+    "nick"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pinchbeck",
+    "pinching"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pinch.mp3",
+  "local_sound_path": "sounds/pinch.mp3"
+}

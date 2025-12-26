@@ -1,0 +1,40 @@
+{
+  "word": "inkling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40134.png",
+      "local_image_path": "images/40134.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122442.png",
+      "local_image_path": "images/122442.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122443.png",
+      "local_image_path": "images/122443.png"
+    }
+  ],
+  "synonyms": [
+    "suspicion",
+    "hint",
+    "clue",
+    "hunch",
+    "feeling",
+    "idea",
+    "notion"
+  ],
+  "antonyms": [
+    "certainty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inkling.mp3",
+  "local_sound_path": "sounds/inkling.mp3"
+}

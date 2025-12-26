@@ -1,0 +1,27 @@
+{
+  "word": "stitch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "lose a stitch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84872.png",
+      "local_image_path": "images/84872.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84873.png",
+      "local_image_path": "images/84873.png"
+    }
+  ],
+  "synonyms": [
+    "suture",
+    "close"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stitch.mp3",
+  "local_sound_path": "sounds/stitch.mp3"
+}

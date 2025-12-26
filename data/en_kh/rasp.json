@@ -1,0 +1,41 @@
+{
+  "word": "rasp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70277.png",
+      "local_image_path": "images/70277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rasp a reply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70278.png",
+      "local_image_path": "images/70278.png"
+    }
+  ],
+  "synonyms": [
+    "scrape",
+    "rub",
+    "grate",
+    "chafe",
+    "grind",
+    "scratch",
+    "file",
+    "abrade"
+  ],
+  "antonyms": [
+    "caress",
+    "murmur"
+  ],
+  "similar_words": [
+    "raspberry",
+    "rasper",
+    "raspingly",
+    "raspy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rasp.mp3",
+  "local_sound_path": "sounds/rasp.mp3"
+}

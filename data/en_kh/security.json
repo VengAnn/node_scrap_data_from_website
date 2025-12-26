@@ -1,0 +1,54 @@
+{
+  "word": "security",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "security from danger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77614.png",
+      "local_image_path": "images/77614.png"
+    },
+    {
+      "pos": "n",
+      "example": "security measures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77615.png",
+      "local_image_path": "images/77615.png"
+    },
+    {
+      "pos": "n",
+      "example": "security for a loan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77616.png",
+      "local_image_path": "images/77616.png"
+    },
+    {
+      "pos": "n",
+      "example": "invest in security",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77617.png",
+      "local_image_path": "images/77617.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131959.png",
+      "local_image_path": "images/131959.png"
+    }
+  ],
+  "synonyms": [
+    "collateral",
+    "guarantee",
+    "defense",
+    "protection"
+  ],
+  "antonyms": [
+    "insecurity",
+    "danger"
+  ],
+  "similar_words": [
+    "security agreement",
+    "security deposit",
+    "security guard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/security.mp3",
+  "local_sound_path": "sounds/security.mp3"
+}

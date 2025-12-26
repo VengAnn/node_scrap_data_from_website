@@ -1,0 +1,33 @@
+{
+  "word": "auspicious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "auspicious moment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6477.png",
+      "local_image_path": "images/6477.png"
+    }
+  ],
+  "synonyms": [
+    "favorable",
+    "promising",
+    "positive",
+    "fortunate",
+    "propitious",
+    "lucky",
+    "good",
+    "opportune",
+    "providential"
+  ],
+  "antonyms": [
+    "inauspicious"
+  ],
+  "similar_words": [
+    "auspiciously",
+    "auspiciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/auspicious.mp3",
+  "local_sound_path": "sounds/auspicious.mp3"
+}

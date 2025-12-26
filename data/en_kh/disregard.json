@@ -1,0 +1,65 @@
+{
+  "word": "disregard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22131.png",
+      "local_image_path": "images/22131.png"
+    },
+    {
+      "pos": "n",
+      "example": "disregard of the evidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22132.png",
+      "local_image_path": "images/22132.png"
+    },
+    {
+      "pos": "n",
+      "example": "disregard for one's parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22133.png",
+      "local_image_path": "images/22133.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disregard the foregoing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22127.png",
+      "local_image_path": "images/22127.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disregard the evidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22128.png",
+      "local_image_path": "images/22128.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disregard parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22129.png",
+      "local_image_path": "images/22129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disregard sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22130.png",
+      "local_image_path": "images/22130.png"
+    }
+  ],
+  "synonyms": [
+    "disrespect",
+    "indifference",
+    "contempt",
+    "disdain",
+    "ignore",
+    "discount",
+    "forget"
+  ],
+  "antonyms": [
+    "heed",
+    "regard"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disregard.mp3",
+  "local_sound_path": "sounds/disregard.mp3"
+}

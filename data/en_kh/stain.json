@@ -1,0 +1,68 @@
+{
+  "word": "stain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "grass stain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84092.png",
+      "local_image_path": "images/84092.png"
+    },
+    {
+      "pos": "n",
+      "example": "stain on his reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84093.png",
+      "local_image_path": "images/84093.png"
+    },
+    {
+      "pos": "n",
+      "example": "apply wood stain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84094.png",
+      "local_image_path": "images/84094.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stain one's clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84095.png",
+      "local_image_path": "images/84095.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stain one's reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84096.png",
+      "local_image_path": "images/84096.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stain wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84097.png",
+      "local_image_path": "images/84097.png"
+    }
+  ],
+  "synonyms": [
+    "tint",
+    "dye",
+    "color",
+    "tinge",
+    "blemish",
+    "tarnish",
+    "soil",
+    "discolor",
+    "mark",
+    "dirty",
+    "blot",
+    "spot"
+  ],
+  "antonyms": [
+    "honor"
+  ],
+  "similar_words": [
+    "stainer",
+    "staining",
+    "stainless",
+    "stainless stell"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stain.mp3",
+  "local_sound_path": "sounds/stain.mp3"
+}

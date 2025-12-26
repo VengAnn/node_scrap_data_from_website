@@ -1,0 +1,67 @@
+{
+  "word": "balance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "credit balance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7139.png",
+      "local_image_path": "images/7139.png"
+    },
+    {
+      "pos": "n",
+      "example": "pay the balance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7137.png",
+      "local_image_path": "images/7137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114458.png",
+      "local_image_path": "images/114458.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114459.png",
+      "local_image_path": "images/114459.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114460.png",
+      "local_image_path": "images/114460.png"
+    },
+    {
+      "pos": "tv",
+      "example": "it is difficult to balance a stick on the end of your nose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7138.png",
+      "local_image_path": "images/7138.png"
+    }
+  ],
+  "synonyms": [
+    "calculate",
+    "square",
+    "tally",
+    "total",
+    "settle",
+    "equalize",
+    "assess",
+    "weigh",
+    "consider",
+    "compare",
+    "evaluate"
+  ],
+  "antonyms": [
+    "unsteadiness",
+    "wobble"
+  ],
+  "similar_words": [
+    "balance wheel",
+    "balanced",
+    "balancer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/balance.mp3",
+  "local_sound_path": "sounds/balance.mp3"
+}

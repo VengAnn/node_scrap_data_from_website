@@ -1,0 +1,58 @@
+{
+  "word": "in",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "prep",
+      "example": "I am in room.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38064.png",
+      "local_image_path": "images/38064.png"
+    },
+    {
+      "pos": "prep",
+      "example": "in 10 minutes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38065.png",
+      "local_image_path": "images/38065.png"
+    }
+  ],
+  "synonyms": [
+    "fashionable",
+    "trendy",
+    "popular",
+    "hip",
+    "happening",
+    "now",
+    "stylish",
+    "modish",
+    "wearing"
+  ],
+  "antonyms": [
+    "out",
+    "outside"
+  ],
+  "similar_words": [
+    "in absentia",
+    "in so far",
+    "in-between",
+    "in-law",
+    "in-marriage",
+    "in-service",
+    "inability",
+    "inaccentuated",
+    "inaccentuation",
+    "inacceptable",
+    "inaccessibility",
+    "inaccessible",
+    "inaccessibleness",
+    "inaccessibly",
+    "inaccordant",
+    "inaccuracy",
+    "inaccurate",
+    "inaccurately",
+    "inaccurateness",
+    "inacquaintance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/in.mp3",
+  "local_sound_path": "sounds/in.mp3"
+}

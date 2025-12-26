@@ -1,0 +1,30 @@
+{
+  "word": "allegation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3419.png",
+      "local_image_path": "images/3419.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112379.png",
+      "local_image_path": "images/112379.png"
+    }
+  ],
+  "synonyms": [
+    "claim",
+    "accusation",
+    "assertion",
+    "contention",
+    "charge"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allegation.mp3",
+  "local_sound_path": "sounds/allegation.mp3"
+}

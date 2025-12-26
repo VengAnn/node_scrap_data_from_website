@@ -1,0 +1,33 @@
+{
+  "word": "creak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The wooden cart creaked as it moved long",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18452.png",
+      "local_image_path": "images/18452.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18453.png",
+      "local_image_path": "images/18453.png"
+    }
+  ],
+  "synonyms": [
+    "screech",
+    "squeak",
+    "scrape",
+    "groan",
+    "rasp"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "creakily",
+    "creaky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/creak.mp3",
+  "local_sound_path": "sounds/creak.mp3"
+}

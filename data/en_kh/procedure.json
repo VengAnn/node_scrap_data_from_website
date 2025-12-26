@@ -1,0 +1,45 @@
+{
+  "word": "procedure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "accounting procedure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67207.png",
+      "local_image_path": "images/67207.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132117.png",
+      "local_image_path": "images/132117.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132118.png",
+      "local_image_path": "images/132118.png"
+    },
+    {
+      "pos": "n",
+      "example": "medical procedure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132119.png",
+      "local_image_path": "images/132119.png"
+    }
+  ],
+  "synonyms": [
+    "process",
+    "practice",
+    "method",
+    "system",
+    "formula",
+    "route",
+    "way",
+    "technique"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/procedure.mp3",
+  "local_sound_path": "sounds/procedure.mp3"
+}

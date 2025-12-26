@@ -1,0 +1,59 @@
+{
+  "word": "bail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7093.png",
+      "local_image_path": "images/7093.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114448.png",
+      "local_image_path": "images/114448.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7094.png",
+      "local_image_path": "images/7094.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7095.png",
+      "local_image_path": "images/7095.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129974.png",
+      "local_image_path": "images/129974.png"
+    }
+  ],
+  "synonyms": [
+    "security",
+    "surety",
+    "bond",
+    "payment"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bailable",
+    "bailage",
+    "bailee",
+    "bailer",
+    "bailey",
+    "bailie",
+    "bailiff",
+    "bailiwick",
+    "bailment",
+    "bailor",
+    "bailout"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bail.mp3",
+  "local_sound_path": "sounds/bail.mp3"
+}

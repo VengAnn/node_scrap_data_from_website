@@ -1,0 +1,36 @@
+{
+  "word": "incite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38391.png",
+      "local_image_path": "images/38391.png"
+    }
+  ],
+  "synonyms": [
+    "instigate",
+    "breed",
+    "cause",
+    "provoke",
+    "inflame",
+    "rouse",
+    "goad",
+    "spur",
+    "stimulate",
+    "motivate",
+    "push"
+  ],
+  "antonyms": [
+    "inhibit",
+    "quell"
+  ],
+  "similar_words": [
+    "incitement",
+    "inciter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incite.mp3",
+  "local_sound_path": "sounds/incite.mp3"
+}

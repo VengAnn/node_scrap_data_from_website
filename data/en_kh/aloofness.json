@@ -1,0 +1,43 @@
+{
+  "word": "aloofness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3611.png",
+      "local_image_path": "images/3611.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113577.png",
+      "local_image_path": "images/113577.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113578.png",
+      "local_image_path": "images/113578.png"
+    }
+  ],
+  "synonyms": [
+    "unfriendliness",
+    "coldness",
+    "detachment",
+    "remoteness",
+    "superiority",
+    "reserve",
+    "distance",
+    "separateness",
+    "independence"
+  ],
+  "antonyms": [
+    "friendliness",
+    "closeness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aloofness.mp3",
+  "local_sound_path": "sounds/aloofness.mp3"
+}

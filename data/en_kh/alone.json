@@ -1,0 +1,29 @@
+{
+  "word": "alone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He is alone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3602.png",
+      "local_image_path": "images/3602.png"
+    }
+  ],
+  "synonyms": [
+    "lonely",
+    "lonesome",
+    "abandoned",
+    "deserted",
+    "isolated",
+    "forlorn",
+    "solitary",
+    "unaided",
+    "solo",
+    "unaccompanied"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alone.mp3",
+  "local_sound_path": "sounds/alone.mp3"
+}

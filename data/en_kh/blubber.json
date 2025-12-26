@@ -1,0 +1,41 @@
+{
+  "word": "blubber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9768.png",
+      "local_image_path": "images/9768.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9767.png",
+      "local_image_path": "images/9767.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9769.png",
+      "local_image_path": "images/9769.png"
+    }
+  ],
+  "synonyms": [
+    "weep",
+    "cry",
+    "snivel",
+    "whimper",
+    "bawl",
+    "sob",
+    "blub"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blubberer",
+    "blubberingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blubber.mp3",
+  "local_sound_path": "sounds/blubber.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "word": "glance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "glance at a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31858.png",
+      "local_image_path": "images/31858.png"
+    },
+    {
+      "pos": "iv",
+      "example": "glance at the headlines",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31859.png",
+      "local_image_path": "images/31859.png"
+    },
+    {
+      "pos": "iv",
+      "example": "bullets glance away",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31860.png",
+      "local_image_path": "images/31860.png"
+    },
+    {
+      "pos": "n",
+      "example": "a quick glance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31861.png",
+      "local_image_path": "images/31861.png"
+    },
+    {
+      "pos": "n",
+      "example": "glance of bullets",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31862.png",
+      "local_image_path": "images/31862.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31863.png",
+      "local_image_path": "images/31863.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120667.png",
+      "local_image_path": "images/120667.png"
+    }
+  ],
+  "synonyms": [
+    "skim",
+    "browse",
+    "look over",
+    "glint",
+    "shine",
+    "glimmer",
+    "gleam",
+    "glitter",
+    "flash",
+    "reflect",
+    "sheen"
+  ],
+  "antonyms": [
+    "perusal",
+    "study",
+    "gaze"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glance.mp3",
+  "local_sound_path": "sounds/glance.mp3"
+}

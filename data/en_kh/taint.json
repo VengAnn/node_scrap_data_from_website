@@ -1,0 +1,64 @@
+{
+  "word": "taint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87300.png",
+      "local_image_path": "images/87300.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87297.png",
+      "local_image_path": "images/87297.png"
+    },
+    {
+      "pos": "n",
+      "example": "taint of corruption",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87298.png",
+      "local_image_path": "images/87298.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87299.png",
+      "local_image_path": "images/87299.png"
+    }
+  ],
+  "synonyms": [
+    "stain",
+    "blemish",
+    "blot",
+    "defect",
+    "fault",
+    "flaw",
+    "smear",
+    "spot",
+    "stigma",
+    "disgrace",
+    "contamination",
+    "contaminate",
+    "pollute",
+    "spoil",
+    "infect",
+    "soil",
+    "dirty",
+    "foul",
+    "ruin",
+    "corrupt",
+    "defile",
+    "poison"
+  ],
+  "antonyms": [
+    "enhance"
+  ],
+  "similar_words": [
+    "tainted",
+    "taintedless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/taint.mp3",
+  "local_sound_path": "sounds/taint.mp3"
+}

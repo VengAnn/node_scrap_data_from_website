@@ -1,0 +1,31 @@
+{
+  "word": "trainee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90820.png",
+      "local_image_path": "images/90820.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90821.png",
+      "local_image_path": "images/90821.png"
+    }
+  ],
+  "synonyms": [
+    "apprentice",
+    "learner",
+    "novice",
+    "beginner"
+  ],
+  "antonyms": [
+    "trainer"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trainee.mp3",
+  "local_sound_path": "sounds/trainee.mp3"
+}

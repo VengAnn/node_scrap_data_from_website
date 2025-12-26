@@ -1,0 +1,33 @@
+{
+  "word": "adipose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2378.png",
+      "local_image_path": "images/2378.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113245.png",
+      "local_image_path": "images/113245.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113246.png",
+      "local_image_path": "images/113246.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "adipose tissue",
+    "adiposeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adipose.mp3",
+  "local_sound_path": "sounds/adipose.mp3"
+}

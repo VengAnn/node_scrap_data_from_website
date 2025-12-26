@@ -1,0 +1,33 @@
+{
+  "word": "solitary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "solitary passenger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82568.png",
+      "local_image_path": "images/82568.png"
+    },
+    {
+      "pos": "adj",
+      "example": "solitary place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82569.png",
+      "local_image_path": "images/82569.png"
+    }
+  ],
+  "synonyms": [
+    "isolated",
+    "desolate",
+    "out-of-the-way",
+    "secluded",
+    "unfrequented",
+    "remote"
+  ],
+  "antonyms": [
+    "sociable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/solitary.mp3",
+  "local_sound_path": "sounds/solitary.mp3"
+}

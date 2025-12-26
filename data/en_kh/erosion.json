@@ -1,0 +1,26 @@
+{
+  "word": "erosion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25751.png",
+      "local_image_path": "images/25751.png"
+    }
+  ],
+  "synonyms": [
+    "corrosion",
+    "attrition",
+    "destruction",
+    "loss"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "erosional",
+    "erosionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erosion.mp3",
+  "local_sound_path": "sounds/erosion.mp3"
+}

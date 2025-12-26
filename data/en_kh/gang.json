@@ -1,0 +1,59 @@
+{
+  "word": "gang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "gang up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30980.png",
+      "local_image_path": "images/30980.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30979.png",
+      "local_image_path": "images/30979.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30982.png",
+      "local_image_path": "images/30982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30981.png",
+      "local_image_path": "images/30981.png"
+    }
+  ],
+  "synonyms": [
+    "team",
+    "squad",
+    "crew",
+    "group"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "gang plow",
+    "ganger",
+    "Ganges",
+    "ganghook",
+    "gangling",
+    "ganglion",
+    "gangly",
+    "gangplank",
+    "gangrel",
+    "gangren",
+    "gangrene",
+    "gangrenous",
+    "gangrenous wound",
+    "gangsta",
+    "gangster",
+    "gangue",
+    "gangway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gang.mp3",
+  "local_sound_path": "sounds/gang.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "ablation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "geol",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1441.png",
+      "local_image_path": "images/1441.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1440.png",
+      "local_image_path": "images/1440.png"
+    },
+    {
+      "pos": "space",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1442.png",
+      "local_image_path": "images/1442.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ablation.mp3",
+  "local_sound_path": "sounds/ablation.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "hug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hug a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36234.png",
+      "local_image_path": "images/36234.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hug the shore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36235.png",
+      "local_image_path": "images/36235.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36236.png",
+      "local_image_path": "images/36236.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36237.png",
+      "local_image_path": "images/36237.png"
+    }
+  ],
+  "synonyms": [
+    "embrace",
+    "squeeze",
+    "clinch",
+    "clasp",
+    "bear hug",
+    "enfold",
+    "cuddle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hug-me-tight",
+    "huge",
+    "hugely",
+    "hugeness",
+    "hugeous",
+    "hugeously",
+    "hugeousness",
+    "huger strike",
+    "hugger-mugger",
+    "huggermuggery",
+    "Huguenot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hug.mp3",
+  "local_sound_path": "sounds/hug.mp3"
+}

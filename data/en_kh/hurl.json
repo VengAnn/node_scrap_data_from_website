@@ -1,0 +1,53 @@
+{
+  "word": "hurl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36435.png",
+      "local_image_path": "images/36435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurl a ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36431.png",
+      "local_image_path": "images/36431.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurl him down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36432.png",
+      "local_image_path": "images/36432.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurl insults",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36433.png",
+      "local_image_path": "images/36433.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurl defiance at",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36434.png",
+      "local_image_path": "images/36434.png"
+    }
+  ],
+  "synonyms": [
+    "throw",
+    "fling",
+    "toss",
+    "chuck",
+    "launch",
+    "heave"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hurler",
+    "hurling",
+    "hurly-burly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hurl.mp3",
+  "local_sound_path": "sounds/hurl.mp3"
+}

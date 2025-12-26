@@ -1,0 +1,35 @@
+{
+  "word": "shriek",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79593.png",
+      "local_image_path": "images/79593.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79592.png",
+      "local_image_path": "images/79592.png"
+    }
+  ],
+  "synonyms": [
+    "screech",
+    "scream",
+    "yell",
+    "cry",
+    "yelp",
+    "shout",
+    "squeal",
+    "squawk"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shriek.mp3",
+  "local_sound_path": "sounds/shriek.mp3"
+}

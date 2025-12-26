@@ -1,0 +1,33 @@
+{
+  "word": "friendly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "friendly dog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30312.png",
+      "local_image_path": "images/30312.png"
+    }
+  ],
+  "synonyms": [
+    "welcoming",
+    "gracious",
+    "forthcoming",
+    "responsive",
+    "sociable",
+    "open",
+    "pleasant",
+    "affable",
+    "approachable",
+    "outgoing",
+    "kindly"
+  ],
+  "antonyms": [
+    "reserved",
+    "unfriendly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/friendly.mp3",
+  "local_sound_path": "sounds/friendly.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "robber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73897.png",
+      "local_image_path": "images/73897.png"
+    }
+  ],
+  "synonyms": [
+    "thief",
+    "burglar",
+    "pickpocket",
+    "shoplifter",
+    "mugger",
+    "raider"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "robber baron",
+    "robbery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/robber.mp3",
+  "local_sound_path": "sounds/robber.mp3"
+}

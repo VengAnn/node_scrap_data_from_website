@@ -1,0 +1,34 @@
+{
+  "word": "prison",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67079.png",
+      "local_image_path": "images/67079.png"
+    }
+  ],
+  "synonyms": [
+    "incarceration",
+    "imprisonment",
+    "confinement",
+    "detention",
+    "custody"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "prison bars",
+    "prison camp",
+    "prison crop",
+    "prison house",
+    "prison of war",
+    "prison-breaking",
+    "prisoner",
+    "prisoner release",
+    "prisonment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prison.mp3",
+  "local_sound_path": "sounds/prison.mp3"
+}

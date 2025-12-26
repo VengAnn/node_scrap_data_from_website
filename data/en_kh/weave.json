@@ -1,0 +1,49 @@
+{
+  "word": "weave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99570.png",
+      "local_image_path": "images/99570.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weave cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99568.png",
+      "local_image_path": "images/99568.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weave a plot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99569.png",
+      "local_image_path": "images/99569.png"
+    }
+  ],
+  "synonyms": [
+    "pile",
+    "texture",
+    "nap",
+    "invent",
+    "create",
+    "compose",
+    "construct",
+    "fabricate",
+    "contrive",
+    "concoct",
+    "spin",
+    "tell",
+    "make up"
+  ],
+  "antonyms": [
+    "unpick"
+  ],
+  "similar_words": [
+    "weaver",
+    "weaver-bird"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weave.mp3",
+  "local_sound_path": "sounds/weave.mp3"
+}

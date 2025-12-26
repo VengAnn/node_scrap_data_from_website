@@ -1,0 +1,35 @@
+{
+  "word": "clipping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15063.png",
+      "local_image_path": "images/15063.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116490.png",
+      "local_image_path": "images/116490.png"
+    }
+  ],
+  "synonyms": [
+    "cutting",
+    "extract",
+    "excerpt",
+    "article",
+    "feature",
+    "piece",
+    "fastening",
+    "fixing"
+  ],
+  "antonyms": [
+    "undoing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clipping.mp3",
+  "local_sound_path": "sounds/clipping.mp3"
+}

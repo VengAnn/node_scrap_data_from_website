@@ -1,0 +1,44 @@
+{
+  "word": "chisel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wood chisel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14259.png",
+      "local_image_path": "images/14259.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14260.png",
+      "local_image_path": "images/14260.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116274.png",
+      "local_image_path": "images/116274.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116275.png",
+      "local_image_path": "images/116275.png"
+    }
+  ],
+  "synonyms": [
+    "carve",
+    "shape",
+    "mold",
+    "form",
+    "fashion",
+    "notch",
+    "score"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chisel.mp3",
+  "local_sound_path": "sounds/chisel.mp3"
+}

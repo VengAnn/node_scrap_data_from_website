@@ -1,0 +1,91 @@
+{
+  "word": "clean",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "clean clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14890.png",
+      "local_image_path": "images/14890.png"
+    },
+    {
+      "pos": "adj",
+      "example": "clean water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14891.png",
+      "local_image_path": "images/14891.png"
+    },
+    {
+      "pos": "adj",
+      "example": "clean record",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14892.png",
+      "local_image_path": "images/14892.png"
+    },
+    {
+      "pos": "adv",
+      "example": "clean broke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14895.png",
+      "local_image_path": "images/14895.png"
+    },
+    {
+      "pos": "iv",
+      "example": "you should clean for a living",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14894.png",
+      "local_image_path": "images/14894.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clean your teeth every morning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14893.png",
+      "local_image_path": "images/14893.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130989.png",
+      "local_image_path": "images/130989.png"
+    }
+  ],
+  "synonyms": [
+    "pure",
+    "wholesome",
+    "spotless",
+    "innocent",
+    "virtuous",
+    "good",
+    "wash",
+    "scrub",
+    "scour",
+    "wipe",
+    "cleanse",
+    "dust",
+    "vacuum",
+    "launder",
+    "mop",
+    "polish"
+  ],
+  "antonyms": [
+    "dirty",
+    "untidy",
+    "impure",
+    "slovenly",
+    "soil"
+  ],
+  "similar_words": [
+    "clean handed",
+    "clean room",
+    "clean-cut",
+    "clean-limbed",
+    "clean-shaven",
+    "cleaner",
+    "cleanliness",
+    "cleanly",
+    "cleanness",
+    "cleansable",
+    "cleanse",
+    "cleanser",
+    "cleanup"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clean.mp3",
+  "local_sound_path": "sounds/clean.mp3"
+}

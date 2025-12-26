@@ -1,0 +1,43 @@
+{
+  "word": "heavily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "walk heavily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34357.png",
+      "local_image_path": "images/34357.png"
+    },
+    {
+      "pos": "adv",
+      "example": "rain heavily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34358.png",
+      "local_image_path": "images/34358.png"
+    }
+  ],
+  "synonyms": [
+    "forcefully",
+    "roughly",
+    "violently",
+    "brutally",
+    "powerfully",
+    "strongly",
+    "solidly",
+    "thickly",
+    "immensely",
+    "broadly",
+    "sturdily",
+    "heftily"
+  ],
+  "antonyms": [
+    "lightly",
+    "slightly",
+    "gently",
+    "swiftly",
+    "cheerfully"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heavily.mp3",
+  "local_sound_path": "sounds/heavily.mp3"
+}

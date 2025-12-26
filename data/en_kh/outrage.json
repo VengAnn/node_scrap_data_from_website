@@ -1,0 +1,52 @@
+{
+  "word": "outrage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "react with outrage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58425.png",
+      "local_image_path": "images/58425.png"
+    },
+    {
+      "pos": "n",
+      "example": "The act was an outrage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58426.png",
+      "local_image_path": "images/58426.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58427.png",
+      "local_image_path": "images/58427.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125047.png",
+      "local_image_path": "images/125047.png"
+    }
+  ],
+  "synonyms": [
+    "infuriate",
+    "offend",
+    "insult",
+    "anger",
+    "enrage",
+    "affront",
+    "wrong",
+    "incense"
+  ],
+  "antonyms": [
+    "placate"
+  ],
+  "similar_words": [
+    "outraged",
+    "outrageous",
+    "outrageously",
+    "outrageousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outrage.mp3",
+  "local_sound_path": "sounds/outrage.mp3"
+}

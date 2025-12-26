@@ -1,0 +1,38 @@
+{
+  "word": "bedding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7982.png",
+      "local_image_path": "images/7982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114801.png",
+      "local_image_path": "images/114801.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114802.png",
+      "local_image_path": "images/114802.png"
+    }
+  ],
+  "synonyms": [
+    "bedclothes",
+    "sheet",
+    "blanket",
+    "comforter",
+    "quilt",
+    "eiderdown",
+    "duvet"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bedding.mp3",
+  "local_sound_path": "sounds/bedding.mp3"
+}

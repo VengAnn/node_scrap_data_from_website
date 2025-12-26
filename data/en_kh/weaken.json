@@ -1,0 +1,40 @@
+{
+  "word": "weaken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "enemies weaken",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99476.png",
+      "local_image_path": "images/99476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weaken the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99474.png",
+      "local_image_path": "images/99474.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weaken the tea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99475.png",
+      "local_image_path": "images/99475.png"
+    }
+  ],
+  "synonyms": [
+    "enfeeble",
+    "exhaust",
+    "enervate",
+    "debilitate",
+    "sap",
+    "impair"
+  ],
+  "antonyms": [
+    "strengthen",
+    "fortify"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weaken.mp3",
+  "local_sound_path": "sounds/weaken.mp3"
+}

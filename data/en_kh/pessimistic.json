@@ -1,0 +1,34 @@
+{
+  "word": "pessimistic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62182.png",
+      "local_image_path": "images/62182.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125427.png",
+      "local_image_path": "images/125427.png"
+    }
+  ],
+  "synonyms": [
+    "negative",
+    "gloomy",
+    "distrustful",
+    "cynical",
+    "glum",
+    "doubtful",
+    "suspicious"
+  ],
+  "antonyms": [
+    "optimistic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pessimistic.mp3",
+  "local_sound_path": "sounds/pessimistic.mp3"
+}

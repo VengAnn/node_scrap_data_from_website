@@ -1,0 +1,43 @@
+{
+  "word": "precipitation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66028.png",
+      "local_image_path": "images/66028.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66029.png",
+      "local_image_path": "images/66029.png"
+    },
+    {
+      "pos": "n",
+      "example": "precipitation of a quarrel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66030.png",
+      "local_image_path": "images/66030.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125833.png",
+      "local_image_path": "images/125833.png"
+    }
+  ],
+  "synonyms": [
+    "rain",
+    "rainfall",
+    "snow",
+    "sleet",
+    "hail",
+    "drizzle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/precipitation.mp3",
+  "local_sound_path": "sounds/precipitation.mp3"
+}

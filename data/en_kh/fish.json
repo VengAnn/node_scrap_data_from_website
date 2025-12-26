@@ -1,0 +1,85 @@
+{
+  "word": "fish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "cold fish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28711.png",
+      "local_image_path": "images/28711.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28715.png",
+      "local_image_path": "images/28715.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He likes to fish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28716.png",
+      "local_image_path": "images/28716.png"
+    },
+    {
+      "pos": "iv",
+      "example": "fish for compliments",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28717.png",
+      "local_image_path": "images/28717.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28710.png",
+      "local_image_path": "images/28710.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fish a stream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28712.png",
+      "local_image_path": "images/28712.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28713.png",
+      "local_image_path": "images/28713.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28714.png",
+      "local_image_path": "images/28714.png"
+    }
+  ],
+  "synonyms": [
+    "search",
+    "seek",
+    "trawl",
+    "probe",
+    "scout"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fish and chips",
+    "fish-meal",
+    "fisher",
+    "fisher-boat",
+    "fisherman",
+    "fishery",
+    "fishful",
+    "fishhook",
+    "fishing",
+    "fishing-net",
+    "fishing-rod",
+    "fishingboat",
+    "fishingline",
+    "fishmonger",
+    "fishplate",
+    "fishwife",
+    "fishworm",
+    "fishy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fish.mp3",
+  "local_sound_path": "sounds/fish.mp3"
+}

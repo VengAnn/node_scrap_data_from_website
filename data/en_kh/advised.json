@@ -1,0 +1,30 @@
+{
+  "word": "advised",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2601.png",
+      "local_image_path": "images/2601.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112008.png",
+      "local_image_path": "images/112008.png"
+    }
+  ],
+  "synonyms": [
+    "informed",
+    "told"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "advisedly",
+    "advisedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advised.mp3",
+  "local_sound_path": "sounds/advised.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "orange",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "orange car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57893.png",
+      "local_image_path": "images/57893.png"
+    },
+    {
+      "pos": "n",
+      "example": "I am eating orange",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57891.png",
+      "local_image_path": "images/57891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57892.png",
+      "local_image_path": "images/57892.png"
+    }
+  ],
+  "synonyms": [
+    "carroty",
+    "red",
+    "ginger",
+    "auburn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "orange juice",
+    "orange squast",
+    "orange-colour",
+    "orangeade",
+    "orangery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/orange.mp3",
+  "local_sound_path": "sounds/orange.mp3"
+}

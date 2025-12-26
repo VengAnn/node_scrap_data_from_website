@@ -1,0 +1,43 @@
+{
+  "word": "reserved",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "reserved seat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72652.png",
+      "local_image_path": "images/72652.png"
+    },
+    {
+      "pos": "adj",
+      "example": "reserved person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72653.png",
+      "local_image_path": "images/72653.png"
+    }
+  ],
+  "synonyms": [
+    "aloof",
+    "reticent",
+    "snobbish",
+    "distant",
+    "unfriendly",
+    "cold",
+    "detached",
+    "cool",
+    "shy",
+    "diffident",
+    "modest"
+  ],
+  "antonyms": [
+    "outgoing",
+    "used",
+    "free"
+  ],
+  "similar_words": [
+    "reservedly",
+    "reservedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reserved.mp3",
+  "local_sound_path": "sounds/reserved.mp3"
+}

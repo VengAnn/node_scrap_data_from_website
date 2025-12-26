@@ -1,0 +1,43 @@
+{
+  "word": "hub",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hub of a wheel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36206.png",
+      "local_image_path": "images/36206.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36207.png",
+      "local_image_path": "images/36207.png"
+    },
+    {
+      "pos": "n",
+      "example": "hub of activity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36208.png",
+      "local_image_path": "images/36208.png"
+    }
+  ],
+  "synonyms": [
+    "center",
+    "core",
+    "heart",
+    "nucleus",
+    "focus"
+  ],
+  "antonyms": [
+    "spoke",
+    "periphery"
+  ],
+  "similar_words": [
+    "hubbub",
+    "hubby",
+    "hubristic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hub.mp3",
+  "local_sound_path": "sounds/hub.mp3"
+}

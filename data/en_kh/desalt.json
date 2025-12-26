@@ -1,0 +1,30 @@
+{
+  "word": "desalt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20786.png",
+      "local_image_path": "images/20786.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118098.png",
+      "local_image_path": "images/118098.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118099.png",
+      "local_image_path": "images/118099.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desalt.mp3",
+  "local_sound_path": "sounds/desalt.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "beetle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8051.png",
+      "local_image_path": "images/8051.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8050.png",
+      "local_image_path": "images/8050.png"
+    }
+  ],
+  "synonyms": [
+    "insect",
+    "hurry",
+    "scurry",
+    "scuttle",
+    "scoot",
+    "scud",
+    "dart"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beetle.mp3",
+  "local_sound_path": "sounds/beetle.mp3"
+}

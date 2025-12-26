@@ -1,0 +1,40 @@
+{
+  "word": "contemplate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17201.png",
+      "local_image_path": "images/17201.png"
+    },
+    {
+      "pos": "tv",
+      "example": "she stood contemplating the painting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17198.png",
+      "local_image_path": "images/17198.png"
+    },
+    {
+      "pos": "tv",
+      "example": "contemplate suicide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17199.png",
+      "local_image_path": "images/17199.png"
+    },
+    {
+      "pos": "tv",
+      "example": "she is contemplating a visit to London",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17200.png",
+      "local_image_path": "images/17200.png"
+    }
+  ],
+  "synonyms": [
+    "imagine",
+    "envisage",
+    "picture"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contemplate.mp3",
+  "local_sound_path": "sounds/contemplate.mp3"
+}

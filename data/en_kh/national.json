@@ -1,0 +1,58 @@
+{
+  "word": "national",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "national flag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55022.png",
+      "local_image_path": "images/55022.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a French national working in Italy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55023.png",
+      "local_image_path": "images/55023.png"
+    }
+  ],
+  "synonyms": [
+    "resident",
+    "citizen",
+    "inhabitant",
+    "subject",
+    "native"
+  ],
+  "antonyms": [
+    "local",
+    "private",
+    "visitor"
+  ],
+  "similar_words": [
+    "national bank",
+    "national congress",
+    "national debt",
+    "national health service",
+    "national income",
+    "national insurance",
+    "national monopoly",
+    "national park",
+    "national product",
+    "national route",
+    "national savings",
+    "national sevice",
+    "National Socialism",
+    "nationalism",
+    "nationalist",
+    "nationalistic",
+    "nationalistically",
+    "nationality",
+    "nationality of ships",
+    "nationalization",
+    "nationalize",
+    "nationalizer",
+    "nationally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/national.mp3",
+  "local_sound_path": "sounds/national.mp3"
+}

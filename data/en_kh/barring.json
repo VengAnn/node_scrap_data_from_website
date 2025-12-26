@@ -1,0 +1,30 @@
+{
+  "word": "barring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7598.png",
+      "local_image_path": "images/7598.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7597.png",
+      "local_image_path": "images/7597.png"
+    }
+  ],
+  "synonyms": [
+    "excepting",
+    "without",
+    "fastening"
+  ],
+  "antonyms": [
+    "including"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barring.mp3",
+  "local_sound_path": "sounds/barring.mp3"
+}

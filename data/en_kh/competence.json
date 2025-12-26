@@ -1,0 +1,43 @@
+{
+  "word": "competence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16214.png",
+      "local_image_path": "images/16214.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116869.png",
+      "local_image_path": "images/116869.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116870.png",
+      "local_image_path": "images/116870.png"
+    }
+  ],
+  "synonyms": [
+    "capability",
+    "ability",
+    "skill",
+    "fitness",
+    "aptitude",
+    "proficiency",
+    "competency",
+    "know-how",
+    "experience",
+    "expertise"
+  ],
+  "antonyms": [
+    "inability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/competence.mp3",
+  "local_sound_path": "sounds/competence.mp3"
+}

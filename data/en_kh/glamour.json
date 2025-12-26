@@ -1,0 +1,39 @@
+{
+  "word": "glamour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "glamour of a woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31851.png",
+      "local_image_path": "images/31851.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120664.png",
+      "local_image_path": "images/120664.png"
+    }
+  ],
+  "synonyms": [
+    "beauty",
+    "charm",
+    "attraction",
+    "appeal",
+    "allure",
+    "fascination",
+    "thrill"
+  ],
+  "antonyms": [
+    "dullness",
+    "unattractiveness",
+    "drabness"
+  ],
+  "similar_words": [
+    "glamourise",
+    "glamourize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glamour.mp3",
+  "local_sound_path": "sounds/glamour.mp3"
+}

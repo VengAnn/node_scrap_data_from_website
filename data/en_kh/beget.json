@@ -1,0 +1,27 @@
+{
+  "word": "beget",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "war begets misery and ruin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8074.png",
+      "local_image_path": "images/8074.png"
+    }
+  ],
+  "synonyms": [
+    "cause",
+    "produce",
+    "create",
+    "bring",
+    "effect",
+    "precipitate"
+  ],
+  "antonyms": [
+    "prevent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beget.mp3",
+  "local_sound_path": "sounds/beget.mp3"
+}

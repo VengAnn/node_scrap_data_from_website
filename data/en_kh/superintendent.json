@@ -1,0 +1,39 @@
+{
+  "word": "superintendent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "building superintendent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86398.png",
+      "local_image_path": "images/86398.png"
+    },
+    {
+      "pos": "n",
+      "example": "police superintendent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86399.png",
+      "local_image_path": "images/86399.png"
+    }
+  ],
+  "synonyms": [
+    "manager",
+    "supervisor",
+    "administrator",
+    "officer",
+    "controller",
+    "overseer",
+    "inspector",
+    "examiner",
+    "director",
+    "head",
+    "chief",
+    "leader"
+  ],
+  "antonyms": [
+    "underling"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/superintendent.mp3",
+  "local_sound_path": "sounds/superintendent.mp3"
+}

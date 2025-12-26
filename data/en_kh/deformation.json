@@ -1,0 +1,30 @@
+{
+  "word": "deformation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20226.png",
+      "local_image_path": "images/20226.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117924.png",
+      "local_image_path": "images/117924.png"
+    }
+  ],
+  "synonyms": [
+    "bend",
+    "buckle",
+    "twist",
+    "warp",
+    "distortion"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deformation.mp3",
+  "local_sound_path": "sounds/deformation.mp3"
+}

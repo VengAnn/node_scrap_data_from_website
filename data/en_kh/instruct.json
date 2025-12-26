@@ -1,0 +1,53 @@
+{
+  "word": "instruct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40768.png",
+      "local_image_path": "images/40768.png"
+    },
+    {
+      "pos": "tv",
+      "example": "instruct students",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40769.png",
+      "local_image_path": "images/40769.png"
+    },
+    {
+      "pos": "tv",
+      "example": "instruct him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40770.png",
+      "local_image_path": "images/40770.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40771.png",
+      "local_image_path": "images/40771.png"
+    }
+  ],
+  "synonyms": [
+    "command",
+    "order",
+    "tell",
+    "charge",
+    "direct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "instructible",
+    "instruction",
+    "instructional",
+    "instructionary",
+    "instructive",
+    "instructively",
+    "instructiveness",
+    "instructor",
+    "instructorship",
+    "instructress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/instruct.mp3",
+  "local_sound_path": "sounds/instruct.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "disagreement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She has a disagreement with me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21570.png",
+      "local_image_path": "images/21570.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118366.png",
+      "local_image_path": "images/118366.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118367.png",
+      "local_image_path": "images/118367.png"
+    }
+  ],
+  "synonyms": [
+    "dispute",
+    "quarrel",
+    "argument",
+    "misunderstanding",
+    "discord",
+    "conflict",
+    "wrangle",
+    "dissent",
+    "clash",
+    "falling-out"
+  ],
+  "antonyms": [
+    "agreement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disagreement.mp3",
+  "local_sound_path": "sounds/disagreement.mp3"
+}

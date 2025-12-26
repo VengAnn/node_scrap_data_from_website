@@ -1,0 +1,33 @@
+{
+  "word": "encircle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Enemy troops encircling the town.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24790.png",
+      "local_image_path": "images/24790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "encircle a word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24791.png",
+      "local_image_path": "images/24791.png"
+    }
+  ],
+  "synonyms": [
+    "surround",
+    "enclose",
+    "ring",
+    "circle",
+    "enfold",
+    "girdle",
+    "circumscribe",
+    "encompass"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encircle.mp3",
+  "local_sound_path": "sounds/encircle.mp3"
+}

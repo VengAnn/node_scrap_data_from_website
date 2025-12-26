@@ -1,0 +1,39 @@
+{
+  "word": "bicker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8696.png",
+      "local_image_path": "images/8696.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115025.png",
+      "local_image_path": "images/115025.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8697.png",
+      "local_image_path": "images/8697.png"
+    }
+  ],
+  "synonyms": [
+    "argue",
+    "dispute",
+    "quarrel",
+    "debate",
+    "squabble",
+    "wrangle"
+  ],
+  "antonyms": [
+    "agree"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bicker.mp3",
+  "local_sound_path": "sounds/bicker.mp3"
+}

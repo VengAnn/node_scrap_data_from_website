@@ -1,0 +1,27 @@
+{
+  "word": "beverage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8534.png",
+      "local_image_path": "images/8534.png"
+    }
+  ],
+  "synonyms": [
+    "drink",
+    "brew",
+    "potion",
+    "infusion",
+    "draft",
+    "cocktail",
+    "swill",
+    "draught"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beverage.mp3",
+  "local_sound_path": "sounds/beverage.mp3"
+}

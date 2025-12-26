@@ -1,0 +1,82 @@
+{
+  "word": "drop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "stones drop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23216.png",
+      "local_image_path": "images/23216.png"
+    },
+    {
+      "pos": "n",
+      "example": "rain drops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23209.png",
+      "local_image_path": "images/23209.png"
+    },
+    {
+      "pos": "n",
+      "example": "drop of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23210.png",
+      "local_image_path": "images/23210.png"
+    },
+    {
+      "pos": "n",
+      "example": "candy drop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23211.png",
+      "local_image_path": "images/23211.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drop a glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23212.png",
+      "local_image_path": "images/23212.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drop  medicine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23213.png",
+      "local_image_path": "images/23213.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drop a subject",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23214.png",
+      "local_image_path": "images/23214.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drop a deer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23215.png",
+      "local_image_path": "images/23215.png"
+    }
+  ],
+  "synonyms": [
+    "abandon",
+    "stop",
+    "shelve",
+    "discontinue",
+    "cut",
+    "ditch",
+    "dump"
+  ],
+  "antonyms": [
+    "rise",
+    "ascent",
+    "pour",
+    "increase",
+    "maintain"
+  ],
+  "similar_words": [
+    "drop out",
+    "droplet",
+    "dropper",
+    "dropsical",
+    "dropsically",
+    "dropsy",
+    "dropwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drop.mp3",
+  "local_sound_path": "sounds/drop.mp3"
+}

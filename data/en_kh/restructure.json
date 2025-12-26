@@ -1,0 +1,43 @@
+{
+  "word": "restructure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72971.png",
+      "local_image_path": "images/72971.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127013.png",
+      "local_image_path": "images/127013.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127014.png",
+      "local_image_path": "images/127014.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127015.png",
+      "local_image_path": "images/127015.png"
+    }
+  ],
+  "synonyms": [
+    "reorganize",
+    "streamline",
+    "reform",
+    "reshuffle",
+    "redistribute",
+    "rearrange"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restructure.mp3",
+  "local_sound_path": "sounds/restructure.mp3"
+}

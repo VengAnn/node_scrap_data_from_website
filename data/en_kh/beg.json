@@ -1,0 +1,51 @@
+{
+  "word": "beg",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8073.png",
+      "local_image_path": "images/8073.png"
+    },
+    {
+      "pos": "tv",
+      "example": "beg for forgiveness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8072.png",
+      "local_image_path": "images/8072.png"
+    }
+  ],
+  "synonyms": [
+    "request",
+    "plead",
+    "solicit",
+    "supplicate",
+    "beseech",
+    "entreat",
+    "implore"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "began",
+    "begel",
+    "beget",
+    "beggar",
+    "beggarliness",
+    "beggarly",
+    "beggary",
+    "begging",
+    "begift",
+    "begild",
+    "begin",
+    "beginner",
+    "beginning",
+    "begird",
+    "begirdle",
+    "begirl",
+    "begloom",
+    "begnaw"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beg.mp3",
+  "local_sound_path": "sounds/beg.mp3"
+}

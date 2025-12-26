@@ -1,0 +1,47 @@
+{
+  "word": "before",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8061.png",
+      "local_image_path": "images/8061.png"
+    },
+    {
+      "pos": "n",
+      "example": "from before",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8062.png",
+      "local_image_path": "images/8062.png"
+    },
+    {
+      "pos": "prep",
+      "example": "before the war",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8060.png",
+      "local_image_path": "images/8060.png"
+    }
+  ],
+  "synonyms": [
+    "otherwise",
+    "or",
+    "by",
+    "afore",
+    "previous to",
+    "ahead of"
+  ],
+  "antonyms": [
+    "after",
+    "afterward",
+    "later",
+    "afterwards",
+    "behind"
+  ],
+  "similar_words": [
+    "beforehand",
+    "beforesaid",
+    "beforetime"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/before.mp3",
+  "local_sound_path": "sounds/before.mp3"
+}

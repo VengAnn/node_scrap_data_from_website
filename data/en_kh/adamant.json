@@ -1,0 +1,50 @@
+{
+  "word": "adamant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2288.png",
+      "local_image_path": "images/2288.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2289.png",
+      "local_image_path": "images/2289.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113228.png",
+      "local_image_path": "images/113228.png"
+    }
+  ],
+  "synonyms": [
+    "obstinate",
+    "obdurate",
+    "unyielding",
+    "unbending",
+    "inflexible",
+    "unwavering",
+    "immovable",
+    "resolute",
+    "steadfast",
+    "stubborn",
+    "fixed",
+    "resistant"
+  ],
+  "antonyms": [
+    "compliant",
+    "amenable"
+  ],
+  "similar_words": [
+    "adamantine",
+    "adamanting",
+    "adamantly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adamant.mp3",
+  "local_sound_path": "sounds/adamant.mp3"
+}

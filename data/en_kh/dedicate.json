@@ -1,0 +1,47 @@
+{
+  "word": "dedicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20069.png",
+      "local_image_path": "images/20069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20070.png",
+      "local_image_path": "images/20070.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20071.png",
+      "local_image_path": "images/20071.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dedicate a monument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20072.png",
+      "local_image_path": "images/20072.png"
+    }
+  ],
+  "synonyms": [
+    "devote",
+    "commit",
+    "consecrate",
+    "give",
+    "surrender",
+    "reserve",
+    "earmark"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dedicatedly",
+    "dedicatee"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dedicate.mp3",
+  "local_sound_path": "sounds/dedicate.mp3"
+}

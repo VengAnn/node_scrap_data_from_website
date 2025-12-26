@@ -1,0 +1,64 @@
+{
+  "word": "stalk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84136.png",
+      "local_image_path": "images/84136.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84137.png",
+      "local_image_path": "images/84137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84135.png",
+      "local_image_path": "images/84135.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84139.png",
+      "local_image_path": "images/84139.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84138.png",
+      "local_image_path": "images/84138.png"
+    }
+  ],
+  "synonyms": [
+    "stem",
+    "shoot",
+    "trunk",
+    "twig",
+    "branch",
+    "follow",
+    "trail",
+    "track",
+    "pursue",
+    "shadow",
+    "hunt",
+    "haunt",
+    "tail",
+    "hound",
+    "lurk",
+    "prowl",
+    "menace"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stalker",
+    "stalking-horse",
+    "stalkless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stalk.mp3",
+  "local_sound_path": "sounds/stalk.mp3"
+}

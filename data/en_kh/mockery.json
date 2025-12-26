@@ -1,0 +1,42 @@
+{
+  "word": "mockery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He replied with a note of mockery in his voice.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109780.png",
+      "local_image_path": "images/109780.png"
+    },
+    {
+      "pos": "n",
+      "example": "The performance was an utter mockery.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109781.png",
+      "local_image_path": "images/109781.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a mockery of sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109782.png",
+      "local_image_path": "images/109782.png"
+    }
+  ],
+  "synonyms": [
+    "travesty",
+    "charade",
+    "farce",
+    "sham",
+    "caricature",
+    "parody",
+    "lampoon",
+    "burlesque"
+  ],
+  "antonyms": [
+    "respect",
+    "exemplar"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mockery.mp3",
+  "local_sound_path": "sounds/mockery.mp3"
+}

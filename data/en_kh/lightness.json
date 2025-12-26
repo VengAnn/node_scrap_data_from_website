@@ -1,0 +1,36 @@
+{
+  "word": "lightness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46491.png",
+      "local_image_path": "images/46491.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46492.png",
+      "local_image_path": "images/46492.png"
+    }
+  ],
+  "synonyms": [
+    "nimbleness",
+    "precision",
+    "grace",
+    "subtlety",
+    "agility",
+    "weightlessness",
+    "buoyancy",
+    "fluffiness",
+    "flimsiness"
+  ],
+  "antonyms": [
+    "heaviness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lightness.mp3",
+  "local_sound_path": "sounds/lightness.mp3"
+}

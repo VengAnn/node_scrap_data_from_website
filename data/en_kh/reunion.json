@@ -1,0 +1,37 @@
+{
+  "word": "reunion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73233.png",
+      "local_image_path": "images/73233.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73231.png",
+      "local_image_path": "images/73231.png"
+    },
+    {
+      "pos": "n",
+      "example": "reunion of two friends",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73232.png",
+      "local_image_path": "images/73232.png"
+    }
+  ],
+  "synonyms": [
+    "meeting",
+    "get-together",
+    "gathering",
+    "reunification",
+    "reintegration",
+    "recombination"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reunion.mp3",
+  "local_sound_path": "sounds/reunion.mp3"
+}

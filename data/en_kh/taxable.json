@@ -1,0 +1,28 @@
+{
+  "word": "taxable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "taxable items",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87726.png",
+      "local_image_path": "images/87726.png"
+    }
+  ],
+  "synonyms": [
+    "chargeable",
+    "assessable",
+    "rateable",
+    "payable",
+    "dutiable",
+    "ratable"
+  ],
+  "antonyms": [
+    "exempt",
+    "tax-exempt"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/taxable.mp3",
+  "local_sound_path": "sounds/taxable.mp3"
+}

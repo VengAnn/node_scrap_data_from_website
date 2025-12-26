@@ -1,0 +1,72 @@
+{
+  "word": "genial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "genial host",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31415.png",
+      "local_image_path": "images/31415.png"
+    },
+    {
+      "pos": "adj",
+      "example": "genial climate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31416.png",
+      "local_image_path": "images/31416.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31417.png",
+      "local_image_path": "images/31417.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120614.png",
+      "local_image_path": "images/120614.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120615.png",
+      "local_image_path": "images/120615.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120616.png",
+      "local_image_path": "images/120616.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120617.png",
+      "local_image_path": "images/120617.png"
+    }
+  ],
+  "synonyms": [
+    "friendly",
+    "amiable",
+    "warm",
+    "welcoming",
+    "hospitable",
+    "gracious",
+    "pleasant",
+    "kindly",
+    "cordial",
+    "convivial",
+    "sociable"
+  ],
+  "antonyms": [
+    "unfriendly"
+  ],
+  "similar_words": [
+    "geniality",
+    "genialize",
+    "genially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/genial.mp3",
+  "local_sound_path": "sounds/genial.mp3"
+}

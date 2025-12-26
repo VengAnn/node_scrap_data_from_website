@@ -1,0 +1,56 @@
+{
+  "word": "surge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "surge of the waves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86573.png",
+      "local_image_path": "images/86573.png"
+    },
+    {
+      "pos": "n",
+      "example": "surge of activity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86574.png",
+      "local_image_path": "images/86574.png"
+    },
+    {
+      "pos": "v",
+      "example": "The crowds surged out of the sports stadium.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86571.png",
+      "local_image_path": "images/86571.png"
+    },
+    {
+      "pos": "v",
+      "example": "waves surge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86572.png",
+      "local_image_path": "images/86572.png"
+    }
+  ],
+  "synonyms": [
+    "flow",
+    "outpouring",
+    "gush",
+    "rush",
+    "heave",
+    "pitch",
+    "swell",
+    "flood",
+    "stream",
+    "spill",
+    "pour",
+    "course",
+    "rise",
+    "spill over"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "surgeless",
+    "surgent",
+    "surgeon",
+    "surgery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/surge.mp3",
+  "local_sound_path": "sounds/surge.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "sweeping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sweeping victory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86803.png",
+      "local_image_path": "images/86803.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sweeping statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86804.png",
+      "local_image_path": "images/86804.png"
+    }
+  ],
+  "synonyms": [
+    "indiscriminate",
+    "generalized",
+    "broad",
+    "blanket",
+    "moving",
+    "taking",
+    "seizing"
+  ],
+  "antonyms": [
+    "restricted",
+    "specific"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sweeping.mp3",
+  "local_sound_path": "sounds/sweeping.mp3"
+}

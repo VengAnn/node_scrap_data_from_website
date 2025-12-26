@@ -1,0 +1,41 @@
+{
+  "word": "glimmer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31960.png",
+      "local_image_path": "images/31960.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31959.png",
+      "local_image_path": "images/31959.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120681.png",
+      "local_image_path": "images/120681.png"
+    }
+  ],
+  "synonyms": [
+    "twinkle",
+    "shine",
+    "gleam",
+    "flicker",
+    "reflect",
+    "sparkle",
+    "spark",
+    "glisten",
+    "shimmer",
+    "glow"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glimmer.mp3",
+  "local_sound_path": "sounds/glimmer.mp3"
+}

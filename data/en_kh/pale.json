@@ -1,0 +1,100 @@
+{
+  "word": "pale",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pale complexion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59394.png",
+      "local_image_path": "images/59394.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pale yellow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59395.png",
+      "local_image_path": "images/59395.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pale imitation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59396.png",
+      "local_image_path": "images/59396.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59397.png",
+      "local_image_path": "images/59397.png"
+    },
+    {
+      "pos": "n",
+      "example": "fence pale",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59401.png",
+      "local_image_path": "images/59401.png"
+    },
+    {
+      "pos": "n",
+      "example": "beyond the pale of the church",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59402.png",
+      "local_image_path": "images/59402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59398.png",
+      "local_image_path": "images/59398.png"
+    }
+  ],
+  "synonyms": [
+    "fade",
+    "soften",
+    "lighten"
+  ],
+  "antonyms": [
+    "dark",
+    "bright",
+    "deep",
+    "vivid",
+    "strong",
+    "rich",
+    "rosy",
+    "redden",
+    "blush",
+    "strengthen",
+    "intensify",
+    "color"
+  ],
+  "similar_words": [
+    "pale dead",
+    "pale eyed",
+    "pale-coloured",
+    "pale-dry",
+    "pale-ethnology",
+    "paleethnologic",
+    "paleethnological",
+    "paleethnology",
+    "paleface",
+    "palefaced",
+    "palehearted",
+    "palely",
+    "paleness",
+    "paleoanthropic",
+    "paleoanthropologic",
+    "paleoanthropological",
+    "paleoanthropologist",
+    "paleoanthropology",
+    "paleobiochemical",
+    "paleobiochemistry",
+    "paleobotanic",
+    "paleobotanical",
+    "paleobotanically",
+    "paleobotanist",
+    "paleobotany",
+    "paleoecologic",
+    "paleoecological",
+    "paleoecologist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pale.mp3",
+  "local_sound_path": "sounds/pale.mp3"
+}

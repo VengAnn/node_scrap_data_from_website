@@ -1,0 +1,36 @@
+{
+  "word": "dormant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dormant bud",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22766.png",
+      "local_image_path": "images/22766.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118743.png",
+      "local_image_path": "images/118743.png"
+    }
+  ],
+  "synonyms": [
+    "latent",
+    "inactive",
+    "sleeping",
+    "resting",
+    "undeveloped",
+    "hidden",
+    "quiescent",
+    "asleep",
+    "quiet"
+  ],
+  "antonyms": [
+    "active"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dormant.mp3",
+  "local_sound_path": "sounds/dormant.mp3"
+}

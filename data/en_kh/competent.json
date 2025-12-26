@@ -1,0 +1,45 @@
+{
+  "word": "competent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he is not competent to look after young children",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16217.png",
+      "local_image_path": "images/16217.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132478.png",
+      "local_image_path": "images/132478.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132479.png",
+      "local_image_path": "images/132479.png"
+    }
+  ],
+  "synonyms": [
+    "capable",
+    "able",
+    "knowledgeable",
+    "experienced",
+    "skilled",
+    "proficient",
+    "fit",
+    "expert",
+    "adept"
+  ],
+  "antonyms": [
+    "inept"
+  ],
+  "similar_words": [
+    "competent edvidence",
+    "competently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/competent.mp3",
+  "local_sound_path": "sounds/competent.mp3"
+}

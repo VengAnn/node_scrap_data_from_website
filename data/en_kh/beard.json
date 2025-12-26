@@ -1,0 +1,38 @@
+{
+  "word": "beard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "white beard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7876.png",
+      "local_image_path": "images/7876.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bear the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7877.png",
+      "local_image_path": "images/7877.png"
+    }
+  ],
+  "synonyms": [
+    "mustache",
+    "fuzz",
+    "challenge",
+    "confront",
+    "brave",
+    "face",
+    "oppose",
+    "accost"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bearded",
+    "beardedness",
+    "beardless",
+    "beardly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beard.mp3",
+  "local_sound_path": "sounds/beard.mp3"
+}

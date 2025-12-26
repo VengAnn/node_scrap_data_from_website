@@ -1,0 +1,31 @@
+{
+  "word": "example",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "give a good example",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26341.png",
+      "local_image_path": "images/26341.png"
+    },
+    {
+      "pos": "n",
+      "example": "example of his work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26342.png",
+      "local_image_path": "images/26342.png"
+    }
+  ],
+  "synonyms": [
+    "model",
+    "pattern",
+    "exemplar",
+    "paradigm",
+    "standard",
+    "paragon"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/example.mp3",
+  "local_sound_path": "sounds/example.mp3"
+}

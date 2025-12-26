@@ -1,0 +1,26 @@
+{
+  "word": "cursed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19209.png",
+      "local_image_path": "images/19209.png"
+    }
+  ],
+  "synonyms": [
+    "afflicted",
+    "troubled"
+  ],
+  "antonyms": [
+    "blessed"
+  ],
+  "similar_words": [
+    "cursedly",
+    "cursedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cursed.mp3",
+  "local_sound_path": "sounds/cursed.mp3"
+}

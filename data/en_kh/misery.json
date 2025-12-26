@@ -1,0 +1,33 @@
+{
+  "word": "misery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "live in misery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109181.png",
+      "local_image_path": "images/109181.png"
+    },
+    {
+      "pos": "n",
+      "example": "physical misery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109182.png",
+      "local_image_path": "images/109182.png"
+    }
+  ],
+  "synonyms": [
+    "suffering",
+    "deprivation",
+    "privation",
+    "destitution",
+    "poverty",
+    "distress"
+  ],
+  "antonyms": [
+    "happiness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/misery.mp3",
+  "local_sound_path": "sounds/misery.mp3"
+}

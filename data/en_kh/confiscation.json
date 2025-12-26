@@ -1,0 +1,36 @@
+{
+  "word": "confiscation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16700.png",
+      "local_image_path": "images/16700.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117196.png",
+      "local_image_path": "images/117196.png"
+    }
+  ],
+  "synonyms": [
+    "elimination",
+    "exclusion",
+    "subtraction",
+    "deletion",
+    "amputation",
+    "deduction",
+    "abstraction",
+    "ejection"
+  ],
+  "antonyms": [
+    "addition",
+    "restoration"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confiscation.mp3",
+  "local_sound_path": "sounds/confiscation.mp3"
+}

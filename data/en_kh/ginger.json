@@ -1,0 +1,34 @@
+{
+  "word": "ginger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31755.png",
+      "local_image_path": "images/31755.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31758.png",
+      "local_image_path": "images/31758.png"
+    }
+  ],
+  "synonyms": [
+    "auburn",
+    "red",
+    "carroty"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ginger-beer",
+    "gingerale",
+    "gingerbread",
+    "gingerliness",
+    "gingerly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ginger.mp3",
+  "local_sound_path": "sounds/ginger.mp3"
+}

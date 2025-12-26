@@ -1,0 +1,60 @@
+{
+  "word": "gust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33322.png",
+      "local_image_path": "images/33322.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33321.png",
+      "local_image_path": "images/33321.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33325.png",
+      "local_image_path": "images/33325.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120855.png",
+      "local_image_path": "images/120855.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120856.png",
+      "local_image_path": "images/120856.png"
+    }
+  ],
+  "synonyms": [
+    "burst",
+    "explosion",
+    "expulsion",
+    "eruption",
+    "flurry",
+    "outburst",
+    "rush"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [
+    "gustation",
+    "gustative",
+    "gustatory",
+    "gustily",
+    "gustiness",
+    "gusto",
+    "gustry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gust.mp3",
+  "local_sound_path": "sounds/gust.mp3"
+}

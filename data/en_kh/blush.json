@@ -1,0 +1,35 @@
+{
+  "word": "blush",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "she blushed every time I spoke to her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9851.png",
+      "local_image_path": "images/9851.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131040.png",
+      "local_image_path": "images/131040.png"
+    }
+  ],
+  "synonyms": [
+    "flush",
+    "color",
+    "redden"
+  ],
+  "antonyms": [
+    "blench",
+    "blanch"
+  ],
+  "similar_words": [
+    "blusher",
+    "blushful",
+    "blushingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blush.mp3",
+  "local_sound_path": "sounds/blush.mp3"
+}

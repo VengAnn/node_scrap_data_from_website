@@ -1,0 +1,37 @@
+{
+  "word": "capricious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12844.png",
+      "local_image_path": "images/12844.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115968.png",
+      "local_image_path": "images/115968.png"
+    }
+  ],
+  "synonyms": [
+    "impulsive",
+    "unpredictable",
+    "changeable",
+    "whimsical",
+    "variable",
+    "unreliable",
+    "fickle",
+    "erratic",
+    "wayward",
+    "flighty"
+  ],
+  "antonyms": [
+    "predictable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/capricious.mp3",
+  "local_sound_path": "sounds/capricious.mp3"
+}

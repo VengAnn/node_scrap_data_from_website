@@ -1,0 +1,31 @@
+{
+  "word": "comedy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15894.png",
+      "local_image_path": "images/15894.png"
+    }
+  ],
+  "synonyms": [
+    "humor",
+    "joke",
+    "wit",
+    "jesting",
+    "pleasantry",
+    "slapstick",
+    "farce",
+    "joking",
+    "amusement",
+    "entertainment"
+  ],
+  "antonyms": [
+    "tragedy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comedy.mp3",
+  "local_sound_path": "sounds/comedy.mp3"
+}

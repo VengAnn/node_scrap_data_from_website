@@ -1,0 +1,38 @@
+{
+  "word": "adolescent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2490.png",
+      "local_image_path": "images/2490.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2489.png",
+      "local_image_path": "images/2489.png"
+    }
+  ],
+  "synonyms": [
+    "teenage",
+    "young",
+    "youthful",
+    "juvenile",
+    "teen",
+    "pubescent",
+    "pubertal",
+    "teenager",
+    "youth",
+    "youngster",
+    "minor"
+  ],
+  "antonyms": [
+    "adult"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adolescent.mp3",
+  "local_sound_path": "sounds/adolescent.mp3"
+}

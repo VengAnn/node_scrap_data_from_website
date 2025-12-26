@@ -1,0 +1,50 @@
+{
+  "word": "nightmare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55776.png",
+      "local_image_path": "images/55776.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132336.png",
+      "local_image_path": "images/132336.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132337.png",
+      "local_image_path": "images/132337.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132338.png",
+      "local_image_path": "images/132338.png"
+    }
+  ],
+  "synonyms": [
+    "terrifying",
+    "outlandish",
+    "lurid",
+    "terrible",
+    "dreadful",
+    "horrendous",
+    "nightmarish",
+    "dream",
+    "hallucination",
+    "vision",
+    "incubus"
+  ],
+  "antonyms": [
+    "wonderful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nightmare.mp3",
+  "local_sound_path": "sounds/nightmare.mp3"
+}

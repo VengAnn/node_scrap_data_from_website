@@ -1,0 +1,25 @@
+{
+  "word": "loudness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47720.png",
+      "local_image_path": "images/47720.png"
+    }
+  ],
+  "synonyms": [
+    "volume",
+    "noise",
+    "intensity",
+    "level"
+  ],
+  "antonyms": [
+    "quietness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/loudness.mp3",
+  "local_sound_path": "sounds/loudness.mp3"
+}

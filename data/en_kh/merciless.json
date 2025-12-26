@@ -1,0 +1,45 @@
+{
+  "word": "merciless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "merciless man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107840.png",
+      "local_image_path": "images/107840.png"
+    },
+    {
+      "pos": "adj",
+      "example": "merciless storm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107841.png",
+      "local_image_path": "images/107841.png"
+    }
+  ],
+  "synonyms": [
+    "cruel",
+    "pitiless",
+    "harsh",
+    "heartless",
+    "unpitying",
+    "ruthless",
+    "unforgiving",
+    "severe",
+    "unsympathetic",
+    "uncompromising",
+    "hard",
+    "unfeeling",
+    "callous",
+    "hard-hearted",
+    "cold-blooded"
+  ],
+  "antonyms": [
+    "kind"
+  ],
+  "similar_words": [
+    "mercilessly",
+    "mercilessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/merciless.mp3",
+  "local_sound_path": "sounds/merciless.mp3"
+}

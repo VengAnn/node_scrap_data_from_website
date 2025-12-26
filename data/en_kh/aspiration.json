@@ -1,0 +1,41 @@
+{
+  "word": "aspiration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "difficulty in aspiration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5833.png",
+      "local_image_path": "images/5833.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114105.png",
+      "local_image_path": "images/114105.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114106.png",
+      "local_image_path": "images/114106.png"
+    }
+  ],
+  "synonyms": [
+    "ambition",
+    "goal",
+    "objective",
+    "aim",
+    "target",
+    "hope",
+    "desire",
+    "want",
+    "wish",
+    "end"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aspiration.mp3",
+  "local_sound_path": "sounds/aspiration.mp3"
+}

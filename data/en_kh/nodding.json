@@ -1,0 +1,26 @@
+{
+  "word": "nodding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55951.png",
+      "local_image_path": "images/55951.png"
+    }
+  ],
+  "synonyms": [
+    "sleepy",
+    "drowsy",
+    "tired",
+    "lethargic"
+  ],
+  "antonyms": [
+    "alert",
+    "awake"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nodding.mp3",
+  "local_sound_path": "sounds/nodding.mp3"
+}

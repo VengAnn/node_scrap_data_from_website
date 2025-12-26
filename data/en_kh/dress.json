@@ -1,0 +1,77 @@
+{
+  "word": "dress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "They dress well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23110.png",
+      "local_image_path": "images/23110.png"
+    },
+    {
+      "pos": "iv",
+      "example": "dress up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23111.png",
+      "local_image_path": "images/23111.png"
+    },
+    {
+      "pos": "n",
+      "example": "formal dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23112.png",
+      "local_image_path": "images/23112.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dress a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23105.png",
+      "local_image_path": "images/23105.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23106.png",
+      "local_image_path": "images/23106.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dress a window",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23107.png",
+      "local_image_path": "images/23107.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dress a wound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23108.png",
+      "local_image_path": "images/23108.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23109.png",
+      "local_image_path": "images/23109.png"
+    }
+  ],
+  "synonyms": [
+    "adorn",
+    "decorate",
+    "bedeck",
+    "ornament",
+    "trim"
+  ],
+  "antonyms": [
+    "undress"
+  ],
+  "similar_words": [
+    "dress-maker",
+    "dressage",
+    "dresser",
+    "dressing",
+    "dressing table",
+    "dressing-gown",
+    "dressing-room",
+    "dressy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dress.mp3",
+  "local_sound_path": "sounds/dress.mp3"
+}

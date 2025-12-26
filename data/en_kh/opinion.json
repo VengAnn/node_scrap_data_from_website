@@ -1,0 +1,50 @@
+{
+  "word": "opinion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57787.png",
+      "local_image_path": "images/57787.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124945.png",
+      "local_image_path": "images/124945.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124946.png",
+      "local_image_path": "images/124946.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124947.png",
+      "local_image_path": "images/124947.png"
+    }
+  ],
+  "synonyms": [
+    "view",
+    "estimation",
+    "belief",
+    "judgment",
+    "attitude",
+    "outlook"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "opinion evidence",
+    "opinionated",
+    "opinionatedly",
+    "opinionatedness",
+    "opinionative",
+    "opinionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/opinion.mp3",
+  "local_sound_path": "sounds/opinion.mp3"
+}

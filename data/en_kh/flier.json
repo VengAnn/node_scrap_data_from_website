@@ -1,0 +1,42 @@
+{
+  "word": "flier",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "airplane flier",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29061.png",
+      "local_image_path": "images/29061.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29062.png",
+      "local_image_path": "images/29062.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120226.png",
+      "local_image_path": "images/120226.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120227.png",
+      "local_image_path": "images/120227.png"
+    }
+  ],
+  "synonyms": [
+    "try",
+    "endeavor",
+    "leaflet",
+    "handout",
+    "circular"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flier.mp3",
+  "local_sound_path": "sounds/flier.mp3"
+}

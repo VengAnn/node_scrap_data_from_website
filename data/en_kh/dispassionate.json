@@ -1,0 +1,37 @@
+{
+  "word": "dispassionate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22024.png",
+      "local_image_path": "images/22024.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22023.png",
+      "local_image_path": "images/22023.png"
+    }
+  ],
+  "synonyms": [
+    "impartial",
+    "fair-minded",
+    "just",
+    "fair",
+    "objective"
+  ],
+  "antonyms": [
+    "fiery",
+    "biased"
+  ],
+  "similar_words": [
+    "dispassionate view",
+    "dispassionately",
+    "dispassionateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dispassionate.mp3",
+  "local_sound_path": "sounds/dispassionate.mp3"
+}

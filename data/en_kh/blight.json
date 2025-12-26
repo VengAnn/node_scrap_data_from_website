@@ -1,0 +1,48 @@
+{
+  "word": "blight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9538.png",
+      "local_image_path": "images/9538.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9537.png",
+      "local_image_path": "images/9537.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115210.png",
+      "local_image_path": "images/115210.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9539.png",
+      "local_image_path": "images/9539.png"
+    }
+  ],
+  "synonyms": [
+    "disfigure",
+    "stain",
+    "scar",
+    "impair",
+    "damage",
+    "blast",
+    "ruin",
+    "afflict"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blighter",
+    "blighty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blight.mp3",
+  "local_sound_path": "sounds/blight.mp3"
+}

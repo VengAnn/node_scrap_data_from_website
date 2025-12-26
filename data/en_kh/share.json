@@ -1,0 +1,74 @@
+{
+  "word": "share",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Share in the benefits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78816.png",
+      "local_image_path": "images/78816.png"
+    },
+    {
+      "pos": "n",
+      "example": "take his share",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78811.png",
+      "local_image_path": "images/78811.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy a share of stock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78812.png",
+      "local_image_path": "images/78812.png"
+    },
+    {
+      "pos": "tv",
+      "example": "share one's wealth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78813.png",
+      "local_image_path": "images/78813.png"
+    },
+    {
+      "pos": "tv",
+      "example": "share the benefits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78814.png",
+      "local_image_path": "images/78814.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78815.png",
+      "local_image_path": "images/78815.png"
+    }
+  ],
+  "synonyms": [
+    "part",
+    "portion",
+    "segment",
+    "cut",
+    "stake",
+    "bit",
+    "piece",
+    "communicate",
+    "impart",
+    "reveal",
+    "disclose"
+  ],
+  "antonyms": [
+    "whole"
+  ],
+  "similar_words": [
+    "share index",
+    "share-bone",
+    "share-list",
+    "share-out",
+    "sharecrop",
+    "sharecropper",
+    "shareholder",
+    "shareholder equity",
+    "shareholding",
+    "sharepusher",
+    "sharer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/share.mp3",
+  "local_sound_path": "sounds/share.mp3"
+}

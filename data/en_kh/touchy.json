@@ -1,0 +1,31 @@
+{
+  "word": "touchy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "touchy person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90422.png",
+      "local_image_path": "images/90422.png"
+    },
+    {
+      "pos": "adj",
+      "example": "touchy situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90423.png",
+      "local_image_path": "images/90423.png"
+    }
+  ],
+  "synonyms": [
+    "delicate",
+    "sensitive",
+    "tricky",
+    "awkward",
+    "ticklish",
+    "precarious"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/touchy.mp3",
+  "local_sound_path": "sounds/touchy.mp3"
+}

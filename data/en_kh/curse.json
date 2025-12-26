@@ -1,0 +1,73 @@
+{
+  "word": "curse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19203.png",
+      "local_image_path": "images/19203.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19204.png",
+      "local_image_path": "images/19204.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19205.png",
+      "local_image_path": "images/19205.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19206.png",
+      "local_image_path": "images/19206.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19207.png",
+      "local_image_path": "images/19207.png"
+    },
+    {
+      "pos": "tv",
+      "example": "curse one's father",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19202.png",
+      "local_image_path": "images/19202.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19208.png",
+      "local_image_path": "images/19208.png"
+    }
+  ],
+  "synonyms": [
+    "nuisance",
+    "pest",
+    "blight",
+    "bother",
+    "irritation",
+    "annoyance",
+    "plague",
+    "afflict",
+    "trouble",
+    "torment",
+    "scourge",
+    "burden"
+  ],
+  "antonyms": [
+    "blessing"
+  ],
+  "similar_words": [
+    "cursed",
+    "cursedly",
+    "cursedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curse.mp3",
+  "local_sound_path": "sounds/curse.mp3"
+}

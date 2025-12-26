@@ -1,0 +1,32 @@
+{
+  "word": "tired",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tired child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89720.png",
+      "local_image_path": "images/89720.png"
+    }
+  ],
+  "synonyms": [
+    "trite",
+    "hackneyed",
+    "old",
+    "worn-out",
+    "jaded",
+    "corny",
+    "stale",
+    "exhausted",
+    "fatigued",
+    "wearied"
+  ],
+  "antonyms": [
+    "energetic",
+    "fresh"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tired.mp3",
+  "local_sound_path": "sounds/tired.mp3"
+}

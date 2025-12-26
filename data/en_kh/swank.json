@@ -1,0 +1,36 @@
+{
+  "word": "swank",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86731.png",
+      "local_image_path": "images/86731.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86732.png",
+      "local_image_path": "images/86732.png"
+    },
+    {
+      "pos": "n",
+      "example": "Don't be such a swank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86733.png",
+      "local_image_path": "images/86733.png"
+    }
+  ],
+  "synonyms": [
+    "boast",
+    "brag",
+    "swagger",
+    "strut",
+    "parade"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swank.mp3",
+  "local_sound_path": "sounds/swank.mp3"
+}

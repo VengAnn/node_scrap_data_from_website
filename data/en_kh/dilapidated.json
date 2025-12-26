@@ -1,0 +1,40 @@
+{
+  "word": "dilapidated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21364.png",
+      "local_image_path": "images/21364.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118310.png",
+      "local_image_path": "images/118310.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118311.png",
+      "local_image_path": "images/118311.png"
+    }
+  ],
+  "synonyms": [
+    "decrepit",
+    "ramshackle",
+    "run-down",
+    "derelict",
+    "tumbledown",
+    "broken-down",
+    "shabby"
+  ],
+  "antonyms": [
+    "pristine"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dilapidated.mp3",
+  "local_sound_path": "sounds/dilapidated.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "sheer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sheer cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79007.png",
+      "local_image_path": "images/79007.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sheer rock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79008.png",
+      "local_image_path": "images/79008.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sheer drop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79009.png",
+      "local_image_path": "images/79009.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79010.png",
+      "local_image_path": "images/79010.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sheer away",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79011.png",
+      "local_image_path": "images/79011.png"
+    }
+  ],
+  "synonyms": [
+    "vertically",
+    "plumb",
+    "precipitously",
+    "steeply"
+  ],
+  "antonyms": [
+    "gentle",
+    "thick"
+  ],
+  "similar_words": [
+    "sheers"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sheer.mp3",
+  "local_sound_path": "sounds/sheer.mp3"
+}

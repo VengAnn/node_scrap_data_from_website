@@ -1,0 +1,30 @@
+{
+  "word": "healthy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34247.png",
+      "local_image_path": "images/34247.png"
+    }
+  ],
+  "synonyms": [
+    "healthful",
+    "beneficial",
+    "nourishing",
+    "wholesome",
+    "salubrious",
+    "nutritious",
+    "advantageous"
+  ],
+  "antonyms": [
+    "unwell",
+    "unhealthy",
+    "sick"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/healthy.mp3",
+  "local_sound_path": "sounds/healthy.mp3"
+}

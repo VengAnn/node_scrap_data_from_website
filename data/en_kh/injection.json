@@ -1,0 +1,44 @@
+{
+  "word": "injection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40089.png",
+      "local_image_path": "images/40089.png"
+    },
+    {
+      "pos": "n",
+      "example": "give him an injection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40090.png",
+      "local_image_path": "images/40090.png"
+    },
+    {
+      "pos": "n",
+      "example": "the injection of a remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40091.png",
+      "local_image_path": "images/40091.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122433.png",
+      "local_image_path": "images/122433.png"
+    }
+  ],
+  "synonyms": [
+    "addition",
+    "insertion",
+    "introduction",
+    "infusion",
+    "instillation"
+  ],
+  "antonyms": [
+    "removal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/injection.mp3",
+  "local_sound_path": "sounds/injection.mp3"
+}

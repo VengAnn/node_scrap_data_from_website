@@ -1,0 +1,27 @@
+{
+  "word": "chest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "human chest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14112.png",
+      "local_image_path": "images/14112.png"
+    }
+  ],
+  "synonyms": [
+    "box",
+    "trunk",
+    "container",
+    "coffer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chesterfield",
+    "chestnut",
+    "chesty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chest.mp3",
+  "local_sound_path": "sounds/chest.mp3"
+}

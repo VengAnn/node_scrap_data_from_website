@@ -1,0 +1,69 @@
+{
+  "word": "shine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "take a shine to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79152.png",
+      "local_image_path": "images/79152.png"
+    },
+    {
+      "pos": "iv",
+      "example": "lights shine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79146.png",
+      "local_image_path": "images/79146.png"
+    },
+    {
+      "pos": "iv",
+      "example": "eyes shine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79147.png",
+      "local_image_path": "images/79147.png"
+    },
+    {
+      "pos": "iv",
+      "example": "shoes shine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79148.png",
+      "local_image_path": "images/79148.png"
+    },
+    {
+      "pos": "n",
+      "example": "bright shine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79151.png",
+      "local_image_path": "images/79151.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shine a light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79149.png",
+      "local_image_path": "images/79149.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shine a shoes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79150.png",
+      "local_image_path": "images/79150.png"
+    }
+  ],
+  "synonyms": [
+    "glow",
+    "gleam",
+    "glimmer",
+    "sparkle",
+    "glitter",
+    "shimmer",
+    "glisten",
+    "twinkle",
+    "flicker",
+    "flash"
+  ],
+  "antonyms": [
+    "bomb"
+  ],
+  "similar_words": [
+    "shiner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shine.mp3",
+  "local_sound_path": "sounds/shine.mp3"
+}

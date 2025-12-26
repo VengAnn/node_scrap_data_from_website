@@ -1,0 +1,33 @@
+{
+  "word": "boxer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10453.png",
+      "local_image_path": "images/10453.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10454.png",
+      "local_image_path": "images/10454.png"
+    }
+  ],
+  "synonyms": [
+    "combatant",
+    "fighter",
+    "wrestler",
+    "pugilist",
+    "warrior",
+    "rebel",
+    "pug",
+    "prizefighter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boxer.mp3",
+  "local_sound_path": "sounds/boxer.mp3"
+}

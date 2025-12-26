@@ -1,0 +1,66 @@
+{
+  "word": "plate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63928.png",
+      "local_image_path": "images/63928.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63929.png",
+      "local_image_path": "images/63929.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63930.png",
+      "local_image_path": "images/63930.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63931.png",
+      "local_image_path": "images/63931.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plate an armored car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63932.png",
+      "local_image_path": "images/63932.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "coat",
+    "protect",
+    "shield",
+    "laminate",
+    "overlay",
+    "sheet",
+    "finish",
+    "electroplate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "plate-glass",
+    "plate-powder",
+    "plateau",
+    "plated",
+    "plateful",
+    "platelayer",
+    "platelaying",
+    "platelet",
+    "platelike",
+    "platemark",
+    "platen",
+    "plater",
+    "plateresque"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plate.mp3",
+  "local_sound_path": "sounds/plate.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "word": "dominant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dominant power",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22679.png",
+      "local_image_path": "images/22679.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dominant characteristic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22680.png",
+      "local_image_path": "images/22680.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dominant person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22681.png",
+      "local_image_path": "images/22681.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22682.png",
+      "local_image_path": "images/22682.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130264.png",
+      "local_image_path": "images/130264.png"
+    }
+  ],
+  "synonyms": [
+    "domineering",
+    "bossy",
+    "overbearing",
+    "heavy-handed",
+    "authoritarian",
+    "assertive",
+    "forceful",
+    "high-handed",
+    "officious"
+  ],
+  "antonyms": [
+    "minor",
+    "weak"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dominant.mp3",
+  "local_sound_path": "sounds/dominant.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "perfume",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61701.png",
+      "local_image_path": "images/61701.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61699.png",
+      "local_image_path": "images/61699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61700.png",
+      "local_image_path": "images/61700.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125357.png",
+      "local_image_path": "images/125357.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125358.png",
+      "local_image_path": "images/125358.png"
+    }
+  ],
+  "synonyms": [
+    "scent",
+    "fragrance",
+    "imbue",
+    "freshen",
+    "lace",
+    "anoint",
+    "aromatize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "perfumeless",
+    "perfumer",
+    "perfumery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perfume.mp3",
+  "local_sound_path": "sounds/perfume.mp3"
+}

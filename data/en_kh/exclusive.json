@@ -1,0 +1,60 @@
+{
+  "word": "exclusive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "exclusive attention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26456.png",
+      "local_image_path": "images/26456.png"
+    },
+    {
+      "pos": "adj",
+      "example": "exclusive club",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26457.png",
+      "local_image_path": "images/26457.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119595.png",
+      "local_image_path": "images/119595.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119596.png",
+      "local_image_path": "images/119596.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119597.png",
+      "local_image_path": "images/119597.png"
+    }
+  ],
+  "synonyms": [
+    "sole",
+    "complete",
+    "undivided",
+    "full",
+    "whole",
+    "absolute",
+    "total"
+  ],
+  "antonyms": [
+    "inclusive",
+    "partial"
+  ],
+  "similar_words": [
+    "exclusive agreement",
+    "exclusive economic zone",
+    "exclusive fishery zone",
+    "exclusive licence",
+    "exclusively",
+    "exclusiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exclusive.mp3",
+  "local_sound_path": "sounds/exclusive.mp3"
+}

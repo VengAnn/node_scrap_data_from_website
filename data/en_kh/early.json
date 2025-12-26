@@ -1,0 +1,47 @@
+{
+  "word": "early",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "early hour",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23636.png",
+      "local_image_path": "images/23636.png"
+    },
+    {
+      "pos": "adj",
+      "example": "early arrival",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23637.png",
+      "local_image_path": "images/23637.png"
+    },
+    {
+      "pos": "adv",
+      "example": "come early",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23634.png",
+      "local_image_path": "images/23634.png"
+    },
+    {
+      "pos": "adv",
+      "example": "get up early",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23635.png",
+      "local_image_path": "images/23635.png"
+    }
+  ],
+  "synonyms": [
+    "beforehand",
+    "prematurely",
+    "soon",
+    "promptly",
+    "now"
+  ],
+  "antonyms": [
+    "late",
+    "timely",
+    "later",
+    "tardy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/early.mp3",
+  "local_sound_path": "sounds/early.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "bootstrap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10215.png",
+      "local_image_path": "images/10215.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10213.png",
+      "local_image_path": "images/10213.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10214.png",
+      "local_image_path": "images/10214.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bootstrap.mp3",
+  "local_sound_path": "sounds/bootstrap.mp3"
+}

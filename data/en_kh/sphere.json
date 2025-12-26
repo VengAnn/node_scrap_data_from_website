@@ -1,0 +1,44 @@
+{
+  "word": "sphere",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "perfect sphere",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83308.png",
+      "local_image_path": "images/83308.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83309.png",
+      "local_image_path": "images/83309.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83310.png",
+      "local_image_path": "images/83310.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83311.png",
+      "local_image_path": "images/83311.png"
+    }
+  ],
+  "synonyms": [
+    "area",
+    "specialty",
+    "subject",
+    "field",
+    "forte",
+    "department",
+    "realm"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sphere.mp3",
+  "local_sound_path": "sounds/sphere.mp3"
+}

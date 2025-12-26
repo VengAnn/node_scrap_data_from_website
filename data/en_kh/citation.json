@@ -1,0 +1,50 @@
+{
+  "word": "citation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14669.png",
+      "local_image_path": "images/14669.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116372.png",
+      "local_image_path": "images/116372.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116373.png",
+      "local_image_path": "images/116373.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116374.png",
+      "local_image_path": "images/116374.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116375.png",
+      "local_image_path": "images/116375.png"
+    }
+  ],
+  "synonyms": [
+    "quote",
+    "quotation",
+    "mention",
+    "reference",
+    "excerpt",
+    "extract",
+    "illustration"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/citation.mp3",
+  "local_sound_path": "sounds/citation.mp3"
+}

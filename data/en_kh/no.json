@@ -1,0 +1,61 @@
+{
+  "word": "no",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I have no money today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55895.png",
+      "local_image_path": "images/55895.png"
+    },
+    {
+      "pos": "interj",
+      "example": "No, I am not a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55894.png",
+      "local_image_path": "images/55894.png"
+    },
+    {
+      "pos": "n",
+      "example": "received a no",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55896.png",
+      "local_image_path": "images/55896.png"
+    }
+  ],
+  "synonyms": [
+    "rejection",
+    "refusal",
+    "rebuff",
+    "nix",
+    "veto",
+    "denial",
+    "negative"
+  ],
+  "antonyms": [
+    "approval",
+    "affirmative"
+  ],
+  "similar_words": [
+    "no longer",
+    "no-account",
+    "no-confidence debate",
+    "no-confidence motion",
+    "no-confidence vote",
+    "no-fault",
+    "no-go",
+    "no-good",
+    "no-one",
+    "no-par",
+    "no-par-value",
+    "no-show",
+    "no-win",
+    "nob",
+    "nobble",
+    "nobby",
+    "Nobel prize",
+    "nobiliary",
+    "nobiliate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/no.mp3",
+  "local_sound_path": "sounds/no.mp3"
+}

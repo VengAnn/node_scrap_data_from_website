@@ -1,0 +1,37 @@
+{
+  "word": "timer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "race timer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89547.png",
+      "local_image_path": "images/89547.png"
+    },
+    {
+      "pos": "n",
+      "example": "egg timer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89548.png",
+      "local_image_path": "images/89548.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128243.png",
+      "local_image_path": "images/128243.png"
+    }
+  ],
+  "synonyms": [
+    "regulator",
+    "clock",
+    "device",
+    "control",
+    "meter",
+    "dial"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/timer.mp3",
+  "local_sound_path": "sounds/timer.mp3"
+}

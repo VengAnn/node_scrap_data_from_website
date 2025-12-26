@@ -1,0 +1,42 @@
+{
+  "word": "sponsor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83613.png",
+      "local_image_path": "images/83613.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83614.png",
+      "local_image_path": "images/83614.png"
+    }
+  ],
+  "synonyms": [
+    "backer",
+    "supporter",
+    "guarantor",
+    "patron",
+    "promoter",
+    "champion",
+    "benefactor",
+    "back",
+    "support",
+    "subsidize",
+    "fund",
+    "underwrite"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sponsored",
+    "sponsorial",
+    "sponsoring person",
+    "sponsorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sponsor.mp3",
+  "local_sound_path": "sounds/sponsor.mp3"
+}

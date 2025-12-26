@@ -1,0 +1,37 @@
+{
+  "word": "inequality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "income inequality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39390.png",
+      "local_image_path": "images/39390.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39393.png",
+      "local_image_path": "images/39393.png"
+    }
+  ],
+  "synonyms": [
+    "disparity",
+    "dissimilarity",
+    "variation",
+    "difference",
+    "discrimination",
+    "unfairness",
+    "inequity",
+    "disproportion",
+    "imbalance"
+  ],
+  "antonyms": [
+    "equality",
+    "parity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inequality.mp3",
+  "local_sound_path": "sounds/inequality.mp3"
+}

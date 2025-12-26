@@ -1,0 +1,63 @@
+{
+  "word": "devastate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "I was devastated by the news of the crash.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21063.png",
+      "local_image_path": "images/21063.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118205.png",
+      "local_image_path": "images/118205.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118206.png",
+      "local_image_path": "images/118206.png"
+    },
+    {
+      "pos": "tv",
+      "example": "War devastated the country.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21062.png",
+      "local_image_path": "images/21062.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118207.png",
+      "local_image_path": "images/118207.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118208.png",
+      "local_image_path": "images/118208.png"
+    }
+  ],
+  "synonyms": [
+    "overwhelm",
+    "overcome",
+    "confound",
+    "shock",
+    "distress",
+    "destroy",
+    "demolish",
+    "ravage",
+    "wreck",
+    "ruin",
+    "spoil"
+  ],
+  "antonyms": [
+    "preserve",
+    "comfort"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devastate.mp3",
+  "local_sound_path": "sounds/devastate.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "word": "toy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "toy car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90577.png",
+      "local_image_path": "images/90577.png"
+    },
+    {
+      "pos": "adj",
+      "example": "toy poodle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90578.png",
+      "local_image_path": "images/90578.png"
+    },
+    {
+      "pos": "iv",
+      "example": "toy with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90579.png",
+      "local_image_path": "images/90579.png"
+    },
+    {
+      "pos": "n",
+      "example": "child's toy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90575.png",
+      "local_image_path": "images/90575.png"
+    },
+    {
+      "pos": "n",
+      "example": "I'm just a toy to you.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90576.png",
+      "local_image_path": "images/90576.png"
+    }
+  ],
+  "synonyms": [
+    "plaything",
+    "doll",
+    "model",
+    "game",
+    "stilt",
+    "lifter",
+    "pole",
+    "stand"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "toy boy",
+    "toyer",
+    "toyful",
+    "toying",
+    "toyingly",
+    "toyish",
+    "toyman",
+    "toyshop",
+    "toysome"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/toy.mp3",
+  "local_sound_path": "sounds/toy.mp3"
+}

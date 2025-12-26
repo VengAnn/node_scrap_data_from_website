@@ -1,0 +1,77 @@
+{
+  "word": "deep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "deep well river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20092.png",
+      "local_image_path": "images/20092.png"
+    },
+    {
+      "pos": "adj",
+      "example": "deep breath",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20093.png",
+      "local_image_path": "images/20093.png"
+    },
+    {
+      "pos": "adj",
+      "example": "deep sorrow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20094.png",
+      "local_image_path": "images/20094.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20095.png",
+      "local_image_path": "images/20095.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20098.png",
+      "local_image_path": "images/20098.png"
+    },
+    {
+      "pos": "n",
+      "example": "deep of a lake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20096.png",
+      "local_image_path": "images/20096.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20097.png",
+      "local_image_path": "images/20097.png"
+    }
+  ],
+  "synonyms": [
+    "low",
+    "booming",
+    "bass",
+    "sonorous",
+    "resonant",
+    "rich"
+  ],
+  "antonyms": [
+    "shallow",
+    "facile",
+    "superficial",
+    "open",
+    "mild",
+    "shrill"
+  ],
+  "similar_words": [
+    "deep-laid",
+    "deep-rooted",
+    "deep-sea",
+    "deep-seated",
+    "deepfry",
+    "deeply",
+    "deepmost",
+    "deepness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deep.mp3",
+  "local_sound_path": "sounds/deep.mp3"
+}

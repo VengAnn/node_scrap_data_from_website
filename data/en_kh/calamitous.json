@@ -1,0 +1,49 @@
+{
+  "word": "calamitous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12349.png",
+      "local_image_path": "images/12349.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115826.png",
+      "local_image_path": "images/115826.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115827.png",
+      "local_image_path": "images/115827.png"
+    }
+  ],
+  "synonyms": [
+    "catastrophic",
+    "disastrous",
+    "dreadful",
+    "tragic",
+    "devastating",
+    "shattering",
+    "ruinous",
+    "cataclysmic",
+    "appalling",
+    "frightful",
+    "terrible",
+    "dire"
+  ],
+  "antonyms": [
+    "beneficial",
+    "fortunate"
+  ],
+  "similar_words": [
+    "calamitously",
+    "calamitousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calamitous.mp3",
+  "local_sound_path": "sounds/calamitous.mp3"
+}

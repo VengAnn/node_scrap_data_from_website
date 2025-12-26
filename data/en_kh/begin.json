@@ -1,0 +1,36 @@
+{
+  "word": "begin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "begin with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8083.png",
+      "local_image_path": "images/8083.png"
+    }
+  ],
+  "synonyms": [
+    "start",
+    "commence",
+    "originate",
+    "arise",
+    "open",
+    "instigate",
+    "initiate",
+    "activate",
+    "create",
+    "launch",
+    "inaugurate"
+  ],
+  "antonyms": [
+    "end",
+    "finish"
+  ],
+  "similar_words": [
+    "beginner",
+    "beginning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/begin.mp3",
+  "local_sound_path": "sounds/begin.mp3"
+}

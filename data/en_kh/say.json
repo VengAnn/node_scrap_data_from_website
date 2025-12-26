@@ -1,0 +1,67 @@
+{
+  "word": "say",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "have a say in the government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76221.png",
+      "local_image_path": "images/76221.png"
+    },
+    {
+      "pos": "n",
+      "example": "Who has the say in this matter?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76222.png",
+      "local_image_path": "images/76222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "What did he say?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76220.png",
+      "local_image_path": "images/76220.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127463.png",
+      "local_image_path": "images/127463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127464.png",
+      "local_image_path": "images/127464.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127465.png",
+      "local_image_path": "images/127465.png"
+    }
+  ],
+  "synonyms": [
+    "approximately",
+    "roughly",
+    "about",
+    "around",
+    "reveal",
+    "tell",
+    "disclose",
+    "express",
+    "display",
+    "impart"
+  ],
+  "antonyms": [
+    "exactly"
+  ],
+  "similar_words": [
+    "say-so",
+    "sayer",
+    "saying",
+    "saying lesson",
+    "sayyid"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/say.mp3",
+  "local_sound_path": "sounds/say.mp3"
+}

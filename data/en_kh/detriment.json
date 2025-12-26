@@ -1,0 +1,31 @@
+{
+  "word": "detriment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21045.png",
+      "local_image_path": "images/21045.png"
+    }
+  ],
+  "synonyms": [
+    "loss",
+    "harm",
+    "disadvantage",
+    "damage",
+    "injury",
+    "impairment"
+  ],
+  "antonyms": [
+    "benefit",
+    "advantage"
+  ],
+  "similar_words": [
+    "detrimental",
+    "detrimentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detriment.mp3",
+  "local_sound_path": "sounds/detriment.mp3"
+}

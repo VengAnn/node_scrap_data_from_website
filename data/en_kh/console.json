@@ -1,0 +1,33 @@
+{
+  "word": "console",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "radio console",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17025.png",
+      "local_image_path": "images/17025.png"
+    },
+    {
+      "pos": "tv",
+      "example": "nothing could console him when his pet dog died",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17021.png",
+      "local_image_path": "images/17021.png"
+    }
+  ],
+  "synonyms": [
+    "comfort",
+    "soothe",
+    "calm",
+    "relieve",
+    "support",
+    "solace"
+  ],
+  "antonyms": [
+    "depress"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/console.mp3",
+  "local_sound_path": "sounds/console.mp3"
+}

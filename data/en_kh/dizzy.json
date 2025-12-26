@@ -1,0 +1,31 @@
+{
+  "word": "dizzy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "After another glass of whisky I began to feel dizzy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22505.png",
+      "local_image_path": "images/22505.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22506.png",
+      "local_image_path": "images/22506.png"
+    }
+  ],
+  "synonyms": [
+    "silly",
+    "flighty",
+    "giddy",
+    "scatterbrained",
+    "dippy",
+    "scatty"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dizzy.mp3",
+  "local_sound_path": "sounds/dizzy.mp3"
+}

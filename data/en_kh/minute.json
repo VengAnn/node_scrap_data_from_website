@@ -1,0 +1,82 @@
+{
+  "word": "minute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "minute steak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108969.png",
+      "local_image_path": "images/108969.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108970.png",
+      "local_image_path": "images/108970.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108971.png",
+      "local_image_path": "images/108971.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124077.png",
+      "local_image_path": "images/124077.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124078.png",
+      "local_image_path": "images/124078.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108966.png",
+      "local_image_path": "images/108966.png"
+    },
+    {
+      "pos": "n",
+      "example": "Wait a minute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108967.png",
+      "local_image_path": "images/108967.png"
+    },
+    {
+      "pos": "n",
+      "example": "minute of the meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108968.png",
+      "local_image_path": "images/108968.png"
+    }
+  ],
+  "synonyms": [
+    "summarize",
+    "record",
+    "transcribe",
+    "precis",
+    "report",
+    "log",
+    "write down"
+  ],
+  "antonyms": [
+    "enormous",
+    "rough",
+    "cursory",
+    "age"
+  ],
+  "similar_words": [
+    "minute of arc",
+    "minute steak",
+    "minute-book",
+    "minute-hand",
+    "minute-man",
+    "minutegun",
+    "minutely",
+    "minuteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/minute.mp3",
+  "local_sound_path": "sounds/minute.mp3"
+}

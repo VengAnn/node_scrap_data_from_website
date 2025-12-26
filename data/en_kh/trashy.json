@@ -1,0 +1,47 @@
+{
+  "word": "trashy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91288.png",
+      "local_image_path": "images/91288.png"
+    },
+    {
+      "pos": "adj",
+      "example": "trashy yard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91290.png",
+      "local_image_path": "images/91290.png"
+    },
+    {
+      "pos": "adj",
+      "example": "trashy literature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91291.png",
+      "local_image_path": "images/91291.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91289.png",
+      "local_image_path": "images/91289.png"
+    }
+  ],
+  "synonyms": [
+    "cheap",
+    "tacky",
+    "worthless",
+    "tasteless",
+    "shabby",
+    "rubbishy",
+    "shoddy",
+    "crummy"
+  ],
+  "antonyms": [
+    "first-rate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trashy.mp3",
+  "local_sound_path": "sounds/trashy.mp3"
+}

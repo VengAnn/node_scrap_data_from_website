@@ -1,0 +1,85 @@
+{
+  "word": "breed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "animals breed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10950.png",
+      "local_image_path": "images/10950.png"
+    },
+    {
+      "pos": "n",
+      "example": "this farmer has only the best breeds of cattle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10951.png",
+      "local_image_path": "images/10951.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he make a living by breeding \n\nhorses",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10949.png",
+      "local_image_path": "images/10949.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115590.png",
+      "local_image_path": "images/115590.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115591.png",
+      "local_image_path": "images/115591.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115592.png",
+      "local_image_path": "images/115592.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115593.png",
+      "local_image_path": "images/115593.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115594.png",
+      "local_image_path": "images/115594.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115595.png",
+      "local_image_path": "images/115595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115596.png",
+      "local_image_path": "images/115596.png"
+    }
+  ],
+  "synonyms": [
+    "cause",
+    "create",
+    "generate",
+    "produce",
+    "trigger"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "breed-bate",
+    "breeder",
+    "breeding",
+    "breeding-ground",
+    "breedling",
+    "breedy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breed.mp3",
+  "local_sound_path": "sounds/breed.mp3"
+}

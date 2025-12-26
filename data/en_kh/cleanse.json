@@ -1,0 +1,44 @@
+{
+  "word": "cleanse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14911.png",
+      "local_image_path": "images/14911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116437.png",
+      "local_image_path": "images/116437.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116438.png",
+      "local_image_path": "images/116438.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116439.png",
+      "local_image_path": "images/116439.png"
+    }
+  ],
+  "synonyms": [
+    "wash",
+    "rinse",
+    "clean",
+    "bathe",
+    "purify"
+  ],
+  "antonyms": [
+    "soil"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cleanse.mp3",
+  "local_sound_path": "sounds/cleanse.mp3"
+}

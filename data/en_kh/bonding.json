@@ -1,0 +1,30 @@
+{
+  "word": "bonding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10077.png",
+      "local_image_path": "images/10077.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130015.png",
+      "local_image_path": "images/130015.png"
+    }
+  ],
+  "synonyms": [
+    "sticking",
+    "fixing",
+    "joining",
+    "binding",
+    "linking"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bonding.mp3",
+  "local_sound_path": "sounds/bonding.mp3"
+}

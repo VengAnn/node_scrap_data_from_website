@@ -1,0 +1,32 @@
+{
+  "word": "refuge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take refuge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71470.png",
+      "local_image_path": "images/71470.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71471.png",
+      "local_image_path": "images/71471.png"
+    }
+  ],
+  "synonyms": [
+    "sanctuary",
+    "shelter",
+    "protection",
+    "asylum",
+    "harbor",
+    "retreat",
+    "haven"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refuge.mp3",
+  "local_sound_path": "sounds/refuge.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "proficient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67404.png",
+      "local_image_path": "images/67404.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67405.png",
+      "local_image_path": "images/67405.png"
+    }
+  ],
+  "synonyms": [
+    "capable",
+    "talented",
+    "skillful",
+    "expert",
+    "gifted",
+    "skilled",
+    "adept",
+    "dexterous",
+    "practiced",
+    "competent",
+    "adroit"
+  ],
+  "antonyms": [
+    "incompetent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proficient.mp3",
+  "local_sound_path": "sounds/proficient.mp3"
+}

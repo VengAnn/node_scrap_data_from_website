@@ -1,0 +1,58 @@
+{
+  "word": "sober",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "still sobber",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82307.png",
+      "local_image_path": "images/82307.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sober expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82308.png",
+      "local_image_path": "images/82308.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sober facts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82309.png",
+      "local_image_path": "images/82309.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sober up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82310.png",
+      "local_image_path": "images/82310.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sober sb up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82311.png",
+      "local_image_path": "images/82311.png"
+    }
+  ],
+  "synonyms": [
+    "dull",
+    "somber",
+    "drab",
+    "dreary",
+    "staid",
+    "plain",
+    "dank"
+  ],
+  "antonyms": [
+    "frivolous",
+    "bright",
+    "lively"
+  ],
+  "similar_words": [
+    "sober-minded",
+    "soberly",
+    "sobersides"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sober.mp3",
+  "local_sound_path": "sounds/sober.mp3"
+}

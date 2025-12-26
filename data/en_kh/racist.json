@@ -1,0 +1,38 @@
+{
+  "word": "racist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69779.png",
+      "local_image_path": "images/69779.png"
+    },
+    {
+      "pos": "n, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126401.png",
+      "local_image_path": "images/126401.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69776.png",
+      "local_image_path": "images/69776.png"
+    }
+  ],
+  "synonyms": [
+    "chauvinistic",
+    "bigoted",
+    "xenophobic",
+    "racialist",
+    "discriminatory"
+  ],
+  "antonyms": [
+    "tolerant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/racist.mp3",
+  "local_sound_path": "sounds/racist.mp3"
+}

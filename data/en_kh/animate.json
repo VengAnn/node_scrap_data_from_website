@@ -1,0 +1,40 @@
+{
+  "word": "animate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4336.png",
+      "local_image_path": "images/4336.png"
+    },
+    {
+      "pos": "tv",
+      "example": "animate the conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4337.png",
+      "local_image_path": "images/4337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113734.png",
+      "local_image_path": "images/113734.png"
+    }
+  ],
+  "synonyms": [
+    "enliven",
+    "rouse",
+    "stir",
+    "stimulate"
+  ],
+  "antonyms": [
+    "inanimate"
+  ],
+  "similar_words": [
+    "animated",
+    "animatedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/animate.mp3",
+  "local_sound_path": "sounds/animate.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "collaboration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "she wrote the book in collaboration with her sister",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15644.png",
+      "local_image_path": "images/15644.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116667.png",
+      "local_image_path": "images/116667.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116668.png",
+      "local_image_path": "images/116668.png"
+    }
+  ],
+  "synonyms": [
+    "teamwork",
+    "partnership",
+    "association",
+    "alliance",
+    "relationship",
+    "cooperation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "collaborationism",
+    "collaborationist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/collaboration.mp3",
+  "local_sound_path": "sounds/collaboration.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "combine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Hy drogen combine two oxygen to form wanter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15875.png",
+      "local_image_path": "images/15875.png"
+    },
+    {
+      "pos": "tv",
+      "example": "combine business and pleasure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15874.png",
+      "local_image_path": "images/15874.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116725.png",
+      "local_image_path": "images/116725.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116726.png",
+      "local_image_path": "images/116726.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116727.png",
+      "local_image_path": "images/116727.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116728.png",
+      "local_image_path": "images/116728.png"
+    }
+  ],
+  "synonyms": [
+    "harvester",
+    "thresher",
+    "reaper",
+    "mix",
+    "blend",
+    "intermix",
+    "amalgamate",
+    "mingle",
+    "commingle",
+    "fuse"
+  ],
+  "antonyms": [
+    "separate",
+    "divide"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/combine.mp3",
+  "local_sound_path": "sounds/combine.mp3"
+}

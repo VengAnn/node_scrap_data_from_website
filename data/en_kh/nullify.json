@@ -1,0 +1,32 @@
+{
+  "word": "nullify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "nullify a contract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56589.png",
+      "local_image_path": "images/56589.png"
+    },
+    {
+      "pos": "tv",
+      "example": "nullify their efforts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56590.png",
+      "local_image_path": "images/56590.png"
+    }
+  ],
+  "synonyms": [
+    "invalidate",
+    "annul",
+    "abolish",
+    "reverse",
+    "quash"
+  ],
+  "antonyms": [
+    "validate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nullify.mp3",
+  "local_sound_path": "sounds/nullify.mp3"
+}

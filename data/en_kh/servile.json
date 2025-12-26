@@ -1,0 +1,37 @@
+{
+  "word": "servile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "servile task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78374.png",
+      "local_image_path": "images/78374.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127669.png",
+      "local_image_path": "images/127669.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127670.png",
+      "local_image_path": "images/127670.png"
+    }
+  ],
+  "synonyms": [
+    "submissive",
+    "subservient",
+    "sycophantic",
+    "obsequious"
+  ],
+  "antonyms": [
+    "proud"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/servile.mp3",
+  "local_sound_path": "sounds/servile.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "compactness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16145.png",
+      "local_image_path": "images/16145.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116842.png",
+      "local_image_path": "images/116842.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116843.png",
+      "local_image_path": "images/116843.png"
+    }
+  ],
+  "synonyms": [
+    "smallness",
+    "neatness",
+    "tininess",
+    "miniaturization",
+    "efficiency"
+  ],
+  "antonyms": [
+    "looseness",
+    "largeness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compactness.mp3",
+  "local_sound_path": "sounds/compactness.mp3"
+}

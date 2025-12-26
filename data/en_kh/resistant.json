@@ -1,0 +1,48 @@
+{
+  "word": "resistant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72745.png",
+      "local_image_path": "images/72745.png"
+    },
+    {
+      "pos": "adj",
+      "example": "resistant population",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72746.png",
+      "local_image_path": "images/72746.png"
+    },
+    {
+      "pos": "adj",
+      "example": "resistant breed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72747.png",
+      "local_image_path": "images/72747.png"
+    },
+    {
+      "pos": "adj",
+      "example": "resistant conductor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72748.png",
+      "local_image_path": "images/72748.png"
+    }
+  ],
+  "synonyms": [
+    "resilient",
+    "hardy",
+    "tough",
+    "strong",
+    "anti",
+    "unwilling",
+    "defiant",
+    "challenging",
+    "opposed"
+  ],
+  "antonyms": [
+    "weak"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resistant.mp3",
+  "local_sound_path": "sounds/resistant.mp3"
+}

@@ -1,0 +1,72 @@
+{
+  "word": "employ",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I left their employ after an argument.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24649.png",
+      "local_image_path": "images/24649.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24646.png",
+      "local_image_path": "images/24646.png"
+    },
+    {
+      "pos": "tv",
+      "example": "employ a chauffeur",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24647.png",
+      "local_image_path": "images/24647.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The police employed force to open the door.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24648.png",
+      "local_image_path": "images/24648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119096.png",
+      "local_image_path": "images/119096.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119097.png",
+      "local_image_path": "images/119097.png"
+    }
+  ],
+  "synonyms": [
+    "employment",
+    "service",
+    "pay",
+    "use",
+    "utilize",
+    "occupy",
+    "spend",
+    "devote",
+    "exercise"
+  ],
+  "antonyms": [
+    "unemployment",
+    "dismiss",
+    "waste"
+  ],
+  "similar_words": [
+    "employable",
+    "employee",
+    "employee benefit",
+    "employer",
+    "employment",
+    "employment practices",
+    "employment secretary",
+    "employment shock",
+    "employment statistics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/employ.mp3",
+  "local_sound_path": "sounds/employ.mp3"
+}

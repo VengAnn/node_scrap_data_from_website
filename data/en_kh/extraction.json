@@ -1,0 +1,47 @@
+{
+  "word": "extraction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27088.png",
+      "local_image_path": "images/27088.png"
+    },
+    {
+      "pos": "n",
+      "example": "extraction of coal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27089.png",
+      "local_image_path": "images/27089.png"
+    },
+    {
+      "pos": "n",
+      "example": "extraction of a tooth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27090.png",
+      "local_image_path": "images/27090.png"
+    },
+    {
+      "pos": "n",
+      "example": "of foreign extraction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27091.png",
+      "local_image_path": "images/27091.png"
+    }
+  ],
+  "synonyms": [
+    "origin",
+    "descent",
+    "ancestry",
+    "lineage",
+    "birth",
+    "family",
+    "line",
+    "heritage"
+  ],
+  "antonyms": [
+    "insertion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extraction.mp3",
+  "local_sound_path": "sounds/extraction.mp3"
+}

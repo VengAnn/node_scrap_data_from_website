@@ -1,0 +1,54 @@
+{
+  "word": "better",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "It's better to win than to lose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8512.png",
+      "local_image_path": "images/8512.png"
+    },
+    {
+      "pos": "adv",
+      "example": "he doesn't it better",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8513.png",
+      "local_image_path": "images/8513.png"
+    },
+    {
+      "pos": "n",
+      "example": "better of two choices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8514.png",
+      "local_image_path": "images/8514.png"
+    },
+    {
+      "pos": "tv",
+      "example": "your work last year was good, I hope you will better it this year",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8515.png",
+      "local_image_path": "images/8515.png"
+    }
+  ],
+  "synonyms": [
+    "beat",
+    "top",
+    "outdo",
+    "outshine",
+    "surpass",
+    "excel",
+    "clearer",
+    "unpleasant"
+  ],
+  "antonyms": [
+    "worse",
+    "worsen"
+  ],
+  "similar_words": [
+    "better-off",
+    "betterer",
+    "bettering",
+    "betterment",
+    "betterness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/better.mp3",
+  "local_sound_path": "sounds/better.mp3"
+}

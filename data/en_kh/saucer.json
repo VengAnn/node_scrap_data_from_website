@@ -1,0 +1,44 @@
+{
+  "word": "saucer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76063.png",
+      "local_image_path": "images/76063.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76064.png",
+      "local_image_path": "images/76064.png"
+    },
+    {
+      "pos": "n",
+      "example": "flying saucer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76065.png",
+      "local_image_path": "images/76065.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127438.png",
+      "local_image_path": "images/127438.png"
+    }
+  ],
+  "synonyms": [
+    "plate",
+    "bowl",
+    "dish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "saucer-eye",
+    "saucer-eyed",
+    "saucer-track"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/saucer.mp3",
+  "local_sound_path": "sounds/saucer.mp3"
+}

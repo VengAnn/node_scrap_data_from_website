@@ -1,0 +1,39 @@
+{
+  "word": "brawny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10776.png",
+      "local_image_path": "images/10776.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115553.png",
+      "local_image_path": "images/115553.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115554.png",
+      "local_image_path": "images/115554.png"
+    }
+  ],
+  "synonyms": [
+    "muscular",
+    "strong",
+    "strapping",
+    "hefty",
+    "burly",
+    "beefy"
+  ],
+  "antonyms": [
+    "scrawny"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brawny.mp3",
+  "local_sound_path": "sounds/brawny.mp3"
+}

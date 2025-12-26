@@ -1,0 +1,54 @@
+{
+  "word": "safety",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75065.png",
+      "local_image_path": "images/75065.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75066.png",
+      "local_image_path": "images/75066.png"
+    },
+    {
+      "pos": "n",
+      "example": "safety of one's family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75067.png",
+      "local_image_path": "images/75067.png"
+    }
+  ],
+  "synonyms": [
+    "security",
+    "protection",
+    "shelter",
+    "care",
+    "well-being",
+    "welfare"
+  ],
+  "antonyms": [
+    "danger"
+  ],
+  "similar_words": [
+    "safety belt",
+    "safety bicycle",
+    "safety film",
+    "safety fund system",
+    "safety fuse",
+    "safety island",
+    "safety pin",
+    "safety razor",
+    "safety valve",
+    "safety-glass",
+    "safety-ink",
+    "safety-lamp",
+    "safety-match",
+    "safety-net"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/safety.mp3",
+  "local_sound_path": "sounds/safety.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "safeguard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75057.png",
+      "local_image_path": "images/75057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75058.png",
+      "local_image_path": "images/75058.png"
+    }
+  ],
+  "synonyms": [
+    "protection",
+    "precaution",
+    "defense",
+    "defend",
+    "maintain",
+    "preserve",
+    "uphold",
+    "protect"
+  ],
+  "antonyms": [
+    "endanger"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/safeguard.mp3",
+  "local_sound_path": "sounds/safeguard.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "any",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "If you don't have any money, you can't buy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4847.png",
+      "local_image_path": "images/4847.png"
+    },
+    {
+      "pos": "adv",
+      "example": "Are you any better?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4849.png",
+      "local_image_path": "images/4849.png"
+    },
+    {
+      "pos": "pron",
+      "example": "Do you want any?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4848.png",
+      "local_image_path": "images/4848.png"
+    }
+  ],
+  "synonyms": [
+    "one",
+    "some",
+    "several"
+  ],
+  "antonyms": [
+    "none"
+  ],
+  "similar_words": [
+    "any whence",
+    "anybody",
+    "anyhow",
+    "anymore",
+    "anyone",
+    "anyplace",
+    "anything",
+    "anytime",
+    "anyway",
+    "anywhen",
+    "anywhere",
+    "anywise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/any.mp3",
+  "local_sound_path": "sounds/any.mp3"
+}

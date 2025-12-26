@@ -1,0 +1,74 @@
+{
+  "word": "bloom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9713.png",
+      "local_image_path": "images/9713.png"
+    },
+    {
+      "pos": "iv",
+      "example": "the roses have been blooming all summer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9714.png",
+      "local_image_path": "images/9714.png"
+    },
+    {
+      "pos": "n",
+      "example": "flower bloom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9712.png",
+      "local_image_path": "images/9712.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115264.png",
+      "local_image_path": "images/115264.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115265.png",
+      "local_image_path": "images/115265.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115266.png",
+      "local_image_path": "images/115266.png"
+    }
+  ],
+  "synonyms": [
+    "coloration",
+    "tinge",
+    "tint",
+    "bruise",
+    "shadow",
+    "flush",
+    "blush",
+    "discoloration",
+    "flourish",
+    "thrive",
+    "grow",
+    "develop",
+    "blossom",
+    "glow",
+    "prosper",
+    "mature"
+  ],
+  "antonyms": [
+    "wither",
+    "struggle",
+    "pallor"
+  ],
+  "similar_words": [
+    "bloomer",
+    "bloomers",
+    "blooming",
+    "bloomy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bloom.mp3",
+  "local_sound_path": "sounds/bloom.mp3"
+}

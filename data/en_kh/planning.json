@@ -1,0 +1,40 @@
+{
+  "word": "planning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "economic planning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63864.png",
+      "local_image_path": "images/63864.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125587.png",
+      "local_image_path": "images/125587.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125588.png",
+      "local_image_path": "images/125588.png"
+    }
+  ],
+  "synonyms": [
+    "preparation",
+    "development",
+    "arrangement",
+    "scheduling",
+    "forecast",
+    "intending",
+    "meaning",
+    "projecting",
+    "designing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/planning.mp3",
+  "local_sound_path": "sounds/planning.mp3"
+}

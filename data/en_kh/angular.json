@@ -1,0 +1,52 @@
+{
+  "word": "angular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "angular measurement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4304.png",
+      "local_image_path": "images/4304.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112512.png",
+      "local_image_path": "images/112512.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112513.png",
+      "local_image_path": "images/112513.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4305.png",
+      "local_image_path": "images/4305.png"
+    }
+  ],
+  "synonyms": [
+    "bony",
+    "raw-boned",
+    "rangy",
+    "lanky",
+    "gaunt",
+    "pointed",
+    "sharp",
+    "thin",
+    "gawky"
+  ],
+  "antonyms": [
+    "rounded"
+  ],
+  "similar_words": [
+    "angularity",
+    "angularly",
+    "angularness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/angular.mp3",
+  "local_sound_path": "sounds/angular.mp3"
+}

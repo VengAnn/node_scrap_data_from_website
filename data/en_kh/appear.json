@@ -1,0 +1,30 @@
+{
+  "word": "appear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "spots appear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5046.png",
+      "local_image_path": "images/5046.png"
+    }
+  ],
+  "synonyms": [
+    "perform",
+    "act",
+    "play",
+    "show",
+    "arrive"
+  ],
+  "antonyms": [
+    "disappear"
+  ],
+  "similar_words": [
+    "appearance",
+    "appearing in person",
+    "appearingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appear.mp3",
+  "local_sound_path": "sounds/appear.mp3"
+}

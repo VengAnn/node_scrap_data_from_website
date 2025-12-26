@@ -1,0 +1,39 @@
+{
+  "word": "interfere",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41211.png",
+      "local_image_path": "images/41211.png"
+    },
+    {
+      "pos": "iv",
+      "example": "interfere with progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41212.png",
+      "local_image_path": "images/41212.png"
+    }
+  ],
+  "synonyms": [
+    "meddle",
+    "disturb",
+    "intervene",
+    "pry",
+    "intrude",
+    "snoop",
+    "interlope"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "interference",
+    "interferential",
+    "interferer",
+    "interferering",
+    "interfereringly",
+    "interfereringness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interfere.mp3",
+  "local_sound_path": "sounds/interfere.mp3"
+}

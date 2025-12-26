@@ -1,0 +1,46 @@
+{
+  "word": "accommodate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "hotel can accommodate 100 guests",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1862.png",
+      "local_image_path": "images/1862.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111580.png",
+      "local_image_path": "images/111580.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111581.png",
+      "local_image_path": "images/111581.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113127.png",
+      "local_image_path": "images/113127.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113128.png",
+      "local_image_path": "images/113128.png"
+    }
+  ],
+  "synonyms": [
+    "assist",
+    "help",
+    "oblige"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accommodate.mp3",
+  "local_sound_path": "sounds/accommodate.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "answer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4489.png",
+      "local_image_path": "images/4489.png"
+    },
+    {
+      "pos": "v",
+      "example": "I have six letters to answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4488.png",
+      "local_image_path": "images/4488.png"
+    }
+  ],
+  "synonyms": [
+    "solution",
+    "key",
+    "resolution",
+    "remedy",
+    "solve",
+    "satisfy",
+    "resolve",
+    "fulfill",
+    "meet"
+  ],
+  "antonyms": [
+    "question",
+    "inquiry",
+    "enquiry"
+  ],
+  "similar_words": [
+    "answerability",
+    "answerable",
+    "answerableness",
+    "answerably",
+    "answerer",
+    "answering machine",
+    "answering service",
+    "answerphone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/answer.mp3",
+  "local_sound_path": "sounds/answer.mp3"
+}

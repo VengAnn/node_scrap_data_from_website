@@ -1,0 +1,87 @@
+{
+  "word": "bounce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "a rubber ball bounces well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10352.png",
+      "local_image_path": "images/10352.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115457.png",
+      "local_image_path": "images/115457.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115458.png",
+      "local_image_path": "images/115458.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115459.png",
+      "local_image_path": "images/115459.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115460.png",
+      "local_image_path": "images/115460.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10354.png",
+      "local_image_path": "images/10354.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115461.png",
+      "local_image_path": "images/115461.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115462.png",
+      "local_image_path": "images/115462.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115463.png",
+      "local_image_path": "images/115463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bounce a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10353.png",
+      "local_image_path": "images/10353.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130022.png",
+      "local_image_path": "images/130022.png"
+    }
+  ],
+  "synonyms": [
+    "spring",
+    "leap",
+    "jump",
+    "bound",
+    "vault",
+    "clear",
+    "bob",
+    "bobble"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bounce.mp3",
+  "local_sound_path": "sounds/bounce.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "quality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "quality goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69390.png",
+      "local_image_path": "images/69390.png"
+    },
+    {
+      "pos": "n",
+      "example": "of good quality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69389.png",
+      "local_image_path": "images/69389.png"
+    }
+  ],
+  "synonyms": [
+    "feature",
+    "characteristic",
+    "attribute",
+    "property",
+    "trait",
+    "condition"
+  ],
+  "antonyms": [
+    "inferiority"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quality.mp3",
+  "local_sound_path": "sounds/quality.mp3"
+}

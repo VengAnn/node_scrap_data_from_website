@@ -1,0 +1,42 @@
+{
+  "word": "cotton",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cotton plant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17990.png",
+      "local_image_path": "images/17990.png"
+    },
+    {
+      "pos": "tv",
+      "example": "At last she's cottoned on to what they mean?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17991.png",
+      "local_image_path": "images/17991.png"
+    }
+  ],
+  "synonyms": [
+    "yarn",
+    "strand",
+    "fiber",
+    "filament",
+    "cord",
+    "line",
+    "thread"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cotton batting",
+    "cotton candy",
+    "cotton gin",
+    "cotton leafworm",
+    "cotton wood",
+    "cotton wool",
+    "cottonseed",
+    "cottonseed oil",
+    "cottony"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cotton.mp3",
+  "local_sound_path": "sounds/cotton.mp3"
+}

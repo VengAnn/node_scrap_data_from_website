@@ -1,0 +1,49 @@
+{
+  "word": "distant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "distant country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22254.png",
+      "local_image_path": "images/22254.png"
+    },
+    {
+      "pos": "adj",
+      "example": "distant future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22255.png",
+      "local_image_path": "images/22255.png"
+    },
+    {
+      "pos": "adj",
+      "example": "distant relative",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22256.png",
+      "local_image_path": "images/22256.png"
+    }
+  ],
+  "synonyms": [
+    "aloof",
+    "cold",
+    "unfriendly",
+    "detached",
+    "reserved",
+    "unsociable",
+    "cool",
+    "remote",
+    "far-off",
+    "far-flung",
+    "outlying",
+    "far",
+    "isolated",
+    "secluded"
+  ],
+  "antonyms": [
+    "near",
+    "clear",
+    "warm"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distant.mp3",
+  "local_sound_path": "sounds/distant.mp3"
+}

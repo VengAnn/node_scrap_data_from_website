@@ -1,0 +1,83 @@
+{
+  "word": "scar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76417.png",
+      "local_image_path": "images/76417.png"
+    },
+    {
+      "pos": "n",
+      "example": "scar of a former wound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76411.png",
+      "local_image_path": "images/76411.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76412.png",
+      "local_image_path": "images/76412.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76413.png",
+      "local_image_path": "images/76413.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76414.png",
+      "local_image_path": "images/76414.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smallpox scars the skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76415.png",
+      "local_image_path": "images/76415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76416.png",
+      "local_image_path": "images/76416.png"
+    }
+  ],
+  "synonyms": [
+    "mark",
+    "blemish",
+    "scratch",
+    "disfigure",
+    "mutilate",
+    "scrape",
+    "damage",
+    "wound",
+    "score",
+    "affect",
+    "traumatize",
+    "hurt"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "scarab",
+    "scarabaeid",
+    "scarabaeoid",
+    "scarabeiform",
+    "scarabeus",
+    "Scaramouch",
+    "scarce",
+    "scarcely",
+    "scarcement",
+    "scarceness",
+    "scarcity",
+    "scare",
+    "scare-fire",
+    "scare-head",
+    "scare-mongering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scar.mp3",
+  "local_sound_path": "sounds/scar.mp3"
+}

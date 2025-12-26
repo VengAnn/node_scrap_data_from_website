@@ -1,0 +1,40 @@
+{
+  "word": "between",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8527.png",
+      "local_image_path": "images/8527.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114989.png",
+      "local_image_path": "images/114989.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114990.png",
+      "local_image_path": "images/114990.png"
+    },
+    {
+      "pos": "prep",
+      "example": "between two points",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8526.png",
+      "local_image_path": "images/8526.png"
+    }
+  ],
+  "synonyms": [
+    "linking",
+    "concerning",
+    "joining"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/between.mp3",
+  "local_sound_path": "sounds/between.mp3"
+}

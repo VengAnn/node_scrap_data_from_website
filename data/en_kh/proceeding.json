@@ -1,0 +1,39 @@
+{
+  "word": "proceeding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is our best way of proceeding?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67213.png",
+      "local_image_path": "images/67213.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67214.png",
+      "local_image_path": "images/67214.png"
+    },
+    {
+      "pos": "n",
+      "example": "To take legal proceeding against someone.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67215.png",
+      "local_image_path": "images/67215.png"
+    }
+  ],
+  "synonyms": [
+    "happening",
+    "scheduled",
+    "ensuing",
+    "keeping"
+  ],
+  "antonyms": [
+    "off"
+  ],
+  "similar_words": [
+    "proceedings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proceeding.mp3",
+  "local_sound_path": "sounds/proceeding.mp3"
+}

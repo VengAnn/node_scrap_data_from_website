@@ -1,0 +1,40 @@
+{
+  "word": "promoter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67658.png",
+      "local_image_path": "images/67658.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126102.png",
+      "local_image_path": "images/126102.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126103.png",
+      "local_image_path": "images/126103.png"
+    }
+  ],
+  "synonyms": [
+    "advocate",
+    "advertiser",
+    "supporter",
+    "organizer",
+    "agent",
+    "sponsor",
+    "publicist",
+    "developer",
+    "backer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/promoter.mp3",
+  "local_sound_path": "sounds/promoter.mp3"
+}

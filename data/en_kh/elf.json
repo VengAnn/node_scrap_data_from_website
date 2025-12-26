@@ -1,0 +1,43 @@
+{
+  "word": "elf",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24301.png",
+      "local_image_path": "images/24301.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130284.png",
+      "local_image_path": "images/130284.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130285.png",
+      "local_image_path": "images/130285.png"
+    }
+  ],
+  "synonyms": [
+    "pixie",
+    "imp",
+    "sprite",
+    "fairy",
+    "gnome",
+    "goblin",
+    "pixy",
+    "brownie",
+    "puck"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "elfin",
+    "elfish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elf.mp3",
+  "local_sound_path": "sounds/elf.mp3"
+}

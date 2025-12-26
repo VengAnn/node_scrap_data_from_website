@@ -1,0 +1,59 @@
+{
+  "word": "attract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "opposites attract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6298.png",
+      "local_image_path": "images/6298.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6297.png",
+      "local_image_path": "images/6297.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114250.png",
+      "local_image_path": "images/114250.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114251.png",
+      "local_image_path": "images/114251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114252.png",
+      "local_image_path": "images/114252.png"
+    }
+  ],
+  "synonyms": [
+    "fascinate",
+    "charm",
+    "interest",
+    "draw",
+    "magnetize",
+    "invite"
+  ],
+  "antonyms": [
+    "repel"
+  ],
+  "similar_words": [
+    "attractable",
+    "attractant",
+    "attraction",
+    "attractive",
+    "attractively",
+    "attractiveness",
+    "attractor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attract.mp3",
+  "local_sound_path": "sounds/attract.mp3"
+}

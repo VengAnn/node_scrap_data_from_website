@@ -1,0 +1,32 @@
+{
+  "word": "allocation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3492.png",
+      "local_image_path": "images/3492.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112397.png",
+      "local_image_path": "images/112397.png"
+    }
+  ],
+  "synonyms": [
+    "distribution",
+    "provision",
+    "share",
+    "portion",
+    "part",
+    "allotment",
+    "allowance"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allocation.mp3",
+  "local_sound_path": "sounds/allocation.mp3"
+}

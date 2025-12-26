@@ -1,0 +1,52 @@
+{
+  "word": "renegade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72161.png",
+      "local_image_path": "images/72161.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72162.png",
+      "local_image_path": "images/72162.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72159.png",
+      "local_image_path": "images/72159.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72160.png",
+      "local_image_path": "images/72160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126852.png",
+      "local_image_path": "images/126852.png"
+    }
+  ],
+  "synonyms": [
+    "traitor",
+    "rebel",
+    "turncoat",
+    "betrayer",
+    "defector",
+    "deserter",
+    "apostate"
+  ],
+  "antonyms": [
+    "loyalist"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/renegade.mp3",
+  "local_sound_path": "sounds/renegade.mp3"
+}

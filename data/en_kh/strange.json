@@ -1,0 +1,35 @@
+{
+  "word": "strange",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85212.png",
+      "local_image_path": "images/85212.png"
+    }
+  ],
+  "synonyms": [
+    "unfamiliar",
+    "foreign",
+    "alien",
+    "unknown",
+    "mysterious",
+    "different",
+    "exotic",
+    "new",
+    "novel"
+  ],
+  "antonyms": [
+    "normal",
+    "familiar"
+  ],
+  "similar_words": [
+    "strangely",
+    "strangeness",
+    "stranger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strange.mp3",
+  "local_sound_path": "sounds/strange.mp3"
+}

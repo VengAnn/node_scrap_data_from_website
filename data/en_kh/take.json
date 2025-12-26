@@ -1,0 +1,129 @@
+{
+  "word": "take",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The idea didn't take",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87315.png",
+      "local_image_path": "images/87315.png"
+    },
+    {
+      "pos": "iv",
+      "example": "take off",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87316.png",
+      "local_image_path": "images/87316.png"
+    },
+    {
+      "pos": "iv",
+      "example": "take care",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87317.png",
+      "local_image_path": "images/87317.png"
+    },
+    {
+      "pos": "n",
+      "example": "a take of fish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87318.png",
+      "local_image_path": "images/87318.png"
+    },
+    {
+      "pos": "n",
+      "example": "robber's take",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87319.png",
+      "local_image_path": "images/87319.png"
+    },
+    {
+      "pos": "n",
+      "example": "second take",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87320.png",
+      "local_image_path": "images/87320.png"
+    },
+    {
+      "pos": "sl",
+      "example": "they takes him for $100",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87313.png",
+      "local_image_path": "images/87313.png"
+    },
+    {
+      "pos": "tv",
+      "example": "take pills",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87305.png",
+      "local_image_path": "images/87305.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to be taken prisoner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87306.png",
+      "local_image_path": "images/87306.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you should take a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87307.png",
+      "local_image_path": "images/87307.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will take a bus home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87308.png",
+      "local_image_path": "images/87308.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Success takes effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87309.png",
+      "local_image_path": "images/87309.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He won't take charity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87310.png",
+      "local_image_path": "images/87310.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I don't know to take him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87311.png",
+      "local_image_path": "images/87311.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Where does this bus take me?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87312.png",
+      "local_image_path": "images/87312.png"
+    },
+    {
+      "pos": "tv",
+      "example": "take a picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87314.png",
+      "local_image_path": "images/87314.png"
+    }
+  ],
+  "synonyms": [
+    "succeed",
+    "work",
+    "stick"
+  ],
+  "antonyms": [
+    "give",
+    "add",
+    "drop",
+    "lose",
+    "reject",
+    "fail",
+    "refuse"
+  ],
+  "similar_words": [
+    "take in",
+    "take out",
+    "take-down",
+    "take-home pay",
+    "taken",
+    "takeoff",
+    "takeover",
+    "taker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/take.mp3",
+  "local_sound_path": "sounds/take.mp3"
+}

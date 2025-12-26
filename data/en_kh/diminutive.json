@@ -1,0 +1,42 @@
+{
+  "word": "diminutive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "diminutive house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21412.png",
+      "local_image_path": "images/21412.png"
+    },
+    {
+      "pos": "adj",
+      "example": "diminutive suffix",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21413.png",
+      "local_image_path": "images/21413.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21414.png",
+      "local_image_path": "images/21414.png"
+    }
+  ],
+  "synonyms": [
+    "little",
+    "tiny",
+    "wee",
+    "minuscule",
+    "miniature",
+    "minute",
+    "pocket-sized",
+    "pintsize",
+    "small"
+  ],
+  "antonyms": [
+    "huge"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diminutive.mp3",
+  "local_sound_path": "sounds/diminutive.mp3"
+}

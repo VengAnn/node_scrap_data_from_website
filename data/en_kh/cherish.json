@@ -1,0 +1,43 @@
+{
+  "word": "cherish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14095.png",
+      "local_image_path": "images/14095.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116250.png",
+      "local_image_path": "images/116250.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116251.png",
+      "local_image_path": "images/116251.png"
+    }
+  ],
+  "synonyms": [
+    "treasure",
+    "value",
+    "prize",
+    "appreciate",
+    "relish",
+    "esteem",
+    "revere"
+  ],
+  "antonyms": [
+    "neglect"
+  ],
+  "similar_words": [
+    "cherisher",
+    "cherishingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cherish.mp3",
+  "local_sound_path": "sounds/cherish.mp3"
+}

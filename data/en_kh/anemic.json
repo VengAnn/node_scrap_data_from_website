@@ -1,0 +1,43 @@
+{
+  "word": "anemic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4216.png",
+      "local_image_path": "images/4216.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113710.png",
+      "local_image_path": "images/113710.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113711.png",
+      "local_image_path": "images/113711.png"
+    }
+  ],
+  "synonyms": [
+    "weak",
+    "feeble",
+    "lackluster",
+    "insipid",
+    "pale",
+    "colorless",
+    "wishy-washy",
+    "anodyne",
+    "bland"
+  ],
+  "antonyms": [
+    "forceful",
+    "strong"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anemic.mp3",
+  "local_sound_path": "sounds/anemic.mp3"
+}

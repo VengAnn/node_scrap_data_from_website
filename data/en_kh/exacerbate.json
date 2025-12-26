@@ -1,0 +1,32 @@
+{
+  "word": "exacerbate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Her mother's interference exacerbated the difficulties in their \n\nmarriage.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26297.png",
+      "local_image_path": "images/26297.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119518.png",
+      "local_image_path": "images/119518.png"
+    }
+  ],
+  "synonyms": [
+    "worsen",
+    "aggravate",
+    "intensify",
+    "impair"
+  ],
+  "antonyms": [
+    "improve",
+    "soothe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exacerbate.mp3",
+  "local_sound_path": "sounds/exacerbate.mp3"
+}

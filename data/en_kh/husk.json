@@ -1,0 +1,42 @@
+{
+  "word": "husk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36491.png",
+      "local_image_path": "images/36491.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36492.png",
+      "local_image_path": "images/36492.png"
+    }
+  ],
+  "synonyms": [
+    "shell",
+    "pod",
+    "case",
+    "rind",
+    "covering",
+    "crust",
+    "wrapping",
+    "bark",
+    "skin",
+    "casing",
+    "outside"
+  ],
+  "antonyms": [
+    "kernel"
+  ],
+  "similar_words": [
+    "huskiness",
+    "huskly",
+    "husky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/husk.mp3",
+  "local_sound_path": "sounds/husk.mp3"
+}

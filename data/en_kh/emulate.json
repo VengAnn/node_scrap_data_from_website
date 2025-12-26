@@ -1,0 +1,36 @@
+{
+  "word": "emulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24700.png",
+      "local_image_path": "images/24700.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119103.png",
+      "local_image_path": "images/119103.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119104.png",
+      "local_image_path": "images/119104.png"
+    }
+  ],
+  "synonyms": [
+    "imitate",
+    "follow",
+    "copy",
+    "mimic",
+    "ape"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emulate.mp3",
+  "local_sound_path": "sounds/emulate.mp3"
+}

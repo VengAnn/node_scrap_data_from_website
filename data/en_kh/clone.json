@@ -1,0 +1,41 @@
+{
+  "word": "clone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15107.png",
+      "local_image_path": "images/15107.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130082.png",
+      "local_image_path": "images/130082.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130083.png",
+      "local_image_path": "images/130083.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130084.png",
+      "local_image_path": "images/130084.png"
+    }
+  ],
+  "synonyms": [
+    "duplicate",
+    "copy",
+    "replicate",
+    "emulate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clone.mp3",
+  "local_sound_path": "sounds/clone.mp3"
+}

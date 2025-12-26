@@ -1,0 +1,82 @@
+{
+  "word": "clip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15056.png",
+      "local_image_path": "images/15056.png"
+    },
+    {
+      "pos": "n",
+      "example": "paper clip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15057.png",
+      "local_image_path": "images/15057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clip grass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15055.png",
+      "local_image_path": "images/15055.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15058.png",
+      "local_image_path": "images/15058.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116484.png",
+      "local_image_path": "images/116484.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116485.png",
+      "local_image_path": "images/116485.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116486.png",
+      "local_image_path": "images/116486.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116487.png",
+      "local_image_path": "images/116487.png"
+    }
+  ],
+  "synonyms": [
+    "excerpt",
+    "passage",
+    "extract",
+    "quotation",
+    "quote",
+    "piece",
+    "scene",
+    "fasten",
+    "attach",
+    "pin",
+    "staple",
+    "secure",
+    "fix"
+  ],
+  "antonyms": [
+    "undo"
+  ],
+  "similar_words": [
+    "clip art",
+    "clipboard",
+    "clipper",
+    "clipper chip",
+    "clipping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clip.mp3",
+  "local_sound_path": "sounds/clip.mp3"
+}

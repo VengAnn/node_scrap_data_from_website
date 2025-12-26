@@ -1,0 +1,49 @@
+{
+  "word": "atrophy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6220.png",
+      "local_image_path": "images/6220.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6222.png",
+      "local_image_path": "images/6222.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131198.png",
+      "local_image_path": "images/131198.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6221.png",
+      "local_image_path": "images/6221.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131199.png",
+      "local_image_path": "images/131199.png"
+    }
+  ],
+  "synonyms": [
+    "waste",
+    "wither",
+    "weaken",
+    "shrivel",
+    "degenerate",
+    "deteriorate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/atrophy.mp3",
+  "local_sound_path": "sounds/atrophy.mp3"
+}

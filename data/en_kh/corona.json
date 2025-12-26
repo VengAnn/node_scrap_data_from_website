@@ -1,0 +1,33 @@
+{
+  "word": "corona",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17769.png",
+      "local_image_path": "images/17769.png"
+    }
+  ],
+  "synonyms": [
+    "halo",
+    "nimbus",
+    "aura",
+    "radiance",
+    "aureole",
+    "crown"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coronagraph",
+    "coronal",
+    "coronary",
+    "coronary angioplasty",
+    "coronary artery disease",
+    "coronary bypass surgery",
+    "coronation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corona.mp3",
+  "local_sound_path": "sounds/corona.mp3"
+}

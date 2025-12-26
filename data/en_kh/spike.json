@@ -1,0 +1,55 @@
+{
+  "word": "spike",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83352.png",
+      "local_image_path": "images/83352.png"
+    },
+    {
+      "pos": "n",
+      "example": "baseball spike",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83353.png",
+      "local_image_path": "images/83353.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83354.png",
+      "local_image_path": "images/83354.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spike an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83355.png",
+      "local_image_path": "images/83355.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spike a rumor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83356.png",
+      "local_image_path": "images/83356.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spike sb's guns",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83357.png",
+      "local_image_path": "images/83357.png"
+    }
+  ],
+  "synonyms": [
+    "spear",
+    "impale",
+    "pierce",
+    "skewer"
+  ],
+  "antonyms": [
+    "foster"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spike.mp3",
+  "local_sound_path": "sounds/spike.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "reject",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71780.png",
+      "local_image_path": "images/71780.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reject an application",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71777.png",
+      "local_image_path": "images/71777.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reject a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71778.png",
+      "local_image_path": "images/71778.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reject defective products",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71779.png",
+      "local_image_path": "images/71779.png"
+    }
+  ],
+  "synonyms": [
+    "refuse",
+    "rebuff",
+    "decline",
+    "snub",
+    "discard",
+    "disallow",
+    "eliminate",
+    "deny"
+  ],
+  "antonyms": [
+    "accept",
+    "selection"
+  ],
+  "similar_words": [
+    "rejectable",
+    "rejectaneous",
+    "rejecter",
+    "rejection",
+    "rejectionslip",
+    "rejective",
+    "rejector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reject.mp3",
+  "local_sound_path": "sounds/reject.mp3"
+}

@@ -1,0 +1,71 @@
+{
+  "word": "peer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "peer group",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61168.png",
+      "local_image_path": "images/61168.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61169.png",
+      "local_image_path": "images/61169.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130631.png",
+      "local_image_path": "images/130631.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130632.png",
+      "local_image_path": "images/130632.png"
+    },
+    {
+      "pos": "n",
+      "example": "It will be very difficult to find his peer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61166.png",
+      "local_image_path": "images/61166.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61167.png",
+      "local_image_path": "images/61167.png"
+    }
+  ],
+  "synonyms": [
+    "equal",
+    "colleague",
+    "contemporary",
+    "friend",
+    "cohort",
+    "look",
+    "scrutinize",
+    "gaze",
+    "stare",
+    "examine",
+    "rake",
+    "take in"
+  ],
+  "antonyms": [
+    "glance"
+  ],
+  "similar_words": [
+    "peerage",
+    "peerdom",
+    "peeress",
+    "peerless",
+    "peerlessly",
+    "peerlessness",
+    "peery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peer.mp3",
+  "local_sound_path": "sounds/peer.mp3"
+}

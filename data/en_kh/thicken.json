@@ -1,0 +1,38 @@
+{
+  "word": "thicken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88909.png",
+      "local_image_path": "images/88909.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88908.png",
+      "local_image_path": "images/88908.png"
+    }
+  ],
+  "synonyms": [
+    "congeal",
+    "condense",
+    "set",
+    "solidify",
+    "clot",
+    "coagulate",
+    "gel",
+    "stiffen"
+  ],
+  "antonyms": [
+    "soften",
+    "thin"
+  ],
+  "similar_words": [
+    "thickening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thicken.mp3",
+  "local_sound_path": "sounds/thicken.mp3"
+}

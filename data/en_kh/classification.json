@@ -1,0 +1,42 @@
+{
+  "word": "classification",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "system of classification",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14833.png",
+      "local_image_path": "images/14833.png"
+    },
+    {
+      "pos": "n",
+      "example": "different classification",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14834.png",
+      "local_image_path": "images/14834.png"
+    },
+    {
+      "pos": "n",
+      "example": "classification of contents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14835.png",
+      "local_image_path": "images/14835.png"
+    }
+  ],
+  "synonyms": [
+    "categorization",
+    "organization",
+    "arrangement",
+    "sorting",
+    "taxonomy",
+    "category",
+    "class",
+    "group",
+    "grouping",
+    "set",
+    "division"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/classification.mp3",
+  "local_sound_path": "sounds/classification.mp3"
+}

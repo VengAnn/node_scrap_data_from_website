@@ -1,0 +1,32 @@
+{
+  "word": "combatant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "in modern wars hoth combatants and combatants are killed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15861.png",
+      "local_image_path": "images/15861.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15860.png",
+      "local_image_path": "images/15860.png"
+    }
+  ],
+  "synonyms": [
+    "fighter",
+    "soldier",
+    "enemy",
+    "warrior",
+    "participant",
+    "opponent",
+    "competitor"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/combatant.mp3",
+  "local_sound_path": "sounds/combatant.mp3"
+}

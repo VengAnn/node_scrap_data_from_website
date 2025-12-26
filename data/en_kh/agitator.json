@@ -1,0 +1,29 @@
+{
+  "word": "agitator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "political agitator",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2972.png",
+      "local_image_path": "images/2972.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113455.png",
+      "local_image_path": "images/113455.png"
+    }
+  ],
+  "synonyms": [
+    "campaigner",
+    "protester",
+    "dissenter",
+    "activist"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agitator.mp3",
+  "local_sound_path": "sounds/agitator.mp3"
+}

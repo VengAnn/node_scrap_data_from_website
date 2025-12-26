@@ -1,0 +1,35 @@
+{
+  "word": "corruption",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "political corruption",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17879.png",
+      "local_image_path": "images/17879.png"
+    },
+    {
+      "pos": "n",
+      "example": "the corruption of a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17880.png",
+      "local_image_path": "images/17880.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17881.png",
+      "local_image_path": "images/17881.png"
+    }
+  ],
+  "synonyms": [
+    "version",
+    "distortion"
+  ],
+  "antonyms": [
+    "honesty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corruption.mp3",
+  "local_sound_path": "sounds/corruption.mp3"
+}

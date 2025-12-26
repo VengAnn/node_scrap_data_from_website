@@ -1,0 +1,37 @@
+{
+  "word": "elegant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elegant furnishings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24255.png",
+      "local_image_path": "images/24255.png"
+    },
+    {
+      "pos": "adj",
+      "example": "elegant speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24256.png",
+      "local_image_path": "images/24256.png"
+    }
+  ],
+  "synonyms": [
+    "stylish",
+    "graceful",
+    "well-dressed",
+    "neat",
+    "chic",
+    "sophisticated",
+    "smart",
+    "classy",
+    "tasteful",
+    "refined"
+  ],
+  "antonyms": [
+    "inelegant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elegant.mp3",
+  "local_sound_path": "sounds/elegant.mp3"
+}

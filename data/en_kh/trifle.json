@@ -1,0 +1,65 @@
+{
+  "word": "trifle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Don’t trifle with me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91736.png",
+      "local_image_path": "images/91736.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Don't just trifle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91737.png",
+      "local_image_path": "images/91737.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy a trifle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91734.png",
+      "local_image_path": "images/91734.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91735.png",
+      "local_image_path": "images/91735.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128480.png",
+      "local_image_path": "images/128480.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91738.png",
+      "local_image_path": "images/91738.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trifle with me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91739.png",
+      "local_image_path": "images/91739.png"
+    }
+  ],
+  "synonyms": [
+    "little",
+    "touch",
+    "bit",
+    "drop",
+    "flirt",
+    "toy",
+    "play",
+    "philander",
+    "seduce",
+    "dally"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trifle.mp3",
+  "local_sound_path": "sounds/trifle.mp3"
+}

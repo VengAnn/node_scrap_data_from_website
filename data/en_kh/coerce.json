@@ -1,0 +1,41 @@
+{
+  "word": "coerce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "they were coerced into signing the contact",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15479.png",
+      "local_image_path": "images/15479.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116608.png",
+      "local_image_path": "images/116608.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116609.png",
+      "local_image_path": "images/116609.png"
+    }
+  ],
+  "synonyms": [
+    "force",
+    "pressurize",
+    "compel",
+    "bully",
+    "intimidate",
+    "drive",
+    "persuade",
+    "press",
+    "pressure",
+    "strong-arm"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coerce.mp3",
+  "local_sound_path": "sounds/coerce.mp3"
+}

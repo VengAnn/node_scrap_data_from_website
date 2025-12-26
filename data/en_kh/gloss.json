@@ -1,0 +1,63 @@
+{
+  "word": "gloss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32028.png",
+      "local_image_path": "images/32028.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32031.png",
+      "local_image_path": "images/32031.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gloss a pot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32029.png",
+      "local_image_path": "images/32029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32030.png",
+      "local_image_path": "images/32030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32032.png",
+      "local_image_path": "images/32032.png"
+    }
+  ],
+  "synonyms": [
+    "interpretation",
+    "misinformation",
+    "spin",
+    "annotate",
+    "interpret",
+    "explain",
+    "note",
+    "mark"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "gloss over",
+    "glossal",
+    "glossarial",
+    "glossarist",
+    "glossary",
+    "glossily",
+    "glossiness",
+    "glossography",
+    "glossologist",
+    "glossology",
+    "glossy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gloss.mp3",
+  "local_sound_path": "sounds/gloss.mp3"
+}

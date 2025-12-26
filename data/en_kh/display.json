@@ -1,0 +1,54 @@
+{
+  "word": "display",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "display of anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22068.png",
+      "local_image_path": "images/22068.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118575.png",
+      "local_image_path": "images/118575.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118576.png",
+      "local_image_path": "images/118576.png"
+    },
+    {
+      "pos": "tv",
+      "example": "display machandise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22066.png",
+      "local_image_path": "images/22066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "display anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22067.png",
+      "local_image_path": "images/22067.png"
+    }
+  ],
+  "synonyms": [
+    "parade",
+    "spectacle",
+    "ceremony",
+    "pageant",
+    "flaunt",
+    "strut",
+    "pose",
+    "flash",
+    "brandish"
+  ],
+  "antonyms": [
+    "conceal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/display.mp3",
+  "local_sound_path": "sounds/display.mp3"
+}

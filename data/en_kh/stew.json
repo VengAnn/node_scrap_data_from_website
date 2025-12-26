@@ -1,0 +1,54 @@
+{
+  "word": "stew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "vegetables stew",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84707.png",
+      "local_image_path": "images/84707.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stew about nothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84708.png",
+      "local_image_path": "images/84708.png"
+    },
+    {
+      "pos": "n",
+      "example": "meat stew",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84709.png",
+      "local_image_path": "images/84709.png"
+    },
+    {
+      "pos": "n",
+      "example": "get into a stew",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84710.png",
+      "local_image_path": "images/84710.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stewed chicken",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84706.png",
+      "local_image_path": "images/84706.png"
+    }
+  ],
+  "synonyms": [
+    "simmer",
+    "bubble",
+    "poach",
+    "cook",
+    "heat"
+  ],
+  "antonyms": [
+    "freeze"
+  ],
+  "similar_words": [
+    "steward",
+    "stewardess",
+    "stewardship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stew.mp3",
+  "local_sound_path": "sounds/stew.mp3"
+}

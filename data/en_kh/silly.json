@@ -1,0 +1,41 @@
+{
+  "word": "silly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "silly laughter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80124.png",
+      "local_image_path": "images/80124.png"
+    },
+    {
+      "pos": "adj",
+      "example": "silly scheme",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80125.png",
+      "local_image_path": "images/80125.png"
+    }
+  ],
+  "synonyms": [
+    "stupid",
+    "ridiculous",
+    "impractical",
+    "mad",
+    "childish",
+    "inane",
+    "asinine",
+    "juvenile",
+    "hare-brained",
+    "daft"
+  ],
+  "antonyms": [
+    "sensible",
+    "important"
+  ],
+  "similar_words": [
+    "silly season",
+    "silly-billy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/silly.mp3",
+  "local_sound_path": "sounds/silly.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "airlift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3148.png",
+      "local_image_path": "images/3148.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3149.png",
+      "local_image_path": "images/3149.png"
+    }
+  ],
+  "synonyms": [
+    "fly",
+    "transfer",
+    "winch",
+    "lift"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airlift.mp3",
+  "local_sound_path": "sounds/airlift.mp3"
+}

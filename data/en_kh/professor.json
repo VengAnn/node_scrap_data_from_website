@@ -1,0 +1,32 @@
+{
+  "word": "professor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "professor of history",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67392.png",
+      "local_image_path": "images/67392.png"
+    }
+  ],
+  "synonyms": [
+    "lecturer",
+    "tutor",
+    "instructor",
+    "dean",
+    "fellow",
+    "don"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "professorate",
+    "professoress",
+    "professorial",
+    "professorially",
+    "professoriate",
+    "professorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/professor.mp3",
+  "local_sound_path": "sounds/professor.mp3"
+}

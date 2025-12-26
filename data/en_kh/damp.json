@@ -1,0 +1,48 @@
+{
+  "word": "damp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19568.png",
+      "local_image_path": "images/19568.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19569.png",
+      "local_image_path": "images/19569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "damp a cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19570.png",
+      "local_image_path": "images/19570.png"
+    }
+  ],
+  "synonyms": [
+    "dampen",
+    "moisten",
+    "humidify",
+    "wet"
+  ],
+  "antonyms": [
+    "dry",
+    "dryness",
+    "enthusiastic",
+    "encourage"
+  ],
+  "similar_words": [
+    "damp-down",
+    "dampen",
+    "dampener",
+    "damper",
+    "dampish",
+    "damply",
+    "dampness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/damp.mp3",
+  "local_sound_path": "sounds/damp.mp3"
+}

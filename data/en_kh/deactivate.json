@@ -1,0 +1,37 @@
+{
+  "word": "deactivate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "The switch deactivates the alarm.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111670.png",
+      "local_image_path": "images/111670.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117745.png",
+      "local_image_path": "images/117745.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117746.png",
+      "local_image_path": "images/117746.png"
+    }
+  ],
+  "synonyms": [
+    "neutralize",
+    "disable",
+    "switch off",
+    "disengage"
+  ],
+  "antonyms": [
+    "activate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deactivate.mp3",
+  "local_sound_path": "sounds/deactivate.mp3"
+}

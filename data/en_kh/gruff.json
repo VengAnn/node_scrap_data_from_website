@@ -1,0 +1,45 @@
+{
+  "word": "gruff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gruff voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33122.png",
+      "local_image_path": "images/33122.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gruff manner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33123.png",
+      "local_image_path": "images/33123.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33124.png",
+      "local_image_path": "images/33124.png"
+    }
+  ],
+  "synonyms": [
+    "hoarse",
+    "husky",
+    "gravely",
+    "thick",
+    "harsh",
+    "throaty",
+    "deep",
+    "gravelly"
+  ],
+  "antonyms": [
+    "friendly",
+    "soft"
+  ],
+  "similar_words": [
+    "gruffly",
+    "gruffness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gruff.mp3",
+  "local_sound_path": "sounds/gruff.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "endeavor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24868.png",
+      "local_image_path": "images/24868.png"
+    },
+    {
+      "pos": "n",
+      "example": "succeed by endeavor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24869.png",
+      "local_image_path": "images/24869.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119167.png",
+      "local_image_path": "images/119167.png"
+    }
+  ],
+  "synonyms": [
+    "effort",
+    "attempt",
+    "try",
+    "enterprise",
+    "venture",
+    "undertaking"
+  ],
+  "antonyms": [
+    "neglect"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endeavor.mp3",
+  "local_sound_path": "sounds/endeavor.mp3"
+}

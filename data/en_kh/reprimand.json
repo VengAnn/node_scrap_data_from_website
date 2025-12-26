@@ -1,0 +1,37 @@
+{
+  "word": "reprimand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72452.png",
+      "local_image_path": "images/72452.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72451.png",
+      "local_image_path": "images/72451.png"
+    }
+  ],
+  "synonyms": [
+    "chastise",
+    "reproach",
+    "lecture",
+    "scold",
+    "chide",
+    "castigate",
+    "admonish",
+    "reprove",
+    "criticize",
+    "tick off"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reprimand.mp3",
+  "local_sound_path": "sounds/reprimand.mp3"
+}

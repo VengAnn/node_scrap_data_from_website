@@ -1,0 +1,44 @@
+{
+  "word": "chit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14261.png",
+      "local_image_path": "images/14261.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14262.png",
+      "local_image_path": "images/14262.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116276.png",
+      "local_image_path": "images/116276.png"
+    }
+  ],
+  "synonyms": [
+    "receipt",
+    "check",
+    "bill",
+    "tab",
+    "account",
+    "tally",
+    "coupon",
+    "voucher",
+    "ticket"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chit-chat",
+    "chitter",
+    "chitterlings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chit.mp3",
+  "local_sound_path": "sounds/chit.mp3"
+}

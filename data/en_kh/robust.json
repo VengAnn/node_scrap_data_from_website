@@ -1,0 +1,33 @@
+{
+  "word": "robust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "robust child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73912.png",
+      "local_image_path": "images/73912.png"
+    }
+  ],
+  "synonyms": [
+    "healthy",
+    "vigorous",
+    "hearty",
+    "strong",
+    "tough",
+    "forceful",
+    "stout",
+    "hardy"
+  ],
+  "antonyms": [
+    "weak"
+  ],
+  "similar_words": [
+    "robustious",
+    "robustly",
+    "robustness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/robust.mp3",
+  "local_sound_path": "sounds/robust.mp3"
+}

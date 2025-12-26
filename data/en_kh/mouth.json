@@ -1,0 +1,54 @@
+{
+  "word": "mouth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "human mouth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110764.png",
+      "local_image_path": "images/110764.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mouth loyalty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110765.png",
+      "local_image_path": "images/110765.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mouth one's words.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110766.png",
+      "local_image_path": "images/110766.png"
+    }
+  ],
+  "synonyms": [
+    "bravado",
+    "swagger",
+    "hot air",
+    "talk",
+    "say",
+    "mime",
+    "state",
+    "utter",
+    "reply",
+    "pronounce",
+    "speak"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mouth-to-mouth",
+    "mouth-to-mouth resuscitation",
+    "mouthed",
+    "mouther",
+    "mouthful",
+    "mouthiness",
+    "mouthless",
+    "mouthpiece",
+    "mouthwash",
+    "mouthwatering",
+    "mouthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mouth.mp3",
+  "local_sound_path": "sounds/mouth.mp3"
+}

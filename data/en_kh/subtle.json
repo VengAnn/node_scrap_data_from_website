@@ -1,0 +1,60 @@
+{
+  "word": "subtle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85938.png",
+      "local_image_path": "images/85938.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85939.png",
+      "local_image_path": "images/85939.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85940.png",
+      "local_image_path": "images/85940.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subtle criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85941.png",
+      "local_image_path": "images/85941.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subtle point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85942.png",
+      "local_image_path": "images/85942.png"
+    }
+  ],
+  "synonyms": [
+    "clever",
+    "cunning",
+    "sly",
+    "insinuating",
+    "ingenious",
+    "devious",
+    "crafty",
+    "shrewd",
+    "tricky",
+    "artful"
+  ],
+  "antonyms": [
+    "obvious",
+    "blatant",
+    "obtuse"
+  ],
+  "similar_words": [
+    "subtleness",
+    "subtlety"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subtle.mp3",
+  "local_sound_path": "sounds/subtle.mp3"
+}

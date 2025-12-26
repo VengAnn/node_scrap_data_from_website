@@ -1,0 +1,43 @@
+{
+  "word": "drown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23230.png",
+      "local_image_path": "images/23230.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drown a cat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23231.png",
+      "local_image_path": "images/23231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drown the earth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23232.png",
+      "local_image_path": "images/23232.png"
+    }
+  ],
+  "synonyms": [
+    "drench",
+    "soak",
+    "swamp",
+    "saturate",
+    "flood",
+    "submerge",
+    "engulf",
+    "inundate"
+  ],
+  "antonyms": [
+    "float",
+    "amplify",
+    "dry"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drown.mp3",
+  "local_sound_path": "sounds/drown.mp3"
+}

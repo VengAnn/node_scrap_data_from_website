@@ -1,0 +1,40 @@
+{
+  "word": "reluctant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71960.png",
+      "local_image_path": "images/71960.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126796.png",
+      "local_image_path": "images/126796.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126797.png",
+      "local_image_path": "images/126797.png"
+    }
+  ],
+  "synonyms": [
+    "unwilling",
+    "disinclined",
+    "loath",
+    "hesitant",
+    "indisposed",
+    "averse"
+  ],
+  "antonyms": [
+    "keen",
+    "enthusiastic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reluctant.mp3",
+  "local_sound_path": "sounds/reluctant.mp3"
+}

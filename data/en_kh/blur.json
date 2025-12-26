@@ -1,0 +1,50 @@
+{
+  "word": "blur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9847.png",
+      "local_image_path": "images/9847.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9846.png",
+      "local_image_path": "images/9846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tears blurred her eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9845.png",
+      "local_image_path": "images/9845.png"
+    }
+  ],
+  "synonyms": [
+    "obscure",
+    "cloud",
+    "hide",
+    "conceal",
+    "confuse",
+    "smudge",
+    "smear",
+    "distort",
+    "mist",
+    "fog"
+  ],
+  "antonyms": [
+    "clear",
+    "clarify"
+  ],
+  "similar_words": [
+    "blurred",
+    "blurred vision",
+    "blurriness",
+    "blurry",
+    "blurt"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blur.mp3",
+  "local_sound_path": "sounds/blur.mp3"
+}

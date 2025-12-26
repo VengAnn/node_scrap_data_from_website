@@ -1,0 +1,92 @@
+{
+  "word": "over",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "over amount",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58557.png",
+      "local_image_path": "images/58557.png"
+    },
+    {
+      "pos": "adj",
+      "example": "war is over",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58558.png",
+      "local_image_path": "images/58558.png"
+    },
+    {
+      "pos": "adv",
+      "example": "over cross",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58556.png",
+      "local_image_path": "images/58556.png"
+    },
+    {
+      "pos": "pref",
+      "example": "eat -> overeat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58559.png",
+      "local_image_path": "images/58559.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125056.png",
+      "local_image_path": "images/125056.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125057.png",
+      "local_image_path": "images/125057.png"
+    },
+    {
+      "pos": "prep",
+      "example": "over the house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58555.png",
+      "local_image_path": "images/58555.png"
+    }
+  ],
+  "synonyms": [
+    "above",
+    "on",
+    "upon"
+  ],
+  "antonyms": [
+    "under",
+    "beneath"
+  ],
+  "similar_words": [
+    "over class",
+    "over costly",
+    "over count",
+    "over credulous",
+    "over cunning",
+    "over curious",
+    "over delicate",
+    "over diligent",
+    "over far",
+    "over fatigue",
+    "over feed",
+    "over fierce",
+    "over fill",
+    "over flood",
+    "over flourish",
+    "over free",
+    "over freight",
+    "over get",
+    "over gild",
+    "over gird",
+    "over glad",
+    "over glance",
+    "over gloom",
+    "over gorge",
+    "over great",
+    "over greedy",
+    "over happy",
+    "over hard",
+    "over hardy",
+    "over haste"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/over.mp3",
+  "local_sound_path": "sounds/over.mp3"
+}

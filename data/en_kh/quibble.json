@@ -1,0 +1,32 @@
+{
+  "word": "quibble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69550.png",
+      "local_image_path": "images/69550.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69549.png",
+      "local_image_path": "images/69549.png"
+    }
+  ],
+  "synonyms": [
+    "nit-picking",
+    "equivocate",
+    "hedge",
+    "nit-pick",
+    "cavil"
+  ],
+  "antonyms": [
+    "agree"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quibble.mp3",
+  "local_sound_path": "sounds/quibble.mp3"
+}

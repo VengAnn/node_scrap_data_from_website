@@ -1,0 +1,38 @@
+{
+  "word": "clank",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14792.png",
+      "local_image_path": "images/14792.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14794.png",
+      "local_image_path": "images/14794.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14793.png",
+      "local_image_path": "images/14793.png"
+    }
+  ],
+  "synonyms": [
+    "clang",
+    "clink",
+    "clatter",
+    "clash",
+    "bang",
+    "crash",
+    "knock"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clank.mp3",
+  "local_sound_path": "sounds/clank.mp3"
+}

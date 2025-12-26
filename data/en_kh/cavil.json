@@ -1,0 +1,32 @@
+{
+  "word": "cavil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13456.png",
+      "local_image_path": "images/13456.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116093.png",
+      "local_image_path": "images/116093.png"
+    }
+  ],
+  "synonyms": [
+    "quibble",
+    "complain",
+    "carp",
+    "niggle",
+    "object"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cavil.mp3",
+  "local_sound_path": "sounds/cavil.mp3"
+}

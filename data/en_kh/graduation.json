@@ -1,0 +1,38 @@
+{
+  "word": "graduation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "after graduation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32490.png",
+      "local_image_path": "images/32490.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32491.png",
+      "local_image_path": "images/32491.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32492.png",
+      "local_image_path": "images/32492.png"
+    }
+  ],
+  "synonyms": [
+    "commencement",
+    "calibration",
+    "division",
+    "measurement",
+    "verification",
+    "ranking",
+    "classification"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/graduation.mp3",
+  "local_sound_path": "sounds/graduation.mp3"
+}

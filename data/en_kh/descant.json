@@ -1,0 +1,31 @@
+{
+  "word": "descant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20788.png",
+      "local_image_path": "images/20788.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118100.png",
+      "local_image_path": "images/118100.png"
+    }
+  ],
+  "synonyms": [
+    "melody",
+    "harmony",
+    "part",
+    "line",
+    "tune",
+    "air"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/descant.mp3",
+  "local_sound_path": "sounds/descant.mp3"
+}

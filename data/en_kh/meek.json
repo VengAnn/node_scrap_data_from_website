@@ -1,0 +1,39 @@
+{
+  "word": "meek",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She's as meek as a lamb.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107292.png",
+      "local_image_path": "images/107292.png"
+    }
+  ],
+  "synonyms": [
+    "humble",
+    "timid",
+    "submissive",
+    "gentle",
+    "docile",
+    "modest",
+    "compliant",
+    "mild",
+    "quiet",
+    "lowly",
+    "weak",
+    "fearful",
+    "tame"
+  ],
+  "antonyms": [
+    "assertive",
+    "overbearing"
+  ],
+  "similar_words": [
+    "meeken",
+    "meekly",
+    "meekness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meek.mp3",
+  "local_sound_path": "sounds/meek.mp3"
+}

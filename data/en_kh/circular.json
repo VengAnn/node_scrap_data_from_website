@@ -1,0 +1,44 @@
+{
+  "word": "circular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "circular form",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14584.png",
+      "local_image_path": "images/14584.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14585.png",
+      "local_image_path": "images/14585.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116343.png",
+      "local_image_path": "images/116343.png"
+    }
+  ],
+  "synonyms": [
+    "round",
+    "spherical",
+    "rounded",
+    "globular"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "circular file",
+    "circular measure",
+    "circular saw",
+    "circularity",
+    "circularization",
+    "circularize",
+    "circularizer",
+    "circularly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/circular.mp3",
+  "local_sound_path": "sounds/circular.mp3"
+}

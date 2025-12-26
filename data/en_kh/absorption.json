@@ -1,0 +1,45 @@
+{
+  "word": "absorption",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "by absorption",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1668.png",
+      "local_image_path": "images/1668.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113079.png",
+      "local_image_path": "images/113079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113080.png",
+      "local_image_path": "images/113080.png"
+    }
+  ],
+  "synonyms": [
+    "fascination",
+    "interest",
+    "captivation",
+    "engagement",
+    "immersion",
+    "concentration",
+    "amalgamation",
+    "incorporation",
+    "assimilation",
+    "combination",
+    "inclusion"
+  ],
+  "antonyms": [
+    "rejection",
+    "distraction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absorption.mp3",
+  "local_sound_path": "sounds/absorption.mp3"
+}

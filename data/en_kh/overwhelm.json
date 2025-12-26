@@ -1,0 +1,54 @@
+{
+  "word": "overwhelm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59004.png",
+      "local_image_path": "images/59004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overwhelm the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59005.png",
+      "local_image_path": "images/59005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His emotions overwhelmed him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59006.png",
+      "local_image_path": "images/59006.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125101.png",
+      "local_image_path": "images/125101.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125102.png",
+      "local_image_path": "images/125102.png"
+    }
+  ],
+  "synonyms": [
+    "overpower",
+    "overcome",
+    "engulf",
+    "devastate",
+    "beat",
+    "crush",
+    "rout",
+    "overthrow",
+    "annihilate"
+  ],
+  "antonyms": [
+    "capitulate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overwhelm.mp3",
+  "local_sound_path": "sounds/overwhelm.mp3"
+}

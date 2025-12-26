@@ -1,0 +1,40 @@
+{
+  "word": "bop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10223.png",
+      "local_image_path": "images/10223.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115403.png",
+      "local_image_path": "images/115403.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10224.png",
+      "local_image_path": "images/10224.png"
+    }
+  ],
+  "synonyms": [
+    "dance",
+    "shindig",
+    "do",
+    "barn dance",
+    "boogie",
+    "caper",
+    "jive",
+    "party",
+    "jig"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bop.mp3",
+  "local_sound_path": "sounds/bop.mp3"
+}

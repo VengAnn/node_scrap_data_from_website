@@ -1,0 +1,63 @@
+{
+  "word": "bellow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "he bellowed with pain when his teeth was pulled \n\nout",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8191.png",
+      "local_image_path": "images/8191.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8193.png",
+      "local_image_path": "images/8193.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8192.png",
+      "local_image_path": "images/8192.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114879.png",
+      "local_image_path": "images/114879.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114880.png",
+      "local_image_path": "images/114880.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114881.png",
+      "local_image_path": "images/114881.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114882.png",
+      "local_image_path": "images/114882.png"
+    }
+  ],
+  "synonyms": [
+    "roar",
+    "shout",
+    "yell",
+    "bawl",
+    "holler",
+    "thunder"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bellow.mp3",
+  "local_sound_path": "sounds/bellow.mp3"
+}

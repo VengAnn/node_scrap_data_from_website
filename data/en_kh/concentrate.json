@@ -1,0 +1,55 @@
+{
+  "word": "concentrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16422.png",
+      "local_image_path": "images/16422.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117011.png",
+      "local_image_path": "images/117011.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117012.png",
+      "local_image_path": "images/117012.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16421.png",
+      "local_image_path": "images/16421.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117013.png",
+      "local_image_path": "images/117013.png"
+    }
+  ],
+  "synonyms": [
+    "essence",
+    "quintessence",
+    "reduce",
+    "thicken",
+    "strengthen",
+    "purify",
+    "distill"
+  ],
+  "antonyms": [
+    "wander",
+    "disperse",
+    "dilute",
+    "daydream"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concentrate.mp3",
+  "local_sound_path": "sounds/concentrate.mp3"
+}

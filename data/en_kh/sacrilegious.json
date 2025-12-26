@@ -1,0 +1,36 @@
+{
+  "word": "sacrilegious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74980.png",
+      "local_image_path": "images/74980.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127298.png",
+      "local_image_path": "images/127298.png"
+    }
+  ],
+  "synonyms": [
+    "blasphemous",
+    "heretical",
+    "profane",
+    "irreverent",
+    "impious",
+    "disrespectful"
+  ],
+  "antonyms": [
+    "reverent"
+  ],
+  "similar_words": [
+    "sacrilegiously",
+    "sacrilegiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sacrilegious.mp3",
+  "local_sound_path": "sounds/sacrilegious.mp3"
+}

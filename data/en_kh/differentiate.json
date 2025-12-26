@@ -1,0 +1,38 @@
+{
+  "word": "differentiate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21291.png",
+      "local_image_path": "images/21291.png"
+    },
+    {
+      "pos": "tv",
+      "example": "One character is not clearly differentiated from another.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21290.png",
+      "local_image_path": "images/21290.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118287.png",
+      "local_image_path": "images/118287.png"
+    }
+  ],
+  "synonyms": [
+    "separate",
+    "distinguish",
+    "discriminate",
+    "discern",
+    "segregate"
+  ],
+  "antonyms": [
+    "confuse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/differentiate.mp3",
+  "local_sound_path": "sounds/differentiate.mp3"
+}

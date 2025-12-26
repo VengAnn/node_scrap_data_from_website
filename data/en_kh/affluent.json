@@ -1,0 +1,35 @@
+{
+  "word": "affluent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "affulent family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2753.png",
+      "local_image_path": "images/2753.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2754.png",
+      "local_image_path": "images/2754.png"
+    }
+  ],
+  "synonyms": [
+    "rich",
+    "wealthy",
+    "prosperous",
+    "comfortable",
+    "well-off",
+    "well-to-do"
+  ],
+  "antonyms": [
+    "poor"
+  ],
+  "similar_words": [
+    "affluently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affluent.mp3",
+  "local_sound_path": "sounds/affluent.mp3"
+}

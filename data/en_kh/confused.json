@@ -1,0 +1,45 @@
+{
+  "word": "confused",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "all your changes of plan have made me totally confused",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16747.png",
+      "local_image_path": "images/16747.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117218.png",
+      "local_image_path": "images/117218.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117219.png",
+      "local_image_path": "images/117219.png"
+    }
+  ],
+  "synonyms": [
+    "puzzled",
+    "perplexed",
+    "baffled",
+    "mystified",
+    "bewildered",
+    "bemused",
+    "befuddled",
+    "mistaken",
+    "confounded",
+    "muddled"
+  ],
+  "antonyms": [
+    "enlightened",
+    "orderly",
+    "distinguished"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confused.mp3",
+  "local_sound_path": "sounds/confused.mp3"
+}

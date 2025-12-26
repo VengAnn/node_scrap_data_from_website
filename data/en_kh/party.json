@@ -1,0 +1,56 @@
+{
+  "word": "party",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "party dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60383.png",
+      "local_image_path": "images/60383.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60379.png",
+      "local_image_path": "images/60379.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60380.png",
+      "local_image_path": "images/60380.png"
+    },
+    {
+      "pos": "n",
+      "example": "political party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60381.png",
+      "local_image_path": "images/60381.png"
+    },
+    {
+      "pos": "n",
+      "example": "party of three",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60382.png",
+      "local_image_path": "images/60382.png"
+    }
+  ],
+  "synonyms": [
+    "individual",
+    "person",
+    "one",
+    "someone",
+    "celebrate",
+    "gather",
+    "revel",
+    "groove"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "party wall",
+    "party-coated",
+    "party-man",
+    "partyism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/party.mp3",
+  "local_sound_path": "sounds/party.mp3"
+}

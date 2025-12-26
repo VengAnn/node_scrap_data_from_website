@@ -1,0 +1,48 @@
+{
+  "word": "swish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "swish through the air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86910.png",
+      "local_image_path": "images/86910.png"
+    },
+    {
+      "pos": "iv",
+      "example": "petticoats swish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86911.png",
+      "local_image_path": "images/86911.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86914.png",
+      "local_image_path": "images/86914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swish a sword",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86912.png",
+      "local_image_path": "images/86912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swish water around",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86913.png",
+      "local_image_path": "images/86913.png"
+    }
+  ],
+  "synonyms": [
+    "hiss",
+    "whoosh",
+    "whistle",
+    "whisper",
+    "rustle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swish.mp3",
+  "local_sound_path": "sounds/swish.mp3"
+}

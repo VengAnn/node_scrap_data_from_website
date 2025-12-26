@@ -1,0 +1,29 @@
+{
+  "word": "upbeat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96702.png",
+      "local_image_path": "images/96702.png"
+    }
+  ],
+  "synonyms": [
+    "positive",
+    "cheerful",
+    "optimistic",
+    "buoyant",
+    "bubbly",
+    "up",
+    "happy",
+    "cheery"
+  ],
+  "antonyms": [
+    "downbeat"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/upbeat.mp3",
+  "local_sound_path": "sounds/upbeat.mp3"
+}

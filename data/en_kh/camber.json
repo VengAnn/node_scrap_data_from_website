@@ -1,0 +1,35 @@
+{
+  "word": "camber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12520.png",
+      "local_image_path": "images/12520.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the street is quite steeply cambered at this point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12521.png",
+      "local_image_path": "images/12521.png"
+    }
+  ],
+  "synonyms": [
+    "arc",
+    "bend",
+    "bow",
+    "curvature",
+    "arch",
+    "incline",
+    "dip",
+    "rise",
+    "pitch",
+    "slope"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/camber.mp3",
+  "local_sound_path": "sounds/camber.mp3"
+}

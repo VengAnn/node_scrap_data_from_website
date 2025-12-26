@@ -1,0 +1,68 @@
+{
+  "word": "tally",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87392.png",
+      "local_image_path": "images/87392.png"
+    },
+    {
+      "pos": "n",
+      "example": "expense tally",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87388.png",
+      "local_image_path": "images/87388.png"
+    },
+    {
+      "pos": "n",
+      "example": "financial tally",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87389.png",
+      "local_image_path": "images/87389.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tally votes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87390.png",
+      "local_image_path": "images/87390.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tally expenses",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87391.png",
+      "local_image_path": "images/87391.png"
+    }
+  ],
+  "synonyms": [
+    "match",
+    "check",
+    "correspond",
+    "agree",
+    "suit",
+    "square",
+    "accord",
+    "coincide",
+    "fit",
+    "harmonize",
+    "compute",
+    "count",
+    "reckon",
+    "score",
+    "total",
+    "register",
+    "record",
+    "note",
+    "calculate",
+    "mark"
+  ],
+  "antonyms": [
+    "clash"
+  ],
+  "similar_words": [
+    "tally clerk",
+    "tally man"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tally.mp3",
+  "local_sound_path": "sounds/tally.mp3"
+}

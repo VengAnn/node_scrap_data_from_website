@@ -1,0 +1,29 @@
+{
+  "word": "ignore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37200.png",
+      "local_image_path": "images/37200.png"
+    }
+  ],
+  "synonyms": [
+    "disregard",
+    "overlook",
+    "discount",
+    "flout",
+    "snub",
+    "look through"
+  ],
+  "antonyms": [
+    "notice"
+  ],
+  "similar_words": [
+    "ignorer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ignore.mp3",
+  "local_sound_path": "sounds/ignore.mp3"
+}

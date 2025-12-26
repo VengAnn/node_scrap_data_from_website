@@ -1,0 +1,55 @@
+{
+  "word": "dissent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22174.png",
+      "local_image_path": "images/22174.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22175.png",
+      "local_image_path": "images/22175.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118613.png",
+      "local_image_path": "images/118613.png"
+    }
+  ],
+  "synonyms": [
+    "opposition",
+    "disagreement",
+    "dissension",
+    "discord",
+    "rebellion",
+    "conflict",
+    "disagree",
+    "oppose",
+    "rebel",
+    "dispute",
+    "differ",
+    "balk",
+    "baulk",
+    "divide",
+    "vary"
+  ],
+  "antonyms": [
+    "agree",
+    "consent"
+  ],
+  "similar_words": [
+    "dissentanious",
+    "dissenter",
+    "dissentient",
+    "dissenting",
+    "dissentious"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissent.mp3",
+  "local_sound_path": "sounds/dissent.mp3"
+}

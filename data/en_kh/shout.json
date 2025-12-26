@@ -1,0 +1,41 @@
+{
+  "word": "shout",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79512.png",
+      "local_image_path": "images/79512.png"
+    },
+    {
+      "pos": "v",
+      "example": "They shouted at me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79511.png",
+      "local_image_path": "images/79511.png"
+    }
+  ],
+  "synonyms": [
+    "cry",
+    "yell",
+    "scream",
+    "screech",
+    "roar",
+    "bellow",
+    "bark",
+    "bawl",
+    "holler",
+    "call"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [
+    "shouter",
+    "shouting",
+    "shouting distance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shout.mp3",
+  "local_sound_path": "sounds/shout.mp3"
+}

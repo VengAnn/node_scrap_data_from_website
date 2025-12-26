@@ -1,0 +1,83 @@
+{
+  "word": "bank",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7331.png",
+      "local_image_path": "images/7331.png"
+    },
+    {
+      "pos": "iv",
+      "example": "where do you bank?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7334.png",
+      "local_image_path": "images/7334.png"
+    },
+    {
+      "pos": "n",
+      "example": "bank of a river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7329.png",
+      "local_image_path": "images/7329.png"
+    },
+    {
+      "pos": "n",
+      "example": "savings bank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7332.png",
+      "local_image_path": "images/7332.png"
+    },
+    {
+      "pos": "tv",
+      "example": "people are banking up a stream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7330.png",
+      "local_image_path": "images/7330.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Sim banks half his salary every month",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7333.png",
+      "local_image_path": "images/7333.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114537.png",
+      "local_image_path": "images/114537.png"
+    }
+  ],
+  "synonyms": [
+    "tilt",
+    "pitch",
+    "turn",
+    "lean",
+    "veer",
+    "incline",
+    "slope"
+  ],
+  "antonyms": [
+    "withdraw",
+    "disperse"
+  ],
+  "similar_words": [
+    "bank acceptance",
+    "bank account",
+    "bank discount",
+    "bank holiday",
+    "bank paper",
+    "bank rate",
+    "bank roll",
+    "bank roller",
+    "bank transfern",
+    "bank-note",
+    "bank-side",
+    "bankable",
+    "bankbook",
+    "bankcard",
+    "banker",
+    "banking",
+    "bankrupt"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bank.mp3",
+  "local_sound_path": "sounds/bank.mp3"
+}

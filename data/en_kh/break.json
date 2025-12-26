@@ -1,0 +1,104 @@
+{
+  "word": "break",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "glasses break if you drop dwon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10843.png",
+      "local_image_path": "images/10843.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a break from work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131369.png",
+      "local_image_path": "images/131369.png"
+    },
+    {
+      "pos": "tv",
+      "example": "break a glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10839.png",
+      "local_image_path": "images/10839.png"
+    },
+    {
+      "pos": "tv",
+      "example": "break the news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10840.png",
+      "local_image_path": "images/10840.png"
+    },
+    {
+      "pos": "tv",
+      "example": "break the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10841.png",
+      "local_image_path": "images/10841.png"
+    },
+    {
+      "pos": "tv",
+      "example": "break business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10842.png",
+      "local_image_path": "images/10842.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115566.png",
+      "local_image_path": "images/115566.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115567.png",
+      "local_image_path": "images/115567.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115568.png",
+      "local_image_path": "images/115568.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115569.png",
+      "local_image_path": "images/115569.png"
+    }
+  ],
+  "synonyms": [
+    "chance",
+    "opportunity",
+    "opening",
+    "occasion",
+    "beat",
+    "surpass",
+    "exceed",
+    "top",
+    "better",
+    "crack"
+  ],
+  "antonyms": [
+    "mend",
+    "uphold"
+  ],
+  "similar_words": [
+    "break beat",
+    "break promise",
+    "break wind",
+    "break-dance",
+    "break-in",
+    "breakable",
+    "breakableness",
+    "breakably",
+    "breakage",
+    "breakaway",
+    "breakax",
+    "breakdown",
+    "breaker",
+    "breakfast",
+    "breakfast time",
+    "breakfaster",
+    "breakfront"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/break.mp3",
+  "local_sound_path": "sounds/break.mp3"
+}

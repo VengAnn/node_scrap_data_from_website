@@ -1,0 +1,72 @@
+{
+  "word": "learn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45529.png",
+      "local_image_path": "images/45529.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45523.png",
+      "local_image_path": "images/45523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I learn English",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45524.png",
+      "local_image_path": "images/45524.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45525.png",
+      "local_image_path": "images/45525.png"
+    },
+    {
+      "pos": "tv",
+      "example": "learn the news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45526.png",
+      "local_image_path": "images/45526.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45527.png",
+      "local_image_path": "images/45527.png"
+    },
+    {
+      "pos": "tv",
+      "example": "learn one's lesson",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45528.png",
+      "local_image_path": "images/45528.png"
+    }
+  ],
+  "synonyms": [
+    "hear",
+    "discover",
+    "realize",
+    "ascertain",
+    "gather",
+    "understand",
+    "study"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "learnable",
+    "learned",
+    "learned man",
+    "learnedly",
+    "learner",
+    "learning",
+    "learning disability",
+    "learning-disabled",
+    "learnt"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/learn.mp3",
+  "local_sound_path": "sounds/learn.mp3"
+}

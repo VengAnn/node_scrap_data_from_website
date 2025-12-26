@@ -1,0 +1,89 @@
+{
+  "word": "wild",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wild animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100305.png",
+      "local_image_path": "images/100305.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wild storm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100306.png",
+      "local_image_path": "images/100306.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wild boy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100307.png",
+      "local_image_path": "images/100307.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wild party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100308.png",
+      "local_image_path": "images/100308.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wild crowd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100309.png",
+      "local_image_path": "images/100309.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129885.png",
+      "local_image_path": "images/129885.png"
+    },
+    {
+      "pos": "n",
+      "example": "The wilds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100310.png",
+      "local_image_path": "images/100310.png"
+    }
+  ],
+  "synonyms": [
+    "stormy",
+    "blustery",
+    "squally",
+    "tempestuous",
+    "outrageous",
+    "crazy",
+    "foolish",
+    "lunatic",
+    "mad",
+    "hare-brained",
+    "unconventional",
+    "irrational",
+    "reckless"
+  ],
+  "antonyms": [
+    "cultivated",
+    "tame",
+    "orderly",
+    "gentle",
+    "sensible",
+    "calm",
+    "tidy"
+  ],
+  "similar_words": [
+    "wild fowl",
+    "wild life",
+    "wildcat",
+    "wilder",
+    "wildered",
+    "wilderment",
+    "wilderness",
+    "wildfire",
+    "wildish",
+    "wildlife",
+    "wildly",
+    "wildness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wild.mp3",
+  "local_sound_path": "sounds/wild.mp3"
+}

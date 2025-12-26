@@ -1,0 +1,40 @@
+{
+  "word": "passionate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "passionate love",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60474.png",
+      "local_image_path": "images/60474.png"
+    },
+    {
+      "pos": "adj",
+      "example": "passionate speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60475.png",
+      "local_image_path": "images/60475.png"
+    },
+    {
+      "pos": "adj",
+      "example": "passionate devotion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60476.png",
+      "local_image_path": "images/60476.png"
+    }
+  ],
+  "synonyms": [
+    "fiery",
+    "quick-tempered",
+    "hot-blooded"
+  ],
+  "antonyms": [
+    "indifferent",
+    "easygoing"
+  ],
+  "similar_words": [
+    "passionately",
+    "passionateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/passionate.mp3",
+  "local_sound_path": "sounds/passionate.mp3"
+}

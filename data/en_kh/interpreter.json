@@ -1,0 +1,31 @@
+{
+  "word": "interpreter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41492.png",
+      "local_image_path": "images/41492.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132358.png",
+      "local_image_path": "images/132358.png"
+    }
+  ],
+  "synonyms": [
+    "analyst",
+    "prophet",
+    "judge",
+    "explainer",
+    "performer",
+    "exponent"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interpreter.mp3",
+  "local_sound_path": "sounds/interpreter.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "word": "dawdle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Stop dawdling and do something useful!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19728.png",
+      "local_image_path": "images/19728.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117730.png",
+      "local_image_path": "images/117730.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117731.png",
+      "local_image_path": "images/117731.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117732.png",
+      "local_image_path": "images/117732.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117733.png",
+      "local_image_path": "images/117733.png"
+    }
+  ],
+  "synonyms": [
+    "dally",
+    "loiter",
+    "delay",
+    "plod",
+    "linger",
+    "procrastinate",
+    "lag",
+    "tarry"
+  ],
+  "antonyms": [
+    "hurry"
+  ],
+  "similar_words": [
+    "dawdler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dawdle.mp3",
+  "local_sound_path": "sounds/dawdle.mp3"
+}

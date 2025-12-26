@@ -1,0 +1,34 @@
+{
+  "word": "warn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "He was warned of the danger.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99104.png",
+      "local_image_path": "images/99104.png"
+    },
+    {
+      "pos": "tv",
+      "example": "warn him of our arrival",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99105.png",
+      "local_image_path": "images/99105.png"
+    }
+  ],
+  "synonyms": [
+    "alert",
+    "forewarn",
+    "advise",
+    "tell",
+    "notify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "warner",
+    "warning",
+    "warningly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/warn.mp3",
+  "local_sound_path": "sounds/warn.mp3"
+}

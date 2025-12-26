@@ -1,0 +1,54 @@
+{
+  "word": "divine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "divine revelation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22457.png",
+      "local_image_path": "images/22457.png"
+    },
+    {
+      "pos": "adj",
+      "example": "divine being",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22458.png",
+      "local_image_path": "images/22458.png"
+    },
+    {
+      "pos": "adj",
+      "example": "divine dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22459.png",
+      "local_image_path": "images/22459.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22460.png",
+      "local_image_path": "images/22460.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22461.png",
+      "local_image_path": "images/22461.png"
+    }
+  ],
+  "synonyms": [
+    "discover",
+    "guess",
+    "presume",
+    "deduce",
+    "discern",
+    "perceive"
+  ],
+  "antonyms": [
+    "earthly"
+  ],
+  "similar_words": [
+    "divinely",
+    "diviner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divine.mp3",
+  "local_sound_path": "sounds/divine.mp3"
+}

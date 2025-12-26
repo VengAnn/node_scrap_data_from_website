@@ -1,0 +1,44 @@
+{
+  "word": "simplicity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "simplicity of a task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80244.png",
+      "local_image_path": "images/80244.png"
+    },
+    {
+      "pos": "n",
+      "example": "simplicity of a design",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80245.png",
+      "local_image_path": "images/80245.png"
+    },
+    {
+      "pos": "n",
+      "example": "simplicity of mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80246.png",
+      "local_image_path": "images/80246.png"
+    }
+  ],
+  "synonyms": [
+    "plainness",
+    "cleanness",
+    "guilelessness",
+    "naivet�",
+    "naivety",
+    "ingenuousness",
+    "artlessness",
+    "candor",
+    "innocence"
+  ],
+  "antonyms": [
+    "difficulty",
+    "pride",
+    "sophistication"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/simplicity.mp3",
+  "local_sound_path": "sounds/simplicity.mp3"
+}

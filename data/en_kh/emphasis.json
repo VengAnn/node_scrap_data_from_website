@@ -1,0 +1,30 @@
+{
+  "word": "emphasis",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "syllable of emphasis",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24627.png",
+      "local_image_path": "images/24627.png"
+    },
+    {
+      "pos": "n",
+      "example": "emphasis on honesty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24628.png",
+      "local_image_path": "images/24628.png"
+    }
+  ],
+  "synonyms": [
+    "stress",
+    "importance",
+    "weight",
+    "accent",
+    "prominence"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emphasis.mp3",
+  "local_sound_path": "sounds/emphasis.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "abrasiveness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1556.png",
+      "local_image_path": "images/1556.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113046.png",
+      "local_image_path": "images/113046.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113047.png",
+      "local_image_path": "images/113047.png"
+    }
+  ],
+  "synonyms": [
+    "harshness",
+    "roughness",
+    "brusqueness",
+    "aggressiveness",
+    "unfeelingness"
+  ],
+  "antonyms": [
+    "gentleness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abrasiveness.mp3",
+  "local_sound_path": "sounds/abrasiveness.mp3"
+}

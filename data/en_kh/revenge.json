@@ -1,0 +1,37 @@
+{
+  "word": "revenge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73278.png",
+      "local_image_path": "images/73278.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73279.png",
+      "local_image_path": "images/73279.png"
+    }
+  ],
+  "synonyms": [
+    "vengeance",
+    "retribution",
+    "reprisal",
+    "requite",
+    "avenge",
+    "retaliate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "revengeful",
+    "revengefully",
+    "revengefulness",
+    "revengement",
+    "revenger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/revenge.mp3",
+  "local_sound_path": "sounds/revenge.mp3"
+}

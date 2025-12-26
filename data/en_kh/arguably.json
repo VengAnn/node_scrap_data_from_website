@@ -1,0 +1,33 @@
+{
+  "word": "arguably",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5444.png",
+      "local_image_path": "images/5444.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113975.png",
+      "local_image_path": "images/113975.png"
+    }
+  ],
+  "synonyms": [
+    "questionably",
+    "perhaps",
+    "possibly",
+    "maybe",
+    "doubtfully",
+    "disputably"
+  ],
+  "antonyms": [
+    "certainly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arguably.mp3",
+  "local_sound_path": "sounds/arguably.mp3"
+}

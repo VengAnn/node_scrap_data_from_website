@@ -1,0 +1,32 @@
+{
+  "word": "understate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94104.png",
+      "local_image_path": "images/94104.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94105.png",
+      "local_image_path": "images/94105.png"
+    }
+  ],
+  "synonyms": [
+    "minimize",
+    "devalue",
+    "belittle"
+  ],
+  "antonyms": [
+    "exaggerate"
+  ],
+  "similar_words": [
+    "understatement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/understate.mp3",
+  "local_sound_path": "sounds/understate.mp3"
+}

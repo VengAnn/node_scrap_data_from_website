@@ -1,0 +1,46 @@
+{
+  "word": "tripe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91859.png",
+      "local_image_path": "images/91859.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91860.png",
+      "local_image_path": "images/91860.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91861.png",
+      "local_image_path": "images/91861.png"
+    }
+  ],
+  "synonyms": [
+    "rubbish",
+    "nonsense",
+    "garbage",
+    "drivel",
+    "trash",
+    "rot",
+    "claptrap",
+    "twaddle"
+  ],
+  "antonyms": [
+    "fact"
+  ],
+  "similar_words": [
+    "tripedal",
+    "tripennate",
+    "tripersonal",
+    "tripetalous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tripe.mp3",
+  "local_sound_path": "sounds/tripe.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "stellar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84603.png",
+      "local_image_path": "images/84603.png"
+    },
+    {
+      "pos": "adj",
+      "example": "go stellar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84604.png",
+      "local_image_path": "images/84604.png"
+    }
+  ],
+  "synonyms": [
+    "astral",
+    "planetary",
+    "cosmological",
+    "astrophysical",
+    "lunar",
+    "solar",
+    "all-star",
+    "star-spangled",
+    "starry",
+    "celebrity",
+    "big-name",
+    "glittering",
+    "glamorous"
+  ],
+  "antonyms": [
+    "earthly",
+    "unknown"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stellar.mp3",
+  "local_sound_path": "sounds/stellar.mp3"
+}

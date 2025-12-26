@@ -1,0 +1,111 @@
+{
+  "word": "draw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "stove won't drawn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23029.png",
+      "local_image_path": "images/23029.png"
+    },
+    {
+      "pos": "iv",
+      "example": "draw to a close",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23030.png",
+      "local_image_path": "images/23030.png"
+    },
+    {
+      "pos": "iv",
+      "example": "draw up (to the door)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23031.png",
+      "local_image_path": "images/23031.png"
+    },
+    {
+      "pos": "n",
+      "example": "draw of a stove",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23032.png",
+      "local_image_path": "images/23032.png"
+    },
+    {
+      "pos": "n",
+      "example": "go up a a draw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23033.png",
+      "local_image_path": "images/23033.png"
+    },
+    {
+      "pos": "n",
+      "example": "play to a draw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23034.png",
+      "local_image_path": "images/23034.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draw a picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23022.png",
+      "local_image_path": "images/23022.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draw water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23023.png",
+      "local_image_path": "images/23023.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draw a cart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23024.png",
+      "local_image_path": "images/23024.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draw blood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23025.png",
+      "local_image_path": "images/23025.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draw a conclusion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23026.png",
+      "local_image_path": "images/23026.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draw a card",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23027.png",
+      "local_image_path": "images/23027.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sweets draw files",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23028.png",
+      "local_image_path": "images/23028.png"
+    }
+  ],
+  "synonyms": [
+    "tie",
+    "equal",
+    "square",
+    "even"
+  ],
+  "antonyms": [
+    "shove"
+  ],
+  "similar_words": [
+    "draw-well",
+    "drawable",
+    "drawback",
+    "drawbridge",
+    "drawee",
+    "drawer",
+    "drawers",
+    "drawing",
+    "drawing master",
+    "drawing room",
+    "drawing-board",
+    "drawl",
+    "drawn"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/draw.mp3",
+  "local_sound_path": "sounds/draw.mp3"
+}

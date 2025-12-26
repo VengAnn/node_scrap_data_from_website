@@ -1,0 +1,40 @@
+{
+  "word": "witty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100678.png",
+      "local_image_path": "images/100678.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129913.png",
+      "local_image_path": "images/129913.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129914.png",
+      "local_image_path": "images/129914.png"
+    }
+  ],
+  "synonyms": [
+    "amusing",
+    "humorous",
+    "droll",
+    "clever",
+    "sharp",
+    "funny",
+    "entertaining"
+  ],
+  "antonyms": [
+    "dull"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/witty.mp3",
+  "local_sound_path": "sounds/witty.mp3"
+}

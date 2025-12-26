@@ -1,0 +1,38 @@
+{
+  "word": "tiff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89411.png",
+      "local_image_path": "images/89411.png"
+    },
+    {
+      "pos": "n",
+      "example": "Alice has had a tiff with her boyfriend.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89410.png",
+      "local_image_path": "images/89410.png"
+    }
+  ],
+  "synonyms": [
+    "quarrel",
+    "argument",
+    "row",
+    "falling-out",
+    "squabble",
+    "disagreement",
+    "spat",
+    "dispute",
+    "contretemps"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tiffany",
+    "tiffin",
+    "tiffin-carrier"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tiff.mp3",
+  "local_sound_path": "sounds/tiff.mp3"
+}

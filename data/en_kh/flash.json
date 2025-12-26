@@ -1,0 +1,73 @@
+{
+  "word": "flash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "lights flash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28915.png",
+      "local_image_path": "images/28915.png"
+    },
+    {
+      "pos": "n",
+      "example": "flash of lighting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28909.png",
+      "local_image_path": "images/28909.png"
+    },
+    {
+      "pos": "n",
+      "example": "flash of color",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28910.png",
+      "local_image_path": "images/28910.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28911.png",
+      "local_image_path": "images/28911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flash a light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28912.png",
+      "local_image_path": "images/28912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flash a message",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28913.png",
+      "local_image_path": "images/28913.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flash one's wealth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28914.png",
+      "local_image_path": "images/28914.png"
+    }
+  ],
+  "synonyms": [
+    "update",
+    "bulletin",
+    "glint",
+    "sparkle",
+    "twinkle",
+    "flare",
+    "flicker",
+    "glisten",
+    "gleam",
+    "glimmer"
+  ],
+  "antonyms": [
+    "crawl"
+  ],
+  "similar_words": [
+    "flash campaign",
+    "flashily",
+    "flashiness",
+    "flashlight",
+    "flashy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flash.mp3",
+  "local_sound_path": "sounds/flash.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "word": "scarf",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76447.png",
+      "local_image_path": "images/76447.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76448.png",
+      "local_image_path": "images/76448.png"
+    },
+    {
+      "pos": "n",
+      "example": "table scarf",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76449.png",
+      "local_image_path": "images/76449.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76450.png",
+      "local_image_path": "images/76450.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scarf a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76451.png",
+      "local_image_path": "images/76451.png"
+    }
+  ],
+  "synonyms": [
+    "rag",
+    "duster",
+    "tablecloth",
+    "handkerchief",
+    "napkin"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "scarf-joint",
+    "scarf-ring",
+    "scarf-skin",
+    "scarf-weld",
+    "scarfer",
+    "scarfing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scarf.mp3",
+  "local_sound_path": "sounds/scarf.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "validate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97125.png",
+      "local_image_path": "images/97125.png"
+    },
+    {
+      "pos": "tv",
+      "example": "validate his story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97126.png",
+      "local_image_path": "images/97126.png"
+    },
+    {
+      "pos": "tv",
+      "example": "validate a passort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97127.png",
+      "local_image_path": "images/97127.png"
+    }
+  ],
+  "synonyms": [
+    "authenticate",
+    "legalize",
+    "authorize",
+    "confirm",
+    "corroborate",
+    "certify",
+    "endorse",
+    "indorse",
+    "prove",
+    "substantiate",
+    "justify",
+    "support",
+    "ratify"
+  ],
+  "antonyms": [
+    "cancel",
+    "disprove",
+    "invalidate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/validate.mp3",
+  "local_sound_path": "sounds/validate.mp3"
+}

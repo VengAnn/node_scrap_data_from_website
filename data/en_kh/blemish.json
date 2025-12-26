@@ -1,0 +1,48 @@
+{
+  "word": "blemish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9505.png",
+      "local_image_path": "images/9505.png"
+    },
+    {
+      "pos": "tv",
+      "example": "blemish page",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9504.png",
+      "local_image_path": "images/9504.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115191.png",
+      "local_image_path": "images/115191.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115192.png",
+      "local_image_path": "images/115192.png"
+    }
+  ],
+  "synonyms": [
+    "damage",
+    "tarnish",
+    "spoil",
+    "ruin",
+    "stain",
+    "discolor",
+    "injure",
+    "mar",
+    "vitiate"
+  ],
+  "antonyms": [
+    "restore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blemish.mp3",
+  "local_sound_path": "sounds/blemish.mp3"
+}

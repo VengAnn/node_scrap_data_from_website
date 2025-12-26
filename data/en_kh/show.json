@@ -1,0 +1,76 @@
+{
+  "word": "show",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "marks show",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79539.png",
+      "local_image_path": "images/79539.png"
+    },
+    {
+      "pos": "iv",
+      "example": "show off",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79540.png",
+      "local_image_path": "images/79540.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79541.png",
+      "local_image_path": "images/79541.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can you show me your idea?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79538.png",
+      "local_image_path": "images/79538.png"
+    }
+  ],
+  "synonyms": [
+    "fair",
+    "exhibition",
+    "event",
+    "display",
+    "prove",
+    "illustrate",
+    "demonstrate",
+    "confirm",
+    "indicate",
+    "establish",
+    "explain",
+    "teach"
+  ],
+  "antonyms": [
+    "hide",
+    "disprove"
+  ],
+  "similar_words": [
+    "show manship",
+    "show-bill",
+    "show-boat",
+    "show-business",
+    "show-case",
+    "show-girl",
+    "show-off",
+    "show-piece",
+    "show-place",
+    "show-room",
+    "show-trial",
+    "show-window",
+    "showdown",
+    "showed",
+    "shower",
+    "shower party",
+    "shower-bath",
+    "shower-cloud",
+    "showeriness",
+    "showering",
+    "showerproof",
+    "showery",
+    "showily"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/show.mp3",
+  "local_sound_path": "sounds/show.mp3"
+}

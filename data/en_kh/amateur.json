@@ -1,0 +1,47 @@
+{
+  "word": "amateur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3747.png",
+      "local_image_path": "images/3747.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is just an amateur",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3746.png",
+      "local_image_path": "images/3746.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112427.png",
+      "local_image_path": "images/112427.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112428.png",
+      "local_image_path": "images/112428.png"
+    }
+  ],
+  "synonyms": [
+    "layperson",
+    "proletarian"
+  ],
+  "antonyms": [
+    "professional",
+    "skillful",
+    "full-time"
+  ],
+  "similar_words": [
+    "amateurish",
+    "amateurishly",
+    "amateurism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amateur.mp3",
+  "local_sound_path": "sounds/amateur.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "luminous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "luminous paint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48048.png",
+      "local_image_path": "images/48048.png"
+    },
+    {
+      "pos": "adj",
+      "example": "luminous writing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48049.png",
+      "local_image_path": "images/48049.png"
+    }
+  ],
+  "synonyms": [
+    "glowing",
+    "shining",
+    "brilliant",
+    "bright",
+    "incandescent",
+    "radiant",
+    "resplendent"
+  ],
+  "antonyms": [
+    "dull"
+  ],
+  "similar_words": [
+    "luminously",
+    "luminousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/luminous.mp3",
+  "local_sound_path": "sounds/luminous.mp3"
+}

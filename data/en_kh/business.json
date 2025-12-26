@@ -1,0 +1,62 @@
+{
+  "word": "business",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "what is your business?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12008.png",
+      "local_image_path": "images/12008.png"
+    },
+    {
+      "pos": "n",
+      "example": "it is the business of the police to protect the \n\ncommunity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12009.png",
+      "local_image_path": "images/12009.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12056.png",
+      "local_image_path": "images/12056.png"
+    }
+  ],
+  "synonyms": [
+    "commercial",
+    "occupational",
+    "corporate",
+    "concern",
+    "affair",
+    "problem",
+    "responsibility",
+    "interest",
+    "sphere"
+  ],
+  "antonyms": [
+    "private"
+  ],
+  "similar_words": [
+    "business address",
+    "business call",
+    "business center",
+    "business class",
+    "business corespondence",
+    "business corespondent",
+    "business equipment",
+    "business expense",
+    "business hours",
+    "business letter",
+    "business lunch",
+    "business school",
+    "business tourism",
+    "business trip",
+    "business undertaking",
+    "business-to-business",
+    "businesslike",
+    "businessman",
+    "businesswoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/business.mp3",
+  "local_sound_path": "sounds/business.mp3"
+}

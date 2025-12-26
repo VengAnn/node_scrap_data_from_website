@@ -1,0 +1,35 @@
+{
+  "word": "stopped",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stopped car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85033.png",
+      "local_image_path": "images/85033.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stopped drain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85034.png",
+      "local_image_path": "images/85034.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stopped syllable",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85035.png",
+      "local_image_path": "images/85035.png"
+    }
+  ],
+  "synonyms": [
+    "congested",
+    "closed"
+  ],
+  "antonyms": [
+    "moving",
+    "open",
+    "working"
+  ],
+  "similar_words": [],
+  "sound": null
+}

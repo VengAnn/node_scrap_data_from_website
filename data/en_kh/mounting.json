@@ -1,0 +1,33 @@
+{
+  "word": "mounting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "gun mounting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110734.png",
+      "local_image_path": "images/110734.png"
+    },
+    {
+      "pos": "n",
+      "example": "picture mounting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110735.png",
+      "local_image_path": "images/110735.png"
+    }
+  ],
+  "synonyms": [
+    "rising",
+    "increasing",
+    "growing",
+    "swelling",
+    "producing",
+    "launching"
+  ],
+  "antonyms": [
+    "descending"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mounting.mp3",
+  "local_sound_path": "sounds/mounting.mp3"
+}

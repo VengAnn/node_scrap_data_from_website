@@ -1,0 +1,35 @@
+{
+  "word": "convex",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17501.png",
+      "local_image_path": "images/17501.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17502.png",
+      "local_image_path": "images/17502.png"
+    }
+  ],
+  "synonyms": [
+    "curved",
+    "rounded",
+    "bowed",
+    "arched"
+  ],
+  "antonyms": [
+    "concave"
+  ],
+  "similar_words": [
+    "convexity",
+    "convexo-concave",
+    "convexo-convex"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/convex.mp3",
+  "local_sound_path": "sounds/convex.mp3"
+}

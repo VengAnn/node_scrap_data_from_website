@@ -1,0 +1,70 @@
+{
+  "word": "slash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80998.png",
+      "local_image_path": "images/80998.png"
+    },
+    {
+      "pos": "n",
+      "example": "a wild slash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80999.png",
+      "local_image_path": "images/80999.png"
+    },
+    {
+      "pos": "n",
+      "example": "slash in prices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81000.png",
+      "local_image_path": "images/81000.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slash one's wrists",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80994.png",
+      "local_image_path": "images/80994.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80995.png",
+      "local_image_path": "images/80995.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80996.png",
+      "local_image_path": "images/80996.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80997.png",
+      "local_image_path": "images/80997.png"
+    }
+  ],
+  "synonyms": [
+    "reduce",
+    "cut",
+    "lower",
+    "hack",
+    "slice",
+    "gash",
+    "slit",
+    "rip",
+    "lacerate"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [
+    "slash and burn",
+    "slasher",
+    "slashing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slash.mp3",
+  "local_sound_path": "sounds/slash.mp3"
+}

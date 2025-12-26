@@ -1,0 +1,47 @@
+{
+  "word": "drench",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "drench of rain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23101.png",
+      "local_image_path": "images/23101.png"
+    },
+    {
+      "pos": "n",
+      "example": "prepare a drench",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23102.png",
+      "local_image_path": "images/23102.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rains drench them",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23099.png",
+      "local_image_path": "images/23099.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drench sheep",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23100.png",
+      "local_image_path": "images/23100.png"
+    }
+  ],
+  "synonyms": [
+    "soak",
+    "wet",
+    "saturate",
+    "douse",
+    "steep",
+    "flood",
+    "inundate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "drenching",
+    "drenching rain"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drench.mp3",
+  "local_sound_path": "sounds/drench.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "aboard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1480.png",
+      "local_image_path": "images/1480.png"
+    },
+    {
+      "pos": "prep",
+      "example": "get aboard (a ship), get a board (a plane)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1481.png",
+      "local_image_path": "images/1481.png"
+    }
+  ],
+  "synonyms": [
+    "on",
+    "inside"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aboard.mp3",
+  "local_sound_path": "sounds/aboard.mp3"
+}

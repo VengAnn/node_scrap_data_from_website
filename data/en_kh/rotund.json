@@ -1,0 +1,51 @@
+{
+  "word": "rotund",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74267.png",
+      "local_image_path": "images/74267.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74268.png",
+      "local_image_path": "images/74268.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127205.png",
+      "local_image_path": "images/127205.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74269.png",
+      "local_image_path": "images/74269.png"
+    }
+  ],
+  "synonyms": [
+    "round",
+    "plump",
+    "fat",
+    "stout",
+    "curved",
+    "corpulent",
+    "overweight"
+  ],
+  "antonyms": [
+    "slender"
+  ],
+  "similar_words": [
+    "rotunda",
+    "rotundly",
+    "rotundness",
+    "rotundo"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rotund.mp3",
+  "local_sound_path": "sounds/rotund.mp3"
+}

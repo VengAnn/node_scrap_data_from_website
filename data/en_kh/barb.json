@@ -1,0 +1,53 @@
+{
+  "word": "barb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7404.png",
+      "local_image_path": "images/7404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7405.png",
+      "local_image_path": "images/7405.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114565.png",
+      "local_image_path": "images/114565.png"
+    }
+  ],
+  "synonyms": [
+    "gibe",
+    "insult",
+    "dig",
+    "taunt",
+    "sting"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "barbadeoes pride",
+    "barbal",
+    "barbaresque",
+    "barbarian",
+    "barbaric",
+    "barbarism",
+    "barbarity",
+    "barbarization",
+    "barbarize",
+    "barbarous",
+    "barbarously",
+    "barbarousness",
+    "barbary",
+    "barbary ape",
+    "barbate",
+    "barbecue"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barb.mp3",
+  "local_sound_path": "sounds/barb.mp3"
+}

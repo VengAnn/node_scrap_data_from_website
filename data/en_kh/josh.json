@@ -1,0 +1,37 @@
+{
+  "word": "josh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43223.png",
+      "local_image_path": "images/43223.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123149.png",
+      "local_image_path": "images/123149.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123150.png",
+      "local_image_path": "images/123150.png"
+    }
+  ],
+  "synonyms": [
+    "tease",
+    "rib",
+    "chaff",
+    "ridicule",
+    "mock",
+    "twit"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/josh.mp3",
+  "local_sound_path": "sounds/josh.mp3"
+}

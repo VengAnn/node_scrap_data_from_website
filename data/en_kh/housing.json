@@ -1,0 +1,43 @@
+{
+  "word": "housing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "find housing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36170.png",
+      "local_image_path": "images/36170.png"
+    },
+    {
+      "pos": "n",
+      "example": "the house of refugees",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36171.png",
+      "local_image_path": "images/36171.png"
+    },
+    {
+      "pos": "n",
+      "example": "metal housing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36172.png",
+      "local_image_path": "images/36172.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "covering",
+    "case",
+    "frame",
+    "accommodating",
+    "lodging",
+    "boarding",
+    "take in"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "housing  problem",
+    "housing loans",
+    "housing starts"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/housing.mp3",
+  "local_sound_path": "sounds/housing.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "victim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He is a victim in this war.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97934.png",
+      "local_image_path": "images/97934.png"
+    }
+  ],
+  "synonyms": [
+    "prey",
+    "dupe",
+    "butt",
+    "target",
+    "quarry",
+    "fatality",
+    "casualty",
+    "sufferer",
+    "wounded"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "Victimitis",
+    "victimization",
+    "victimize",
+    "victimized",
+    "victimizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/victim.mp3",
+  "local_sound_path": "sounds/victim.mp3"
+}

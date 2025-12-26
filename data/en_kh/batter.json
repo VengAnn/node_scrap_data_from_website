@@ -1,0 +1,50 @@
+{
+  "word": "batter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7768.png",
+      "local_image_path": "images/7768.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7769.png",
+      "local_image_path": "images/7769.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7767.png",
+      "local_image_path": "images/7767.png"
+    }
+  ],
+  "synonyms": [
+    "pound",
+    "pummel",
+    "hammer",
+    "bang",
+    "thump",
+    "assault",
+    "maim",
+    "brutalize",
+    "attack",
+    "abuse",
+    "injure",
+    "maltreat",
+    "beat"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "battering",
+    "battering-ram",
+    "battery",
+    "battery farm",
+    "battery farming"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/batter.mp3",
+  "local_sound_path": "sounds/batter.mp3"
+}

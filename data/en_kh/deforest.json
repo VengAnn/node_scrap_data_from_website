@@ -1,0 +1,30 @@
+{
+  "word": "deforest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20222.png",
+      "local_image_path": "images/20222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20221.png",
+      "local_image_path": "images/20221.png"
+    }
+  ],
+  "synonyms": [
+    "log",
+    "denude",
+    "strip",
+    "desolate",
+    "devastate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deforest.mp3",
+  "local_sound_path": "sounds/deforest.mp3"
+}

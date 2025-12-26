@@ -1,0 +1,51 @@
+{
+  "word": "wicked",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wicked man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100232.png",
+      "local_image_path": "images/100232.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wicked horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100233.png",
+      "local_image_path": "images/100233.png"
+    }
+  ],
+  "synonyms": [
+    "terrible",
+    "dreadful",
+    "awful",
+    "atrocious",
+    "severe",
+    "appalling",
+    "evil",
+    "bad",
+    "wrong",
+    "depraved",
+    "immoral",
+    "iniquitous",
+    "sinful",
+    "impious",
+    "heinous",
+    "nefarious",
+    "fiendish"
+  ],
+  "antonyms": [
+    "good",
+    "unimpressive",
+    "excellent",
+    "respectful",
+    "gentle"
+  ],
+  "similar_words": [
+    "wickedly",
+    "wickedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wicked.mp3",
+  "local_sound_path": "sounds/wicked.mp3"
+}

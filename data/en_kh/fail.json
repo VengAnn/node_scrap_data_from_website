@@ -1,0 +1,71 @@
+{
+  "word": "fail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "crops fail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27371.png",
+      "local_image_path": "images/27371.png"
+    },
+    {
+      "pos": "iv",
+      "example": "fail in a course",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27372.png",
+      "local_image_path": "images/27372.png"
+    },
+    {
+      "pos": "iv",
+      "example": "fail at business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27373.png",
+      "local_image_path": "images/27373.png"
+    },
+    {
+      "pos": "iv",
+      "example": "supplies fail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27374.png",
+      "local_image_path": "images/27374.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He never fails to write to his mother every week.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27375.png",
+      "local_image_path": "images/27375.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The examiners failed half the candidates.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27376.png",
+      "local_image_path": "images/27376.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fail one's friends",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27377.png",
+      "local_image_path": "images/27377.png"
+    }
+  ],
+  "synonyms": [
+    "crash",
+    "bomb",
+    "flop",
+    "fold",
+    "flunk",
+    "fluff"
+  ],
+  "antonyms": [
+    "succeed",
+    "satisfy",
+    "thrive",
+    "rally",
+    "pass"
+  ],
+  "similar_words": [
+    "fail-safe",
+    "failing",
+    "failure"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fail.mp3",
+  "local_sound_path": "sounds/fail.mp3"
+}

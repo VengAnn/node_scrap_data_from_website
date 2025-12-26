@@ -1,0 +1,31 @@
+{
+  "word": "antecedent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4517.png",
+      "local_image_path": "images/4517.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4518.png",
+      "local_image_path": "images/4518.png"
+    }
+  ],
+  "synonyms": [
+    "precursor",
+    "forerunner",
+    "ancestor",
+    "predecessor",
+    "forebear",
+    "originator"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/antecedent.mp3",
+  "local_sound_path": "sounds/antecedent.mp3"
+}

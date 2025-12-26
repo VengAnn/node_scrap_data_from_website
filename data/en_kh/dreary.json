@@ -1,0 +1,40 @@
+{
+  "word": "dreary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "drear mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23085.png",
+      "local_image_path": "images/23085.png"
+    },
+    {
+      "pos": "adj",
+      "example": "drear day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23086.png",
+      "local_image_path": "images/23086.png"
+    }
+  ],
+  "synonyms": [
+    "bleak",
+    "cheerless",
+    "dismal",
+    "miserable",
+    "grim",
+    "desolate",
+    "gray",
+    "depressing",
+    "downcast",
+    "grey",
+    "drab",
+    "gloomy"
+  ],
+  "antonyms": [
+    "interesting",
+    "cheerful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dreary.mp3",
+  "local_sound_path": "sounds/dreary.mp3"
+}

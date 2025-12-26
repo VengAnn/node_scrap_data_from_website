@@ -1,0 +1,52 @@
+{
+  "word": "congest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "congest a street",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16781.png",
+      "local_image_path": "images/16781.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131398.png",
+      "local_image_path": "images/131398.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131399.png",
+      "local_image_path": "images/131399.png"
+    }
+  ],
+  "synonyms": [
+    "obstruct",
+    "clog",
+    "block",
+    "plug",
+    "dam",
+    "fill",
+    "gag",
+    "halt",
+    "choke",
+    "jam",
+    "overcrowd",
+    "crowd",
+    "pack"
+  ],
+  "antonyms": [
+    "free",
+    "clear"
+  ],
+  "similar_words": [
+    "congested",
+    "congestion",
+    "congestion charging",
+    "congestive heart failure"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/congest.mp3",
+  "local_sound_path": "sounds/congest.mp3"
+}

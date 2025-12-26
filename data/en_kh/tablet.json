@@ -1,0 +1,55 @@
+{
+  "word": "tablet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87119.png",
+      "local_image_path": "images/87119.png"
+    },
+    {
+      "pos": "n",
+      "example": "writing tablet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87120.png",
+      "local_image_path": "images/87120.png"
+    },
+    {
+      "pos": "n",
+      "example": "bronze tablet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87121.png",
+      "local_image_path": "images/87121.png"
+    },
+    {
+      "pos": "n",
+      "example": "aspirine tablet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87122.png",
+      "local_image_path": "images/87122.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87123.png",
+      "local_image_path": "images/87123.png"
+    }
+  ],
+  "synonyms": [
+    "pill",
+    "drug",
+    "capsule",
+    "dose",
+    "lozenge",
+    "dosage",
+    "slab",
+    "plaque",
+    "block",
+    "bar",
+    "cake",
+    "lump"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tablet.mp3",
+  "local_sound_path": "sounds/tablet.mp3"
+}

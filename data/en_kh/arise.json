@@ -1,0 +1,32 @@
+{
+  "word": "arise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "problems arise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5471.png",
+      "local_image_path": "images/5471.png"
+    }
+  ],
+  "synonyms": [
+    "rise",
+    "happen",
+    "occur",
+    "begin",
+    "start",
+    "appear",
+    "surface",
+    "develop",
+    "evolve",
+    "commence"
+  ],
+  "antonyms": [
+    "sit down",
+    "retire"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arise.mp3",
+  "local_sound_path": "sounds/arise.mp3"
+}

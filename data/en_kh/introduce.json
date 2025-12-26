@@ -1,0 +1,37 @@
+{
+  "word": "introduce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "introduce a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41830.png",
+      "local_image_path": "images/41830.png"
+    },
+    {
+      "pos": "tv",
+      "example": "introduce a speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41831.png",
+      "local_image_path": "images/41831.png"
+    },
+    {
+      "pos": "tv",
+      "example": "introduce a new method",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41832.png",
+      "local_image_path": "images/41832.png"
+    }
+  ],
+  "synonyms": [
+    "host",
+    "present",
+    "initiate",
+    "inform"
+  ],
+  "antonyms": [
+    "conclude"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/introduce.mp3",
+  "local_sound_path": "sounds/introduce.mp3"
+}

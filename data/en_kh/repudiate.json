@@ -1,0 +1,52 @@
+{
+  "word": "repudiate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72513.png",
+      "local_image_path": "images/72513.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72512.png",
+      "local_image_path": "images/72512.png"
+    },
+    {
+      "pos": "tv",
+      "example": "repudiate a religion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72514.png",
+      "local_image_path": "images/72514.png"
+    },
+    {
+      "pos": "tv",
+      "example": "repudiate a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72515.png",
+      "local_image_path": "images/72515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72516.png",
+      "local_image_path": "images/72516.png"
+    }
+  ],
+  "synonyms": [
+    "reject",
+    "disclaim",
+    "renounce",
+    "deny",
+    "rebut",
+    "retract",
+    "disavow"
+  ],
+  "antonyms": [
+    "acknowledge"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repudiate.mp3",
+  "local_sound_path": "sounds/repudiate.mp3"
+}

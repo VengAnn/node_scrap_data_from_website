@@ -1,0 +1,40 @@
+{
+  "word": "religious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "religious beliefs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71933.png",
+      "local_image_path": "images/71933.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71934.png",
+      "local_image_path": "images/71934.png"
+    }
+  ],
+  "synonyms": [
+    "devout",
+    "pious",
+    "dutiful",
+    "thorough",
+    "conscientious",
+    "faithful",
+    "reliable",
+    "loyal"
+  ],
+  "antonyms": [
+    "secular",
+    "impious",
+    "unreliable"
+  ],
+  "similar_words": [
+    "religiously",
+    "religiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/religious.mp3",
+  "local_sound_path": "sounds/religious.mp3"
+}

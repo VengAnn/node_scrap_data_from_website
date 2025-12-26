@@ -1,0 +1,56 @@
+{
+  "word": "dot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22788.png",
+      "local_image_path": "images/22788.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22789.png",
+      "local_image_path": "images/22789.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The sky was dotted with stars.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22790.png",
+      "local_image_path": "images/22790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He dotted me in the eye.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22791.png",
+      "local_image_path": "images/22791.png"
+    }
+  ],
+  "synonyms": [
+    "speckle",
+    "sprinkle",
+    "pepper",
+    "fleck",
+    "spot",
+    "mark"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dotage",
+    "dotal",
+    "dotard",
+    "dotation",
+    "dote",
+    "dotish",
+    "dottard",
+    "dotted",
+    "dotter",
+    "dotterel",
+    "dotty",
+    "doty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dot.mp3",
+  "local_sound_path": "sounds/dot.mp3"
+}

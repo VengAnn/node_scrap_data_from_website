@@ -1,0 +1,33 @@
+{
+  "word": "incapacitate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38259.png",
+      "local_image_path": "images/38259.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121905.png",
+      "local_image_path": "images/121905.png"
+    }
+  ],
+  "synonyms": [
+    "debilitate",
+    "injure",
+    "harm",
+    "disable",
+    "weaken",
+    "undermine"
+  ],
+  "antonyms": [
+    "enable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incapacitate.mp3",
+  "local_sound_path": "sounds/incapacitate.mp3"
+}

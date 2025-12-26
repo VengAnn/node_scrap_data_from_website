@@ -1,0 +1,54 @@
+{
+  "word": "horrible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "horrible sight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35966.png",
+      "local_image_path": "images/35966.png"
+    },
+    {
+      "pos": "adj",
+      "example": "horrible child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35967.png",
+      "local_image_path": "images/35967.png"
+    },
+    {
+      "pos": "adj",
+      "example": "horrible noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35968.png",
+      "local_image_path": "images/35968.png"
+    }
+  ],
+  "synonyms": [
+    "unpleasant",
+    "bad",
+    "awful",
+    "vile",
+    "dreadful",
+    "disgusting",
+    "horrid",
+    "horrendous",
+    "terrible",
+    "unbearable",
+    "atrocious",
+    "unspeakable",
+    "ghastly",
+    "appalling",
+    "nasty",
+    "hideous",
+    "horrific",
+    "repulsive",
+    "shocking",
+    "staggering"
+  ],
+  "antonyms": [
+    "lovely",
+    "pleasant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/horrible.mp3",
+  "local_sound_path": "sounds/horrible.mp3"
+}

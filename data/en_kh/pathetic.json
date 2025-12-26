@@ -1,0 +1,43 @@
+{
+  "word": "pathetic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She looked so pathetic that I bent down to comfort her.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111656.png",
+      "local_image_path": "images/111656.png"
+    },
+    {
+      "pos": "adj",
+      "example": "How pathetic you are!!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132239.png",
+      "local_image_path": "images/132239.png"
+    },
+    {
+      "pos": "adj",
+      "example": "You are so pathetic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132240.png",
+      "local_image_path": "images/132240.png"
+    }
+  ],
+  "synonyms": [
+    "wretched",
+    "dismal",
+    "sad",
+    "pitiable",
+    "weak",
+    "useless",
+    "feeble"
+  ],
+  "antonyms": [
+    "strong"
+  ],
+  "similar_words": [
+    "pathetical",
+    "pathetically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pathetic.mp3",
+  "local_sound_path": "sounds/pathetic.mp3"
+}

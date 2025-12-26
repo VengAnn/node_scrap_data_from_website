@@ -1,0 +1,52 @@
+{
+  "word": "integrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40947.png",
+      "local_image_path": "images/40947.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122675.png",
+      "local_image_path": "images/122675.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122676.png",
+      "local_image_path": "images/122676.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40945.png",
+      "local_image_path": "images/40945.png"
+    },
+    {
+      "pos": "tv",
+      "example": "integrate a school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40946.png",
+      "local_image_path": "images/40946.png"
+    }
+  ],
+  "synonyms": [
+    "mix",
+    "incorporate",
+    "add",
+    "amalgamate",
+    "combine",
+    "assimilate",
+    "desegregate"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/integrate.mp3",
+  "local_sound_path": "sounds/integrate.mp3"
+}

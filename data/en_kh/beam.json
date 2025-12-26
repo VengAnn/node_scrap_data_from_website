@@ -1,0 +1,89 @@
+{
+  "word": "beam",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "lights beam",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7853.png",
+      "local_image_path": "images/7853.png"
+    },
+    {
+      "pos": "n",
+      "example": "roof beam",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7851.png",
+      "local_image_path": "images/7851.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131172.png",
+      "local_image_path": "images/131172.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131173.png",
+      "local_image_path": "images/131173.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131174.png",
+      "local_image_path": "images/131174.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131175.png",
+      "local_image_path": "images/131175.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131176.png",
+      "local_image_path": "images/131176.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131177.png",
+      "local_image_path": "images/131177.png"
+    },
+    {
+      "pos": "tv",
+      "example": "beam a sigle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7852.png",
+      "local_image_path": "images/7852.png"
+    }
+  ],
+  "synonyms": [
+    "girder",
+    "rafter",
+    "joist",
+    "timber",
+    "shaft",
+    "plank",
+    "bar",
+    "shine",
+    "radiate",
+    "emit",
+    "glow",
+    "gleam",
+    "flash",
+    "glimmer"
+  ],
+  "antonyms": [
+    "scowl"
+  ],
+  "similar_words": [
+    "beamed",
+    "beaming",
+    "beamish",
+    "beamishly",
+    "beamy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beam.mp3",
+  "local_sound_path": "sounds/beam.mp3"
+}

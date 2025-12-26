@@ -1,0 +1,39 @@
+{
+  "word": "shaft",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "shaft of an arrow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78669.png",
+      "local_image_path": "images/78669.png"
+    },
+    {
+      "pos": "n",
+      "example": "shaft of sunlight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78670.png",
+      "local_image_path": "images/78670.png"
+    },
+    {
+      "pos": "n",
+      "example": "drive shaft",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78671.png",
+      "local_image_path": "images/78671.png"
+    }
+  ],
+  "synonyms": [
+    "pole",
+    "bar",
+    "rod",
+    "stick",
+    "shank"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shaft-horse",
+    "shafting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shaft.mp3",
+  "local_sound_path": "sounds/shaft.mp3"
+}

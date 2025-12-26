@@ -1,0 +1,32 @@
+{
+  "word": "container",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17185.png",
+      "local_image_path": "images/17185.png"
+    }
+  ],
+  "synonyms": [
+    "urn",
+    "jug",
+    "pot",
+    "bottle",
+    "trunk",
+    "coffer",
+    "box"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "container ship",
+    "containerisation",
+    "containerise",
+    "containerization",
+    "containerize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/container.mp3",
+  "local_sound_path": "sounds/container.mp3"
+}

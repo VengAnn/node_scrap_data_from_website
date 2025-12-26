@@ -1,0 +1,26 @@
+{
+  "word": "barf",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7464.png",
+      "local_image_path": "images/7464.png"
+    }
+  ],
+  "synonyms": [
+    "vomit",
+    "spew",
+    "regurgitate",
+    "hurl"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "barfly",
+    "barful"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barf.mp3",
+  "local_sound_path": "sounds/barf.mp3"
+}

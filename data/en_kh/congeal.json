@@ -1,0 +1,39 @@
+{
+  "word": "congeal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16761.png",
+      "local_image_path": "images/16761.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16762.png",
+      "local_image_path": "images/16762.png"
+    }
+  ],
+  "synonyms": [
+    "set",
+    "clot",
+    "coagulate",
+    "thicken",
+    "solidify",
+    "harden",
+    "gel"
+  ],
+  "antonyms": [
+    "liquefy"
+  ],
+  "similar_words": [
+    "congealable",
+    "congealation",
+    "congealer",
+    "congealment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/congeal.mp3",
+  "local_sound_path": "sounds/congeal.mp3"
+}

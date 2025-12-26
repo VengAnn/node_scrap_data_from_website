@@ -1,0 +1,83 @@
+{
+  "word": "recess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70752.png",
+      "local_image_path": "images/70752.png"
+    },
+    {
+      "pos": "n",
+      "example": "lunch recess",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70747.png",
+      "local_image_path": "images/70747.png"
+    },
+    {
+      "pos": "n",
+      "example": "recess in the wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70748.png",
+      "local_image_path": "images/70748.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70749.png",
+      "local_image_path": "images/70749.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126557.png",
+      "local_image_path": "images/126557.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126558.png",
+      "local_image_path": "images/126558.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126559.png",
+      "local_image_path": "images/126559.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recess a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70750.png",
+      "local_image_path": "images/70750.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recess a wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70751.png",
+      "local_image_path": "images/70751.png"
+    }
+  ],
+  "synonyms": [
+    "vacation",
+    "break",
+    "retreat",
+    "rest",
+    "alcove",
+    "nook",
+    "indentation",
+    "niche",
+    "bay",
+    "depression"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "recession",
+    "recessional",
+    "recessionary",
+    "recessive",
+    "recessively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recess.mp3",
+  "local_sound_path": "sounds/recess.mp3"
+}

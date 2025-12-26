@@ -1,0 +1,49 @@
+{
+  "word": "ballast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7202.png",
+      "local_image_path": "images/7202.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114486.png",
+      "local_image_path": "images/114486.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114487.png",
+      "local_image_path": "images/114487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114488.png",
+      "local_image_path": "images/114488.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7203.png",
+      "local_image_path": "images/7203.png"
+    }
+  ],
+  "synonyms": [
+    "weight",
+    "counterweight",
+    "counterbalance",
+    "bulk",
+    "makeweight",
+    "balance"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ballast.mp3",
+  "local_sound_path": "sounds/ballast.mp3"
+}

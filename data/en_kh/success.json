@@ -1,0 +1,49 @@
+{
+  "word": "success",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "It is my good success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85980.png",
+      "local_image_path": "images/85980.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85981.png",
+      "local_image_path": "images/85981.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85982.png",
+      "local_image_path": "images/85982.png"
+    }
+  ],
+  "synonyms": [
+    "hit",
+    "winner",
+    "sensation",
+    "star",
+    "triumph"
+  ],
+  "antonyms": [
+    "failure"
+  ],
+  "similar_words": [
+    "successful",
+    "successfully",
+    "successfulness",
+    "succession",
+    "successional",
+    "successive",
+    "successively",
+    "successiveness",
+    "successless",
+    "successor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/success.mp3",
+  "local_sound_path": "sounds/success.mp3"
+}

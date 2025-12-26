@@ -1,0 +1,31 @@
+{
+  "word": "galvanize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "galvanize iron",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30916.png",
+      "local_image_path": "images/30916.png"
+    },
+    {
+      "pos": "tv",
+      "example": "galvanize them into action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30917.png",
+      "local_image_path": "images/30917.png"
+    }
+  ],
+  "synonyms": [
+    "spur",
+    "rouse",
+    "stimulate",
+    "electrify",
+    "animate",
+    "incite"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/galvanize.mp3",
+  "local_sound_path": "sounds/galvanize.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "muscular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "muscular disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111135.png",
+      "local_image_path": "images/111135.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111136.png",
+      "local_image_path": "images/111136.png"
+    },
+    {
+      "pos": "adj",
+      "example": "muscular man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111137.png",
+      "local_image_path": "images/111137.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124401.png",
+      "local_image_path": "images/124401.png"
+    }
+  ],
+  "synonyms": [
+    "brawny",
+    "beefy",
+    "well-built",
+    "burly",
+    "strapping",
+    "strong",
+    "powerful"
+  ],
+  "antonyms": [
+    "puny"
+  ],
+  "similar_words": [
+    "muscular system",
+    "muscularity",
+    "muscularly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/muscular.mp3",
+  "local_sound_path": "sounds/muscular.mp3"
+}

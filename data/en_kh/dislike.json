@@ -1,0 +1,49 @@
+{
+  "word": "dislike",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21967.png",
+      "local_image_path": "images/21967.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118533.png",
+      "local_image_path": "images/118533.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118534.png",
+      "local_image_path": "images/118534.png"
+    },
+    {
+      "pos": "tv",
+      "example": "My mother dislikes seeing you with me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21966.png",
+      "local_image_path": "images/21966.png"
+    }
+  ],
+  "synonyms": [
+    "aversion",
+    "hatred",
+    "loathing",
+    "abhorrence",
+    "hate",
+    "abhor",
+    "detest",
+    "loathe",
+    "disapprove"
+  ],
+  "antonyms": [
+    "like",
+    "liking"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dislike.mp3",
+  "local_sound_path": "sounds/dislike.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "clumsy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "it's not easy walking in these clumsy shoes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15209.png",
+      "local_image_path": "images/15209.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116547.png",
+      "local_image_path": "images/116547.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116548.png",
+      "local_image_path": "images/116548.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116549.png",
+      "local_image_path": "images/116549.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116550.png",
+      "local_image_path": "images/116550.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116551.png",
+      "local_image_path": "images/116551.png"
+    }
+  ],
+  "synonyms": [
+    "awkward",
+    "inept",
+    "ungainly",
+    "maladroit",
+    "gauche",
+    "lumbering",
+    "gawky",
+    "inelegant",
+    "heavy-handed"
+  ],
+  "antonyms": [
+    "graceful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clumsy.mp3",
+  "local_sound_path": "sounds/clumsy.mp3"
+}

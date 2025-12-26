@@ -1,0 +1,52 @@
+{
+  "word": "shop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79348.png",
+      "local_image_path": "images/79348.png"
+    },
+    {
+      "pos": "n",
+      "example": "book shop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79347.png",
+      "local_image_path": "images/79347.png"
+    }
+  ],
+  "synonyms": [
+    "supermarket",
+    "store",
+    "betray"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shop assistant",
+    "shop-book",
+    "shop-boy",
+    "shop-girl",
+    "shop-sign",
+    "shop-soiled",
+    "shop-steward",
+    "shop-talk",
+    "shop-walker",
+    "shop-window",
+    "shop-worn",
+    "shopkeeper",
+    "shoplifter",
+    "shoplifting",
+    "shopman",
+    "shopper",
+    "shopping",
+    "shopping around",
+    "shopping basket",
+    "shopping center",
+    "shopping centre",
+    "shopping mall",
+    "shoppy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shop.mp3",
+  "local_sound_path": "sounds/shop.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "roaring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73888.png",
+      "local_image_path": "images/73888.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127171.png",
+      "local_image_path": "images/127171.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127172.png",
+      "local_image_path": "images/127172.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127173.png",
+      "local_image_path": "images/127173.png"
+    },
+    {
+      "pos": "adv",
+      "example": "roaring drunk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73889.png",
+      "local_image_path": "images/73889.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73887.png",
+      "local_image_path": "images/73887.png"
+    }
+  ],
+  "synonyms": [
+    "busy",
+    "thriving",
+    "prosperous",
+    "active",
+    "snarling",
+    "howling",
+    "calling",
+    "crying",
+    "barking",
+    "yapping"
+  ],
+  "antonyms": [
+    "quiet",
+    "slack"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/roaring.mp3",
+  "local_sound_path": "sounds/roaring.mp3"
+}

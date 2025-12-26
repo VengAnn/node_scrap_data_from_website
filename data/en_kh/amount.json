@@ -1,0 +1,50 @@
+{
+  "word": "amount",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He'll never amount to any thing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3943.png",
+      "local_image_path": "images/3943.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113658.png",
+      "local_image_path": "images/113658.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113659.png",
+      "local_image_path": "images/113659.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113660.png",
+      "local_image_path": "images/113660.png"
+    },
+    {
+      "pos": "n",
+      "example": "he owned me 1000 but could pay only half that amount",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3942.png",
+      "local_image_path": "images/3942.png"
+    }
+  ],
+  "synonyms": [
+    "quantity",
+    "sum",
+    "total",
+    "volume",
+    "expanse",
+    "extent",
+    "aggregate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amount.mp3",
+  "local_sound_path": "sounds/amount.mp3"
+}

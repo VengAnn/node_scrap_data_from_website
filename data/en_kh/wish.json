@@ -1,0 +1,73 @@
+{
+  "word": "wish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "aux v.",
+      "example": "She wished herself home again.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100580.png",
+      "local_image_path": "images/100580.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I wish I knew what is happening.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100581.png",
+      "local_image_path": "images/100581.png"
+    },
+    {
+      "pos": "iv",
+      "example": "wish for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100582.png",
+      "local_image_path": "images/100582.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100583.png",
+      "local_image_path": "images/100583.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100584.png",
+      "local_image_path": "images/100584.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100585.png",
+      "local_image_path": "images/100585.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a wish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100586.png",
+      "local_image_path": "images/100586.png"
+    }
+  ],
+  "synonyms": [
+    "want",
+    "desire",
+    "long"
+  ],
+  "antonyms": [
+    "disinclination"
+  ],
+  "similar_words": [
+    "wishable",
+    "wisher",
+    "wishes",
+    "wishful",
+    "wishfully",
+    "wishfulness",
+    "wishing",
+    "wishmay",
+    "wisht",
+    "wishtonwish",
+    "wishy wash",
+    "wishy-washy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wish.mp3",
+  "local_sound_path": "sounds/wish.mp3"
+}

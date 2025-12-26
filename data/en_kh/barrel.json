@@ -1,0 +1,37 @@
+{
+  "word": "barrel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7582.png",
+      "local_image_path": "images/7582.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7580.png",
+      "local_image_path": "images/7580.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7581.png",
+      "local_image_path": "images/7581.png"
+    }
+  ],
+  "synonyms": [
+    "tub",
+    "drum",
+    "cask",
+    "container",
+    "butt",
+    "vat"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barrel.mp3",
+  "local_sound_path": "sounds/barrel.mp3"
+}

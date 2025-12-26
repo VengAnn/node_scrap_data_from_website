@@ -1,0 +1,39 @@
+{
+  "word": "spat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83099.png",
+      "local_image_path": "images/83099.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83098.png",
+      "local_image_path": "images/83098.png"
+    }
+  ],
+  "synonyms": [
+    "fight",
+    "quarrel",
+    "row",
+    "argument"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "spate",
+    "spathe",
+    "spatial",
+    "spatially",
+    "spatiate",
+    "spattee",
+    "spatter",
+    "spattle",
+    "spatula"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spat.mp3",
+  "local_sound_path": "sounds/spat.mp3"
+}

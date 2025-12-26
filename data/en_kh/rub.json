@@ -1,0 +1,92 @@
+{
+  "word": "rub",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "Don't rub it in!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74436.png",
+      "local_image_path": "images/74436.png"
+    },
+    {
+      "pos": "idm",
+      "example": "There's the rub",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74440.png",
+      "local_image_path": "images/74440.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Wheels rub against the fender",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74437.png",
+      "local_image_path": "images/74437.png"
+    },
+    {
+      "pos": "iv",
+      "example": "colors rub off",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74438.png",
+      "local_image_path": "images/74438.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74439.png",
+      "local_image_path": "images/74439.png"
+    },
+    {
+      "pos": "sl",
+      "example": "rub out (an enemy)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74435.png",
+      "local_image_path": "images/74435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rub a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74433.png",
+      "local_image_path": "images/74433.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rub one's back",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74434.png",
+      "local_image_path": "images/74434.png"
+    }
+  ],
+  "synonyms": [
+    "massage",
+    "stroke",
+    "chafe",
+    "polish",
+    "wipe",
+    "pat",
+    "caress",
+    "knead",
+    "fondle"
+  ],
+  "antonyms": [
+    "soothe"
+  ],
+  "similar_words": [
+    "rub-a-dub",
+    "rubber",
+    "rubber band",
+    "rubber check",
+    "rubber-stamp",
+    "rubberize",
+    "rubberneck",
+    "rubbery",
+    "rubbing",
+    "rubbish",
+    "rubbishy",
+    "rubble",
+    "rubblework",
+    "rubbly",
+    "rubdown",
+    "rube",
+    "rubefacient",
+    "rubefaciention",
+    "rubefaction"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rub.mp3",
+  "local_sound_path": "sounds/rub.mp3"
+}

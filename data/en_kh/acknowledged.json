@@ -1,0 +1,25 @@
+{
+  "word": "acknowledged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Sao is acknowleged to be the eleverest boy in his class",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2078.png",
+      "local_image_path": "images/2078.png"
+    }
+  ],
+  "synonyms": [
+    "known",
+    "accredited",
+    "accepted",
+    "agreed"
+  ],
+  "antonyms": [
+    "denied"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acknowledged.mp3",
+  "local_sound_path": "sounds/acknowledged.mp3"
+}

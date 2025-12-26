@@ -1,0 +1,56 @@
+{
+  "word": "closet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15131.png",
+      "local_image_path": "images/15131.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15130.png",
+      "local_image_path": "images/15130.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130087.png",
+      "local_image_path": "images/130087.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130088.png",
+      "local_image_path": "images/130088.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he was closeted with the manager",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15132.png",
+      "local_image_path": "images/15132.png"
+    }
+  ],
+  "synonyms": [
+    "cabinet",
+    "cupboard",
+    "wardrobe",
+    "cloister",
+    "sequester",
+    "seclude",
+    "confine",
+    "shut up"
+  ],
+  "antonyms": [
+    "open"
+  ],
+  "similar_words": [
+    "closet drama",
+    "closet queen"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/closet.mp3",
+  "local_sound_path": "sounds/closet.mp3"
+}

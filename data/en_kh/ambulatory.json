@@ -1,0 +1,30 @@
+{
+  "word": "ambulatory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ambulatory patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3825.png",
+      "local_image_path": "images/3825.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132176.png",
+      "local_image_path": "images/132176.png"
+    },
+    {
+      "pos": "archit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3826.png",
+      "local_image_path": "images/3826.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ambulatory.mp3",
+  "local_sound_path": "sounds/ambulatory.mp3"
+}

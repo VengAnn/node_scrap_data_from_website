@@ -1,0 +1,44 @@
+{
+  "word": "baulk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7798.png",
+      "local_image_path": "images/7798.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7799.png",
+      "local_image_path": "images/7799.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114691.png",
+      "local_image_path": "images/114691.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114692.png",
+      "local_image_path": "images/114692.png"
+    }
+  ],
+  "synonyms": [
+    "recoil",
+    "hesitate",
+    "flinch",
+    "start",
+    "cringe"
+  ],
+  "antonyms": [
+    "leap at"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baulk.mp3",
+  "local_sound_path": "sounds/baulk.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "stupidity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "stupidity of his act",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85637.png",
+      "local_image_path": "images/85637.png"
+    },
+    {
+      "pos": "n",
+      "example": "commit a stupidity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85638.png",
+      "local_image_path": "images/85638.png"
+    }
+  ],
+  "synonyms": [
+    "foolishness",
+    "foolhardiness",
+    "idiocy",
+    "silliness",
+    "inanity",
+    "folly",
+    "futility",
+    "senselessness",
+    "absurdity"
+  ],
+  "antonyms": [
+    "sense"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stupidity.mp3",
+  "local_sound_path": "sounds/stupidity.mp3"
+}

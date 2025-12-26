@@ -1,0 +1,76 @@
+{
+  "word": "rush",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rush order",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74734.png",
+      "local_image_path": "images/74734.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rush with his work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74729.png",
+      "local_image_path": "images/74729.png"
+    },
+    {
+      "pos": "n",
+      "example": "in a rush",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74733.png",
+      "local_image_path": "images/74733.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74735.png",
+      "local_image_path": "images/74735.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rush an order",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74730.png",
+      "local_image_path": "images/74730.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rush a worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74731.png",
+      "local_image_path": "images/74731.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rush him to the hospital",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74732.png",
+      "local_image_path": "images/74732.png"
+    }
+  ],
+  "synonyms": [
+    "blast",
+    "current",
+    "gale",
+    "gust",
+    "blow",
+    "stream",
+    "draft",
+    "hurry",
+    "precipitate",
+    "hasten",
+    "hustle",
+    "dash",
+    "bolt"
+  ],
+  "antonyms": [
+    "dawdle"
+  ],
+  "similar_words": [
+    "rush hout",
+    "rush periods",
+    "rush-like",
+    "rushen",
+    "rushy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rush.mp3",
+  "local_sound_path": "sounds/rush.mp3"
+}

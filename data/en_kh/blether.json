@@ -1,0 +1,26 @@
+{
+  "word": "blether",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9533.png",
+      "local_image_path": "images/9533.png"
+    }
+  ],
+  "synonyms": [
+    "chat",
+    "conversation",
+    "gossip",
+    "talk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bletheration",
+    "bletherskate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blether.mp3",
+  "local_sound_path": "sounds/blether.mp3"
+}

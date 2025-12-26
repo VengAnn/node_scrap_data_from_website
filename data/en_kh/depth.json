@@ -1,0 +1,47 @@
+{
+  "word": "depth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "depth of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20698.png",
+      "local_image_path": "images/20698.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20699.png",
+      "local_image_path": "images/20699.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20700.png",
+      "local_image_path": "images/20700.png"
+    }
+  ],
+  "synonyms": [
+    "penetration",
+    "profundity",
+    "deepness",
+    "wisdom",
+    "seriousness",
+    "gravity",
+    "intensity",
+    "strength",
+    "power",
+    "vigor",
+    "concentration",
+    "extent"
+  ],
+  "antonyms": [
+    "height",
+    "weakness",
+    "flippancy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/depth.mp3",
+  "local_sound_path": "sounds/depth.mp3"
+}

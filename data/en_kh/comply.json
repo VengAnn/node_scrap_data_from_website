@@ -1,0 +1,45 @@
+{
+  "word": "comply",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the rules must be complied with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16284.png",
+      "local_image_path": "images/16284.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116916.png",
+      "local_image_path": "images/116916.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116917.png",
+      "local_image_path": "images/116917.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116918.png",
+      "local_image_path": "images/116918.png"
+    }
+  ],
+  "synonyms": [
+    "obey",
+    "fulfill",
+    "observe",
+    "conform",
+    "abide by",
+    "submit"
+  ],
+  "antonyms": [
+    "disobey"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comply.mp3",
+  "local_sound_path": "sounds/comply.mp3"
+}

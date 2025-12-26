@@ -1,0 +1,79 @@
+{
+  "word": "flourish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "businesses flourish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29247.png",
+      "local_image_path": "images/29247.png"
+    },
+    {
+      "pos": "iv",
+      "example": "crops flourish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29248.png",
+      "local_image_path": "images/29248.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29249.png",
+      "local_image_path": "images/29249.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29250.png",
+      "local_image_path": "images/29250.png"
+    },
+    {
+      "pos": "n",
+      "example": "flourish of a sword",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29253.png",
+      "local_image_path": "images/29253.png"
+    },
+    {
+      "pos": "n",
+      "example": "flourish of a pen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29254.png",
+      "local_image_path": "images/29254.png"
+    },
+    {
+      "pos": "n",
+      "example": "verbal flourish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29255.png",
+      "local_image_path": "images/29255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flourish the sword",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29251.png",
+      "local_image_path": "images/29251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flourish the letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29252.png",
+      "local_image_path": "images/29252.png"
+    }
+  ],
+  "synonyms": [
+    "display",
+    "fanfare",
+    "show",
+    "shake",
+    "flaunt",
+    "wave",
+    "brandish",
+    "wield",
+    "swing"
+  ],
+  "antonyms": [
+    "deteriorate",
+    "decline"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flourish.mp3",
+  "local_sound_path": "sounds/flourish.mp3"
+}

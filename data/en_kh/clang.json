@@ -1,0 +1,55 @@
+{
+  "word": "clang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14784.png",
+      "local_image_path": "images/14784.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14786.png",
+      "local_image_path": "images/14786.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14785.png",
+      "local_image_path": "images/14785.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116415.png",
+      "local_image_path": "images/116415.png"
+    }
+  ],
+  "synonyms": [
+    "clash",
+    "clank",
+    "ring",
+    "clink",
+    "bang",
+    "sound",
+    "toll",
+    "reverberate",
+    "resound",
+    "chime",
+    "jangle",
+    "jingle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clanger",
+    "clangor",
+    "clangorous",
+    "clangorously",
+    "clangour"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clang.mp3",
+  "local_sound_path": "sounds/clang.mp3"
+}

@@ -1,0 +1,80 @@
+{
+  "word": "stem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84612.png",
+      "local_image_path": "images/84612.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84613.png",
+      "local_image_path": "images/84613.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84614.png",
+      "local_image_path": "images/84614.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84615.png",
+      "local_image_path": "images/84615.png"
+    },
+    {
+      "pos": "n",
+      "example": "stem of a word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84616.png",
+      "local_image_path": "images/84616.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84617.png",
+      "local_image_path": "images/84617.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stem from",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84618.png",
+      "local_image_path": "images/84618.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84619.png",
+      "local_image_path": "images/84619.png"
+    }
+  ],
+  "synonyms": [
+    "stop",
+    "curtail",
+    "stanch",
+    "halt",
+    "restrict",
+    "slow",
+    "lessen",
+    "reduce",
+    "decrease",
+    "check",
+    "curb",
+    "hinder",
+    "staunch"
+  ],
+  "antonyms": [
+    "accelerate"
+  ],
+  "similar_words": [
+    "stem cell",
+    "stemma",
+    "stemming"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stem.mp3",
+  "local_sound_path": "sounds/stem.mp3"
+}

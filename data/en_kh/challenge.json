@@ -1,0 +1,48 @@
+{
+  "word": "challenge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13742.png",
+      "local_image_path": "images/13742.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116141.png",
+      "local_image_path": "images/116141.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will challenge him to fight next weak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13741.png",
+      "local_image_path": "images/13741.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130057.png",
+      "local_image_path": "images/130057.png"
+    }
+  ],
+  "synonyms": [
+    "test",
+    "trial",
+    "contest",
+    "experiment",
+    "dispute",
+    "question",
+    "oppose",
+    "argue"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "challengeable",
+    "challenger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/challenge.mp3",
+  "local_sound_path": "sounds/challenge.mp3"
+}

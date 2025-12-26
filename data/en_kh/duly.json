@@ -1,0 +1,31 @@
+{
+  "word": "duly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "duly elected",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23395.png",
+      "local_image_path": "images/23395.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I duly knocked on his door at three o'clock.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23396.png",
+      "local_image_path": "images/23396.png"
+    }
+  ],
+  "synonyms": [
+    "accordingly",
+    "appropriately",
+    "properly",
+    "correctly"
+  ],
+  "antonyms": [
+    "unduly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duly.mp3",
+  "local_sound_path": "sounds/duly.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "polarity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64679.png",
+      "local_image_path": "images/64679.png"
+    }
+  ],
+  "synonyms": [
+    "division",
+    "split",
+    "schism",
+    "divergence",
+    "polarization",
+    "separation",
+    "opposition"
+  ],
+  "antonyms": [
+    "convergence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/polarity.mp3",
+  "local_sound_path": "sounds/polarity.mp3"
+}

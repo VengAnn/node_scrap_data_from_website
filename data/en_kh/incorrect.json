@@ -1,0 +1,41 @@
+{
+  "word": "incorrect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38694.png",
+      "local_image_path": "images/38694.png"
+    }
+  ],
+  "synonyms": [
+    "improper",
+    "inappropriate",
+    "unseemly",
+    "unbecoming",
+    "impolite",
+    "indecorous",
+    "offensive",
+    "indelicate",
+    "indecent",
+    "faulty",
+    "inaccurate",
+    "imprecise",
+    "inexact",
+    "ungrammatical"
+  ],
+  "antonyms": [
+    "correct",
+    "proper",
+    "right"
+  ],
+  "similar_words": [
+    "incorrection",
+    "incorrectly",
+    "incorrectness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incorrect.mp3",
+  "local_sound_path": "sounds/incorrect.mp3"
+}

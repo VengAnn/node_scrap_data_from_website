@@ -1,0 +1,64 @@
+{
+  "word": "difference",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "difference between pears and apples",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21282.png",
+      "local_image_path": "images/21282.png"
+    },
+    {
+      "pos": "n",
+      "example": "difference of opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21283.png",
+      "local_image_path": "images/21283.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21286.png",
+      "local_image_path": "images/21286.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118280.png",
+      "local_image_path": "images/118280.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118281.png",
+      "local_image_path": "images/118281.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118282.png",
+      "local_image_path": "images/118282.png"
+    }
+  ],
+  "synonyms": [
+    "change",
+    "alteration",
+    "variance",
+    "modification",
+    "argument",
+    "dispute",
+    "disagreement",
+    "quarrel",
+    "tiff",
+    "spat",
+    "barney",
+    "contretemps"
+  ],
+  "antonyms": [
+    "similarity",
+    "consistency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/difference.mp3",
+  "local_sound_path": "sounds/difference.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "delivery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take delivery of goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20354.png",
+      "local_image_path": "images/20354.png"
+    },
+    {
+      "pos": "n",
+      "example": "delivery from slavery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20355.png",
+      "local_image_path": "images/20355.png"
+    },
+    {
+      "pos": "n",
+      "example": "delivery of a baby",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20356.png",
+      "local_image_path": "images/20356.png"
+    },
+    {
+      "pos": "n",
+      "example": "delivery of an orator",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20357.png",
+      "local_image_path": "images/20357.png"
+    }
+  ],
+  "synonyms": [
+    "provision",
+    "supply",
+    "administration",
+    "providing"
+  ],
+  "antonyms": [
+    "capture"
+  ],
+  "similar_words": [
+    "delivery note",
+    "delivery order",
+    "delivery receipt",
+    "delivery time",
+    "delivery van"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delivery.mp3",
+  "local_sound_path": "sounds/delivery.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "tyranny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92835.png",
+      "local_image_path": "images/92835.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128595.png",
+      "local_image_path": "images/128595.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128596.png",
+      "local_image_path": "images/128596.png"
+    }
+  ],
+  "synonyms": [
+    "oppression",
+    "dictatorship",
+    "autocracy",
+    "domination",
+    "despotism",
+    "totalitarianism",
+    "cruelty",
+    "oppressiveness"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tyranny.mp3",
+  "local_sound_path": "sounds/tyranny.mp3"
+}

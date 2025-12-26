@@ -1,0 +1,39 @@
+{
+  "word": "clamp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "clamp donw (on)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14778.png",
+      "local_image_path": "images/14778.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116408.png",
+      "local_image_path": "images/116408.png"
+    },
+    {
+      "pos": "n",
+      "example": "wood clamp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14777.png",
+      "local_image_path": "images/14777.png"
+    }
+  ],
+  "synonyms": [
+    "fasten",
+    "compress",
+    "fix",
+    "secure",
+    "close",
+    "hold",
+    "brace",
+    "clinch"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clamp.mp3",
+  "local_sound_path": "sounds/clamp.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "crime",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The police prevent and detect crime.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18586.png",
+      "local_image_path": "images/18586.png"
+    },
+    {
+      "pos": "n",
+      "example": "It is a crime to waste money like that",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18587.png",
+      "local_image_path": "images/18587.png"
+    }
+  ],
+  "synonyms": [
+    "corruption",
+    "misconduct",
+    "delinquency",
+    "offense",
+    "offence",
+    "wrong",
+    "sin",
+    "misdeed",
+    "felony",
+    "fault",
+    "misdemeanor",
+    "transgression",
+    "violation",
+    "illegality",
+    "infringement"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crime.mp3",
+  "local_sound_path": "sounds/crime.mp3"
+}

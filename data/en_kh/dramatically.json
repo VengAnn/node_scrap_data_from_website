@@ -1,0 +1,41 @@
+{
+  "word": "dramatically",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22995.png",
+      "local_image_path": "images/22995.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118775.png",
+      "local_image_path": "images/118775.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118776.png",
+      "local_image_path": "images/118776.png"
+    }
+  ],
+  "synonyms": [
+    "radically",
+    "noticeably",
+    "severely",
+    "considerably",
+    "vividly",
+    "significantly",
+    "markedly"
+  ],
+  "antonyms": [
+    "modestly",
+    "naturally"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dramatically.mp3",
+  "local_sound_path": "sounds/dramatically.mp3"
+}

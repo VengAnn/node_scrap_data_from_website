@@ -1,0 +1,40 @@
+{
+  "word": "impurity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38048.png",
+      "local_image_path": "images/38048.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38049.png",
+      "local_image_path": "images/38049.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38050.png",
+      "local_image_path": "images/38050.png"
+    }
+  ],
+  "synonyms": [
+    "contamination",
+    "pollution",
+    "adulteration",
+    "uncleanness",
+    "infection",
+    "dirtiness",
+    "dirt"
+  ],
+  "antonyms": [
+    "purity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impurity.mp3",
+  "local_sound_path": "sounds/impurity.mp3"
+}

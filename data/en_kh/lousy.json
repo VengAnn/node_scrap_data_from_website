@@ -1,0 +1,41 @@
+{
+  "word": "lousy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lousy chicken",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47753.png",
+      "local_image_path": "images/47753.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lousy day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47754.png",
+      "local_image_path": "images/47754.png"
+    }
+  ],
+  "synonyms": [
+    "useless",
+    "worthless",
+    "stupid",
+    "mean",
+    "horrible",
+    "awful",
+    "rotten",
+    "miserable",
+    "dreadful",
+    "terrible",
+    "down",
+    "abysmal",
+    "fed-up",
+    "nasty"
+  ],
+  "antonyms": [
+    "great"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lousy.mp3",
+  "local_sound_path": "sounds/lousy.mp3"
+}

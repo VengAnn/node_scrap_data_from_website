@@ -1,0 +1,35 @@
+{
+  "word": "warden",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "prison warden",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99046.png",
+      "local_image_path": "images/99046.png"
+    },
+    {
+      "pos": "n",
+      "example": "forest warden",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99047.png",
+      "local_image_path": "images/99047.png"
+    }
+  ],
+  "synonyms": [
+    "custodian",
+    "curator",
+    "keeper",
+    "steward",
+    "superintendent",
+    "supervisor",
+    "guardian"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wardency",
+    "wardenship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/warden.mp3",
+  "local_sound_path": "sounds/warden.mp3"
+}

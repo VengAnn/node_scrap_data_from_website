@@ -1,0 +1,85 @@
+{
+  "word": "odd",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57190.png",
+      "local_image_path": "images/57190.png"
+    },
+    {
+      "pos": "adj",
+      "example": "odd specimen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57191.png",
+      "local_image_path": "images/57191.png"
+    },
+    {
+      "pos": "adj",
+      "example": "odd number",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57192.png",
+      "local_image_path": "images/57192.png"
+    },
+    {
+      "pos": "adj",
+      "example": "odd shoe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57193.png",
+      "local_image_path": "images/57193.png"
+    },
+    {
+      "pos": "adj",
+      "example": "odd jobs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57194.png",
+      "local_image_path": "images/57194.png"
+    },
+    {
+      "pos": "adj",
+      "example": "odd person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57195.png",
+      "local_image_path": "images/57195.png"
+    },
+    {
+      "pos": "adj",
+      "example": "He makes a living by doing odd jobs.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57196.png",
+      "local_image_path": "images/57196.png"
+    }
+  ],
+  "synonyms": [
+    "strange",
+    "abnormal",
+    "unusual",
+    "peculiar",
+    "anomalous",
+    "weird",
+    "funny",
+    "incongruous",
+    "eccentric",
+    "idiosyncratic",
+    "unconventional",
+    "uncommon",
+    "unorthodox",
+    "individual"
+  ],
+  "antonyms": [
+    "ordinary"
+  ],
+  "similar_words": [
+    "odd-even",
+    "odd-job-man",
+    "odd-looking",
+    "oddball",
+    "oddish",
+    "oddity",
+    "oddly",
+    "oddment",
+    "oddments",
+    "oddness",
+    "odds",
+    "odds and ends",
+    "odds-on"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/odd.mp3",
+  "local_sound_path": "sounds/odd.mp3"
+}

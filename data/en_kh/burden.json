@@ -1,0 +1,40 @@
+{
+  "word": "burden",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "burden of firewood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11894.png",
+      "local_image_path": "images/11894.png"
+    },
+    {
+      "pos": "tv",
+      "example": "burden a donkey",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11895.png",
+      "local_image_path": "images/11895.png"
+    }
+  ],
+  "synonyms": [
+    "responsibility",
+    "duty",
+    "onus",
+    "obligation",
+    "saddle",
+    "encumber",
+    "trouble",
+    "yoke",
+    "inconvenience",
+    "load",
+    "lumber"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "burdensome",
+    "burdensomely",
+    "burdensomeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burden.mp3",
+  "local_sound_path": "sounds/burden.mp3"
+}

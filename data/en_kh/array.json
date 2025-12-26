@@ -1,0 +1,42 @@
+{
+  "word": "array",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "she arrayed herself in her finest clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5562.png",
+      "local_image_path": "images/5562.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114025.png",
+      "local_image_path": "images/114025.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114026.png",
+      "local_image_path": "images/114026.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114027.png",
+      "local_image_path": "images/114027.png"
+    }
+  ],
+  "synonyms": [
+    "clothe",
+    "dress",
+    "attire",
+    "drape",
+    "bedeck"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/array.mp3",
+  "local_sound_path": "sounds/array.mp3"
+}

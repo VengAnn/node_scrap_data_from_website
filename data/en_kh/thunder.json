@@ -1,0 +1,64 @@
+{
+  "word": "thunder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "It thunders three times.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89264.png",
+      "local_image_path": "images/89264.png"
+    },
+    {
+      "pos": "iv",
+      "example": "thunder with rage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89265.png",
+      "local_image_path": "images/89265.png"
+    },
+    {
+      "pos": "n",
+      "example": "We haven't had much thunder this summer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89262.png",
+      "local_image_path": "images/89262.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89263.png",
+      "local_image_path": "images/89263.png"
+    }
+  ],
+  "synonyms": [
+    "shout",
+    "bellow",
+    "boom",
+    "roar",
+    "yell",
+    "bark",
+    "resound",
+    "rumble",
+    "clap",
+    "crack"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [
+    "thunder-bearer",
+    "thunder-blast",
+    "thunder-clap",
+    "thunderbolt",
+    "thundercloud",
+    "thunderer",
+    "thundering",
+    "thunderous",
+    "thunderously",
+    "thundershower",
+    "thunderstone",
+    "thunderstorm",
+    "thunderstruck",
+    "thundery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thunder.mp3",
+  "local_sound_path": "sounds/thunder.mp3"
+}

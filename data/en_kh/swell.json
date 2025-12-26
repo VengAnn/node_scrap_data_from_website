@@ -1,0 +1,84 @@
+{
+  "word": "swell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86845.png",
+      "local_image_path": "images/86845.png"
+    },
+    {
+      "pos": "iv",
+      "example": "infections swell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86837.png",
+      "local_image_path": "images/86837.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rivers swell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86838.png",
+      "local_image_path": "images/86838.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sounds swell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86839.png",
+      "local_image_path": "images/86839.png"
+    },
+    {
+      "pos": "n",
+      "example": "swell of the tide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86843.png",
+      "local_image_path": "images/86843.png"
+    },
+    {
+      "pos": "n",
+      "example": "swell of a sprain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86844.png",
+      "local_image_path": "images/86844.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swell an arm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86840.png",
+      "local_image_path": "images/86840.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swell the sails",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86841.png",
+      "local_image_path": "images/86841.png"
+    },
+    {
+      "pos": "tv",
+      "example": "swell a river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86842.png",
+      "local_image_path": "images/86842.png"
+    }
+  ],
+  "synonyms": [
+    "wave",
+    "billow",
+    "surge",
+    "comber",
+    "roller",
+    "increase",
+    "grow",
+    "enlarge",
+    "inflate",
+    "expand",
+    "mushroom",
+    "proliferate"
+  ],
+  "antonyms": [
+    "deflate",
+    "decrease",
+    "diminish",
+    "awful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swell.mp3",
+  "local_sound_path": "sounds/swell.mp3"
+}

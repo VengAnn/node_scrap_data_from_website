@@ -1,0 +1,28 @@
+{
+  "word": "degrade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "degrade an officer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20261.png",
+      "local_image_path": "images/20261.png"
+    }
+  ],
+  "synonyms": [
+    "decay",
+    "rot",
+    "decompose",
+    "disintegrate",
+    "perish"
+  ],
+  "antonyms": [
+    "respect",
+    "upgrade",
+    "exalt"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/degrade.mp3",
+  "local_sound_path": "sounds/degrade.mp3"
+}

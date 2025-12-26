@@ -1,0 +1,52 @@
+{
+  "word": "patron",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60711.png",
+      "local_image_path": "images/60711.png"
+    },
+    {
+      "pos": "n",
+      "example": "patron of a restaurant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60712.png",
+      "local_image_path": "images/60712.png"
+    },
+    {
+      "pos": "n",
+      "example": "patron of the arts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60713.png",
+      "local_image_path": "images/60713.png"
+    }
+  ],
+  "synonyms": [
+    "supporter",
+    "fan",
+    "benefactor",
+    "sponsor",
+    "client",
+    "investor",
+    "customer",
+    "diner",
+    "user",
+    "punter",
+    "shopper"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "patronage",
+    "patronal",
+    "patroness",
+    "patronize",
+    "patronizer",
+    "patronizing",
+    "patronless",
+    "patronymic",
+    "patronymically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/patron.mp3",
+  "local_sound_path": "sounds/patron.mp3"
+}

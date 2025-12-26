@@ -1,0 +1,50 @@
+{
+  "word": "tone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "shrill tone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90003.png",
+      "local_image_path": "images/90003.png"
+    },
+    {
+      "pos": "n",
+      "example": "tone of voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90004.png",
+      "local_image_path": "images/90004.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90005.png",
+      "local_image_path": "images/90005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tone it with yellow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90006.png",
+      "local_image_path": "images/90006.png"
+    }
+  ],
+  "synonyms": [
+    "shade",
+    "color",
+    "hue",
+    "tint",
+    "tinge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tone collor",
+    "tone language",
+    "tone poem",
+    "toneless",
+    "tonelessly",
+    "tonelessness",
+    "toner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tone.mp3",
+  "local_sound_path": "sounds/tone.mp3"
+}

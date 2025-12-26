@@ -1,0 +1,58 @@
+{
+  "word": "shield",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "soldier's shield",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79109.png",
+      "local_image_path": "images/79109.png"
+    },
+    {
+      "pos": "n",
+      "example": "machine shield",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79110.png",
+      "local_image_path": "images/79110.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shield one's eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79111.png",
+      "local_image_path": "images/79111.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shield a friend from criticism",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79112.png",
+      "local_image_path": "images/79112.png"
+    }
+  ],
+  "synonyms": [
+    "protection",
+    "armor",
+    "defense",
+    "safeguard",
+    "buffer",
+    "protect",
+    "guard",
+    "defend",
+    "shelter",
+    "screen"
+  ],
+  "antonyms": [
+    "expose"
+  ],
+  "similar_words": [
+    "shield bearer",
+    "shield-hand",
+    "shield-shaped",
+    "shieldbone",
+    "shielded",
+    "shielder",
+    "shielding",
+    "shieldless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shield.mp3",
+  "local_sound_path": "sounds/shield.mp3"
+}

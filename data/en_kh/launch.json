@@ -1,0 +1,56 @@
+{
+  "word": "launch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45255.png",
+      "local_image_path": "images/45255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45251.png",
+      "local_image_path": "images/45251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "launch a missile",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45252.png",
+      "local_image_path": "images/45252.png"
+    },
+    {
+      "pos": "tv",
+      "example": "launch a program",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45253.png",
+      "local_image_path": "images/45253.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45254.png",
+      "local_image_path": "images/45254.png"
+    }
+  ],
+  "synonyms": [
+    "blast-off",
+    "send-off",
+    "departure",
+    "dispatch",
+    "discharge",
+    "send",
+    "shoot",
+    "fire",
+    "release",
+    "loose"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "launcher",
+    "launching"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/launch.mp3",
+  "local_sound_path": "sounds/launch.mp3"
+}

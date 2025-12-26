@@ -1,0 +1,33 @@
+{
+  "word": "desegregate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20815.png",
+      "local_image_path": "images/20815.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20814.png",
+      "local_image_path": "images/20814.png"
+    }
+  ],
+  "synonyms": [
+    "integrate",
+    "unify",
+    "unite",
+    "merge",
+    "reconcile",
+    "reunite"
+  ],
+  "antonyms": [
+    "segregate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desegregate.mp3",
+  "local_sound_path": "sounds/desegregate.mp3"
+}

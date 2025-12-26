@@ -1,0 +1,44 @@
+{
+  "word": "pronunciation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67727.png",
+      "local_image_path": "images/67727.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67728.png",
+      "local_image_path": "images/67728.png"
+    },
+    {
+      "pos": "n",
+      "example": "his pronunciation of the word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67729.png",
+      "local_image_path": "images/67729.png"
+    },
+    {
+      "pos": "n",
+      "example": "French pronunciation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67730.png",
+      "local_image_path": "images/67730.png"
+    }
+  ],
+  "synonyms": [
+    "articulation",
+    "accent",
+    "elocution",
+    "intonation",
+    "enunciation",
+    "diction",
+    "phonation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pronunciation.mp3",
+  "local_sound_path": "sounds/pronunciation.mp3"
+}

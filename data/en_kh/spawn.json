@@ -1,0 +1,51 @@
+{
+  "word": "spawn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83118.png",
+      "local_image_path": "images/83118.png"
+    },
+    {
+      "pos": "n",
+      "example": "fish spawn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83119.png",
+      "local_image_path": "images/83119.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83120.png",
+      "local_image_path": "images/83120.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83121.png",
+      "local_image_path": "images/83121.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83122.png",
+      "local_image_path": "images/83122.png"
+    }
+  ],
+  "synonyms": [
+    "generate",
+    "produce",
+    "initiate",
+    "reproduce",
+    "create"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "spawner",
+    "spawning-time"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spawn.mp3",
+  "local_sound_path": "sounds/spawn.mp3"
+}

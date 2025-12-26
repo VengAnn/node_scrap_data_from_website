@@ -1,0 +1,42 @@
+{
+  "word": "apprise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5158.png",
+      "local_image_path": "images/5158.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113894.png",
+      "local_image_path": "images/113894.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113895.png",
+      "local_image_path": "images/113895.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113896.png",
+      "local_image_path": "images/113896.png"
+    }
+  ],
+  "synonyms": [
+    "explain",
+    "tell",
+    "describe",
+    "impart",
+    "acquaint"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apprise.mp3",
+  "local_sound_path": "sounds/apprise.mp3"
+}

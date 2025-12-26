@@ -1,0 +1,57 @@
+{
+  "word": "grip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tight grip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32951.png",
+      "local_image_path": "images/32951.png"
+    },
+    {
+      "pos": "n",
+      "example": "suitcase grip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32952.png",
+      "local_image_path": "images/32952.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32955.png",
+      "local_image_path": "images/32955.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grip a handle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32953.png",
+      "local_image_path": "images/32953.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grip an idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32954.png",
+      "local_image_path": "images/32954.png"
+    }
+  ],
+  "synonyms": [
+    "fascinate",
+    "enthuse",
+    "enthrall",
+    "rivet",
+    "transfix",
+    "mesmerize"
+  ],
+  "antonyms": [
+    "bore",
+    "release",
+    "ignorance"
+  ],
+  "similar_words": [
+    "gripe",
+    "griper",
+    "grippe"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grip.mp3",
+  "local_sound_path": "sounds/grip.mp3"
+}

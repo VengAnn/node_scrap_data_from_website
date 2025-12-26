@@ -1,0 +1,39 @@
+{
+  "word": "lackluster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lackluster vase",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44388.png",
+      "local_image_path": "images/44388.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lackluster carece",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44389.png",
+      "local_image_path": "images/44389.png"
+    }
+  ],
+  "synonyms": [
+    "dreary",
+    "uninspiring",
+    "dull",
+    "jaded",
+    "tame",
+    "monotonous",
+    "boring",
+    "bland",
+    "lifeless",
+    "unexciting",
+    "uninteresting",
+    "undistinguished"
+  ],
+  "antonyms": [
+    "brilliant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lackluster.mp3",
+  "local_sound_path": "sounds/lackluster.mp3"
+}

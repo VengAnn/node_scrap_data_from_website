@@ -1,0 +1,31 @@
+{
+  "word": "cataleptic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13271.png",
+      "local_image_path": "images/13271.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13272.png",
+      "local_image_path": "images/13272.png"
+    }
+  ],
+  "synonyms": [
+    "comatose",
+    "insensible",
+    "lifeless",
+    "insentient"
+  ],
+  "antonyms": [
+    "awake"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cataleptic.mp3",
+  "local_sound_path": "sounds/cataleptic.mp3"
+}

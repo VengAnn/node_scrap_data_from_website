@@ -1,0 +1,50 @@
+{
+  "word": "revolve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wheels revolve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73413.png",
+      "local_image_path": "images/73413.png"
+    },
+    {
+      "pos": "tv",
+      "example": "revolve a wheel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73414.png",
+      "local_image_path": "images/73414.png"
+    },
+    {
+      "pos": "tv",
+      "example": "revolve an idea in his mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73415.png",
+      "local_image_path": "images/73415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127105.png",
+      "local_image_path": "images/127105.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127106.png",
+      "local_image_path": "images/127106.png"
+    }
+  ],
+  "synonyms": [
+    "rotate",
+    "turn",
+    "spin",
+    "circle",
+    "orbit",
+    "gyrate",
+    "turn round"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/revolve.mp3",
+  "local_sound_path": "sounds/revolve.mp3"
+}

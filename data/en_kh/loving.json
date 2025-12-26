@@ -1,0 +1,41 @@
+{
+  "word": "loving",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47808.png",
+      "local_image_path": "images/47808.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47809.png",
+      "local_image_path": "images/47809.png"
+    }
+  ],
+  "synonyms": [
+    "affectionate",
+    "tender",
+    "fond",
+    "devoted",
+    "caring",
+    "adoring",
+    "warm",
+    "amorous",
+    "liking"
+  ],
+  "antonyms": [
+    "cold"
+  ],
+  "similar_words": [
+    "loving cup",
+    "loving-kindness",
+    "lovingly",
+    "lovingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/loving.mp3",
+  "local_sound_path": "sounds/loving.mp3"
+}

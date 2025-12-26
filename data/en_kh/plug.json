@@ -1,0 +1,62 @@
+{
+  "word": "plug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden plug",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64286.png",
+      "local_image_path": "images/64286.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64287.png",
+      "local_image_path": "images/64287.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125638.png",
+      "local_image_path": "images/125638.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125639.png",
+      "local_image_path": "images/125639.png"
+    },
+    {
+      "pos": "sl",
+      "example": "plug a product",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64289.png",
+      "local_image_path": "images/64289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plug a hole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64288.png",
+      "local_image_path": "images/64288.png"
+    }
+  ],
+  "synonyms": [
+    "socket",
+    "point",
+    "stop",
+    "bung",
+    "seal",
+    "cork",
+    "close",
+    "cap",
+    "block",
+    "clog",
+    "congest"
+  ],
+  "antonyms": [
+    "unplug"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plug.mp3",
+  "local_sound_path": "sounds/plug.mp3"
+}

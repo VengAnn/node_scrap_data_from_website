@@ -1,0 +1,41 @@
+{
+  "word": "hulk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36251.png",
+      "local_image_path": "images/36251.png"
+    },
+    {
+      "pos": "n",
+      "example": "abandoned hulk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36249.png",
+      "local_image_path": "images/36249.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36250.png",
+      "local_image_path": "images/36250.png"
+    }
+  ],
+  "synonyms": [
+    "shell",
+    "skeleton",
+    "carcass",
+    "wreck",
+    "remains",
+    "ruins",
+    "frame"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hulking",
+    "hulky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hulk.mp3",
+  "local_sound_path": "sounds/hulk.mp3"
+}

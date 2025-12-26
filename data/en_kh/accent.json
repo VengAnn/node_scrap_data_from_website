@@ -1,0 +1,47 @@
+{
+  "word": "accent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "write an accent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1788.png",
+      "local_image_path": "images/1788.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111997.png",
+      "local_image_path": "images/111997.png"
+    },
+    {
+      "pos": "tv",
+      "example": "accent the yellow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1789.png",
+      "local_image_path": "images/1789.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111996.png",
+      "local_image_path": "images/111996.png"
+    }
+  ],
+  "synonyms": [
+    "emphasize",
+    "stress",
+    "accentuate",
+    "highlight",
+    "heighten"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "accentual",
+    "accentually",
+    "accentuate",
+    "accentuation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accent.mp3",
+  "local_sound_path": "sounds/accent.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "portion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "portion of a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65301.png",
+      "local_image_path": "images/65301.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65302.png",
+      "local_image_path": "images/65302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65303.png",
+      "local_image_path": "images/65303.png"
+    }
+  ],
+  "synonyms": [
+    "share",
+    "slice",
+    "serving",
+    "percentage",
+    "quantity",
+    "lot",
+    "measure",
+    "quota",
+    "ration",
+    "divide",
+    "distribute",
+    "allocate",
+    "assign",
+    "apportion"
+  ],
+  "antonyms": [
+    "whole"
+  ],
+  "similar_words": [
+    "portionable",
+    "portional",
+    "portionally",
+    "portioner",
+    "portionist",
+    "portionless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/portion.mp3",
+  "local_sound_path": "sounds/portion.mp3"
+}

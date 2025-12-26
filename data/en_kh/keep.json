@@ -1,0 +1,98 @@
+{
+  "word": "keep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "apples keep for months",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43707.png",
+      "local_image_path": "images/43707.png"
+    },
+    {
+      "pos": "n",
+      "example": "work for one's keep",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43708.png",
+      "local_image_path": "images/43708.png"
+    },
+    {
+      "pos": "n",
+      "example": "stone keep",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43709.png",
+      "local_image_path": "images/43709.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep some money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43699.png",
+      "local_image_path": "images/43699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep hogs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43700.png",
+      "local_image_path": "images/43700.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep a secret",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43701.png",
+      "local_image_path": "images/43701.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep records",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43702.png",
+      "local_image_path": "images/43702.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep a light burning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43703.png",
+      "local_image_path": "images/43703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep walking",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43704.png",
+      "local_image_path": "images/43704.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep one's word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43705.png",
+      "local_image_path": "images/43705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "keep old papers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43706.png",
+      "local_image_path": "images/43706.png"
+    }
+  ],
+  "synonyms": [
+    "own",
+    "farm",
+    "house",
+    "honor",
+    "fulfill",
+    "obey",
+    "observe",
+    "respect"
+  ],
+  "antonyms": [
+    "become",
+    "stop",
+    "break",
+    "abandon",
+    "release"
+  ],
+  "similar_words": [
+    "keeper",
+    "keeping",
+    "keepsake",
+    "keepworthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/keep.mp3",
+  "local_sound_path": "sounds/keep.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "word": "accredit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1923.png",
+      "local_image_path": "images/1923.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111945.png",
+      "local_image_path": "images/111945.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111946.png",
+      "local_image_path": "images/111946.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113145.png",
+      "local_image_path": "images/113145.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113146.png",
+      "local_image_path": "images/113146.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113147.png",
+      "local_image_path": "images/113147.png"
+    }
+  ],
+  "synonyms": [
+    "recognize",
+    "sanction",
+    "endorse",
+    "authorize",
+    "certify",
+    "certificate",
+    "indorse",
+    "approve"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "accreditable",
+    "accreditation",
+    "accredited"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accredit.mp3",
+  "local_sound_path": "sounds/accredit.mp3"
+}

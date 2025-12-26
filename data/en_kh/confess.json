@@ -1,0 +1,34 @@
+{
+  "word": "confess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "the prisoner refused to confess",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16647.png",
+      "local_image_path": "images/16647.png"
+    }
+  ],
+  "synonyms": [
+    "declare",
+    "profess",
+    "affirm",
+    "assert",
+    "acknowledge"
+  ],
+  "antonyms": [
+    "deny",
+    "repress"
+  ],
+  "similar_words": [
+    "confessable",
+    "confessedly",
+    "confesser",
+    "confession",
+    "confessional",
+    "confessor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confess.mp3",
+  "local_sound_path": "sounds/confess.mp3"
+}

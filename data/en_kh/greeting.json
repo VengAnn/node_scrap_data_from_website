@@ -1,0 +1,34 @@
+{
+  "word": "greeting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32858.png",
+      "local_image_path": "images/32858.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120793.png",
+      "local_image_path": "images/120793.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120794.png",
+      "local_image_path": "images/120794.png"
+    }
+  ],
+  "synonyms": [
+    "salutation",
+    "welcome",
+    "welcoming"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/greeting.mp3",
+  "local_sound_path": "sounds/greeting.mp3"
+}

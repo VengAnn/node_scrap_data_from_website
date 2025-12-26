@@ -1,0 +1,62 @@
+{
+  "word": "feature",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "feature story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27957.png",
+      "local_image_path": "images/27957.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27953.png",
+      "local_image_path": "images/27953.png"
+    },
+    {
+      "pos": "n",
+      "example": "special feature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27954.png",
+      "local_image_path": "images/27954.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119994.png",
+      "local_image_path": "images/119994.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119995.png",
+      "local_image_path": "images/119995.png"
+    },
+    {
+      "pos": "tv",
+      "example": "feature a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27955.png",
+      "local_image_path": "images/27955.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27956.png",
+      "local_image_path": "images/27956.png"
+    }
+  ],
+  "synonyms": [
+    "figure",
+    "appear",
+    "star",
+    "participate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "featured",
+    "featureless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/feature.mp3",
+  "local_sound_path": "sounds/feature.mp3"
+}

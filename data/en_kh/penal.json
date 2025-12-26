@@ -1,0 +1,38 @@
+{
+  "word": "penal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61268.png",
+      "local_image_path": "images/61268.png"
+    },
+    {
+      "pos": "adj",
+      "example": "penal law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61269.png",
+      "local_image_path": "images/61269.png"
+    }
+  ],
+  "synonyms": [
+    "punitive",
+    "severe",
+    "strict",
+    "disciplinary",
+    "corrective"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "penal institution",
+    "penalcode",
+    "penality",
+    "penalization",
+    "penalize",
+    "penally",
+    "penalty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/penal.mp3",
+  "local_sound_path": "sounds/penal.mp3"
+}

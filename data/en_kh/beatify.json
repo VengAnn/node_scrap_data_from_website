@@ -1,0 +1,42 @@
+{
+  "word": "beatify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7907.png",
+      "local_image_path": "images/7907.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114754.png",
+      "local_image_path": "images/114754.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114755.png",
+      "local_image_path": "images/114755.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114756.png",
+      "local_image_path": "images/114756.png"
+    }
+  ],
+  "synonyms": [
+    "sanctify",
+    "bless",
+    "consecrate",
+    "canonize",
+    "saint"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beatify.mp3",
+  "local_sound_path": "sounds/beatify.mp3"
+}

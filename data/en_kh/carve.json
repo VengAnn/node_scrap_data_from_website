@@ -1,0 +1,29 @@
+{
+  "word": "carve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13137.png",
+      "local_image_path": "images/13137.png"
+    }
+  ],
+  "synonyms": [
+    "engrave",
+    "inscribe",
+    "etch",
+    "cut",
+    "notch",
+    "score",
+    "scribe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "carvel",
+    "carver"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carve.mp3",
+  "local_sound_path": "sounds/carve.mp3"
+}

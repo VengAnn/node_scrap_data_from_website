@@ -1,0 +1,39 @@
+{
+  "word": "clog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "drains clog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15100.png",
+      "local_image_path": "images/15100.png"
+    },
+    {
+      "pos": "n",
+      "example": "a clog in the drain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15101.png",
+      "local_image_path": "images/15101.png"
+    },
+    {
+      "pos": "tv",
+      "example": "a drain clogged up with dead leaves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15099.png",
+      "local_image_path": "images/15099.png"
+    }
+  ],
+  "synonyms": [
+    "block",
+    "choke",
+    "obstruct",
+    "congest",
+    "jam"
+  ],
+  "antonyms": [
+    "free",
+    "unblock"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clog.mp3",
+  "local_sound_path": "sounds/clog.mp3"
+}

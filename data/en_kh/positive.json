@@ -1,0 +1,61 @@
+{
+  "word": "positive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65353.png",
+      "local_image_path": "images/65353.png"
+    },
+    {
+      "pos": "adj",
+      "example": "positive outlook",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65354.png",
+      "local_image_path": "images/65354.png"
+    },
+    {
+      "pos": "adj",
+      "example": "positive date",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65355.png",
+      "local_image_path": "images/65355.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65356.png",
+      "local_image_path": "images/65356.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65357.png",
+      "local_image_path": "images/65357.png"
+    }
+  ],
+  "synonyms": [
+    "definite",
+    "explicit",
+    "clear-cut",
+    "conclusive",
+    "categorical",
+    "decisive",
+    "unquestionable",
+    "confirmed",
+    "certain",
+    "irrefutable"
+  ],
+  "antonyms": [
+    "negative",
+    "uncertain",
+    "dubious"
+  ],
+  "similar_words": [
+    "positive fraud",
+    "positively",
+    "positiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/positive.mp3",
+  "local_sound_path": "sounds/positive.mp3"
+}

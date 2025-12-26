@@ -1,0 +1,76 @@
+{
+  "word": "clutch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tight clutch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15221.png",
+      "local_image_path": "images/15221.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15222.png",
+      "local_image_path": "images/15222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he clutched the rope we threw to him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15219.png",
+      "local_image_path": "images/15219.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clutch a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15220.png",
+      "local_image_path": "images/15220.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116552.png",
+      "local_image_path": "images/116552.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116553.png",
+      "local_image_path": "images/116553.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116554.png",
+      "local_image_path": "images/116554.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116555.png",
+      "local_image_path": "images/116555.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116556.png",
+      "local_image_path": "images/116556.png"
+    }
+  ],
+  "synonyms": [
+    "grasp",
+    "hold",
+    "grab",
+    "grip",
+    "clasp",
+    "seize",
+    "catch",
+    "grapple",
+    "clench"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clutch.mp3",
+  "local_sound_path": "sounds/clutch.mp3"
+}

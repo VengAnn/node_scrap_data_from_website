@@ -1,0 +1,54 @@
+{
+  "word": "murky",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "murky night, with no moon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111111.png",
+      "local_image_path": "images/111111.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111112.png",
+      "local_image_path": "images/111112.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130562.png",
+      "local_image_path": "images/130562.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130563.png",
+      "local_image_path": "images/130563.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130564.png",
+      "local_image_path": "images/130564.png"
+    }
+  ],
+  "synonyms": [
+    "dark",
+    "foggy",
+    "gloomy",
+    "misty",
+    "cloudy",
+    "muddy",
+    "shadowy",
+    "dim",
+    "overcast"
+  ],
+  "antonyms": [
+    "clear"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/murky.mp3",
+  "local_sound_path": "sounds/murky.mp3"
+}

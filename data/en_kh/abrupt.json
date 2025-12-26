@@ -1,0 +1,47 @@
+{
+  "word": "abrupt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Many abrupts turn of the road are dangerous for motors.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1586.png",
+      "local_image_path": "images/1586.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111823.png",
+      "local_image_path": "images/111823.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111824.png",
+      "local_image_path": "images/111824.png"
+    }
+  ],
+  "synonyms": [
+    "curt",
+    "short",
+    "brusque",
+    "terse",
+    "sharp",
+    "rude",
+    "gruff",
+    "snappy",
+    "snappish"
+  ],
+  "antonyms": [
+    "gradual",
+    "polite"
+  ],
+  "similar_words": [
+    "abruption",
+    "abruptly",
+    "abruptness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abrupt.mp3",
+  "local_sound_path": "sounds/abrupt.mp3"
+}

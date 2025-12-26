@@ -1,0 +1,84 @@
+{
+  "word": "gas",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31105.png",
+      "local_image_path": "images/31105.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31100.png",
+      "local_image_path": "images/31100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31101.png",
+      "local_image_path": "images/31101.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31102.png",
+      "local_image_path": "images/31102.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31103.png",
+      "local_image_path": "images/31103.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gas up (a car)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31104.png",
+      "local_image_path": "images/31104.png"
+    }
+  ],
+  "synonyms": [
+    "chat",
+    "chatter",
+    "gab",
+    "natter"
+  ],
+  "antonyms": [
+    "drag"
+  ],
+  "similar_words": [
+    "gas cylinder",
+    "gas filter",
+    "gas fired",
+    "gas furnance",
+    "gas lit",
+    "gas man",
+    "gas pipe",
+    "gas poker",
+    "gas station",
+    "gas-board",
+    "gas-bracket",
+    "gas-chamber",
+    "gas-chromatography",
+    "gas-engine",
+    "gas-faired",
+    "gas-fitter",
+    "gas-heater",
+    "gas-lantern",
+    "gas-stove",
+    "gas-worker",
+    "gas-works",
+    "gasbag",
+    "gasconade",
+    "gase burner",
+    "gase-company",
+    "gaseous",
+    "gash",
+    "gasholder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gas.mp3",
+  "local_sound_path": "sounds/gas.mp3"
+}

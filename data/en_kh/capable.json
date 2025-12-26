@@ -1,0 +1,52 @@
+{
+  "word": "capable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he is capable of running a mile in four minutes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12769.png",
+      "local_image_path": "images/12769.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115943.png",
+      "local_image_path": "images/115943.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115944.png",
+      "local_image_path": "images/115944.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115945.png",
+      "local_image_path": "images/115945.png"
+    }
+  ],
+  "synonyms": [
+    "accomplished",
+    "talented",
+    "proficient",
+    "skilled",
+    "gifted",
+    "adept",
+    "skillful",
+    "clever",
+    "qualified",
+    "efficient",
+    "able",
+    "competent"
+  ],
+  "antonyms": [
+    "incapable",
+    "inept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/capable.mp3",
+  "local_sound_path": "sounds/capable.mp3"
+}

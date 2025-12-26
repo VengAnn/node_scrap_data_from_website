@@ -1,0 +1,39 @@
+{
+  "word": "assessment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5899.png",
+      "local_image_path": "images/5899.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114137.png",
+      "local_image_path": "images/114137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114138.png",
+      "local_image_path": "images/114138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131600.png",
+      "local_image_path": "images/131600.png"
+    }
+  ],
+  "synonyms": [
+    "debt",
+    "valuation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assessment.mp3",
+  "local_sound_path": "sounds/assessment.mp3"
+}

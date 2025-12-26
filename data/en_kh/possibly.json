@@ -1,0 +1,39 @@
+{
+  "word": "possibly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65401.png",
+      "local_image_path": "images/65401.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125753.png",
+      "local_image_path": "images/125753.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125754.png",
+      "local_image_path": "images/125754.png"
+    }
+  ],
+  "synonyms": [
+    "perhaps",
+    "maybe",
+    "probably",
+    "perchance",
+    "conceivably",
+    "feasibly"
+  ],
+  "antonyms": [
+    "certainly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/possibly.mp3",
+  "local_sound_path": "sounds/possibly.mp3"
+}

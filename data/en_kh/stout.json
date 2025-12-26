@@ -1,0 +1,85 @@
+{
+  "word": "stout",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85111.png",
+      "local_image_path": "images/85111.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stout man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85112.png",
+      "local_image_path": "images/85112.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stout worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85113.png",
+      "local_image_path": "images/85113.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stout heart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85114.png",
+      "local_image_path": "images/85114.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85115.png",
+      "local_image_path": "images/85115.png"
+    },
+    {
+      "pos": "adj",
+      "example": "She's grawing too stout to walk far.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85116.png",
+      "local_image_path": "images/85116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85117.png",
+      "local_image_path": "images/85117.png"
+    }
+  ],
+  "synonyms": [
+    "brave",
+    "firm",
+    "stalwart",
+    "determined",
+    "resolute",
+    "doughty",
+    "plucky",
+    "bold",
+    "valiant",
+    "heroic",
+    "sturdy",
+    "strong",
+    "solid",
+    "substantial",
+    "tough",
+    "robust",
+    "heavy-duty",
+    "well-built"
+  ],
+  "antonyms": [
+    "slim",
+    "flimsy",
+    "faint-hearted",
+    "slender"
+  ],
+  "similar_words": [
+    "stout-built",
+    "stout-hearted",
+    "stouten",
+    "stoutish",
+    "stoutly",
+    "stoutness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stout.mp3",
+  "local_sound_path": "sounds/stout.mp3"
+}

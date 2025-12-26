@@ -1,0 +1,46 @@
+{
+  "word": "antagonism",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "antagonism between A and B",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4501.png",
+      "local_image_path": "images/4501.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113767.png",
+      "local_image_path": "images/113767.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113768.png",
+      "local_image_path": "images/113768.png"
+    }
+  ],
+  "synonyms": [
+    "resentment",
+    "dislike",
+    "bitterness",
+    "hatred",
+    "antipathy",
+    "ill will",
+    "rivalry",
+    "opposition",
+    "aggression",
+    "hostility",
+    "enmity",
+    "animosity"
+  ],
+  "antonyms": [
+    "cooperation",
+    "friendliness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/antagonism.mp3",
+  "local_sound_path": "sounds/antagonism.mp3"
+}

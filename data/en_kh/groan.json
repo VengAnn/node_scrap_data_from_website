@@ -1,0 +1,63 @@
+{
+  "word": "groan",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32986.png",
+      "local_image_path": "images/32986.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The ship's timbers groaned during the storm.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32987.png",
+      "local_image_path": "images/32987.png"
+    },
+    {
+      "pos": "iv",
+      "example": "She's always groaning on her work which she does",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32988.png",
+      "local_image_path": "images/32988.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Poor people groaning under the weight of theavy taxes.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32989.png",
+      "local_image_path": "images/32989.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120806.png",
+      "local_image_path": "images/120806.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32985.png",
+      "local_image_path": "images/32985.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120807.png",
+      "local_image_path": "images/120807.png"
+    }
+  ],
+  "synonyms": [
+    "cry",
+    "grunt",
+    "moan",
+    "growl",
+    "whimper",
+    "sigh"
+  ],
+  "antonyms": [
+    "laugh"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/groan.mp3",
+  "local_sound_path": "sounds/groan.mp3"
+}

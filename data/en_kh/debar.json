@@ -1,0 +1,32 @@
+{
+  "word": "debar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19852.png",
+      "local_image_path": "images/19852.png"
+    }
+  ],
+  "synonyms": [
+    "exclude",
+    "expel",
+    "bar",
+    "ban",
+    "veto",
+    "prohibit",
+    "refuse"
+  ],
+  "antonyms": [
+    "admit"
+  ],
+  "similar_words": [
+    "debark",
+    "debarkation",
+    "debarment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debar.mp3",
+  "local_sound_path": "sounds/debar.mp3"
+}

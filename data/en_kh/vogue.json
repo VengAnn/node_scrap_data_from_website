@@ -1,0 +1,32 @@
+{
+  "word": "vogue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Are blue jeans still the vogue?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98459.png",
+      "local_image_path": "images/98459.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98460.png",
+      "local_image_path": "images/98460.png"
+    }
+  ],
+  "synonyms": [
+    "fashion",
+    "trend",
+    "craze",
+    "rage",
+    "mode",
+    "fad",
+    "style"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vogue.mp3",
+  "local_sound_path": "sounds/vogue.mp3"
+}

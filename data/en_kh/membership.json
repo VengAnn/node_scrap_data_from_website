@@ -1,0 +1,30 @@
+{
+  "word": "membership",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "renew one's membership",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107607.png",
+      "local_image_path": "images/107607.png"
+    }
+  ],
+  "synonyms": [
+    "association",
+    "relationship",
+    "connection",
+    "attachment",
+    "link",
+    "devotion",
+    "sponsorship",
+    "bias",
+    "partisanship"
+  ],
+  "antonyms": [
+    "exclusion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/membership.mp3",
+  "local_sound_path": "sounds/membership.mp3"
+}

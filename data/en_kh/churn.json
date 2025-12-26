@@ -1,0 +1,45 @@
+{
+  "word": "churn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14501.png",
+      "local_image_path": "images/14501.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14502.png",
+      "local_image_path": "images/14502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "churn butter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14500.png",
+      "local_image_path": "images/14500.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14499.png",
+      "local_image_path": "images/14499.png"
+    }
+  ],
+  "synonyms": [
+    "mix",
+    "roil",
+    "agitate",
+    "shake",
+    "whip",
+    "toss",
+    "stir",
+    "blend"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/churn.mp3",
+  "local_sound_path": "sounds/churn.mp3"
+}

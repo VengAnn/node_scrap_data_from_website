@@ -1,0 +1,30 @@
+{
+  "word": "bazaar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "go to bazaar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7827.png",
+      "local_image_path": "images/7827.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114702.png",
+      "local_image_path": "images/114702.png"
+    }
+  ],
+  "synonyms": [
+    "f�te",
+    "fair",
+    "festival",
+    "carnival",
+    "sale"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bazaar.mp3",
+  "local_sound_path": "sounds/bazaar.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "insufficient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40824.png",
+      "local_image_path": "images/40824.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122631.png",
+      "local_image_path": "images/122631.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122632.png",
+      "local_image_path": "images/122632.png"
+    }
+  ],
+  "synonyms": [
+    "inadequate",
+    "deficient",
+    "lacking",
+    "unsatisfactory",
+    "scarce"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "insufficient evidence",
+    "insufficiently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/insufficient.mp3",
+  "local_sound_path": "sounds/insufficient.mp3"
+}

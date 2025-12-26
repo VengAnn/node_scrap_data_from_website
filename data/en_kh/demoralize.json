@@ -1,0 +1,32 @@
+{
+  "word": "demoralize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "demoralize troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20471.png",
+      "local_image_path": "images/20471.png"
+    },
+    {
+      "pos": "tv",
+      "example": "demoralize a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20472.png",
+      "local_image_path": "images/20472.png"
+    }
+  ],
+  "synonyms": [
+    "dishearten",
+    "deflate",
+    "discourage",
+    "depress",
+    "deject"
+  ],
+  "antonyms": [
+    "encourage"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demoralize.mp3",
+  "local_sound_path": "sounds/demoralize.mp3"
+}

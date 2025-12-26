@@ -1,0 +1,39 @@
+{
+  "word": "alignment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the tables in this classroom are in alignment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3379.png",
+      "local_image_path": "images/3379.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112372.png",
+      "local_image_path": "images/112372.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112373.png",
+      "local_image_path": "images/112373.png"
+    }
+  ],
+  "synonyms": [
+    "alliance",
+    "association",
+    "coalition",
+    "grouping",
+    "affiliation",
+    "support"
+  ],
+  "antonyms": [
+    "disorder"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alignment.mp3",
+  "local_sound_path": "sounds/alignment.mp3"
+}

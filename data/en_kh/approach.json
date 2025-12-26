@@ -1,0 +1,50 @@
+{
+  "word": "approach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the enemy ran away at our approach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5161.png",
+      "local_image_path": "images/5161.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113899.png",
+      "local_image_path": "images/113899.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113900.png",
+      "local_image_path": "images/113900.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113901.png",
+      "local_image_path": "images/113901.png"
+    },
+    {
+      "pos": "tv",
+      "example": "approach a city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5160.png",
+      "local_image_path": "images/5160.png"
+    }
+  ],
+  "synonyms": [
+    "approximate"
+  ],
+  "antonyms": [
+    "retreat"
+  ],
+  "similar_words": [
+    "approach pattern",
+    "approachability",
+    "approachable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/approach.mp3",
+  "local_sound_path": "sounds/approach.mp3"
+}

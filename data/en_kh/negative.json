@@ -1,0 +1,107 @@
+{
+  "word": "negative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "negative particle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55294.png",
+      "local_image_path": "images/55294.png"
+    },
+    {
+      "pos": "adj",
+      "example": "negative attitude",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55295.png",
+      "local_image_path": "images/55295.png"
+    },
+    {
+      "pos": "adj",
+      "example": "to give sb a negative answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55296.png",
+      "local_image_path": "images/55296.png"
+    },
+    {
+      "pos": "adj",
+      "example": "negative influence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55297.png",
+      "local_image_path": "images/55297.png"
+    },
+    {
+      "pos": "adj",
+      "example": "negative number",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55298.png",
+      "local_image_path": "images/55298.png"
+    },
+    {
+      "pos": "adj",
+      "example": "negative pole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55299.png",
+      "local_image_path": "images/55299.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55300.png",
+      "local_image_path": "images/55300.png"
+    },
+    {
+      "pos": "n",
+      "example": "She answered the negative.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55301.png",
+      "local_image_path": "images/55301.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124563.png",
+      "local_image_path": "images/124563.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124564.png",
+      "local_image_path": "images/124564.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55302.png",
+      "local_image_path": "images/55302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55303.png",
+      "local_image_path": "images/55303.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55304.png",
+      "local_image_path": "images/55304.png"
+    }
+  ],
+  "synonyms": [
+    "no",
+    "refusal",
+    "denial",
+    "rejection",
+    "rebuff",
+    "veto",
+    "nix"
+  ],
+  "antonyms": [
+    "constructive",
+    "affirmative",
+    "positive",
+    "encouraging",
+    "approval"
+  ],
+  "similar_words": [
+    "negatively",
+    "negativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/negative.mp3",
+  "local_sound_path": "sounds/negative.mp3"
+}

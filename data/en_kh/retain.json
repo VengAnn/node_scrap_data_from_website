@@ -1,0 +1,60 @@
+{
+  "word": "retain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "retain one for himself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73027.png",
+      "local_image_path": "images/73027.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73028.png",
+      "local_image_path": "images/73028.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retain sb in office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73029.png",
+      "local_image_path": "images/73029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retain facts in one's memory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73030.png",
+      "local_image_path": "images/73030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retain a lawyer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73031.png",
+      "local_image_path": "images/73031.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73032.png",
+      "local_image_path": "images/73032.png"
+    }
+  ],
+  "synonyms": [
+    "keep",
+    "hold",
+    "preserve",
+    "maintain",
+    "save"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "retainable",
+    "retainer",
+    "retaining",
+    "retaining wall",
+    "retainment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retain.mp3",
+  "local_sound_path": "sounds/retain.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "coagulation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15258.png",
+      "local_image_path": "images/15258.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15260.png",
+      "local_image_path": "images/15260.png"
+    }
+  ],
+  "synonyms": [
+    "clot",
+    "lump",
+    "glob",
+    "gob",
+    "ball",
+    "mass",
+    "cake"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coagulation.mp3",
+  "local_sound_path": "sounds/coagulation.mp3"
+}

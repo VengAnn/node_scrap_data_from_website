@@ -1,0 +1,62 @@
+{
+  "word": "value",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "value of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97152.png",
+      "local_image_path": "images/97152.png"
+    },
+    {
+      "pos": "n",
+      "example": "value of a word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97153.png",
+      "local_image_path": "images/97153.png"
+    },
+    {
+      "pos": "n",
+      "example": "values",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97154.png",
+      "local_image_path": "images/97154.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He valued the house for me at $20,000",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97155.png",
+      "local_image_path": "images/97155.png"
+    },
+    {
+      "pos": "tv",
+      "example": "value his friendship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97156.png",
+      "local_image_path": "images/97156.png"
+    }
+  ],
+  "synonyms": [
+    "denomination",
+    "quantity",
+    "assess",
+    "estimate",
+    "amount",
+    "evaluate",
+    "appraise",
+    "price",
+    "survey",
+    "rate"
+  ],
+  "antonyms": [
+    "insignificance",
+    "scorn"
+  ],
+  "similar_words": [
+    "valued",
+    "valueless",
+    "valuelessness",
+    "valuer",
+    "valuerless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/value.mp3",
+  "local_sound_path": "sounds/value.mp3"
+}

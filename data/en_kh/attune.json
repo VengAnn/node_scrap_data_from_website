@@ -1,0 +1,34 @@
+{
+  "word": "attune",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "attune oneself to the times",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6322.png",
+      "local_image_path": "images/6322.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114262.png",
+      "local_image_path": "images/114262.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114263.png",
+      "local_image_path": "images/114263.png"
+    }
+  ],
+  "synonyms": [
+    "standardize",
+    "adjust",
+    "regulate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attune.mp3",
+  "local_sound_path": "sounds/attune.mp3"
+}

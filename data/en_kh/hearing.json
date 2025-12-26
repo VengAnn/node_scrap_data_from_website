@@ -1,0 +1,40 @@
+{
+  "word": "hearing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "have good hearing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34260.png",
+      "local_image_path": "images/34260.png"
+    },
+    {
+      "pos": "n",
+      "example": "grant a hearing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34261.png",
+      "local_image_path": "images/34261.png"
+    },
+    {
+      "pos": "n",
+      "example": "out of hearing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34262.png",
+      "local_image_path": "images/34262.png"
+    }
+  ],
+  "synonyms": [
+    "earshot",
+    "gathering",
+    "learning",
+    "understanding"
+  ],
+  "antonyms": [
+    "missing"
+  ],
+  "similar_words": [
+    "hearing impaired",
+    "hearing-aid"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hearing.mp3",
+  "local_sound_path": "sounds/hearing.mp3"
+}

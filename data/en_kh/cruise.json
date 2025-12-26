@@ -1,0 +1,47 @@
+{
+  "word": "cruise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "cruise the oceans",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18835.png",
+      "local_image_path": "images/18835.png"
+    },
+    {
+      "pos": "iv",
+      "example": "cruise a plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18836.png",
+      "local_image_path": "images/18836.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18834.png",
+      "local_image_path": "images/18834.png"
+    }
+  ],
+  "synonyms": [
+    "trip",
+    "voyage",
+    "journey",
+    "tour",
+    "coast",
+    "skim",
+    "spin",
+    "travel",
+    "glide",
+    "drift",
+    "proceed",
+    "motor",
+    "speed"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cruise ships",
+    "cruiser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cruise.mp3",
+  "local_sound_path": "sounds/cruise.mp3"
+}

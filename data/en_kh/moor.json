@@ -1,0 +1,59 @@
+{
+  "word": "moor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110352.png",
+      "local_image_path": "images/110352.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124282.png",
+      "local_image_path": "images/124282.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124283.png",
+      "local_image_path": "images/124283.png"
+    },
+    {
+      "pos": "v",
+      "example": "The boat was moored to the bank of river.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110351.png",
+      "local_image_path": "images/110351.png"
+    }
+  ],
+  "synonyms": [
+    "fasten",
+    "secure",
+    "connect",
+    "link",
+    "anchor",
+    "tie",
+    "fix",
+    "chain",
+    "attach",
+    "cable"
+  ],
+  "antonyms": [
+    "untie"
+  ],
+  "similar_words": [
+    "moorage",
+    "moorhen",
+    "mooring",
+    "moorings",
+    "moorish",
+    "moorishi",
+    "moorland",
+    "moorstone",
+    "moory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/moor.mp3",
+  "local_sound_path": "sounds/moor.mp3"
+}

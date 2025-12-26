@@ -1,0 +1,68 @@
+{
+  "word": "release",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "release of the prisoner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71871.png",
+      "local_image_path": "images/71871.png"
+    },
+    {
+      "pos": "n",
+      "example": "release from everyday cares",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71872.png",
+      "local_image_path": "images/71872.png"
+    },
+    {
+      "pos": "n",
+      "example": "release of energy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71873.png",
+      "local_image_path": "images/71873.png"
+    },
+    {
+      "pos": "tv",
+      "example": "release him from a contract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71867.png",
+      "local_image_path": "images/71867.png"
+    },
+    {
+      "pos": "tv",
+      "example": "release energy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71868.png",
+      "local_image_path": "images/71868.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71869.png",
+      "local_image_path": "images/71869.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71870.png",
+      "local_image_path": "images/71870.png"
+    }
+  ],
+  "synonyms": [
+    "announcement",
+    "issue",
+    "statement",
+    "publication",
+    "announce",
+    "publish",
+    "circulate",
+    "emit",
+    "publicize",
+    "distribute"
+  ],
+  "antonyms": [
+    "hold",
+    "withhold"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/release.mp3",
+  "local_sound_path": "sounds/release.mp3"
+}

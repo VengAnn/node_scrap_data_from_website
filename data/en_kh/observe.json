@@ -1,0 +1,69 @@
+{
+  "word": "observe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56973.png",
+      "local_image_path": "images/56973.png"
+    },
+    {
+      "pos": "tv",
+      "example": "observe the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56974.png",
+      "local_image_path": "images/56974.png"
+    },
+    {
+      "pos": "tv",
+      "example": "observe that……..",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56975.png",
+      "local_image_path": "images/56975.png"
+    },
+    {
+      "pos": "tv",
+      "example": "observe the rule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56976.png",
+      "local_image_path": "images/56976.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124830.png",
+      "local_image_path": "images/124830.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124831.png",
+      "local_image_path": "images/124831.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124832.png",
+      "local_image_path": "images/124832.png"
+    }
+  ],
+  "synonyms": [
+    "abide by",
+    "respect",
+    "follow",
+    "keep",
+    "celebrate",
+    "remember",
+    "perform"
+  ],
+  "antonyms": [
+    "violate",
+    "miss",
+    "ignore",
+    "break"
+  ],
+  "similar_words": [
+    "observer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/observe.mp3",
+  "local_sound_path": "sounds/observe.mp3"
+}

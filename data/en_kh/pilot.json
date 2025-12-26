@@ -1,0 +1,62 @@
+{
+  "word": "pilot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pilot lighter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63305.png",
+      "local_image_path": "images/63305.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pilot project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63306.png",
+      "local_image_path": "images/63306.png"
+    },
+    {
+      "pos": "n",
+      "example": "airplane pilot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63302.png",
+      "local_image_path": "images/63302.png"
+    },
+    {
+      "pos": "n",
+      "example": "pilot of a gasstove",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63303.png",
+      "local_image_path": "images/63303.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pilot a plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63304.png",
+      "local_image_path": "images/63304.png"
+    }
+  ],
+  "synonyms": [
+    "direct",
+    "show",
+    "steer",
+    "lead",
+    "conduct",
+    "channel",
+    "funnel",
+    "point",
+    "guide",
+    "control",
+    "navigate",
+    "handle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pilot cloth",
+    "pilot fish",
+    "pilot-light",
+    "pilotage",
+    "piloting",
+    "pilotless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pilot.mp3",
+  "local_sound_path": "sounds/pilot.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "borough",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10254.png",
+      "local_image_path": "images/10254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115412.png",
+      "local_image_path": "images/115412.png"
+    }
+  ],
+  "synonyms": [
+    "area",
+    "region",
+    "municipality",
+    "district",
+    "constituency",
+    "division",
+    "township"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/borough.mp3",
+  "local_sound_path": "sounds/borough.mp3"
+}

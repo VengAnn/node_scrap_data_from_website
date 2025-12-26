@@ -1,0 +1,37 @@
+{
+  "word": "totter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He totters when he walk.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90391.png",
+      "local_image_path": "images/90391.png"
+    },
+    {
+      "pos": "iv",
+      "example": "tottering government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90392.png",
+      "local_image_path": "images/90392.png"
+    }
+  ],
+  "synonyms": [
+    "falter",
+    "stumble",
+    "stagger",
+    "wobble",
+    "shake",
+    "teeter",
+    "flounder",
+    "lurch",
+    "reel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "totterer",
+    "tottery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/totter.mp3",
+  "local_sound_path": "sounds/totter.mp3"
+}

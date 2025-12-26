@@ -1,0 +1,50 @@
+{
+  "word": "achieve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2011.png",
+      "local_image_path": "images/2011.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you will achieve your ambition if you work hard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2010.png",
+      "local_image_path": "images/2010.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111925.png",
+      "local_image_path": "images/111925.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113168.png",
+      "local_image_path": "images/113168.png"
+    }
+  ],
+  "synonyms": [
+    "attain",
+    "get",
+    "realize",
+    "accomplish",
+    "reach",
+    "do",
+    "complete",
+    "succeed",
+    "triumph"
+  ],
+  "antonyms": [
+    "fail"
+  ],
+  "similar_words": [
+    "achievement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/achieve.mp3",
+  "local_sound_path": "sounds/achieve.mp3"
+}

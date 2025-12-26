@@ -1,0 +1,77 @@
+{
+  "word": "waste",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "waste paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99235.png",
+      "local_image_path": "images/99235.png"
+    },
+    {
+      "pos": "iv",
+      "example": "His body was wasted by long illness.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99232.png",
+      "local_image_path": "images/99232.png"
+    },
+    {
+      "pos": "n",
+      "example": "There's too much waste in this house.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99233.png",
+      "local_image_path": "images/99233.png"
+    },
+    {
+      "pos": "n",
+      "example": "throw away the waste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99234.png",
+      "local_image_path": "images/99234.png"
+    },
+    {
+      "pos": "tv",
+      "example": "All his efforts was wasted, had no result.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99229.png",
+      "local_image_path": "images/99229.png"
+    },
+    {
+      "pos": "tv",
+      "example": "waste a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99230.png",
+      "local_image_path": "images/99230.png"
+    },
+    {
+      "pos": "tv",
+      "example": "waste sth (on sb)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99231.png",
+      "local_image_path": "images/99231.png"
+    }
+  ],
+  "synonyms": [
+    "uncultivated",
+    "barren",
+    "bare",
+    "fallow",
+    "atrophy",
+    "wither",
+    "weaken"
+  ],
+  "antonyms": [
+    "save",
+    "strengthen",
+    "cultivated"
+  ],
+  "similar_words": [
+    "waste-paper",
+    "waste-paper basket",
+    "wasteful",
+    "wastefully",
+    "wastefulness",
+    "wastel",
+    "wasteland",
+    "wasteless",
+    "wasteness",
+    "waster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/waste.mp3",
+  "local_sound_path": "sounds/waste.mp3"
+}

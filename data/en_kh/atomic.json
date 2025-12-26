@@ -1,0 +1,32 @@
+{
+  "word": "atomic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "atomic bomb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6179.png",
+      "local_image_path": "images/6179.png"
+    }
+  ],
+  "synonyms": [
+    "tiny",
+    "minute",
+    "infinitesimal",
+    "minuscule",
+    "microscopic",
+    "miniature"
+  ],
+  "antonyms": [
+    "gigantic"
+  ],
+  "similar_words": [
+    "atomic number",
+    "atomic weight",
+    "atomically",
+    "atomicity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/atomic.mp3",
+  "local_sound_path": "sounds/atomic.mp3"
+}

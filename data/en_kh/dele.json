@@ -1,0 +1,35 @@
+{
+  "word": "dele",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20291.png",
+      "local_image_path": "images/20291.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20292.png",
+      "local_image_path": "images/20292.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "delectable",
+    "delectate",
+    "delectation",
+    "delegacy",
+    "delegate",
+    "delegation",
+    "delete",
+    "deleterious",
+    "deletion",
+    "deleverage"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dele.mp3",
+  "local_sound_path": "sounds/dele.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "diffident",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Don't be so diffident about your talents.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21300.png",
+      "local_image_path": "images/21300.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118289.png",
+      "local_image_path": "images/118289.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118290.png",
+      "local_image_path": "images/118290.png"
+    }
+  ],
+  "synonyms": [
+    "shy",
+    "hesitant",
+    "insecure",
+    "timid",
+    "reticent",
+    "unobtrusive",
+    "reserved",
+    "self-effacing",
+    "retiring",
+    "quiet"
+  ],
+  "antonyms": [
+    "brash"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diffident.mp3",
+  "local_sound_path": "sounds/diffident.mp3"
+}

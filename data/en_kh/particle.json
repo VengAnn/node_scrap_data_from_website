@@ -1,0 +1,41 @@
+{
+  "word": "particle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "particle of dust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60321.png",
+      "local_image_path": "images/60321.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60322.png",
+      "local_image_path": "images/60322.png"
+    }
+  ],
+  "synonyms": [
+    "bit",
+    "speck",
+    "spot",
+    "crumb",
+    "dab",
+    "smidgen",
+    "grain",
+    "fragment",
+    "fleck",
+    "flake",
+    "shard",
+    "iota",
+    "jot",
+    "whit",
+    "scrap",
+    "shred"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/particle.mp3",
+  "local_sound_path": "sounds/particle.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "fling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "fling caution to the winds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29102.png",
+      "local_image_path": "images/29102.png"
+    },
+    {
+      "pos": "n",
+      "example": "powerful fling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29103.png",
+      "local_image_path": "images/29103.png"
+    },
+    {
+      "pos": "sl",
+      "example": "have a fling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29104.png",
+      "local_image_path": "images/29104.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29099.png",
+      "local_image_path": "images/29099.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He fling the paper away in disgust.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29100.png",
+      "local_image_path": "images/29100.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fling one's arms about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29101.png",
+      "local_image_path": "images/29101.png"
+    }
+  ],
+  "synonyms": [
+    "throw",
+    "toss",
+    "hurl",
+    "chuck",
+    "pitch",
+    "lob",
+    "cast",
+    "sling"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fling.mp3",
+  "local_sound_path": "sounds/fling.mp3"
+}

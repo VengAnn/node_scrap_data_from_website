@@ -1,0 +1,63 @@
+{
+  "word": "produce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67327.png",
+      "local_image_path": "images/67327.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67329.png",
+      "local_image_path": "images/67329.png"
+    },
+    {
+      "pos": "math",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67326.png",
+      "local_image_path": "images/67326.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67328.png",
+      "local_image_path": "images/67328.png"
+    },
+    {
+      "pos": "tv",
+      "example": "produce goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67324.png",
+      "local_image_path": "images/67324.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67325.png",
+      "local_image_path": "images/67325.png"
+    }
+  ],
+  "synonyms": [
+    "crop",
+    "harvest",
+    "goods",
+    "food",
+    "yield",
+    "give",
+    "engender",
+    "emit",
+    "supply",
+    "deliver"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "producement",
+    "producent",
+    "producer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/produce.mp3",
+  "local_sound_path": "sounds/produce.mp3"
+}

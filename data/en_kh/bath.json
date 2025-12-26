@@ -1,0 +1,55 @@
+{
+  "word": "bath",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7712.png",
+      "local_image_path": "images/7712.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7713.png",
+      "local_image_path": "images/7713.png"
+    }
+  ],
+  "synonyms": [
+    "tank",
+    "reservoir",
+    "container",
+    "bathe",
+    "shower",
+    "wash"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bath chair",
+    "bath mat",
+    "bath room",
+    "bathe",
+    "bathed",
+    "bather",
+    "bathing",
+    "bathing cap",
+    "bathing costume",
+    "bathing house",
+    "bathing trunks",
+    "batholith",
+    "batholithic",
+    "bathometer",
+    "bathophobia",
+    "bathos",
+    "bathrobe",
+    "bathroom",
+    "bathtub",
+    "bathy sphere",
+    "bathymetric",
+    "bathymetrically",
+    "bathymetry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bath.mp3",
+  "local_sound_path": "sounds/bath.mp3"
+}

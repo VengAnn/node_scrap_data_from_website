@@ -1,0 +1,33 @@
+{
+  "word": "alienate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "she was alienated from her friend by his foolish behavior",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3368.png",
+      "local_image_path": "images/3368.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131074.png",
+      "local_image_path": "images/131074.png"
+    }
+  ],
+  "synonyms": [
+    "estrange",
+    "disaffect",
+    "distance",
+    "isolate",
+    "separate",
+    "turn away"
+  ],
+  "antonyms": [
+    "involve"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alienate.mp3",
+  "local_sound_path": "sounds/alienate.mp3"
+}

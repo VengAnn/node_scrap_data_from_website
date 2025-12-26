@@ -1,0 +1,39 @@
+{
+  "word": "sustenance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sustenance of life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86693.png",
+      "local_image_path": "images/86693.png"
+    },
+    {
+      "pos": "n",
+      "example": "means of sustenance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86694.png",
+      "local_image_path": "images/86694.png"
+    },
+    {
+      "pos": "n",
+      "example": "daily sustenance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86695.png",
+      "local_image_path": "images/86695.png"
+    }
+  ],
+  "synonyms": [
+    "nourishment",
+    "nutrition",
+    "food",
+    "fuel",
+    "wherewithal",
+    "victuals"
+  ],
+  "antonyms": [
+    "deprivation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sustenance.mp3",
+  "local_sound_path": "sounds/sustenance.mp3"
+}

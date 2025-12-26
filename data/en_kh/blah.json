@@ -1,0 +1,24 @@
+{
+  "word": "blah",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9348.png",
+      "local_image_path": "images/9348.png"
+    },
+    {
+      "pos": "n (sl)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9347.png",
+      "local_image_path": "images/9347.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blah.mp3",
+  "local_sound_path": "sounds/blah.mp3"
+}

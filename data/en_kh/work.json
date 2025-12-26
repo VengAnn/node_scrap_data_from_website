@@ -1,0 +1,86 @@
+{
+  "word": "work",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Are you working right now?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100904.png",
+      "local_image_path": "images/100904.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Her car doesn't work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100905.png",
+      "local_image_path": "images/100905.png"
+    },
+    {
+      "pos": "n",
+      "example": "This is work is difficult.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100901.png",
+      "local_image_path": "images/100901.png"
+    },
+    {
+      "pos": "n",
+      "example": "work of art",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100902.png",
+      "local_image_path": "images/100902.png"
+    },
+    {
+      "pos": "n",
+      "example": "I am at work now",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100903.png",
+      "local_image_path": "images/100903.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100906.png",
+      "local_image_path": "images/100906.png"
+    }
+  ],
+  "synonyms": [
+    "operate",
+    "control",
+    "drive",
+    "run",
+    "succeed",
+    "thrive"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "work accident",
+    "work process",
+    "work-bag",
+    "work-basket",
+    "work-box",
+    "work-in",
+    "work-load",
+    "work-master",
+    "work-mate",
+    "work-sharing",
+    "work-shy",
+    "work-study",
+    "work-table",
+    "workability",
+    "workable",
+    "workableness",
+    "workaday",
+    "workbook",
+    "workday",
+    "worked-up",
+    "workepeople",
+    "worker",
+    "worker director",
+    "workflow",
+    "workflow chart",
+    "workfolk",
+    "workforce",
+    "workful",
+    "workfulness",
+    "workhorse"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/work.mp3",
+  "local_sound_path": "sounds/work.mp3"
+}

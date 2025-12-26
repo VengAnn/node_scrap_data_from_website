@@ -1,0 +1,113 @@
+{
+  "word": "low",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "low bottle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47814.png",
+      "local_image_path": "images/47814.png"
+    },
+    {
+      "pos": "adj",
+      "example": "low price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47815.png",
+      "local_image_path": "images/47815.png"
+    },
+    {
+      "pos": "adj",
+      "example": "low noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47816.png",
+      "local_image_path": "images/47816.png"
+    },
+    {
+      "pos": "adj",
+      "example": "low ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47817.png",
+      "local_image_path": "images/47817.png"
+    },
+    {
+      "pos": "adv",
+      "example": "sing low",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47818.png",
+      "local_image_path": "images/47818.png"
+    },
+    {
+      "pos": "adv",
+      "example": "talk low",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47819.png",
+      "local_image_path": "images/47819.png"
+    },
+    {
+      "pos": "adv",
+      "example": "sell low",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47820.png",
+      "local_image_path": "images/47820.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47823.png",
+      "local_image_path": "images/47823.png"
+    },
+    {
+      "pos": "n",
+      "example": "temperature low",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47821.png",
+      "local_image_path": "images/47821.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47824.png",
+      "local_image_path": "images/47824.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47825.png",
+      "local_image_path": "images/47825.png"
+    }
+  ],
+  "synonyms": [
+    "trough",
+    "slump",
+    "depression",
+    "nadir"
+  ],
+  "antonyms": [
+    "high",
+    "loud",
+    "cheerful",
+    "peak"
+  ],
+  "similar_words": [
+    "low rent",
+    "low tide",
+    "low water",
+    "low-bred",
+    "low-browed",
+    "low-end",
+    "low-lived",
+    "low-minded",
+    "low-mindedly",
+    "low-mindedness",
+    "low-necked",
+    "low-paid",
+    "low-pressure",
+    "low-priced",
+    "low-spirited",
+    "low-spiritedly",
+    "low-spiritedness",
+    "lowbell",
+    "lowborn",
+    "lowboy",
+    "lowbrow",
+    "lowdown",
+    "lowe",
+    "lower"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/low.mp3",
+  "local_sound_path": "sounds/low.mp3"
+}

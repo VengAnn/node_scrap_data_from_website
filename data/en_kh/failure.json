@@ -1,0 +1,57 @@
+{
+  "word": "failure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "business was a failure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27382.png",
+      "local_image_path": "images/27382.png"
+    },
+    {
+      "pos": "n",
+      "example": "failure of health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27383.png",
+      "local_image_path": "images/27383.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27384.png",
+      "local_image_path": "images/27384.png"
+    },
+    {
+      "pos": "n",
+      "example": "failure to pay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27385.png",
+      "local_image_path": "images/27385.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119828.png",
+      "local_image_path": "images/119828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119829.png",
+      "local_image_path": "images/119829.png"
+    }
+  ],
+  "synonyms": [
+    "closure",
+    "bankruptcy",
+    "crash",
+    "collapse",
+    "insolvency",
+    "ruin"
+  ],
+  "antonyms": [
+    "success"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/failure.mp3",
+  "local_sound_path": "sounds/failure.mp3"
+}

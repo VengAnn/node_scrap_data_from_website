@@ -1,0 +1,34 @@
+{
+  "word": "accidental",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1842.png",
+      "local_image_path": "images/1842.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113125.png",
+      "local_image_path": "images/113125.png"
+    }
+  ],
+  "synonyms": [
+    "unintentional",
+    "inadvertent",
+    "chance",
+    "unplanned",
+    "fortuitous"
+  ],
+  "antonyms": [
+    "deliberate"
+  ],
+  "similar_words": [
+    "accidentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accidental.mp3",
+  "local_sound_path": "sounds/accidental.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "bananas",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7269.png",
+      "local_image_path": "images/7269.png"
+    }
+  ],
+  "synonyms": [
+    "crazy",
+    "mad",
+    "wild",
+    "nuts",
+    "crackers",
+    "bonkers"
+  ],
+  "antonyms": [
+    "sane"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bananas.mp3",
+  "local_sound_path": "sounds/bananas.mp3"
+}

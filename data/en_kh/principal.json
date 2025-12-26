@@ -1,0 +1,59 @@
+{
+  "word": "principal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "principal food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67002.png",
+      "local_image_path": "images/67002.png"
+    },
+    {
+      "pos": "n",
+      "example": "school principal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67003.png",
+      "local_image_path": "images/67003.png"
+    },
+    {
+      "pos": "n",
+      "example": "reduce the principal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67004.png",
+      "local_image_path": "images/67004.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67005.png",
+      "local_image_path": "images/67005.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67006.png",
+      "local_image_path": "images/67006.png"
+    }
+  ],
+  "synonyms": [
+    "head",
+    "leader",
+    "superintendent",
+    "headmaster",
+    "headmistress",
+    "dean",
+    "provost"
+  ],
+  "antonyms": [
+    "follower"
+  ],
+  "similar_words": [
+    "principal establishment",
+    "principal party",
+    "principal penalty",
+    "principality",
+    "principally",
+    "principalship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/principal.mp3",
+  "local_sound_path": "sounds/principal.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "bat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "give me a bat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7703.png",
+      "local_image_path": "images/7703.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7705.png",
+      "local_image_path": "images/7705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7704.png",
+      "local_image_path": "images/7704.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7706.png",
+      "local_image_path": "images/7706.png"
+    }
+  ],
+  "synonyms": [
+    "flutter",
+    "wink",
+    "strike",
+    "hit",
+    "whack",
+    "slug"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "batata",
+    "batch",
+    "bate",
+    "bated",
+    "batement",
+    "bath",
+    "bath chair",
+    "bath mat",
+    "bath room",
+    "bathe",
+    "bathed",
+    "bather",
+    "bathing",
+    "bathing cap",
+    "bathing costume",
+    "bathing house",
+    "bathing trunks",
+    "batholith",
+    "batholithic",
+    "bathometer",
+    "bathophobia",
+    "bathos",
+    "bathrobe"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bat.mp3",
+  "local_sound_path": "sounds/bat.mp3"
+}

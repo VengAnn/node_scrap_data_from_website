@@ -1,0 +1,70 @@
+{
+  "word": "lose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "lose on a deal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47680.png",
+      "local_image_path": "images/47680.png"
+    },
+    {
+      "pos": "iv",
+      "example": "both sides lose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47681.png",
+      "local_image_path": "images/47681.png"
+    },
+    {
+      "pos": "n",
+      "example": "loss of a battle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47690.png",
+      "local_image_path": "images/47690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I've lost the key of my trunk.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47675.png",
+      "local_image_path": "images/47675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lose a battle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47676.png",
+      "local_image_path": "images/47676.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lose money in business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47677.png",
+      "local_image_path": "images/47677.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I shall not lose a moment in doing it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47678.png",
+      "local_image_path": "images/47678.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lose speed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47679.png",
+      "local_image_path": "images/47679.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "find",
+    "win",
+    "acquire",
+    "save"
+  ],
+  "similar_words": [
+    "losel",
+    "loselry",
+    "losenger",
+    "loser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lose.mp3",
+  "local_sound_path": "sounds/lose.mp3"
+}

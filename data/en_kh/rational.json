@@ -1,0 +1,54 @@
+{
+  "word": "rational",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70321.png",
+      "local_image_path": "images/70321.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rational aproach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70322.png",
+      "local_image_path": "images/70322.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rational man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70323.png",
+      "local_image_path": "images/70323.png"
+    }
+  ],
+  "synonyms": [
+    "sensible",
+    "reasonable",
+    "logical",
+    "realistic",
+    "sound",
+    "wise",
+    "judicious"
+  ],
+  "antonyms": [
+    "irrational",
+    "illogical"
+  ],
+  "similar_words": [
+    "rationale",
+    "rationalisation",
+    "rationalism",
+    "rationalist",
+    "rationalistic",
+    "rationalistically",
+    "rationality",
+    "rationalization",
+    "rationalize",
+    "rationalizer",
+    "rationally",
+    "rationalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rational.mp3",
+  "local_sound_path": "sounds/rational.mp3"
+}

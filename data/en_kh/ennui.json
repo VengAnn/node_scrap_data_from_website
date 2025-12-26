@@ -1,0 +1,26 @@
+{
+  "word": "ennui",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25153.png",
+      "local_image_path": "images/25153.png"
+    }
+  ],
+  "synonyms": [
+    "boredom",
+    "languor",
+    "tedium",
+    "weariness",
+    "dissatisfaction"
+  ],
+  "antonyms": [
+    "excitement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ennui.mp3",
+  "local_sound_path": "sounds/ennui.mp3"
+}

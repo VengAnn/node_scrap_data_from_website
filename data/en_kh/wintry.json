@@ -1,0 +1,36 @@
+{
+  "word": "wintry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wintry day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100529.png",
+      "local_image_path": "images/100529.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129900.png",
+      "local_image_path": "images/129900.png"
+    }
+  ],
+  "synonyms": [
+    "chilly",
+    "cold",
+    "bracing",
+    "nippy",
+    "bitter",
+    "icy",
+    "bleak",
+    "frosty"
+  ],
+  "antonyms": [
+    "balmy",
+    "summery"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wintry.mp3",
+  "local_sound_path": "sounds/wintry.mp3"
+}

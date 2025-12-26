@@ -1,0 +1,38 @@
+{
+  "word": "conversation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17477.png",
+      "local_image_path": "images/17477.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117539.png",
+      "local_image_path": "images/117539.png"
+    }
+  ],
+  "synonyms": [
+    "chat",
+    "talk",
+    "discussion",
+    "dialogue",
+    "exchange",
+    "banter",
+    "dialog",
+    "natter",
+    "colloquy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "conversational",
+    "conversationalist",
+    "conversationally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conversation.mp3",
+  "local_sound_path": "sounds/conversation.mp3"
+}

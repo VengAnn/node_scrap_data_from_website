@@ -1,0 +1,40 @@
+{
+  "word": "distrustful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22342.png",
+      "local_image_path": "images/22342.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118679.png",
+      "local_image_path": "images/118679.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22344.png",
+      "local_image_path": "images/22344.png"
+    }
+  ],
+  "synonyms": [
+    "suspicious",
+    "skeptical",
+    "wary",
+    "nervous",
+    "cynical",
+    "mistrustful",
+    "chary"
+  ],
+  "antonyms": [
+    "trusting"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distrustful.mp3",
+  "local_sound_path": "sounds/distrustful.mp3"
+}

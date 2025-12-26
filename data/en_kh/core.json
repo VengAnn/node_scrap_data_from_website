@@ -1,0 +1,47 @@
+{
+  "word": "core",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "apple core",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17713.png",
+      "local_image_path": "images/17713.png"
+    },
+    {
+      "pos": "n",
+      "example": "the earth has a core and mantle around it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17714.png",
+      "local_image_path": "images/17714.png"
+    },
+    {
+      "pos": "n",
+      "example": "core of the problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17715.png",
+      "local_image_path": "images/17715.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17716.png",
+      "local_image_path": "images/17716.png"
+    }
+  ],
+  "synonyms": [
+    "sample",
+    "plug",
+    "extract"
+  ],
+  "antonyms": [
+    "peripheral"
+  ],
+  "similar_words": [
+    "core activity",
+    "core business",
+    "core product",
+    "coreligionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/core.mp3",
+  "local_sound_path": "sounds/core.mp3"
+}

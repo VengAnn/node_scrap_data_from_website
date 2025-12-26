@@ -1,0 +1,46 @@
+{
+  "word": "boar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9862.png",
+      "local_image_path": "images/9862.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115310.png",
+      "local_image_path": "images/115310.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115311.png",
+      "local_image_path": "images/115311.png"
+    }
+  ],
+  "synonyms": [
+    "pig",
+    "hog"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "board",
+    "board game",
+    "board of education",
+    "board of trade",
+    "boarder",
+    "boarding",
+    "boarding priority",
+    "boarding-house",
+    "boarding-school",
+    "boardwalk",
+    "boarish",
+    "boarishness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boar.mp3",
+  "local_sound_path": "sounds/boar.mp3"
+}

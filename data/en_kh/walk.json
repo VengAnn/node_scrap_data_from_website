@@ -1,0 +1,69 @@
+{
+  "word": "walk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "walk of life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98892.png",
+      "local_image_path": "images/98892.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He likes to walk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98889.png",
+      "local_image_path": "images/98889.png"
+    },
+    {
+      "pos": "n",
+      "example": "to go for a walk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98891.png",
+      "local_image_path": "images/98891.png"
+    },
+    {
+      "pos": "tv",
+      "example": "walk the dog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98890.png",
+      "local_image_path": "images/98890.png"
+    }
+  ],
+  "synonyms": [
+    "gait",
+    "pace",
+    "tread",
+    "saunter",
+    "stroll",
+    "amble",
+    "march",
+    "stride",
+    "hike",
+    "toddle",
+    "totter",
+    "stagger",
+    "move",
+    "go",
+    "promenade",
+    "perambulate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "walk about",
+    "walk-in",
+    "walk-over",
+    "walk-up",
+    "walkable",
+    "walker",
+    "walkie-talkie",
+    "walking",
+    "walking papers",
+    "walking tour",
+    "walking-stick",
+    "walkman",
+    "walkout",
+    "walkthrough",
+    "walkway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/walk.mp3",
+  "local_sound_path": "sounds/walk.mp3"
+}

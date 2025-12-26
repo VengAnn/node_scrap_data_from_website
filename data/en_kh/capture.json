@@ -1,0 +1,47 @@
+{
+  "word": "capture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "capture of a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12876.png",
+      "local_image_path": "images/12876.png"
+    },
+    {
+      "pos": "tv",
+      "example": "she captured a butterfly in her hands",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12875.png",
+      "local_image_path": "images/12875.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115979.png",
+      "local_image_path": "images/115979.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115980.png",
+      "local_image_path": "images/115980.png"
+    }
+  ],
+  "synonyms": [
+    "catch",
+    "seize",
+    "get",
+    "trap",
+    "ensnare",
+    "net"
+  ],
+  "antonyms": [
+    "liberate",
+    "release",
+    "lose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/capture.mp3",
+  "local_sound_path": "sounds/capture.mp3"
+}

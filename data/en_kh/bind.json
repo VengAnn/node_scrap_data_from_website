@@ -1,0 +1,94 @@
+{
+  "word": "bind",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8982.png",
+      "local_image_path": "images/8982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8983.png",
+      "local_image_path": "images/8983.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115092.png",
+      "local_image_path": "images/115092.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115093.png",
+      "local_image_path": "images/115093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to bind hand and foot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8981.png",
+      "local_image_path": "images/8981.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115094.png",
+      "local_image_path": "images/115094.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115095.png",
+      "local_image_path": "images/115095.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115096.png",
+      "local_image_path": "images/115096.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115097.png",
+      "local_image_path": "images/115097.png"
+    }
+  ],
+  "synonyms": [
+    "quandary",
+    "predicament",
+    "dilemma",
+    "muddle",
+    "fix",
+    "impasse",
+    "oblige",
+    "force",
+    "require",
+    "compel",
+    "coerce",
+    "constrain"
+  ],
+  "antonyms": [
+    "undo"
+  ],
+  "similar_words": [
+    "bind over",
+    "binder",
+    "bindering",
+    "bindery",
+    "bindi",
+    "binding",
+    "binding force",
+    "binding instructions",
+    "bindingly",
+    "bindingness",
+    "bindlestiff",
+    "bindweed"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bind.mp3",
+  "local_sound_path": "sounds/bind.mp3"
+}

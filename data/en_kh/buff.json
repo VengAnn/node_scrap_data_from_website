@@ -1,0 +1,62 @@
+{
+  "word": "buff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11672.png",
+      "local_image_path": "images/11672.png"
+    },
+    {
+      "pos": "n",
+      "example": "made of buff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11671.png",
+      "local_image_path": "images/11671.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11674.png",
+      "local_image_path": "images/11674.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he buffed his shoes with a cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11673.png",
+      "local_image_path": "images/11673.png"
+    }
+  ],
+  "synonyms": [
+    "fan",
+    "enthusiast",
+    "admirer",
+    "expert",
+    "connoisseur",
+    "aficionado",
+    "polish",
+    "rub",
+    "burnish",
+    "shine",
+    "clean"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "buffalo",
+    "buffalo bug",
+    "buffalo grass",
+    "buffalo robe",
+    "buffed",
+    "buffer",
+    "buffet",
+    "buffet car",
+    "buffeting",
+    "bufflehead",
+    "buffo",
+    "buffoon",
+    "buffoonery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buff.mp3",
+  "local_sound_path": "sounds/buff.mp3"
+}

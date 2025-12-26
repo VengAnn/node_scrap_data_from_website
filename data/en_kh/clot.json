@@ -1,0 +1,60 @@
+{
+  "word": "clot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15140.png",
+      "local_image_path": "images/15140.png"
+    },
+    {
+      "pos": "n",
+      "example": "blood clot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15139.png",
+      "local_image_path": "images/15139.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15141.png",
+      "local_image_path": "images/15141.png"
+    }
+  ],
+  "synonyms": [
+    "mass",
+    "lump",
+    "accumulation",
+    "globule",
+    "blob",
+    "coagulate",
+    "coalesce",
+    "thicken",
+    "congeal",
+    "set",
+    "solidify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cloth",
+    "clothbound",
+    "clothe",
+    "clothes",
+    "clothes-basket",
+    "clothes-brush",
+    "clothes-hanger",
+    "clothes-line",
+    "clothespeg",
+    "clothespin",
+    "clothespress",
+    "clothier",
+    "clothing",
+    "clothing optional",
+    "clotter",
+    "clotty",
+    "cloture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clot.mp3",
+  "local_sound_path": "sounds/clot.mp3"
+}

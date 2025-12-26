@@ -1,0 +1,44 @@
+{
+  "word": "vain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "vain attempt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97085.png",
+      "local_image_path": "images/97085.png"
+    },
+    {
+      "pos": "adj",
+      "example": "vain women",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97086.png",
+      "local_image_path": "images/97086.png"
+    }
+  ],
+  "synonyms": [
+    "conceited",
+    "proud",
+    "narcissistic",
+    "vainglorious",
+    "arrogant",
+    "self-important",
+    "bigheaded",
+    "inflated"
+  ],
+  "antonyms": [
+    "successful",
+    "humble",
+    "reliable"
+  ],
+  "similar_words": [
+    "vainglorious",
+    "vaingloriously",
+    "vaingloriousness",
+    "vainglory",
+    "vainly",
+    "vainness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vain.mp3",
+  "local_sound_path": "sounds/vain.mp3"
+}

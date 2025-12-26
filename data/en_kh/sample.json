@@ -1,0 +1,90 @@
+{
+  "word": "sample",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75524.png",
+      "local_image_path": "images/75524.png"
+    },
+    {
+      "pos": "n",
+      "example": "free sample",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75520.png",
+      "local_image_path": "images/75520.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75525.png",
+      "local_image_path": "images/75525.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127356.png",
+      "local_image_path": "images/127356.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127357.png",
+      "local_image_path": "images/127357.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127358.png",
+      "local_image_path": "images/127358.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127359.png",
+      "local_image_path": "images/127359.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75521.png",
+      "local_image_path": "images/75521.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sample food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75522.png",
+      "local_image_path": "images/75522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sample soil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75523.png",
+      "local_image_path": "images/75523.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75526.png",
+      "local_image_path": "images/75526.png"
+    }
+  ],
+  "synonyms": [
+    "test",
+    "try",
+    "taste",
+    "experiment",
+    "appraise"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sample card",
+    "sample post",
+    "sample room",
+    "sample space",
+    "sampler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sample.mp3",
+  "local_sound_path": "sounds/sample.mp3"
+}

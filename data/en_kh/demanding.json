@@ -1,0 +1,33 @@
+{
+  "word": "demanding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "demanding job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20392.png",
+      "local_image_path": "images/20392.png"
+    }
+  ],
+  "synonyms": [
+    "insistent",
+    "persistent",
+    "dissatisfied",
+    "discontented",
+    "needy",
+    "asking",
+    "inquiring",
+    "wanting",
+    "challenging",
+    "pleading"
+  ],
+  "antonyms": [
+    "easy",
+    "relaxing",
+    "satisfied"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demanding.mp3",
+  "local_sound_path": "sounds/demanding.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "adoption",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "adoption meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2496.png",
+      "local_image_path": "images/2496.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112043.png",
+      "local_image_path": "images/112043.png"
+    }
+  ],
+  "synonyms": [
+    "acceptance",
+    "implementation",
+    "espousal",
+    "approval",
+    "agreement",
+    "assumption"
+  ],
+  "antonyms": [
+    "rejection"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adoption.mp3",
+  "local_sound_path": "sounds/adoption.mp3"
+}

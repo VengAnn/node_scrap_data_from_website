@@ -1,0 +1,33 @@
+{
+  "word": "immigrant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "illegal immigrant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37477.png",
+      "local_image_path": "images/37477.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37476.png",
+      "local_image_path": "images/37476.png"
+    }
+  ],
+  "synonyms": [
+    "settler",
+    "�migr�",
+    "migrant",
+    "refugee",
+    "colonist",
+    "colonizer"
+  ],
+  "antonyms": [
+    "emigrant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/immigrant.mp3",
+  "local_sound_path": "sounds/immigrant.mp3"
+}

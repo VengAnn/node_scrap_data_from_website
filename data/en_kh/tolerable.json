@@ -1,0 +1,42 @@
+{
+  "word": "tolerable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tolerable pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89926.png",
+      "local_image_path": "images/89926.png"
+    },
+    {
+      "pos": "adj",
+      "example": "tolerable price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89927.png",
+      "local_image_path": "images/89927.png"
+    },
+    {
+      "pos": "adj",
+      "example": "feel tolerable",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89928.png",
+      "local_image_path": "images/89928.png"
+    }
+  ],
+  "synonyms": [
+    "reasonable",
+    "average",
+    "okay",
+    "passable",
+    "fair",
+    "adequate",
+    "all right",
+    "satisfactory"
+  ],
+  "antonyms": [
+    "intolerable",
+    "unbearable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tolerable.mp3",
+  "local_sound_path": "sounds/tolerable.mp3"
+}

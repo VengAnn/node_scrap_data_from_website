@@ -1,0 +1,42 @@
+{
+  "word": "acknowledge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "you must acknowledge that you have done wrong",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2076.png",
+      "local_image_path": "images/2076.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111917.png",
+      "local_image_path": "images/111917.png"
+    }
+  ],
+  "synonyms": [
+    "greet",
+    "salute",
+    "reply",
+    "answer",
+    "respond",
+    "react",
+    "return",
+    "rejoin"
+  ],
+  "antonyms": [
+    "deny",
+    "ignore"
+  ],
+  "similar_words": [
+    "acknowledge receipt",
+    "acknowledgeable",
+    "acknowledged",
+    "acknowledgement",
+    "acknowledger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acknowledge.mp3",
+  "local_sound_path": "sounds/acknowledge.mp3"
+}

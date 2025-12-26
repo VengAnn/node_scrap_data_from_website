@@ -1,0 +1,48 @@
+{
+  "word": "impeach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37619.png",
+      "local_image_path": "images/37619.png"
+    },
+    {
+      "pos": "tv",
+      "example": "impeach an official",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37620.png",
+      "local_image_path": "images/37620.png"
+    },
+    {
+      "pos": "tv",
+      "example": "impeach his motives",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37621.png",
+      "local_image_path": "images/37621.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121586.png",
+      "local_image_path": "images/121586.png"
+    }
+  ],
+  "synonyms": [
+    "accuse",
+    "indict",
+    "prosecute",
+    "arraign",
+    "charge",
+    "inculpate",
+    "denunciate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "impeachable",
+    "impeacher",
+    "impeachment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impeach.mp3",
+  "local_sound_path": "sounds/impeach.mp3"
+}

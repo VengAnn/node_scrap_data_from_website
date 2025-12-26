@@ -1,0 +1,56 @@
+{
+  "word": "accrue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1935.png",
+      "local_image_path": "images/1935.png"
+    },
+    {
+      "pos": "iv",
+      "example": "If you put money in the bank, interest accrues",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1934.png",
+      "local_image_path": "images/1934.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1936.png",
+      "local_image_path": "images/1936.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113155.png",
+      "local_image_path": "images/113155.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113156.png",
+      "local_image_path": "images/113156.png"
+    }
+  ],
+  "synonyms": [
+    "accumulate",
+    "ensue",
+    "grow",
+    "build up",
+    "amass",
+    "increase",
+    "add",
+    "enlarge"
+  ],
+  "antonyms": [
+    "dwindle"
+  ],
+  "similar_words": [
+    "accrued divident",
+    "accruement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accrue.mp3",
+  "local_sound_path": "sounds/accrue.mp3"
+}

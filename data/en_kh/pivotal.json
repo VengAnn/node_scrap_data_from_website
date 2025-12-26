@@ -1,0 +1,40 @@
+{
+  "word": "pivotal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pivotal issue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63689.png",
+      "local_image_path": "images/63689.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pivotal block",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63690.png",
+      "local_image_path": "images/63690.png"
+    }
+  ],
+  "synonyms": [
+    "essential",
+    "key",
+    "crucial",
+    "fundamental",
+    "critical",
+    "central",
+    "focal",
+    "vital",
+    "decisive",
+    "momentous",
+    "important",
+    "paramount"
+  ],
+  "antonyms": [
+    "irrelevant",
+    "unimportant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pivotal.mp3",
+  "local_sound_path": "sounds/pivotal.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "upturn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96828.png",
+      "local_image_path": "images/96828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96827.png",
+      "local_image_path": "images/96827.png"
+    }
+  ],
+  "synonyms": [
+    "improvement",
+    "rise",
+    "increase",
+    "growth",
+    "expansion",
+    "recovery",
+    "revival",
+    "upsurge",
+    "overturn",
+    "capsize",
+    "upset",
+    "upend"
+  ],
+  "antonyms": [
+    "slump",
+    "right"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/upturn.mp3",
+  "local_sound_path": "sounds/upturn.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "enclose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I'll enclose your letter with mine.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24798.png",
+      "local_image_path": "images/24798.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enclose a check",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24799.png",
+      "local_image_path": "images/24799.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119128.png",
+      "local_image_path": "images/119128.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119129.png",
+      "local_image_path": "images/119129.png"
+    }
+  ],
+  "synonyms": [
+    "include",
+    "attach",
+    "insert",
+    "add",
+    "append"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "enclosed"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enclose.mp3",
+  "local_sound_path": "sounds/enclose.mp3"
+}

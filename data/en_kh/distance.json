@@ -1,0 +1,51 @@
+{
+  "word": "distance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "distance between two points",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22251.png",
+      "local_image_path": "images/22251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22252.png",
+      "local_image_path": "images/22252.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118648.png",
+      "local_image_path": "images/118648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118649.png",
+      "local_image_path": "images/118649.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118650.png",
+      "local_image_path": "images/118650.png"
+    }
+  ],
+  "synonyms": [
+    "dissociate",
+    "detach",
+    "separate",
+    "avoid"
+  ],
+  "antonyms": [
+    "warmth",
+    "closeness",
+    "associate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distance.mp3",
+  "local_sound_path": "sounds/distance.mp3"
+}

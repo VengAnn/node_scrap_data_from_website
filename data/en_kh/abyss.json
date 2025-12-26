@@ -1,0 +1,36 @@
+{
+  "word": "abyss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "the abyss of despair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1739.png",
+      "local_image_path": "images/1739.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1738.png",
+      "local_image_path": "images/1738.png"
+    }
+  ],
+  "synonyms": [
+    "gulf",
+    "chasm",
+    "void",
+    "gorge",
+    "hole",
+    "depth"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "abyssal",
+    "Abyssinia",
+    "Abyssinian",
+    "abyssinien"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abyss.mp3",
+  "local_sound_path": "sounds/abyss.mp3"
+}

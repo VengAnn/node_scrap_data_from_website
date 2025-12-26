@@ -1,0 +1,65 @@
+{
+  "word": "tense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tense wire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88246.png",
+      "local_image_path": "images/88246.png"
+    },
+    {
+      "pos": "adj",
+      "example": "tense speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88247.png",
+      "local_image_path": "images/88247.png"
+    },
+    {
+      "pos": "adj",
+      "example": "tense moment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88248.png",
+      "local_image_path": "images/88248.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He tensed his muscles for the effort.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88250.png",
+      "local_image_path": "images/88250.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88251.png",
+      "local_image_path": "images/88251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88249.png",
+      "local_image_path": "images/88249.png"
+    }
+  ],
+  "synonyms": [
+    "taut",
+    "tight",
+    "rigid",
+    "stiff",
+    "stressful",
+    "nerve-racking",
+    "worrying"
+  ],
+  "antonyms": [
+    "relaxed",
+    "relaxing",
+    "loose"
+  ],
+  "similar_words": [
+    "tenseless",
+    "tensely",
+    "tenseness",
+    "tenser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tense.mp3",
+  "local_sound_path": "sounds/tense.mp3"
+}

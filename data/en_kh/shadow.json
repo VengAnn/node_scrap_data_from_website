@@ -1,0 +1,87 @@
+{
+  "word": "shadow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78649.png",
+      "local_image_path": "images/78649.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78650.png",
+      "local_image_path": "images/78650.png"
+    },
+    {
+      "pos": "n",
+      "example": "cast a shadow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78645.png",
+      "local_image_path": "images/78645.png"
+    },
+    {
+      "pos": "n",
+      "example": "in the shadow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78646.png",
+      "local_image_path": "images/78646.png"
+    },
+    {
+      "pos": "n",
+      "example": "Her face was in deep shadow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78647.png",
+      "local_image_path": "images/78647.png"
+    },
+    {
+      "pos": "n",
+      "example": "We are only the shadows of our former selves.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78648.png",
+      "local_image_path": "images/78648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78651.png",
+      "local_image_path": "images/78651.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127705.png",
+      "local_image_path": "images/127705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127706.png",
+      "local_image_path": "images/127706.png"
+    }
+  ],
+  "synonyms": [
+    "follower",
+    "stalker",
+    "tail",
+    "darken",
+    "eclipse",
+    "shade"
+  ],
+  "antonyms": [
+    "light",
+    "brighten"
+  ],
+  "similar_words": [
+    "shadow economy",
+    "shadow factory",
+    "shadow-box",
+    "shadow-boxing",
+    "shadow-cabinet",
+    "shadow-play",
+    "shadowgraf",
+    "shadowing",
+    "shadowless",
+    "shadowy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shadow.mp3",
+  "local_sound_path": "sounds/shadow.mp3"
+}

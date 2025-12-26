@@ -1,0 +1,58 @@
+{
+  "word": "envelop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25399.png",
+      "local_image_path": "images/25399.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25395.png",
+      "local_image_path": "images/25395.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Gases envelop the earth.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25396.png",
+      "local_image_path": "images/25396.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Hands envelop a bird.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25397.png",
+      "local_image_path": "images/25397.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wrappers envelop candy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25398.png",
+      "local_image_path": "images/25398.png"
+    }
+  ],
+  "synonyms": [
+    "enclose",
+    "surround",
+    "encircle",
+    "encase",
+    "swathe",
+    "shroud",
+    "cloak",
+    "wrap",
+    "cover",
+    "incase"
+  ],
+  "antonyms": [
+    "unwrap"
+  ],
+  "similar_words": [
+    "envelope",
+    "envelopment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/envelop.mp3",
+  "local_sound_path": "sounds/envelop.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "disfigure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21850.png",
+      "local_image_path": "images/21850.png"
+    }
+  ],
+  "synonyms": [
+    "mutilate",
+    "scar",
+    "deface",
+    "mar",
+    "spoil",
+    "harm",
+    "damage",
+    "blemish"
+  ],
+  "antonyms": [
+    "enhance"
+  ],
+  "similar_words": [
+    "disfigurement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disfigure.mp3",
+  "local_sound_path": "sounds/disfigure.mp3"
+}

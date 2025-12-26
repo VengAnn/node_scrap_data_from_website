@@ -1,0 +1,49 @@
+{
+  "word": "lid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "lid of a box",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46285.png",
+      "local_image_path": "images/46285.png"
+    },
+    {
+      "pos": "n",
+      "example": "lid of the eye",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46286.png",
+      "local_image_path": "images/46286.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46287.png",
+      "local_image_path": "images/46287.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46288.png",
+      "local_image_path": "images/46288.png"
+    }
+  ],
+  "synonyms": [
+    "top",
+    "cover",
+    "cap",
+    "closure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "lidder",
+    "lidderon",
+    "lide",
+    "lided",
+    "lidgate",
+    "lidless",
+    "lido"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lid.mp3",
+  "local_sound_path": "sounds/lid.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "proliferate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67573.png",
+      "local_image_path": "images/67573.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126092.png",
+      "local_image_path": "images/126092.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126093.png",
+      "local_image_path": "images/126093.png"
+    }
+  ],
+  "synonyms": [
+    "grow",
+    "flourish",
+    "thrive",
+    "bloom",
+    "burgeon",
+    "prosper",
+    "increase",
+    "mushroom",
+    "reproduce",
+    "propagate",
+    "multiply",
+    "breed",
+    "procreate",
+    "beget",
+    "replicate"
+  ],
+  "antonyms": [
+    "decrease",
+    "dwindle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proliferate.mp3",
+  "local_sound_path": "sounds/proliferate.mp3"
+}

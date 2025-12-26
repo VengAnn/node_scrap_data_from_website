@@ -1,0 +1,31 @@
+{
+  "word": "delegation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "delegation of power",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20300.png",
+      "local_image_path": "images/20300.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20301.png",
+      "local_image_path": "images/20301.png"
+    }
+  ],
+  "synonyms": [
+    "commission",
+    "deputation",
+    "mission",
+    "lobby"
+  ],
+  "antonyms": [
+    "retention"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delegation.mp3",
+  "local_sound_path": "sounds/delegation.mp3"
+}

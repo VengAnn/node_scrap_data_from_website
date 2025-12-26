@@ -1,0 +1,30 @@
+{
+  "word": "checkered",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "checkered board",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13983.png",
+      "local_image_path": "images/13983.png"
+    },
+    {
+      "pos": "adj",
+      "example": "checkered career",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13984.png",
+      "local_image_path": "images/13984.png"
+    }
+  ],
+  "synonyms": [
+    "plaid",
+    "tartan",
+    "check"
+  ],
+  "antonyms": [
+    "even"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/checkered.mp3",
+  "local_sound_path": "sounds/checkered.mp3"
+}

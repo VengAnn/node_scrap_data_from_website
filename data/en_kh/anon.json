@@ -1,0 +1,35 @@
+{
+  "word": "anon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "ever and anon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4453.png",
+      "local_image_path": "images/4453.png"
+    }
+  ],
+  "synonyms": [
+    "soon",
+    "presently",
+    "immediately",
+    "shortly",
+    "rapidly",
+    "later"
+  ],
+  "antonyms": [
+    "now"
+  ],
+  "similar_words": [
+    "anonaceous",
+    "anonym",
+    "anonymity",
+    "anonymous",
+    "anonymous letter",
+    "anonymously",
+    "anonymousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anon.mp3",
+  "local_sound_path": "sounds/anon.mp3"
+}

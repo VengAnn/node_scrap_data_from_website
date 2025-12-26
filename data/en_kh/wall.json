@@ -1,0 +1,62 @@
+{
+  "word": "wall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wall of the room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98912.png",
+      "local_image_path": "images/98912.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98913.png",
+      "local_image_path": "images/98913.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98914.png",
+      "local_image_path": "images/98914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98915.png",
+      "local_image_path": "images/98915.png"
+    }
+  ],
+  "synonyms": [
+    "enclose",
+    "envelop",
+    "fence"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wall clock",
+    "wall creeper",
+    "wall knot",
+    "wall lizard",
+    "wall street",
+    "wall-painting",
+    "wall-to-wall",
+    "wallaby",
+    "wallah",
+    "wallaloo",
+    "wallboard",
+    "walled",
+    "waller",
+    "wallet",
+    "walleye",
+    "walleyed",
+    "wallflower",
+    "walling",
+    "wallop",
+    "walloping",
+    "wallow"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wall.mp3",
+  "local_sound_path": "sounds/wall.mp3"
+}

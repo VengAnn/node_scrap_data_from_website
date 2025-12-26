@@ -1,0 +1,48 @@
+{
+  "word": "waver",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "He wavered in his resolution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99419.png",
+      "local_image_path": "images/99419.png"
+    },
+    {
+      "pos": "iv",
+      "example": "needles waver",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99417.png",
+      "local_image_path": "images/99417.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99418.png",
+      "local_image_path": "images/99418.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99420.png",
+      "local_image_path": "images/99420.png"
+    }
+  ],
+  "synonyms": [
+    "tremble",
+    "shake",
+    "flutter",
+    "flicker",
+    "shudder",
+    "quiver"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "waverer",
+    "wavering",
+    "waveringly",
+    "wavery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/waver.mp3",
+  "local_sound_path": "sounds/waver.mp3"
+}

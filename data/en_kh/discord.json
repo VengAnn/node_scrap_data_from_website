@@ -1,0 +1,35 @@
+{
+  "word": "discord",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21722.png",
+      "local_image_path": "images/21722.png"
+    }
+  ],
+  "synonyms": [
+    "dissonance",
+    "disharmony",
+    "cacophony",
+    "disagreement",
+    "conflict",
+    "dispute",
+    "argument",
+    "friction",
+    "dissension"
+  ],
+  "antonyms": [
+    "accord",
+    "harmony"
+  ],
+  "similar_words": [
+    "discordance",
+    "discordant",
+    "discordantly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discord.mp3",
+  "local_sound_path": "sounds/discord.mp3"
+}

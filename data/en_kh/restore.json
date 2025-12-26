@@ -1,0 +1,55 @@
+{
+  "word": "restore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "restore an old building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72945.png",
+      "local_image_path": "images/72945.png"
+    },
+    {
+      "pos": "tv",
+      "example": "restore him to health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72946.png",
+      "local_image_path": "images/72946.png"
+    },
+    {
+      "pos": "tv",
+      "example": "restore lost property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72947.png",
+      "local_image_path": "images/72947.png"
+    },
+    {
+      "pos": "tv",
+      "example": "restore his high spirits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72948.png",
+      "local_image_path": "images/72948.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72949.png",
+      "local_image_path": "images/72949.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72950.png",
+      "local_image_path": "images/72950.png"
+    }
+  ],
+  "synonyms": [
+    "refurbish",
+    "renovate",
+    "repair",
+    "rebuild",
+    "recondition",
+    "fix"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restore.mp3",
+  "local_sound_path": "sounds/restore.mp3"
+}

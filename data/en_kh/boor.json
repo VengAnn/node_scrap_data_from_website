@@ -1,0 +1,32 @@
+{
+  "word": "boor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10185.png",
+      "local_image_path": "images/10185.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115388.png",
+      "local_image_path": "images/115388.png"
+    }
+  ],
+  "synonyms": [
+    "lout",
+    "oaf",
+    "fool"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "boorish",
+    "boorishly",
+    "boorishness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boor.mp3",
+  "local_sound_path": "sounds/boor.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "carrier",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "carrier company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13090.png",
+      "local_image_path": "images/13090.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13089.png",
+      "local_image_path": "images/13089.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116014.png",
+      "local_image_path": "images/116014.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116015.png",
+      "local_image_path": "images/116015.png"
+    }
+  ],
+  "synonyms": [
+    "transporter",
+    "carter",
+    "shipper",
+    "mover",
+    "exporter",
+    "importer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carrier.mp3",
+  "local_sound_path": "sounds/carrier.mp3"
+}

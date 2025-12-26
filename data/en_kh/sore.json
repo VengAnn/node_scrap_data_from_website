@@ -1,0 +1,65 @@
+{
+  "word": "sore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sore arm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82790.png",
+      "local_image_path": "images/82790.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sore need",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82791.png",
+      "local_image_path": "images/82791.png"
+    },
+    {
+      "pos": "adj",
+      "example": "Don't be sore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82792.png",
+      "local_image_path": "images/82792.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82795.png",
+      "local_image_path": "images/82795.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82793.png",
+      "local_image_path": "images/82793.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82794.png",
+      "local_image_path": "images/82794.png"
+    }
+  ],
+  "synonyms": [
+    "wound",
+    "abscess",
+    "lesion",
+    "eruption",
+    "blister",
+    "boil",
+    "spot",
+    "infection"
+  ],
+  "antonyms": [
+    "pleased",
+    "comfortable",
+    "uncontroversial"
+  ],
+  "similar_words": [
+    "sore-head",
+    "sorely",
+    "soreness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sore.mp3",
+  "local_sound_path": "sounds/sore.mp3"
+}

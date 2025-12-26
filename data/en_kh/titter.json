@@ -1,0 +1,36 @@
+{
+  "word": "titter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89787.png",
+      "local_image_path": "images/89787.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89788.png",
+      "local_image_path": "images/89788.png"
+    }
+  ],
+  "synonyms": [
+    "giggle",
+    "snicker",
+    "snigger",
+    "chuckle",
+    "chortle",
+    "laugh",
+    "twitter",
+    "cackle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "titter-totter",
+    "titterer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/titter.mp3",
+  "local_sound_path": "sounds/titter.mp3"
+}

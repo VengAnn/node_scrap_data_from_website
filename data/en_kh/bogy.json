@@ -1,0 +1,41 @@
+{
+  "word": "bogy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9972.png",
+      "local_image_path": "images/9972.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9973.png",
+      "local_image_path": "images/9973.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115334.png",
+      "local_image_path": "images/115334.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115335.png",
+      "local_image_path": "images/115335.png"
+    }
+  ],
+  "synonyms": [
+    "monster",
+    "creature",
+    "beast",
+    "monstrosity"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bogy.mp3",
+  "local_sound_path": "sounds/bogy.mp3"
+}

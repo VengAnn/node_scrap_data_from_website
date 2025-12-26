@@ -1,0 +1,52 @@
+{
+  "word": "guzzle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "He's always guzzling.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33366.png",
+      "local_image_path": "images/33366.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120859.png",
+      "local_image_path": "images/120859.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120860.png",
+      "local_image_path": "images/120860.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120861.png",
+      "local_image_path": "images/120861.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120862.png",
+      "local_image_path": "images/120862.png"
+    }
+  ],
+  "synonyms": [
+    "consume",
+    "use",
+    "devour"
+  ],
+  "antonyms": [
+    "sip",
+    "nibble",
+    "conserve"
+  ],
+  "similar_words": [
+    "guzzler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guzzle.mp3",
+  "local_sound_path": "sounds/guzzle.mp3"
+}

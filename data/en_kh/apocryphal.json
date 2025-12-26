@@ -1,0 +1,35 @@
+{
+  "word": "apocryphal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4955.png",
+      "local_image_path": "images/4955.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132571.png",
+      "local_image_path": "images/132571.png"
+    }
+  ],
+  "synonyms": [
+    "mythical",
+    "fictional",
+    "untrue",
+    "legendary",
+    "dubious"
+  ],
+  "antonyms": [
+    "true"
+  ],
+  "similar_words": [
+    "apocryphally",
+    "apocryphalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apocryphal.mp3",
+  "local_sound_path": "sounds/apocryphal.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "chirp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14251.png",
+      "local_image_path": "images/14251.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14250.png",
+      "local_image_path": "images/14250.png"
+    }
+  ],
+  "synonyms": [
+    "cheep",
+    "peep",
+    "squeak",
+    "chip",
+    "twitter",
+    "tweet",
+    "sing",
+    "pipe",
+    "chirrup",
+    "beep"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chirpily",
+    "chirpiness",
+    "chirpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chirp.mp3",
+  "local_sound_path": "sounds/chirp.mp3"
+}

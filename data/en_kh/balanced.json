@@ -1,0 +1,34 @@
+{
+  "word": "balanced",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7142.png",
+      "local_image_path": "images/7142.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114461.png",
+      "local_image_path": "images/114461.png"
+    }
+  ],
+  "synonyms": [
+    "steady",
+    "stable",
+    "poised",
+    "secure",
+    "considered",
+    "calculated"
+  ],
+  "antonyms": [
+    "unbalanced",
+    "biased"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/balanced.mp3",
+  "local_sound_path": "sounds/balanced.mp3"
+}

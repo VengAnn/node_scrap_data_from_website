@@ -1,0 +1,28 @@
+{
+  "word": "refute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "refute an argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71495.png",
+      "local_image_path": "images/71495.png"
+    }
+  ],
+  "synonyms": [
+    "disprove",
+    "contest",
+    "rebut",
+    "counter",
+    "repudiate",
+    "negate",
+    "contradict"
+  ],
+  "antonyms": [
+    "prove"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refute.mp3",
+  "local_sound_path": "sounds/refute.mp3"
+}

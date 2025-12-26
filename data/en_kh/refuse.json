@@ -1,0 +1,70 @@
+{
+  "word": "refuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71491.png",
+      "local_image_path": "images/71491.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71489.png",
+      "local_image_path": "images/71489.png"
+    },
+    {
+      "pos": "n",
+      "example": "human refuse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71490.png",
+      "local_image_path": "images/71490.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refuse to go there",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71488.png",
+      "local_image_path": "images/71488.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126671.png",
+      "local_image_path": "images/126671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126672.png",
+      "local_image_path": "images/126672.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126673.png",
+      "local_image_path": "images/126673.png"
+    }
+  ],
+  "synonyms": [
+    "waste",
+    "garbage",
+    "rubbish",
+    "litter",
+    "junk",
+    "decline",
+    "reject",
+    "snub",
+    "rebuff",
+    "repudiate",
+    "deny",
+    "negate",
+    "turn down"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refuse.mp3",
+  "local_sound_path": "sounds/refuse.mp3"
+}

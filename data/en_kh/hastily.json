@@ -1,0 +1,40 @@
+{
+  "word": "hastily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34010.png",
+      "local_image_path": "images/34010.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120975.png",
+      "local_image_path": "images/120975.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120976.png",
+      "local_image_path": "images/120976.png"
+    }
+  ],
+  "synonyms": [
+    "unwisely",
+    "rashly",
+    "injudiciously",
+    "thoughtlessly",
+    "impulsively",
+    "impetuously"
+  ],
+  "antonyms": [
+    "slowly",
+    "carefully"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hastily.mp3",
+  "local_sound_path": "sounds/hastily.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "deprived",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The poorest and most deprived people will receive special help.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20696.png",
+      "local_image_path": "images/20696.png"
+    }
+  ],
+  "synonyms": [
+    "underprivileged",
+    "poor",
+    "destitute",
+    "depressed",
+    "denied",
+    "removed",
+    "withdrawn"
+  ],
+  "antonyms": [
+    "privileged",
+    "provided"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deprived.mp3",
+  "local_sound_path": "sounds/deprived.mp3"
+}

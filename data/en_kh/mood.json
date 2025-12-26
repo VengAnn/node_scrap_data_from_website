@@ -1,0 +1,46 @@
+{
+  "word": "mood",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She is in good mood today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110312.png",
+      "local_image_path": "images/110312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110313.png",
+      "local_image_path": "images/110313.png"
+    },
+    {
+      "pos": "n",
+      "example": "mood of the meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110314.png",
+      "local_image_path": "images/110314.png"
+    }
+  ],
+  "synonyms": [
+    "atmosphere",
+    "feel",
+    "vibes",
+    "ambiance",
+    "air",
+    "feeling",
+    "aura",
+    "tone",
+    "ambience"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mood disorder",
+    "moodily",
+    "moodiness",
+    "moodly",
+    "moody"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mood.mp3",
+  "local_sound_path": "sounds/mood.mp3"
+}

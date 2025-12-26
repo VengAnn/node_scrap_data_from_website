@@ -1,0 +1,38 @@
+{
+  "word": "admit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132149.png",
+      "local_image_path": "images/132149.png"
+    },
+    {
+      "pos": "v",
+      "example": "He will never admit that he is wrong",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2471.png",
+      "local_image_path": "images/2471.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112052.png",
+      "local_image_path": "images/112052.png"
+    }
+  ],
+  "synonyms": [
+    "permit",
+    "welcome"
+  ],
+  "antonyms": [
+    "deny",
+    "bar"
+  ],
+  "similar_words": [
+    "admittance",
+    "admitted",
+    "admittedly"
+  ],
+  "sound": null
+}

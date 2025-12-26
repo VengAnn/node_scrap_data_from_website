@@ -1,0 +1,49 @@
+{
+  "word": "immodest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37506.png",
+      "local_image_path": "images/37506.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121542.png",
+      "local_image_path": "images/121542.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121543.png",
+      "local_image_path": "images/121543.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121544.png",
+      "local_image_path": "images/121544.png"
+    }
+  ],
+  "synonyms": [
+    "boastful",
+    "bigheaded",
+    "arrogant",
+    "conceited",
+    "ostentatious",
+    "bombastic",
+    "pretentious"
+  ],
+  "antonyms": [
+    "modest"
+  ],
+  "similar_words": [
+    "immodestly",
+    "immodesty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/immodest.mp3",
+  "local_sound_path": "sounds/immodest.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "canvas",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "made of canvas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12757.png",
+      "local_image_path": "images/12757.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115935.png",
+      "local_image_path": "images/115935.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115936.png",
+      "local_image_path": "images/115936.png"
+    }
+  ],
+  "synonyms": [
+    "picture",
+    "image",
+    "oil",
+    "print",
+    "hessian",
+    "sacking"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "canvas duck",
+    "canvasback",
+    "canvass",
+    "canvasser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/canvas.mp3",
+  "local_sound_path": "sounds/canvas.mp3"
+}

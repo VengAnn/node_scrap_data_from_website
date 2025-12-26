@@ -1,0 +1,74 @@
+{
+  "word": "dump",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "city dump",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23412.png",
+      "local_image_path": "images/23412.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23413.png",
+      "local_image_path": "images/23413.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23414.png",
+      "local_image_path": "images/23414.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23415.png",
+      "local_image_path": "images/23415.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118823.png",
+      "local_image_path": "images/118823.png"
+    },
+    {
+      "pos": "sl",
+      "example": "dump on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23411.png",
+      "local_image_path": "images/23411.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dump a load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23410.png",
+      "local_image_path": "images/23410.png"
+    }
+  ],
+  "synonyms": [
+    "hole",
+    "pigsty",
+    "abandon",
+    "discard",
+    "ditch",
+    "desert",
+    "leave",
+    "chuck"
+  ],
+  "antonyms": [
+    "keep",
+    "stay"
+  ],
+  "similar_words": [
+    "dump truck",
+    "dumper",
+    "dumping",
+    "dumpling",
+    "dumps",
+    "dumpster",
+    "dumpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dump.mp3",
+  "local_sound_path": "sounds/dump.mp3"
+}

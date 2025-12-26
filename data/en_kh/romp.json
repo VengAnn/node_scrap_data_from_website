@@ -1,0 +1,45 @@
+{
+  "word": "romp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74079.png",
+      "local_image_path": "images/74079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74080.png",
+      "local_image_path": "images/74080.png"
+    }
+  ],
+  "synonyms": [
+    "frolic",
+    "prance",
+    "caper",
+    "gambol",
+    "dance",
+    "sail",
+    "steam",
+    "coast",
+    "cruise",
+    "zip",
+    "whiz"
+  ],
+  "antonyms": [
+    "bore",
+    "whitewash",
+    "lose",
+    "struggle"
+  ],
+  "similar_words": [
+    "rompers",
+    "romping",
+    "rompish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/romp.mp3",
+  "local_sound_path": "sounds/romp.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "truly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "truly sorry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92137.png",
+      "local_image_path": "images/92137.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92138.png",
+      "local_image_path": "images/92138.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92139.png",
+      "local_image_path": "images/92139.png"
+    }
+  ],
+  "synonyms": [
+    "very",
+    "greatly",
+    "really",
+    "indeed",
+    "exceptionally",
+    "enormously",
+    "extremely"
+  ],
+  "antonyms": [
+    "insincerely"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/truly.mp3",
+  "local_sound_path": "sounds/truly.mp3"
+}

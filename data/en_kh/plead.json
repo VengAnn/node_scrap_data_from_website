@@ -1,0 +1,52 @@
+{
+  "word": "plead",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "plead for help",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64047.png",
+      "local_image_path": "images/64047.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plead ignorance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64048.png",
+      "local_image_path": "images/64048.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plead a case",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64049.png",
+      "local_image_path": "images/64049.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plead guilty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64050.png",
+      "local_image_path": "images/64050.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "defend",
+    "argue",
+    "contend",
+    "vindicate",
+    "assert"
+  ],
+  "antonyms": [
+    "demand"
+  ],
+  "similar_words": [
+    "pleadable",
+    "pleader",
+    "pleading",
+    "pleading burden",
+    "pleadingly",
+    "pleadings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plead.mp3",
+  "local_sound_path": "sounds/plead.mp3"
+}

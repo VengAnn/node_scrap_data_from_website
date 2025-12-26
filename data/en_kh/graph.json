@@ -1,0 +1,59 @@
+{
+  "word": "graph",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32605.png",
+      "local_image_path": "images/32605.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32607.png",
+      "local_image_path": "images/32607.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32608.png",
+      "local_image_path": "images/32608.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32606.png",
+      "local_image_path": "images/32606.png"
+    }
+  ],
+  "synonyms": [
+    "chart",
+    "diagram",
+    "grid",
+    "table",
+    "display"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "grapheme",
+    "graphemic",
+    "graphemically",
+    "grapher",
+    "graphic",
+    "graphic art",
+    "graphically",
+    "graphics",
+    "graphite",
+    "graphitic",
+    "graphitization",
+    "graphitize",
+    "graphological",
+    "graphologist",
+    "graphology",
+    "graphpaper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/graph.mp3",
+  "local_sound_path": "sounds/graph.mp3"
+}

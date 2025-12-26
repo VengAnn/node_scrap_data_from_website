@@ -1,0 +1,38 @@
+{
+  "word": "colony",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15774.png",
+      "local_image_path": "images/15774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130128.png",
+      "local_image_path": "images/130128.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130129.png",
+      "local_image_path": "images/130129.png"
+    }
+  ],
+  "synonyms": [
+    "gathering",
+    "camp",
+    "settlement",
+    "outpost",
+    "dependency",
+    "protectorate",
+    "satellite"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/colony.mp3",
+  "local_sound_path": "sounds/colony.mp3"
+}

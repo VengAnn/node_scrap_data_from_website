@@ -1,0 +1,56 @@
+{
+  "word": "pleasure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pleasure trip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64079.png",
+      "local_image_path": "images/64079.png"
+    },
+    {
+      "pos": "n",
+      "example": "pleasure at the news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64078.png",
+      "local_image_path": "images/64078.png"
+    }
+  ],
+  "synonyms": [
+    "desire",
+    "preference",
+    "wish",
+    "choice",
+    "liking",
+    "inclination",
+    "will",
+    "enjoyment",
+    "happiness",
+    "delight",
+    "joy",
+    "bliss",
+    "contentment",
+    "satisfaction",
+    "gratification"
+  ],
+  "antonyms": [
+    "dissatisfaction",
+    "displeasure",
+    "work"
+  ],
+  "similar_words": [
+    "pleasure garden",
+    "pleasure place",
+    "pleasure principle",
+    "pleasure seeker",
+    "pleasure tour",
+    "pleasure-boat",
+    "pleasure-ground",
+    "pleasure-seeking",
+    "pleasureful",
+    "pleasureless",
+    "pleasurer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pleasure.mp3",
+  "local_sound_path": "sounds/pleasure.mp3"
+}

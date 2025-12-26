@@ -1,0 +1,40 @@
+{
+  "word": "egotism",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24048.png",
+      "local_image_path": "images/24048.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118936.png",
+      "local_image_path": "images/118936.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118937.png",
+      "local_image_path": "images/118937.png"
+    }
+  ],
+  "synonyms": [
+    "selfishness",
+    "egoism",
+    "conceit",
+    "vanity",
+    "arrogance",
+    "self-importance",
+    "narcissism"
+  ],
+  "antonyms": [
+    "altruism"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/egotism.mp3",
+  "local_sound_path": "sounds/egotism.mp3"
+}

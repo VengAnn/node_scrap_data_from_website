@@ -1,0 +1,29 @@
+{
+  "word": "digress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21355.png",
+      "local_image_path": "images/21355.png"
+    }
+  ],
+  "synonyms": [
+    "deviate",
+    "wander",
+    "stray",
+    "ramble",
+    "divagate",
+    "depart"
+  ],
+  "antonyms": [
+    "focus"
+  ],
+  "similar_words": [
+    "digression"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/digress.mp3",
+  "local_sound_path": "sounds/digress.mp3"
+}

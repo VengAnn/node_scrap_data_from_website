@@ -1,0 +1,48 @@
+{
+  "word": "fixed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fixed chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28792.png",
+      "local_image_path": "images/28792.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fixed price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28793.png",
+      "local_image_path": "images/28793.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fixed idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28794.png",
+      "local_image_path": "images/28794.png"
+    }
+  ],
+  "synonyms": [
+    "rigid",
+    "inflexible",
+    "settled"
+  ],
+  "antonyms": [
+    "variable",
+    "flexible",
+    "fluid",
+    "broke",
+    "broken",
+    "detached"
+  ],
+  "similar_words": [
+    "fixed assets",
+    "fixed capital",
+    "fixed charges",
+    "fixed stars",
+    "fixedly",
+    "fixedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fixed.mp3",
+  "local_sound_path": "sounds/fixed.mp3"
+}

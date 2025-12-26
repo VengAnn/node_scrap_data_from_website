@@ -1,0 +1,44 @@
+{
+  "word": "bile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8877.png",
+      "local_image_path": "images/8877.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8876.png",
+      "local_image_path": "images/8876.png"
+    }
+  ],
+  "synonyms": [
+    "anger",
+    "wrath",
+    "fury",
+    "rage",
+    "temper",
+    "ire",
+    "vitriol",
+    "spleen",
+    "bitterness",
+    "irritability",
+    "sourness"
+  ],
+  "antonyms": [
+    "composure",
+    "sweetness"
+  ],
+  "similar_words": [
+    "bile acid",
+    "bile duct",
+    "bile peritonitis",
+    "bile salt"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bile.mp3",
+  "local_sound_path": "sounds/bile.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "cope",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17630.png",
+      "local_image_path": "images/17630.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117584.png",
+      "local_image_path": "images/117584.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17629.png",
+      "local_image_path": "images/17629.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117585.png",
+      "local_image_path": "images/117585.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117586.png",
+      "local_image_path": "images/117586.png"
+    }
+  ],
+  "synonyms": [
+    "manage",
+    "handle",
+    "survive"
+  ],
+  "antonyms": [
+    "crumble",
+    "fail"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cope.mp3",
+  "local_sound_path": "sounds/cope.mp3"
+}

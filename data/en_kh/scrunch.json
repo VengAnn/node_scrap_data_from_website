@@ -1,0 +1,37 @@
+{
+  "word": "scrunch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77276.png",
+      "local_image_path": "images/77276.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77275.png",
+      "local_image_path": "images/77275.png"
+    }
+  ],
+  "synonyms": [
+    "crumple",
+    "crush",
+    "crunch",
+    "grind",
+    "crease",
+    "squeeze",
+    "wrinkle"
+  ],
+  "antonyms": [
+    "smooth"
+  ],
+  "similar_words": [
+    "scrunchie",
+    "scrunchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scrunch.mp3",
+  "local_sound_path": "sounds/scrunch.mp3"
+}

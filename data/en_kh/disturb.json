@@ -1,0 +1,61 @@
+{
+  "word": "disturb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "don't disturb him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22346.png",
+      "local_image_path": "images/22346.png"
+    },
+    {
+      "pos": "tv",
+      "example": "noises disturb sleep",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22347.png",
+      "local_image_path": "images/22347.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disturb the peace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22348.png",
+      "local_image_path": "images/22348.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disturb some one's desk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22349.png",
+      "local_image_path": "images/22349.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118680.png",
+      "local_image_path": "images/118680.png"
+    }
+  ],
+  "synonyms": [
+    "move",
+    "transfer",
+    "shift",
+    "upset",
+    "worry",
+    "bother",
+    "concern",
+    "perturb",
+    "agitate",
+    "scare",
+    "alarm",
+    "frighten"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "disturbance",
+    "disturbance of the peace",
+    "disturbant",
+    "disturber",
+    "disturbing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disturb.mp3",
+  "local_sound_path": "sounds/disturb.mp3"
+}

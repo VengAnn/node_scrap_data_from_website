@@ -1,0 +1,27 @@
+{
+  "word": "avenge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "he avenged his father's death upon the murderer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6674.png",
+      "local_image_path": "images/6674.png"
+    }
+  ],
+  "synonyms": [
+    "retaliate",
+    "punish",
+    "redress",
+    "revenge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "avengeance",
+    "avengeful",
+    "avenger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avenge.mp3",
+  "local_sound_path": "sounds/avenge.mp3"
+}

@@ -1,0 +1,101 @@
+{
+  "word": "hum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hum while working",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36260.png",
+      "local_image_path": "images/36260.png"
+    },
+    {
+      "pos": "iv",
+      "example": "wires hum in the wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36261.png",
+      "local_image_path": "images/36261.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The new manager soon made things hum.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36262.png",
+      "local_image_path": "images/36262.png"
+    },
+    {
+      "pos": "iv",
+      "example": "make things hum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36263.png",
+      "local_image_path": "images/36263.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121249.png",
+      "local_image_path": "images/121249.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121250.png",
+      "local_image_path": "images/121250.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121251.png",
+      "local_image_path": "images/121251.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36265.png",
+      "local_image_path": "images/36265.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121252.png",
+      "local_image_path": "images/121252.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121253.png",
+      "local_image_path": "images/121253.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36264.png",
+      "local_image_path": "images/36264.png"
+    }
+  ],
+  "synonyms": [
+    "bustle",
+    "teem",
+    "pulsate",
+    "vibrate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "human",
+    "human being",
+    "human biology",
+    "human endowment",
+    "human resource",
+    "human right",
+    "humane",
+    "humanely",
+    "humaneness",
+    "humaniform",
+    "humanify",
+    "humanism",
+    "humanist",
+    "humanistic",
+    "humanistically",
+    "humanitarian",
+    "humanitarian aid"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hum.mp3",
+  "local_sound_path": "sounds/hum.mp3"
+}

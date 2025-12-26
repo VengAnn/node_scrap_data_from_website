@@ -1,0 +1,40 @@
+{
+  "word": "casualty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13244.png",
+      "local_image_path": "images/13244.png"
+    },
+    {
+      "pos": "n",
+      "example": "heavy casualties were reported in the fighting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13245.png",
+      "local_image_path": "images/13245.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130051.png",
+      "local_image_path": "images/130051.png"
+    }
+  ],
+  "synonyms": [
+    "fatality",
+    "victim",
+    "sufferer",
+    "subject",
+    "target",
+    "martyr",
+    "object"
+  ],
+  "antonyms": [
+    "survivor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/casualty.mp3",
+  "local_sound_path": "sounds/casualty.mp3"
+}

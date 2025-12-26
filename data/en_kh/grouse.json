@@ -1,0 +1,37 @@
+{
+  "word": "grouse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He's always grousing about the work-load.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33072.png",
+      "local_image_path": "images/33072.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33071.png",
+      "local_image_path": "images/33071.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33073.png",
+      "local_image_path": "images/33073.png"
+    }
+  ],
+  "synonyms": [
+    "complain",
+    "gripe",
+    "grumble",
+    "moan",
+    "nag",
+    "bellyache"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grouse.mp3",
+  "local_sound_path": "sounds/grouse.mp3"
+}

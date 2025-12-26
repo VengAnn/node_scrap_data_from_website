@@ -1,0 +1,66 @@
+{
+  "word": "ease",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "ease up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23689.png",
+      "local_image_path": "images/23689.png"
+    },
+    {
+      "pos": "n",
+      "example": "ease of the job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23684.png",
+      "local_image_path": "images/23684.png"
+    },
+    {
+      "pos": "n",
+      "example": "take one's ease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23685.png",
+      "local_image_path": "images/23685.png"
+    },
+    {
+      "pos": "n",
+      "example": "feel at ease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23686.png",
+      "local_image_path": "images/23686.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ease his mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23687.png",
+      "local_image_path": "images/23687.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ease a boat around",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23688.png",
+      "local_image_path": "images/23688.png"
+    }
+  ],
+  "synonyms": [
+    "comfort",
+    "luxury",
+    "slide",
+    "slip",
+    "edge",
+    "maneuver",
+    "work",
+    "stretch"
+  ],
+  "antonyms": [
+    "difficulty",
+    "worsen",
+    "hardship",
+    "hinder"
+  ],
+  "similar_words": [
+    "easeful",
+    "easel",
+    "easement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ease.mp3",
+  "local_sound_path": "sounds/ease.mp3"
+}

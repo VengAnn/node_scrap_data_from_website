@@ -1,0 +1,48 @@
+{
+  "word": "crowd",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "crowd together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18800.png",
+      "local_image_path": "images/18800.png"
+    },
+    {
+      "pos": "n",
+      "example": "A crowd had already collected outside the embassy gates.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18799.png",
+      "local_image_path": "images/18799.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crowd the street",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18801.png",
+      "local_image_path": "images/18801.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to crowd an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18802.png",
+      "local_image_path": "images/18802.png"
+    }
+  ],
+  "synonyms": [
+    "gather",
+    "mass",
+    "congregate",
+    "swarm",
+    "overcrowd",
+    "pack",
+    "cram",
+    "pile",
+    "squeeze",
+    "squash",
+    "jam"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crowd.mp3",
+  "local_sound_path": "sounds/crowd.mp3"
+}

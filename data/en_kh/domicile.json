@@ -1,0 +1,39 @@
+{
+  "word": "domicile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22671.png",
+      "local_image_path": "images/22671.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22669.png",
+      "local_image_path": "images/22669.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22670.png",
+      "local_image_path": "images/22670.png"
+    }
+  ],
+  "synonyms": [
+    "home",
+    "residence",
+    "dwelling",
+    "abode",
+    "address",
+    "flat",
+    "house",
+    "apartment"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/domicile.mp3",
+  "local_sound_path": "sounds/domicile.mp3"
+}

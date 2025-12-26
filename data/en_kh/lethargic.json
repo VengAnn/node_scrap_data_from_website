@@ -1,0 +1,42 @@
+{
+  "word": "lethargic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Hot weather makes me lethargic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45985.png",
+      "local_image_path": "images/45985.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123478.png",
+      "local_image_path": "images/123478.png"
+    }
+  ],
+  "synonyms": [
+    "sluggish",
+    "tired",
+    "weary",
+    "lackluster",
+    "lazy",
+    "languid",
+    "indolent",
+    "exhausted",
+    "slow",
+    "dull",
+    "lifeless",
+    "listless"
+  ],
+  "antonyms": [
+    "energetic"
+  ],
+  "similar_words": [
+    "lethargically",
+    "lethargicalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lethargic.mp3",
+  "local_sound_path": "sounds/lethargic.mp3"
+}

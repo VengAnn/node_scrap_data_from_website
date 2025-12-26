@@ -1,0 +1,65 @@
+{
+  "word": "dishonest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dishonest reply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21909.png",
+      "local_image_path": "images/21909.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dishonest businessman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21910.png",
+      "local_image_path": "images/21910.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118500.png",
+      "local_image_path": "images/118500.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118501.png",
+      "local_image_path": "images/118501.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118502.png",
+      "local_image_path": "images/118502.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118503.png",
+      "local_image_path": "images/118503.png"
+    }
+  ],
+  "synonyms": [
+    "lying",
+    "deceitful",
+    "false",
+    "untruthful",
+    "fraudulent",
+    "corrupt",
+    "unfair",
+    "insincere",
+    "mendacious",
+    "underhand",
+    "misleading"
+  ],
+  "antonyms": [
+    "honest"
+  ],
+  "similar_words": [
+    "dishonestly",
+    "dishonesty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dishonest.mp3",
+  "local_sound_path": "sounds/dishonest.mp3"
+}

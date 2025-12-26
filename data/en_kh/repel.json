@@ -1,0 +1,62 @@
+{
+  "word": "repel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "repel the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72289.png",
+      "local_image_path": "images/72289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "repel water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72290.png",
+      "local_image_path": "images/72290.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72291.png",
+      "local_image_path": "images/72291.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72292.png",
+      "local_image_path": "images/72292.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72293.png",
+      "local_image_path": "images/72293.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Worms repel her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72294.png",
+      "local_image_path": "images/72294.png"
+    }
+  ],
+  "synonyms": [
+    "disgust",
+    "revolt",
+    "nauseate",
+    "repulse",
+    "sicken"
+  ],
+  "antonyms": [
+    "attract"
+  ],
+  "similar_words": [
+    "repellence",
+    "repellency",
+    "repellent",
+    "repellently",
+    "repeller"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repel.mp3",
+  "local_sound_path": "sounds/repel.mp3"
+}

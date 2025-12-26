@@ -1,0 +1,44 @@
+{
+  "word": "twinkle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92672.png",
+      "local_image_path": "images/92672.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92673.png",
+      "local_image_path": "images/92673.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128576.png",
+      "local_image_path": "images/128576.png"
+    },
+    {
+      "pos": "n",
+      "example": "The twinkle of a distan light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92674.png",
+      "local_image_path": "images/92674.png"
+    }
+  ],
+  "synonyms": [
+    "sparkle",
+    "shine",
+    "gleam",
+    "glimmer",
+    "flicker",
+    "glow",
+    "glitter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twinkle.mp3",
+  "local_sound_path": "sounds/twinkle.mp3"
+}

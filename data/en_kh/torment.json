@@ -1,0 +1,63 @@
+{
+  "word": "torment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90246.png",
+      "local_image_path": "images/90246.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Stop tormenting your father by asking silly questions.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90247.png",
+      "local_image_path": "images/90247.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128314.png",
+      "local_image_path": "images/128314.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128315.png",
+      "local_image_path": "images/128315.png"
+    }
+  ],
+  "synonyms": [
+    "nuisance",
+    "bane",
+    "plague",
+    "pest",
+    "irritation",
+    "annoy",
+    "tease",
+    "persecute",
+    "taunt",
+    "pester",
+    "bother",
+    "harass",
+    "trouble",
+    "torture"
+  ],
+  "antonyms": [
+    "pleasure",
+    "comfort",
+    "delight"
+  ],
+  "similar_words": [
+    "tormenter",
+    "tormentil",
+    "tormenting",
+    "tormentingly",
+    "tormentor",
+    "tormentress",
+    "tormentry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/torment.mp3",
+  "local_sound_path": "sounds/torment.mp3"
+}

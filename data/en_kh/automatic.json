@@ -1,0 +1,34 @@
+{
+  "word": "automatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "automatic data processing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6594.png",
+      "local_image_path": "images/6594.png"
+    }
+  ],
+  "synonyms": [
+    "inevitable",
+    "consequential",
+    "certain",
+    "sure",
+    "mandatory"
+  ],
+  "antonyms": [
+    "unusual",
+    "voluntary",
+    "manual",
+    "optional",
+    "spontaneous"
+  ],
+  "similar_words": [
+    "automatic guide",
+    "automatically",
+    "automaticity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/automatic.mp3",
+  "local_sound_path": "sounds/automatic.mp3"
+}

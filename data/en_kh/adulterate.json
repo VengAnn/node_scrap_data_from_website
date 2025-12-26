@@ -1,0 +1,39 @@
+{
+  "word": "adulterate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2529.png",
+      "local_image_path": "images/2529.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2528.png",
+      "local_image_path": "images/2528.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112030.png",
+      "local_image_path": "images/112030.png"
+    }
+  ],
+  "synonyms": [
+    "contaminate",
+    "taint",
+    "spoil",
+    "pollute",
+    "infect",
+    "ruin"
+  ],
+  "antonyms": [
+    "purify"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adulterate.mp3",
+  "local_sound_path": "sounds/adulterate.mp3"
+}

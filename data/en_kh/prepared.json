@@ -1,0 +1,47 @@
+{
+  "word": "prepared",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word prepare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111727.png",
+      "local_image_path": "images/111727.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125921.png",
+      "local_image_path": "images/125921.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125922.png",
+      "local_image_path": "images/125922.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125923.png",
+      "local_image_path": "images/125923.png"
+    }
+  ],
+  "synonyms": [
+    "ready",
+    "set",
+    "equipped",
+    "organized",
+    "trained"
+  ],
+  "antonyms": [
+    "unprepared"
+  ],
+  "similar_words": [
+    "preparedly",
+    "preparedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prepared.mp3",
+  "local_sound_path": "sounds/prepared.mp3"
+}

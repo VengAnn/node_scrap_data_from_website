@@ -1,0 +1,45 @@
+{
+  "word": "speck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I've got a speck of dust in my eye.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83180.png",
+      "local_image_path": "images/83180.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83181.png",
+      "local_image_path": "images/83181.png"
+    }
+  ],
+  "synonyms": [
+    "dot",
+    "fleck",
+    "fragment",
+    "spot",
+    "crumb",
+    "iota",
+    "scrap",
+    "point",
+    "pinpoint",
+    "speckle",
+    "stipple",
+    "spatter",
+    "dust",
+    "dapple"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "speckle",
+    "speckled",
+    "speckless",
+    "specksioneer",
+    "specky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/speck.mp3",
+  "local_sound_path": "sounds/speck.mp3"
+}

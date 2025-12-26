@@ -1,0 +1,47 @@
+{
+  "word": "flit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Bees flirting from flower to flower",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29131.png",
+      "local_image_path": "images/29131.png"
+    },
+    {
+      "pos": "iv",
+      "example": "They flit from the house.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29132.png",
+      "local_image_path": "images/29132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29133.png",
+      "local_image_path": "images/29133.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120248.png",
+      "local_image_path": "images/120248.png"
+    }
+  ],
+  "synonyms": [
+    "fly",
+    "flutter",
+    "dart",
+    "skim",
+    "flash",
+    "dip",
+    "swoop"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "flitter",
+    "flittermouse"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flit.mp3",
+  "local_sound_path": "sounds/flit.mp3"
+}

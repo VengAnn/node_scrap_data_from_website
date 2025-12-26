@@ -1,0 +1,63 @@
+{
+  "word": "vile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "vile person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98020.png",
+      "local_image_path": "images/98020.png"
+    },
+    {
+      "pos": "adj",
+      "example": "vile temper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98021.png",
+      "local_image_path": "images/98021.png"
+    },
+    {
+      "pos": "adj",
+      "example": "vile servitude",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98022.png",
+      "local_image_path": "images/98022.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129748.png",
+      "local_image_path": "images/129748.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129749.png",
+      "local_image_path": "images/129749.png"
+    }
+  ],
+  "synonyms": [
+    "unpleasant",
+    "dreadful",
+    "awful",
+    "abominable",
+    "horrid",
+    "horrible",
+    "terrible",
+    "disgusting",
+    "loathsome",
+    "foul",
+    "repellent",
+    "repulsive",
+    "nasty"
+  ],
+  "antonyms": [
+    "good",
+    "pleasant",
+    "admirable"
+  ],
+  "similar_words": [
+    "vilely",
+    "vileness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vile.mp3",
+  "local_sound_path": "sounds/vile.mp3"
+}

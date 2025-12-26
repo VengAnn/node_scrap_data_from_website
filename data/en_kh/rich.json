@@ -1,0 +1,67 @@
+{
+  "word": "rich",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rich man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73540.png",
+      "local_image_path": "images/73540.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rich source",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73541.png",
+      "local_image_path": "images/73541.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rich plants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73542.png",
+      "local_image_path": "images/73542.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rich color",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73543.png",
+      "local_image_path": "images/73543.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rich sound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73544.png",
+      "local_image_path": "images/73544.png"
+    }
+  ],
+  "synonyms": [
+    "ironic",
+    "amusing",
+    "annoying",
+    "heavy",
+    "indigestible",
+    "calorific",
+    "cloying",
+    "unhealthy",
+    "creamy",
+    "buttery",
+    "fatty",
+    "sweet"
+  ],
+  "antonyms": [
+    "poor",
+    "lacking",
+    "shabby",
+    "light",
+    "infertile",
+    "weak"
+  ],
+  "similar_words": [
+    "riches",
+    "richly",
+    "richness",
+    "richter scale"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rich.mp3",
+  "local_sound_path": "sounds/rich.mp3"
+}

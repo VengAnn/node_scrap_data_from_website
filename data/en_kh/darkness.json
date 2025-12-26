@@ -1,0 +1,55 @@
+{
+  "word": "darkness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19661.png",
+      "local_image_path": "images/19661.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117706.png",
+      "local_image_path": "images/117706.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117707.png",
+      "local_image_path": "images/117707.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117708.png",
+      "local_image_path": "images/117708.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117709.png",
+      "local_image_path": "images/117709.png"
+    }
+  ],
+  "synonyms": [
+    "dark",
+    "night",
+    "dusk",
+    "gloom",
+    "dimness",
+    "shade",
+    "obscurity",
+    "blackness",
+    "nightfall",
+    "nighttime"
+  ],
+  "antonyms": [
+    "light"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/darkness.mp3",
+  "local_sound_path": "sounds/darkness.mp3"
+}

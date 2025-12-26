@@ -1,0 +1,37 @@
+{
+  "word": "striking",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "striking appearance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85429.png",
+      "local_image_path": "images/85429.png"
+    },
+    {
+      "pos": "adj",
+      "example": "striking workers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85430.png",
+      "local_image_path": "images/85430.png"
+    }
+  ],
+  "synonyms": [
+    "good-looking",
+    "handsome",
+    "attractive",
+    "eye-catching",
+    "beautiful",
+    "stunning"
+  ],
+  "antonyms": [
+    "inconspicuous",
+    "missing"
+  ],
+  "similar_words": [
+    "strikingly",
+    "strikingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/striking.mp3",
+  "local_sound_path": "sounds/striking.mp3"
+}

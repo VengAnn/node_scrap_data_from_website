@@ -1,0 +1,32 @@
+{
+  "word": "barometer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7537.png",
+      "local_image_path": "images/7537.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114607.png",
+      "local_image_path": "images/114607.png"
+    }
+  ],
+  "synonyms": [
+    "indicator",
+    "gauge",
+    "test",
+    "measurement",
+    "guide",
+    "gage",
+    "barograph"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barometer.mp3",
+  "local_sound_path": "sounds/barometer.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "medium",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107266.png",
+      "local_image_path": "images/107266.png"
+    },
+    {
+      "pos": "n",
+      "example": "medium of communication",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107262.png",
+      "local_image_path": "images/107262.png"
+    },
+    {
+      "pos": "n",
+      "example": "spiritual medium",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107263.png",
+      "local_image_path": "images/107263.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107264.png",
+      "local_image_path": "images/107264.png"
+    },
+    {
+      "pos": "n",
+      "example": "wear a medium",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107265.png",
+      "local_image_path": "images/107265.png"
+    }
+  ],
+  "synonyms": [
+    "means",
+    "vehicle",
+    "channel",
+    "mode",
+    "method",
+    "way",
+    "avenue",
+    "form",
+    "agent",
+    "instrument",
+    "organ"
+  ],
+  "antonyms": [
+    "small",
+    "large",
+    "extraordinary"
+  ],
+  "similar_words": [
+    "medium of exchange",
+    "mediumistic",
+    "mediumize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/medium.mp3",
+  "local_sound_path": "sounds/medium.mp3"
+}

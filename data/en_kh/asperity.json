@@ -1,0 +1,44 @@
+{
+  "word": "asperity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5809.png",
+      "local_image_path": "images/5809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114102.png",
+      "local_image_path": "images/114102.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114103.png",
+      "local_image_path": "images/114103.png"
+    }
+  ],
+  "synonyms": [
+    "roughness",
+    "severity",
+    "brusqueness",
+    "gruffness",
+    "harshness",
+    "sharpness",
+    "curtness",
+    "astringency",
+    "sternness",
+    "stringency"
+  ],
+  "antonyms": [
+    "softness",
+    "affability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/asperity.mp3",
+  "local_sound_path": "sounds/asperity.mp3"
+}

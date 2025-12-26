@@ -1,0 +1,36 @@
+{
+  "word": "breakfast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10860.png",
+      "local_image_path": "images/10860.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10859.png",
+      "local_image_path": "images/10859.png"
+    }
+  ],
+  "synonyms": [
+    "mealtime",
+    "feast",
+    "banquet",
+    "brunch",
+    "lunch",
+    "dinner",
+    "supper",
+    "tea"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "breakfast time",
+    "breakfaster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breakfast.mp3",
+  "local_sound_path": "sounds/breakfast.mp3"
+}

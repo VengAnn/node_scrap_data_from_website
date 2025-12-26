@@ -1,0 +1,59 @@
+{
+  "word": "overturn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "cups overturn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58984.png",
+      "local_image_path": "images/58984.png"
+    },
+    {
+      "pos": "iv",
+      "example": "cars overturn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58985.png",
+      "local_image_path": "images/58985.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overturn a cup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58981.png",
+      "local_image_path": "images/58981.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overturn a bus",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58982.png",
+      "local_image_path": "images/58982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overturn a decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58983.png",
+      "local_image_path": "images/58983.png"
+    }
+  ],
+  "synonyms": [
+    "upset",
+    "abolish",
+    "invalidate",
+    "annul",
+    "reverse",
+    "cancel",
+    "nullify",
+    "negate",
+    "veto",
+    "nix"
+  ],
+  "antonyms": [
+    "right",
+    "accept",
+    "support",
+    "endorse",
+    "indorse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overturn.mp3",
+  "local_sound_path": "sounds/overturn.mp3"
+}

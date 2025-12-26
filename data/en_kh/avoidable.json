@@ -1,0 +1,36 @@
+{
+  "word": "avoidable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6730.png",
+      "local_image_path": "images/6730.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114319.png",
+      "local_image_path": "images/114319.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114320.png",
+      "local_image_path": "images/114320.png"
+    }
+  ],
+  "synonyms": [
+    "preventable",
+    "unnecessary",
+    "needless"
+  ],
+  "antonyms": [
+    "inevitable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avoidable.mp3",
+  "local_sound_path": "sounds/avoidable.mp3"
+}

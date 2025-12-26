@@ -1,0 +1,24 @@
+{
+  "word": "biased",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "biased opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8603.png",
+      "local_image_path": "images/8603.png"
+    }
+  ],
+  "synonyms": [
+    "unfair",
+    "partial",
+    "inclined",
+    "subjective",
+    "jaundiced"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/biased.mp3",
+  "local_sound_path": "sounds/biased.mp3"
+}

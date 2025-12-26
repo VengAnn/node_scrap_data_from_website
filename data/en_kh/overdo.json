@@ -1,0 +1,43 @@
+{
+  "word": "overdo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58662.png",
+      "local_image_path": "images/58662.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overdo the sympathy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58663.png",
+      "local_image_path": "images/58663.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overdo the garlic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58664.png",
+      "local_image_path": "images/58664.png"
+    }
+  ],
+  "synonyms": [
+    "burn",
+    "exaggerate",
+    "overact",
+    "overstate",
+    "magnify",
+    "amplify",
+    "overplay",
+    "overemphasize"
+  ],
+  "antonyms": [
+    "minimize"
+  ],
+  "similar_words": [
+    "overdose"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overdo.mp3",
+  "local_sound_path": "sounds/overdo.mp3"
+}

@@ -1,0 +1,99 @@
+{
+  "word": "watch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "watch out!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99253.png",
+      "local_image_path": "images/99253.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99254.png",
+      "local_image_path": "images/99254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99255.png",
+      "local_image_path": "images/99255.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99256.png",
+      "local_image_path": "images/99256.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99257.png",
+      "local_image_path": "images/99257.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I am watching TV",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99250.png",
+      "local_image_path": "images/99250.png"
+    },
+    {
+      "pos": "tv",
+      "example": "watch the children",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99251.png",
+      "local_image_path": "images/99251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "watch your language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99252.png",
+      "local_image_path": "images/99252.png"
+    }
+  ],
+  "synonyms": [
+    "guard",
+    "lookout",
+    "sentry",
+    "sentinel",
+    "watchdog",
+    "beware",
+    "mind",
+    "consider"
+  ],
+  "antonyms": [
+    "ignore",
+    "neglect"
+  ],
+  "similar_words": [
+    "watch boat",
+    "watch bracelet",
+    "watch house",
+    "watch out",
+    "watch-box",
+    "watch-glass",
+    "watch-light",
+    "watch-oil",
+    "watch-spring",
+    "watch-stand",
+    "watch-tower",
+    "watch-word",
+    "watchcase",
+    "watchchain",
+    "watchcry",
+    "watchdog",
+    "watcher",
+    "watchet",
+    "watchful",
+    "watchfully",
+    "watchfulness",
+    "watching",
+    "watchmaker",
+    "watchmaking",
+    "watchman",
+    "watchwork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/watch.mp3",
+  "local_sound_path": "sounds/watch.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "virtuous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98205.png",
+      "local_image_path": "images/98205.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98206.png",
+      "local_image_path": "images/98206.png"
+    }
+  ],
+  "synonyms": [
+    "good",
+    "righteous",
+    "worthy",
+    "honorable",
+    "moral",
+    "upright",
+    "honest"
+  ],
+  "antonyms": [
+    "bad"
+  ],
+  "similar_words": [
+    "virtuously",
+    "virtuousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/virtuous.mp3",
+  "local_sound_path": "sounds/virtuous.mp3"
+}

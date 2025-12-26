@@ -1,0 +1,50 @@
+{
+  "word": "bulk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "man of great bulk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11749.png",
+      "local_image_path": "images/11749.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the war still bulks large in the memories of those who fought in \n\nit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11750.png",
+      "local_image_path": "images/11750.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115774.png",
+      "local_image_path": "images/115774.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115775.png",
+      "local_image_path": "images/115775.png"
+    }
+  ],
+  "synonyms": [
+    "majority",
+    "substance",
+    "form",
+    "body",
+    "weight",
+    "mass",
+    "hulk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bulkhead",
+    "bulkhead seat",
+    "bulkily",
+    "bulkiness",
+    "bulky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bulk.mp3",
+  "local_sound_path": "sounds/bulk.mp3"
+}

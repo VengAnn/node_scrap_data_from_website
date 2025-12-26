@@ -1,0 +1,26 @@
+{
+  "word": "owe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59040.png",
+      "local_image_path": "images/59040.png"
+    },
+    {
+      "pos": "tv",
+      "example": "You owe me $100.00",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59041.png",
+      "local_image_path": "images/59041.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "repay"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/owe.mp3",
+  "local_sound_path": "sounds/owe.mp3"
+}

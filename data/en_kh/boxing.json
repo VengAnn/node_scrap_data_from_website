@@ -1,0 +1,25 @@
+{
+  "word": "boxing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10456.png",
+      "local_image_path": "images/10456.png"
+    }
+  ],
+  "synonyms": [
+    "fighting",
+    "punching",
+    "thumping"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "Boxing Day",
+    "boxing glove"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boxing.mp3",
+  "local_sound_path": "sounds/boxing.mp3"
+}

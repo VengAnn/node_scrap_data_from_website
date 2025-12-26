@@ -1,0 +1,47 @@
+{
+  "word": "acquiesce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Bopha wants to marry her classmate but her parents will never acquiese",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2132.png",
+      "local_image_path": "images/2132.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111909.png",
+      "local_image_path": "images/111909.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113192.png",
+      "local_image_path": "images/113192.png"
+    }
+  ],
+  "synonyms": [
+    "agree",
+    "comply",
+    "accept",
+    "consent",
+    "assent",
+    "submit",
+    "yield",
+    "concede",
+    "concur",
+    "accede"
+  ],
+  "antonyms": [
+    "resist"
+  ],
+  "similar_words": [
+    "acquiescence",
+    "acquiescent",
+    "acquiescently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acquiesce.mp3",
+  "local_sound_path": "sounds/acquiesce.mp3"
+}

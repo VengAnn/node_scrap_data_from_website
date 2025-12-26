@@ -1,0 +1,73 @@
+{
+  "word": "deliver",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Did you deliver my message to my father?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20349.png",
+      "local_image_path": "images/20349.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117975.png",
+      "local_image_path": "images/117975.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117976.png",
+      "local_image_path": "images/117976.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deliver a speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117977.png",
+      "local_image_path": "images/117977.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117978.png",
+      "local_image_path": "images/117978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deliver a baby",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117979.png",
+      "local_image_path": "images/117979.png"
+    }
+  ],
+  "synonyms": [
+    "provide",
+    "supply",
+    "dispense",
+    "serve",
+    "give",
+    "present",
+    "surrender",
+    "transfer",
+    "relinquish",
+    "cede"
+  ],
+  "antonyms": [
+    "capture",
+    "keep"
+  ],
+  "similar_words": [
+    "deliverability",
+    "deliverable",
+    "deliverance",
+    "deliverer",
+    "delivery",
+    "delivery note",
+    "delivery order",
+    "delivery receipt",
+    "delivery time",
+    "delivery van"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deliver.mp3",
+  "local_sound_path": "sounds/deliver.mp3"
+}

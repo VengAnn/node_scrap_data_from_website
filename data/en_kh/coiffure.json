@@ -1,0 +1,40 @@
+{
+  "word": "coiffure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15572.png",
+      "local_image_path": "images/15572.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116637.png",
+      "local_image_path": "images/116637.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116638.png",
+      "local_image_path": "images/116638.png"
+    }
+  ],
+  "synonyms": [
+    "combing",
+    "blow-dry",
+    "style",
+    "arrange",
+    "dress",
+    "coif",
+    "cut"
+  ],
+  "antonyms": [
+    "set"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coiffure.mp3",
+  "local_sound_path": "sounds/coiffure.mp3"
+}

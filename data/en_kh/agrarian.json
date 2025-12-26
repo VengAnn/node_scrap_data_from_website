@@ -1,0 +1,32 @@
+{
+  "word": "agrarian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "agrarian reform",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3023.png",
+      "local_image_path": "images/3023.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3024.png",
+      "local_image_path": "images/3024.png"
+    }
+  ],
+  "synonyms": [
+    "agricultural",
+    "farm",
+    "farming",
+    "land",
+    "rural"
+  ],
+  "antonyms": [
+    "urban"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agrarian.mp3",
+  "local_sound_path": "sounds/agrarian.mp3"
+}

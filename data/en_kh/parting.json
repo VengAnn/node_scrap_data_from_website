@@ -1,0 +1,36 @@
+{
+  "word": "parting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60346.png",
+      "local_image_path": "images/60346.png"
+    },
+    {
+      "pos": "n",
+      "example": "parting word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60345.png",
+      "local_image_path": "images/60345.png"
+    }
+  ],
+  "synonyms": [
+    "departure",
+    "separation",
+    "going",
+    "goodbye",
+    "leave-taking",
+    "splitting",
+    "opening"
+  ],
+  "antonyms": [
+    "reunion",
+    "welcoming",
+    "joining"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/parting.mp3",
+  "local_sound_path": "sounds/parting.mp3"
+}

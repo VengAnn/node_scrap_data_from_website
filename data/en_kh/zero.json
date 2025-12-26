@@ -1,0 +1,55 @@
+{
+  "word": "zero",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101695.png",
+      "local_image_path": "images/101695.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101696.png",
+      "local_image_path": "images/101696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101693.png",
+      "local_image_path": "images/101693.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101694.png",
+      "local_image_path": "images/101694.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101697.png",
+      "local_image_path": "images/101697.png"
+    }
+  ],
+  "synonyms": [
+    "nothing",
+    "nil",
+    "nought",
+    "zip",
+    "naught"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "zero staffing",
+    "zero tolerance",
+    "zero-hour",
+    "zero-rate",
+    "zero-rated",
+    "zeroise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/zero.mp3",
+  "local_sound_path": "sounds/zero.mp3"
+}

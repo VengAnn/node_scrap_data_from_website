@@ -1,0 +1,40 @@
+{
+  "word": "layer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45368.png",
+      "local_image_path": "images/45368.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45369.png",
+      "local_image_path": "images/45369.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45370.png",
+      "local_image_path": "images/45370.png"
+    }
+  ],
+  "synonyms": [
+    "stratum",
+    "level",
+    "tier",
+    "seam",
+    "gradation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "layer cake",
+    "layering",
+    "layery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/layer.mp3",
+  "local_sound_path": "sounds/layer.mp3"
+}

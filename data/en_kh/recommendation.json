@@ -1,0 +1,42 @@
+{
+  "word": "recommendation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "write a personal recommendation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70896.png",
+      "local_image_path": "images/70896.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126584.png",
+      "local_image_path": "images/126584.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132100.png",
+      "local_image_path": "images/132100.png"
+    }
+  ],
+  "synonyms": [
+    "reference",
+    "commendation",
+    "blessing",
+    "approval",
+    "sanction",
+    "advice",
+    "proposal",
+    "suggestion",
+    "counsel"
+  ],
+  "antonyms": [
+    "disparagement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recommendation.mp3",
+  "local_sound_path": "sounds/recommendation.mp3"
+}

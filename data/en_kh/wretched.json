@@ -1,0 +1,48 @@
+{
+  "word": "wretched",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wretched refugee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101139.png",
+      "local_image_path": "images/101139.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wretched day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101140.png",
+      "local_image_path": "images/101140.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101141.png",
+      "local_image_path": "images/101141.png"
+    }
+  ],
+  "synonyms": [
+    "shameful",
+    "vile",
+    "worthless",
+    "base",
+    "despicable",
+    "inferior",
+    "miserable",
+    "desolate",
+    "pitiful",
+    "dejected",
+    "abject"
+  ],
+  "antonyms": [
+    "happy",
+    "noble"
+  ],
+  "similar_words": [
+    "wretchedly",
+    "wretchedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wretched.mp3",
+  "local_sound_path": "sounds/wretched.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "esteem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hold him in high esteem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25930.png",
+      "local_image_path": "images/25930.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25931.png",
+      "local_image_path": "images/25931.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I esteem his work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25928.png",
+      "local_image_path": "images/25928.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to esteem his friendship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25929.png",
+      "local_image_path": "images/25929.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119416.png",
+      "local_image_path": "images/119416.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119417.png",
+      "local_image_path": "images/119417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119418.png",
+      "local_image_path": "images/119418.png"
+    }
+  ],
+  "synonyms": [
+    "value",
+    "appreciate",
+    "prize",
+    "cherish",
+    "venerate",
+    "admire",
+    "respect",
+    "approve",
+    "honor"
+  ],
+  "antonyms": [
+    "scorn",
+    "contempt"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/esteem.mp3",
+  "local_sound_path": "sounds/esteem.mp3"
+}

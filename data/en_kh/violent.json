@@ -1,0 +1,54 @@
+{
+  "word": "violent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "violent attack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98129.png",
+      "local_image_path": "images/98129.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98130.png",
+      "local_image_path": "images/98130.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98131.png",
+      "local_image_path": "images/98131.png"
+    }
+  ],
+  "synonyms": [
+    "fierce",
+    "ferocious",
+    "vehement",
+    "forceful",
+    "passionate",
+    "intense",
+    "powerful",
+    "furious",
+    "strong",
+    "aggressive",
+    "brutal",
+    "cruel",
+    "sadistic",
+    "vicious",
+    "pugnacious"
+  ],
+  "antonyms": [
+    "friendly",
+    "peaceful",
+    "calm",
+    "gentle"
+  ],
+  "similar_words": [
+    "violently",
+    "violentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/violent.mp3",
+  "local_sound_path": "sounds/violent.mp3"
+}

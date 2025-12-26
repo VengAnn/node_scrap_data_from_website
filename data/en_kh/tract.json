@@ -1,0 +1,58 @@
+{
+  "word": "tract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The wide tracts of desest in N Africa.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90658.png",
+      "local_image_path": "images/90658.png"
+    },
+    {
+      "pos": "n",
+      "example": "digestive tract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90659.png",
+      "local_image_path": "images/90659.png"
+    },
+    {
+      "pos": "n",
+      "example": "political tract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90660.png",
+      "local_image_path": "images/90660.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90661.png",
+      "local_image_path": "images/90661.png"
+    }
+  ],
+  "synonyms": [
+    "article",
+    "piece",
+    "treatise",
+    "pamphlet",
+    "leaflet"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tractability",
+    "tractable",
+    "tractableness",
+    "tractably",
+    "tractate",
+    "tractator",
+    "tractile",
+    "tractility",
+    "traction",
+    "traction engine",
+    "tractional",
+    "tractive",
+    "tractor",
+    "tractor-trailer",
+    "tractory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tract.mp3",
+  "local_sound_path": "sounds/tract.mp3"
+}

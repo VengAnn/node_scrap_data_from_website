@@ -1,0 +1,29 @@
+{
+  "word": "defective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20134.png",
+      "local_image_path": "images/20134.png"
+    }
+  ],
+  "synonyms": [
+    "faulty",
+    "imperfect",
+    "substandard",
+    "unreliable"
+  ],
+  "antonyms": [
+    "perfect"
+  ],
+  "similar_words": [
+    "defective title",
+    "defectively",
+    "defectiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defective.mp3",
+  "local_sound_path": "sounds/defective.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "tide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89359.png",
+      "local_image_path": "images/89359.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89360.png",
+      "local_image_path": "images/89360.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89356.png",
+      "local_image_path": "images/89356.png"
+    },
+    {
+      "pos": "n",
+      "example": "tide of opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89357.png",
+      "local_image_path": "images/89357.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tide someone over",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89358.png",
+      "local_image_path": "images/89358.png"
+    }
+  ],
+  "synonyms": [
+    "surge",
+    "rush",
+    "wave",
+    "deluge",
+    "flood"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tide way",
+    "tide-mark",
+    "tideland",
+    "tideless",
+    "tiderip",
+    "tidewaiter",
+    "tidewater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tide.mp3",
+  "local_sound_path": "sounds/tide.mp3"
+}

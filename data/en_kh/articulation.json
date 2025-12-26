@@ -1,0 +1,44 @@
+{
+  "word": "articulation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5664.png",
+      "local_image_path": "images/5664.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112712.png",
+      "local_image_path": "images/112712.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112713.png",
+      "local_image_path": "images/112713.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112714.png",
+      "local_image_path": "images/112714.png"
+    }
+  ],
+  "synonyms": [
+    "enunciation",
+    "pronunciation",
+    "speech",
+    "expression",
+    "verbalization",
+    "communication",
+    "formulation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/articulation.mp3",
+  "local_sound_path": "sounds/articulation.mp3"
+}

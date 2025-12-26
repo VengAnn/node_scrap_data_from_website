@@ -1,0 +1,42 @@
+{
+  "word": "precipice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66008.png",
+      "local_image_path": "images/66008.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125831.png",
+      "local_image_path": "images/125831.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125832.png",
+      "local_image_path": "images/125832.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66007.png",
+      "local_image_path": "images/66007.png"
+    }
+  ],
+  "synonyms": [
+    "cliff",
+    "crag",
+    "abyss",
+    "height",
+    "face"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/precipice.mp3",
+  "local_sound_path": "sounds/precipice.mp3"
+}

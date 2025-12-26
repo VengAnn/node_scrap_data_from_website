@@ -1,0 +1,68 @@
+{
+  "word": "perform",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "perform duties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61684.png",
+      "local_image_path": "images/61684.png"
+    },
+    {
+      "pos": "tv",
+      "example": "perform miracles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61685.png",
+      "local_image_path": "images/61685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "perform a ceremony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61686.png",
+      "local_image_path": "images/61686.png"
+    },
+    {
+      "pos": "tv",
+      "example": "perform a play",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61687.png",
+      "local_image_path": "images/61687.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61688.png",
+      "local_image_path": "images/61688.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61689.png",
+      "local_image_path": "images/61689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61690.png",
+      "local_image_path": "images/61690.png"
+    }
+  ],
+  "synonyms": [
+    "function",
+    "work",
+    "act",
+    "go",
+    "run",
+    "operate",
+    "behave",
+    "react"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "performable",
+    "performance",
+    "performer",
+    "performing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perform.mp3",
+  "local_sound_path": "sounds/perform.mp3"
+}

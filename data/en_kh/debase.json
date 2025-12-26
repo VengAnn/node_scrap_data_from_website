@@ -1,0 +1,33 @@
+{
+  "word": "debase",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19857.png",
+      "local_image_path": "images/19857.png"
+    }
+  ],
+  "synonyms": [
+    "degrade",
+    "defile",
+    "impair",
+    "adulterate",
+    "sully",
+    "corrupt",
+    "taint",
+    "tarnish",
+    "soil"
+  ],
+  "antonyms": [
+    "glorify",
+    "purify"
+  ],
+  "similar_words": [
+    "debasement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debase.mp3",
+  "local_sound_path": "sounds/debase.mp3"
+}

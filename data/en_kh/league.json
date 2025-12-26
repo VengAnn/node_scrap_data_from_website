@@ -1,0 +1,67 @@
+{
+  "word": "league",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45463.png",
+      "local_image_path": "images/45463.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45464.png",
+      "local_image_path": "images/45464.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45465.png",
+      "local_image_path": "images/45465.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123411.png",
+      "local_image_path": "images/123411.png"
+    },
+    {
+      "pos": "v",
+      "example": "We must league together against this threat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45466.png",
+      "local_image_path": "images/45466.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123412.png",
+      "local_image_path": "images/123412.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123413.png",
+      "local_image_path": "images/123413.png"
+    }
+  ],
+  "synonyms": [
+    "association",
+    "group",
+    "union",
+    "confederation",
+    "confederacy",
+    "club",
+    "alliance",
+    "coalition",
+    "federation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "leaguer",
+    "leaguerer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/league.mp3",
+  "local_sound_path": "sounds/league.mp3"
+}

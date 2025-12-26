@@ -1,0 +1,32 @@
+{
+  "word": "brunette",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11549.png",
+      "local_image_path": "images/11549.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11550.png",
+      "local_image_path": "images/11550.png"
+    }
+  ],
+  "synonyms": [
+    "dark",
+    "brown",
+    "chestnut",
+    "auburn"
+  ],
+  "antonyms": [
+    "blonde",
+    "blond"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brunette.mp3",
+  "local_sound_path": "sounds/brunette.mp3"
+}

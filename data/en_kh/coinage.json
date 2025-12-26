@@ -1,0 +1,36 @@
+{
+  "word": "coinage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "coinage of money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15579.png",
+      "local_image_path": "images/15579.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130114.png",
+      "local_image_path": "images/130114.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130115.png",
+      "local_image_path": "images/130115.png"
+    }
+  ],
+  "synonyms": [
+    "currency",
+    "money",
+    "denomination",
+    "change",
+    "penny"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coinage.mp3",
+  "local_sound_path": "sounds/coinage.mp3"
+}

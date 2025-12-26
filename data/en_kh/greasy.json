@@ -1,0 +1,44 @@
+{
+  "word": "greasy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "greasy food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32769.png",
+      "local_image_path": "images/32769.png"
+    },
+    {
+      "pos": "adj",
+      "example": "greasy clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32770.png",
+      "local_image_path": "images/32770.png"
+    },
+    {
+      "pos": "adj",
+      "example": "greasy hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32771.png",
+      "local_image_path": "images/32771.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32772.png",
+      "local_image_path": "images/32772.png"
+    }
+  ],
+  "synonyms": [
+    "oily",
+    "fatty",
+    "slippery",
+    "slimy",
+    "oleaginous",
+    "unctuous",
+    "lubricious"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/greasy.mp3",
+  "local_sound_path": "sounds/greasy.mp3"
+}

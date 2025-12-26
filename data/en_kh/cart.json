@@ -1,0 +1,55 @@
+{
+  "word": "cart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13111.png",
+      "local_image_path": "images/13111.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13112.png",
+      "local_image_path": "images/13112.png"
+    }
+  ],
+  "synonyms": [
+    "lug",
+    "heave",
+    "haul",
+    "drag",
+    "draw",
+    "carry"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cart-horse",
+    "cartage",
+    "carte blanche",
+    "cartel",
+    "carter",
+    "cartesian",
+    "cartesianism",
+    "carthusian",
+    "cartilage",
+    "cartilage bone",
+    "cartilaginous",
+    "cartilaginous fish",
+    "cartload",
+    "cartogram",
+    "cartographer",
+    "cartographic",
+    "cartographical",
+    "cartography",
+    "carton",
+    "cartoon",
+    "cartoonist",
+    "cartridge",
+    "cartridge paper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cart.mp3",
+  "local_sound_path": "sounds/cart.mp3"
+}

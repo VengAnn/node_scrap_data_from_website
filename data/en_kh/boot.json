@@ -1,0 +1,76 @@
+{
+  "word": "boot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "leather boot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10194.png",
+      "local_image_path": "images/10194.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10196.png",
+      "local_image_path": "images/10196.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115398.png",
+      "local_image_path": "images/115398.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115399.png",
+      "local_image_path": "images/115399.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10195.png",
+      "local_image_path": "images/10195.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10197.png",
+      "local_image_path": "images/10197.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131122.png",
+      "local_image_path": "images/131122.png"
+    }
+  ],
+  "synonyms": [
+    "gumboot",
+    "wader",
+    "kick",
+    "strike",
+    "hack"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "boot camp",
+    "boot strap acquisition",
+    "bootblack",
+    "booted",
+    "bootee",
+    "booth",
+    "bootie",
+    "bootjack",
+    "bootlace",
+    "bootleg",
+    "bootlegger",
+    "bootless",
+    "bootlick",
+    "bootstrap",
+    "booty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boot.mp3",
+  "local_sound_path": "sounds/boot.mp3"
+}

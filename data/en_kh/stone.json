@@ -1,0 +1,78 @@
+{
+  "word": "stone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84966.png",
+      "local_image_path": "images/84966.png"
+    },
+    {
+      "pos": "n",
+      "example": "throw a stone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84964.png",
+      "local_image_path": "images/84964.png"
+    },
+    {
+      "pos": "n",
+      "example": "peach stone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84965.png",
+      "local_image_path": "images/84965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stone the crowd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84967.png",
+      "local_image_path": "images/84967.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stone a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84968.png",
+      "local_image_path": "images/84968.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84969.png",
+      "local_image_path": "images/84969.png"
+    }
+  ],
+  "synonyms": [
+    "pit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stone axe",
+    "stone blins",
+    "stone breaker",
+    "stone cutter",
+    "stone dead",
+    "stone throwing",
+    "stone way",
+    "stone work",
+    "stone-age",
+    "stone-broke",
+    "stone-cold",
+    "stone-deaf",
+    "stone-still",
+    "stoneage man",
+    "stoneblind",
+    "stonechat",
+    "stonecrop",
+    "stoned",
+    "stonehard",
+    "stonehatch",
+    "stonehenge",
+    "stonejug",
+    "stoneless",
+    "stonemason",
+    "stonewall",
+    "stoneware",
+    "stoney"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stone.mp3",
+  "local_sound_path": "sounds/stone.mp3"
+}

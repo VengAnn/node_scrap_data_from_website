@@ -1,0 +1,33 @@
+{
+  "word": "deaf",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He turned a deaf ear to all requests for help.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19800.png",
+      "local_image_path": "images/19800.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19801.png",
+      "local_image_path": "images/19801.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "hearing",
+    "mindful"
+  ],
+  "similar_words": [
+    "deaf-mute",
+    "deafaid",
+    "deafen",
+    "deafening",
+    "deafness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deaf.mp3",
+  "local_sound_path": "sounds/deaf.mp3"
+}

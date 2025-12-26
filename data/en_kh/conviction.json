@@ -1,0 +1,52 @@
+{
+  "word": "conviction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17517.png",
+      "local_image_path": "images/17517.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117555.png",
+      "local_image_path": "images/117555.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117556.png",
+      "local_image_path": "images/117556.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117557.png",
+      "local_image_path": "images/117557.png"
+    }
+  ],
+  "synonyms": [
+    "sentence",
+    "confidence",
+    "certainty",
+    "assurance",
+    "sincerity",
+    "passion",
+    "fervor",
+    "certitude"
+  ],
+  "antonyms": [
+    "doubt",
+    "acquittal"
+  ],
+  "similar_words": [
+    "conviction bias",
+    "conviction politics",
+    "convictional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conviction.mp3",
+  "local_sound_path": "sounds/conviction.mp3"
+}

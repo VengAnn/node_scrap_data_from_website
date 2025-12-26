@@ -1,0 +1,43 @@
+{
+  "word": "mediate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107184.png",
+      "local_image_path": "images/107184.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107182.png",
+      "local_image_path": "images/107182.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107183.png",
+      "local_image_path": "images/107183.png"
+    }
+  ],
+  "synonyms": [
+    "arbitrate",
+    "intercede",
+    "referee",
+    "umpire",
+    "intervene",
+    "reconcile",
+    "facilitate",
+    "intermediate",
+    "negotiate",
+    "resolve"
+  ],
+  "antonyms": [
+    "provoke"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mediate.mp3",
+  "local_sound_path": "sounds/mediate.mp3"
+}

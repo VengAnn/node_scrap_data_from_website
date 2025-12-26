@@ -1,0 +1,34 @@
+{
+  "word": "dislodge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21971.png",
+      "local_image_path": "images/21971.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21970.png",
+      "local_image_path": "images/21970.png"
+    }
+  ],
+  "synonyms": [
+    "remove",
+    "extricate",
+    "free",
+    "displace",
+    "dislocate"
+  ],
+  "antonyms": [
+    "wedge"
+  ],
+  "similar_words": [
+    "dislodgement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dislodge.mp3",
+  "local_sound_path": "sounds/dislodge.mp3"
+}

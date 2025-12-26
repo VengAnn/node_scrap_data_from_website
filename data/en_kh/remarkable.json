@@ -1,0 +1,35 @@
+{
+  "word": "remarkable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "remarkable recovery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71984.png",
+      "local_image_path": "images/71984.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71985.png",
+      "local_image_path": "images/71985.png"
+    }
+  ],
+  "synonyms": [
+    "extraordinary",
+    "amazing",
+    "notable",
+    "outstanding",
+    "noteworthy",
+    "significant",
+    "incredible",
+    "astonishing"
+  ],
+  "antonyms": [
+    "ordinary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remarkable.mp3",
+  "local_sound_path": "sounds/remarkable.mp3"
+}

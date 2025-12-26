@@ -1,0 +1,42 @@
+{
+  "word": "bauble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7795.png",
+      "local_image_path": "images/7795.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114688.png",
+      "local_image_path": "images/114688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114689.png",
+      "local_image_path": "images/114689.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114690.png",
+      "local_image_path": "images/114690.png"
+    }
+  ],
+  "synonyms": [
+    "trinket",
+    "trifle",
+    "ornament",
+    "gewgaw",
+    "decoration"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bauble.mp3",
+  "local_sound_path": "sounds/bauble.mp3"
+}

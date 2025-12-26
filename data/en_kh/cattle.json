@@ -1,0 +1,24 @@
+{
+  "word": "cattle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the prisoners were herded like cattle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13390.png",
+      "local_image_path": "images/13390.png"
+    }
+  ],
+  "synonyms": [
+    "livestock",
+    "sheep"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cattle prod",
+    "cattleman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cattle.mp3",
+  "local_sound_path": "sounds/cattle.mp3"
+}

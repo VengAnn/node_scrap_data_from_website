@@ -1,0 +1,76 @@
+{
+  "word": "frame",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "picture frame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30084.png",
+      "local_image_path": "images/30084.png"
+    },
+    {
+      "pos": "n",
+      "example": "frame of mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30085.png",
+      "local_image_path": "images/30085.png"
+    },
+    {
+      "pos": "n",
+      "example": "victim of a frame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30086.png",
+      "local_image_path": "images/30086.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120402.png",
+      "local_image_path": "images/120402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "frame a picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30087.png",
+      "local_image_path": "images/30087.png"
+    },
+    {
+      "pos": "tv",
+      "example": "frame a constitution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30088.png",
+      "local_image_path": "images/30088.png"
+    },
+    {
+      "pos": "tv",
+      "example": "frame a victim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30089.png",
+      "local_image_path": "images/30089.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This house was framed to resist typhoons.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30090.png",
+      "local_image_path": "images/30090.png"
+    }
+  ],
+  "synonyms": [
+    "body",
+    "build",
+    "physique",
+    "form",
+    "skeleton",
+    "structure",
+    "trap",
+    "entrap",
+    "trick",
+    "entice"
+  ],
+  "antonyms": [
+    "inset"
+  ],
+  "similar_words": [
+    "frame-up",
+    "framework"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frame.mp3",
+  "local_sound_path": "sounds/frame.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "basin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wash basin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7650.png",
+      "local_image_path": "images/7650.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114656.png",
+      "local_image_path": "images/114656.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114657.png",
+      "local_image_path": "images/114657.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114658.png",
+      "local_image_path": "images/114658.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114659.png",
+      "local_image_path": "images/114659.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114660.png",
+      "local_image_path": "images/114660.png"
+    }
+  ],
+  "synonyms": [
+    "sink",
+    "bowl",
+    "dish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "basin-stand",
+    "basinal",
+    "basinet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/basin.mp3",
+  "local_sound_path": "sounds/basin.mp3"
+}

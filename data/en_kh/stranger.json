@@ -1,0 +1,38 @@
+{
+  "word": "stranger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85216.png",
+      "local_image_path": "images/85216.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a stranger to me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85215.png",
+      "local_image_path": "images/85215.png"
+    }
+  ],
+  "synonyms": [
+    "foreigner",
+    "alien",
+    "outsider",
+    "visitor",
+    "guest",
+    "newer",
+    "unfamiliar",
+    "foreign",
+    "unknown",
+    "mysterious",
+    "different",
+    "exotic",
+    "familiar"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stranger.mp3",
+  "local_sound_path": "sounds/stranger.mp3"
+}

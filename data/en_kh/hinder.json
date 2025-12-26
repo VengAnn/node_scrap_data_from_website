@@ -1,0 +1,34 @@
+{
+  "word": "hinder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35247.png",
+      "local_image_path": "images/35247.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35246.png",
+      "local_image_path": "images/35246.png"
+    }
+  ],
+  "synonyms": [
+    "delay",
+    "deter",
+    "hamper",
+    "encumber",
+    "obstruct",
+    "thwart",
+    "impede"
+  ],
+  "antonyms": [
+    "facilitate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hinder.mp3",
+  "local_sound_path": "sounds/hinder.mp3"
+}

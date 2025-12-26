@@ -1,0 +1,66 @@
+{
+  "word": "sage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75102.png",
+      "local_image_path": "images/75102.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75103.png",
+      "local_image_path": "images/75103.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127317.png",
+      "local_image_path": "images/127317.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127318.png",
+      "local_image_path": "images/127318.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127319.png",
+      "local_image_path": "images/127319.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75101.png",
+      "local_image_path": "images/75101.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75106.png",
+      "local_image_path": "images/75106.png"
+    }
+  ],
+  "synonyms": [
+    "thinker",
+    "philosopher",
+    "intellectual",
+    "scholar",
+    "mystic",
+    "guru"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sage cheese",
+    "sage green",
+    "sagely",
+    "sageness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sage.mp3",
+  "local_sound_path": "sounds/sage.mp3"
+}

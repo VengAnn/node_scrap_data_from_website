@@ -1,0 +1,105 @@
+{
+  "word": "bar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Don't forget to bar all the doors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7399.png",
+      "local_image_path": "images/7399.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114559.png",
+      "local_image_path": "images/114559.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114560.png",
+      "local_image_path": "images/114560.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114561.png",
+      "local_image_path": "images/114561.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114562.png",
+      "local_image_path": "images/114562.png"
+    },
+    {
+      "pos": "n",
+      "example": "poor health may sometimes be a bar to success in one's studies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7397.png",
+      "local_image_path": "images/7397.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129978.png",
+      "local_image_path": "images/129978.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129979.png",
+      "local_image_path": "images/129979.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132606.png",
+      "local_image_path": "images/132606.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7400.png",
+      "local_image_path": "images/7400.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7398.png",
+      "local_image_path": "images/7398.png"
+    }
+  ],
+  "synonyms": [
+    "save",
+    "except",
+    "but",
+    "secure",
+    "fasten",
+    "bolt",
+    "lock",
+    "barricade"
+  ],
+  "antonyms": [
+    "admit"
+  ],
+  "similar_words": [
+    "baragouin",
+    "barathea",
+    "barathrum",
+    "barb",
+    "barbadeoes pride",
+    "barbal",
+    "barbaresque",
+    "barbarian",
+    "barbaric",
+    "barbarism",
+    "barbarity",
+    "barbarization",
+    "barbarize",
+    "barbarous",
+    "barbarously"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bar.mp3",
+  "local_sound_path": "sounds/bar.mp3"
+}

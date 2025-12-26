@@ -1,0 +1,41 @@
+{
+  "word": "inanity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38133.png",
+      "local_image_path": "images/38133.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121850.png",
+      "local_image_path": "images/121850.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121851.png",
+      "local_image_path": "images/121851.png"
+    }
+  ],
+  "synonyms": [
+    "stupidity",
+    "silliness",
+    "ridiculousness",
+    "absurdity",
+    "idiocy",
+    "senselessness",
+    "meaninglessness"
+  ],
+  "antonyms": [
+    "logic",
+    "sensibleness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inanity.mp3",
+  "local_sound_path": "sounds/inanity.mp3"
+}

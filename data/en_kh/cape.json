@@ -1,0 +1,41 @@
+{
+  "word": "cape",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12785.png",
+      "local_image_path": "images/12785.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12786.png",
+      "local_image_path": "images/12786.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115946.png",
+      "local_image_path": "images/115946.png"
+    }
+  ],
+  "synonyms": [
+    "promontory",
+    "peninsula",
+    "headland",
+    "outcrop",
+    "point"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "Cape Coloured",
+    "capelin",
+    "caper",
+    "capeskin"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cape.mp3",
+  "local_sound_path": "sounds/cape.mp3"
+}

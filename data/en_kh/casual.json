@@ -1,0 +1,78 @@
+{
+  "word": "casual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "casual dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13236.png",
+      "local_image_path": "images/13236.png"
+    },
+    {
+      "pos": "adj",
+      "example": "casual meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13237.png",
+      "local_image_path": "images/13237.png"
+    },
+    {
+      "pos": "adj",
+      "example": "casual remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13238.png",
+      "local_image_path": "images/13238.png"
+    },
+    {
+      "pos": "adj",
+      "example": "casual attitude",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13239.png",
+      "local_image_path": "images/13239.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116032.png",
+      "local_image_path": "images/116032.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116033.png",
+      "local_image_path": "images/116033.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116034.png",
+      "local_image_path": "images/116034.png"
+    }
+  ],
+  "synonyms": [
+    "chance",
+    "accidental",
+    "unplanned",
+    "unexpected",
+    "spontaneous",
+    "careless",
+    "slapdash",
+    "offhand",
+    "nonchalant",
+    "cavalier",
+    "indifferent",
+    "heedless"
+  ],
+  "antonyms": [
+    "formal",
+    "careful",
+    "premeditated",
+    "constant",
+    "terse"
+  ],
+  "similar_words": [
+    "casually",
+    "casualness",
+    "casualties",
+    "casualty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/casual.mp3",
+  "local_sound_path": "sounds/casual.mp3"
+}

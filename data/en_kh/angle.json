@@ -1,0 +1,52 @@
+{
+  "word": "angle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "from a different angle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4266.png",
+      "local_image_path": "images/4266.png"
+    },
+    {
+      "pos": "iv",
+      "example": "angle favors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4268.png",
+      "local_image_path": "images/4268.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4265.png",
+      "local_image_path": "images/4265.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4267.png",
+      "local_image_path": "images/4267.png"
+    }
+  ],
+  "synonyms": [
+    "slant",
+    "incline",
+    "tilt",
+    "turn",
+    "twist",
+    "slope",
+    "point",
+    "face",
+    "aim"
+  ],
+  "antonyms": [
+    "level"
+  ],
+  "similar_words": [
+    "angler",
+    "Angles",
+    "angleworm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/angle.mp3",
+  "local_sound_path": "sounds/angle.mp3"
+}

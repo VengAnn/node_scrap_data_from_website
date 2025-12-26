@@ -1,0 +1,74 @@
+{
+  "word": "heal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "heal wounds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34233.png",
+      "local_image_path": "images/34233.png"
+    },
+    {
+      "pos": "iv",
+      "example": "quarrels heal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34234.png",
+      "local_image_path": "images/34234.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The wound healed slowly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34229.png",
+      "local_image_path": "images/34229.png"
+    },
+    {
+      "pos": "tv",
+      "example": "heal sb (of sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34230.png",
+      "local_image_path": "images/34230.png"
+    },
+    {
+      "pos": "tv",
+      "example": "heal an illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34231.png",
+      "local_image_path": "images/34231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "heal a quarrel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34232.png",
+      "local_image_path": "images/34232.png"
+    }
+  ],
+  "synonyms": [
+    "settle",
+    "reconcile",
+    "restore",
+    "rebuild",
+    "cure",
+    "mend",
+    "repair",
+    "nurse"
+  ],
+  "antonyms": [
+    "worsen",
+    "damage"
+  ],
+  "similar_words": [
+    "healable",
+    "healer",
+    "healing",
+    "health",
+    "health insurance",
+    "health resort",
+    "health-officer",
+    "healthful",
+    "healthfully",
+    "healthfulness",
+    "healthily",
+    "healthiness",
+    "healthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heal.mp3",
+  "local_sound_path": "sounds/heal.mp3"
+}

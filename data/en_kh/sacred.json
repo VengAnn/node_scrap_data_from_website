@@ -1,0 +1,72 @@
+{
+  "word": "sacred",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sacred place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74956.png",
+      "local_image_path": "images/74956.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sacred music",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74957.png",
+      "local_image_path": "images/74957.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sacred oath",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74958.png",
+      "local_image_path": "images/74958.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sacred privacy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74959.png",
+      "local_image_path": "images/74959.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74960.png",
+      "local_image_path": "images/74960.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74961.png",
+      "local_image_path": "images/74961.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127295.png",
+      "local_image_path": "images/127295.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127296.png",
+      "local_image_path": "images/127296.png"
+    }
+  ],
+  "synonyms": [
+    "holy",
+    "blessed",
+    "hallowed",
+    "sanctified",
+    "sacrosanct"
+  ],
+  "antonyms": [
+    "secular"
+  ],
+  "similar_words": [
+    "sacred cow",
+    "sacredly",
+    "sacredness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sacred.mp3",
+  "local_sound_path": "sounds/sacred.mp3"
+}

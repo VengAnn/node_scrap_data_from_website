@@ -1,0 +1,39 @@
+{
+  "word": "buffalo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "water buffalo",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11675.png",
+      "local_image_path": "images/11675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11676.png",
+      "local_image_path": "images/11676.png"
+    }
+  ],
+  "synonyms": [
+    "intimidate",
+    "threaten",
+    "bully",
+    "confuse",
+    "baffle",
+    "deceive",
+    "hoodwink",
+    "bewilder",
+    "dupe",
+    "bamboozle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "buffalo bug",
+    "buffalo grass",
+    "buffalo robe"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buffalo.mp3",
+  "local_sound_path": "sounds/buffalo.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "client",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14999.png",
+      "local_image_path": "images/14999.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116471.png",
+      "local_image_path": "images/116471.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116472.png",
+      "local_image_path": "images/116472.png"
+    }
+  ],
+  "synonyms": [
+    "customer",
+    "shopper",
+    "consumer",
+    "patron",
+    "user",
+    "buyer",
+    "punter",
+    "purchaser",
+    "regular"
+  ],
+  "antonyms": [
+    "consultant"
+  ],
+  "similar_words": [
+    "client-server",
+    "clientage",
+    "cliental",
+    "clientele"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/client.mp3",
+  "local_sound_path": "sounds/client.mp3"
+}

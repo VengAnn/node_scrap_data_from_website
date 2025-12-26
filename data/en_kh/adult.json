@@ -1,0 +1,42 @@
+{
+  "word": "adult",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2525.png",
+      "local_image_path": "images/2525.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2524.png",
+      "local_image_path": "images/2524.png"
+    }
+  ],
+  "synonyms": [
+    "grown-up"
+  ],
+  "antonyms": [
+    "immature",
+    "child"
+  ],
+  "similar_words": [
+    "adulterant",
+    "adulterate",
+    "adulteration",
+    "adulterer",
+    "adulteress",
+    "adulterine",
+    "adulterize",
+    "adulterous",
+    "adulterously",
+    "adultery",
+    "adulthood",
+    "adultness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adult.mp3",
+  "local_sound_path": "sounds/adult.mp3"
+}

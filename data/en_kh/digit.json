@@ -1,0 +1,33 @@
+{
+  "word": "digit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "digit of the hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21344.png",
+      "local_image_path": "images/21344.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21345.png",
+      "local_image_path": "images/21345.png"
+    }
+  ],
+  "synonyms": [
+    "number",
+    "numeral",
+    "figure",
+    "cipher",
+    "character",
+    "symbol"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "digital"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/digit.mp3",
+  "local_sound_path": "sounds/digit.mp3"
+}

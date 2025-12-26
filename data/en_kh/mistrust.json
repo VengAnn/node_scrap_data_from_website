@@ -1,0 +1,62 @@
+{
+  "word": "mistrust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She has a deep mistrust of anything new or strange.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109607.png",
+      "local_image_path": "images/109607.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124182.png",
+      "local_image_path": "images/124182.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109606.png",
+      "local_image_path": "images/109606.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124183.png",
+      "local_image_path": "images/124183.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124184.png",
+      "local_image_path": "images/124184.png"
+    }
+  ],
+  "synonyms": [
+    "suspicion",
+    "distrust",
+    "doubt",
+    "wariness",
+    "concern",
+    "uncertainty",
+    "caution",
+    "caginess",
+    "suspect",
+    "disbelieve"
+  ],
+  "antonyms": [
+    "trust"
+  ],
+  "similar_words": [
+    "mistruster",
+    "mistrustful",
+    "mistrustfully",
+    "mistrustfulness",
+    "mistrustingly",
+    "mistrustless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mistrust.mp3",
+  "local_sound_path": "sounds/mistrust.mp3"
+}

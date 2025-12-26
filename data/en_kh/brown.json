@@ -1,0 +1,79 @@
+{
+  "word": "brown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "he's very brown after his summer holiday",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11510.png",
+      "local_image_path": "images/11510.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115713.png",
+      "local_image_path": "images/115713.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115714.png",
+      "local_image_path": "images/115714.png"
+    },
+    {
+      "pos": "n",
+      "example": "brown doesn't suit you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11511.png",
+      "local_image_path": "images/11511.png"
+    },
+    {
+      "pos": "v",
+      "example": "he's browned off his job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11514.png",
+      "local_image_path": "images/11514.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115715.png",
+      "local_image_path": "images/115715.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115716.png",
+      "local_image_path": "images/115716.png"
+    }
+  ],
+  "synonyms": [
+    "bronzed",
+    "fry",
+    "grill",
+    "sear",
+    "toast",
+    "char",
+    "burn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "Brown Bess",
+    "brown coal",
+    "brown lung diesease",
+    "brown patch",
+    "brown rice",
+    "brown rot",
+    "brown study",
+    "brown sugar",
+    "brownback",
+    "brownfield site",
+    "brownie",
+    "browning",
+    "brownish",
+    "brownness",
+    "brownout",
+    "brownstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brown.mp3",
+  "local_sound_path": "sounds/brown.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "word": "septic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "septic wound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78227.png",
+      "local_image_path": "images/78227.png"
+    }
+  ],
+  "synonyms": [
+    "infected",
+    "diseased",
+    "gangrenous"
+  ],
+  "antonyms": [
+    "healthy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/septic.mp3",
+  "local_sound_path": "sounds/septic.mp3"
+}

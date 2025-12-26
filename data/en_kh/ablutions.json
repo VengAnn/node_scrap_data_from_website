@@ -1,0 +1,32 @@
+{
+  "word": "ablutions",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1464.png",
+      "local_image_path": "images/1464.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1463.png",
+      "local_image_path": "images/1463.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113022.png",
+      "local_image_path": "images/113022.png"
+    }
+  ],
+  "synonyms": [
+    "bathing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ablutions.mp3",
+  "local_sound_path": "sounds/ablutions.mp3"
+}

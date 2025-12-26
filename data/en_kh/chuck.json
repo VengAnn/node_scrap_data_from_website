@@ -1,0 +1,81 @@
+{
+  "word": "chuck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14456.png",
+      "local_image_path": "images/14456.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14455.png",
+      "local_image_path": "images/14455.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130069.png",
+      "local_image_path": "images/130069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14453.png",
+      "local_image_path": "images/14453.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116313.png",
+      "local_image_path": "images/116313.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116314.png",
+      "local_image_path": "images/116314.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116315.png",
+      "local_image_path": "images/116315.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116316.png",
+      "local_image_path": "images/116316.png"
+    }
+  ],
+  "synonyms": [
+    "food",
+    "provender",
+    "grub",
+    "hurl",
+    "toss",
+    "fling",
+    "discard",
+    "bin",
+    "throw",
+    "pitch",
+    "lob"
+  ],
+  "antonyms": [
+    "keep"
+  ],
+  "similar_words": [
+    "chuck wagon",
+    "chucker-out",
+    "chuckle",
+    "chuckle-head",
+    "chuckle-headed",
+    "chuckler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chuck.mp3",
+  "local_sound_path": "sounds/chuck.mp3"
+}

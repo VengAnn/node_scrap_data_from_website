@@ -1,0 +1,47 @@
+{
+  "word": "application",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "please give me your application",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5101.png",
+      "local_image_path": "images/5101.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131338.png",
+      "local_image_path": "images/131338.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131339.png",
+      "local_image_path": "images/131339.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131340.png",
+      "local_image_path": "images/131340.png"
+    }
+  ],
+  "synonyms": [
+    "diligence",
+    "concentration",
+    "effort",
+    "attention",
+    "devotion"
+  ],
+  "antonyms": [
+    "negligence"
+  ],
+  "similar_words": [
+    "application service provider",
+    "application software"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/application.mp3",
+  "local_sound_path": "sounds/application.mp3"
+}

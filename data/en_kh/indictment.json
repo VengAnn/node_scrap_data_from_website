@@ -1,0 +1,46 @@
+{
+  "word": "indictment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39040.png",
+      "local_image_path": "images/39040.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122160.png",
+      "local_image_path": "images/122160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122161.png",
+      "local_image_path": "images/122161.png"
+    }
+  ],
+  "synonyms": [
+    "accusation",
+    "charge",
+    "impeachment",
+    "summons",
+    "prosecution",
+    "arraignment",
+    "condemnation",
+    "denunciation",
+    "reflection",
+    "comment",
+    "outcome"
+  ],
+  "antonyms": [
+    "confirmation",
+    "exoneration",
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indictment.mp3",
+  "local_sound_path": "sounds/indictment.mp3"
+}

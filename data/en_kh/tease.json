@@ -1,0 +1,72 @@
+{
+  "word": "tease",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87848.png",
+      "local_image_path": "images/87848.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a greet tease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87849.png",
+      "local_image_path": "images/87849.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's just a tease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87850.png",
+      "local_image_path": "images/87850.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tease a younger brother",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87844.png",
+      "local_image_path": "images/87844.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tease a dog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87845.png",
+      "local_image_path": "images/87845.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tease one's hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87846.png",
+      "local_image_path": "images/87846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87847.png",
+      "local_image_path": "images/87847.png"
+    }
+  ],
+  "synonyms": [
+    "joker",
+    "mocker",
+    "teaser",
+    "tormenter",
+    "tantalize",
+    "arouse",
+    "encourage",
+    "excite",
+    "manipulate"
+  ],
+  "antonyms": [
+    "pet",
+    "satisfy"
+  ],
+  "similar_words": [
+    "teasel",
+    "teaser",
+    "teaservice",
+    "teaset"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tease.mp3",
+  "local_sound_path": "sounds/tease.mp3"
+}

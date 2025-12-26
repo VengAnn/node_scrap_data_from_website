@@ -1,0 +1,33 @@
+{
+  "word": "activity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "activity report",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2251.png",
+      "local_image_path": "images/2251.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111887.png",
+      "local_image_path": "images/111887.png"
+    }
+  ],
+  "synonyms": [
+    "pursuit",
+    "interest",
+    "hobby",
+    "occupation",
+    "endeavor",
+    "pastime"
+  ],
+  "antonyms": [
+    "inactivity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/activity.mp3",
+  "local_sound_path": "sounds/activity.mp3"
+}

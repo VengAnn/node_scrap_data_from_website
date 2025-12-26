@@ -1,0 +1,39 @@
+{
+  "word": "enjoyment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25109.png",
+      "local_image_path": "images/25109.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25110.png",
+      "local_image_path": "images/25110.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25111.png",
+      "local_image_path": "images/25111.png"
+    }
+  ],
+  "synonyms": [
+    "pleasure",
+    "delight",
+    "satisfaction",
+    "gratification",
+    "fun",
+    "amusement"
+  ],
+  "antonyms": [
+    "boredom"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enjoyment.mp3",
+  "local_sound_path": "sounds/enjoyment.mp3"
+}

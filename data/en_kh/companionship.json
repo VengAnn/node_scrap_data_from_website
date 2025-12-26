@@ -1,0 +1,37 @@
+{
+  "word": "companionship",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16156.png",
+      "local_image_path": "images/16156.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116849.png",
+      "local_image_path": "images/116849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116850.png",
+      "local_image_path": "images/116850.png"
+    }
+  ],
+  "synonyms": [
+    "company",
+    "friendship",
+    "camaraderie",
+    "comradeship"
+  ],
+  "antonyms": [
+    "enmity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/companionship.mp3",
+  "local_sound_path": "sounds/companionship.mp3"
+}

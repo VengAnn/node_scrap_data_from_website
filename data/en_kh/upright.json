@@ -1,0 +1,53 @@
+{
+  "word": "upright",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "upright beam",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96764.png",
+      "local_image_path": "images/96764.png"
+    },
+    {
+      "pos": "adj",
+      "example": "upright citizen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96765.png",
+      "local_image_path": "images/96765.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96766.png",
+      "local_image_path": "images/96766.png"
+    }
+  ],
+  "synonyms": [
+    "decent",
+    "honest",
+    "respectable",
+    "moral",
+    "conscientious",
+    "honorable",
+    "upstanding",
+    "principled",
+    "jamb",
+    "post",
+    "doorpost",
+    "vertical",
+    "support",
+    "column",
+    "side"
+  ],
+  "antonyms": [
+    "horizontal",
+    "immoral"
+  ],
+  "similar_words": [
+    "uprighteousness",
+    "uprightly",
+    "uprightness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/upright.mp3",
+  "local_sound_path": "sounds/upright.mp3"
+}

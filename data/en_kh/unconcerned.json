@@ -1,0 +1,44 @@
+{
+  "word": "unconcerned",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93731.png",
+      "local_image_path": "images/93731.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93732.png",
+      "local_image_path": "images/93732.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93733.png",
+      "local_image_path": "images/93733.png"
+    }
+  ],
+  "synonyms": [
+    "undisturbed",
+    "indifferent",
+    "nonchalant",
+    "undaunted",
+    "apathetic",
+    "unworried",
+    "carefree",
+    "blithe"
+  ],
+  "antonyms": [
+    "anxious"
+  ],
+  "similar_words": [
+    "unconcernedly",
+    "unconcernedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unconcerned.mp3",
+  "local_sound_path": "sounds/unconcerned.mp3"
+}

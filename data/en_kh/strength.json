@@ -1,0 +1,59 @@
+{
+  "word": "strength",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "physical strength",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85318.png",
+      "local_image_path": "images/85318.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85319.png",
+      "local_image_path": "images/85319.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85320.png",
+      "local_image_path": "images/85320.png"
+    },
+    {
+      "pos": "n",
+      "example": "strenght of an argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85321.png",
+      "local_image_path": "images/85321.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85322.png",
+      "local_image_path": "images/85322.png"
+    }
+  ],
+  "synonyms": [
+    "intensity",
+    "concentration",
+    "dilution",
+    "depth",
+    "potency",
+    "power"
+  ],
+  "antonyms": [
+    "weakness"
+  ],
+  "similar_words": [
+    "strengthen",
+    "strengthener",
+    "strengthening",
+    "strengthful",
+    "strengthily",
+    "strengthless",
+    "strengthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strength.mp3",
+  "local_sound_path": "sounds/strength.mp3"
+}

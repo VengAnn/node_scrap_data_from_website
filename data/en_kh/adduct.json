@@ -1,0 +1,27 @@
+{
+  "word": "adduct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2339.png",
+      "local_image_path": "images/2339.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131070.png",
+      "local_image_path": "images/131070.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "adduction",
+    "adductive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adduct.mp3",
+  "local_sound_path": "sounds/adduct.mp3"
+}

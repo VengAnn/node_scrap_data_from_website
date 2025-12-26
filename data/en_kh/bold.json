@@ -1,0 +1,61 @@
+{
+  "word": "bold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bold plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9999.png",
+      "local_image_path": "images/9999.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115340.png",
+      "local_image_path": "images/115340.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115341.png",
+      "local_image_path": "images/115341.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115342.png",
+      "local_image_path": "images/115342.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115343.png",
+      "local_image_path": "images/115343.png"
+    }
+  ],
+  "synonyms": [
+    "confident",
+    "forward",
+    "brash",
+    "forthright",
+    "self-assured",
+    "nervy",
+    "impudent",
+    "bold-faced",
+    "cheeky"
+  ],
+  "antonyms": [
+    "cowardly",
+    "timid"
+  ],
+  "similar_words": [
+    "bold-face",
+    "bold-faced",
+    "bolden",
+    "boldly",
+    "boldness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bold.mp3",
+  "local_sound_path": "sounds/bold.mp3"
+}

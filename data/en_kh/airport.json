@@ -1,0 +1,40 @@
+{
+  "word": "airport",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "airport terminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3166.png",
+      "local_image_path": "images/3166.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113480.png",
+      "local_image_path": "images/113480.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113481.png",
+      "local_image_path": "images/113481.png"
+    }
+  ],
+  "synonyms": [
+    "airfield",
+    "airdrome",
+    "airstrip",
+    "landing field",
+    "aerodrome"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "airport fiction",
+    "airport hotel",
+    "airport tax"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airport.mp3",
+  "local_sound_path": "sounds/airport.mp3"
+}

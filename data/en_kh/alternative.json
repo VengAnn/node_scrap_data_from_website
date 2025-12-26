@@ -1,0 +1,46 @@
+{
+  "word": "alternative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I have no alternative",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3675.png",
+      "local_image_path": "images/3675.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113602.png",
+      "local_image_path": "images/113602.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113603.png",
+      "local_image_path": "images/113603.png"
+    }
+  ],
+  "synonyms": [
+    "unusual",
+    "different",
+    "unconventional",
+    "marginal",
+    "unorthodox",
+    "complementary",
+    "option",
+    "choice",
+    "discretion",
+    "substitute"
+  ],
+  "antonyms": [
+    "conventional"
+  ],
+  "similar_words": [
+    "alternative life-style",
+    "alternatively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alternative.mp3",
+  "local_sound_path": "sounds/alternative.mp3"
+}

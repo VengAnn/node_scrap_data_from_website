@@ -1,0 +1,43 @@
+{
+  "word": "lonely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "feel lonely",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47448.png",
+      "local_image_path": "images/47448.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lonely road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47449.png",
+      "local_image_path": "images/47449.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47450.png",
+      "local_image_path": "images/47450.png"
+    }
+  ],
+  "synonyms": [
+    "isolated",
+    "solitary",
+    "secluded",
+    "deserted",
+    "remote",
+    "desolate",
+    "forlorn",
+    "lost",
+    "lonesome",
+    "alone",
+    "friendless",
+    "abandoned"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lonely.mp3",
+  "local_sound_path": "sounds/lonely.mp3"
+}

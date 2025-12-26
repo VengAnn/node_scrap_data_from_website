@@ -1,0 +1,26 @@
+{
+  "word": "farming",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "intensive farming",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27662.png",
+      "local_image_path": "images/27662.png"
+    }
+  ],
+  "synonyms": [
+    "undeveloped",
+    "agricultural",
+    "rural",
+    "working",
+    "ploughing",
+    "growing",
+    "planting"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/farming.mp3",
+  "local_sound_path": "sounds/farming.mp3"
+}

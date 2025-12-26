@@ -1,0 +1,77 @@
+{
+  "word": "protest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "protest (against) sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68085.png",
+      "local_image_path": "images/68085.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a protest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68086.png",
+      "local_image_path": "images/68086.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126166.png",
+      "local_image_path": "images/126166.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126167.png",
+      "local_image_path": "images/126167.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They are protest about some money.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68081.png",
+      "local_image_path": "images/68081.png"
+    },
+    {
+      "pos": "tv",
+      "example": "protest innocence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68082.png",
+      "local_image_path": "images/68082.png"
+    },
+    {
+      "pos": "tv",
+      "example": "protest a decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68083.png",
+      "local_image_path": "images/68083.png"
+    },
+    {
+      "pos": "tv",
+      "example": "protest (against)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68084.png",
+      "local_image_path": "images/68084.png"
+    }
+  ],
+  "synonyms": [
+    "declare",
+    "affirm",
+    "assert",
+    "insist",
+    "claim",
+    "announce",
+    "avow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "protest candidate",
+    "protest demonstration",
+    "protestant",
+    "protestantism",
+    "protestantize",
+    "protestation",
+    "protester",
+    "protestingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/protest.mp3",
+  "local_sound_path": "sounds/protest.mp3"
+}

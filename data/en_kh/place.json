@@ -1,0 +1,68 @@
+{
+  "word": "place",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "place first",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63715.png",
+      "local_image_path": "images/63715.png"
+    },
+    {
+      "pos": "n",
+      "example": "strange place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63713.png",
+      "local_image_path": "images/63713.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you place my book in the room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63714.png",
+      "local_image_path": "images/63714.png"
+    }
+  ],
+  "synonyms": [
+    "put",
+    "position",
+    "station",
+    "locate",
+    "site",
+    "set",
+    "deposit",
+    "target",
+    "lay",
+    "leave",
+    "situate",
+    "rest",
+    "posit"
+  ],
+  "antonyms": [
+    "fire",
+    "jettison"
+  ],
+  "similar_words": [
+    "place brick",
+    "place holder",
+    "place hunter",
+    "place mat",
+    "place name",
+    "place of business",
+    "place of contract",
+    "place of delivery",
+    "place setting",
+    "place-kick",
+    "placeable",
+    "placeless",
+    "placeman",
+    "placement",
+    "placenta",
+    "placental",
+    "placentation",
+    "placer",
+    "placer mining",
+    "placet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/place.mp3",
+  "local_sound_path": "sounds/place.mp3"
+}

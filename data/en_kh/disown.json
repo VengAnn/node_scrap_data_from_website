@@ -1,0 +1,26 @@
+{
+  "word": "disown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22012.png",
+      "local_image_path": "images/22012.png"
+    }
+  ],
+  "synonyms": [
+    "renounce",
+    "reject",
+    "disclaim",
+    "deny",
+    "repudiate"
+  ],
+  "antonyms": [
+    "acknowledge"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disown.mp3",
+  "local_sound_path": "sounds/disown.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "original",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "original tires",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58036.png",
+      "local_image_path": "images/58036.png"
+    },
+    {
+      "pos": "adj",
+      "example": "original idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58037.png",
+      "local_image_path": "images/58037.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58038.png",
+      "local_image_path": "images/58038.png"
+    }
+  ],
+  "synonyms": [
+    "prototype",
+    "pattern",
+    "archetype",
+    "exemplar",
+    "template",
+    "form",
+    "mold"
+  ],
+  "antonyms": [
+    "unoriginal",
+    "subsequent",
+    "fake",
+    "last",
+    "copy"
+  ],
+  "similar_words": [
+    "originality",
+    "originally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/original.mp3",
+  "local_sound_path": "sounds/original.mp3"
+}

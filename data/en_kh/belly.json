@@ -1,0 +1,41 @@
+{
+  "word": "belly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "that poor boy goes to school with an empty belly every \n\nmorning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8202.png",
+      "local_image_path": "images/8202.png"
+    },
+    {
+      "pos": "v",
+      "example": "belly out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8203.png",
+      "local_image_path": "images/8203.png"
+    }
+  ],
+  "synonyms": [
+    "stomach",
+    "abdomen",
+    "tummy",
+    "middle",
+    "gut"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "belly-band",
+    "belly-button",
+    "belly-dance",
+    "belly-god",
+    "belly-laugh",
+    "belly-timber",
+    "bellyache",
+    "bellyacher",
+    "bellyflop",
+    "bellyful"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/belly.mp3",
+  "local_sound_path": "sounds/belly.mp3"
+}

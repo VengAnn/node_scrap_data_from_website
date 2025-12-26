@@ -1,0 +1,51 @@
+{
+  "word": "comfortable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "comfortable patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15914.png",
+      "local_image_path": "images/15914.png"
+    },
+    {
+      "pos": "adj",
+      "example": "comfortable salary",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15915.png",
+      "local_image_path": "images/15915.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130144.png",
+      "local_image_path": "images/130144.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130145.png",
+      "local_image_path": "images/130145.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130146.png",
+      "local_image_path": "images/130146.png"
+    }
+  ],
+  "synonyms": [
+    "well-off",
+    "well-to-do",
+    "rich",
+    "wealthy",
+    "affluent"
+  ],
+  "antonyms": [
+    "uncomfortable",
+    "poor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comfortable.mp3",
+  "local_sound_path": "sounds/comfortable.mp3"
+}

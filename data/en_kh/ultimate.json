@@ -1,0 +1,49 @@
+{
+  "word": "ultimate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ultimate sonsumer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92903.png",
+      "local_image_path": "images/92903.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128606.png",
+      "local_image_path": "images/128606.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128607.png",
+      "local_image_path": "images/128607.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92904.png",
+      "local_image_path": "images/92904.png"
+    }
+  ],
+  "synonyms": [
+    "fundamental",
+    "basic",
+    "essential",
+    "supreme",
+    "extreme",
+    "greatest",
+    "best",
+    "worst"
+  ],
+  "antonyms": [
+    "first",
+    "secondary",
+    "superficial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ultimate.mp3",
+  "local_sound_path": "sounds/ultimate.mp3"
+}

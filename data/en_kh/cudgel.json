@@ -1,0 +1,40 @@
+{
+  "word": "cudgel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18999.png",
+      "local_image_path": "images/18999.png"
+    },
+    {
+      "pos": "tv",
+      "example": "take up the cuddy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19000.png",
+      "local_image_path": "images/19000.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19001.png",
+      "local_image_path": "images/19001.png"
+    }
+  ],
+  "synonyms": [
+    "hit",
+    "beat",
+    "club",
+    "bludgeon",
+    "whack",
+    "pound",
+    "bash",
+    "batter",
+    "thrash"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cudgel.mp3",
+  "local_sound_path": "sounds/cudgel.mp3"
+}

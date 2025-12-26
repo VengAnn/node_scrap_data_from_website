@@ -1,0 +1,43 @@
+{
+  "word": "cull",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19017.png",
+      "local_image_path": "images/19017.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cull apples",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19016.png",
+      "local_image_path": "images/19016.png"
+    }
+  ],
+  "synonyms": [
+    "pick",
+    "gather",
+    "select",
+    "collect",
+    "choose",
+    "amass",
+    "harvest",
+    "garner",
+    "glean",
+    "sift",
+    "winnow"
+  ],
+  "antonyms": [
+    "retain"
+  ],
+  "similar_words": [
+    "cullender",
+    "cullet",
+    "cullinan",
+    "cully"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cull.mp3",
+  "local_sound_path": "sounds/cull.mp3"
+}

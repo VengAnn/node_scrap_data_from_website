@@ -1,0 +1,89 @@
+{
+  "word": "hot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The weather is hot today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36063.png",
+      "local_image_path": "images/36063.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I like hot food.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36064.png",
+      "local_image_path": "images/36064.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hot wire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36065.png",
+      "local_image_path": "images/36065.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hot battle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36066.png",
+      "local_image_path": "images/36066.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hot news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36067.png",
+      "local_image_path": "images/36067.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hot goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36068.png",
+      "local_image_path": "images/36068.png"
+    }
+  ],
+  "synonyms": [
+    "passionate",
+    "fierce",
+    "vehement",
+    "emotional",
+    "strong",
+    "intense",
+    "excitable",
+    "angry",
+    "ardent",
+    "fervent",
+    "stormy",
+    "torrid"
+  ],
+  "antonyms": [
+    "cold",
+    "fresh",
+    "mild",
+    "dispassionate"
+  ],
+  "similar_words": [
+    "hot air",
+    "hot desk",
+    "hot desking",
+    "hot dog",
+    "hot flashes",
+    "hot head",
+    "hot line",
+    "hot link",
+    "hot pants",
+    "hot pepper",
+    "hot pursuit",
+    "hot seat",
+    "hot spot",
+    "hot spring",
+    "hot-blooded",
+    "hot-foot",
+    "hot-headed",
+    "hot-rod",
+    "hot-temper",
+    "hot-tempered",
+    "hotbed",
+    "hotch"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hot.mp3",
+  "local_sound_path": "sounds/hot.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "word": "daytime",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19758.png",
+      "local_image_path": "images/19758.png"
+    }
+  ],
+  "synonyms": [
+    "day",
+    "daylight",
+    "morning",
+    "afternoon"
+  ],
+  "antonyms": [
+    "nighttime"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/daytime.mp3",
+  "local_sound_path": "sounds/daytime.mp3"
+}

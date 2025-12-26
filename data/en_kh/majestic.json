@@ -1,0 +1,36 @@
+{
+  "word": "majestic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105424.png",
+      "local_image_path": "images/105424.png"
+    }
+  ],
+  "synonyms": [
+    "regal",
+    "royal",
+    "grand",
+    "stately",
+    "imposing",
+    "grandiose",
+    "magnificent",
+    "splendid",
+    "superb",
+    "resplendent",
+    "august",
+    "impressive"
+  ],
+  "antonyms": [
+    "humble"
+  ],
+  "similar_words": [
+    "majestical",
+    "majestically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/majestic.mp3",
+  "local_sound_path": "sounds/majestic.mp3"
+}

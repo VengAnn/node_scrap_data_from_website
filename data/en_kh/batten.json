@@ -1,0 +1,55 @@
+{
+  "word": "batten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "strip of batten",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7764.png",
+      "local_image_path": "images/7764.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7765.png",
+      "local_image_path": "images/7765.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131034.png",
+      "local_image_path": "images/131034.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7766.png",
+      "local_image_path": "images/7766.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114680.png",
+      "local_image_path": "images/114680.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114681.png",
+      "local_image_path": "images/114681.png"
+    }
+  ],
+  "synonyms": [
+    "fasten",
+    "secure",
+    "fix",
+    "close"
+  ],
+  "antonyms": [
+    "open"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/batten.mp3",
+  "local_sound_path": "sounds/batten.mp3"
+}

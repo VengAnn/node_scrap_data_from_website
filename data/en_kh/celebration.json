@@ -1,0 +1,31 @@
+{
+  "word": "celebration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "celebration of success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13487.png",
+      "local_image_path": "images/13487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116100.png",
+      "local_image_path": "images/116100.png"
+    }
+  ],
+  "synonyms": [
+    "commemoration",
+    "remembrance",
+    "observance",
+    "salutation",
+    "memorial",
+    "salute"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/celebration.mp3",
+  "local_sound_path": "sounds/celebration.mp3"
+}

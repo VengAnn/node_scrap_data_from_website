@@ -1,0 +1,29 @@
+{
+  "word": "circumflex",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14616.png",
+      "local_image_path": "images/14616.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14615.png",
+      "local_image_path": "images/14615.png"
+    }
+  ],
+  "synonyms": [
+    "diacritic",
+    "diacritical",
+    "diacritical mark",
+    "acute accent"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/circumflex.mp3",
+  "local_sound_path": "sounds/circumflex.mp3"
+}

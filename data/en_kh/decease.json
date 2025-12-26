@@ -1,0 +1,33 @@
+{
+  "word": "decease",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19918.png",
+      "local_image_path": "images/19918.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19919.png",
+      "local_image_path": "images/19919.png"
+    }
+  ],
+  "synonyms": [
+    "death",
+    "passing",
+    "demise",
+    "departure",
+    "release",
+    "expiry"
+  ],
+  "antonyms": [
+    "birth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decease.mp3",
+  "local_sound_path": "sounds/decease.mp3"
+}

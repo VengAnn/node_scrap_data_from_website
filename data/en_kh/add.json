@@ -1,0 +1,59 @@
+{
+  "word": "add",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "doesn't add up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2308.png",
+      "local_image_path": "images/2308.png"
+    },
+    {
+      "pos": "tv",
+      "example": "add water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2307.png",
+      "local_image_path": "images/2307.png"
+    }
+  ],
+  "synonyms": [
+    "enhance",
+    "complement",
+    "improve",
+    "augment",
+    "increase",
+    "supplement",
+    "swell",
+    "enlarge",
+    "intensify",
+    "total",
+    "combine",
+    "tally",
+    "count"
+  ],
+  "antonyms": [
+    "delete",
+    "subtract",
+    "detract"
+  ],
+  "similar_words": [
+    "addax",
+    "addend",
+    "addendum",
+    "adder",
+    "addic",
+    "addict",
+    "addicted",
+    "addiction",
+    "addictive",
+    "adding",
+    "addition",
+    "additional",
+    "additionally",
+    "additionary",
+    "additive",
+    "additur"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/add.mp3",
+  "local_sound_path": "sounds/add.mp3"
+}

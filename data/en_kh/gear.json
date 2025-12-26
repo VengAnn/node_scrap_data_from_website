@@ -1,0 +1,59 @@
+{
+  "word": "gear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "gear down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31280.png",
+      "local_image_path": "images/31280.png"
+    },
+    {
+      "pos": "n",
+      "example": "machine gear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31275.png",
+      "local_image_path": "images/31275.png"
+    },
+    {
+      "pos": "n",
+      "example": "first gear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31276.png",
+      "local_image_path": "images/31276.png"
+    },
+    {
+      "pos": "n",
+      "example": "camping gear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31277.png",
+      "local_image_path": "images/31277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gear a machine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31278.png",
+      "local_image_path": "images/31278.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gear one's project to another",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31279.png",
+      "local_image_path": "images/31279.png"
+    }
+  ],
+  "synonyms": [
+    "clothes",
+    "clothing",
+    "outfit",
+    "kit",
+    "cog",
+    "mechanism",
+    "device"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "gear-box",
+    "gearing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gear.mp3",
+  "local_sound_path": "sounds/gear.mp3"
+}

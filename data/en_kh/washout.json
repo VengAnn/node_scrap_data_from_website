@@ -1,0 +1,33 @@
+{
+  "word": "washout",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a washout in the road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99204.png",
+      "local_image_path": "images/99204.png"
+    },
+    {
+      "pos": "n",
+      "example": "project was a washout",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99205.png",
+      "local_image_path": "images/99205.png"
+    }
+  ],
+  "synonyms": [
+    "wash",
+    "failure",
+    "disaster",
+    "disappointment",
+    "bomb",
+    "flop"
+  ],
+  "antonyms": [
+    "success"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/washout.mp3",
+  "local_sound_path": "sounds/washout.mp3"
+}

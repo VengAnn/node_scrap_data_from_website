@@ -1,0 +1,31 @@
+{
+  "word": "digital",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21346.png",
+      "local_image_path": "images/21346.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21347.png",
+      "local_image_path": "images/21347.png"
+    }
+  ],
+  "synonyms": [
+    "numerical",
+    "alphanumeric",
+    "numeral",
+    "cardinal",
+    "ordinal",
+    "arithmetical"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/digital.mp3",
+  "local_sound_path": "sounds/digital.mp3"
+}

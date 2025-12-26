@@ -1,0 +1,27 @@
+{
+  "word": "regulator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71664.png",
+      "local_image_path": "images/71664.png"
+    }
+  ],
+  "synonyms": [
+    "valve",
+    "monitor",
+    "gauge",
+    "gage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "regulatory",
+    "regulatory agency",
+    "regulatory offense"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/regulator.mp3",
+  "local_sound_path": "sounds/regulator.mp3"
+}

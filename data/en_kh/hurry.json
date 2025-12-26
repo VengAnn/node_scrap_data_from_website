@@ -1,0 +1,43 @@
+{
+  "word": "hurry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Don't hurry, there's plenty of time.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36446.png",
+      "local_image_path": "images/36446.png"
+    },
+    {
+      "pos": "n",
+      "example": "Everything was hurry and excitement.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36449.png",
+      "local_image_path": "images/36449.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurry a decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36447.png",
+      "local_image_path": "images/36447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hurry a peron",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36448.png",
+      "local_image_path": "images/36448.png"
+    }
+  ],
+  "synonyms": [
+    "accelerate",
+    "quicken",
+    "hasten",
+    "hustle"
+  ],
+  "antonyms": [
+    "delay"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hurry.mp3",
+  "local_sound_path": "sounds/hurry.mp3"
+}

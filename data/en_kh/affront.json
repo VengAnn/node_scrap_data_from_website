@@ -1,0 +1,41 @@
+{
+  "word": "affront",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2771.png",
+      "local_image_path": "images/2771.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2770.png",
+      "local_image_path": "images/2770.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113386.png",
+      "local_image_path": "images/113386.png"
+    }
+  ],
+  "synonyms": [
+    "insult",
+    "injury",
+    "slur",
+    "slight",
+    "disrespect",
+    "offend",
+    "upset",
+    "outrage"
+  ],
+  "antonyms": [
+    "compliment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affront.mp3",
+  "local_sound_path": "sounds/affront.mp3"
+}

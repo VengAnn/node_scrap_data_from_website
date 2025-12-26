@@ -1,0 +1,36 @@
+{
+  "word": "intelligence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "great intelligence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40970.png",
+      "local_image_path": "images/40970.png"
+    }
+  ],
+  "synonyms": [
+    "cleverness",
+    "aptitude",
+    "intellect",
+    "astuteness",
+    "brainpower",
+    "acumen",
+    "information",
+    "news",
+    "communication",
+    "word"
+  ],
+  "antonyms": [
+    "stupidity"
+  ],
+  "similar_words": [
+    "intelligence quotient",
+    "intelligence test",
+    "intelligenced",
+    "intelligencer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intelligence.mp3",
+  "local_sound_path": "sounds/intelligence.mp3"
+}

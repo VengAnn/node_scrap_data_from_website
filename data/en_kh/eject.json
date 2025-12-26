@@ -1,0 +1,47 @@
+{
+  "word": "eject",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24100.png",
+      "local_image_path": "images/24100.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24101.png",
+      "local_image_path": "images/24101.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24102.png",
+      "local_image_path": "images/24102.png"
+    }
+  ],
+  "synonyms": [
+    "expel",
+    "emit",
+    "banish",
+    "refuse",
+    "discharge",
+    "spew",
+    "spout",
+    "disgorge",
+    "remove",
+    "oust",
+    "evict"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ejection",
+    "ejectment",
+    "ejector",
+    "ejectorseat"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eject.mp3",
+  "local_sound_path": "sounds/eject.mp3"
+}

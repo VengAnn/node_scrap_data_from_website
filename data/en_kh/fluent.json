@@ -1,0 +1,28 @@
+{
+  "word": "fluent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He is fluent in English",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29292.png",
+      "local_image_path": "images/29292.png"
+    }
+  ],
+  "synonyms": [
+    "articulate",
+    "eloquent",
+    "voluble",
+    "smooth-spoken",
+    "smooth-tongued",
+    "silver-tongued"
+  ],
+  "antonyms": [
+    "halting",
+    "tongue-tied"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fluent.mp3",
+  "local_sound_path": "sounds/fluent.mp3"
+}

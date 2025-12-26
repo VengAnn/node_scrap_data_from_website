@@ -1,0 +1,33 @@
+{
+  "word": "equanimity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Nothing disturbs his equanimity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25624.png",
+      "local_image_path": "images/25624.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119350.png",
+      "local_image_path": "images/119350.png"
+    }
+  ],
+  "synonyms": [
+    "composure",
+    "calmness",
+    "equability",
+    "self-control",
+    "poise",
+    "levelheadedness"
+  ],
+  "antonyms": [
+    "volatility"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equanimity.mp3",
+  "local_sound_path": "sounds/equanimity.mp3"
+}

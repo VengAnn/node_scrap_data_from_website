@@ -1,0 +1,52 @@
+{
+  "word": "cork",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bottle cork",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17724.png",
+      "local_image_path": "images/17724.png"
+    },
+    {
+      "pos": "n",
+      "example": "fishing cork",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17725.png",
+      "local_image_path": "images/17725.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cork sth up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17726.png",
+      "local_image_path": "images/17726.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117597.png",
+      "local_image_path": "images/117597.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117598.png",
+      "local_image_path": "images/117598.png"
+    }
+  ],
+  "synonyms": [
+    "stopper",
+    "plug",
+    "cap",
+    "bung",
+    "top",
+    "lid",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "corkscrew"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cork.mp3",
+  "local_sound_path": "sounds/cork.mp3"
+}

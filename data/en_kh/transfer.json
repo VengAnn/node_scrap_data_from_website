@@ -1,0 +1,48 @@
+{
+  "word": "transfer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "transfer to another city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90963.png",
+      "local_image_path": "images/90963.png"
+    },
+    {
+      "pos": "n",
+      "example": "transfer of goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90964.png",
+      "local_image_path": "images/90964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The head office has been transferred from here to London.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90962.png",
+      "local_image_path": "images/90962.png"
+    }
+  ],
+  "synonyms": [
+    "relocation",
+    "move",
+    "removal",
+    "transmit",
+    "convey",
+    "assign"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "transfer agent",
+    "transferability",
+    "transferable",
+    "transferable credit",
+    "transferal",
+    "transferee",
+    "transference",
+    "transferential",
+    "transferer",
+    "transferred intent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transfer.mp3",
+  "local_sound_path": "sounds/transfer.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "onlooker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57628.png",
+      "local_image_path": "images/57628.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124920.png",
+      "local_image_path": "images/124920.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124921.png",
+      "local_image_path": "images/124921.png"
+    }
+  ],
+  "synonyms": [
+    "bystander",
+    "spectator",
+    "viewer",
+    "observer",
+    "witness",
+    "watcher"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/onlooker.mp3",
+  "local_sound_path": "sounds/onlooker.mp3"
+}

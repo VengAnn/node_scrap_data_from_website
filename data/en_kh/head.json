@@ -1,0 +1,113 @@
+{
+  "word": "head",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "head man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34167.png",
+      "local_image_path": "images/34167.png"
+    },
+    {
+      "pos": "iv",
+      "example": "head for / toward",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34166.png",
+      "local_image_path": "images/34166.png"
+    },
+    {
+      "pos": "n",
+      "example": "human head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34158.png",
+      "local_image_path": "images/34158.png"
+    },
+    {
+      "pos": "n",
+      "example": "head of grain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34159.png",
+      "local_image_path": "images/34159.png"
+    },
+    {
+      "pos": "n",
+      "example": "head of the government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34160.png",
+      "local_image_path": "images/34160.png"
+    },
+    {
+      "pos": "n",
+      "example": "beer head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34161.png",
+      "local_image_path": "images/34161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "head the government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34162.png",
+      "local_image_path": "images/34162.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34163.png",
+      "local_image_path": "images/34163.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34164.png",
+      "local_image_path": "images/34164.png"
+    },
+    {
+      "pos": "tv",
+      "example": "head a boat toward shore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34165.png",
+      "local_image_path": "images/34165.png"
+    }
+  ],
+  "synonyms": [
+    "go",
+    "move",
+    "travel",
+    "journey",
+    "advance",
+    "proceed",
+    "lead",
+    "precede"
+  ],
+  "antonyms": [
+    "base",
+    "end",
+    "support",
+    "follow"
+  ],
+  "similar_words": [
+    "head concussion",
+    "head for",
+    "head game",
+    "head office",
+    "head scarf",
+    "head stone",
+    "head tax",
+    "head up",
+    "head wind",
+    "head-dress",
+    "head-foremost",
+    "head-gear",
+    "head-hunter",
+    "head-money",
+    "head-on",
+    "head-piece",
+    "head-shrinker",
+    "head-waters",
+    "headache",
+    "headband",
+    "headboard",
+    "headed",
+    "header",
+    "headily",
+    "headiness",
+    "heading"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/head.mp3",
+  "local_sound_path": "sounds/head.mp3"
+}

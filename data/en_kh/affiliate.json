@@ -1,0 +1,36 @@
+{
+  "word": "affiliate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2720.png",
+      "local_image_path": "images/2720.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2722.png",
+      "local_image_path": "images/2722.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2721.png",
+      "local_image_path": "images/2721.png"
+    }
+  ],
+  "synonyms": [
+    "link",
+    "connect",
+    "join",
+    "associate",
+    "conglomerate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affiliate.mp3",
+  "local_sound_path": "sounds/affiliate.mp3"
+}

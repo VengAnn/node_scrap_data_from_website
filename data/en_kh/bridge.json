@@ -1,0 +1,53 @@
+{
+  "word": "bridge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden bridge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11079.png",
+      "local_image_path": "images/11079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11082.png",
+      "local_image_path": "images/11082.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bridge the river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11080.png",
+      "local_image_path": "images/11080.png"
+    }
+  ],
+  "synonyms": [
+    "link",
+    "connection",
+    "conduit",
+    "association",
+    "channel",
+    "passage",
+    "join",
+    "connect",
+    "span",
+    "associate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bridge islet",
+    "bridge loan",
+    "bridge work",
+    "bridge-house",
+    "bridgeable",
+    "bridgeboard",
+    "bridged",
+    "bridgehead",
+    "bridgeman",
+    "bridgemaster",
+    "Bridgetin"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bridge.mp3",
+  "local_sound_path": "sounds/bridge.mp3"
+}

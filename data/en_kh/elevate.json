@@ -1,0 +1,38 @@
+{
+  "word": "elevate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24288.png",
+      "local_image_path": "images/24288.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24289.png",
+      "local_image_path": "images/24289.png"
+    }
+  ],
+  "synonyms": [
+    "promote",
+    "advance",
+    "further",
+    "raise",
+    "improve",
+    "exalt",
+    "elate",
+    "lift"
+  ],
+  "antonyms": [
+    "lower",
+    "demote"
+  ],
+  "similar_words": [
+    "elevated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elevate.mp3",
+  "local_sound_path": "sounds/elevate.mp3"
+}

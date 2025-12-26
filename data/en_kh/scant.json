@@ -1,0 +1,61 @@
+{
+  "word": "scant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "scant of breath",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76377.png",
+      "local_image_path": "images/76377.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76378.png",
+      "local_image_path": "images/76378.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scant the sugar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76379.png",
+      "local_image_path": "images/76379.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76380.png",
+      "local_image_path": "images/76380.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scant an important point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76381.png",
+      "local_image_path": "images/76381.png"
+    }
+  ],
+  "synonyms": [
+    "slight",
+    "limited",
+    "negligible",
+    "little",
+    "scarce",
+    "inadequate",
+    "insufficient",
+    "meager",
+    "measly"
+  ],
+  "antonyms": [
+    "extensive"
+  ],
+  "similar_words": [
+    "scantiness",
+    "scantity",
+    "scantle",
+    "scantling",
+    "scantly",
+    "scanty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scant.mp3",
+  "local_sound_path": "sounds/scant.mp3"
+}

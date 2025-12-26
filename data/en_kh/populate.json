@@ -1,0 +1,34 @@
+{
+  "word": "populate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65188.png",
+      "local_image_path": "images/65188.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65187.png",
+      "local_image_path": "images/65187.png"
+    }
+  ],
+  "synonyms": [
+    "inhabit",
+    "people",
+    "settle",
+    "colonize",
+    "fill",
+    "crowd",
+    "occupy"
+  ],
+  "antonyms": [
+    "desert"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/populate.mp3",
+  "local_sound_path": "sounds/populate.mp3"
+}

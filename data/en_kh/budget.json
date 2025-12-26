@@ -1,0 +1,45 @@
+{
+  "word": "budget",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11667.png",
+      "local_image_path": "images/11667.png"
+    },
+    {
+      "pos": "iv",
+      "example": "if we budget carefully, we'll be able to afford a new \n\ncar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11665.png",
+      "local_image_path": "images/11665.png"
+    },
+    {
+      "pos": "n",
+      "example": "national budget",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11664.png",
+      "local_image_path": "images/11664.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the government has budgeted 1.000.00$ for educationg spending",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11666.png",
+      "local_image_path": "images/11666.png"
+    }
+  ],
+  "synonyms": [
+    "plan",
+    "account",
+    "cost"
+  ],
+  "antonyms": [
+    "expensive"
+  ],
+  "similar_words": [
+    "budget account",
+    "budgetary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/budget.mp3",
+  "local_sound_path": "sounds/budget.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "composition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16300.png",
+      "local_image_path": "images/16300.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16301.png",
+      "local_image_path": "images/16301.png"
+    }
+  ],
+  "synonyms": [
+    "arrangement",
+    "organization",
+    "constitution",
+    "structure",
+    "make-up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "compositional",
+    "compositionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/composition.mp3",
+  "local_sound_path": "sounds/composition.mp3"
+}

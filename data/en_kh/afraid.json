@@ -1,0 +1,65 @@
+{
+  "word": "afraid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I am afraid I can't lend you 1000 riels",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2803.png",
+      "local_image_path": "images/2803.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113392.png",
+      "local_image_path": "images/113392.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113393.png",
+      "local_image_path": "images/113393.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113394.png",
+      "local_image_path": "images/113394.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113395.png",
+      "local_image_path": "images/113395.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113396.png",
+      "local_image_path": "images/113396.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113397.png",
+      "local_image_path": "images/113397.png"
+    }
+  ],
+  "synonyms": [
+    "frightened",
+    "scared",
+    "fearful",
+    "terrified",
+    "anxious",
+    "troubled",
+    "petrified"
+  ],
+  "antonyms": [
+    "brave",
+    "unafraid"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/afraid.mp3",
+  "local_sound_path": "sounds/afraid.mp3"
+}

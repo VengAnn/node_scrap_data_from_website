@@ -1,0 +1,34 @@
+{
+  "word": "however",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He will never succeed, however hard he works.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36190.png",
+      "local_image_path": "images/36190.png"
+    },
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36191.png",
+      "local_image_path": "images/36191.png"
+    }
+  ],
+  "synonyms": [
+    "though",
+    "but",
+    "yet",
+    "still",
+    "nevertheless",
+    "nonetheless",
+    "conversely"
+  ],
+  "antonyms": [
+    "also"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/however.mp3",
+  "local_sound_path": "sounds/however.mp3"
+}

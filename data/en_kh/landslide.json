@@ -1,0 +1,32 @@
+{
+  "word": "landslide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44793.png",
+      "local_image_path": "images/44793.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44794.png",
+      "local_image_path": "images/44794.png"
+    },
+    {
+      "pos": "n",
+      "example": "win by a landslide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44795.png",
+      "local_image_path": "images/44795.png"
+    }
+  ],
+  "synonyms": [
+    "rout"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/landslide.mp3",
+  "local_sound_path": "sounds/landslide.mp3"
+}

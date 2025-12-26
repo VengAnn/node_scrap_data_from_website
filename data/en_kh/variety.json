@@ -1,0 +1,48 @@
+{
+  "word": "variety",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "We demanded more variety in our food.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97291.png",
+      "local_image_path": "images/97291.png"
+    },
+    {
+      "pos": "n",
+      "example": "a variety of choices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97292.png",
+      "local_image_path": "images/97292.png"
+    },
+    {
+      "pos": "n",
+      "example": "one variety of bananas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97293.png",
+      "local_image_path": "images/97293.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97294.png",
+      "local_image_path": "images/97294.png"
+    }
+  ],
+  "synonyms": [
+    "type",
+    "kind",
+    "brand",
+    "form",
+    "sort",
+    "category",
+    "strain",
+    "class",
+    "make"
+  ],
+  "antonyms": [
+    "likeness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/variety.mp3",
+  "local_sound_path": "sounds/variety.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "bludgeon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9774.png",
+      "local_image_path": "images/9774.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9775.png",
+      "local_image_path": "images/9775.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115302.png",
+      "local_image_path": "images/115302.png"
+    }
+  ],
+  "synonyms": [
+    "club",
+    "beat",
+    "bash",
+    "hit",
+    "slam",
+    "strike",
+    "batter",
+    "hammer",
+    "coerce",
+    "force",
+    "compel",
+    "bully",
+    "bulldoze",
+    "intimidate",
+    "cajole"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bludgeoneer",
+    "bludgeoner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bludgeon.mp3",
+  "local_sound_path": "sounds/bludgeon.mp3"
+}

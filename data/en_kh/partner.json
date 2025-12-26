@@ -1,0 +1,42 @@
+{
+  "word": "partner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60363.png",
+      "local_image_path": "images/60363.png"
+    },
+    {
+      "pos": "n",
+      "example": "trading partner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60364.png",
+      "local_image_path": "images/60364.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60365.png",
+      "local_image_path": "images/60365.png"
+    }
+  ],
+  "synonyms": [
+    "join",
+    "associate",
+    "affiliate",
+    "team up",
+    "unite",
+    "connect",
+    "consort",
+    "accompany",
+    "escort"
+  ],
+  "antonyms": [
+    "superior"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/partner.mp3",
+  "local_sound_path": "sounds/partner.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "tranquility",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tranquility of the scene",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90903.png",
+      "local_image_path": "images/90903.png"
+    }
+  ],
+  "synonyms": [
+    "calm",
+    "quiet",
+    "stillness",
+    "silence",
+    "harmony",
+    "serenity",
+    "peace",
+    "peacefulness",
+    "hush",
+    "quietness",
+    "calmness"
+  ],
+  "antonyms": [
+    "uproar",
+    "bustle",
+    "panic",
+    "turmoil"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tranquility.mp3",
+  "local_sound_path": "sounds/tranquility.mp3"
+}

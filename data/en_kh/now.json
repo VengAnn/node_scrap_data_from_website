@@ -1,0 +1,53 @@
+{
+  "word": "now",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "He's here now",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56498.png",
+      "local_image_path": "images/56498.png"
+    },
+    {
+      "pos": "conj",
+      "example": "Now that",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56499.png",
+      "local_image_path": "images/56499.png"
+    },
+    {
+      "pos": "n",
+      "example": "the here and now",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56500.png",
+      "local_image_path": "images/56500.png"
+    }
+  ],
+  "synonyms": [
+    "immediately",
+    "right away",
+    "instantly",
+    "promptly",
+    "pronto",
+    "present",
+    "today",
+    "nowadays"
+  ],
+  "antonyms": [
+    "then",
+    "later",
+    "past"
+  ],
+  "similar_words": [
+    "nowadays",
+    "noway",
+    "nowed",
+    "nowhere",
+    "nowhit",
+    "nowhither",
+    "nowise",
+    "nowt",
+    "nowy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/now.mp3",
+  "local_sound_path": "sounds/now.mp3"
+}

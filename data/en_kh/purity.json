@@ -1,0 +1,41 @@
+{
+  "word": "purity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "purity of the metal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69004.png",
+      "local_image_path": "images/69004.png"
+    },
+    {
+      "pos": "n",
+      "example": "purity of the language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69005.png",
+      "local_image_path": "images/69005.png"
+    },
+    {
+      "pos": "n",
+      "example": "purity of his motives",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69006.png",
+      "local_image_path": "images/69006.png"
+    }
+  ],
+  "synonyms": [
+    "decency",
+    "honor",
+    "integrity",
+    "propriety",
+    "decorum",
+    "goodness"
+  ],
+  "antonyms": [
+    "impurity",
+    "dirtiness",
+    "corruption"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/purity.mp3",
+  "local_sound_path": "sounds/purity.mp3"
+}

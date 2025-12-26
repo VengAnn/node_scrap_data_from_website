@@ -1,0 +1,57 @@
+{
+  "word": "domestic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "domestic duties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22656.png",
+      "local_image_path": "images/22656.png"
+    },
+    {
+      "pos": "adj",
+      "example": "domestic trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22657.png",
+      "local_image_path": "images/22657.png"
+    },
+    {
+      "pos": "adj",
+      "example": "domestic person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22658.png",
+      "local_image_path": "images/22658.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22659.png",
+      "local_image_path": "images/22659.png"
+    }
+  ],
+  "synonyms": [
+    "national",
+    "local",
+    "internal",
+    "servant",
+    "retainer",
+    "help"
+  ],
+  "antonyms": [
+    "public",
+    "foreign",
+    "international",
+    "employer"
+  ],
+  "similar_words": [
+    "domestic animal",
+    "domestic economy",
+    "domestic trade",
+    "domestically",
+    "domesticate",
+    "domestication",
+    "domesticity",
+    "domesticize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/domestic.mp3",
+  "local_sound_path": "sounds/domestic.mp3"
+}

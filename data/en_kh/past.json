@@ -1,0 +1,73 @@
+{
+  "word": "past",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "past events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60496.png",
+      "local_image_path": "images/60496.png"
+    },
+    {
+      "pos": "adv",
+      "example": "march past",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60498.png",
+      "local_image_path": "images/60498.png"
+    },
+    {
+      "pos": "adv",
+      "example": "five years past",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60499.png",
+      "local_image_path": "images/60499.png"
+    },
+    {
+      "pos": "n",
+      "example": "live in the past",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60497.png",
+      "local_image_path": "images/60497.png"
+    },
+    {
+      "pos": "prep",
+      "example": "past noon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60500.png",
+      "local_image_path": "images/60500.png"
+    }
+  ],
+  "synonyms": [
+    "beyond",
+    "onwards",
+    "gone",
+    "history",
+    "antiquity",
+    "yesterday",
+    "precedent"
+  ],
+  "antonyms": [
+    "present",
+    "future"
+  ],
+  "similar_words": [
+    "past consideration",
+    "past-master",
+    "paste",
+    "paste-up",
+    "pasteboard",
+    "pastel",
+    "pastelist",
+    "pastellist",
+    "paster",
+    "pasteurism",
+    "pasteurization",
+    "pasteurize",
+    "pasteurizer",
+    "pasticcio",
+    "pastiche",
+    "pastille",
+    "pastime",
+    "pasting",
+    "pastor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/past.mp3",
+  "local_sound_path": "sounds/past.mp3"
+}

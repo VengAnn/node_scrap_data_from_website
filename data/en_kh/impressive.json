@@ -1,0 +1,44 @@
+{
+  "word": "impressive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37950.png",
+      "local_image_path": "images/37950.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121741.png",
+      "local_image_path": "images/121741.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121742.png",
+      "local_image_path": "images/121742.png"
+    }
+  ],
+  "synonyms": [
+    "imposing",
+    "inspiring",
+    "striking",
+    "remarkable",
+    "notable",
+    "extraordinary",
+    "exciting",
+    "moving",
+    "stirring"
+  ],
+  "antonyms": [
+    "unimpressive"
+  ],
+  "similar_words": [
+    "impressively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impressive.mp3",
+  "local_sound_path": "sounds/impressive.mp3"
+}

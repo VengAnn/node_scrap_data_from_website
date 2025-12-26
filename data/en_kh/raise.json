@@ -1,0 +1,69 @@
+{
+  "word": "raise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70020.png",
+      "local_image_path": "images/70020.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can you raise your hand?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70014.png",
+      "local_image_path": "images/70014.png"
+    },
+    {
+      "pos": "tv",
+      "example": "raise family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70015.png",
+      "local_image_path": "images/70015.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70016.png",
+      "local_image_path": "images/70016.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70017.png",
+      "local_image_path": "images/70017.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70018.png",
+      "local_image_path": "images/70018.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70019.png",
+      "local_image_path": "images/70019.png"
+    }
+  ],
+  "synonyms": [
+    "mention",
+    "broach",
+    "introduce",
+    "increase",
+    "inflate",
+    "augment",
+    "boost"
+  ],
+  "antonyms": [
+    "drop",
+    "lower",
+    "neglect",
+    "withdraw",
+    "deteriorate",
+    "quell"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/raise.mp3",
+  "local_sound_path": "sounds/raise.mp3"
+}

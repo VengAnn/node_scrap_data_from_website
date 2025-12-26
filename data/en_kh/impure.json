@@ -1,0 +1,44 @@
+{
+  "word": "impure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "impure water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38043.png",
+      "local_image_path": "images/38043.png"
+    },
+    {
+      "pos": "adj",
+      "example": "impure gold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38044.png",
+      "local_image_path": "images/38044.png"
+    },
+    {
+      "pos": "adj",
+      "example": "impure girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38045.png",
+      "local_image_path": "images/38045.png"
+    }
+  ],
+  "synonyms": [
+    "contaminated",
+    "mixed",
+    "tainted",
+    "polluted",
+    "dirty",
+    "infected",
+    "unclean",
+    "mixt"
+  ],
+  "antonyms": [
+    "pure"
+  ],
+  "similar_words": [
+    "impurely",
+    "impureness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impure.mp3",
+  "local_sound_path": "sounds/impure.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "word": "shed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "chickens shed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78968.png",
+      "local_image_path": "images/78968.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78960.png",
+      "local_image_path": "images/78960.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shed leaves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78961.png",
+      "local_image_path": "images/78961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shed water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78962.png",
+      "local_image_path": "images/78962.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shed one's clothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78963.png",
+      "local_image_path": "images/78963.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shed bad habits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78964.png",
+      "local_image_path": "images/78964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shed tears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78965.png",
+      "local_image_path": "images/78965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shed blood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78966.png",
+      "local_image_path": "images/78966.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shed light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78967.png",
+      "local_image_path": "images/78967.png"
+    }
+  ],
+  "synonyms": [
+    "discard",
+    "drop",
+    "cast"
+  ],
+  "antonyms": [
+    "grow",
+    "grew",
+    "grown"
+  ],
+  "similar_words": [
+    "shedding",
+    "sheder",
+    "shedload"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shed.mp3",
+  "local_sound_path": "sounds/shed.mp3"
+}

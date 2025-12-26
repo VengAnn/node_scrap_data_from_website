@@ -1,0 +1,50 @@
+{
+  "word": "awful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "awful vengeance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6789.png",
+      "local_image_path": "images/6789.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112948.png",
+      "local_image_path": "images/112948.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112949.png",
+      "local_image_path": "images/112949.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112950.png",
+      "local_image_path": "images/112950.png"
+    }
+  ],
+  "synonyms": [
+    "dreadful",
+    "terrible",
+    "appalling",
+    "dire",
+    "unpleasant",
+    "bad",
+    "poor",
+    "horrible",
+    "horrific",
+    "shocking"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "awfully",
+    "awfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/awful.mp3",
+  "local_sound_path": "sounds/awful.mp3"
+}

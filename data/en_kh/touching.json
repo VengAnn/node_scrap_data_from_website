@@ -1,0 +1,40 @@
+{
+  "word": "touching",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90413.png",
+      "local_image_path": "images/90413.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90414.png",
+      "local_image_path": "images/90414.png"
+    }
+  ],
+  "synonyms": [
+    "moving",
+    "poignant",
+    "stirring",
+    "tender",
+    "pitiful",
+    "emotive",
+    "sad",
+    "tetchy",
+    "heartbreaking",
+    "heartrending",
+    "affecting",
+    "strike home"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "touchingly",
+    "touchingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/touching.mp3",
+  "local_sound_path": "sounds/touching.mp3"
+}

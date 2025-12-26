@@ -1,0 +1,36 @@
+{
+  "word": "cube",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18961.png",
+      "local_image_path": "images/18961.png"
+    },
+    {
+      "pos": "n",
+      "example": "geometric cube",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18962.png",
+      "local_image_path": "images/18962.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18963.png",
+      "local_image_path": "images/18963.png"
+    }
+  ],
+  "synonyms": [
+    "dice",
+    "chop"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cube farm",
+    "cube root"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cube.mp3",
+  "local_sound_path": "sounds/cube.mp3"
+}

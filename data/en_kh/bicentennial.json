@@ -1,0 +1,35 @@
+{
+  "word": "bicentennial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8681.png",
+      "local_image_path": "images/8681.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115024.png",
+      "local_image_path": "images/115024.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8682.png",
+      "local_image_path": "images/8682.png"
+    }
+  ],
+  "synonyms": [
+    "birthday",
+    "centenary",
+    "bicentenary",
+    "centennial"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bicentennial.mp3",
+  "local_sound_path": "sounds/bicentennial.mp3"
+}

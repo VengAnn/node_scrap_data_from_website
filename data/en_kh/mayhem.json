@@ -1,0 +1,29 @@
+{
+  "word": "mayhem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106972.png",
+      "local_image_path": "images/106972.png"
+    }
+  ],
+  "synonyms": [
+    "chaos",
+    "disorder",
+    "confusion",
+    "turmoil",
+    "havoc",
+    "pandemonium",
+    "bedlam",
+    "anarchy"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mayhem.mp3",
+  "local_sound_path": "sounds/mayhem.mp3"
+}

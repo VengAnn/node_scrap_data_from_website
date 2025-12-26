@@ -1,0 +1,28 @@
+{
+  "word": "dependency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20597.png",
+      "local_image_path": "images/20597.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118049.png",
+      "local_image_path": "images/118049.png"
+    }
+  ],
+  "synonyms": [
+    "colony",
+    "adjunct",
+    "territory"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dependency.mp3",
+  "local_sound_path": "sounds/dependency.mp3"
+}

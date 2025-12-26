@@ -1,0 +1,65 @@
+{
+  "word": "effect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Did the medicine have a good effect?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23930.png",
+      "local_image_path": "images/23930.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23931.png",
+      "local_image_path": "images/23931.png"
+    },
+    {
+      "pos": "n",
+      "example": "The two systems are, in effect, identical.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23932.png",
+      "local_image_path": "images/23932.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23933.png",
+      "local_image_path": "images/23933.png"
+    }
+  ],
+  "synonyms": [
+    "appearance",
+    "look",
+    "impression",
+    "air",
+    "achieve",
+    "cause",
+    "produce",
+    "realize",
+    "provoke",
+    "prompt",
+    "stimulate",
+    "make",
+    "perform",
+    "accomplish",
+    "create"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "effective",
+    "effective demand",
+    "effective office",
+    "effective yield",
+    "effectively",
+    "effectiveness",
+    "effectress",
+    "effects",
+    "effectual",
+    "effectually",
+    "effectuate",
+    "effectuation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/effect.mp3",
+  "local_sound_path": "sounds/effect.mp3"
+}

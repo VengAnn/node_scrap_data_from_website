@@ -1,0 +1,33 @@
+{
+  "word": "imaginary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "imaginary profit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37350.png",
+      "local_image_path": "images/37350.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121470.png",
+      "local_image_path": "images/121470.png"
+    }
+  ],
+  "synonyms": [
+    "fantasy",
+    "make-believe",
+    "unreal",
+    "pretend",
+    "fictional",
+    "illusory"
+  ],
+  "antonyms": [
+    "real"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imaginary.mp3",
+  "local_sound_path": "sounds/imaginary.mp3"
+}

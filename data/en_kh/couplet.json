@@ -1,0 +1,34 @@
+{
+  "word": "couplet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18165.png",
+      "local_image_path": "images/18165.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131003.png",
+      "local_image_path": "images/131003.png"
+    }
+  ],
+  "synonyms": [
+    "verse",
+    "rhyme",
+    "ode",
+    "sonnet",
+    "elegy",
+    "limerick",
+    "epic"
+  ],
+  "antonyms": [
+    "prose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/couplet.mp3",
+  "local_sound_path": "sounds/couplet.mp3"
+}

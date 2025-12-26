@@ -1,0 +1,84 @@
+{
+  "word": "board",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "the ship had 500 passengers on board",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9866.png",
+      "local_image_path": "images/9866.png"
+    },
+    {
+      "pos": "n",
+      "example": "board of directors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9865.png",
+      "local_image_path": "images/9865.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115312.png",
+      "local_image_path": "images/115312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115313.png",
+      "local_image_path": "images/115313.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115314.png",
+      "local_image_path": "images/115314.png"
+    },
+    {
+      "pos": "tv",
+      "example": "board (up) the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9867.png",
+      "local_image_path": "images/9867.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130014.png",
+      "local_image_path": "images/130014.png"
+    },
+    {
+      "pos": "v",
+      "example": "I will board with my old friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9868.png",
+      "local_image_path": "images/9868.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131041.png",
+      "local_image_path": "images/131041.png"
+    }
+  ],
+  "synonyms": [
+    "lodge",
+    "stay",
+    "live",
+    "embark",
+    "enter"
+  ],
+  "antonyms": [
+    "disembark"
+  ],
+  "similar_words": [
+    "board game",
+    "board of education",
+    "board of trade",
+    "boarder",
+    "boarding",
+    "boarding priority",
+    "boarding-house",
+    "boarding-school",
+    "boardwalk"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/board.mp3",
+  "local_sound_path": "sounds/board.mp3"
+}

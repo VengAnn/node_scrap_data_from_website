@@ -1,0 +1,87 @@
+{
+  "word": "mix",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Oil and water don't mix",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109681.png",
+      "local_image_path": "images/109681.png"
+    },
+    {
+      "pos": "iv",
+      "example": "mix with criminals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109682.png",
+      "local_image_path": "images/109682.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109683.png",
+      "local_image_path": "images/109683.png"
+    },
+    {
+      "pos": "n",
+      "example": "Dog is a mix",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109684.png",
+      "local_image_path": "images/109684.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109685.png",
+      "local_image_path": "images/109685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Pink and blue mix well together.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109679.png",
+      "local_image_path": "images/109679.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I don't want be to mixed up in the affair.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109680.png",
+      "local_image_path": "images/109680.png"
+    }
+  ],
+  "synonyms": [
+    "combination",
+    "mixture",
+    "blend",
+    "assortment",
+    "fusion",
+    "accord",
+    "agree",
+    "fit",
+    "harmonize",
+    "match"
+  ],
+  "antonyms": [
+    "separate",
+    "clash"
+  ],
+  "similar_words": [
+    "mix-up",
+    "mixable",
+    "mixed",
+    "mixed economy",
+    "mixed farming",
+    "mixed train",
+    "mixedly",
+    "mixen",
+    "mixer",
+    "mixing",
+    "mixologist",
+    "mixology",
+    "mixt",
+    "mixtilineal",
+    "mixtilinear",
+    "mixtion",
+    "mixtly",
+    "mixture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mix.mp3",
+  "local_sound_path": "sounds/mix.mp3"
+}

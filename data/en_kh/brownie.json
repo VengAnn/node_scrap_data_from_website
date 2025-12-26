@@ -1,0 +1,38 @@
+{
+  "word": "brownie",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11519.png",
+      "local_image_path": "images/11519.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11520.png",
+      "local_image_path": "images/11520.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115717.png",
+      "local_image_path": "images/115717.png"
+    }
+  ],
+  "synonyms": [
+    "fairy",
+    "nymph",
+    "elf",
+    "goblin",
+    "dryad",
+    "leprechaun",
+    "gnome"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brownie.mp3",
+  "local_sound_path": "sounds/brownie.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "aggrandize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2914.png",
+      "local_image_path": "images/2914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112293.png",
+      "local_image_path": "images/112293.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112294.png",
+      "local_image_path": "images/112294.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112295.png",
+      "local_image_path": "images/112295.png"
+    }
+  ],
+  "synonyms": [
+    "exaggerate",
+    "elaborate",
+    "overdo",
+    "enhance",
+    "enlarge",
+    "increase"
+  ],
+  "antonyms": [
+    "belittle",
+    "downgrade",
+    "understate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aggrandize.mp3",
+  "local_sound_path": "sounds/aggrandize.mp3"
+}

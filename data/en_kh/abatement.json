@@ -1,0 +1,40 @@
+{
+  "word": "abatement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "abatement of action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1329.png",
+      "local_image_path": "images/1329.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111876.png",
+      "local_image_path": "images/111876.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111877.png",
+      "local_image_path": "images/111877.png"
+    }
+  ],
+  "synonyms": [
+    "deduction",
+    "discount",
+    "cut",
+    "reduction",
+    "decrease",
+    "saving"
+  ],
+  "antonyms": [
+    "increase",
+    "increment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abatement.mp3",
+  "local_sound_path": "sounds/abatement.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "bench",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden bench",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8253.png",
+      "local_image_path": "images/8253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114893.png",
+      "local_image_path": "images/114893.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114894.png",
+      "local_image_path": "images/114894.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114895.png",
+      "local_image_path": "images/114895.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114896.png",
+      "local_image_path": "images/114896.png"
+    }
+  ],
+  "synonyms": [
+    "counter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bench seat",
+    "bencher",
+    "benchmark"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bench.mp3",
+  "local_sound_path": "sounds/bench.mp3"
+}

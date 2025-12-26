@@ -1,0 +1,44 @@
+{
+  "word": "comb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "pocket comb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15856.png",
+      "local_image_path": "images/15856.png"
+    },
+    {
+      "pos": "tv",
+      "example": "don't forget to comb your hair before you go out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15857.png",
+      "local_image_path": "images/15857.png"
+    }
+  ],
+  "synonyms": [
+    "untangle",
+    "unsnarl",
+    "disentangle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "combat",
+    "combatant",
+    "combative",
+    "combatively",
+    "combativeness",
+    "combats",
+    "comber",
+    "combination",
+    "combination lock",
+    "combinational",
+    "combinative",
+    "combinatorial",
+    "combinatorics",
+    "combinatory",
+    "combine"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comb.mp3",
+  "local_sound_path": "sounds/comb.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "continuous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "continuous line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17300.png",
+      "local_image_path": "images/17300.png"
+    }
+  ],
+  "synonyms": [
+    "incessant",
+    "nonstop",
+    "unremitting",
+    "permanent",
+    "constant",
+    "unbroken",
+    "uninterrupted",
+    "unceasing",
+    "endless"
+  ],
+  "antonyms": [
+    "broken",
+    "intermittent"
+  ],
+  "similar_words": [
+    "continuously",
+    "continuousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/continuous.mp3",
+  "local_sound_path": "sounds/continuous.mp3"
+}

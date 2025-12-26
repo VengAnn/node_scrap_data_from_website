@@ -1,0 +1,30 @@
+{
+  "word": "courier",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He works as courier",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18173.png",
+      "local_image_path": "images/18173.png"
+    },
+    {
+      "pos": "n",
+      "example": "A courier gave this letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18174.png",
+      "local_image_path": "images/18174.png"
+    }
+  ],
+  "synonyms": [
+    "messenger",
+    "biker",
+    "rep",
+    "agent",
+    "guide"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/courier.mp3",
+  "local_sound_path": "sounds/courier.mp3"
+}

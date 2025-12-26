@@ -1,0 +1,43 @@
+{
+  "word": "exhume",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26629.png",
+      "local_image_path": "images/26629.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130311.png",
+      "local_image_path": "images/130311.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130312.png",
+      "local_image_path": "images/130312.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26630.png",
+      "local_image_path": "images/26630.png"
+    }
+  ],
+  "synonyms": [
+    "disinter",
+    "unearth",
+    "disentomb",
+    "disclose"
+  ],
+  "antonyms": [
+    "bury"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exhume.mp3",
+  "local_sound_path": "sounds/exhume.mp3"
+}

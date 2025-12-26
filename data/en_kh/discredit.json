@@ -1,0 +1,77 @@
+{
+  "word": "discredit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21756.png",
+      "local_image_path": "images/21756.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21757.png",
+      "local_image_path": "images/21757.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118441.png",
+      "local_image_path": "images/118441.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118442.png",
+      "local_image_path": "images/118442.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118443.png",
+      "local_image_path": "images/118443.png"
+    },
+    {
+      "pos": "tv",
+      "example": "discredit a reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21754.png",
+      "local_image_path": "images/21754.png"
+    },
+    {
+      "pos": "tv",
+      "example": "discredit a theory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21755.png",
+      "local_image_path": "images/21755.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118444.png",
+      "local_image_path": "images/118444.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118445.png",
+      "local_image_path": "images/118445.png"
+    }
+  ],
+  "synonyms": [
+    "dishonor",
+    "disgrace",
+    "disrepute",
+    "scandal",
+    "shame"
+  ],
+  "antonyms": [
+    "honor"
+  ],
+  "similar_words": [
+    "discreditable",
+    "discreditably"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discredit.mp3",
+  "local_sound_path": "sounds/discredit.mp3"
+}

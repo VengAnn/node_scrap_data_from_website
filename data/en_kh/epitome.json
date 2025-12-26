@@ -1,0 +1,33 @@
+{
+  "word": "epitome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "epitome of a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25579.png",
+      "local_image_path": "images/25579.png"
+    },
+    {
+      "pos": "n",
+      "example": "epitome of its genre",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25580.png",
+      "local_image_path": "images/25580.png"
+    }
+  ],
+  "synonyms": [
+    "essence",
+    "personification",
+    "embodiment",
+    "quintessence",
+    "archetype",
+    "height"
+  ],
+  "antonyms": [
+    "antithesis"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/epitome.mp3",
+  "local_sound_path": "sounds/epitome.mp3"
+}

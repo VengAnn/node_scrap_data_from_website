@@ -1,0 +1,38 @@
+{
+  "word": "talent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "talent musician",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87345.png",
+      "local_image_path": "images/87345.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87346.png",
+      "local_image_path": "images/87346.png"
+    }
+  ],
+  "synonyms": [
+    "aptitude",
+    "flair",
+    "gift",
+    "bent",
+    "capacity",
+    "faculty",
+    "ability",
+    "endowment",
+    "genius",
+    "forte"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "talented",
+    "talentedless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/talent.mp3",
+  "local_sound_path": "sounds/talent.mp3"
+}

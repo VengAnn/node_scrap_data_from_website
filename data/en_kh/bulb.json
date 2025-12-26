@@ -1,0 +1,33 @@
+{
+  "word": "bulb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "flower bulb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11731.png",
+      "local_image_path": "images/11731.png"
+    },
+    {
+      "pos": "n",
+      "example": "electric bulb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11732.png",
+      "local_image_path": "images/11732.png"
+    }
+  ],
+  "synonyms": [
+    "corm",
+    "rhizome",
+    "tuber"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bulbar",
+    "bulbil",
+    "bulbous",
+    "bulbul"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bulb.mp3",
+  "local_sound_path": "sounds/bulb.mp3"
+}

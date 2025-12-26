@@ -1,0 +1,47 @@
+{
+  "word": "animal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "animal world",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4327.png",
+      "local_image_path": "images/4327.png"
+    },
+    {
+      "pos": "n",
+      "example": "fourtooted animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4326.png",
+      "local_image_path": "images/4326.png"
+    }
+  ],
+  "synonyms": [
+    "physical",
+    "bodily",
+    "visceral",
+    "instinctive",
+    "innate",
+    "inborn",
+    "subconscious",
+    "monster",
+    "beast",
+    "brute",
+    "swine"
+  ],
+  "antonyms": [
+    "spiritual"
+  ],
+  "similar_words": [
+    "animal husbandry",
+    "animalcule",
+    "animalism",
+    "animalist",
+    "animalistic",
+    "animality",
+    "animalization",
+    "animalize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/animal.mp3",
+  "local_sound_path": "sounds/animal.mp3"
+}

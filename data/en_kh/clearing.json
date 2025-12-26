@@ -1,0 +1,38 @@
+{
+  "word": "clearing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "by clearing the land",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14929.png",
+      "local_image_path": "images/14929.png"
+    },
+    {
+      "pos": "n",
+      "example": "come to a clearing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14930.png",
+      "local_image_path": "images/14930.png"
+    }
+  ],
+  "synonyms": [
+    "payment",
+    "defrayal",
+    "clearance",
+    "reimbursement",
+    "netting",
+    "making"
+  ],
+  "antonyms": [
+    "losing"
+  ],
+  "similar_words": [
+    "clearing bank",
+    "clearing house",
+    "clearing the arears",
+    "clearing-house"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clearing.mp3",
+  "local_sound_path": "sounds/clearing.mp3"
+}

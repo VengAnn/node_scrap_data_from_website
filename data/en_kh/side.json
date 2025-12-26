@@ -1,0 +1,78 @@
+{
+  "word": "side",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "side aisle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79793.png",
+      "local_image_path": "images/79793.png"
+    },
+    {
+      "pos": "adj",
+      "example": "side issue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79794.png",
+      "local_image_path": "images/79794.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79795.png",
+      "local_image_path": "images/79795.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79790.png",
+      "local_image_path": "images/79790.png"
+    },
+    {
+      "pos": "n",
+      "example": "at the side of the house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79791.png",
+      "local_image_path": "images/79791.png"
+    },
+    {
+      "pos": "n",
+      "example": "I agree your side.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79792.png",
+      "local_image_path": "images/79792.png"
+    }
+  ],
+  "synonyms": [
+    "aspect",
+    "part",
+    "feature",
+    "quality",
+    "characteristic",
+    "trait"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "side by side",
+    "side road",
+    "side-arms",
+    "side-box",
+    "side-car",
+    "side-chapel",
+    "side-dish",
+    "side-door",
+    "side-drawn",
+    "side-dress",
+    "side-drum",
+    "side-effect",
+    "side-face",
+    "side-flowered",
+    "side-glance",
+    "side-graft",
+    "side-grance",
+    "side-hill",
+    "side-issue",
+    "side-kick",
+    "side-land",
+    "side-ling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/side.mp3",
+  "local_sound_path": "sounds/side.mp3"
+}

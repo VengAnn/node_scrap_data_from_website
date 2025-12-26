@@ -1,0 +1,47 @@
+{
+  "word": "reinforce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "reinforce a wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71729.png",
+      "local_image_path": "images/71729.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reinforce an army",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71730.png",
+      "local_image_path": "images/71730.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reinforce his determination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71731.png",
+      "local_image_path": "images/71731.png"
+    }
+  ],
+  "synonyms": [
+    "strengthen",
+    "support",
+    "underpin",
+    "buttress",
+    "emphasize",
+    "underline",
+    "highlight",
+    "fortify",
+    "bolster",
+    "boost"
+  ],
+  "antonyms": [
+    "weaken"
+  ],
+  "similar_words": [
+    "reinforceable",
+    "reinforced concrete",
+    "reinforcement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reinforce.mp3",
+  "local_sound_path": "sounds/reinforce.mp3"
+}

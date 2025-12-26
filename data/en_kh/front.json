@@ -1,0 +1,80 @@
+{
+  "word": "front",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30414.png",
+      "local_image_path": "images/30414.png"
+    },
+    {
+      "pos": "iv",
+      "example": "houses front on the lake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30416.png",
+      "local_image_path": "images/30416.png"
+    },
+    {
+      "pos": "n",
+      "example": "front of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30409.png",
+      "local_image_path": "images/30409.png"
+    },
+    {
+      "pos": "n",
+      "example": "in front of (the house)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30410.png",
+      "local_image_path": "images/30410.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30411.png",
+      "local_image_path": "images/30411.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30412.png",
+      "local_image_path": "images/30412.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30413.png",
+      "local_image_path": "images/30413.png"
+    },
+    {
+      "pos": "tv",
+      "example": "front a house toward the lake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30415.png",
+      "local_image_path": "images/30415.png"
+    }
+  ],
+  "synonyms": [
+    "face",
+    "abut",
+    "border",
+    "adjoin",
+    "meet",
+    "overlook"
+  ],
+  "antonyms": [
+    "back",
+    "reverse"
+  ],
+  "similar_words": [
+    "front desk",
+    "front man",
+    "front organization",
+    "front runner",
+    "frontage",
+    "frontal",
+    "frontier",
+    "frontiersman",
+    "frontispiece"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/front.mp3",
+  "local_sound_path": "sounds/front.mp3"
+}

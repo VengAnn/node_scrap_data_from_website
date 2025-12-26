@@ -1,0 +1,49 @@
+{
+  "word": "assemblage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "an assemblage of people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5865.png",
+      "local_image_path": "images/5865.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112743.png",
+      "local_image_path": "images/112743.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112744.png",
+      "local_image_path": "images/112744.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112745.png",
+      "local_image_path": "images/112745.png"
+    }
+  ],
+  "synonyms": [
+    "meeting",
+    "gathering",
+    "throng",
+    "crowd",
+    "accumulation",
+    "grouping",
+    "assembly",
+    "collection",
+    "congregation",
+    "group",
+    "mass",
+    "body"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assemblage.mp3",
+  "local_sound_path": "sounds/assemblage.mp3"
+}

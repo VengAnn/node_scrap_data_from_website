@@ -1,0 +1,47 @@
+{
+  "word": "effort",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "They lifted the heavy rock without effort.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23996.png",
+      "local_image_path": "images/23996.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23997.png",
+      "local_image_path": "images/23997.png"
+    }
+  ],
+  "synonyms": [
+    "exertion",
+    "sweat",
+    "struggle",
+    "force",
+    "power",
+    "energy",
+    "strength",
+    "attempt",
+    "try",
+    "endeavor",
+    "stab",
+    "crack",
+    "shot",
+    "go"
+  ],
+  "antonyms": [
+    "ease"
+  ],
+  "similar_words": [
+    "effortful",
+    "effortfully",
+    "effortless",
+    "effortlessly",
+    "effortlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/effort.mp3",
+  "local_sound_path": "sounds/effort.mp3"
+}

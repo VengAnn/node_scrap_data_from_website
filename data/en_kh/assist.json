@@ -1,0 +1,63 @@
+{
+  "word": "assist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5936.png",
+      "local_image_path": "images/5936.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5935.png",
+      "local_image_path": "images/5935.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114150.png",
+      "local_image_path": "images/114150.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114151.png",
+      "local_image_path": "images/114151.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114152.png",
+      "local_image_path": "images/114152.png"
+    }
+  ],
+  "synonyms": [
+    "contribution",
+    "backing",
+    "promotion",
+    "support",
+    "assistance",
+    "help",
+    "aid",
+    "back",
+    "abet"
+  ],
+  "antonyms": [
+    "hinder",
+    "hindrance"
+  ],
+  "similar_words": [
+    "assistance",
+    "assistant",
+    "assistant professor",
+    "assistantship",
+    "assisted area",
+    "assisted livingfacility",
+    "assisted reproduction"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assist.mp3",
+  "local_sound_path": "sounds/assist.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "inconvenient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "inconvenient kitchen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38658.png",
+      "local_image_path": "images/38658.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inconvenient arrival",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38659.png",
+      "local_image_path": "images/38659.png"
+    }
+  ],
+  "synonyms": [
+    "embarrassing",
+    "undesirable",
+    "annoying",
+    "troublesome",
+    "bothersome",
+    "awkward",
+    "tiresome",
+    "inopportune",
+    "problematic",
+    "difficult",
+    "untimely",
+    "ill-timed"
+  ],
+  "antonyms": [
+    "convenient",
+    "beneficial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inconvenient.mp3",
+  "local_sound_path": "sounds/inconvenient.mp3"
+}

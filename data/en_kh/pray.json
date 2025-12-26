@@ -1,0 +1,52 @@
+{
+  "word": "pray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65879.png",
+      "local_image_path": "images/65879.png"
+    },
+    {
+      "pos": "iv",
+      "example": "pray that he will come",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65880.png",
+      "local_image_path": "images/65880.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pray your forgiveness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65881.png",
+      "local_image_path": "images/65881.png"
+    }
+  ],
+  "synonyms": [
+    "hope",
+    "wish",
+    "yearn",
+    "crave",
+    "meditate",
+    "contemplate",
+    "invoke",
+    "summon",
+    "deliberate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "prayer",
+    "prayer beads",
+    "prayer-meeting",
+    "prayerbook",
+    "prayerful",
+    "prayerfully",
+    "prayerfulness",
+    "prayerless",
+    "praying",
+    "praying mantis",
+    "prayingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pray.mp3",
+  "local_sound_path": "sounds/pray.mp3"
+}

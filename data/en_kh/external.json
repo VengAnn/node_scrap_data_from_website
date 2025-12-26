@@ -1,0 +1,47 @@
+{
+  "word": "external",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "external surface",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27029.png",
+      "local_image_path": "images/27029.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27028.png",
+      "local_image_path": "images/27028.png"
+    }
+  ],
+  "synonyms": [
+    "outside",
+    "outer",
+    "exterior",
+    "outdoor",
+    "peripheral",
+    "outward"
+  ],
+  "antonyms": [
+    "internal"
+  ],
+  "similar_words": [
+    "external accounts",
+    "external aid",
+    "external audit",
+    "external balance",
+    "external combustion",
+    "external debt",
+    "external news",
+    "external trade",
+    "externalism",
+    "externalities",
+    "externality",
+    "externalize",
+    "externally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/external.mp3",
+  "local_sound_path": "sounds/external.mp3"
+}

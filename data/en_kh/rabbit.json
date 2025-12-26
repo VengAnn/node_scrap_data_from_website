@@ -1,0 +1,49 @@
+{
+  "word": "rabbit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69728.png",
+      "local_image_path": "images/69728.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126391.png",
+      "local_image_path": "images/126391.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69727.png",
+      "local_image_path": "images/69727.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69729.png",
+      "local_image_path": "images/69729.png"
+    }
+  ],
+  "synonyms": [
+    "chat",
+    "chatter",
+    "gossip",
+    "natter",
+    "blather",
+    "ramble",
+    "prattle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rabbit fever",
+    "rabbit-hutch",
+    "rabbiter",
+    "rabbity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rabbit.mp3",
+  "local_sound_path": "sounds/rabbit.mp3"
+}

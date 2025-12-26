@@ -1,0 +1,31 @@
+{
+  "word": "unrelated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/95560.png",
+      "local_image_path": "images/95560.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129443.png",
+      "local_image_path": "images/129443.png"
+    }
+  ],
+  "synonyms": [
+    "irrelevant",
+    "extraneous",
+    "unconnected",
+    "impertinent"
+  ],
+  "antonyms": [
+    "relevant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unrelated.mp3",
+  "local_sound_path": "sounds/unrelated.mp3"
+}

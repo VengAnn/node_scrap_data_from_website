@@ -1,0 +1,76 @@
+{
+  "word": "abstract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "abstract thought, abstract number",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1689.png",
+      "local_image_path": "images/1689.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111787.png",
+      "local_image_path": "images/111787.png"
+    },
+    {
+      "pos": "n",
+      "example": "abstract of record",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1690.png",
+      "local_image_path": "images/1690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "abstract sth (from sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1691.png",
+      "local_image_path": "images/1691.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111786.png",
+      "local_image_path": "images/111786.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1692.png",
+      "local_image_path": "images/1692.png"
+    }
+  ],
+  "synonyms": [
+    "extract",
+    "take out",
+    "select",
+    "remove",
+    "summarize",
+    "condense",
+    "shorten",
+    "precis",
+    "abridge"
+  ],
+  "antonyms": [
+    "concrete",
+    "figurative",
+    "expand",
+    "practical"
+  ],
+  "similar_words": [
+    "abstract of record",
+    "abstract of title",
+    "abstracted",
+    "abstractedly",
+    "abstractedness",
+    "abstracter",
+    "abstraction",
+    "abstractionism",
+    "abstractionist",
+    "abstractive",
+    "abstractly",
+    "abstractness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abstract.mp3",
+  "local_sound_path": "sounds/abstract.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "demur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I suggested putting the matter to a vote, but the chairman demured",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20477.png",
+      "local_image_path": "images/20477.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118022.png",
+      "local_image_path": "images/118022.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118023.png",
+      "local_image_path": "images/118023.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118024.png",
+      "local_image_path": "images/118024.png"
+    }
+  ],
+  "synonyms": [
+    "object",
+    "protest",
+    "balk",
+    "doubt",
+    "baulk",
+    "jib"
+  ],
+  "antonyms": [
+    "agree"
+  ],
+  "similar_words": [
+    "demure",
+    "demurely",
+    "demureness",
+    "demurrable",
+    "demurrage",
+    "demurral",
+    "demurrer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demur.mp3",
+  "local_sound_path": "sounds/demur.mp3"
+}

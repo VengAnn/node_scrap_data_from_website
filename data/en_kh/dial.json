@@ -1,0 +1,56 @@
+{
+  "word": "dial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "watch dial",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21168.png",
+      "local_image_path": "images/21168.png"
+    },
+    {
+      "pos": "n",
+      "example": "radio dial",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21169.png",
+      "local_image_path": "images/21169.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dial a telephone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21170.png",
+      "local_image_path": "images/21170.png"
+    }
+  ],
+  "synonyms": [
+    "knob",
+    "handle",
+    "control",
+    "call",
+    "telephone",
+    "phone",
+    "ring"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dialect",
+    "dialectal",
+    "dialectic",
+    "dialectical",
+    "dialectically",
+    "dialectician",
+    "dialectological",
+    "dialectologically",
+    "dialectologist",
+    "dialectology",
+    "dialog",
+    "dialogic",
+    "dialogical",
+    "dialogist",
+    "dialogistic",
+    "dialogistical",
+    "dialogue"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dial.mp3",
+  "local_sound_path": "sounds/dial.mp3"
+}

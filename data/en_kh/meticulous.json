@@ -1,0 +1,43 @@
+{
+  "word": "meticulous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She is meticulous in her presentation of facts.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108347.png",
+      "local_image_path": "images/108347.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123965.png",
+      "local_image_path": "images/123965.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123966.png",
+      "local_image_path": "images/123966.png"
+    }
+  ],
+  "synonyms": [
+    "detailed",
+    "accurate",
+    "pedantic",
+    "punctilious",
+    "fastidious",
+    "exact",
+    "precise"
+  ],
+  "antonyms": [
+    "careless"
+  ],
+  "similar_words": [
+    "meticulously",
+    "meticulousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meticulous.mp3",
+  "local_sound_path": "sounds/meticulous.mp3"
+}

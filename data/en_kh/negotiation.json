@@ -1,0 +1,32 @@
+{
+  "word": "negotiation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "A settlement was reached after lengthy negotiation.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55347.png",
+      "local_image_path": "images/55347.png"
+    }
+  ],
+  "synonyms": [
+    "cooperation",
+    "compromise",
+    "concession",
+    "conciliation",
+    "intercession",
+    "intervention",
+    "arbitration",
+    "mediation",
+    "discussion",
+    "diplomacy"
+  ],
+  "antonyms": [
+    "confrontation",
+    "provocation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/negotiation.mp3",
+  "local_sound_path": "sounds/negotiation.mp3"
+}

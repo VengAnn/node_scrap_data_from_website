@@ -1,0 +1,42 @@
+{
+  "word": "jab",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42555.png",
+      "local_image_path": "images/42555.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He jabbed his eldow into my side.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42554.png",
+      "local_image_path": "images/42554.png"
+    }
+  ],
+  "synonyms": [
+    "prod",
+    "poke",
+    "stab",
+    "punch",
+    "dig",
+    "thrust",
+    "nudge",
+    "tap",
+    "bump"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jabber",
+    "jabbering",
+    "jabberingly",
+    "jabberwocky",
+    "jabble",
+    "jabot",
+    "jabut"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jab.mp3",
+  "local_sound_path": "sounds/jab.mp3"
+}

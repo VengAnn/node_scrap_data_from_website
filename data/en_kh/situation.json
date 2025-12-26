@@ -1,0 +1,55 @@
+{
+  "word": "situation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "situation of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80578.png",
+      "local_image_path": "images/80578.png"
+    },
+    {
+      "pos": "n",
+      "example": "find him a situation in the company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80579.png",
+      "local_image_path": "images/80579.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80580.png",
+      "local_image_path": "images/80580.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127920.png",
+      "local_image_path": "images/127920.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127921.png",
+      "local_image_path": "images/127921.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127922.png",
+      "local_image_path": "images/127922.png"
+    }
+  ],
+  "synonyms": [
+    "job",
+    "post",
+    "position"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "situation comedy",
+    "situational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/situation.mp3",
+  "local_sound_path": "sounds/situation.mp3"
+}

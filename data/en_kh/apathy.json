@@ -1,0 +1,45 @@
+{
+  "word": "apathy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The apathy of the people towards the war worries the government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4875.png",
+      "local_image_path": "images/4875.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112571.png",
+      "local_image_path": "images/112571.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112572.png",
+      "local_image_path": "images/112572.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112573.png",
+      "local_image_path": "images/112573.png"
+    }
+  ],
+  "synonyms": [
+    "indifference",
+    "lethargy",
+    "laziness",
+    "boredom",
+    "ennui",
+    "unconcern"
+  ],
+  "antonyms": [
+    "interest"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apathy.mp3",
+  "local_sound_path": "sounds/apathy.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "cram",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18368.png",
+      "local_image_path": "images/18368.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18367.png",
+      "local_image_path": "images/18367.png"
+    }
+  ],
+  "synonyms": [
+    "study",
+    "revise",
+    "mug up",
+    "review",
+    "memorize",
+    "peruse",
+    "learn"
+  ],
+  "antonyms": [
+    "remove",
+    "forget"
+  ],
+  "similar_words": [
+    "cram full",
+    "crammer",
+    "cramp"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cram.mp3",
+  "local_sound_path": "sounds/cram.mp3"
+}

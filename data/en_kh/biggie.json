@@ -1,0 +1,32 @@
+{
+  "word": "biggie",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8822.png",
+      "local_image_path": "images/8822.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115060.png",
+      "local_image_path": "images/115060.png"
+    }
+  ],
+  "synonyms": [
+    "bigwig",
+    "star",
+    "celebrity",
+    "big shot",
+    "big wheel"
+  ],
+  "antonyms": [
+    "nobody"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/biggie.mp3",
+  "local_sound_path": "sounds/biggie.mp3"
+}

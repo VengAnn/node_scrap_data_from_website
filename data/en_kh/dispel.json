@@ -1,0 +1,32 @@
+{
+  "word": "dispel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "dispel clouds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22039.png",
+      "local_image_path": "images/22039.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dispel fear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22040.png",
+      "local_image_path": "images/22040.png"
+    }
+  ],
+  "synonyms": [
+    "dismiss",
+    "disperse",
+    "scatter",
+    "dissipate",
+    "oust"
+  ],
+  "antonyms": [
+    "attract"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dispel.mp3",
+  "local_sound_path": "sounds/dispel.mp3"
+}

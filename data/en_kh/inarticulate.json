@@ -1,0 +1,38 @@
+{
+  "word": "inarticulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "inarticulate speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38170.png",
+      "local_image_path": "images/38170.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38171.png",
+      "local_image_path": "images/38171.png"
+    }
+  ],
+  "synonyms": [
+    "incoherent",
+    "unintelligible",
+    "incomprehensible",
+    "inaudible",
+    "indistinct",
+    "unclear"
+  ],
+  "antonyms": [
+    "eloquent",
+    "clear"
+  ],
+  "similar_words": [
+    "inarticulated",
+    "inarticulately",
+    "inarticulateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inarticulate.mp3",
+  "local_sound_path": "sounds/inarticulate.mp3"
+}

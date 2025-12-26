@@ -1,0 +1,35 @@
+{
+  "word": "lessen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45958.png",
+      "local_image_path": "images/45958.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45957.png",
+      "local_image_path": "images/45957.png"
+    }
+  ],
+  "synonyms": [
+    "diminish",
+    "reduce",
+    "decrease",
+    "lower",
+    "minimize",
+    "cut",
+    "decline",
+    "slacken"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lessen.mp3",
+  "local_sound_path": "sounds/lessen.mp3"
+}

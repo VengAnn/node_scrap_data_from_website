@@ -1,0 +1,36 @@
+{
+  "word": "smudge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81844.png",
+      "local_image_path": "images/81844.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The child smudged the wet paint on the wall.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81845.png",
+      "local_image_path": "images/81845.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Ink smudges if you use bad blotting papers.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81846.png",
+      "local_image_path": "images/81846.png"
+    }
+  ],
+  "synonyms": [
+    "smear",
+    "blur",
+    "distort",
+    "blot",
+    "smirch"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/smudge.mp3",
+  "local_sound_path": "sounds/smudge.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "barracks",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7562.png",
+      "local_image_path": "images/7562.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7561.png",
+      "local_image_path": "images/7561.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7563.png",
+      "local_image_path": "images/7563.png"
+    }
+  ],
+  "synonyms": [
+    "garrison",
+    "camp",
+    "billet",
+    "base",
+    "station"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barracks.mp3",
+  "local_sound_path": "sounds/barracks.mp3"
+}

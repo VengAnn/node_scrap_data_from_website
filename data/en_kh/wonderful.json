@@ -1,0 +1,44 @@
+{
+  "word": "wonderful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wonderful sight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100755.png",
+      "local_image_path": "images/100755.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wonderful vecation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100756.png",
+      "local_image_path": "images/100756.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wonderful man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100757.png",
+      "local_image_path": "images/100757.png"
+    }
+  ],
+  "synonyms": [
+    "magnificent",
+    "superb",
+    "breathtaking",
+    "amazing",
+    "astonishing",
+    "fantastic",
+    "brilliant",
+    "great"
+  ],
+  "antonyms": [
+    "awful"
+  ],
+  "similar_words": [
+    "wonderfully",
+    "wonderfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wonderful.mp3",
+  "local_sound_path": "sounds/wonderful.mp3"
+}

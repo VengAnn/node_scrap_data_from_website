@@ -1,0 +1,41 @@
+{
+  "word": "cagey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12321.png",
+      "local_image_path": "images/12321.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115815.png",
+      "local_image_path": "images/115815.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115816.png",
+      "local_image_path": "images/115816.png"
+    }
+  ],
+  "synonyms": [
+    "wary",
+    "guarded",
+    "cautious",
+    "careful",
+    "reticent",
+    "evasive",
+    "secretive"
+  ],
+  "antonyms": [
+    "careless",
+    "reckless"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cagey.mp3",
+  "local_sound_path": "sounds/cagey.mp3"
+}

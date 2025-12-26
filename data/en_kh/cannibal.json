@@ -1,0 +1,40 @@
+{
+  "word": "cannibal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "human cannibal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12668.png",
+      "local_image_path": "images/12668.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115918.png",
+      "local_image_path": "images/115918.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115919.png",
+      "local_image_path": "images/115919.png"
+    }
+  ],
+  "synonyms": [
+    "anthropophagus",
+    "man-eater"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cannibalisation",
+    "cannibalise",
+    "cannibalism",
+    "cannibalistic",
+    "cannibalization",
+    "cannibalize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cannibal.mp3",
+  "local_sound_path": "sounds/cannibal.mp3"
+}

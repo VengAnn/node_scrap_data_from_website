@@ -1,0 +1,57 @@
+{
+  "word": "pastoral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60528.png",
+      "local_image_path": "images/60528.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pastoral farming",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60529.png",
+      "local_image_path": "images/60529.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60530.png",
+      "local_image_path": "images/60530.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125221.png",
+      "local_image_path": "images/125221.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60531.png",
+      "local_image_path": "images/60531.png"
+    }
+  ],
+  "synonyms": [
+    "rustic",
+    "countrified",
+    "rural",
+    "idyllic",
+    "green",
+    "bucolic",
+    "countryside"
+  ],
+  "antonyms": [
+    "urban"
+  ],
+  "similar_words": [
+    "pastorale",
+    "pastoralism",
+    "pastoralist",
+    "pastorally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pastoral.mp3",
+  "local_sound_path": "sounds/pastoral.mp3"
+}

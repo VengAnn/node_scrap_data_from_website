@@ -1,0 +1,37 @@
+{
+  "word": "knight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44117.png",
+      "local_image_path": "images/44117.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44118.png",
+      "local_image_path": "images/44118.png"
+    }
+  ],
+  "synonyms": [
+    "cavalier",
+    "caballero",
+    "adventurer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "knight commander",
+    "knight errantry",
+    "knighterrant",
+    "knightess",
+    "knighthood",
+    "knightless",
+    "knightlike",
+    "knightly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/knight.mp3",
+  "local_sound_path": "sounds/knight.mp3"
+}

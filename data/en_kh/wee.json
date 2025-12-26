@@ -1,0 +1,63 @@
+{
+  "word": "wee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She's a wee bit jealous",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99611.png",
+      "local_image_path": "images/99611.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99613.png",
+      "local_image_path": "images/99613.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99612.png",
+      "local_image_path": "images/99612.png"
+    }
+  ],
+  "synonyms": [
+    "tiny",
+    "small",
+    "little",
+    "minute",
+    "minuscule",
+    "microscopic",
+    "petite",
+    "diminutive",
+    "miniature"
+  ],
+  "antonyms": [
+    "enormous",
+    "big"
+  ],
+  "similar_words": [
+    "weed",
+    "weedkiller",
+    "weeds",
+    "weedy",
+    "week",
+    "week-long",
+    "week-old",
+    "weekday",
+    "weekend",
+    "weekend trip",
+    "weekender",
+    "weekly",
+    "weel",
+    "weem",
+    "ween",
+    "weeny",
+    "weep",
+    "weeper",
+    "weeping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wee.mp3",
+  "local_sound_path": "sounds/wee.mp3"
+}

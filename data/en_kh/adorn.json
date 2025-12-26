@@ -1,0 +1,51 @@
+{
+  "word": "adorn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2508.png",
+      "local_image_path": "images/2508.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113316.png",
+      "local_image_path": "images/113316.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113317.png",
+      "local_image_path": "images/113317.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113318.png",
+      "local_image_path": "images/113318.png"
+    }
+  ],
+  "synonyms": [
+    "decorate",
+    "embellish",
+    "ornament",
+    "beautify",
+    "prettify",
+    "gild",
+    "titivate",
+    "garnish",
+    "enhance"
+  ],
+  "antonyms": [
+    "strip"
+  ],
+  "similar_words": [
+    "adorner",
+    "adornment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adorn.mp3",
+  "local_sound_path": "sounds/adorn.mp3"
+}

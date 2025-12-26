@@ -1,0 +1,70 @@
+{
+  "word": "cat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13252.png",
+      "local_image_path": "images/13252.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13253.png",
+      "local_image_path": "images/13253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116036.png",
+      "local_image_path": "images/116036.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116037.png",
+      "local_image_path": "images/116037.png"
+    }
+  ],
+  "synonyms": [
+    "man",
+    "guy",
+    "dude",
+    "fellow",
+    "boy",
+    "kid"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cat scratch disease",
+    "cat's eye",
+    "cat's paw",
+    "cat's tail",
+    "cata",
+    "catabolic",
+    "catabolically",
+    "catabolism",
+    "catabolite",
+    "catabolize",
+    "catachresis",
+    "catachrestic",
+    "catachrestical",
+    "catachrestically",
+    "cataclysm",
+    "cataclysmic",
+    "catacombs",
+    "catadromous",
+    "catafalque",
+    "catalectic",
+    "catalepsy",
+    "cataleptic",
+    "catalog",
+    "cataloger",
+    "catalogue",
+    "catalogued"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cat.mp3",
+  "local_sound_path": "sounds/cat.mp3"
+}

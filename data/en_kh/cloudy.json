@@ -1,0 +1,52 @@
+{
+  "word": "cloudy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cloudy weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15167.png",
+      "local_image_path": "images/15167.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116524.png",
+      "local_image_path": "images/116524.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116525.png",
+      "local_image_path": "images/116525.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116526.png",
+      "local_image_path": "images/116526.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116527.png",
+      "local_image_path": "images/116527.png"
+    }
+  ],
+  "synonyms": [
+    "murky",
+    "muddy",
+    "opaque",
+    "milky",
+    "unstrained"
+  ],
+  "antonyms": [
+    "bright",
+    "clear",
+    "transparent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloudy.mp3",
+  "local_sound_path": "sounds/cloudy.mp3"
+}

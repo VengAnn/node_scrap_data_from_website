@@ -1,0 +1,51 @@
+{
+  "word": "realistic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "realistic philosophy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70516.png",
+      "local_image_path": "images/70516.png"
+    },
+    {
+      "pos": "adj",
+      "example": "realistic plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70517.png",
+      "local_image_path": "images/70517.png"
+    },
+    {
+      "pos": "adj",
+      "example": "realistic portrayal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70518.png",
+      "local_image_path": "images/70518.png"
+    }
+  ],
+  "synonyms": [
+    "truthful",
+    "accurate",
+    "faithful",
+    "genuine",
+    "true",
+    "lifelike",
+    "convincing",
+    "credible",
+    "sensible",
+    "practical",
+    "pragmatic",
+    "down-to-earth",
+    "reasonable",
+    "rational",
+    "matter-of-fact"
+  ],
+  "antonyms": [
+    "unrealistic",
+    "inaccurate",
+    "unnatural",
+    "impractical"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/realistic.mp3",
+  "local_sound_path": "sounds/realistic.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "captivity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he was held in captivity for three years",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12873.png",
+      "local_image_path": "images/12873.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115977.png",
+      "local_image_path": "images/115977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115978.png",
+      "local_image_path": "images/115978.png"
+    }
+  ],
+  "synonyms": [
+    "imprisonment",
+    "custody",
+    "detention",
+    "incarceration",
+    "confinement",
+    "internment"
+  ],
+  "antonyms": [
+    "freedom"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/captivity.mp3",
+  "local_sound_path": "sounds/captivity.mp3"
+}

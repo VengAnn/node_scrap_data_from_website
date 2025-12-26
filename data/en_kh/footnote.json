@@ -1,0 +1,31 @@
+{
+  "word": "footnote",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29595.png",
+      "local_image_path": "images/29595.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120309.png",
+      "local_image_path": "images/120309.png"
+    }
+  ],
+  "synonyms": [
+    "annotation",
+    "cross-reference",
+    "appendix",
+    "addendum",
+    "postscript",
+    "note"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/footnote.mp3",
+  "local_sound_path": "sounds/footnote.mp3"
+}

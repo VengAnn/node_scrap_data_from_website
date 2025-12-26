@@ -1,0 +1,32 @@
+{
+  "word": "disfavour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21843.png",
+      "local_image_path": "images/21843.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118470.png",
+      "local_image_path": "images/118470.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21845.png",
+      "local_image_path": "images/21845.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "disfavourable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disfavour.mp3",
+  "local_sound_path": "sounds/disfavour.mp3"
+}

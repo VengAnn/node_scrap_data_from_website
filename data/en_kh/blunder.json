@@ -1,0 +1,44 @@
+{
+  "word": "blunder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9833.png",
+      "local_image_path": "images/9833.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115305.png",
+      "local_image_path": "images/115305.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115306.png",
+      "local_image_path": "images/115306.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9832.png",
+      "local_image_path": "images/9832.png"
+    }
+  ],
+  "synonyms": [
+    "err",
+    "goof"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blunderbuss",
+    "blunderer",
+    "blunderhead",
+    "blunderingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blunder.mp3",
+  "local_sound_path": "sounds/blunder.mp3"
+}

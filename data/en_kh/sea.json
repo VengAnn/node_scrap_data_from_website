@@ -1,0 +1,61 @@
+{
+  "word": "sea",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sea food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77390.png",
+      "local_image_path": "images/77390.png"
+    },
+    {
+      "pos": "n",
+      "example": "life under the sea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77389.png",
+      "local_image_path": "images/77389.png"
+    }
+  ],
+  "synonyms": [
+    "marine",
+    "maritime",
+    "aquatic",
+    "ocean",
+    "deep",
+    "briny"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sea air",
+    "sea base",
+    "sea bass",
+    "sea beast",
+    "sea-bank",
+    "sea-bird",
+    "sea-boat",
+    "sea-born",
+    "sea-borne",
+    "sea-breeze",
+    "sea-damaged",
+    "sea-faring",
+    "sea-fight",
+    "sea-front",
+    "sea-god",
+    "sea-horse",
+    "sea-king",
+    "sea-letter",
+    "sea-level",
+    "sea-line",
+    "sea-lion",
+    "sea-monster",
+    "sea-nettle",
+    "sea-nymph",
+    "sea-otter",
+    "sea-piece",
+    "sea-power",
+    "sea-quake",
+    "sea-risk"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sea.mp3",
+  "local_sound_path": "sounds/sea.mp3"
+}

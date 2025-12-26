@@ -1,0 +1,54 @@
+{
+  "word": "devil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "supernatural devil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21093.png",
+      "local_image_path": "images/21093.png"
+    },
+    {
+      "pos": "n",
+      "example": "printer's devil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21094.png",
+      "local_image_path": "images/21094.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21095.png",
+      "local_image_path": "images/21095.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118221.png",
+      "local_image_path": "images/118221.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118222.png",
+      "local_image_path": "images/118222.png"
+    }
+  ],
+  "synonyms": [
+    "fiend",
+    "imp",
+    "sprite"
+  ],
+  "antonyms": [
+    "angel"
+  ],
+  "similar_words": [
+    "devil's cotton",
+    "devilish",
+    "devilishly",
+    "devilishness",
+    "deviltry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devil.mp3",
+  "local_sound_path": "sounds/devil.mp3"
+}

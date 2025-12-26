@@ -1,0 +1,30 @@
+{
+  "word": "visor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98282.png",
+      "local_image_path": "images/98282.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98283.png",
+      "local_image_path": "images/98283.png"
+    }
+  ],
+  "synonyms": [
+    "screen",
+    "blind",
+    "shade",
+    "bill",
+    "peak"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/visor.mp3",
+  "local_sound_path": "sounds/visor.mp3"
+}

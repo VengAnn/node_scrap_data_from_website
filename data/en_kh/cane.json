@@ -1,0 +1,44 @@
+{
+  "word": "cane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "cane basket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12642.png",
+      "local_image_path": "images/12642.png"
+    },
+    {
+      "pos": "n",
+      "example": "many teachers wish to abolish the cane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12640.png",
+      "local_image_path": "images/12640.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the headmaster caned the boys for disobedience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12641.png",
+      "local_image_path": "images/12641.png"
+    }
+  ],
+  "synonyms": [
+    "beat",
+    "thrash",
+    "strike",
+    "hit",
+    "punish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cane work",
+    "canebrake",
+    "canel",
+    "canescence",
+    "canescent",
+    "canette",
+    "caneva"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cane.mp3",
+  "local_sound_path": "sounds/cane.mp3"
+}

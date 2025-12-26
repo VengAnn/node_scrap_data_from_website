@@ -1,0 +1,53 @@
+{
+  "word": "speak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I can speak well.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83127.png",
+      "local_image_path": "images/83127.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Actions speak louder than words.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83128.png",
+      "local_image_path": "images/83128.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Is English spoke here?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83129.png",
+      "local_image_path": "images/83129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I can speak English very well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83130.png",
+      "local_image_path": "images/83130.png"
+    }
+  ],
+  "synonyms": [
+    "talk",
+    "converse",
+    "tell",
+    "chat",
+    "verbalize",
+    "articulate",
+    "natter",
+    "chatter",
+    "yak",
+    "shut up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "speakable",
+    "speaker",
+    "speakership",
+    "speaking",
+    "speaking acquaintance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/speak.mp3",
+  "local_sound_path": "sounds/speak.mp3"
+}

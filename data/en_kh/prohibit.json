@@ -1,0 +1,45 @@
+{
+  "word": "prohibit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67508.png",
+      "local_image_path": "images/67508.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Smoking is strictly prohibited.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67507.png",
+      "local_image_path": "images/67507.png"
+    }
+  ],
+  "synonyms": [
+    "forbid",
+    "ban",
+    "bar",
+    "exclude",
+    "proscribe",
+    "disallow",
+    "veto",
+    "outlaw",
+    "interdict"
+  ],
+  "antonyms": [
+    "permit"
+  ],
+  "similar_words": [
+    "prohibiter",
+    "prohibition",
+    "prohibitionism",
+    "prohibitionist",
+    "prohibitive",
+    "prohibitively",
+    "prohibitiveness",
+    "prohibitory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prohibit.mp3",
+  "local_sound_path": "sounds/prohibit.mp3"
+}

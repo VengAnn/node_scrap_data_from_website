@@ -1,0 +1,39 @@
+{
+  "word": "generation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31390.png",
+      "local_image_path": "images/31390.png"
+    },
+    {
+      "pos": "n",
+      "example": "generation of electricity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31391.png",
+      "local_image_path": "images/31391.png"
+    },
+    {
+      "pos": "n",
+      "example": "the younger generation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31392.png",
+      "local_image_path": "images/31392.png"
+    }
+  ],
+  "synonyms": [
+    "production",
+    "making",
+    "creation",
+    "invention",
+    "initiation",
+    "origination"
+  ],
+  "antonyms": [
+    "prevention"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/generation.mp3",
+  "local_sound_path": "sounds/generation.mp3"
+}

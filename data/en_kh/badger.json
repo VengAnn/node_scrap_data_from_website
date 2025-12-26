@@ -1,0 +1,55 @@
+{
+  "word": "badger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7046.png",
+      "local_image_path": "images/7046.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please don't badger me when I am learning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7047.png",
+      "local_image_path": "images/7047.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114434.png",
+      "local_image_path": "images/114434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114435.png",
+      "local_image_path": "images/114435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114436.png",
+      "local_image_path": "images/114436.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114437.png",
+      "local_image_path": "images/114437.png"
+    }
+  ],
+  "synonyms": [
+    "pester",
+    "press",
+    "hassle",
+    "harass",
+    "plague",
+    "harry"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/badger.mp3",
+  "local_sound_path": "sounds/badger.mp3"
+}

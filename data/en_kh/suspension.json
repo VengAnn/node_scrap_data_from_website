@@ -1,0 +1,52 @@
+{
+  "word": "suspension",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86679.png",
+      "local_image_path": "images/86679.png"
+    },
+    {
+      "pos": "n",
+      "example": "suspension of a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86680.png",
+      "local_image_path": "images/86680.png"
+    },
+    {
+      "pos": "n",
+      "example": "suspension of work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86681.png",
+      "local_image_path": "images/86681.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86682.png",
+      "local_image_path": "images/86682.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86683.png",
+      "local_image_path": "images/86683.png"
+    }
+  ],
+  "synonyms": [
+    "postponement",
+    "deferment",
+    "delay",
+    "interruption",
+    "holdup",
+    "check",
+    "pause"
+  ],
+  "antonyms": [
+    "resumption"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suspension.mp3",
+  "local_sound_path": "sounds/suspension.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "riotous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "riotous prisoners",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73739.png",
+      "local_image_path": "images/73739.png"
+    },
+    {
+      "pos": "adj",
+      "example": "riotous laughter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73740.png",
+      "local_image_path": "images/73740.png"
+    }
+  ],
+  "synonyms": [
+    "wild",
+    "debauched",
+    "uncontrolled",
+    "hedonistic",
+    "intemperate",
+    "immoderate",
+    "rowdy",
+    "rambunctious"
+  ],
+  "antonyms": [
+    "peaceful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/riotous.mp3",
+  "local_sound_path": "sounds/riotous.mp3"
+}

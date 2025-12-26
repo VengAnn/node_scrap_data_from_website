@@ -1,0 +1,61 @@
+{
+  "word": "belt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "leather belt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8226.png",
+      "local_image_path": "images/8226.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8227.png",
+      "local_image_path": "images/8227.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114890.png",
+      "local_image_path": "images/114890.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114891.png",
+      "local_image_path": "images/114891.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114892.png",
+      "local_image_path": "images/114892.png"
+    }
+  ],
+  "synonyms": [
+    "hit",
+    "thump",
+    "thrash",
+    "beat",
+    "strike",
+    "smash",
+    "smack",
+    "punch"
+  ],
+  "antonyms": [
+    "dawdle",
+    "undo"
+  ],
+  "similar_words": [
+    "belt highway",
+    "belt line",
+    "belt tightening",
+    "belted",
+    "belting",
+    "beltway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/belt.mp3",
+  "local_sound_path": "sounds/belt.mp3"
+}

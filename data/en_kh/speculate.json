@@ -1,0 +1,41 @@
+{
+  "word": "speculate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "speculate about the future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83206.png",
+      "local_image_path": "images/83206.png"
+    },
+    {
+      "pos": "iv",
+      "example": "speculate in gold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83207.png",
+      "local_image_path": "images/83207.png"
+    }
+  ],
+  "synonyms": [
+    "wonder",
+    "guess",
+    "conjecture",
+    "think",
+    "consider",
+    "contemplate",
+    "hypothesize",
+    "cogitate",
+    "reason",
+    "suppose",
+    "surmise",
+    "ponder",
+    "deliberate"
+  ],
+  "antonyms": [
+    "know",
+    "decide"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/speculate.mp3",
+  "local_sound_path": "sounds/speculate.mp3"
+}

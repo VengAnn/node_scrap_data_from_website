@@ -1,0 +1,45 @@
+{
+  "word": "ally",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3469.png",
+      "local_image_path": "images/3469.png"
+    },
+    {
+      "pos": "n",
+      "example": "to be allied to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3566.png",
+      "local_image_path": "images/3566.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3565.png",
+      "local_image_path": "images/3565.png"
+    }
+  ],
+  "synonyms": [
+    "friend",
+    "helper",
+    "supporter",
+    "assistant",
+    "partner",
+    "collaborator",
+    "associate",
+    "join",
+    "affiliate",
+    "align",
+    "connect",
+    "link"
+  ],
+  "antonyms": [
+    "enemy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ally.mp3",
+  "local_sound_path": "sounds/ally.mp3"
+}

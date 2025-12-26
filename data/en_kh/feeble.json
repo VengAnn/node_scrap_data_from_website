@@ -1,0 +1,41 @@
+{
+  "word": "feeble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "feeble patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28001.png",
+      "local_image_path": "images/28001.png"
+    },
+    {
+      "pos": "adj",
+      "example": "feeble mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28002.png",
+      "local_image_path": "images/28002.png"
+    }
+  ],
+  "synonyms": [
+    "pathetic",
+    "ineffective",
+    "ineffectual",
+    "poor",
+    "unconvincing",
+    "weak"
+  ],
+  "antonyms": [
+    "strong",
+    "effective",
+    "robust",
+    "convincing"
+  ],
+  "similar_words": [
+    "feebleminded",
+    "feeblemindedly",
+    "feeblemindedness",
+    "feebleness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/feeble.mp3",
+  "local_sound_path": "sounds/feeble.mp3"
+}

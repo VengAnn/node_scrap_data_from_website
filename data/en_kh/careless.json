@@ -1,0 +1,55 @@
+{
+  "word": "careless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "careless worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12984.png",
+      "local_image_path": "images/12984.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115998.png",
+      "local_image_path": "images/115998.png"
+    }
+  ],
+  "synonyms": [
+    "reckless",
+    "negligent",
+    "uncaring",
+    "thoughtless",
+    "inconsiderate",
+    "rash",
+    "heedless",
+    "inaccurate",
+    "irresponsible",
+    "offhand",
+    "slapdash",
+    "neglectful",
+    "slipshod",
+    "sloppy",
+    "casual",
+    "haphazard",
+    "lax",
+    "happy-go-lucky",
+    "hasty",
+    "lackadaisical"
+  ],
+  "antonyms": [
+    "careful",
+    "prudent",
+    "caring",
+    "alert",
+    "cautious",
+    "considerate"
+  ],
+  "similar_words": [
+    "carelessly",
+    "carelessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/careless.mp3",
+  "local_sound_path": "sounds/careless.mp3"
+}

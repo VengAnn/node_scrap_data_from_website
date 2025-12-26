@@ -1,0 +1,41 @@
+{
+  "word": "medicine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107225.png",
+      "local_image_path": "images/107225.png"
+    },
+    {
+      "pos": "n",
+      "example": "I study medicine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107226.png",
+      "local_image_path": "images/107226.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107227.png",
+      "local_image_path": "images/107227.png"
+    }
+  ],
+  "synonyms": [
+    "drug",
+    "medication",
+    "remedy",
+    "linctus",
+    "treatment",
+    "prescription",
+    "dose"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "medicineman",
+    "mediciner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/medicine.mp3",
+  "local_sound_path": "sounds/medicine.mp3"
+}

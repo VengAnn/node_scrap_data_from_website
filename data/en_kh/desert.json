@@ -1,0 +1,45 @@
+{
+  "word": "desert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20824.png",
+      "local_image_path": "images/20824.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20822.png",
+      "local_image_path": "images/20822.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The heartless man deserted his wife.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20823.png",
+      "local_image_path": "images/20823.png"
+    }
+  ],
+  "synonyms": [
+    "abandon",
+    "leave",
+    "forsake",
+    "discard",
+    "abscond",
+    "scarper"
+  ],
+  "antonyms": [
+    "stay",
+    "support"
+  ],
+  "similar_words": [
+    "deserted",
+    "deserter",
+    "desertion",
+    "deserts"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desert.mp3",
+  "local_sound_path": "sounds/desert.mp3"
+}

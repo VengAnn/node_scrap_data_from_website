@@ -1,0 +1,41 @@
+{
+  "word": "painful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "painful wound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59304.png",
+      "local_image_path": "images/59304.png"
+    },
+    {
+      "pos": "n",
+      "example": "painful decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59305.png",
+      "local_image_path": "images/59305.png"
+    }
+  ],
+  "synonyms": [
+    "awful",
+    "excruciating",
+    "dire",
+    "dreadful",
+    "terrible",
+    "agonizing",
+    "embarrassing"
+  ],
+  "antonyms": [
+    "painless",
+    "happy",
+    "pleasant",
+    "easy",
+    "wonderful"
+  ],
+  "similar_words": [
+    "painfully",
+    "painfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/painful.mp3",
+  "local_sound_path": "sounds/painful.mp3"
+}

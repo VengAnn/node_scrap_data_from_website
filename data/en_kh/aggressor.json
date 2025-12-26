@@ -1,0 +1,28 @@
+{
+  "word": "aggressor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2941.png",
+      "local_image_path": "images/2941.png"
+    }
+  ],
+  "synonyms": [
+    "attacker",
+    "invader",
+    "assailant",
+    "provoker",
+    "antagonist",
+    "belligerent",
+    "fighter"
+  ],
+  "antonyms": [
+    "defender"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aggressor.mp3",
+  "local_sound_path": "sounds/aggressor.mp3"
+}

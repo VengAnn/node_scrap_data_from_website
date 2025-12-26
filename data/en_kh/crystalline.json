@@ -1,0 +1,31 @@
+{
+  "word": "crystalline",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18942.png",
+      "local_image_path": "images/18942.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131028.png",
+      "local_image_path": "images/131028.png"
+    }
+  ],
+  "synonyms": [
+    "clear",
+    "transparent",
+    "limpid",
+    "translucent"
+  ],
+  "antonyms": [
+    "opaque"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crystalline.mp3",
+  "local_sound_path": "sounds/crystalline.mp3"
+}

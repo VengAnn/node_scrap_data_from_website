@@ -1,0 +1,29 @@
+{
+  "word": "consumer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17155.png",
+      "local_image_path": "images/17155.png"
+    }
+  ],
+  "synonyms": [
+    "customer",
+    "shopper",
+    "buyer",
+    "user",
+    "purchaser",
+    "punter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "consumer resistance",
+    "consumerism",
+    "consumerist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consumer.mp3",
+  "local_sound_path": "sounds/consumer.mp3"
+}

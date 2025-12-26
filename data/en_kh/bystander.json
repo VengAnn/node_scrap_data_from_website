@@ -1,0 +1,32 @@
+{
+  "word": "bystander",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12155.png",
+      "local_image_path": "images/12155.png"
+    },
+    {
+      "pos": "n",
+      "example": "the police interviewed several bystanders after the accident",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12156.png",
+      "local_image_path": "images/12156.png"
+    }
+  ],
+  "synonyms": [
+    "onlooker",
+    "witness",
+    "eyewitness",
+    "spectator",
+    "looker-on"
+  ],
+  "antonyms": [
+    "participant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bystander.mp3",
+  "local_sound_path": "sounds/bystander.mp3"
+}

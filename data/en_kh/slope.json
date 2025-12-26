@@ -1,0 +1,39 @@
+{
+  "word": "slope",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81373.png",
+      "local_image_path": "images/81373.png"
+    },
+    {
+      "pos": "n",
+      "example": "The slope of the roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81375.png",
+      "local_image_path": "images/81375.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81374.png",
+      "local_image_path": "images/81374.png"
+    }
+  ],
+  "synonyms": [
+    "incline",
+    "slant",
+    "tilt",
+    "lean",
+    "rise",
+    "fall",
+    "drop",
+    "angle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slope.mp3",
+  "local_sound_path": "sounds/slope.mp3"
+}

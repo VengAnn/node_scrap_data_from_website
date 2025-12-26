@@ -1,0 +1,90 @@
+{
+  "word": "high",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "high building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35094.png",
+      "local_image_path": "images/35094.png"
+    },
+    {
+      "pos": "adj",
+      "example": "high hopes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35095.png",
+      "local_image_path": "images/35095.png"
+    },
+    {
+      "pos": "adj",
+      "example": "high speed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35096.png",
+      "local_image_path": "images/35096.png"
+    },
+    {
+      "pos": "adv",
+      "example": "fly high",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35097.png",
+      "local_image_path": "images/35097.png"
+    },
+    {
+      "pos": "adv",
+      "example": "high and low",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35098.png",
+      "local_image_path": "images/35098.png"
+    },
+    {
+      "pos": "n",
+      "example": "get a high",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35099.png",
+      "local_image_path": "images/35099.png"
+    },
+    {
+      "pos": "n",
+      "example": "in high",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35100.png",
+      "local_image_path": "images/35100.png"
+    }
+  ],
+  "synonyms": [
+    "anticyclone"
+  ],
+  "antonyms": [
+    "low",
+    "depression",
+    "normal"
+  ],
+  "similar_words": [
+    "high blood pressure",
+    "high chair",
+    "high court",
+    "high explosive",
+    "high fashion",
+    "high frequency",
+    "high gear",
+    "high jinks",
+    "high jump",
+    "high lander",
+    "high learning",
+    "high most",
+    "high muckamuck",
+    "high noon",
+    "high pitched",
+    "high place",
+    "high pressure",
+    "high priest",
+    "high priestess",
+    "high priestly",
+    "high reaching",
+    "high road",
+    "high roller",
+    "high rolling",
+    "high runner",
+    "high school",
+    "high seas",
+    "high sounding",
+    "high street"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/high.mp3",
+  "local_sound_path": "sounds/high.mp3"
+}

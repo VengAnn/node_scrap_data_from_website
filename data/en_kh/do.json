@@ -1,0 +1,51 @@
+{
+  "word": "do",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "aux",
+      "example": "Do you understand?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22509.png",
+      "local_image_path": "images/22509.png"
+    },
+    {
+      "pos": "iv",
+      "example": "do rather than think",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22508.png",
+      "local_image_path": "images/22508.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to do work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22507.png",
+      "local_image_path": "images/22507.png"
+    }
+  ],
+  "synonyms": [
+    "solve",
+    "resolve"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "doable",
+    "doatish",
+    "dobbin",
+    "dobby",
+    "doc",
+    "docible",
+    "docile",
+    "docilely",
+    "docility",
+    "dock",
+    "dockage",
+    "docket",
+    "dockyard",
+    "doctor",
+    "doctoral",
+    "doctorate",
+    "doctorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/do.mp3",
+  "local_sound_path": "sounds/do.mp3"
+}

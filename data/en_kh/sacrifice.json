@@ -1,0 +1,66 @@
+{
+  "word": "sacrifice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74972.png",
+      "local_image_path": "images/74972.png"
+    },
+    {
+      "pos": "n",
+      "example": "the sacrifice of an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74965.png",
+      "local_image_path": "images/74965.png"
+    },
+    {
+      "pos": "n",
+      "example": "kill an animal as a sacrifice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74966.png",
+      "local_image_path": "images/74966.png"
+    },
+    {
+      "pos": "n",
+      "example": "make sacrifice to achieve a goal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74967.png",
+      "local_image_path": "images/74967.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sacrifice an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74968.png",
+      "local_image_path": "images/74968.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sacrifice beauty for economy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74969.png",
+      "local_image_path": "images/74969.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74970.png",
+      "local_image_path": "images/74970.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74971.png",
+      "local_image_path": "images/74971.png"
+    }
+  ],
+  "synonyms": [
+    "forgo",
+    "forfeit",
+    "surrender",
+    "forego",
+    "lose"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sacrifice.mp3",
+  "local_sound_path": "sounds/sacrifice.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "doze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22932.png",
+      "local_image_path": "images/22932.png"
+    },
+    {
+      "pos": "n",
+      "example": "I had a quick doze on the train.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22933.png",
+      "local_image_path": "images/22933.png"
+    }
+  ],
+  "synonyms": [
+    "sleep",
+    "slumber",
+    "catnap",
+    "snooze",
+    "nap",
+    "kip"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doze.mp3",
+  "local_sound_path": "sounds/doze.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "difficult",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "This mountain is difficult to climb.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21293.png",
+      "local_image_path": "images/21293.png"
+    },
+    {
+      "pos": "adj",
+      "example": "difficult child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21294.png",
+      "local_image_path": "images/21294.png"
+    }
+  ],
+  "synonyms": [
+    "obstinate",
+    "stubborn",
+    "recalcitrant",
+    "intractable",
+    "fractious",
+    "unmanageable",
+    "awkward"
+  ],
+  "antonyms": [
+    "easy",
+    "simple",
+    "amenable"
+  ],
+  "similar_words": [
+    "difficultly",
+    "difficulty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/difficult.mp3",
+  "local_sound_path": "sounds/difficult.mp3"
+}

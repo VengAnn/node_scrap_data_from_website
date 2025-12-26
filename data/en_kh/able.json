@@ -1,0 +1,41 @@
+{
+  "word": "able",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Mao is old but still able to work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1449.png",
+      "local_image_path": "images/1449.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111851.png",
+      "local_image_path": "images/111851.png"
+    }
+  ],
+  "synonyms": [
+    "capable",
+    "competent",
+    "proficient",
+    "adept",
+    "skilled"
+  ],
+  "antonyms": [
+    "incompetent",
+    "incapable"
+  ],
+  "similar_words": [
+    "able seaman",
+    "able-bodied",
+    "able-bodied seaman",
+    "ablegate",
+    "ableism",
+    "ableist",
+    "ablend"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/able.mp3",
+  "local_sound_path": "sounds/able.mp3"
+}

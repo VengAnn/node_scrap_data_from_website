@@ -1,0 +1,30 @@
+{
+  "word": "bacon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bring home the bacon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7027.png",
+      "local_image_path": "images/7027.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114425.png",
+      "local_image_path": "images/114425.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114426.png",
+      "local_image_path": "images/114426.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bacon.mp3",
+  "local_sound_path": "sounds/bacon.mp3"
+}

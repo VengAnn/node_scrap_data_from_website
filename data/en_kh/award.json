@@ -1,0 +1,40 @@
+{
+  "word": "award",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "research award",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6763.png",
+      "local_image_path": "images/6763.png"
+    },
+    {
+      "pos": "tv",
+      "example": "my son was awarded the first prize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6762.png",
+      "local_image_path": "images/6762.png"
+    }
+  ],
+  "synonyms": [
+    "verdict",
+    "decision",
+    "determination",
+    "judgment",
+    "settlement",
+    "give",
+    "bestow",
+    "present",
+    "grant",
+    "confer",
+    "endow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "awardable",
+    "awardee",
+    "awarder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/award.mp3",
+  "local_sound_path": "sounds/award.mp3"
+}

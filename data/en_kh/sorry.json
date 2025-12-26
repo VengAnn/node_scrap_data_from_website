@@ -1,0 +1,64 @@
+{
+  "word": "sorry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82821.png",
+      "local_image_path": "images/82821.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sorry state of affairs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82822.png",
+      "local_image_path": "images/82822.png"
+    },
+    {
+      "pos": "adj",
+      "example": "be sorry about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82823.png",
+      "local_image_path": "images/82823.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82824.png",
+      "local_image_path": "images/82824.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sorry crop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82825.png",
+      "local_image_path": "images/82825.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I'm very sorry to hear that your mother is dead.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82826.png",
+      "local_image_path": "images/82826.png"
+    },
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82827.png",
+      "local_image_path": "images/82827.png"
+    }
+  ],
+  "synonyms": [
+    "wretched",
+    "miserable",
+    "pitiful",
+    "forlorn",
+    "pathetic",
+    "poor"
+  ],
+  "antonyms": [
+    "glad",
+    "fine"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sorry.mp3",
+  "local_sound_path": "sounds/sorry.mp3"
+}

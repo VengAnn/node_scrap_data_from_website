@@ -1,0 +1,40 @@
+{
+  "word": "weakness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The weakness of a country's defence.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99485.png",
+      "local_image_path": "images/99485.png"
+    },
+    {
+      "pos": "n",
+      "example": "We all have our little weakness.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99486.png",
+      "local_image_path": "images/99486.png"
+    }
+  ],
+  "synonyms": [
+    "faintness",
+    "dimness",
+    "paleness",
+    "fondness",
+    "liking",
+    "taste",
+    "inclination",
+    "penchant",
+    "partiality",
+    "predilection",
+    "appetite"
+  ],
+  "antonyms": [
+    "strength",
+    "dislike",
+    "robustness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weakness.mp3",
+  "local_sound_path": "sounds/weakness.mp3"
+}

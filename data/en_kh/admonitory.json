@@ -1,0 +1,32 @@
+{
+  "word": "admonitory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "admonitory tort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2481.png",
+      "local_image_path": "images/2481.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112049.png",
+      "local_image_path": "images/112049.png"
+    }
+  ],
+  "synonyms": [
+    "warning",
+    "deterrent",
+    "advisory",
+    "instructive",
+    "cautionary"
+  ],
+  "antonyms": [
+    "approving"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/admonitory.mp3",
+  "local_sound_path": "sounds/admonitory.mp3"
+}

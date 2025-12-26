@@ -1,0 +1,33 @@
+{
+  "word": "beseem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8387.png",
+      "local_image_path": "images/8387.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114943.png",
+      "local_image_path": "images/114943.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114944.png",
+      "local_image_path": "images/114944.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "beseeming",
+    "beseemingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beseem.mp3",
+  "local_sound_path": "sounds/beseem.mp3"
+}

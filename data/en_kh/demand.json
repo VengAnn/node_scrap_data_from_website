@@ -1,0 +1,70 @@
+{
+  "word": "demand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20391.png",
+      "local_image_path": "images/20391.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117995.png",
+      "local_image_path": "images/117995.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117996.png",
+      "local_image_path": "images/117996.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117997.png",
+      "local_image_path": "images/117997.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The workers are demanding better pay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20389.png",
+      "local_image_path": "images/20389.png"
+    },
+    {
+      "pos": "tv",
+      "example": "jobs memand skill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20390.png",
+      "local_image_path": "images/20390.png"
+    }
+  ],
+  "synonyms": [
+    "requirement",
+    "need",
+    "stress",
+    "pressure",
+    "exigency",
+    "claim",
+    "ask",
+    "inquire",
+    "enquire",
+    "question",
+    "query",
+    "want",
+    "challenge",
+    "plead"
+  ],
+  "antonyms": [
+    "request",
+    "answer",
+    "response"
+  ],
+  "similar_words": [
+    "demand management",
+    "demanding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demand.mp3",
+  "local_sound_path": "sounds/demand.mp3"
+}

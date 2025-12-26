@@ -1,0 +1,49 @@
+{
+  "word": "allow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "allow the appeal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3527.png",
+      "local_image_path": "images/3527.png"
+    },
+    {
+      "pos": "tv",
+      "example": "allow him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3526.png",
+      "local_image_path": "images/3526.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113557.png",
+      "local_image_path": "images/113557.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113558.png",
+      "local_image_path": "images/113558.png"
+    }
+  ],
+  "synonyms": [
+    "allocate",
+    "allot",
+    "apportion"
+  ],
+  "antonyms": [
+    "forbid",
+    "disallow"
+  ],
+  "similar_words": [
+    "allow for",
+    "allowable",
+    "allowably",
+    "allowance",
+    "allowed time"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allow.mp3",
+  "local_sound_path": "sounds/allow.mp3"
+}

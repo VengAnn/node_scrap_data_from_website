@@ -1,0 +1,49 @@
+{
+  "word": "bleed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bleed profusely",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9497.png",
+      "local_image_path": "images/9497.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9498.png",
+      "local_image_path": "images/9498.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115188.png",
+      "local_image_path": "images/115188.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115189.png",
+      "local_image_path": "images/115189.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115190.png",
+      "local_image_path": "images/115190.png"
+    }
+  ],
+  "synonyms": [
+    "hemorrhage"
+  ],
+  "antonyms": [
+    "conserve"
+  ],
+  "similar_words": [
+    "bleeding",
+    "bleeding edge"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bleed.mp3",
+  "local_sound_path": "sounds/bleed.mp3"
+}

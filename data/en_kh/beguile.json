@@ -1,0 +1,38 @@
+{
+  "word": "beguile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8097.png",
+      "local_image_path": "images/8097.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131035.png",
+      "local_image_path": "images/131035.png"
+    }
+  ],
+  "synonyms": [
+    "entice",
+    "lure",
+    "woo",
+    "charm",
+    "captivate",
+    "mesmerize",
+    "hypnotize",
+    "fascinate",
+    "enthrall",
+    "attract"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beguilement",
+    "beguiler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beguile.mp3",
+  "local_sound_path": "sounds/beguile.mp3"
+}

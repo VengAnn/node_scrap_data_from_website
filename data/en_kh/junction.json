@@ -1,0 +1,42 @@
+{
+  "word": "junction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43453.png",
+      "local_image_path": "images/43453.png"
+    },
+    {
+      "pos": "n",
+      "example": "Our two armies hope to make a junction.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43454.png",
+      "local_image_path": "images/43454.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123223.png",
+      "local_image_path": "images/123223.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123224.png",
+      "local_image_path": "images/123224.png"
+    }
+  ],
+  "synonyms": [
+    "crossroads",
+    "intersection",
+    "interchange",
+    "turning",
+    "fork"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/junction.mp3",
+  "local_sound_path": "sounds/junction.mp3"
+}

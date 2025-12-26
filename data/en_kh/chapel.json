@@ -1,0 +1,28 @@
+{
+  "word": "chapel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13822.png",
+      "local_image_path": "images/13822.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116162.png",
+      "local_image_path": "images/116162.png"
+    }
+  ],
+  "synonyms": [
+    "sanctuary",
+    "oratory",
+    "chantry"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chapel.mp3",
+  "local_sound_path": "sounds/chapel.mp3"
+}

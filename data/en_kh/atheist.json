@@ -1,0 +1,31 @@
+{
+  "word": "atheist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6142.png",
+      "local_image_path": "images/6142.png"
+    }
+  ],
+  "synonyms": [
+    "doubter",
+    "agnostic",
+    "disbeliever",
+    "unbeliever",
+    "skeptic",
+    "humanist"
+  ],
+  "antonyms": [
+    "believer"
+  ],
+  "similar_words": [
+    "atheistic",
+    "atheistically",
+    "atheisticness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/atheist.mp3",
+  "local_sound_path": "sounds/atheist.mp3"
+}

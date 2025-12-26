@@ -1,0 +1,61 @@
+{
+  "word": "profit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "profit from a sale",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67413.png",
+      "local_image_path": "images/67413.png"
+    },
+    {
+      "pos": "iv",
+      "example": "profit from mistakes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67414.png",
+      "local_image_path": "images/67414.png"
+    },
+    {
+      "pos": "n",
+      "example": "net profit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67412.png",
+      "local_image_path": "images/67412.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I have profited by your advice.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67415.png",
+      "local_image_path": "images/67415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67416.png",
+      "local_image_path": "images/67416.png"
+    }
+  ],
+  "synonyms": [
+    "benefit",
+    "gain",
+    "help",
+    "aid",
+    "serve"
+  ],
+  "antonyms": [
+    "loss",
+    "lose"
+  ],
+  "similar_words": [
+    "profit and loss",
+    "profit-sharing",
+    "profitability",
+    "profitable",
+    "profitableness",
+    "profitably",
+    "profiteer",
+    "profiteering",
+    "profitless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/profit.mp3",
+  "local_sound_path": "sounds/profit.mp3"
+}

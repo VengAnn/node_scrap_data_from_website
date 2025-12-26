@@ -1,0 +1,55 @@
+{
+  "word": "jargon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42781.png",
+      "local_image_path": "images/42781.png"
+    },
+    {
+      "pos": "n",
+      "example": "professional jargon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42778.png",
+      "local_image_path": "images/42778.png"
+    },
+    {
+      "pos": "n",
+      "example": "They are speaking a jargon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42779.png",
+      "local_image_path": "images/42779.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42780.png",
+      "local_image_path": "images/42780.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42782.png",
+      "local_image_path": "images/42782.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130468.png",
+      "local_image_path": "images/130468.png"
+    }
+  ],
+  "synonyms": [
+    "terminology",
+    "slang",
+    "lingo",
+    "argot",
+    "language",
+    "gobbledygook"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jargon.mp3",
+  "local_sound_path": "sounds/jargon.mp3"
+}

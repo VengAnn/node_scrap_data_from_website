@@ -1,0 +1,83 @@
+{
+  "word": "fix",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "in a fix",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28788.png",
+      "local_image_path": "images/28788.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fix a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28782.png",
+      "local_image_path": "images/28782.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fix an attachment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28783.png",
+      "local_image_path": "images/28783.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fix prices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28784.png",
+      "local_image_path": "images/28784.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fix one's hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28785.png",
+      "local_image_path": "images/28785.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fix a game",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28786.png",
+      "local_image_path": "images/28786.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This unusual sight fixed his attention.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28787.png",
+      "local_image_path": "images/28787.png"
+    }
+  ],
+  "synonyms": [
+    "shot",
+    "dose",
+    "resolve",
+    "settle",
+    "handle",
+    "manage",
+    "arrange"
+  ],
+  "antonyms": [
+    "detach",
+    "break",
+    "bungle",
+    "take out",
+    "cancel"
+  ],
+  "similar_words": [
+    "fixated",
+    "fixation",
+    "fixative",
+    "fixed",
+    "fixed assets",
+    "fixed capital",
+    "fixed charges",
+    "fixed stars",
+    "fixedly",
+    "fixedness",
+    "fixer",
+    "fixing",
+    "fixity",
+    "fixture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fix.mp3",
+  "local_sound_path": "sounds/fix.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "opening",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57717.png",
+      "local_image_path": "images/57717.png"
+    },
+    {
+      "pos": "n",
+      "example": "grand opening",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57714.png",
+      "local_image_path": "images/57714.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57715.png",
+      "local_image_path": "images/57715.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57716.png",
+      "local_image_path": "images/57716.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124932.png",
+      "local_image_path": "images/124932.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124933.png",
+      "local_image_path": "images/124933.png"
+    }
+  ],
+  "synonyms": [
+    "opportunity",
+    "chance",
+    "break",
+    "prospect",
+    "gateway",
+    "beginning",
+    "starting",
+    "launching"
+  ],
+  "antonyms": [
+    "end",
+    "closing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/opening.mp3",
+  "local_sound_path": "sounds/opening.mp3"
+}

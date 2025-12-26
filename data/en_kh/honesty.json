@@ -1,0 +1,43 @@
+{
+  "word": "honesty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Honesty is the best policy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35782.png",
+      "local_image_path": "images/35782.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121188.png",
+      "local_image_path": "images/121188.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121189.png",
+      "local_image_path": "images/121189.png"
+    }
+  ],
+  "synonyms": [
+    "sincerity",
+    "truthfulness",
+    "integrity",
+    "frankness",
+    "candor",
+    "authenticity",
+    "straightforwardness",
+    "directness"
+  ],
+  "antonyms": [
+    "dishonesty",
+    "immorality",
+    "untruthfulness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/honesty.mp3",
+  "local_sound_path": "sounds/honesty.mp3"
+}

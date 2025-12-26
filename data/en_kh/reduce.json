@@ -1,0 +1,68 @@
+{
+  "word": "reduce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71222.png",
+      "local_image_path": "images/71222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reduce speed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71216.png",
+      "local_image_path": "images/71216.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reduce a fat person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71217.png",
+      "local_image_path": "images/71217.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reduce the price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71218.png",
+      "local_image_path": "images/71218.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71219.png",
+      "local_image_path": "images/71219.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71220.png",
+      "local_image_path": "images/71220.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71221.png",
+      "local_image_path": "images/71221.png"
+    }
+  ],
+  "synonyms": [
+    "downgrade",
+    "demote",
+    "degrade",
+    "slash",
+    "relegate"
+  ],
+  "antonyms": [
+    "increase",
+    "upgrade"
+  ],
+  "similar_words": [
+    "reduceable",
+    "reduced",
+    "reducement",
+    "reducer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reduce.mp3",
+  "local_sound_path": "sounds/reduce.mp3"
+}

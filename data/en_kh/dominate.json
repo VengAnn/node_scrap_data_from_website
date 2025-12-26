@@ -1,0 +1,34 @@
+{
+  "word": "dominate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22685.png",
+      "local_image_path": "images/22685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He has authority, but he doesn't try to dominate (others)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22683.png",
+      "local_image_path": "images/22683.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dominate the conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22684.png",
+      "local_image_path": "images/22684.png"
+    }
+  ],
+  "synonyms": [
+    "overlook",
+    "overshadow",
+    "dwarf"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dominate.mp3",
+  "local_sound_path": "sounds/dominate.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "worry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "worry about one's daughter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101014.png",
+      "local_image_path": "images/101014.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101015.png",
+      "local_image_path": "images/101015.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101017.png",
+      "local_image_path": "images/101017.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101016.png",
+      "local_image_path": "images/101016.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129922.png",
+      "local_image_path": "images/129922.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129923.png",
+      "local_image_path": "images/129923.png"
+    }
+  ],
+  "synonyms": [
+    "anxiety",
+    "uneasiness",
+    "disquiet",
+    "discomfort",
+    "unease",
+    "apprehension",
+    "nervousness",
+    "annoy",
+    "pester",
+    "bother",
+    "trouble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "worrying"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/worry.mp3",
+  "local_sound_path": "sounds/worry.mp3"
+}

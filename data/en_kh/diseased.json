@@ -1,0 +1,29 @@
+{
+  "word": "diseased",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21797.png",
+      "local_image_path": "images/21797.png"
+    }
+  ],
+  "synonyms": [
+    "unhealthy",
+    "unwell",
+    "contaminated",
+    "sickly",
+    "ailing",
+    "ill",
+    "poorly",
+    "sick"
+  ],
+  "antonyms": [
+    "healthy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diseased.mp3",
+  "local_sound_path": "sounds/diseased.mp3"
+}

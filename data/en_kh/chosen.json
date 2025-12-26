@@ -1,0 +1,30 @@
+{
+  "word": "chosen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "chosen friends",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14369.png",
+      "local_image_path": "images/14369.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116304.png",
+      "local_image_path": "images/116304.png"
+    }
+  ],
+  "synonyms": [
+    "select",
+    "preferred",
+    "special",
+    "decided",
+    "wanted"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chosen.mp3",
+  "local_sound_path": "sounds/chosen.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "gutter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "street gutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33347.png",
+      "local_image_path": "images/33347.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gutter a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33348.png",
+      "local_image_path": "images/33348.png"
+    }
+  ],
+  "synonyms": [
+    "flicker",
+    "sputter",
+    "waver",
+    "drip",
+    "fade"
+  ],
+  "antonyms": [
+    "flare"
+  ],
+  "similar_words": [
+    "gutteral",
+    "guttering",
+    "gutterpress",
+    "guttersnipe"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gutter.mp3",
+  "local_sound_path": "sounds/gutter.mp3"
+}

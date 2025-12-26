@@ -1,0 +1,29 @@
+{
+  "word": "drumstick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23264.png",
+      "local_image_path": "images/23264.png"
+    },
+    {
+      "pos": "n",
+      "example": "chicken drumstick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23265.png",
+      "local_image_path": "images/23265.png"
+    }
+  ],
+  "synonyms": [
+    "stick",
+    "mallet",
+    "beater",
+    "baton"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drumstick.mp3",
+  "local_sound_path": "sounds/drumstick.mp3"
+}

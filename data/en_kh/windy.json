@@ -1,0 +1,46 @@
+{
+  "word": "windy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "windy day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100432.png",
+      "local_image_path": "images/100432.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100434.png",
+      "local_image_path": "images/100434.png"
+    },
+    {
+      "pos": "sl",
+      "example": "windy speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100433.png",
+      "local_image_path": "images/100433.png"
+    }
+  ],
+  "synonyms": [
+    "blustery",
+    "breezy",
+    "stormy",
+    "blowy",
+    "bracing",
+    "turbulent",
+    "wordy",
+    "voluble",
+    "verbose",
+    "pompous",
+    "bombastic",
+    "boastful"
+  ],
+  "antonyms": [
+    "still",
+    "meek"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/windy.mp3",
+  "local_sound_path": "sounds/windy.mp3"
+}

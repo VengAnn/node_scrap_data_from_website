@@ -1,0 +1,65 @@
+{
+  "word": "whisper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Don't whisper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100084.png",
+      "local_image_path": "images/100084.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Breezes whisper in the trees",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100085.png",
+      "local_image_path": "images/100085.png"
+    },
+    {
+      "pos": "n",
+      "example": "speak in a whisper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100087.png",
+      "local_image_path": "images/100087.png"
+    },
+    {
+      "pos": "n",
+      "example": "whispers of the town",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100088.png",
+      "local_image_path": "images/100088.png"
+    },
+    {
+      "pos": "n",
+      "example": "whisper of the wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100089.png",
+      "local_image_path": "images/100089.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100086.png",
+      "local_image_path": "images/100086.png"
+    }
+  ],
+  "synonyms": [
+    "rumor",
+    "word",
+    "gossip",
+    "hint",
+    "murmur",
+    "sigh",
+    "mutter",
+    "utter",
+    "hiss",
+    "breathe",
+    "mouth"
+  ],
+  "antonyms": [
+    "shout"
+  ],
+  "similar_words": [
+    "whisperer",
+    "whispering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whisper.mp3",
+  "local_sound_path": "sounds/whisper.mp3"
+}

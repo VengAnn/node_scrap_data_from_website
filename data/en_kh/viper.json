@@ -1,0 +1,40 @@
+{
+  "word": "viper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bitten by a viper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98147.png",
+      "local_image_path": "images/98147.png"
+    },
+    {
+      "pos": "n",
+      "example": "She's a viper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98148.png",
+      "local_image_path": "images/98148.png"
+    }
+  ],
+  "synonyms": [
+    "brute",
+    "pig",
+    "rat",
+    "monster",
+    "beast",
+    "skunk",
+    "worm",
+    "animal"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "vipera ruselli",
+    "viperine",
+    "viperish",
+    "viperous",
+    "viperously",
+    "viperousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/viper.mp3",
+  "local_sound_path": "sounds/viper.mp3"
+}

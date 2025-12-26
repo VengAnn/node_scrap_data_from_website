@@ -1,0 +1,29 @@
+{
+  "word": "assertion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5888.png",
+      "local_image_path": "images/5888.png"
+    }
+  ],
+  "synonyms": [
+    "declaration",
+    "statement",
+    "claim",
+    "allegation",
+    "contention",
+    "affirmation",
+    "proclamation",
+    "avowal"
+  ],
+  "antonyms": [
+    "denial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assertion.mp3",
+  "local_sound_path": "sounds/assertion.mp3"
+}

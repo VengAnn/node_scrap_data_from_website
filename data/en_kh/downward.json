@@ -1,0 +1,36 @@
+{
+  "word": "downward",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22925.png",
+      "local_image_path": "images/22925.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118765.png",
+      "local_image_path": "images/118765.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118766.png",
+      "local_image_path": "images/118766.png"
+    }
+  ],
+  "synonyms": [
+    "down",
+    "downhill",
+    "downstairs"
+  ],
+  "antonyms": [
+    "upward"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/downward.mp3",
+  "local_sound_path": "sounds/downward.mp3"
+}

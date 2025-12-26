@@ -1,0 +1,41 @@
+{
+  "word": "gnome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32111.png",
+      "local_image_path": "images/32111.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32112.png",
+      "local_image_path": "images/32112.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32113.png",
+      "local_image_path": "images/32113.png"
+    }
+  ],
+  "synonyms": [
+    "elf",
+    "sprite",
+    "goblin",
+    "troll",
+    "leprechaun",
+    "fairy",
+    "brownie",
+    "pixie",
+    "pixy",
+    "fay"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gnome.mp3",
+  "local_sound_path": "sounds/gnome.mp3"
+}

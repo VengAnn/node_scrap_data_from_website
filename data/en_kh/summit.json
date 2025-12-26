@@ -1,0 +1,54 @@
+{
+  "word": "summit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "summit conference",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86251.png",
+      "local_image_path": "images/86251.png"
+    },
+    {
+      "pos": "n",
+      "example": "summit of the hill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86248.png",
+      "local_image_path": "images/86248.png"
+    },
+    {
+      "pos": "n",
+      "example": "summit of his career",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86249.png",
+      "local_image_path": "images/86249.png"
+    },
+    {
+      "pos": "n",
+      "example": "summit meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86250.png",
+      "local_image_path": "images/86250.png"
+    }
+  ],
+  "synonyms": [
+    "conference",
+    "peak",
+    "top",
+    "meeting",
+    "pinnacle",
+    "apex",
+    "height",
+    "acme",
+    "zenith",
+    "brow",
+    "hilltop",
+    "crest",
+    "crown",
+    "tip"
+  ],
+  "antonyms": [
+    "trough",
+    "base"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/summit.mp3",
+  "local_sound_path": "sounds/summit.mp3"
+}

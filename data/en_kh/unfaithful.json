@@ -1,0 +1,37 @@
+{
+  "word": "unfaithful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94314.png",
+      "local_image_path": "images/94314.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94315.png",
+      "local_image_path": "images/94315.png"
+    }
+  ],
+  "synonyms": [
+    "disloyal",
+    "false",
+    "untrue",
+    "adulterous",
+    "treacherous",
+    "traitorous",
+    "faithless"
+  ],
+  "antonyms": [
+    "faithful"
+  ],
+  "similar_words": [
+    "unfaithfully",
+    "unfaithfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unfaithful.mp3",
+  "local_sound_path": "sounds/unfaithful.mp3"
+}

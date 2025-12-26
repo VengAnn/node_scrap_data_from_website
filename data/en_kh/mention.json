@@ -1,0 +1,82 @@
+{
+  "word": "mention",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107772.png",
+      "local_image_path": "images/107772.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107773.png",
+      "local_image_path": "images/107773.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123902.png",
+      "local_image_path": "images/123902.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123903.png",
+      "local_image_path": "images/123903.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Did I hear my name mentioned?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107770.png",
+      "local_image_path": "images/107770.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107771.png",
+      "local_image_path": "images/107771.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123904.png",
+      "local_image_path": "images/123904.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123905.png",
+      "local_image_path": "images/123905.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123906.png",
+      "local_image_path": "images/123906.png"
+    }
+  ],
+  "synonyms": [
+    "reference",
+    "indication",
+    "discussion",
+    "remark",
+    "allusion",
+    "state",
+    "cite",
+    "say",
+    "declare",
+    "reveal"
+  ],
+  "antonyms": [
+    "conceal"
+  ],
+  "similar_words": [
+    "mentionable",
+    "mentioner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mention.mp3",
+  "local_sound_path": "sounds/mention.mp3"
+}

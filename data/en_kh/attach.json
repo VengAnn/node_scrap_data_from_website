@@ -1,0 +1,62 @@
+{
+  "word": "attach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6226.png",
+      "local_image_path": "images/6226.png"
+    },
+    {
+      "pos": "tv",
+      "example": "​",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6225.png",
+      "local_image_path": "images/6225.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112131.png",
+      "local_image_path": "images/112131.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112132.png",
+      "local_image_path": "images/112132.png"
+    }
+  ],
+  "synonyms": [
+    "assign",
+    "award",
+    "ascribe",
+    "confer",
+    "attribute",
+    "fasten",
+    "join",
+    "connect",
+    "fix",
+    "add",
+    "affix",
+    "append",
+    "stick",
+    "glue",
+    "screw",
+    "nail",
+    "clip"
+  ],
+  "antonyms": [
+    "detach"
+  ],
+  "similar_words": [
+    "attachable",
+    "attache",
+    "attached",
+    "attacher",
+    "attachment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attach.mp3",
+  "local_sound_path": "sounds/attach.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "proud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He was too proud to join our party.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68173.png",
+      "local_image_path": "images/68173.png"
+    },
+    {
+      "pos": "adj",
+      "example": "proud official",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68174.png",
+      "local_image_path": "images/68174.png"
+    },
+    {
+      "pos": "adj",
+      "example": "proud achievement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68175.png",
+      "local_image_path": "images/68175.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68176.png",
+      "local_image_path": "images/68176.png"
+    }
+  ],
+  "synonyms": [
+    "rewarding",
+    "satisfying",
+    "pleasurable",
+    "pleasing"
+  ],
+  "antonyms": [
+    "humble",
+    "modest",
+    "ashamed",
+    "sunken"
+  ],
+  "similar_words": [
+    "proud flesh",
+    "proudhearted",
+    "proudish",
+    "proudly",
+    "proudness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proud.mp3",
+  "local_sound_path": "sounds/proud.mp3"
+}

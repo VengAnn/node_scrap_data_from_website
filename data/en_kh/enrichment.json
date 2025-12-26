@@ -1,0 +1,37 @@
+{
+  "word": "enrichment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25190.png",
+      "local_image_path": "images/25190.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119232.png",
+      "local_image_path": "images/119232.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119233.png",
+      "local_image_path": "images/119233.png"
+    }
+  ],
+  "synonyms": [
+    "enhancement",
+    "fortification",
+    "improvement",
+    "augmentation",
+    "amelioration",
+    "development"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enrichment.mp3",
+  "local_sound_path": "sounds/enrichment.mp3"
+}

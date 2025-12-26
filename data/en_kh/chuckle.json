@@ -1,0 +1,36 @@
+{
+  "word": "chuckle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14457.png",
+      "local_image_path": "images/14457.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14458.png",
+      "local_image_path": "images/14458.png"
+    }
+  ],
+  "synonyms": [
+    "chortle",
+    "giggle",
+    "snigger",
+    "gurgle",
+    "titter",
+    "snicker",
+    "laugh"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chuckle-head",
+    "chuckle-headed",
+    "chuckler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chuckle.mp3",
+  "local_sound_path": "sounds/chuckle.mp3"
+}

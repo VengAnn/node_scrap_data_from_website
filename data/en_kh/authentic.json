@@ -1,0 +1,39 @@
+{
+  "word": "authentic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "authentic portrayal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6504.png",
+      "local_image_path": "images/6504.png"
+    }
+  ],
+  "synonyms": [
+    "true",
+    "reliable",
+    "dependable",
+    "realistic",
+    "accurate",
+    "faithful",
+    "genuine",
+    "real",
+    "valid",
+    "original",
+    "bona fide"
+  ],
+  "antonyms": [
+    "fake",
+    "false"
+  ],
+  "similar_words": [
+    "authentically",
+    "authenticate",
+    "authentication",
+    "authenticator",
+    "authenticity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authentic.mp3",
+  "local_sound_path": "sounds/authentic.mp3"
+}

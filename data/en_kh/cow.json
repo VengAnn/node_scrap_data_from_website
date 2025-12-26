@@ -1,0 +1,54 @@
+{
+  "word": "cow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18249.png",
+      "local_image_path": "images/18249.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18250.png",
+      "local_image_path": "images/18250.png"
+    }
+  ],
+  "synonyms": [
+    "intimidate",
+    "scare",
+    "frighten",
+    "bully",
+    "browbeat",
+    "overawe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cow bell",
+    "cow herd",
+    "cow pea",
+    "cowage",
+    "coward",
+    "cowardice",
+    "cowardly",
+    "cowboy",
+    "cowboy hat",
+    "cower",
+    "cowgirl",
+    "cowhand",
+    "cowhide",
+    "cowl",
+    "cowlick",
+    "cowling",
+    "coworker",
+    "cowpox",
+    "cowpuncher",
+    "cowry",
+    "cowslip",
+    "cowslip creeper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cow.mp3",
+  "local_sound_path": "sounds/cow.mp3"
+}

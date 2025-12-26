@@ -1,0 +1,28 @@
+{
+  "word": "momentum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110025.png",
+      "local_image_path": "images/110025.png"
+    }
+  ],
+  "synonyms": [
+    "impetus",
+    "drive",
+    "thrust",
+    "energy",
+    "force",
+    "motion",
+    "push"
+  ],
+  "antonyms": [
+    "brake"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/momentum.mp3",
+  "local_sound_path": "sounds/momentum.mp3"
+}

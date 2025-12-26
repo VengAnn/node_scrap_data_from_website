@@ -1,0 +1,26 @@
+{
+  "word": "fighter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28442.png",
+      "local_image_path": "images/28442.png"
+    }
+  ],
+  "synonyms": [
+    "combatant",
+    "boxer",
+    "wrestler",
+    "pugilist",
+    "warrior",
+    "rebel",
+    "prizefighter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fighter.mp3",
+  "local_sound_path": "sounds/fighter.mp3"
+}

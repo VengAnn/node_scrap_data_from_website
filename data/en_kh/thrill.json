@@ -1,0 +1,54 @@
+{
+  "word": "thrill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89155.png",
+      "local_image_path": "images/89155.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89156.png",
+      "local_image_path": "images/89156.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The film thrilled the audience.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89154.png",
+      "local_image_path": "images/89154.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128233.png",
+      "local_image_path": "images/128233.png"
+    }
+  ],
+  "synonyms": [
+    "excite",
+    "delight",
+    "stimulate",
+    "electrify",
+    "stir",
+    "exhilarate",
+    "inspire",
+    "rouse",
+    "elate",
+    "grip"
+  ],
+  "antonyms": [
+    "bore"
+  ],
+  "similar_words": [
+    "thrilled",
+    "thriller",
+    "thrilling",
+    "thrillingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thrill.mp3",
+  "local_sound_path": "sounds/thrill.mp3"
+}

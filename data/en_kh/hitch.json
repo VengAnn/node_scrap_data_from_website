@@ -1,0 +1,59 @@
+{
+  "word": "hitch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "hitch in the proceedings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35412.png",
+      "local_image_path": "images/35412.png"
+    },
+    {
+      "pos": "n",
+      "example": "firm hitch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35410.png",
+      "local_image_path": "images/35410.png"
+    },
+    {
+      "pos": "n",
+      "example": "walk with hitch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35411.png",
+      "local_image_path": "images/35411.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hitch a horse to a post",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35408.png",
+      "local_image_path": "images/35408.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hitch up (horses)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35409.png",
+      "local_image_path": "images/35409.png"
+    }
+  ],
+  "synonyms": [
+    "fasten",
+    "hook",
+    "harness",
+    "join",
+    "tether",
+    "attach",
+    "connect",
+    "tie",
+    "couple",
+    "hitch-hike"
+  ],
+  "antonyms": [
+    "undo"
+  ],
+  "similar_words": [
+    "hitch-hike",
+    "hitch-hiker",
+    "hitching post"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hitch.mp3",
+  "local_sound_path": "sounds/hitch.mp3"
+}

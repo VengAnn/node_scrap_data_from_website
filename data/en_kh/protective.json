@@ -1,0 +1,43 @@
+{
+  "word": "protective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "protective measures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68044.png",
+      "local_image_path": "images/68044.png"
+    },
+    {
+      "pos": "adj",
+      "example": "protective parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68045.png",
+      "local_image_path": "images/68045.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68046.png",
+      "local_image_path": "images/68046.png"
+    },
+    {
+      "pos": "adj",
+      "example": "protective material",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68047.png",
+      "local_image_path": "images/68047.png"
+    }
+  ],
+  "synonyms": [
+    "defensive",
+    "caring",
+    "shielding"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "protectively",
+    "protectiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/protective.mp3",
+  "local_sound_path": "sounds/protective.mp3"
+}

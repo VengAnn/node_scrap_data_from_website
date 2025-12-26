@@ -1,0 +1,60 @@
+{
+  "word": "sensitive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sensitive about his height",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78134.png",
+      "local_image_path": "images/78134.png"
+    },
+    {
+      "pos": "adj",
+      "example": "Good man is always sensitive to the suffering of others.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78135.png",
+      "local_image_path": "images/78135.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sensitive issue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78136.png",
+      "local_image_path": "images/78136.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127640.png",
+      "local_image_path": "images/127640.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127641.png",
+      "local_image_path": "images/127641.png"
+    }
+  ],
+  "synonyms": [
+    "precise",
+    "precision",
+    "exact",
+    "delicate",
+    "responsive"
+  ],
+  "antonyms": [
+    "indifferent",
+    "impervious",
+    "superficial",
+    "unsympathetic",
+    "robust",
+    "straightforward",
+    "public",
+    "imprecise"
+  ],
+  "similar_words": [
+    "sensitively",
+    "sensitiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sensitive.mp3",
+  "local_sound_path": "sounds/sensitive.mp3"
+}

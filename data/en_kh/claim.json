@@ -1,0 +1,54 @@
+{
+  "word": "claim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "unsuported claim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14750.png",
+      "local_image_path": "images/14750.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130987.png",
+      "local_image_path": "images/130987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "claim innosence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14749.png",
+      "local_image_path": "images/14749.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130988.png",
+      "local_image_path": "images/130988.png"
+    }
+  ],
+  "synonyms": [
+    "right",
+    "entitlement",
+    "privilege",
+    "receive",
+    "get",
+    "obtain",
+    "take",
+    "retrieve",
+    "collect"
+  ],
+  "antonyms": [
+    "grant",
+    "deny"
+  ],
+  "similar_words": [
+    "claim damages",
+    "claimable",
+    "claimant",
+    "claimer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/claim.mp3",
+  "local_sound_path": "sounds/claim.mp3"
+}

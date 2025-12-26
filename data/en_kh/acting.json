@@ -1,0 +1,45 @@
+{
+  "word": "acting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Mr. Sok is an acting director of this school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2218.png",
+      "local_image_path": "images/2218.png"
+    },
+    {
+      "pos": "gen",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2220.png",
+      "local_image_path": "images/2220.png"
+    },
+    {
+      "pos": "law",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2219.png",
+      "local_image_path": "images/2219.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2221.png",
+      "local_image_path": "images/2221.png"
+    }
+  ],
+  "synonyms": [
+    "temporary",
+    "substitute",
+    "stand-in",
+    "interim",
+    "playing",
+    "affecting"
+  ],
+  "antonyms": [
+    "permanent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acting.mp3",
+  "local_sound_path": "sounds/acting.mp3"
+}

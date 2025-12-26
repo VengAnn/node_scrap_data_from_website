@@ -1,0 +1,36 @@
+{
+  "word": "wheedle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99911.png",
+      "local_image_path": "images/99911.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129874.png",
+      "local_image_path": "images/129874.png"
+    }
+  ],
+  "synonyms": [
+    "coax",
+    "cajole",
+    "inveigle",
+    "charm",
+    "persuade",
+    "talk",
+    "obtain",
+    "extract",
+    "finagle"
+  ],
+  "antonyms": [
+    "bully"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wheedle.mp3",
+  "local_sound_path": "sounds/wheedle.mp3"
+}

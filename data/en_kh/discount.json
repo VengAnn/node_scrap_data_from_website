@@ -1,0 +1,54 @@
+{
+  "word": "discount",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21729.png",
+      "local_image_path": "images/21729.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130249.png",
+      "local_image_path": "images/130249.png"
+    },
+    {
+      "pos": "tv",
+      "example": "discount price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21727.png",
+      "local_image_path": "images/21727.png"
+    },
+    {
+      "pos": "tv",
+      "example": "discount his story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21728.png",
+      "local_image_path": "images/21728.png"
+    }
+  ],
+  "synonyms": [
+    "disregard",
+    "overlook",
+    "ignore",
+    "disbelieve",
+    "reduce",
+    "lower",
+    "deduct",
+    "subtract"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [
+    "discount bank",
+    "discount price",
+    "discount rate",
+    "discountable",
+    "discounted value",
+    "discountenance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discount.mp3",
+  "local_sound_path": "sounds/discount.mp3"
+}

@@ -1,0 +1,96 @@
+{
+  "word": "get",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "get sick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31626.png",
+      "local_image_path": "images/31626.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Where did you get the money?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31616.png",
+      "local_image_path": "images/31616.png"
+    },
+    {
+      "pos": "tv",
+      "example": "get him a job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31617.png",
+      "local_image_path": "images/31617.png"
+    },
+    {
+      "pos": "tv",
+      "example": "get a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31618.png",
+      "local_image_path": "images/31618.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31619.png",
+      "local_image_path": "images/31619.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She's getting the breakfast ready.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31620.png",
+      "local_image_path": "images/31620.png"
+    },
+    {
+      "pos": "tv",
+      "example": "get him to speak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31621.png",
+      "local_image_path": "images/31621.png"
+    },
+    {
+      "pos": "tv",
+      "example": "get them to school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31622.png",
+      "local_image_path": "images/31622.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The children got the measles.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31623.png",
+      "local_image_path": "images/31623.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31624.png",
+      "local_image_path": "images/31624.png"
+    },
+    {
+      "pos": "tv",
+      "example": "When do they get to talk about it?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31625.png",
+      "local_image_path": "images/31625.png"
+    }
+  ],
+  "synonyms": [
+    "cause",
+    "make",
+    "induce",
+    "persuade",
+    "urge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "get the sack",
+    "get-together",
+    "getable",
+    "getaway",
+    "getback",
+    "gettable",
+    "getter",
+    "getthrough",
+    "getting",
+    "getting away",
+    "getup"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/get.mp3",
+  "local_sound_path": "sounds/get.mp3"
+}

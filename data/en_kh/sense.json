@@ -1,0 +1,55 @@
+{
+  "word": "sense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sense of smell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78111.png",
+      "local_image_path": "images/78111.png"
+    },
+    {
+      "pos": "n",
+      "example": "get the sense of the statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78112.png",
+      "local_image_path": "images/78112.png"
+    },
+    {
+      "pos": "n",
+      "example": "sense of humor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78113.png",
+      "local_image_path": "images/78113.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sense cold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78114.png",
+      "local_image_path": "images/78114.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sense his hostility",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78115.png",
+      "local_image_path": "images/78115.png"
+    }
+  ],
+  "synonyms": [
+    "feel",
+    "perceive",
+    "discern",
+    "intuit"
+  ],
+  "antonyms": [
+    "observe",
+    "folly"
+  ],
+  "similar_words": [
+    "sense-organ",
+    "senseful",
+    "senseless",
+    "senselessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sense.mp3",
+  "local_sound_path": "sounds/sense.mp3"
+}

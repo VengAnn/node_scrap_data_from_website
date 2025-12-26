@@ -1,0 +1,60 @@
+{
+  "word": "damage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19538.png",
+      "local_image_path": "images/19538.png"
+    },
+    {
+      "pos": "n (pl)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19539.png",
+      "local_image_path": "images/19539.png"
+    },
+    {
+      "pos": "tv",
+      "example": "You shouldn't damage your parents' reputation.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19540.png",
+      "local_image_path": "images/19540.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't damage state property.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19541.png",
+      "local_image_path": "images/19541.png"
+    }
+  ],
+  "synonyms": [
+    "injury",
+    "harm",
+    "hurt",
+    "impairment",
+    "mutilation",
+    "destruction",
+    "injure",
+    "spoil",
+    "break",
+    "dent",
+    "scratch",
+    "wound",
+    "mar",
+    "ravage"
+  ],
+  "antonyms": [
+    "repair",
+    "reparation"
+  ],
+  "similar_words": [
+    "damage control",
+    "damageability",
+    "damageable",
+    "damageably",
+    "damaged"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/damage.mp3",
+  "local_sound_path": "sounds/damage.mp3"
+}

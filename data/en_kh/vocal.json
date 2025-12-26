@@ -1,0 +1,58 @@
+{
+  "word": "vocal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "vocal cords",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98422.png",
+      "local_image_path": "images/98422.png"
+    },
+    {
+      "pos": "adj",
+      "example": "vocal accompaniment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98423.png",
+      "local_image_path": "images/98423.png"
+    },
+    {
+      "pos": "adj",
+      "example": "very vocal person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98424.png",
+      "local_image_path": "images/98424.png"
+    }
+  ],
+  "synonyms": [
+    "vociferous",
+    "loud",
+    "voluble",
+    "forceful",
+    "strident",
+    "raucous",
+    "noisy",
+    "outspoken",
+    "frank",
+    "insistent",
+    "forthright"
+  ],
+  "antonyms": [
+    "silent",
+    "quiet"
+  ],
+  "similar_words": [
+    "vocal cord",
+    "vocal cords",
+    "vocalic",
+    "vocalically",
+    "vocalion",
+    "vocalism",
+    "vocalist",
+    "vocality",
+    "vocalization",
+    "vocalize",
+    "vocally",
+    "vocalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vocal.mp3",
+  "local_sound_path": "sounds/vocal.mp3"
+}

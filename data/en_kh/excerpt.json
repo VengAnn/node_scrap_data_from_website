@@ -1,0 +1,32 @@
+{
+  "word": "excerpt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26390.png",
+      "local_image_path": "images/26390.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26391.png",
+      "local_image_path": "images/26391.png"
+    }
+  ],
+  "synonyms": [
+    "extract",
+    "passage",
+    "quote",
+    "quotation",
+    "selection",
+    "piece",
+    "citation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excerpt.mp3",
+  "local_sound_path": "sounds/excerpt.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "frank",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30109.png",
+      "local_image_path": "images/30109.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30111.png",
+      "local_image_path": "images/30111.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30110.png",
+      "local_image_path": "images/30110.png"
+    }
+  ],
+  "synonyms": [
+    "forthright",
+    "free",
+    "honest",
+    "guileless",
+    "open",
+    "blunt",
+    "truthful",
+    "candid",
+    "outspoken",
+    "above-board",
+    "postmark",
+    "stamp",
+    "date",
+    "mark",
+    "rubber-stamp",
+    "validate"
+  ],
+  "antonyms": [
+    "evasive",
+    "insincere"
+  ],
+  "similar_words": [
+    "frank-incense",
+    "frankfurter",
+    "franking machine",
+    "frankish",
+    "frankly",
+    "frankness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frank.mp3",
+  "local_sound_path": "sounds/frank.mp3"
+}

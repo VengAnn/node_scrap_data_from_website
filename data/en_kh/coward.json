@@ -1,0 +1,28 @@
+{
+  "word": "coward",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18252.png",
+      "local_image_path": "images/18252.png"
+    }
+  ],
+  "synonyms": [
+    "chicken",
+    "quitter",
+    "weakling",
+    "deserter",
+    "runaway",
+    "scaredy-cat"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cowardice",
+    "cowardly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coward.mp3",
+  "local_sound_path": "sounds/coward.mp3"
+}

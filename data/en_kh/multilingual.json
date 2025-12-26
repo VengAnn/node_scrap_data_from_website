@@ -1,0 +1,34 @@
+{
+  "word": "multilingual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "India is a multilingual country.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110970.png",
+      "local_image_path": "images/110970.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110971.png",
+      "local_image_path": "images/110971.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124390.png",
+      "local_image_path": "images/124390.png"
+    }
+  ],
+  "synonyms": [
+    "polyglot",
+    "bilingual",
+    "trilingual"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/multilingual.mp3",
+  "local_sound_path": "sounds/multilingual.mp3"
+}

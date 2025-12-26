@@ -1,0 +1,55 @@
+{
+  "word": "ponder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65046.png",
+      "local_image_path": "images/65046.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125735.png",
+      "local_image_path": "images/125735.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125736.png",
+      "local_image_path": "images/125736.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125737.png",
+      "local_image_path": "images/125737.png"
+    }
+  ],
+  "synonyms": [
+    "consider",
+    "contemplate",
+    "deliberate",
+    "muse"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ponderability",
+    "ponderable",
+    "ponderal",
+    "ponderance",
+    "ponderary",
+    "ponderate",
+    "ponderation",
+    "ponderer",
+    "ponderingly",
+    "ponderosity",
+    "ponderous",
+    "ponderously",
+    "ponderousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ponder.mp3",
+  "local_sound_path": "sounds/ponder.mp3"
+}

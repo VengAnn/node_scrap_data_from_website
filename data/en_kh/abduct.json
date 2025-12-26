@@ -1,0 +1,32 @@
+{
+  "word": "abduct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "King Ravaua had abducted Sita",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1366.png",
+      "local_image_path": "images/1366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111873.png",
+      "local_image_path": "images/111873.png"
+    }
+  ],
+  "synonyms": [
+    "kidnap",
+    "snatch",
+    "seize",
+    "capture"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "abduction",
+    "abductor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abduct.mp3",
+  "local_sound_path": "sounds/abduct.mp3"
+}

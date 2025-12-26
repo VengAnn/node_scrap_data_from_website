@@ -1,0 +1,33 @@
+{
+  "word": "ire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42145.png",
+      "local_image_path": "images/42145.png"
+    }
+  ],
+  "synonyms": [
+    "anger",
+    "rage",
+    "fury",
+    "indignation",
+    "bile",
+    "wrath",
+    "annoyance"
+  ],
+  "antonyms": [
+    "pleasure",
+    "calmness"
+  ],
+  "similar_words": [
+    "ireful",
+    "irenic",
+    "irenical"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ire.mp3",
+  "local_sound_path": "sounds/ire.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "skin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "skin a customer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80764.png",
+      "local_image_path": "images/80764.png"
+    },
+    {
+      "pos": "n",
+      "example": "human skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80760.png",
+      "local_image_path": "images/80760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80761.png",
+      "local_image_path": "images/80761.png"
+    },
+    {
+      "pos": "tv",
+      "example": "skin a deer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80762.png",
+      "local_image_path": "images/80762.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80763.png",
+      "local_image_path": "images/80763.png"
+    }
+  ],
+  "synonyms": [
+    "peel",
+    "pare",
+    "graze",
+    "scrape",
+    "flay",
+    "scuff"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "skin bound",
+    "skin carp",
+    "skin dipping",
+    "skin disease",
+    "skin diver",
+    "skin diving",
+    "skin food",
+    "skin magazine",
+    "skin-deep",
+    "skin-dresser",
+    "skin-flick",
+    "skin-game",
+    "skin-graft",
+    "skin-grafting",
+    "skin-head",
+    "skin-merchant",
+    "skin-popping",
+    "skinflint",
+    "skinful",
+    "skink",
+    "skinless",
+    "skinned",
+    "skinner",
+    "skinnery",
+    "skinniness",
+    "skinny"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skin.mp3",
+  "local_sound_path": "sounds/skin.mp3"
+}

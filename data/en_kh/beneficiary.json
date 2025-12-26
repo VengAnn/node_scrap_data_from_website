@@ -1,0 +1,44 @@
+{
+  "word": "beneficiary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "beneficiary of insurrance policy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8287.png",
+      "local_image_path": "images/8287.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114910.png",
+      "local_image_path": "images/114910.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114911.png",
+      "local_image_path": "images/114911.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114912.png",
+      "local_image_path": "images/114912.png"
+    }
+  ],
+  "synonyms": [
+    "recipient",
+    "receiver",
+    "heir",
+    "payee",
+    "legatee"
+  ],
+  "antonyms": [
+    "benefactor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beneficiary.mp3",
+  "local_sound_path": "sounds/beneficiary.mp3"
+}

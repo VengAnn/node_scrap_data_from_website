@@ -1,0 +1,42 @@
+{
+  "word": "barbarous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7417.png",
+      "local_image_path": "images/7417.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114574.png",
+      "local_image_path": "images/114574.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114575.png",
+      "local_image_path": "images/114575.png"
+    }
+  ],
+  "synonyms": [
+    "cruel",
+    "brutal",
+    "vicious",
+    "ferocious",
+    "fierce",
+    "barbaric"
+  ],
+  "antonyms": [
+    "gentle"
+  ],
+  "similar_words": [
+    "barbarously",
+    "barbarousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barbarous.mp3",
+  "local_sound_path": "sounds/barbarous.mp3"
+}

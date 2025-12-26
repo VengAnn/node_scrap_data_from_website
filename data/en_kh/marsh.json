@@ -1,0 +1,38 @@
+{
+  "word": "marsh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106452.png",
+      "local_image_path": "images/106452.png"
+    }
+  ],
+  "synonyms": [
+    "bog",
+    "swamp",
+    "quagmire",
+    "marshland",
+    "fen",
+    "bayou",
+    "everglade",
+    "morass"
+  ],
+  "antonyms": [
+    "desert"
+  ],
+  "similar_words": [
+    "marshal",
+    "marshalate",
+    "marshalcy",
+    "marshaless",
+    "marshiness",
+    "marshland",
+    "marshlander",
+    "marshy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/marsh.mp3",
+  "local_sound_path": "sounds/marsh.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "abracadabra",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1542.png",
+      "local_image_path": "images/1542.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111836.png",
+      "local_image_path": "images/111836.png"
+    }
+  ],
+  "synonyms": [
+    "hocus-pocus",
+    "presto"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abracadabra.mp3",
+  "local_sound_path": "sounds/abracadabra.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "melt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "snows melt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107590.png",
+      "local_image_path": "images/107590.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The ice melted when the sun shone on it.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107591.png",
+      "local_image_path": "images/107591.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107592.png",
+      "local_image_path": "images/107592.png"
+    },
+    {
+      "pos": "tv",
+      "example": "melt anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107593.png",
+      "local_image_path": "images/107593.png"
+    }
+  ],
+  "synonyms": [
+    "thaw",
+    "dissolve",
+    "soften",
+    "liquefy",
+    "disappear",
+    "fade",
+    "vanish",
+    "evaporate",
+    "vaporize",
+    "dissipate"
+  ],
+  "antonyms": [
+    "freeze",
+    "materialize"
+  ],
+  "similar_words": [
+    "meltability",
+    "meltable",
+    "meltage",
+    "melter",
+    "melting",
+    "melting-point",
+    "melting-pot",
+    "meltingly",
+    "meltingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/melt.mp3",
+  "local_sound_path": "sounds/melt.mp3"
+}

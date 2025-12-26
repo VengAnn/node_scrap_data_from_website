@@ -1,0 +1,60 @@
+{
+  "word": "flood",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rivers flood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29169.png",
+      "local_image_path": "images/29169.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a flood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29167.png",
+      "local_image_path": "images/29167.png"
+    },
+    {
+      "pos": "n",
+      "example": "flood of letters",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29168.png",
+      "local_image_path": "images/29168.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flood the town",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29170.png",
+      "local_image_path": "images/29170.png"
+    }
+  ],
+  "synonyms": [
+    "abundance",
+    "glut",
+    "excess",
+    "stream",
+    "rush",
+    "inundate",
+    "submerge",
+    "overflow",
+    "swamp",
+    "saturate",
+    "drown",
+    "engulf",
+    "deluge"
+  ],
+  "antonyms": [
+    "drought",
+    "shortage",
+    "ebb"
+  ],
+  "similar_words": [
+    "flood gate",
+    "flood tide",
+    "flooding",
+    "floodlight",
+    "floodlit"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flood.mp3",
+  "local_sound_path": "sounds/flood.mp3"
+}

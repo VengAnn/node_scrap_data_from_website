@@ -1,0 +1,55 @@
+{
+  "word": "diet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "You ought to diet and take more exercise.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21272.png",
+      "local_image_path": "images/21272.png"
+    },
+    {
+      "pos": "n",
+      "example": "wholesome diet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21271.png",
+      "local_image_path": "images/21271.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21273.png",
+      "local_image_path": "images/21273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118277.png",
+      "local_image_path": "images/118277.png"
+    }
+  ],
+  "synonyms": [
+    "legislature",
+    "assembly",
+    "parliament",
+    "fast",
+    "reduce",
+    "slim",
+    "abstain",
+    "starve",
+    "slenderize"
+  ],
+  "antonyms": [
+    "binge"
+  ],
+  "similar_words": [
+    "dietary",
+    "dieter",
+    "dietetic",
+    "dietetics",
+    "dietician",
+    "dietitian"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diet.mp3",
+  "local_sound_path": "sounds/diet.mp3"
+}

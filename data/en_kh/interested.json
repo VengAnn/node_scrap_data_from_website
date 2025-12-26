@@ -1,0 +1,47 @@
+{
+  "word": "interested",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She is interested in studying IT",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41196.png",
+      "local_image_path": "images/41196.png"
+    },
+    {
+      "pos": "adj",
+      "example": "He is interested in science",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41197.png",
+      "local_image_path": "images/41197.png"
+    },
+    {
+      "pos": "adj",
+      "example": "interested parties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41198.png",
+      "local_image_path": "images/41198.png"
+    },
+    {
+      "pos": "adj",
+      "example": "intersted in",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41199.png",
+      "local_image_path": "images/41199.png"
+    }
+  ],
+  "synonyms": [
+    "involved",
+    "concerned",
+    "fascinated",
+    "drew",
+    "drawn"
+  ],
+  "antonyms": [
+    "indifferent"
+  ],
+  "similar_words": [
+    "interestedly",
+    "interestedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interested.mp3",
+  "local_sound_path": "sounds/interested.mp3"
+}

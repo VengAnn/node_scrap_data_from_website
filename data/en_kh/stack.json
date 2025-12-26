@@ -1,0 +1,54 @@
+{
+  "word": "stack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hay stack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84012.png",
+      "local_image_path": "images/84012.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84013.png",
+      "local_image_path": "images/84013.png"
+    },
+    {
+      "pos": "n",
+      "example": "smoke stack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84014.png",
+      "local_image_path": "images/84014.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stack hay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84015.png",
+      "local_image_path": "images/84015.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stack dishes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84016.png",
+      "local_image_path": "images/84016.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stack books",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84017.png",
+      "local_image_path": "images/84017.png"
+    }
+  ],
+  "synonyms": [
+    "pack",
+    "fill",
+    "cram",
+    "squeeze",
+    "stuff"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stack.mp3",
+  "local_sound_path": "sounds/stack.mp3"
+}

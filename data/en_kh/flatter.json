@@ -1,0 +1,51 @@
+{
+  "word": "flatter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "flatter the boss",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28948.png",
+      "local_image_path": "images/28948.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pictures flatter him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28949.png",
+      "local_image_path": "images/28949.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This photograph does not flatter you.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28950.png",
+      "local_image_path": "images/28950.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He flattered himself that he spoke English as well as an \n\nEnglishman.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28951.png",
+      "local_image_path": "images/28951.png"
+    }
+  ],
+  "synonyms": [
+    "compliment",
+    "praise",
+    "sweet-talk",
+    "cajole",
+    "fixed",
+    "invariable",
+    "set",
+    "variable"
+  ],
+  "antonyms": [
+    "insult"
+  ],
+  "similar_words": [
+    "flatterer",
+    "flattering",
+    "flattery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flatter.mp3",
+  "local_sound_path": "sounds/flatter.mp3"
+}

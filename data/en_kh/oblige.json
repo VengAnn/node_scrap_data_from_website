@@ -1,0 +1,50 @@
+{
+  "word": "oblige",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "oblige him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56893.png",
+      "local_image_path": "images/56893.png"
+    },
+    {
+      "pos": "tv",
+      "example": "oblige him to me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56894.png",
+      "local_image_path": "images/56894.png"
+    },
+    {
+      "pos": "tv",
+      "example": "oblige with a song",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56895.png",
+      "local_image_path": "images/56895.png"
+    }
+  ],
+  "synonyms": [
+    "gratify",
+    "please",
+    "indulge",
+    "accommodate",
+    "force",
+    "obligate",
+    "necessitate",
+    "compel",
+    "make",
+    "require",
+    "coerce"
+  ],
+  "antonyms": [
+    "request",
+    "disappoint"
+  ],
+  "similar_words": [
+    "obliged",
+    "obligee",
+    "obligement",
+    "obliger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oblige.mp3",
+  "local_sound_path": "sounds/oblige.mp3"
+}

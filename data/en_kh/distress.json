@@ -1,0 +1,53 @@
+{
+  "word": "distress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "metal distress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22318.png",
+      "local_image_path": "images/22318.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22319.png",
+      "local_image_path": "images/22319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I was most distressed to hear the sad news of your father's death.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22320.png",
+      "local_image_path": "images/22320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118675.png",
+      "local_image_path": "images/118675.png"
+    }
+  ],
+  "synonyms": [
+    "upset",
+    "disturb",
+    "trouble",
+    "bother",
+    "afflict",
+    "torment",
+    "stress",
+    "worry"
+  ],
+  "antonyms": [
+    "peace",
+    "soothe"
+  ],
+  "similar_words": [
+    "distressed",
+    "distressful",
+    "distressfully",
+    "distressing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distress.mp3",
+  "local_sound_path": "sounds/distress.mp3"
+}

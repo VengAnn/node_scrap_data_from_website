@@ -1,0 +1,45 @@
+{
+  "word": "ago",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3004.png",
+      "local_image_path": "images/3004.png"
+    },
+    {
+      "pos": "adv",
+      "example": "five years ago",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3005.png",
+      "local_image_path": "images/3005.png"
+    }
+  ],
+  "synonyms": [
+    "before",
+    "previously",
+    "back",
+    "past",
+    "since"
+  ],
+  "antonyms": [
+    "ahead"
+  ],
+  "similar_words": [
+    "agog",
+    "agoing",
+    "agonie",
+    "agonize",
+    "agonized",
+    "agonizing",
+    "agonizingly",
+    "agony",
+    "agony column",
+    "agora",
+    "agoraphobia",
+    "agoraphobic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ago.mp3",
+  "local_sound_path": "sounds/ago.mp3"
+}

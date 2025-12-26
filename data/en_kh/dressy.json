@@ -1,0 +1,38 @@
+{
+  "word": "dressy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23125.png",
+      "local_image_path": "images/23125.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118800.png",
+      "local_image_path": "images/118800.png"
+    }
+  ],
+  "synonyms": [
+    "smart",
+    "elegant",
+    "chic",
+    "run",
+    "formal",
+    "stylish",
+    "classy",
+    "posh",
+    "fashionable",
+    "swish"
+  ],
+  "antonyms": [
+    "plain",
+    "sloppy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dressy.mp3",
+  "local_sound_path": "sounds/dressy.mp3"
+}

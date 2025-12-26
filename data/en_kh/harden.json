@@ -1,0 +1,37 @@
+{
+  "word": "harden",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33854.png",
+      "local_image_path": "images/33854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harden syrup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33852.png",
+      "local_image_path": "images/33852.png"
+    },
+    {
+      "pos": "tv",
+      "example": "harden one's position",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33853.png",
+      "local_image_path": "images/33853.png"
+    }
+  ],
+  "synonyms": [
+    "toughen",
+    "strengthen",
+    "reinforce"
+  ],
+  "antonyms": [
+    "soften",
+    "weaken"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harden.mp3",
+  "local_sound_path": "sounds/harden.mp3"
+}

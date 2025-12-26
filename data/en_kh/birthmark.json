@@ -1,0 +1,32 @@
+{
+  "word": "birthmark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9164.png",
+      "local_image_path": "images/9164.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131354.png",
+      "local_image_path": "images/131354.png"
+    }
+  ],
+  "synonyms": [
+    "mark",
+    "stain",
+    "discoloration",
+    "blemish",
+    "nevus",
+    "patch",
+    "mole"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/birthmark.mp3",
+  "local_sound_path": "sounds/birthmark.mp3"
+}

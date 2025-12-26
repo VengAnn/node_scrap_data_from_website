@@ -1,0 +1,34 @@
+{
+  "word": "afforest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2761.png",
+      "local_image_path": "images/2761.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113382.png",
+      "local_image_path": "images/113382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113383.png",
+      "local_image_path": "images/113383.png"
+    }
+  ],
+  "synonyms": [
+    "forest",
+    "reforest",
+    "plant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/afforest.mp3",
+  "local_sound_path": "sounds/afforest.mp3"
+}

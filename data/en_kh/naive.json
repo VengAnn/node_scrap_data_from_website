@@ -1,0 +1,52 @@
+{
+  "word": "naive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111498.png",
+      "local_image_path": "images/111498.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111499.png",
+      "local_image_path": "images/111499.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111500.png",
+      "local_image_path": "images/111500.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130575.png",
+      "local_image_path": "images/130575.png"
+    }
+  ],
+  "synonyms": [
+    "inexperienced",
+    "immature",
+    "adolescent",
+    "green",
+    "raw",
+    "youthful"
+  ],
+  "antonyms": [
+    "sophisticated",
+    "suspicious",
+    "shrewd"
+  ],
+  "similar_words": [
+    "naively",
+    "naiveness",
+    "naivete",
+    "naivety"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/naive.mp3",
+  "local_sound_path": "sounds/naive.mp3"
+}

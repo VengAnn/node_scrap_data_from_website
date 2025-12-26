@@ -1,0 +1,48 @@
+{
+  "word": "beaver",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "beaver fur",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7936.png",
+      "local_image_path": "images/7936.png"
+    },
+    {
+      "pos": "n",
+      "example": "busy as a beaver",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7935.png",
+      "local_image_path": "images/7935.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7937.png",
+      "local_image_path": "images/7937.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114774.png",
+      "local_image_path": "images/114774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114775.png",
+      "local_image_path": "images/114775.png"
+    }
+  ],
+  "synonyms": [
+    "work",
+    "labor",
+    "toil",
+    "persevere",
+    "persist"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beaver.mp3",
+  "local_sound_path": "sounds/beaver.mp3"
+}

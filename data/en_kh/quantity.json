@@ -1,0 +1,48 @@
+{
+  "word": "quantity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "small quantity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69405.png",
+      "local_image_path": "images/69405.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69406.png",
+      "local_image_path": "images/69406.png"
+    },
+    {
+      "pos": "n",
+      "example": "an unknown quantity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69407.png",
+      "local_image_path": "images/69407.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126343.png",
+      "local_image_path": "images/126343.png"
+    }
+  ],
+  "synonyms": [
+    "amount",
+    "number",
+    "measure",
+    "extent",
+    "size",
+    "magnitude",
+    "capacity",
+    "mass"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "quantity discount",
+    "quantity survey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quantity.mp3",
+  "local_sound_path": "sounds/quantity.mp3"
+}

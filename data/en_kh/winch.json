@@ -1,0 +1,33 @@
+{
+  "word": "winch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100371.png",
+      "local_image_path": "images/100371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We can winch out these big tree rools.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100372.png",
+      "local_image_path": "images/100372.png"
+    }
+  ],
+  "synonyms": [
+    "raise",
+    "hoist",
+    "lift",
+    "pull",
+    "haul",
+    "wind"
+  ],
+  "antonyms": [
+    "lower"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/winch.mp3",
+  "local_sound_path": "sounds/winch.mp3"
+}

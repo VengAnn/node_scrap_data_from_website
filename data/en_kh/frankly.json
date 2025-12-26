@@ -1,0 +1,41 @@
+{
+  "word": "frankly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30116.png",
+      "local_image_path": "images/30116.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120409.png",
+      "local_image_path": "images/120409.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120410.png",
+      "local_image_path": "images/120410.png"
+    }
+  ],
+  "synonyms": [
+    "honestly",
+    "freely",
+    "openly",
+    "bluntly",
+    "truthfully",
+    "candidly",
+    "outspokenly"
+  ],
+  "antonyms": [
+    "deceitfully",
+    "insincerely"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frankly.mp3",
+  "local_sound_path": "sounds/frankly.mp3"
+}

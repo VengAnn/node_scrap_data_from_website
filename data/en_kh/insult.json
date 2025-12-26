@@ -1,0 +1,76 @@
+{
+  "word": "insult",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40853.png",
+      "local_image_path": "images/40853.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122638.png",
+      "local_image_path": "images/122638.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122639.png",
+      "local_image_path": "images/122639.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122640.png",
+      "local_image_path": "images/122640.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40852.png",
+      "local_image_path": "images/40852.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122641.png",
+      "local_image_path": "images/122641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122642.png",
+      "local_image_path": "images/122642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122643.png",
+      "local_image_path": "images/122643.png"
+    }
+  ],
+  "synonyms": [
+    "offend",
+    "affront",
+    "upset",
+    "abuse",
+    "cheek",
+    "slur",
+    "slight"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "insultant",
+    "insultation",
+    "insulter",
+    "insulting",
+    "insultingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/insult.mp3",
+  "local_sound_path": "sounds/insult.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "smell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "flowers smell sweet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81680.png",
+      "local_image_path": "images/81680.png"
+    },
+    {
+      "pos": "n",
+      "example": "good smell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81681.png",
+      "local_image_path": "images/81681.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I don't smell anything here.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81678.png",
+      "local_image_path": "images/81678.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smell his flower",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81679.png",
+      "local_image_path": "images/81679.png"
+    }
+  ],
+  "synonyms": [
+    "sniff",
+    "sense",
+    "reek",
+    "stink",
+    "hum",
+    "whiff"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "smell-less",
+    "smell-smock",
+    "smeller",
+    "smellfungus",
+    "smelling",
+    "smelling salts",
+    "smelling-bottom",
+    "smelling-saef",
+    "smelly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/smell.mp3",
+  "local_sound_path": "sounds/smell.mp3"
+}

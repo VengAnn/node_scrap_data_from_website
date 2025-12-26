@@ -1,0 +1,33 @@
+{
+  "word": "balloon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "balloon out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7220.png",
+      "local_image_path": "images/7220.png"
+    },
+    {
+      "pos": "n",
+      "example": "travel by balloon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7219.png",
+      "local_image_path": "images/7219.png"
+    }
+  ],
+  "synonyms": [
+    "swell",
+    "distend",
+    "inflate",
+    "expand",
+    "blow up",
+    "bloat"
+  ],
+  "antonyms": [
+    "deflate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/balloon.mp3",
+  "local_sound_path": "sounds/balloon.mp3"
+}

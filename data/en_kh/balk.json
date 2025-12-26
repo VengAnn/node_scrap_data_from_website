@@ -1,0 +1,83 @@
+{
+  "word": "balk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "balk at something",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7185.png",
+      "local_image_path": "images/7185.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114474.png",
+      "local_image_path": "images/114474.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114475.png",
+      "local_image_path": "images/114475.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114476.png",
+      "local_image_path": "images/114476.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7187.png",
+      "local_image_path": "images/7187.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the enemy soldier was balked in his plans",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7186.png",
+      "local_image_path": "images/7186.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114477.png",
+      "local_image_path": "images/114477.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114478.png",
+      "local_image_path": "images/114478.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114479.png",
+      "local_image_path": "images/114479.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114480.png",
+      "local_image_path": "images/114480.png"
+    }
+  ],
+  "synonyms": [
+    "recoil",
+    "start",
+    "cringe",
+    "hesitate",
+    "flinch",
+    "leap at"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "balkanize",
+    "balkiness",
+    "balky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/balk.mp3",
+  "local_sound_path": "sounds/balk.mp3"
+}

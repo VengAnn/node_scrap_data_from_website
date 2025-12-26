@@ -1,0 +1,29 @@
+{
+  "word": "blower",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he gets me on the blower",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9749.png",
+      "local_image_path": "images/9749.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115294.png",
+      "local_image_path": "images/115294.png"
+    }
+  ],
+  "synonyms": [
+    "phone",
+    "telephone",
+    "mobile",
+    "line"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blower.mp3",
+  "local_sound_path": "sounds/blower.mp3"
+}

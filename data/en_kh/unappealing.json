@@ -1,0 +1,47 @@
+{
+  "word": "unappealing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93179.png",
+      "local_image_path": "images/93179.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128688.png",
+      "local_image_path": "images/128688.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128689.png",
+      "local_image_path": "images/128689.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128690.png",
+      "local_image_path": "images/128690.png"
+    }
+  ],
+  "synonyms": [
+    "unattractive",
+    "unpleasant",
+    "disagreeable",
+    "ugly",
+    "unappetizing",
+    "uninviting"
+  ],
+  "antonyms": [
+    "appealing"
+  ],
+  "similar_words": [
+    "unappealingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unappealing.mp3",
+  "local_sound_path": "sounds/unappealing.mp3"
+}

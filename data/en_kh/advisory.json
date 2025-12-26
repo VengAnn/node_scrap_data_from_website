@@ -1,0 +1,33 @@
+{
+  "word": "advisory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "advisary board/council",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2608.png",
+      "local_image_path": "images/2608.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2609.png",
+      "local_image_path": "images/2609.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113343.png",
+      "local_image_path": "images/113343.png"
+    }
+  ],
+  "synonyms": [
+    "review",
+    "consultative"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advisory.mp3",
+  "local_sound_path": "sounds/advisory.mp3"
+}

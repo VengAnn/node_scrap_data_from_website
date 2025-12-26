@@ -1,0 +1,93 @@
+{
+  "word": "stuff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85576.png",
+      "local_image_path": "images/85576.png"
+    },
+    {
+      "pos": "n",
+      "example": "What's stuff?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85577.png",
+      "local_image_path": "images/85577.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85578.png",
+      "local_image_path": "images/85578.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85579.png",
+      "local_image_path": "images/85579.png"
+    },
+    {
+      "pos": "n",
+      "example": "food stuff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85580.png",
+      "local_image_path": "images/85580.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85581.png",
+      "local_image_path": "images/85581.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stuff a sausage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85582.png",
+      "local_image_path": "images/85582.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stuff clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85583.png",
+      "local_image_path": "images/85583.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85584.png",
+      "local_image_path": "images/85584.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85585.png",
+      "local_image_path": "images/85585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85586.png",
+      "local_image_path": "images/85586.png"
+    }
+  ],
+  "synonyms": [
+    "fill",
+    "pack",
+    "cram",
+    "ram",
+    "jam",
+    "stow",
+    "load",
+    "squeeze"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stuffily",
+    "stuffiness",
+    "stuffing",
+    "stuffy",
+    "stuffy head"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stuff.mp3",
+  "local_sound_path": "sounds/stuff.mp3"
+}

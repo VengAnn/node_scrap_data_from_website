@@ -1,0 +1,30 @@
+{
+  "word": "abut",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "a but on/on sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1729.png",
+      "local_image_path": "images/1729.png"
+    }
+  ],
+  "synonyms": [
+    "adjoin",
+    "touch",
+    "border",
+    "bound",
+    "neighbor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "abutilon",
+    "abutment",
+    "abuttal",
+    "abuttals",
+    "abutter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abut.mp3",
+  "local_sound_path": "sounds/abut.mp3"
+}

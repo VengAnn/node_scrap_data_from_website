@@ -1,0 +1,46 @@
+{
+  "word": "fasten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "fasten a seat belt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27737.png",
+      "local_image_path": "images/27737.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fasten a door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27738.png",
+      "local_image_path": "images/27738.png"
+    }
+  ],
+  "synonyms": [
+    "attach",
+    "fix",
+    "clip",
+    "clasp",
+    "secure",
+    "affix",
+    "join",
+    "chain",
+    "tie",
+    "hook",
+    "hitch",
+    "close",
+    "shut",
+    "zip",
+    "lock"
+  ],
+  "antonyms": [
+    "undo",
+    "detach"
+  ],
+  "similar_words": [
+    "fastener",
+    "fastening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fasten.mp3",
+  "local_sound_path": "sounds/fasten.mp3"
+}

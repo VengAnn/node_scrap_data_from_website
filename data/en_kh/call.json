@@ -1,0 +1,124 @@
+{
+  "word": "call",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "come to call",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12421.png",
+      "local_image_path": "images/12421.png"
+    },
+    {
+      "pos": "iv",
+      "example": "call after",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12422.png",
+      "local_image_path": "images/12422.png"
+    },
+    {
+      "pos": "iv",
+      "example": "call at a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12423.png",
+      "local_image_path": "images/12423.png"
+    },
+    {
+      "pos": "n",
+      "example": "do you hear call for help?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12424.png",
+      "local_image_path": "images/12424.png"
+    },
+    {
+      "pos": "n",
+      "example": "it is a special call of a bird",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12425.png",
+      "local_image_path": "images/12425.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130967.png",
+      "local_image_path": "images/130967.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will call you when I get there",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12420.png",
+      "local_image_path": "images/12420.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115853.png",
+      "local_image_path": "images/115853.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115854.png",
+      "local_image_path": "images/115854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115855.png",
+      "local_image_path": "images/115855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115856.png",
+      "local_image_path": "images/115856.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115857.png",
+      "local_image_path": "images/115857.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115858.png",
+      "local_image_path": "images/115858.png"
+    }
+  ],
+  "synonyms": [
+    "cry",
+    "noise",
+    "song",
+    "phone",
+    "telephone",
+    "ring"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "call bell",
+    "call center",
+    "call girl",
+    "call house",
+    "call letters",
+    "call loan",
+    "call market",
+    "call money",
+    "call number",
+    "call screening",
+    "call time",
+    "call-in",
+    "callback",
+    "callboard",
+    "callboy",
+    "caller",
+    "caller display",
+    "calligrapher",
+    "calligraphic",
+    "calligraphist",
+    "calligraphy",
+    "calling",
+    "calling card",
+    "calliope",
+    "calliper",
+    "callipers"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/call.mp3",
+  "local_sound_path": "sounds/call.mp3"
+}

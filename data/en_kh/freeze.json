@@ -1,0 +1,82 @@
+{
+  "word": "freeze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30218.png",
+      "local_image_path": "images/30218.png"
+    },
+    {
+      "pos": "iv",
+      "example": "liquids freeze",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30219.png",
+      "local_image_path": "images/30219.png"
+    },
+    {
+      "pos": "iv",
+      "example": "freeze at a command",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30220.png",
+      "local_image_path": "images/30220.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120446.png",
+      "local_image_path": "images/120446.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a freeze tonight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30224.png",
+      "local_image_path": "images/30224.png"
+    },
+    {
+      "pos": "tv",
+      "example": "freeze water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30221.png",
+      "local_image_path": "images/30221.png"
+    },
+    {
+      "pos": "tv",
+      "example": "freeze a picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30222.png",
+      "local_image_path": "images/30222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "freeze assets",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30223.png",
+      "local_image_path": "images/30223.png"
+    }
+  ],
+  "synonyms": [
+    "halt",
+    "hold",
+    "control",
+    "stop",
+    "immobilization",
+    "check",
+    "arrest",
+    "restriction",
+    "chill",
+    "refrigerate",
+    "cool",
+    "preserve"
+  ],
+  "antonyms": [
+    "thaw",
+    "resumption",
+    "vary",
+    "relax",
+    "resume"
+  ],
+  "similar_words": [
+    "freeze-dry",
+    "freezer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/freeze.mp3",
+  "local_sound_path": "sounds/freeze.mp3"
+}

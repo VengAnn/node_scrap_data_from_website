@@ -1,0 +1,30 @@
+{
+  "word": "photocopy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62698.png",
+      "local_image_path": "images/62698.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62699.png",
+      "local_image_path": "images/62699.png"
+    }
+  ],
+  "synonyms": [
+    "copy",
+    "reproduce",
+    "duplicate",
+    "replicate",
+    "reduplicate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/photocopy.mp3",
+  "local_sound_path": "sounds/photocopy.mp3"
+}

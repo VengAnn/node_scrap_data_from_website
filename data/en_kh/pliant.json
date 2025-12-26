@@ -1,0 +1,59 @@
+{
+  "word": "pliant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64191.png",
+      "local_image_path": "images/64191.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pliant material",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64192.png",
+      "local_image_path": "images/64192.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pliant mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64193.png",
+      "local_image_path": "images/64193.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64194.png",
+      "local_image_path": "images/64194.png"
+    }
+  ],
+  "synonyms": [
+    "compliant",
+    "docile",
+    "yielding",
+    "biddable",
+    "suggestible",
+    "tractable",
+    "impressionable",
+    "pliable",
+    "adaptable",
+    "adjustable",
+    "flexible",
+    "agreeable",
+    "accommodating",
+    "meek",
+    "obedient"
+  ],
+  "antonyms": [
+    "stiff",
+    "inflexible",
+    "rebellious"
+  ],
+  "similar_words": [
+    "pliantly",
+    "pliantness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pliant.mp3",
+  "local_sound_path": "sounds/pliant.mp3"
+}

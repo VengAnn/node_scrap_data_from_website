@@ -1,0 +1,43 @@
+{
+  "word": "condescend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16552.png",
+      "local_image_path": "images/16552.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117114.png",
+      "local_image_path": "images/117114.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117115.png",
+      "local_image_path": "images/117115.png"
+    }
+  ],
+  "synonyms": [
+    "deign",
+    "stoop",
+    "humble",
+    "demean",
+    "lower"
+  ],
+  "antonyms": [
+    "respect"
+  ],
+  "similar_words": [
+    "condescendence",
+    "condescender",
+    "condescending",
+    "condescendingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/condescend.mp3",
+  "local_sound_path": "sounds/condescend.mp3"
+}

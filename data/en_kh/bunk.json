@@ -1,0 +1,56 @@
+{
+  "word": "bunk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11864.png",
+      "local_image_path": "images/11864.png"
+    },
+    {
+      "pos": "n",
+      "example": "ship's bunk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11862.png",
+      "local_image_path": "images/11862.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130034.png",
+      "local_image_path": "images/130034.png"
+    },
+    {
+      "pos": "n (sl)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11863.png",
+      "local_image_path": "images/11863.png"
+    }
+  ],
+  "synonyms": [
+    "nonsense",
+    "absurdity",
+    "gibberish",
+    "drivel",
+    "hogwash",
+    "hot air",
+    "malarkey",
+    "rubbish",
+    "bed",
+    "berth",
+    "couchette",
+    "bunk bed"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bunk bed",
+    "bunker",
+    "bunkhouse",
+    "bunkmate",
+    "bunko",
+    "bunkum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bunk.mp3",
+  "local_sound_path": "sounds/bunk.mp3"
+}

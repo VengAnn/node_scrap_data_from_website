@@ -1,0 +1,60 @@
+{
+  "word": "clock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15082.png",
+      "local_image_path": "images/15082.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15083.png",
+      "local_image_path": "images/15083.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clock in (on)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15084.png",
+      "local_image_path": "images/15084.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clock out (off)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15085.png",
+      "local_image_path": "images/15085.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clock sth (up)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15086.png",
+      "local_image_path": "images/15086.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130991.png",
+      "local_image_path": "images/130991.png"
+    }
+  ],
+  "synonyms": [
+    "regulator",
+    "timer",
+    "device",
+    "control",
+    "meter",
+    "dial"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "Clock speed",
+    "clock work",
+    "clocker",
+    "clockwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clock.mp3",
+  "local_sound_path": "sounds/clock.mp3"
+}

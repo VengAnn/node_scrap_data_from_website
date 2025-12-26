@@ -1,0 +1,42 @@
+{
+  "word": "duty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "perform a duty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23518.png",
+      "local_image_path": "images/23518.png"
+    },
+    {
+      "pos": "n",
+      "example": "import duty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23519.png",
+      "local_image_path": "images/23519.png"
+    }
+  ],
+  "synonyms": [
+    "tax",
+    "payment",
+    "levy",
+    "due",
+    "job",
+    "task",
+    "function",
+    "responsibility",
+    "undertaking",
+    "obligation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "duty bound",
+    "duty free",
+    "duty free shop",
+    "duty-paid",
+    "duty-paid goods",
+    "duty-paid price"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duty.mp3",
+  "local_sound_path": "sounds/duty.mp3"
+}

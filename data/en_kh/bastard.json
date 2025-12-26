@@ -1,0 +1,61 @@
+{
+  "word": "bastard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bastard child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7682.png",
+      "local_image_path": "images/7682.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114667.png",
+      "local_image_path": "images/114667.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114668.png",
+      "local_image_path": "images/114668.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114669.png",
+      "local_image_path": "images/114669.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7681.png",
+      "local_image_path": "images/7681.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114670.png",
+      "local_image_path": "images/114670.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114671.png",
+      "local_image_path": "images/114671.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bastardisation",
+    "bastardise",
+    "bastardization",
+    "bastardize",
+    "bastardly",
+    "bastardy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bastard.mp3",
+  "local_sound_path": "sounds/bastard.mp3"
+}

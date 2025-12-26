@@ -1,0 +1,33 @@
+{
+  "word": "cold-blooded",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cold-blooded murder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15600.png",
+      "local_image_path": "images/15600.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130116.png",
+      "local_image_path": "images/130116.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130117.png",
+      "local_image_path": "images/130117.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "cold-bloodedly",
+    "cold-bloodedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cold-blooded.mp3",
+  "local_sound_path": "sounds/cold-blooded.mp3"
+}

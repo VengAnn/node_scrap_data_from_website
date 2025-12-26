@@ -1,0 +1,30 @@
+{
+  "word": "overhang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58728.png",
+      "local_image_path": "images/58728.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58727.png",
+      "local_image_path": "images/58727.png"
+    }
+  ],
+  "synonyms": [
+    "overshadow",
+    "loom",
+    "menace",
+    "threaten",
+    "lie over"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overhang.mp3",
+  "local_sound_path": "sounds/overhang.mp3"
+}

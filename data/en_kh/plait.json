@@ -1,0 +1,46 @@
+{
+  "word": "plait",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "plait of hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63802.png",
+      "local_image_path": "images/63802.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plait hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63800.png",
+      "local_image_path": "images/63800.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plait a mat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63801.png",
+      "local_image_path": "images/63801.png"
+    }
+  ],
+  "synonyms": [
+    "ponytail",
+    "pigtail",
+    "tress",
+    "braid",
+    "interlace",
+    "lace",
+    "intertwine",
+    "knit",
+    "entwine",
+    "merge",
+    "unite",
+    "interweave"
+  ],
+  "antonyms": [
+    "unravel",
+    "unpick"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plait.mp3",
+  "local_sound_path": "sounds/plait.mp3"
+}

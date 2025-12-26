@@ -1,0 +1,33 @@
+{
+  "word": "subtraction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The subtraction of 5 from 9 is 4.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131114.png",
+      "local_image_path": "images/131114.png"
+    }
+  ],
+  "synonyms": [
+    "calculation",
+    "addition",
+    "multiplication",
+    "division",
+    "elimination",
+    "exclusion",
+    "deletion",
+    "amputation",
+    "confiscation",
+    "deduction",
+    "abstraction",
+    "ejection"
+  ],
+  "antonyms": [
+    "estimation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subtraction.mp3",
+  "local_sound_path": "sounds/subtraction.mp3"
+}

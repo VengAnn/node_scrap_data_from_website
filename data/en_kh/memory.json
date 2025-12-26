@@ -1,0 +1,62 @@
+{
+  "word": "memory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "have a good memory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107646.png",
+      "local_image_path": "images/107646.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107647.png",
+      "local_image_path": "images/107647.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107648.png",
+      "local_image_path": "images/107648.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123881.png",
+      "local_image_path": "images/123881.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123882.png",
+      "local_image_path": "images/123882.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123883.png",
+      "local_image_path": "images/123883.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123884.png",
+      "local_image_path": "images/123884.png"
+    }
+  ],
+  "synonyms": [
+    "reminiscence",
+    "recollection",
+    "recall",
+    "remembrance",
+    "commemoration",
+    "celebration",
+    "memorial"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/memory.mp3",
+  "local_sound_path": "sounds/memory.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "contain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "cans contain beans",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17181.png",
+      "local_image_path": "images/17181.png"
+    },
+    {
+      "pos": "tv",
+      "example": "contain an epidemic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17182.png",
+      "local_image_path": "images/17182.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131002.png",
+      "local_image_path": "images/131002.png"
+    }
+  ],
+  "synonyms": [
+    "limit",
+    "control",
+    "delimit",
+    "restrict",
+    "confine"
+  ],
+  "antonyms": [
+    "unleash"
+  ],
+  "similar_words": [
+    "containable",
+    "container",
+    "container ship",
+    "containerisation",
+    "containerise",
+    "containerization",
+    "containerize",
+    "containment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contain.mp3",
+  "local_sound_path": "sounds/contain.mp3"
+}

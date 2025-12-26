@@ -1,0 +1,52 @@
+{
+  "word": "torrent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90286.png",
+      "local_image_path": "images/90286.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90287.png",
+      "local_image_path": "images/90287.png"
+    }
+  ],
+  "synonyms": [
+    "outburst",
+    "explosion",
+    "flare-up",
+    "rush",
+    "shower",
+    "storm",
+    "flood",
+    "deluge",
+    "stream",
+    "hail",
+    "gush",
+    "flow",
+    "inundation",
+    "surge",
+    "downpour",
+    "rainstorm",
+    "cloudburst",
+    "soaker",
+    "outpouring",
+    "tide",
+    "drenching rain"
+  ],
+  "antonyms": [
+    "trickle",
+    "shower"
+  ],
+  "similar_words": [
+    "torrential",
+    "torrentially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/torrent.mp3",
+  "local_sound_path": "sounds/torrent.mp3"
+}

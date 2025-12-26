@@ -1,0 +1,32 @@
+{
+  "word": "cheque",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14091.png",
+      "local_image_path": "images/14091.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116248.png",
+      "local_image_path": "images/116248.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116249.png",
+      "local_image_path": "images/116249.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "chequer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cheque.mp3",
+  "local_sound_path": "sounds/cheque.mp3"
+}

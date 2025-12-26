@@ -1,0 +1,51 @@
+{
+  "word": "repulsive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72533.png",
+      "local_image_path": "images/72533.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126918.png",
+      "local_image_path": "images/126918.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126919.png",
+      "local_image_path": "images/126919.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72534.png",
+      "local_image_path": "images/72534.png"
+    }
+  ],
+  "synonyms": [
+    "disgusting",
+    "revolting",
+    "nauseating",
+    "hideous",
+    "gross",
+    "vile",
+    "foul",
+    "abhorrent",
+    "repellent"
+  ],
+  "antonyms": [
+    "attractive"
+  ],
+  "similar_words": [
+    "repulsively",
+    "repulsiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repulsive.mp3",
+  "local_sound_path": "sounds/repulsive.mp3"
+}

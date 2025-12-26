@@ -1,0 +1,55 @@
+{
+  "word": "pleasant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64058.png",
+      "local_image_path": "images/64058.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pleasant surprise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64059.png",
+      "local_image_path": "images/64059.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pleasant weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64060.png",
+      "local_image_path": "images/64060.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pleasant manner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64061.png",
+      "local_image_path": "images/64061.png"
+    }
+  ],
+  "synonyms": [
+    "amiable",
+    "friendly",
+    "congenial",
+    "likable",
+    "nice",
+    "genial",
+    "affable",
+    "cheery",
+    "likeable",
+    "good-natured"
+  ],
+  "antonyms": [
+    "unpleasant",
+    "unfriendly",
+    "nasty"
+  ],
+  "similar_words": [
+    "pleasantly",
+    "pleasantness",
+    "pleasantry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pleasant.mp3",
+  "local_sound_path": "sounds/pleasant.mp3"
+}

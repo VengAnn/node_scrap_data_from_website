@@ -1,0 +1,49 @@
+{
+  "word": "linger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46755.png",
+      "local_image_path": "images/46755.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46756.png",
+      "local_image_path": "images/46756.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123554.png",
+      "local_image_path": "images/123554.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123555.png",
+      "local_image_path": "images/123555.png"
+    }
+  ],
+  "synonyms": [
+    "remain",
+    "loiter",
+    "stay",
+    "delay",
+    "dawdle"
+  ],
+  "antonyms": [
+    "leave"
+  ],
+  "similar_words": [
+    "lingerer",
+    "lingerie",
+    "lingering",
+    "lingeringly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/linger.mp3",
+  "local_sound_path": "sounds/linger.mp3"
+}

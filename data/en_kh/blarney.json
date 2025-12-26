@@ -1,0 +1,35 @@
+{
+  "word": "blarney",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9396.png",
+      "local_image_path": "images/9396.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9397.png",
+      "local_image_path": "images/9397.png"
+    }
+  ],
+  "synonyms": [
+    "flattery",
+    "rubbish",
+    "garbage",
+    "codswallop",
+    "charm",
+    "claptrap",
+    "nonsense",
+    "drivel",
+    "bunk",
+    "cobblers"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blarney.mp3",
+  "local_sound_path": "sounds/blarney.mp3"
+}

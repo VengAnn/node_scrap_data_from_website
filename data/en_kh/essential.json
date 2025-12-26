@@ -1,0 +1,73 @@
+{
+  "word": "essential",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "essential ingredient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25901.png",
+      "local_image_path": "images/25901.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25902.png",
+      "local_image_path": "images/25902.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119406.png",
+      "local_image_path": "images/119406.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119407.png",
+      "local_image_path": "images/119407.png"
+    },
+    {
+      "pos": "n",
+      "example": "Is money essential to happiness?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25903.png",
+      "local_image_path": "images/25903.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119408.png",
+      "local_image_path": "images/119408.png"
+    }
+  ],
+  "synonyms": [
+    "fundamental",
+    "basic",
+    "elemental",
+    "key",
+    "central",
+    "chief",
+    "need",
+    "necessity",
+    "requirement",
+    "want",
+    "prerequisite",
+    "must",
+    "requisite",
+    "necessary",
+    "demand"
+  ],
+  "antonyms": [
+    "unnecessary",
+    "secondary",
+    "option",
+    "luxury"
+  ],
+  "similar_words": [
+    "essentiality",
+    "essentially",
+    "essentialness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/essential.mp3",
+  "local_sound_path": "sounds/essential.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "word": "direct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "direct answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21499.png",
+      "local_image_path": "images/21499.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21498.png",
+      "local_image_path": "images/21498.png"
+    },
+    {
+      "pos": "tv",
+      "example": "direct a project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21495.png",
+      "local_image_path": "images/21495.png"
+    },
+    {
+      "pos": "tv",
+      "example": "direct him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21496.png",
+      "local_image_path": "images/21496.png"
+    },
+    {
+      "pos": "tv",
+      "example": "direct a question to him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21497.png",
+      "local_image_path": "images/21497.png"
+    }
+  ],
+  "synonyms": [
+    "manage",
+    "control",
+    "regulate",
+    "rule",
+    "produce",
+    "oversee",
+    "supervise",
+    "preside"
+  ],
+  "antonyms": [
+    "circuitous",
+    "indirectly",
+    "devious",
+    "vague",
+    "request"
+  ],
+  "similar_words": [
+    "direct election",
+    "direct evidence",
+    "direct examination",
+    "direct exchange",
+    "direct export (import)",
+    "direct import",
+    "directed verdict",
+    "direction",
+    "directional",
+    "directionless",
+    "directive",
+    "directives",
+    "directly",
+    "directness",
+    "director",
+    "director-general",
+    "directorate",
+    "directorship",
+    "directory",
+    "directress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/direct.mp3",
+  "local_sound_path": "sounds/direct.mp3"
+}

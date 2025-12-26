@@ -1,0 +1,44 @@
+{
+  "word": "unfit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He is unfit to be a doctor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94343.png",
+      "local_image_path": "images/94343.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94344.png",
+      "local_image_path": "images/94344.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94345.png",
+      "local_image_path": "images/94345.png"
+    }
+  ],
+  "synonyms": [
+    "unsuitable",
+    "inappropriate",
+    "unsuited",
+    "inapt",
+    "unacceptable",
+    "inacceptable"
+  ],
+  "antonyms": [
+    "fit",
+    "competent",
+    "suitable"
+  ],
+  "similar_words": [
+    "unfitly",
+    "unfitness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unfit.mp3",
+  "local_sound_path": "sounds/unfit.mp3"
+}

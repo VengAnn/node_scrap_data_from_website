@@ -1,0 +1,36 @@
+{
+  "word": "abolish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "abolish slavery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1485.png",
+      "local_image_path": "images/1485.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1484.png",
+      "local_image_path": "images/1484.png"
+    }
+  ],
+  "synonyms": [
+    "eliminate",
+    "stop",
+    "eradicate",
+    "obliterate",
+    "end"
+  ],
+  "antonyms": [
+    "establish"
+  ],
+  "similar_words": [
+    "abolishable",
+    "abolisher",
+    "abolishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abolish.mp3",
+  "local_sound_path": "sounds/abolish.mp3"
+}

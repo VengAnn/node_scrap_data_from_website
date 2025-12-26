@@ -1,0 +1,32 @@
+{
+  "word": "catcall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13309.png",
+      "local_image_path": "images/13309.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13308.png",
+      "local_image_path": "images/13308.png"
+    }
+  ],
+  "synonyms": [
+    "jeer",
+    "hiss",
+    "taunt",
+    "insult",
+    "mockery",
+    "shout",
+    "whistle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/catcall.mp3",
+  "local_sound_path": "sounds/catcall.mp3"
+}

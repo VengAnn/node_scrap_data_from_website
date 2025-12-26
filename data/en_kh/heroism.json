@@ -1,0 +1,45 @@
+{
+  "word": "heroism",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34885.png",
+      "local_image_path": "images/34885.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121066.png",
+      "local_image_path": "images/121066.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121067.png",
+      "local_image_path": "images/121067.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121068.png",
+      "local_image_path": "images/121068.png"
+    }
+  ],
+  "synonyms": [
+    "bravery",
+    "fearlessness",
+    "boldness",
+    "pluckiness",
+    "pluck",
+    "gallantry",
+    "daring",
+    "courageousness"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heroism.mp3",
+  "local_sound_path": "sounds/heroism.mp3"
+}

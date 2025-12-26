@@ -1,0 +1,44 @@
+{
+  "word": "affectionately",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2711.png",
+      "local_image_path": "images/2711.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112218.png",
+      "local_image_path": "images/112218.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112219.png",
+      "local_image_path": "images/112219.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112220.png",
+      "local_image_path": "images/112220.png"
+    }
+  ],
+  "synonyms": [
+    "warmly",
+    "lovingly",
+    "tenderly",
+    "kindly",
+    "demonstratively"
+  ],
+  "antonyms": [
+    "coldly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affectionately.mp3",
+  "local_sound_path": "sounds/affectionately.mp3"
+}

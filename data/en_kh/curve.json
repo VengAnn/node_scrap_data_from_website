@@ -1,0 +1,45 @@
+{
+  "word": "curve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19235.png",
+      "local_image_path": "images/19235.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19234.png",
+      "local_image_path": "images/19234.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19236.png",
+      "local_image_path": "images/19236.png"
+    }
+  ],
+  "synonyms": [
+    "bend",
+    "bow",
+    "curl",
+    "coil",
+    "twist",
+    "turn",
+    "hook",
+    "arch"
+  ],
+  "antonyms": [
+    "straighten"
+  ],
+  "similar_words": [
+    "curved",
+    "curvedness",
+    "curvet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curve.mp3",
+  "local_sound_path": "sounds/curve.mp3"
+}

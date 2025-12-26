@@ -1,0 +1,42 @@
+{
+  "word": "attitude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "attitude of the student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6288.png",
+      "local_image_path": "images/6288.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental attitude",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132243.png",
+      "local_image_path": "images/132243.png"
+    }
+  ],
+  "synonyms": [
+    "stance",
+    "posture",
+    "pose",
+    "position",
+    "bearing",
+    "approach",
+    "outlook",
+    "manner",
+    "opinion",
+    "viewpoint",
+    "view",
+    "standpoint",
+    "line",
+    "feeling",
+    "thought",
+    "mind",
+    "carriage"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attitude.mp3",
+  "local_sound_path": "sounds/attitude.mp3"
+}

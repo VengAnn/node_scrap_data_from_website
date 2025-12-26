@@ -1,0 +1,76 @@
+{
+  "word": "clash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14818.png",
+      "local_image_path": "images/14818.png"
+    },
+    {
+      "pos": "iv",
+      "example": "clash (with sb)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14817.png",
+      "local_image_path": "images/14817.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130070.png",
+      "local_image_path": "images/130070.png"
+    },
+    {
+      "pos": "n",
+      "example": "lound clash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14820.png",
+      "local_image_path": "images/14820.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130071.png",
+      "local_image_path": "images/130071.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clash swords",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14819.png",
+      "local_image_path": "images/14819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116423.png",
+      "local_image_path": "images/116423.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116424.png",
+      "local_image_path": "images/116424.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116425.png",
+      "local_image_path": "images/116425.png"
+    }
+  ],
+  "synonyms": [
+    "clank",
+    "clang",
+    "clatter",
+    "crash",
+    "bang"
+  ],
+  "antonyms": [
+    "agree",
+    "agreement",
+    "match"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clash.mp3",
+  "local_sound_path": "sounds/clash.mp3"
+}

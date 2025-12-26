@@ -1,0 +1,36 @@
+{
+  "word": "vaccination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "vaccination against smallpox",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97022.png",
+      "local_image_path": "images/97022.png"
+    },
+    {
+      "pos": "n",
+      "example": "Show me your vaccination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97023.png",
+      "local_image_path": "images/97023.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129642.png",
+      "local_image_path": "images/129642.png"
+    }
+  ],
+  "synonyms": [
+    "inoculation",
+    "immunization",
+    "injection",
+    "jab",
+    "shot"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vaccination.mp3",
+  "local_sound_path": "sounds/vaccination.mp3"
+}

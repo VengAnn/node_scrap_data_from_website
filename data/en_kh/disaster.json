@@ -1,0 +1,47 @@
+{
+  "word": "disaster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "natural disaster",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21610.png",
+      "local_image_path": "images/21610.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118382.png",
+      "local_image_path": "images/118382.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118383.png",
+      "local_image_path": "images/118383.png"
+    }
+  ],
+  "synonyms": [
+    "failure",
+    "debacle",
+    "misfortune",
+    "mess",
+    "fiasco",
+    "farce",
+    "catastrophe",
+    "calamity",
+    "blow",
+    "shambles"
+  ],
+  "antonyms": [
+    "success"
+  ],
+  "similar_words": [
+    "disasterous",
+    "disasterously",
+    "disasterousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disaster.mp3",
+  "local_sound_path": "sounds/disaster.mp3"
+}

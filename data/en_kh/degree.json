@@ -1,0 +1,38 @@
+{
+  "word": "degree",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "degree of temperature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20262.png",
+      "local_image_path": "images/20262.png"
+    },
+    {
+      "pos": "n",
+      "example": "university degree",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20263.png",
+      "local_image_path": "images/20263.png"
+    }
+  ],
+  "synonyms": [
+    "grade",
+    "gradation",
+    "mark",
+    "notch",
+    "step",
+    "amount",
+    "quantity",
+    "level",
+    "scale",
+    "extent",
+    "point",
+    "measure",
+    "intensity"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/degree.mp3",
+  "local_sound_path": "sounds/degree.mp3"
+}

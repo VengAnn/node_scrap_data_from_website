@@ -1,0 +1,83 @@
+{
+  "word": "flare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "When he was accused of stealling, he flared up.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28897.png",
+      "local_image_path": "images/28897.png"
+    },
+    {
+      "pos": "iv",
+      "example": "passions flare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28898.png",
+      "local_image_path": "images/28898.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120210.png",
+      "local_image_path": "images/120210.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120211.png",
+      "local_image_path": "images/120211.png"
+    },
+    {
+      "pos": "n",
+      "example": "flare of a flame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28901.png",
+      "local_image_path": "images/28901.png"
+    },
+    {
+      "pos": "n",
+      "example": "flare of a skirt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28902.png",
+      "local_image_path": "images/28902.png"
+    },
+    {
+      "pos": "n",
+      "example": "flare of temper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28903.png",
+      "local_image_path": "images/28903.png"
+    },
+    {
+      "pos": "n",
+      "example": "signal flare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28904.png",
+      "local_image_path": "images/28904.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flare a light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28899.png",
+      "local_image_path": "images/28899.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flare a pants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28900.png",
+      "local_image_path": "images/28900.png"
+    }
+  ],
+  "synonyms": [
+    "flash",
+    "blaze",
+    "flicker",
+    "flame",
+    "burst",
+    "sparkle",
+    "burn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "flare-path",
+    "flare-up"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flare.mp3",
+  "local_sound_path": "sounds/flare.mp3"
+}

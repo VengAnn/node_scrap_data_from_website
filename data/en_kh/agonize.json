@@ -1,0 +1,73 @@
+{
+  "word": "agonize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "agonize over a problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3009.png",
+      "local_image_path": "images/3009.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113456.png",
+      "local_image_path": "images/113456.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113457.png",
+      "local_image_path": "images/113457.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113458.png",
+      "local_image_path": "images/113458.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3010.png",
+      "local_image_path": "images/3010.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112321.png",
+      "local_image_path": "images/112321.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112322.png",
+      "local_image_path": "images/112322.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112323.png",
+      "local_image_path": "images/112323.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112324.png",
+      "local_image_path": "images/112324.png"
+    }
+  ],
+  "synonyms": [
+    "worry",
+    "struggle",
+    "strive",
+    "vacillate",
+    "wrestle",
+    "suffer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agonize.mp3",
+  "local_sound_path": "sounds/agonize.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "copper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Is the pipe copper?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17636.png",
+      "local_image_path": "images/17636.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is a copper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17637.png",
+      "local_image_path": "images/17637.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "copper-smith",
+    "copperhead",
+    "copperplate",
+    "copperware"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/copper.mp3",
+  "local_sound_path": "sounds/copper.mp3"
+}

@@ -1,0 +1,110 @@
+{
+  "word": "air",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "air force",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3094.png",
+      "local_image_path": "images/3094.png"
+    },
+    {
+      "pos": "n",
+      "example": "fresh air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3092.png",
+      "local_image_path": "images/3092.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113470.png",
+      "local_image_path": "images/113470.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113471.png",
+      "local_image_path": "images/113471.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113472.png",
+      "local_image_path": "images/113472.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113473.png",
+      "local_image_path": "images/113473.png"
+    },
+    {
+      "pos": "tv",
+      "example": "air the room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3093.png",
+      "local_image_path": "images/3093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113474.png",
+      "local_image_path": "images/113474.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113475.png",
+      "local_image_path": "images/113475.png"
+    }
+  ],
+  "synonyms": [
+    "declare",
+    "express",
+    "vent",
+    "proclaim",
+    "reveal",
+    "publicize",
+    "spread",
+    "circulate",
+    "tell",
+    "announce",
+    "broadcast"
+  ],
+  "antonyms": [
+    "suppress"
+  ],
+  "similar_words": [
+    "air boat",
+    "air command",
+    "air commodore",
+    "air corridor",
+    "air cover",
+    "air divison",
+    "air express",
+    "air fare",
+    "air force",
+    "air lane",
+    "air letter",
+    "air mail letter",
+    "air mattress",
+    "air mile",
+    "air piracy",
+    "air pirate",
+    "air pocket",
+    "air pressure",
+    "air pump",
+    "air quote",
+    "air rage",
+    "air rifle",
+    "air sac",
+    "air shaft",
+    "air sickness",
+    "air speed",
+    "air spray",
+    "air taxi",
+    "air terminal"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/air.mp3",
+  "local_sound_path": "sounds/air.mp3"
+}

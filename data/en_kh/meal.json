@@ -1,0 +1,51 @@
+{
+  "word": "meal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107017.png",
+      "local_image_path": "images/107017.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107018.png",
+      "local_image_path": "images/107018.png"
+    }
+  ],
+  "synonyms": [
+    "mealtime",
+    "feast",
+    "banquet",
+    "breakfast",
+    "brunch",
+    "lunch",
+    "dinner",
+    "supper",
+    "tea"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "meal worm",
+    "mealable",
+    "mealer",
+    "mealie",
+    "mealiness",
+    "mealing",
+    "mealman",
+    "mealmonger",
+    "mealock",
+    "mealtide",
+    "mealtime",
+    "mealy",
+    "mealy back",
+    "mealy bug",
+    "mealy mouthedness",
+    "mealy-mouthed"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meal.mp3",
+  "local_sound_path": "sounds/meal.mp3"
+}

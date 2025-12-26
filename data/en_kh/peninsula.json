@@ -1,0 +1,32 @@
+{
+  "word": "peninsula",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61355.png",
+      "local_image_path": "images/61355.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125299.png",
+      "local_image_path": "images/125299.png"
+    }
+  ],
+  "synonyms": [
+    "cape",
+    "isthmus",
+    "point",
+    "headland"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "peninsular",
+    "peninsulate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peninsula.mp3",
+  "local_sound_path": "sounds/peninsula.mp3"
+}

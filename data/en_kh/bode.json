@@ -1,0 +1,29 @@
+{
+  "word": "bode",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "this bodes you no good",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9927.png",
+      "local_image_path": "images/9927.png"
+    }
+  ],
+  "synonyms": [
+    "augur",
+    "portend",
+    "promise",
+    "divine",
+    "betoken",
+    "prefigure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bodeful",
+    "bodega",
+    "bodement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bode.mp3",
+  "local_sound_path": "sounds/bode.mp3"
+}

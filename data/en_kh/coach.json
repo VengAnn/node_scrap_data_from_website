@@ -1,0 +1,69 @@
+{
+  "word": "coach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15238.png",
+      "local_image_path": "images/15238.png"
+    },
+    {
+      "pos": "n",
+      "example": "four-horse coach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15235.png",
+      "local_image_path": "images/15235.png"
+    },
+    {
+      "pos": "n",
+      "example": "he is a good football coach in my high school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15236.png",
+      "local_image_path": "images/15236.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116558.png",
+      "local_image_path": "images/116558.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116559.png",
+      "local_image_path": "images/116559.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116560.png",
+      "local_image_path": "images/116560.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15237.png",
+      "local_image_path": "images/15237.png"
+    }
+  ],
+  "synonyms": [
+    "teach",
+    "train",
+    "prepare",
+    "instruct",
+    "tutor",
+    "drill",
+    "educate",
+    "school"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coach party",
+    "coach tour",
+    "coachbox",
+    "coaching",
+    "coachman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coach.mp3",
+  "local_sound_path": "sounds/coach.mp3"
+}

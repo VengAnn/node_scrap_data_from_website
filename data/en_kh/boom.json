@@ -1,0 +1,70 @@
+{
+  "word": "boom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10173.png",
+      "local_image_path": "images/10173.png"
+    },
+    {
+      "pos": "v",
+      "example": "Our business is booming well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10172.png",
+      "local_image_path": "images/10172.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115380.png",
+      "local_image_path": "images/115380.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115381.png",
+      "local_image_path": "images/115381.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115382.png",
+      "local_image_path": "images/115382.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115383.png",
+      "local_image_path": "images/115383.png"
+    }
+  ],
+  "synonyms": [
+    "prosperous",
+    "affluent",
+    "successful",
+    "thriving",
+    "grow",
+    "soar",
+    "rocket",
+    "rise",
+    "expand",
+    "develop",
+    "explode",
+    "surge",
+    "gain",
+    "increase"
+  ],
+  "antonyms": [
+    "collapse"
+  ],
+  "similar_words": [
+    "boomer",
+    "boomerang",
+    "booming",
+    "boomlet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boom.mp3",
+  "local_sound_path": "sounds/boom.mp3"
+}

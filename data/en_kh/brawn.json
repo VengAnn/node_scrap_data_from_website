@@ -1,0 +1,45 @@
+{
+  "word": "brawn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10772.png",
+      "local_image_path": "images/10772.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115551.png",
+      "local_image_path": "images/115551.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115552.png",
+      "local_image_path": "images/115552.png"
+    }
+  ],
+  "synonyms": [
+    "strength",
+    "muscle",
+    "power",
+    "physique",
+    "burliness",
+    "muscularity"
+  ],
+  "antonyms": [
+    "weakness"
+  ],
+  "similar_words": [
+    "brawned",
+    "brawner",
+    "brawnily",
+    "brawniness",
+    "brawny"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brawn.mp3",
+  "local_sound_path": "sounds/brawn.mp3"
+}

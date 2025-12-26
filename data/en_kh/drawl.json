@@ -1,0 +1,33 @@
+{
+  "word": "drawl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23053.png",
+      "local_image_path": "images/23053.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23052.png",
+      "local_image_path": "images/23052.png"
+    }
+  ],
+  "synonyms": [
+    "pronunciation",
+    "inflection",
+    "intonation",
+    "enunciation",
+    "twang",
+    "brogue",
+    "burr",
+    "bur"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drawl.mp3",
+  "local_sound_path": "sounds/drawl.mp3"
+}

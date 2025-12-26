@@ -1,0 +1,46 @@
+{
+  "word": "career",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12977.png",
+      "local_image_path": "images/12977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12976.png",
+      "local_image_path": "images/12976.png"
+    }
+  ],
+  "synonyms": [
+    "vocation",
+    "job",
+    "occupation",
+    "profession",
+    "calling",
+    "livelihood",
+    "hurtle",
+    "dash",
+    "tear",
+    "race",
+    "speed",
+    "rush",
+    "gallop",
+    "thunder",
+    "run",
+    "hurry"
+  ],
+  "antonyms": [
+    "dawdle"
+  ],
+  "similar_words": [
+    "career girl",
+    "careerist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/career.mp3",
+  "local_sound_path": "sounds/career.mp3"
+}

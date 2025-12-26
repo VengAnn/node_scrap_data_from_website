@@ -1,0 +1,39 @@
+{
+  "word": "advocate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2611.png",
+      "local_image_path": "images/2611.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112007.png",
+      "local_image_path": "images/112007.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2612.png",
+      "local_image_path": "images/2612.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "encourage",
+    "back",
+    "promote",
+    "sponsor"
+  ],
+  "antonyms": [
+    "opponent",
+    "discourage"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advocate.mp3",
+  "local_sound_path": "sounds/advocate.mp3"
+}

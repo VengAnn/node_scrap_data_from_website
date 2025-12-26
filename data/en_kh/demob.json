@@ -1,0 +1,36 @@
+{
+  "word": "demob",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20425.png",
+      "local_image_path": "images/20425.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20424.png",
+      "local_image_path": "images/20424.png"
+    }
+  ],
+  "synonyms": [
+    "demobilize",
+    "disband",
+    "discharge",
+    "dismiss",
+    "release"
+  ],
+  "antonyms": [
+    "mobilize"
+  ],
+  "similar_words": [
+    "demobilisation",
+    "demobilization",
+    "demobilize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demob.mp3",
+  "local_sound_path": "sounds/demob.mp3"
+}

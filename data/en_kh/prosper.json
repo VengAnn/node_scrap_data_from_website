@@ -1,0 +1,35 @@
+{
+  "word": "prosper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The business prospered.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67981.png",
+      "local_image_path": "images/67981.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67982.png",
+      "local_image_path": "images/67982.png"
+    }
+  ],
+  "synonyms": [
+    "flourish",
+    "thrive",
+    "grow",
+    "burgeon",
+    "succeed"
+  ],
+  "antonyms": [
+    "decline"
+  ],
+  "similar_words": [
+    "prosperity",
+    "prosperous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prosper.mp3",
+  "local_sound_path": "sounds/prosper.mp3"
+}

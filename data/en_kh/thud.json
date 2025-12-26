@@ -1,0 +1,29 @@
+{
+  "word": "thud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89235.png",
+      "local_image_path": "images/89235.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89236.png",
+      "local_image_path": "images/89236.png"
+    }
+  ],
+  "synonyms": [
+    "bang",
+    "pound",
+    "thump",
+    "bump"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thud.mp3",
+  "local_sound_path": "sounds/thud.mp3"
+}

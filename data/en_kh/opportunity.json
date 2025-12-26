@@ -1,0 +1,26 @@
+{
+  "word": "opportunity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "job opportunity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57809.png",
+      "local_image_path": "images/57809.png"
+    }
+  ],
+  "synonyms": [
+    "chance",
+    "occasion",
+    "opening",
+    "break",
+    "prospect"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "opportunity cost"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/opportunity.mp3",
+  "local_sound_path": "sounds/opportunity.mp3"
+}

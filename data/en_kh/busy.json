@@ -1,0 +1,33 @@
+{
+  "word": "busy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I am busy today",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12053.png",
+      "local_image_path": "images/12053.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he busied himself cooking dinner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12054.png",
+      "local_image_path": "images/12054.png"
+    }
+  ],
+  "synonyms": [
+    "engaged",
+    "occupied",
+    "unavailable",
+    "taken"
+  ],
+  "antonyms": [
+    "empty",
+    "idle",
+    "free"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/busy.mp3",
+  "local_sound_path": "sounds/busy.mp3"
+}

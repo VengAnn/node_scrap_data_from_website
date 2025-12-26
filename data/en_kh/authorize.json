@@ -1,0 +1,30 @@
+{
+  "word": "authorize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I have authorized you to act for me while I am abroad",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6522.png",
+      "local_image_path": "images/6522.png"
+    }
+  ],
+  "synonyms": [
+    "approve",
+    "allow",
+    "sanction",
+    "permit",
+    "okay",
+    "empower"
+  ],
+  "antonyms": [
+    "forbid"
+  ],
+  "similar_words": [
+    "authorized",
+    "authorizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authorize.mp3",
+  "local_sound_path": "sounds/authorize.mp3"
+}

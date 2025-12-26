@@ -1,0 +1,41 @@
+{
+  "word": "dirt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "How can I get dirt off the walls?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21527.png",
+      "local_image_path": "images/21527.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21528.png",
+      "local_image_path": "images/21528.png"
+    }
+  ],
+  "synonyms": [
+    "gossip",
+    "scandal",
+    "filth",
+    "lowdown",
+    "smut",
+    "juice",
+    "scuttlebutt"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dirt cheap",
+    "dirtily",
+    "dirtiness",
+    "dirty",
+    "dirty oldman",
+    "dirty pool",
+    "dirty tricks",
+    "dirty-minded"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dirt.mp3",
+  "local_sound_path": "sounds/dirt.mp3"
+}

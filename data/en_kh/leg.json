@@ -1,0 +1,65 @@
+{
+  "word": "leg",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45688.png",
+      "local_image_path": "images/45688.png"
+    },
+    {
+      "pos": "n",
+      "example": "leg of a triangle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45689.png",
+      "local_image_path": "images/45689.png"
+    },
+    {
+      "pos": "n",
+      "example": "leg of a journey",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45690.png",
+      "local_image_path": "images/45690.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "prop",
+    "crutch",
+    "buttress",
+    "piling",
+    "strut",
+    "lap",
+    "part",
+    "segment",
+    "section",
+    "stage",
+    "phase",
+    "step"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "legacy",
+    "legal",
+    "legal adviser",
+    "legal entity",
+    "legal pad",
+    "legal person",
+    "legal tender",
+    "legalese",
+    "legalism",
+    "legalison",
+    "legalist",
+    "legalistic",
+    "legalistically",
+    "legality",
+    "legalization",
+    "legalize",
+    "legally",
+    "legalness",
+    "legate",
+    "legatee"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leg.mp3",
+  "local_sound_path": "sounds/leg.mp3"
+}

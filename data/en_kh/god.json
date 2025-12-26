@@ -1,0 +1,55 @@
+{
+  "word": "god",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "My God!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32170.png",
+      "local_image_path": "images/32170.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32169.png",
+      "local_image_path": "images/32169.png"
+    }
+  ],
+  "synonyms": [
+    "deity",
+    "spirit",
+    "divinity",
+    "idol"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "god tree",
+    "god-child",
+    "god-daughter",
+    "god-down",
+    "god-fearing",
+    "god-forsaken",
+    "god-head",
+    "god-speed",
+    "godawful",
+    "goddess",
+    "godfather",
+    "godfly",
+    "godhood",
+    "godless",
+    "godlessness",
+    "godlike",
+    "godlikeness",
+    "godliness",
+    "godling",
+    "godly",
+    "godmother",
+    "godown",
+    "godparents",
+    "godsend",
+    "godson"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/god.mp3",
+  "local_sound_path": "sounds/god.mp3"
+}

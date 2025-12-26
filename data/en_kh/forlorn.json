@@ -1,0 +1,56 @@
+{
+  "word": "forlorn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "forlorn child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29841.png",
+      "local_image_path": "images/29841.png"
+    },
+    {
+      "pos": "adj",
+      "example": "forlorn feeling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29842.png",
+      "local_image_path": "images/29842.png"
+    },
+    {
+      "pos": "adj",
+      "example": "forlorn area",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29843.png",
+      "local_image_path": "images/29843.png"
+    },
+    {
+      "pos": "adj",
+      "example": "forlorn hope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29844.png",
+      "local_image_path": "images/29844.png"
+    }
+  ],
+  "synonyms": [
+    "lonely",
+    "lost",
+    "abandoned",
+    "forsaken",
+    "deserted",
+    "desolate",
+    "sad",
+    "pitiful",
+    "dejected",
+    "despondent",
+    "unhappy",
+    "hopeless",
+    "desperate",
+    "miserable"
+  ],
+  "antonyms": [
+    "cheerful"
+  ],
+  "similar_words": [
+    "forlornly",
+    "forlornness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forlorn.mp3",
+  "local_sound_path": "sounds/forlorn.mp3"
+}

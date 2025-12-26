@@ -1,0 +1,60 @@
+{
+  "word": "tarnish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "His reputation is tarnished",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87589.png",
+      "local_image_path": "images/87589.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87593.png",
+      "local_image_path": "images/87593.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87590.png",
+      "local_image_path": "images/87590.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tarnish silver",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87591.png",
+      "local_image_path": "images/87591.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tarnish his reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87592.png",
+      "local_image_path": "images/87592.png"
+    }
+  ],
+  "synonyms": [
+    "blemish",
+    "taint",
+    "stain",
+    "blot",
+    "spoil",
+    "ruin",
+    "damage",
+    "harm",
+    "destroy",
+    "sully",
+    "blacken"
+  ],
+  "antonyms": [
+    "clean",
+    "enhance"
+  ],
+  "similar_words": [
+    "tarnishable",
+    "tarnished"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tarnish.mp3",
+  "local_sound_path": "sounds/tarnish.mp3"
+}

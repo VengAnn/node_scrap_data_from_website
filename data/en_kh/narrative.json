@@ -1,0 +1,32 @@
+{
+  "word": "narrative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54955.png",
+      "local_image_path": "images/54955.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54953.png",
+      "local_image_path": "images/54953.png"
+    },
+    {
+      "pos": "n",
+      "example": "The novel contains more narrative than dialogue.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54954.png",
+      "local_image_path": "images/54954.png"
+    }
+  ],
+  "synonyms": [
+    "plot"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/narrative.mp3",
+  "local_sound_path": "sounds/narrative.mp3"
+}

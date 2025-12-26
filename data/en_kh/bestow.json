@@ -1,0 +1,33 @@
+{
+  "word": "bestow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8465.png",
+      "local_image_path": "images/8465.png"
+    }
+  ],
+  "synonyms": [
+    "give",
+    "confer",
+    "bequeath",
+    "donate",
+    "grant",
+    "present",
+    "impart"
+  ],
+  "antonyms": [
+    "withdraw"
+  ],
+  "similar_words": [
+    "bestowable",
+    "bestowal",
+    "bestower",
+    "bestowment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bestow.mp3",
+  "local_sound_path": "sounds/bestow.mp3"
+}

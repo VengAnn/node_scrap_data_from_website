@@ -1,0 +1,45 @@
+{
+  "word": "slag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80926.png",
+      "local_image_path": "images/80926.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80922.png",
+      "local_image_path": "images/80922.png"
+    },
+    {
+      "pos": "n",
+      "example": "coke slag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80923.png",
+      "local_image_path": "images/80923.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80924.png",
+      "local_image_path": "images/80924.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80925.png",
+      "local_image_path": "images/80925.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "slag-heap",
+    "slaggy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slag.mp3",
+  "local_sound_path": "sounds/slag.mp3"
+}

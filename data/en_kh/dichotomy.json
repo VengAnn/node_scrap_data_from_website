@@ -1,0 +1,33 @@
+{
+  "word": "dichotomy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21237.png",
+      "local_image_path": "images/21237.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118264.png",
+      "local_image_path": "images/118264.png"
+    }
+  ],
+  "synonyms": [
+    "contrast",
+    "opposition",
+    "gulf",
+    "contradiction",
+    "separation",
+    "clash"
+  ],
+  "antonyms": [
+    "harmony"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dichotomy.mp3",
+  "local_sound_path": "sounds/dichotomy.mp3"
+}

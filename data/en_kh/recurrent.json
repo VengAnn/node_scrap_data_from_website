@@ -1,0 +1,44 @@
+{
+  "word": "recurrent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71072.png",
+      "local_image_path": "images/71072.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126616.png",
+      "local_image_path": "images/126616.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126617.png",
+      "local_image_path": "images/126617.png"
+    }
+  ],
+  "synonyms": [
+    "regular",
+    "repeated",
+    "persistent",
+    "frequent",
+    "periodic",
+    "intermittent",
+    "continual",
+    "chronic"
+  ],
+  "antonyms": [
+    "finished"
+  ],
+  "similar_words": [
+    "recurrent fever",
+    "recurrently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recurrent.mp3",
+  "local_sound_path": "sounds/recurrent.mp3"
+}

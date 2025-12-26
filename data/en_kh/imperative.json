@@ -1,0 +1,61 @@
+{
+  "word": "imperative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37656.png",
+      "local_image_path": "images/37656.png"
+    },
+    {
+      "pos": "adj",
+      "example": "imperative sentence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37657.png",
+      "local_image_path": "images/37657.png"
+    },
+    {
+      "pos": "adj",
+      "example": "imperative that we go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37658.png",
+      "local_image_path": "images/37658.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121603.png",
+      "local_image_path": "images/121603.png"
+    },
+    {
+      "pos": "n",
+      "example": "imperative of the situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37659.png",
+      "local_image_path": "images/37659.png"
+    }
+  ],
+  "synonyms": [
+    "necessity",
+    "essential",
+    "requirement",
+    "law",
+    "rule",
+    "constraint",
+    "obligation",
+    "must",
+    "need",
+    "priority"
+  ],
+  "antonyms": [
+    "unimportant",
+    "option",
+    "subservient"
+  ],
+  "similar_words": [
+    "imperative mandate",
+    "imperatively",
+    "imperativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imperative.mp3",
+  "local_sound_path": "sounds/imperative.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "deformity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20228.png",
+      "local_image_path": "images/20228.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131448.png",
+      "local_image_path": "images/131448.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131449.png",
+      "local_image_path": "images/131449.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131450.png",
+      "local_image_path": "images/131450.png"
+    }
+  ],
+  "synonyms": [
+    "malformation",
+    "irregularity",
+    "distortion",
+    "defect",
+    "abnormality",
+    "misshapenness",
+    "warp",
+    "disfigurement"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deformity.mp3",
+  "local_sound_path": "sounds/deformity.mp3"
+}

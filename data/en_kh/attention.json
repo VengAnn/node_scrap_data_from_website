@@ -1,0 +1,31 @@
+{
+  "word": "attention",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "pay attention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6260.png",
+      "local_image_path": "images/6260.png"
+    }
+  ],
+  "synonyms": [
+    "notice",
+    "concentration",
+    "thought",
+    "awareness",
+    "consideration",
+    "mind",
+    "interest"
+  ],
+  "antonyms": [
+    "inattention",
+    "neglect"
+  ],
+  "similar_words": [
+    "attentional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attention.mp3",
+  "local_sound_path": "sounds/attention.mp3"
+}

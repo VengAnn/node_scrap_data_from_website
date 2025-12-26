@@ -1,0 +1,32 @@
+{
+  "word": "subtitle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "subtitle of a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85936.png",
+      "local_image_path": "images/85936.png"
+    },
+    {
+      "pos": "tv",
+      "example": "subtitle a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85937.png",
+      "local_image_path": "images/85937.png"
+    }
+  ],
+  "synonyms": [
+    "slogan",
+    "caption",
+    "title",
+    "description",
+    "legend",
+    "heading",
+    "header"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subtitle.mp3",
+  "local_sound_path": "sounds/subtitle.mp3"
+}

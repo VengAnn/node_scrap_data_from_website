@@ -1,0 +1,30 @@
+{
+  "word": "providence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68228.png",
+      "local_image_path": "images/68228.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132271.png",
+      "local_image_path": "images/132271.png"
+    }
+  ],
+  "synonyms": [
+    "fate",
+    "chance",
+    "luck",
+    "destiny",
+    "fortune"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/providence.mp3",
+  "local_sound_path": "sounds/providence.mp3"
+}

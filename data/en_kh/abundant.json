@@ -1,0 +1,41 @@
+{
+  "word": "abundant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "abundant of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1716.png",
+      "local_image_path": "images/1716.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111777.png",
+      "local_image_path": "images/111777.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111806.png",
+      "local_image_path": "images/111806.png"
+    }
+  ],
+  "synonyms": [
+    "plentiful",
+    "copious",
+    "rich",
+    "profuse",
+    "ample",
+    "lavish"
+  ],
+  "antonyms": [
+    "scarce"
+  ],
+  "similar_words": [
+    "abundantly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abundant.mp3",
+  "local_sound_path": "sounds/abundant.mp3"
+}

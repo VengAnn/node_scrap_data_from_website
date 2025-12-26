@@ -1,0 +1,104 @@
+{
+  "word": "line",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "line up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46721.png",
+      "local_image_path": "images/46721.png"
+    },
+    {
+      "pos": "n",
+      "example": "draw a line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46712.png",
+      "local_image_path": "images/46712.png"
+    },
+    {
+      "pos": "n",
+      "example": "line of kings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46713.png",
+      "local_image_path": "images/46713.png"
+    },
+    {
+      "pos": "n",
+      "example": "line of reasoning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46714.png",
+      "local_image_path": "images/46714.png"
+    },
+    {
+      "pos": "n",
+      "example": "line is busy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46715.png",
+      "local_image_path": "images/46715.png"
+    },
+    {
+      "pos": "n",
+      "example": "political line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46716.png",
+      "local_image_path": "images/46716.png"
+    },
+    {
+      "pos": "tv",
+      "example": "line paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46717.png",
+      "local_image_path": "images/46717.png"
+    },
+    {
+      "pos": "tv",
+      "example": "line her face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46718.png",
+      "local_image_path": "images/46718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46719.png",
+      "local_image_path": "images/46719.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46720.png",
+      "local_image_path": "images/46720.png"
+    },
+    {
+      "pos": "tv",
+      "example": "line a coat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46722.png",
+      "local_image_path": "images/46722.png"
+    }
+  ],
+  "synonyms": [
+    "coat",
+    "cover",
+    "pad",
+    "reinforce"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "line-up",
+    "lineable",
+    "lineage",
+    "lineal",
+    "lineally",
+    "lineament",
+    "linear",
+    "linearity",
+    "linearize",
+    "lineate",
+    "lineation",
+    "lineature",
+    "lined",
+    "lineiform",
+    "lineman",
+    "linen",
+    "linener",
+    "lineograph",
+    "lineolate",
+    "liner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/line.mp3",
+  "local_sound_path": "sounds/line.mp3"
+}

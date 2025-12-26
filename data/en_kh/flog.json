@@ -1,0 +1,32 @@
+{
+  "word": "flog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The boy was cruelly flogged for stealing.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29164.png",
+      "local_image_path": "images/29164.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We should flog the car to someone.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29165.png",
+      "local_image_path": "images/29165.png"
+    }
+  ],
+  "synonyms": [
+    "whip",
+    "lash",
+    "beat",
+    "thrash",
+    "scourge",
+    "whale",
+    "flay"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flog.mp3",
+  "local_sound_path": "sounds/flog.mp3"
+}

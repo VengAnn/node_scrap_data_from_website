@@ -1,0 +1,61 @@
+{
+  "word": "initiate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40080.png",
+      "local_image_path": "images/40080.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40079.png",
+      "local_image_path": "images/40079.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122429.png",
+      "local_image_path": "images/122429.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122430.png",
+      "local_image_path": "images/122430.png"
+    },
+    {
+      "pos": "tv",
+      "example": "initiate reforms",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40077.png",
+      "local_image_path": "images/40077.png"
+    },
+    {
+      "pos": "tv",
+      "example": "initiate a new member",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40078.png",
+      "local_image_path": "images/40078.png"
+    }
+  ],
+  "synonyms": [
+    "instruct",
+    "coach",
+    "teach",
+    "tutor",
+    "train",
+    "induct",
+    "admit",
+    "introduce",
+    "catechize"
+  ],
+  "antonyms": [
+    "finish",
+    "expel"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/initiate.mp3",
+  "local_sound_path": "sounds/initiate.mp3"
+}

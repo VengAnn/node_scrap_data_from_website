@@ -1,0 +1,38 @@
+{
+  "word": "bivouac",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9242.png",
+      "local_image_path": "images/9242.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115129.png",
+      "local_image_path": "images/115129.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115130.png",
+      "local_image_path": "images/115130.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9241.png",
+      "local_image_path": "images/9241.png"
+    }
+  ],
+  "synonyms": [
+    "camp"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bivouac.mp3",
+  "local_sound_path": "sounds/bivouac.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "bodily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9935.png",
+      "local_image_path": "images/9935.png"
+    },
+    {
+      "pos": "adv",
+      "example": "the audience rose bodily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9936.png",
+      "local_image_path": "images/9936.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115325.png",
+      "local_image_path": "images/115325.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115326.png",
+      "local_image_path": "images/115326.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115327.png",
+      "local_image_path": "images/115327.png"
+    }
+  ],
+  "synonyms": [
+    "physically",
+    "forcibly",
+    "corporally"
+  ],
+  "antonyms": [
+    "spiritual"
+  ],
+  "similar_words": [
+    "bodily fluid"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bodily.mp3",
+  "local_sound_path": "sounds/bodily.mp3"
+}

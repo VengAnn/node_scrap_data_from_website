@@ -1,0 +1,41 @@
+{
+  "word": "decadence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19900.png",
+      "local_image_path": "images/19900.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117823.png",
+      "local_image_path": "images/117823.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117824.png",
+      "local_image_path": "images/117824.png"
+    }
+  ],
+  "synonyms": [
+    "corruption",
+    "debauchery",
+    "depravity",
+    "dissolution",
+    "self-indulgence",
+    "profligacy",
+    "dissipation",
+    "excess"
+  ],
+  "antonyms": [
+    "decency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decadence.mp3",
+  "local_sound_path": "sounds/decadence.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "giddy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "giddy girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31691.png",
+      "local_image_path": "images/31691.png"
+    },
+    {
+      "pos": "adj",
+      "example": "giddy height",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31692.png",
+      "local_image_path": "images/31692.png"
+    },
+    {
+      "pos": "adj",
+      "example": "feel giddy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31693.png",
+      "local_image_path": "images/31693.png"
+    }
+  ],
+  "synonyms": [
+    "dizzy",
+    "faint",
+    "woozy",
+    "frivolous",
+    "scatterbrained",
+    "capricious",
+    "volatile",
+    "excited",
+    "flighty",
+    "silly",
+    "foolish",
+    "impulsive"
+  ],
+  "antonyms": [
+    "serious",
+    "steady"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/giddy.mp3",
+  "local_sound_path": "sounds/giddy.mp3"
+}

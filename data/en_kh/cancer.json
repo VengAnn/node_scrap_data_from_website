@@ -1,0 +1,38 @@
+{
+  "word": "cancer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "doctors found a cancer on her breast",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12607.png",
+      "local_image_path": "images/12607.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131033.png",
+      "local_image_path": "images/131033.png"
+    }
+  ],
+  "synonyms": [
+    "evil",
+    "blight",
+    "scourge",
+    "canker",
+    "pest",
+    "plague",
+    "menace",
+    "corruption",
+    "disease",
+    "bane"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "canceroid",
+    "cancerous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cancer.mp3",
+  "local_sound_path": "sounds/cancer.mp3"
+}

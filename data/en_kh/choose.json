@@ -1,0 +1,56 @@
+{
+  "word": "choose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I can't choose right now",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14333.png",
+      "local_image_path": "images/14333.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will choose a good one",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14332.png",
+      "local_image_path": "images/14332.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116287.png",
+      "local_image_path": "images/116287.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116288.png",
+      "local_image_path": "images/116288.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116289.png",
+      "local_image_path": "images/116289.png"
+    }
+  ],
+  "synonyms": [
+    "select",
+    "pick",
+    "take",
+    "indicate",
+    "elect",
+    "decide",
+    "want",
+    "prefer",
+    "desire",
+    "wish",
+    "opt"
+  ],
+  "antonyms": [
+    "reject"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/choose.mp3",
+  "local_sound_path": "sounds/choose.mp3"
+}

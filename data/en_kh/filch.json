@@ -1,0 +1,29 @@
+{
+  "word": "filch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "who filches my pencil.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28480.png",
+      "local_image_path": "images/28480.png"
+    }
+  ],
+  "synonyms": [
+    "steal",
+    "pinch",
+    "rob",
+    "thieve",
+    "snatch",
+    "lift",
+    "liberate",
+    "nick"
+  ],
+  "antonyms": [
+    "return"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/filch.mp3",
+  "local_sound_path": "sounds/filch.mp3"
+}

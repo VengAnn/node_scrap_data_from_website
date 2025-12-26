@@ -1,0 +1,61 @@
+{
+  "word": "bend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "trees bend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8259.png",
+      "local_image_path": "images/8259.png"
+    },
+    {
+      "pos": "n",
+      "example": "bend of the road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8260.png",
+      "local_image_path": "images/8260.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the river bends several times before reaching the \n\nsea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8258.png",
+      "local_image_path": "images/8258.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114897.png",
+      "local_image_path": "images/114897.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114898.png",
+      "local_image_path": "images/114898.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114899.png",
+      "local_image_path": "images/114899.png"
+    }
+  ],
+  "synonyms": [
+    "turn",
+    "curve",
+    "bow",
+    "twist",
+    "crook",
+    "bear"
+  ],
+  "antonyms": [
+    "straighten"
+  ],
+  "similar_words": [
+    "bender",
+    "bending",
+    "bends"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bend.mp3",
+  "local_sound_path": "sounds/bend.mp3"
+}

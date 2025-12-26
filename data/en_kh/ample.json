@@ -1,0 +1,33 @@
+{
+  "word": "ample",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ample space",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3977.png",
+      "local_image_path": "images/3977.png"
+    }
+  ],
+  "synonyms": [
+    "plenty",
+    "sufficient",
+    "plentiful",
+    "abundant",
+    "full",
+    "generous",
+    "liberal",
+    "bounteous",
+    "copious",
+    "plenteous"
+  ],
+  "antonyms": [
+    "insufficient"
+  ],
+  "similar_words": [
+    "ampleness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ample.mp3",
+  "local_sound_path": "sounds/ample.mp3"
+}

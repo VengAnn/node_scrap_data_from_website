@@ -1,0 +1,44 @@
+{
+  "word": "young",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "you are young.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101582.png",
+      "local_image_path": "images/101582.png"
+    },
+    {
+      "pos": "adj",
+      "example": "young country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101583.png",
+      "local_image_path": "images/101583.png"
+    }
+  ],
+  "synonyms": [
+    "offspring",
+    "children",
+    "litter",
+    "brood"
+  ],
+  "antonyms": [
+    "old",
+    "established"
+  ],
+  "similar_words": [
+    "young lady",
+    "young people",
+    "younger",
+    "youngest",
+    "youngish",
+    "youngker",
+    "younglike",
+    "youngling",
+    "youngly",
+    "youngman",
+    "youngster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/young.mp3",
+  "local_sound_path": "sounds/young.mp3"
+}

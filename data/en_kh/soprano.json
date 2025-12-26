@@ -1,0 +1,36 @@
+{
+  "word": "soprano",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "soprano singer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82769.png",
+      "local_image_path": "images/82769.png"
+    },
+    {
+      "pos": "n",
+      "example": "She's a soprano",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82768.png",
+      "local_image_path": "images/82768.png"
+    }
+  ],
+  "synonyms": [
+    "shrill",
+    "piercing",
+    "penetrating",
+    "sharp",
+    "singer",
+    "vocalist",
+    "soloist",
+    "chanteuse",
+    "diva"
+  ],
+  "antonyms": [
+    "bass"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soprano.mp3",
+  "local_sound_path": "sounds/soprano.mp3"
+}

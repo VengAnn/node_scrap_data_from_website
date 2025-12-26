@@ -1,0 +1,54 @@
+{
+  "word": "assembly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "national assembly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5871.png",
+      "local_image_path": "images/5871.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114126.png",
+      "local_image_path": "images/114126.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114127.png",
+      "local_image_path": "images/114127.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114128.png",
+      "local_image_path": "images/114128.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114129.png",
+      "local_image_path": "images/114129.png"
+    }
+  ],
+  "synonyms": [
+    "construction",
+    "building",
+    "compilation",
+    "fabrication"
+  ],
+  "antonyms": [
+    "destruction"
+  ],
+  "similar_words": [
+    "assembly line",
+    "assembly-elected",
+    "assemblyman",
+    "assemblywowman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assembly.mp3",
+  "local_sound_path": "sounds/assembly.mp3"
+}

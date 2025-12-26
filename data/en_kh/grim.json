@@ -1,0 +1,78 @@
+{
+  "word": "grim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "grim prospects",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32920.png",
+      "local_image_path": "images/32920.png"
+    },
+    {
+      "pos": "adj",
+      "example": "grim expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32921.png",
+      "local_image_path": "images/32921.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32922.png",
+      "local_image_path": "images/32922.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32923.png",
+      "local_image_path": "images/32923.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32924.png",
+      "local_image_path": "images/32924.png"
+    }
+  ],
+  "synonyms": [
+    "shocking",
+    "ghastly",
+    "horrible",
+    "horrific",
+    "gruesome",
+    "repugnant",
+    "grisly",
+    "distasteful",
+    "macabre",
+    "bleak",
+    "harsh",
+    "severe",
+    "forbidding",
+    "dour",
+    "dismal",
+    "gloomy",
+    "depressing",
+    "uninviting",
+    "cheerless",
+    "ominous",
+    "hopeless"
+  ],
+  "antonyms": [
+    "cheerful",
+    "pleasant",
+    "attractive",
+    "well",
+    "excellent",
+    "kind",
+    "hopeful"
+  ],
+  "similar_words": [
+    "grimace",
+    "grime",
+    "grimly",
+    "grimness",
+    "grimy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grim.mp3",
+  "local_sound_path": "sounds/grim.mp3"
+}

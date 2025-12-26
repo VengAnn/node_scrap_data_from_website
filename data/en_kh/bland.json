@@ -1,0 +1,67 @@
+{
+  "word": "bland",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bland food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9373.png",
+      "local_image_path": "images/9373.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115158.png",
+      "local_image_path": "images/115158.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115159.png",
+      "local_image_path": "images/115159.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115160.png",
+      "local_image_path": "images/115160.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115161.png",
+      "local_image_path": "images/115161.png"
+    }
+  ],
+  "synonyms": [
+    "featureless",
+    "ordinary",
+    "dull",
+    "lackluster",
+    "boring",
+    "nondescript",
+    "unappealing",
+    "mediocre",
+    "flat",
+    "unremarkable",
+    "vapid",
+    "banal"
+  ],
+  "antonyms": [
+    "spicy",
+    "exciting",
+    "tasty"
+  ],
+  "similar_words": [
+    "blandation",
+    "blandiloquence",
+    "blandish",
+    "blandisher",
+    "blandishment",
+    "blandly",
+    "blandness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bland.mp3",
+  "local_sound_path": "sounds/bland.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "necessarily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55181.png",
+      "local_image_path": "images/55181.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124526.png",
+      "local_image_path": "images/124526.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55182.png",
+      "local_image_path": "images/55182.png"
+    }
+  ],
+  "synonyms": [
+    "unavoidably",
+    "essentially",
+    "automatically",
+    "inevitably",
+    "certainly",
+    "ineludibly"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/necessarily.mp3",
+  "local_sound_path": "sounds/necessarily.mp3"
+}

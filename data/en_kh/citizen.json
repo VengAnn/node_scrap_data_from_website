@@ -1,0 +1,30 @@
+{
+  "word": "citizen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "citizen of the town",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14679.png",
+      "local_image_path": "images/14679.png"
+    }
+  ],
+  "synonyms": [
+    "inhabitant",
+    "resident",
+    "national",
+    "voter",
+    "civilian",
+    "native"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "citizen band",
+    "citizen's arrest",
+    "citizenry",
+    "citizenship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/citizen.mp3",
+  "local_sound_path": "sounds/citizen.mp3"
+}

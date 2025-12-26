@@ -1,0 +1,39 @@
+{
+  "word": "brave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "This boy is very brave.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10752.png",
+      "local_image_path": "images/10752.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10753.png",
+      "local_image_path": "images/10753.png"
+    }
+  ],
+  "synonyms": [
+    "defy",
+    "face",
+    "confront",
+    "bear",
+    "endure",
+    "suffer"
+  ],
+  "antonyms": [
+    "cowardly",
+    "shrink"
+  ],
+  "similar_words": [
+    "bravely",
+    "braveness",
+    "braver",
+    "bravery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brave.mp3",
+  "local_sound_path": "sounds/brave.mp3"
+}

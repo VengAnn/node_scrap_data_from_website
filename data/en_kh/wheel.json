@@ -1,0 +1,61 @@
+{
+  "word": "wheel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "He's a big wheel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99915.png",
+      "local_image_path": "images/99915.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99917.png",
+      "local_image_path": "images/99917.png"
+    },
+    {
+      "pos": "n",
+      "example": "bicycle wheel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99913.png",
+      "local_image_path": "images/99913.png"
+    },
+    {
+      "pos": "n",
+      "example": "wheel of government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99914.png",
+      "local_image_path": "images/99914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wheel a chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99916.png",
+      "local_image_path": "images/99916.png"
+    }
+  ],
+  "synonyms": [
+    "turn",
+    "veer",
+    "swing",
+    "sweep",
+    "circle",
+    "swivel",
+    "rotate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wheel-chair",
+    "wheelage",
+    "wheelbarrow",
+    "wheelbase",
+    "wheeled",
+    "wheeler",
+    "wheeler-dealer",
+    "wheelwork",
+    "wheelwright",
+    "wheely"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wheel.mp3",
+  "local_sound_path": "sounds/wheel.mp3"
+}

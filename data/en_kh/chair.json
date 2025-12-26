@@ -1,0 +1,35 @@
+{
+  "word": "chair",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13718.png",
+      "local_image_path": "images/13718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he will chair the meeting next week",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13719.png",
+      "local_image_path": "images/13719.png"
+    }
+  ],
+  "synonyms": [
+    "lead",
+    "oversee",
+    "manage",
+    "preside",
+    "direct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chairman",
+    "chairmanship",
+    "chairperson",
+    "chairwoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chair.mp3",
+  "local_sound_path": "sounds/chair.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "gracious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gracious host",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32455.png",
+      "local_image_path": "images/32455.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gracious gesture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32456.png",
+      "local_image_path": "images/32456.png"
+    }
+  ],
+  "synonyms": [
+    "merciful",
+    "compassionate",
+    "lenient",
+    "humane",
+    "charitable",
+    "understanding"
+  ],
+  "antonyms": [
+    "reserved",
+    "discourteous",
+    "unkind",
+    "harsh",
+    "rude",
+    "genuine"
+  ],
+  "similar_words": [
+    "graciously",
+    "graciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gracious.mp3",
+  "local_sound_path": "sounds/gracious.mp3"
+}

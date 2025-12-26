@@ -1,0 +1,103 @@
+{
+  "word": "leave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45585.png",
+      "local_image_path": "images/45585.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45586.png",
+      "local_image_path": "images/45586.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45587.png",
+      "local_image_path": "images/45587.png"
+    },
+    {
+      "pos": "tv",
+      "example": "leave school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45578.png",
+      "local_image_path": "images/45578.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45579.png",
+      "local_image_path": "images/45579.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He left England in 1990 and never returned",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45580.png",
+      "local_image_path": "images/45580.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45581.png",
+      "local_image_path": "images/45581.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45582.png",
+      "local_image_path": "images/45582.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45583.png",
+      "local_image_path": "images/45583.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45584.png",
+      "local_image_path": "images/45584.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123438.png",
+      "local_image_path": "images/123438.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123439.png",
+      "local_image_path": "images/123439.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123440.png",
+      "local_image_path": "images/123440.png"
+    }
+  ],
+  "synonyms": [
+    "permission",
+    "authority",
+    "cause",
+    "effect"
+  ],
+  "antonyms": [
+    "stay",
+    "remove"
+  ],
+  "similar_words": [
+    "leave-taking",
+    "leaved",
+    "leaven",
+    "leavening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leave.mp3",
+  "local_sound_path": "sounds/leave.mp3"
+}

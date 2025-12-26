@@ -1,0 +1,39 @@
+{
+  "word": "bait",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7116.png",
+      "local_image_path": "images/7116.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7117.png",
+      "local_image_path": "images/7117.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130972.png",
+      "local_image_path": "images/130972.png"
+    }
+  ],
+  "synonyms": [
+    "taunt",
+    "tease",
+    "torment",
+    "razz",
+    "harass",
+    "provoke",
+    "goad",
+    "rag"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bait.mp3",
+  "local_sound_path": "sounds/bait.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "rumple",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74653.png",
+      "local_image_path": "images/74653.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74654.png",
+      "local_image_path": "images/74654.png"
+    }
+  ],
+  "synonyms": [
+    "wrinkle",
+    "crumple",
+    "crease",
+    "crinkle",
+    "pucker"
+  ],
+  "antonyms": [
+    "smooth",
+    "tidy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rumple.mp3",
+  "local_sound_path": "sounds/rumple.mp3"
+}

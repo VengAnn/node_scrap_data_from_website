@@ -1,0 +1,37 @@
+{
+  "word": "pulse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68780.png",
+      "local_image_path": "images/68780.png"
+    },
+    {
+      "pos": "n",
+      "example": "take his pulse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68778.png",
+      "local_image_path": "images/68778.png"
+    },
+    {
+      "pos": "n",
+      "example": "pulse of emotion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68779.png",
+      "local_image_path": "images/68779.png"
+    }
+  ],
+  "synonyms": [
+    "throb",
+    "beat",
+    "pulsate",
+    "pound",
+    "palpitate",
+    "vibrate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pulse.mp3",
+  "local_sound_path": "sounds/pulse.mp3"
+}

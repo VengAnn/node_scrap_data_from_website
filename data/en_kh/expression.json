@@ -1,0 +1,47 @@
+{
+  "word": "expression",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "idiomatic expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26921.png",
+      "local_image_path": "images/26921.png"
+    },
+    {
+      "pos": "n",
+      "example": "mathematical expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26922.png",
+      "local_image_path": "images/26922.png"
+    },
+    {
+      "pos": "n",
+      "example": "verbal expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26923.png",
+      "local_image_path": "images/26923.png"
+    },
+    {
+      "pos": "n",
+      "example": "facial expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26924.png",
+      "local_image_path": "images/26924.png"
+    }
+  ],
+  "synonyms": [
+    "extraction",
+    "phrase",
+    "idiom",
+    "term",
+    "saying"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "expressionism",
+    "expressionist",
+    "expressionistic",
+    "expressionless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expression.mp3",
+  "local_sound_path": "sounds/expression.mp3"
+}

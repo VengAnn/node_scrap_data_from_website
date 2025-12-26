@@ -1,0 +1,61 @@
+{
+  "word": "chap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13818.png",
+      "local_image_path": "images/13818.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13819.png",
+      "local_image_path": "images/13819.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13820.png",
+      "local_image_path": "images/13820.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13817.png",
+      "local_image_path": "images/13817.png"
+    }
+  ],
+  "synonyms": [
+    "gentleman",
+    "guy",
+    "male",
+    "lad",
+    "fellow",
+    "person",
+    "man",
+    "character",
+    "dude"
+  ],
+  "antonyms": [
+    "woman"
+  ],
+  "similar_words": [
+    "chaparral",
+    "chapel",
+    "chaperon",
+    "chaperonage",
+    "chapfallen",
+    "chaplain",
+    "chaplaincy",
+    "chaplainship",
+    "chaplet",
+    "chapleted",
+    "chapman",
+    "chapter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chap.mp3",
+  "local_sound_path": "sounds/chap.mp3"
+}

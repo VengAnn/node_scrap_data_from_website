@@ -1,0 +1,72 @@
+{
+  "word": "track",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "train track",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90638.png",
+      "local_image_path": "images/90638.png"
+    },
+    {
+      "pos": "n",
+      "example": "I'm on his track",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90639.png",
+      "local_image_path": "images/90639.png"
+    },
+    {
+      "pos": "n",
+      "example": "track meet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90640.png",
+      "local_image_path": "images/90640.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90641.png",
+      "local_image_path": "images/90641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90642.png",
+      "local_image_path": "images/90642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "track the floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90643.png",
+      "local_image_path": "images/90643.png"
+    }
+  ],
+  "synonyms": [
+    "trail",
+    "footprint",
+    "footstep",
+    "path",
+    "trace",
+    "trajectory",
+    "follow",
+    "chase",
+    "pursue",
+    "stalk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "track and field",
+    "track meet",
+    "trackage",
+    "tracked",
+    "tracker",
+    "tracking station",
+    "trackless",
+    "trackman",
+    "trackside",
+    "tracksuit",
+    "trackwalker",
+    "trackway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/track.mp3",
+  "local_sound_path": "sounds/track.mp3"
+}

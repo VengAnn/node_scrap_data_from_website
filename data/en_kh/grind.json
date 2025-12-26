@@ -1,0 +1,87 @@
+{
+  "word": "grind",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "grind of coffee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32939.png",
+      "local_image_path": "images/32939.png"
+    },
+    {
+      "pos": "n",
+      "example": "grind of gears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32940.png",
+      "local_image_path": "images/32940.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32941.png",
+      "local_image_path": "images/32941.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32942.png",
+      "local_image_path": "images/32942.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grind pepper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32934.png",
+      "local_image_path": "images/32934.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grind one's teeth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32935.png",
+      "local_image_path": "images/32935.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grind a hand organ",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32936.png",
+      "local_image_path": "images/32936.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32937.png",
+      "local_image_path": "images/32937.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32938.png",
+      "local_image_path": "images/32938.png"
+    }
+  ],
+  "synonyms": [
+    "sharpen",
+    "file",
+    "whet",
+    "abrade",
+    "polish",
+    "rub",
+    "grate",
+    "rasp",
+    "gnash",
+    "scrape",
+    "groan"
+  ],
+  "antonyms": [
+    "joy",
+    "blunt",
+    "glide"
+  ],
+  "similar_words": [
+    "grinder",
+    "grindery",
+    "grinding",
+    "grindstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grind.mp3",
+  "local_sound_path": "sounds/grind.mp3"
+}

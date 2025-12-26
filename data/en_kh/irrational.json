@@ -1,0 +1,55 @@
+{
+  "word": "irrational",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42217.png",
+      "local_image_path": "images/42217.png"
+    },
+    {
+      "pos": "adj",
+      "example": "irrational behavior",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42218.png",
+      "local_image_path": "images/42218.png"
+    },
+    {
+      "pos": "adj",
+      "example": "irrational animals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42219.png",
+      "local_image_path": "images/42219.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122959.png",
+      "local_image_path": "images/122959.png"
+    }
+  ],
+  "synonyms": [
+    "illogical",
+    "unreasonable",
+    "foolish",
+    "crazy",
+    "ridiculous",
+    "absurd",
+    "silly",
+    "unfounded",
+    "groundless",
+    "senseless",
+    "unsound",
+    "baseless"
+  ],
+  "antonyms": [
+    "rational"
+  ],
+  "similar_words": [
+    "irrationality",
+    "irrationally",
+    "irrationalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/irrational.mp3",
+  "local_sound_path": "sounds/irrational.mp3"
+}

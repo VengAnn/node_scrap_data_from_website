@@ -1,0 +1,68 @@
+{
+  "word": "deliberate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "deliberate insult",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20308.png",
+      "local_image_path": "images/20308.png"
+    },
+    {
+      "pos": "adj",
+      "example": "deliberate speed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20309.png",
+      "local_image_path": "images/20309.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117954.png",
+      "local_image_path": "images/117954.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117955.png",
+      "local_image_path": "images/117955.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117956.png",
+      "local_image_path": "images/117956.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20310.png",
+      "local_image_path": "images/20310.png"
+    }
+  ],
+  "synonyms": [
+    "thoughtful",
+    "careful",
+    "slow",
+    "cautious",
+    "unhurried",
+    "wary",
+    "measured",
+    "methodical",
+    "reflect",
+    "think",
+    "consider",
+    "ponder"
+  ],
+  "antonyms": [
+    "accidental",
+    "thoughtless",
+    "hasty"
+  ],
+  "similar_words": [
+    "deliberately",
+    "deliberateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deliberate.mp3",
+  "local_sound_path": "sounds/deliberate.mp3"
+}

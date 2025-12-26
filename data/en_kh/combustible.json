@@ -1,0 +1,30 @@
+{
+  "word": "combustible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15882.png",
+      "local_image_path": "images/15882.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15883.png",
+      "local_image_path": "images/15883.png"
+    }
+  ],
+  "synonyms": [
+    "flammable",
+    "explosive",
+    "burnable",
+    "inflammable",
+    "ignitable"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/combustible.mp3",
+  "local_sound_path": "sounds/combustible.mp3"
+}

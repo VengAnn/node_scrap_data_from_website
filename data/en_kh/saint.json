@@ -1,0 +1,57 @@
+{
+  "word": "saint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75180.png",
+      "local_image_path": "images/75180.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130956.png",
+      "local_image_path": "images/130956.png"
+    },
+    {
+      "pos": "fig",
+      "example": "He is a saint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75178.png",
+      "local_image_path": "images/75178.png"
+    },
+    {
+      "pos": "n",
+      "example": "saint of the Church",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75176.png",
+      "local_image_path": "images/75176.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75177.png",
+      "local_image_path": "images/75177.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75179.png",
+      "local_image_path": "images/75179.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "saintdom",
+    "sainted",
+    "sainthood",
+    "saintlike",
+    "saintliness",
+    "saintly",
+    "saintly man",
+    "saintship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/saint.mp3",
+  "local_sound_path": "sounds/saint.mp3"
+}

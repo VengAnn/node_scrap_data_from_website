@@ -1,0 +1,32 @@
+{
+  "word": "stopper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85036.png",
+      "local_image_path": "images/85036.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85037.png",
+      "local_image_path": "images/85037.png"
+    }
+  ],
+  "synonyms": [
+    "plug",
+    "bung",
+    "cork",
+    "top",
+    "lid",
+    "closure",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stopper.mp3",
+  "local_sound_path": "sounds/stopper.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "voucher",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "expense voucher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98642.png",
+      "local_image_path": "images/98642.png"
+    },
+    {
+      "pos": "n",
+      "example": "cash voucher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98643.png",
+      "local_image_path": "images/98643.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a voucher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98644.png",
+      "local_image_path": "images/98644.png"
+    }
+  ],
+  "synonyms": [
+    "coupon",
+    "ticket",
+    "receipt",
+    "check",
+    "chit"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/voucher.mp3",
+  "local_sound_path": "sounds/voucher.mp3"
+}

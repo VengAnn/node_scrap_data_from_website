@@ -1,0 +1,99 @@
+{
+  "word": "row",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "a tough row to hoe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74398.png",
+      "local_image_path": "images/74398.png"
+    },
+    {
+      "pos": "iv",
+      "example": "row with a loose oar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74399.png",
+      "local_image_path": "images/74399.png"
+    },
+    {
+      "pos": "n",
+      "example": "row of trees",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74394.png",
+      "local_image_path": "images/74394.png"
+    },
+    {
+      "pos": "n",
+      "example": "row of events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74395.png",
+      "local_image_path": "images/74395.png"
+    },
+    {
+      "pos": "n",
+      "example": "(three defeats) in a row",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74396.png",
+      "local_image_path": "images/74396.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74400.png",
+      "local_image_path": "images/74400.png"
+    },
+    {
+      "pos": "n",
+      "example": "to kick up a row",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74402.png",
+      "local_image_path": "images/74402.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127219.png",
+      "local_image_path": "images/127219.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74397.png",
+      "local_image_path": "images/74397.png"
+    }
+  ],
+  "synonyms": [
+    "noise",
+    "racket",
+    "ruckus",
+    "din",
+    "commotion",
+    "disorder",
+    "clamor",
+    "rumpus",
+    "disturbance",
+    "fight",
+    "quarrel",
+    "disagree",
+    "argue",
+    "wrangle",
+    "dispute"
+  ],
+  "antonyms": [
+    "lull",
+    "agreement",
+    "agree"
+  ],
+  "similar_words": [
+    "rowan-tree",
+    "rowboat",
+    "rowdily",
+    "rowdiness",
+    "rowdy",
+    "rowdyism",
+    "rowel",
+    "rowen",
+    "rower",
+    "rowing",
+    "rowing boat",
+    "rowlock"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/row.mp3",
+  "local_sound_path": "sounds/row.mp3"
+}

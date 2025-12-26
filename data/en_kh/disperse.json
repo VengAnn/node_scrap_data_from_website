@@ -1,0 +1,39 @@
+{
+  "word": "disperse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "disperse fog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22053.png",
+      "local_image_path": "images/22053.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disperse a crowd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22054.png",
+      "local_image_path": "images/22054.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disperse knowledge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22055.png",
+      "local_image_path": "images/22055.png"
+    }
+  ],
+  "synonyms": [
+    "scatter",
+    "disband",
+    "dissolve",
+    "separate",
+    "diffuse",
+    "disappear"
+  ],
+  "antonyms": [
+    "concentrate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disperse.mp3",
+  "local_sound_path": "sounds/disperse.mp3"
+}

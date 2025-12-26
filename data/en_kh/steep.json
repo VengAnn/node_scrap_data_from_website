@@ -1,0 +1,79 @@
+{
+  "word": "steep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "steep hill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84560.png",
+      "local_image_path": "images/84560.png"
+    },
+    {
+      "pos": "adj",
+      "example": "steep price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84561.png",
+      "local_image_path": "images/84561.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84563.png",
+      "local_image_path": "images/84563.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The tea is steeping",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84566.png",
+      "local_image_path": "images/84566.png"
+    },
+    {
+      "pos": "tv",
+      "example": "steep tea in water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84562.png",
+      "local_image_path": "images/84562.png"
+    },
+    {
+      "pos": "tv",
+      "example": "steep meal in soy sauce",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84564.png",
+      "local_image_path": "images/84564.png"
+    },
+    {
+      "pos": "tv",
+      "example": "steep children in tradition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84565.png",
+      "local_image_path": "images/84565.png"
+    }
+  ],
+  "synonyms": [
+    "imbue",
+    "permeate",
+    "infuse"
+  ],
+  "antonyms": [
+    "gentle",
+    "reasonable"
+  ],
+  "similar_words": [
+    "steep-down",
+    "steep-to",
+    "steep-up",
+    "steepen",
+    "steeper",
+    "steepiness",
+    "steepish",
+    "steeple",
+    "steeple jack",
+    "steeple-crown",
+    "steeple-roofed",
+    "steeplechase",
+    "steepled",
+    "steeplewise",
+    "steeply",
+    "steepness",
+    "steepy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/steep.mp3",
+  "local_sound_path": "sounds/steep.mp3"
+}

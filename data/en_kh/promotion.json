@@ -1,0 +1,56 @@
+{
+  "word": "promotion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "promotion to captain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67659.png",
+      "local_image_path": "images/67659.png"
+    },
+    {
+      "pos": "n",
+      "example": "promotion of a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67660.png",
+      "local_image_path": "images/67660.png"
+    },
+    {
+      "pos": "n",
+      "example": "promotion of product",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67661.png",
+      "local_image_path": "images/67661.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67662.png",
+      "local_image_path": "images/67662.png"
+    }
+  ],
+  "synonyms": [
+    "raise",
+    "elevation",
+    "upgrade",
+    "advancement",
+    "endorsement",
+    "encouragement",
+    "help",
+    "sponsorship",
+    "stimulation",
+    "backing",
+    "backup",
+    "back-up",
+    "support"
+  ],
+  "antonyms": [
+    "demotion",
+    "defamation"
+  ],
+  "similar_words": [
+    "promotional",
+    "promotionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/promotion.mp3",
+  "local_sound_path": "sounds/promotion.mp3"
+}

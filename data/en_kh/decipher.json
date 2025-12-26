@@ -1,0 +1,34 @@
+{
+  "word": "decipher",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19964.png",
+      "local_image_path": "images/19964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117839.png",
+      "local_image_path": "images/117839.png"
+    }
+  ],
+  "synonyms": [
+    "decode",
+    "interpret",
+    "translate",
+    "read",
+    "crack",
+    "decrypt",
+    "untangle"
+  ],
+  "antonyms": [
+    "encode"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decipher.mp3",
+  "local_sound_path": "sounds/decipher.mp3"
+}

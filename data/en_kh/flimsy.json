@@ -1,0 +1,43 @@
+{
+  "word": "flimsy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "flimsy structure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29092.png",
+      "local_image_path": "images/29092.png"
+    },
+    {
+      "pos": "adj",
+      "example": "flimsy excuse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29093.png",
+      "local_image_path": "images/29093.png"
+    },
+    {
+      "pos": "adj",
+      "example": "flimsy dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29094.png",
+      "local_image_path": "images/29094.png"
+    }
+  ],
+  "synonyms": [
+    "poor",
+    "feeble",
+    "unconvincing",
+    "inadequate",
+    "weak",
+    "unsound",
+    "implausible",
+    "tenuous"
+  ],
+  "antonyms": [
+    "sturdy",
+    "good",
+    "sound"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flimsy.mp3",
+  "local_sound_path": "sounds/flimsy.mp3"
+}

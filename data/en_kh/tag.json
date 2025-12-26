@@ -1,0 +1,65 @@
+{
+  "word": "tag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "tag along behind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87249.png",
+      "local_image_path": "images/87249.png"
+    },
+    {
+      "pos": "n",
+      "example": "price tag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87243.png",
+      "local_image_path": "images/87243.png"
+    },
+    {
+      "pos": "n",
+      "example": "license tag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87244.png",
+      "local_image_path": "images/87244.png"
+    },
+    {
+      "pos": "n",
+      "example": "play tag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87245.png",
+      "local_image_path": "images/87245.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87246.png",
+      "local_image_path": "images/87246.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87247.png",
+      "local_image_path": "images/87247.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tag an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87248.png",
+      "local_image_path": "images/87248.png"
+    }
+  ],
+  "synonyms": [
+    "label",
+    "mark",
+    "append",
+    "attach"
+  ],
+  "antonyms": [
+    "remove"
+  ],
+  "similar_words": [
+    "tag sale",
+    "tagalong",
+    "tagger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tag.mp3",
+  "local_sound_path": "sounds/tag.mp3"
+}

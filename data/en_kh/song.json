@@ -1,0 +1,42 @@
+{
+  "word": "song",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sing a song",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82674.png",
+      "local_image_path": "images/82674.png"
+    },
+    {
+      "pos": "n",
+      "example": "play a song",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82675.png",
+      "local_image_path": "images/82675.png"
+    }
+  ],
+  "synonyms": [
+    "cry",
+    "noise",
+    "call",
+    "chirrup",
+    "coo",
+    "warble",
+    "warbling"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "song smith",
+    "song thrush",
+    "song writer",
+    "song writing",
+    "song-school",
+    "songbird",
+    "songbook",
+    "songster",
+    "songstress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/song.mp3",
+  "local_sound_path": "sounds/song.mp3"
+}

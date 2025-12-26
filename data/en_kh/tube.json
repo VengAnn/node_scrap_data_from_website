@@ -1,0 +1,55 @@
+{
+  "word": "tube",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "rubber tube",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92254.png",
+      "local_image_path": "images/92254.png"
+    },
+    {
+      "pos": "n",
+      "example": "A tube of toothpaste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92255.png",
+      "local_image_path": "images/92255.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92256.png",
+      "local_image_path": "images/92256.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92257.png",
+      "local_image_path": "images/92257.png"
+    }
+  ],
+  "synonyms": [
+    "pipe",
+    "cylinder",
+    "hose",
+    "conduit",
+    "duct",
+    "spout"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tube train",
+    "tubectomy",
+    "tubeless",
+    "tuber",
+    "tubercle",
+    "tubercular",
+    "tubercularization",
+    "tubercularize",
+    "tuberculosis",
+    "tuberous",
+    "tuberousity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tube.mp3",
+  "local_sound_path": "sounds/tube.mp3"
+}

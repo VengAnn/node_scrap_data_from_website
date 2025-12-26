@@ -1,0 +1,48 @@
+{
+  "word": "harangue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33818.png",
+      "local_image_path": "images/33818.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120931.png",
+      "local_image_path": "images/120931.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120932.png",
+      "local_image_path": "images/120932.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33819.png",
+      "local_image_path": "images/33819.png"
+    }
+  ],
+  "synonyms": [
+    "tirade",
+    "criticism",
+    "scolding",
+    "lecture",
+    "rant",
+    "address",
+    "berate",
+    "criticize",
+    "sermonize",
+    "scold",
+    "perorate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harangue.mp3",
+  "local_sound_path": "sounds/harangue.mp3"
+}

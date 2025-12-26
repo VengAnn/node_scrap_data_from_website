@@ -1,0 +1,39 @@
+{
+  "word": "governance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32415.png",
+      "local_image_path": "images/32415.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120728.png",
+      "local_image_path": "images/120728.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120729.png",
+      "local_image_path": "images/120729.png"
+    }
+  ],
+  "synonyms": [
+    "supremacy",
+    "ascendancy",
+    "domination",
+    "power",
+    "authority",
+    "control"
+  ],
+  "antonyms": [
+    "weakness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/governance.mp3",
+  "local_sound_path": "sounds/governance.mp3"
+}

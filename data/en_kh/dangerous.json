@@ -1,0 +1,42 @@
+{
+  "word": "dangerous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19609.png",
+      "local_image_path": "images/19609.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117691.png",
+      "local_image_path": "images/117691.png"
+    }
+  ],
+  "synonyms": [
+    "unsafe",
+    "hazardous",
+    "risky",
+    "dodgy",
+    "treacherous",
+    "perilous",
+    "precarious",
+    "grave",
+    "serious",
+    "critical",
+    "grievous",
+    "alarming"
+  ],
+  "antonyms": [
+    "safe"
+  ],
+  "similar_words": [
+    "dangerously",
+    "dangerousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dangerous.mp3",
+  "local_sound_path": "sounds/dangerous.mp3"
+}

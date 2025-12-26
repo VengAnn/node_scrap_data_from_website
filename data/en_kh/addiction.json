@@ -1,0 +1,32 @@
+{
+  "word": "addiction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2317.png",
+      "local_image_path": "images/2317.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132146.png",
+      "local_image_path": "images/132146.png"
+    }
+  ],
+  "synonyms": [
+    "habit",
+    "compulsion",
+    "dependence",
+    "need",
+    "obsession",
+    "craving",
+    "infatuation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/addiction.mp3",
+  "local_sound_path": "sounds/addiction.mp3"
+}

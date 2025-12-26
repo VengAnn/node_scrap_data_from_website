@@ -1,0 +1,67 @@
+{
+  "word": "yellow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "yellow book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101474.png",
+      "local_image_path": "images/101474.png"
+    },
+    {
+      "pos": "adj",
+      "example": "yellow fighter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101475.png",
+      "local_image_path": "images/101475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101476.png",
+      "local_image_path": "images/101476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101477.png",
+      "local_image_path": "images/101477.png"
+    }
+  ],
+  "synonyms": [
+    "fair-haired",
+    "fair",
+    "blond",
+    "blonde",
+    "golden",
+    "sickly",
+    "wan",
+    "pale",
+    "ashen",
+    "pallid",
+    "sallow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "yellow card",
+    "yellow jacket",
+    "yellow line",
+    "yellow pages",
+    "yellow press",
+    "yellow sheet",
+    "yellow sickness",
+    "yellow-bellied",
+    "yellow-bird",
+    "yellow-earth",
+    "yellow-fever",
+    "yellow-flag",
+    "yellow-hammer",
+    "yellow-livered",
+    "yellowish",
+    "yellowishness",
+    "yellowness",
+    "yellowy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yellow.mp3",
+  "local_sound_path": "sounds/yellow.mp3"
+}

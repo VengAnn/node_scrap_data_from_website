@@ -1,0 +1,34 @@
+{
+  "word": "repression",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "repression of a desire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72442.png",
+      "local_image_path": "images/72442.png"
+    },
+    {
+      "pos": "n",
+      "example": "repression of a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72443.png",
+      "local_image_path": "images/72443.png"
+    }
+  ],
+  "synonyms": [
+    "oppression",
+    "subjugation",
+    "domination",
+    "suppression",
+    "authoritarianism",
+    "tyranny",
+    "despotism",
+    "cruelty",
+    "control"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repression.mp3",
+  "local_sound_path": "sounds/repression.mp3"
+}

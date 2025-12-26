@@ -1,0 +1,30 @@
+{
+  "word": "injured",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "injured man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40111.png",
+      "local_image_path": "images/40111.png"
+    }
+  ],
+  "synonyms": [
+    "upset",
+    "hurt",
+    "wounded",
+    "indignant",
+    "cut",
+    "scarred",
+    "burnt",
+    "damaged"
+  ],
+  "antonyms": [
+    "unscathed"
+  ],
+  "similar_words": [
+    "injuredly",
+    "injuredness"
+  ],
+  "sound": null
+}

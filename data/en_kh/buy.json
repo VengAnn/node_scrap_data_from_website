@@ -1,0 +1,41 @@
+{
+  "word": "buy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12118.png",
+      "local_image_path": "images/12118.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I want to buy a house in PP",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12117.png",
+      "local_image_path": "images/12117.png"
+    }
+  ],
+  "synonyms": [
+    "accept",
+    "believe",
+    "swallow",
+    "purchase",
+    "acquire",
+    "procure",
+    "obtain",
+    "get"
+  ],
+  "antonyms": [
+    "sell",
+    "disbelieve"
+  ],
+  "similar_words": [
+    "buyable",
+    "buyback",
+    "buyer",
+    "buying"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buy.mp3",
+  "local_sound_path": "sounds/buy.mp3"
+}

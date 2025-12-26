@@ -1,0 +1,42 @@
+{
+  "word": "shutter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79697.png",
+      "local_image_path": "images/79697.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79694.png",
+      "local_image_path": "images/79694.png"
+    },
+    {
+      "pos": "n",
+      "example": "window shutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79695.png",
+      "local_image_path": "images/79695.png"
+    },
+    {
+      "pos": "n",
+      "example": "camera shutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79696.png",
+      "local_image_path": "images/79696.png"
+    }
+  ],
+  "synonyms": [
+    "close",
+    "secure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shuttering",
+    "shutterless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shutter.mp3",
+  "local_sound_path": "sounds/shutter.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "brutality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11574.png",
+      "local_image_path": "images/11574.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115742.png",
+      "local_image_path": "images/115742.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115743.png",
+      "local_image_path": "images/115743.png"
+    }
+  ],
+  "synonyms": [
+    "cruelty",
+    "viciousness",
+    "violence",
+    "harshness",
+    "ruthlessness",
+    "callousness"
+  ],
+  "antonyms": [
+    "gentleness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brutality.mp3",
+  "local_sound_path": "sounds/brutality.mp3"
+}

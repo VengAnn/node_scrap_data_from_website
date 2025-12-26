@@ -1,0 +1,50 @@
+{
+  "word": "purchase",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make a purchase",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68947.png",
+      "local_image_path": "images/68947.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68948.png",
+      "local_image_path": "images/68948.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68946.png",
+      "local_image_path": "images/68946.png"
+    }
+  ],
+  "synonyms": [
+    "grip",
+    "grasp",
+    "hold",
+    "leverage",
+    "foothold",
+    "obtain",
+    "win",
+    "gain",
+    "secure",
+    "acquire"
+  ],
+  "antonyms": [
+    "sell",
+    "sale"
+  ],
+  "similar_words": [
+    "purchase ledger",
+    "purchase tax",
+    "purchase-money",
+    "purchasebook",
+    "purchaser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/purchase.mp3",
+  "local_sound_path": "sounds/purchase.mp3"
+}

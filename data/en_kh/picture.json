@@ -1,0 +1,90 @@
+{
+  "word": "picture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63095.png",
+      "local_image_path": "images/63095.png"
+    },
+    {
+      "pos": "n",
+      "example": "draw a picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63096.png",
+      "local_image_path": "images/63096.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63097.png",
+      "local_image_path": "images/63097.png"
+    },
+    {
+      "pos": "n",
+      "example": "picture for the future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63098.png",
+      "local_image_path": "images/63098.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63099.png",
+      "local_image_path": "images/63099.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63100.png",
+      "local_image_path": "images/63100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63101.png",
+      "local_image_path": "images/63101.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63102.png",
+      "local_image_path": "images/63102.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63103.png",
+      "local_image_path": "images/63103.png"
+    }
+  ],
+  "synonyms": [
+    "describe",
+    "depict",
+    "illustrate",
+    "draw",
+    "show",
+    "give",
+    "portray",
+    "represent",
+    "delineate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "picture house",
+    "picture like",
+    "picture palace",
+    "picture play",
+    "picture postcard",
+    "picture theatre",
+    "picture transfer",
+    "picture-book",
+    "picture-card",
+    "picture-gallery",
+    "picturesque",
+    "picturesquely",
+    "picturesqueness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/picture.mp3",
+  "local_sound_path": "sounds/picture.mp3"
+}

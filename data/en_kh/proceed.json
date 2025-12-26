@@ -1,0 +1,66 @@
+{
+  "word": "proceed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67210.png",
+      "local_image_path": "images/67210.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67211.png",
+      "local_image_path": "images/67211.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67212.png",
+      "local_image_path": "images/67212.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126043.png",
+      "local_image_path": "images/126043.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126044.png",
+      "local_image_path": "images/126044.png"
+    },
+    {
+      "pos": "tv",
+      "example": "proceed with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67208.png",
+      "local_image_path": "images/67208.png"
+    },
+    {
+      "pos": "tv",
+      "example": "proceed against sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67209.png",
+      "local_image_path": "images/67209.png"
+    }
+  ],
+  "synonyms": [
+    "continue",
+    "ensue",
+    "advance",
+    "keep",
+    "progress"
+  ],
+  "antonyms": [
+    "recede"
+  ],
+  "similar_words": [
+    "proceeding",
+    "proceedings",
+    "proceeds"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proceed.mp3",
+  "local_sound_path": "sounds/proceed.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "regulation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a new regulation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71661.png",
+      "local_image_path": "images/71661.png"
+    },
+    {
+      "pos": "n",
+      "example": "regulation of trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71662.png",
+      "local_image_path": "images/71662.png"
+    },
+    {
+      "pos": "n",
+      "example": "voltage regulation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71663.png",
+      "local_image_path": "images/71663.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126715.png",
+      "local_image_path": "images/126715.png"
+    }
+  ],
+  "synonyms": [
+    "control",
+    "adjustment",
+    "adaptation",
+    "alteration",
+    "management",
+    "supervision",
+    "government"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/regulation.mp3",
+  "local_sound_path": "sounds/regulation.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "afore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2791.png",
+      "local_image_path": "images/2791.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2792.png",
+      "local_image_path": "images/2792.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "afore-thought",
+    "aforehand",
+    "aforemention",
+    "aforementioned",
+    "aforesaid",
+    "aforetime"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/afore.mp3",
+  "local_sound_path": "sounds/afore.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "intimidation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41681.png",
+      "local_image_path": "images/41681.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122825.png",
+      "local_image_path": "images/122825.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122826.png",
+      "local_image_path": "images/122826.png"
+    }
+  ],
+  "synonyms": [
+    "pressure",
+    "fear",
+    "coercion",
+    "extortion"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intimidation.mp3",
+  "local_sound_path": "sounds/intimidation.mp3"
+}

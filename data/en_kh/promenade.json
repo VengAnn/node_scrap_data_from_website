@@ -1,0 +1,54 @@
+{
+  "word": "promenade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67614.png",
+      "local_image_path": "images/67614.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a promenade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67611.png",
+      "local_image_path": "images/67611.png"
+    },
+    {
+      "pos": "n",
+      "example": "ship's promenade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67612.png",
+      "local_image_path": "images/67612.png"
+    },
+    {
+      "pos": "n",
+      "example": "school promenade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67613.png",
+      "local_image_path": "images/67613.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67615.png",
+      "local_image_path": "images/67615.png"
+    }
+  ],
+  "synonyms": [
+    "stroll",
+    "walk",
+    "saunter",
+    "amble",
+    "constitutional",
+    "wander",
+    "roam",
+    "drift",
+    "mosey",
+    "swan",
+    "ramble"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/promenade.mp3",
+  "local_sound_path": "sounds/promenade.mp3"
+}

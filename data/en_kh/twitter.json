@@ -1,0 +1,48 @@
+{
+  "word": "twitter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "birds twitter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92715.png",
+      "local_image_path": "images/92715.png"
+    },
+    {
+      "pos": "iv",
+      "example": "audiences twitter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92716.png",
+      "local_image_path": "images/92716.png"
+    },
+    {
+      "pos": "n",
+      "example": "twitter of birds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92717.png",
+      "local_image_path": "images/92717.png"
+    },
+    {
+      "pos": "n",
+      "example": "twitter of the audience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92718.png",
+      "local_image_path": "images/92718.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92719.png",
+      "local_image_path": "images/92719.png"
+    }
+  ],
+  "synonyms": [
+    "chirp",
+    "peep",
+    "cheep",
+    "tweet",
+    "chirrup"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twitter.mp3",
+  "local_sound_path": "sounds/twitter.mp3"
+}

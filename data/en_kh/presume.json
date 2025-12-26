@@ -1,0 +1,47 @@
+{
+  "word": "presume",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66697.png",
+      "local_image_path": "images/66697.png"
+    },
+    {
+      "pos": "tv",
+      "example": "presume to address him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66698.png",
+      "local_image_path": "images/66698.png"
+    },
+    {
+      "pos": "tv",
+      "example": "presume on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66699.png",
+      "local_image_path": "images/66699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125979.png",
+      "local_image_path": "images/125979.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125980.png",
+      "local_image_path": "images/125980.png"
+    }
+  ],
+  "synonyms": [
+    "venture",
+    "dare"
+  ],
+  "antonyms": [
+    "know"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/presume.mp3",
+  "local_sound_path": "sounds/presume.mp3"
+}

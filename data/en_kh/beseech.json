@@ -1,0 +1,31 @@
+{
+  "word": "beseech",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8383.png",
+      "local_image_path": "images/8383.png"
+    }
+  ],
+  "synonyms": [
+    "implore",
+    "beg",
+    "request",
+    "ask",
+    "entreat",
+    "plead",
+    "press",
+    "demand"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beseecher",
+    "beseeching",
+    "beseechingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beseech.mp3",
+  "local_sound_path": "sounds/beseech.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "dealings",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19813.png",
+      "local_image_path": "images/19813.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117766.png",
+      "local_image_path": "images/117766.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117767.png",
+      "local_image_path": "images/117767.png"
+    }
+  ],
+  "synonyms": [
+    "contact",
+    "communication",
+    "business",
+    "commerce",
+    "selling"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dealings.mp3",
+  "local_sound_path": "sounds/dealings.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "disappear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "symptoms disappear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21576.png",
+      "local_image_path": "images/21576.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He disappeared two days ago.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21577.png",
+      "local_image_path": "images/21577.png"
+    }
+  ],
+  "synonyms": [
+    "evaporate",
+    "expire",
+    "perish",
+    "fade",
+    "dissolve",
+    "vanish"
+  ],
+  "antonyms": [
+    "appear"
+  ],
+  "similar_words": [
+    "disappearance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disappear.mp3",
+  "local_sound_path": "sounds/disappear.mp3"
+}

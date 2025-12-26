@@ -1,0 +1,29 @@
+{
+  "word": "assailant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5852.png",
+      "local_image_path": "images/5852.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112105.png",
+      "local_image_path": "images/112105.png"
+    }
+  ],
+  "synonyms": [
+    "attacker",
+    "goon",
+    "aggressor",
+    "mugger"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assailant.mp3",
+  "local_sound_path": "sounds/assailant.mp3"
+}

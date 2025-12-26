@@ -1,0 +1,28 @@
+{
+  "word": "allay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "allay pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3416.png",
+      "local_image_path": "images/3416.png"
+    }
+  ],
+  "synonyms": [
+    "dispel",
+    "calm",
+    "alleviate",
+    "assuage",
+    "relieve"
+  ],
+  "antonyms": [
+    "stimulate"
+  ],
+  "similar_words": [
+    "allayer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allay.mp3",
+  "local_sound_path": "sounds/allay.mp3"
+}

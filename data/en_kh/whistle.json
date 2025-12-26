@@ -1,0 +1,51 @@
+{
+  "word": "whistle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He likes to whistle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100093.png",
+      "local_image_path": "images/100093.png"
+    },
+    {
+      "pos": "n",
+      "example": "give a low whistle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100095.png",
+      "local_image_path": "images/100095.png"
+    },
+    {
+      "pos": "n",
+      "example": "train whistle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100096.png",
+      "local_image_path": "images/100096.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100097.png",
+      "local_image_path": "images/100097.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100094.png",
+      "local_image_path": "images/100094.png"
+    }
+  ],
+  "synonyms": [
+    "shriek",
+    "screech",
+    "shrill",
+    "hoot",
+    "toot"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "whistle-stop",
+    "whistler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whistle.mp3",
+  "local_sound_path": "sounds/whistle.mp3"
+}

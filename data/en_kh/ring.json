@@ -1,0 +1,91 @@
+{
+  "word": "ring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73715.png",
+      "local_image_path": "images/73715.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73716.png",
+      "local_image_path": "images/73716.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73717.png",
+      "local_image_path": "images/73717.png"
+    },
+    {
+      "pos": "n",
+      "example": "diamond ring",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73709.png",
+      "local_image_path": "images/73709.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73710.png",
+      "local_image_path": "images/73710.png"
+    },
+    {
+      "pos": "n",
+      "example": "ring of thieves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73711.png",
+      "local_image_path": "images/73711.png"
+    },
+    {
+      "pos": "n",
+      "example": "boxing ring",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73712.png",
+      "local_image_path": "images/73712.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73718.png",
+      "local_image_path": "images/73718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ring a bell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73713.png",
+      "local_image_path": "images/73713.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ring his office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73714.png",
+      "local_image_path": "images/73714.png"
+    }
+  ],
+  "synonyms": [
+    "seem",
+    "resonate",
+    "resound",
+    "sound",
+    "appear",
+    "feel",
+    "mark",
+    "brand",
+    "tag",
+    "identify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ring finger",
+    "ringed",
+    "ringer",
+    "ringleader",
+    "ringlet",
+    "ringtone",
+    "ringworm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ring.mp3",
+  "local_sound_path": "sounds/ring.mp3"
+}

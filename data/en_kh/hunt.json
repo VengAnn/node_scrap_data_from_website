@@ -1,0 +1,79 @@
+{
+  "word": "hunt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36412.png",
+      "local_image_path": "images/36412.png"
+    },
+    {
+      "pos": "n",
+      "example": "fox hunt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36413.png",
+      "local_image_path": "images/36413.png"
+    },
+    {
+      "pos": "n",
+      "example": "hunt for a candidate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36414.png",
+      "local_image_path": "images/36414.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36415.png",
+      "local_image_path": "images/36415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hunt a game",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36408.png",
+      "local_image_path": "images/36408.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hunt a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36409.png",
+      "local_image_path": "images/36409.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hunt for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36410.png",
+      "local_image_path": "images/36410.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36411.png",
+      "local_image_path": "images/36411.png"
+    }
+  ],
+  "synonyms": [
+    "search",
+    "chase",
+    "quest",
+    "pursuit",
+    "expedition",
+    "seek",
+    "rummage",
+    "ferret"
+  ],
+  "antonyms": [
+    "flee",
+    "evade",
+    "find"
+  ],
+  "similar_words": [
+    "hunter",
+    "hunting",
+    "hunting-ground",
+    "huntress",
+    "huntsman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hunt.mp3",
+  "local_sound_path": "sounds/hunt.mp3"
+}

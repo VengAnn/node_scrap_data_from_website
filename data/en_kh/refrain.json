@@ -1,0 +1,32 @@
+{
+  "word": "refrain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71440.png",
+      "local_image_path": "images/71440.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71438.png",
+      "local_image_path": "images/71438.png"
+    }
+  ],
+  "synonyms": [
+    "exhortation",
+    "desist",
+    "abstain",
+    "cease",
+    "renounce"
+  ],
+  "antonyms": [
+    "persist"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refrain.mp3",
+  "local_sound_path": "sounds/refrain.mp3"
+}

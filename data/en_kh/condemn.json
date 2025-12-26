@@ -1,0 +1,55 @@
+{
+  "word": "condemn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "he was condemned to death",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16535.png",
+      "local_image_path": "images/16535.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117098.png",
+      "local_image_path": "images/117098.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117099.png",
+      "local_image_path": "images/117099.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117100.png",
+      "local_image_path": "images/117100.png"
+    }
+  ],
+  "synonyms": [
+    "convict",
+    "sentence",
+    "doom",
+    "rebuke",
+    "reprove",
+    "reprimand",
+    "criticize",
+    "reproach",
+    "blame"
+  ],
+  "antonyms": [
+    "commend",
+    "absolve"
+  ],
+  "similar_words": [
+    "condemnable",
+    "condemnation",
+    "condemnatory",
+    "condemned cell",
+    "condemner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/condemn.mp3",
+  "local_sound_path": "sounds/condemn.mp3"
+}

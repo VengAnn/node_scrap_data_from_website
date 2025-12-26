@@ -1,0 +1,43 @@
+{
+  "word": "garner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31074.png",
+      "local_image_path": "images/31074.png"
+    },
+    {
+      "pos": "tv",
+      "example": "garner wheat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31072.png",
+      "local_image_path": "images/31072.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31073.png",
+      "local_image_path": "images/31073.png"
+    }
+  ],
+  "synonyms": [
+    "gather",
+    "acquire",
+    "get",
+    "gain",
+    "collect",
+    "earn",
+    "harvest",
+    "reap",
+    "accumulate"
+  ],
+  "antonyms": [
+    "scatter",
+    "squander"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/garner.mp3",
+  "local_sound_path": "sounds/garner.mp3"
+}

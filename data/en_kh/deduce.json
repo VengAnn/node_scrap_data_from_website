@@ -1,0 +1,43 @@
+{
+  "word": "deduce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20080.png",
+      "local_image_path": "images/20080.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117865.png",
+      "local_image_path": "images/117865.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117866.png",
+      "local_image_path": "images/117866.png"
+    }
+  ],
+  "synonyms": [
+    "infer",
+    "assume",
+    "presume",
+    "reason",
+    "construe",
+    "realize",
+    "determine",
+    "conclude",
+    "judge",
+    "deem",
+    "suppose",
+    "reckon"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deduce.mp3",
+  "local_sound_path": "sounds/deduce.mp3"
+}

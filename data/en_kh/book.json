@@ -1,0 +1,54 @@
+{
+  "word": "book",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "she is reading English book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10136.png",
+      "local_image_path": "images/10136.png"
+    },
+    {
+      "pos": "v",
+      "example": "I have booked seats for bus",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10137.png",
+      "local_image_path": "images/10137.png"
+    }
+  ],
+  "synonyms": [
+    "charge",
+    "report"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "book club",
+    "book review",
+    "book-ends",
+    "book-learning",
+    "bookable",
+    "bookbinder",
+    "bookbindery",
+    "bookbinding",
+    "bookcase",
+    "booker",
+    "bookie",
+    "booking",
+    "booking fee",
+    "booking office",
+    "booking-clerk",
+    "bookish",
+    "bookishly",
+    "bookishness",
+    "bookkeeper",
+    "bookkeeping",
+    "booklet",
+    "booklore",
+    "bookmaker",
+    "bookmaking",
+    "bookman",
+    "bookmark"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/book.mp3",
+  "local_sound_path": "sounds/book.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "surrender",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "We shall never surrender.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86616.png",
+      "local_image_path": "images/86616.png"
+    },
+    {
+      "pos": "iv",
+      "example": "surrender to temptation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86617.png",
+      "local_image_path": "images/86617.png"
+    },
+    {
+      "pos": "n",
+      "example": "military surrender",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86619.png",
+      "local_image_path": "images/86619.png"
+    },
+    {
+      "pos": "n",
+      "example": "moral surrender",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86620.png",
+      "local_image_path": "images/86620.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86618.png",
+      "local_image_path": "images/86618.png"
+    }
+  ],
+  "synonyms": [
+    "relinquish",
+    "cede",
+    "forfeit",
+    "concede",
+    "abandon",
+    "renounce",
+    "waive"
+  ],
+  "antonyms": [
+    "retain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/surrender.mp3",
+  "local_sound_path": "sounds/surrender.mp3"
+}

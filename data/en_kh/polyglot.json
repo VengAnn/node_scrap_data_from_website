@@ -1,0 +1,38 @@
+{
+  "word": "polyglot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64892.png",
+      "local_image_path": "images/64892.png"
+    },
+    {
+      "pos": "adj",
+      "example": "polyglot book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64893.png",
+      "local_image_path": "images/64893.png"
+    },
+    {
+      "pos": "adj",
+      "example": "polyglot speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64894.png",
+      "local_image_path": "images/64894.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64895.png",
+      "local_image_path": "images/64895.png"
+    }
+  ],
+  "synonyms": [
+    "linguist"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/polyglot.mp3",
+  "local_sound_path": "sounds/polyglot.mp3"
+}

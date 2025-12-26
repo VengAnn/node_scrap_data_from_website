@@ -1,0 +1,42 @@
+{
+  "word": "engaged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "engaged in a project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25007.png",
+      "local_image_path": "images/25007.png"
+    },
+    {
+      "pos": "adj",
+      "example": "They are engaged to be married.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25008.png",
+      "local_image_path": "images/25008.png"
+    },
+    {
+      "pos": "adj",
+      "example": "engaged by a company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25009.png",
+      "local_image_path": "images/25009.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gears are engaged",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25010.png",
+      "local_image_path": "images/25010.png"
+    }
+  ],
+  "synonyms": [
+    "betrothed",
+    "affianced",
+    "meshed"
+  ],
+  "antonyms": [
+    "free"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/engaged.mp3",
+  "local_sound_path": "sounds/engaged.mp3"
+}

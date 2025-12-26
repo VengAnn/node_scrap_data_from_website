@@ -1,0 +1,48 @@
+{
+  "word": "magnetism",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105278.png",
+      "local_image_path": "images/105278.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105275.png",
+      "local_image_path": "images/105275.png"
+    },
+    {
+      "pos": "n",
+      "example": "attract by magnetism",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105276.png",
+      "local_image_path": "images/105276.png"
+    },
+    {
+      "pos": "n",
+      "example": "magnetism of his smile",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105277.png",
+      "local_image_path": "images/105277.png"
+    }
+  ],
+  "synonyms": [
+    "charisma",
+    "appeal",
+    "allure",
+    "charm",
+    "magic",
+    "fascination",
+    "pull",
+    "draw",
+    "enticement",
+    "attraction",
+    "mesmerism"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/magnetism.mp3",
+  "local_sound_path": "sounds/magnetism.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "dreamy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23080.png",
+      "local_image_path": "images/23080.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23081.png",
+      "local_image_path": "images/23081.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118795.png",
+      "local_image_path": "images/118795.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118796.png",
+      "local_image_path": "images/118796.png"
+    }
+  ],
+  "synonyms": [
+    "wonderful",
+    "beautiful",
+    "superb",
+    "terrific",
+    "fantastic"
+  ],
+  "antonyms": [
+    "alert",
+    "ordinary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dreamy.mp3",
+  "local_sound_path": "sounds/dreamy.mp3"
+}

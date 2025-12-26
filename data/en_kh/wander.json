@@ -1,0 +1,49 @@
+{
+  "word": "wander",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wander around",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98978.png",
+      "local_image_path": "images/98978.png"
+    },
+    {
+      "pos": "iv",
+      "example": "roads wander through the valley",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98979.png",
+      "local_image_path": "images/98979.png"
+    },
+    {
+      "pos": "iv",
+      "example": "minds wander",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98980.png",
+      "local_image_path": "images/98980.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98981.png",
+      "local_image_path": "images/98981.png"
+    }
+  ],
+  "synonyms": [
+    "drift",
+    "stray",
+    "digress",
+    "deviate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wander year",
+    "wanderer",
+    "wandering",
+    "wanderingly",
+    "wanderingness",
+    "wanderlust",
+    "wanderoo"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wander.mp3",
+  "local_sound_path": "sounds/wander.mp3"
+}

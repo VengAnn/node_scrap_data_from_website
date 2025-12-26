@@ -1,0 +1,27 @@
+{
+  "word": "interrogate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41517.png",
+      "local_image_path": "images/41517.png"
+    }
+  ],
+  "synonyms": [
+    "question",
+    "interview",
+    "cross-examine",
+    "quiz",
+    "grill",
+    "debrief",
+    "catechize",
+    "probe"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interrogate.mp3",
+  "local_sound_path": "sounds/interrogate.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "halo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33627.png",
+      "local_image_path": "images/33627.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120909.png",
+      "local_image_path": "images/120909.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120910.png",
+      "local_image_path": "images/120910.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33628.png",
+      "local_image_path": "images/33628.png"
+    }
+  ],
+  "synonyms": [
+    "corona",
+    "nimbus",
+    "aura",
+    "radiance",
+    "aureole",
+    "crown"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "halogen",
+    "halomorphic soil",
+    "halophile",
+    "halophyte"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/halo.mp3",
+  "local_sound_path": "sounds/halo.mp3"
+}

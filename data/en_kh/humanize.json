@@ -1,0 +1,36 @@
+{
+  "word": "humanize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36293.png",
+      "local_image_path": "images/36293.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121259.png",
+      "local_image_path": "images/121259.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121260.png",
+      "local_image_path": "images/121260.png"
+    }
+  ],
+  "synonyms": [
+    "civilize",
+    "improve",
+    "cultivate"
+  ],
+  "antonyms": [
+    "brutalize"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/humanize.mp3",
+  "local_sound_path": "sounds/humanize.mp3"
+}

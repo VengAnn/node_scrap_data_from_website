@@ -1,0 +1,64 @@
+{
+  "word": "absolute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "my son has absolute trust in me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1625.png",
+      "local_image_path": "images/1625.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113059.png",
+      "local_image_path": "images/113059.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113060.png",
+      "local_image_path": "images/113060.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113061.png",
+      "local_image_path": "images/113061.png"
+    },
+    {
+      "pos": "n",
+      "example": "absolute acceptance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1626.png",
+      "local_image_path": "images/1626.png"
+    }
+  ],
+  "synonyms": [
+    "solution",
+    "answer",
+    "resolution",
+    "truth",
+    "given"
+  ],
+  "antonyms": [
+    "provisional",
+    "unconfirmed"
+  ],
+  "similar_words": [
+    "absolute alcohol",
+    "absolute deed",
+    "absolute liability",
+    "absolute mellity",
+    "absolute monarchy",
+    "absolute monopoly",
+    "absolute nullity",
+    "absolute poverty",
+    "absolute totalloss",
+    "absolutely",
+    "absoluteness",
+    "absolutetruth"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absolute.mp3",
+  "local_sound_path": "sounds/absolute.mp3"
+}

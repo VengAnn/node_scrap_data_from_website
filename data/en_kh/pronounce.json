@@ -1,0 +1,70 @@
+{
+  "word": "pronounce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67708.png",
+      "local_image_path": "images/67708.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pronounce a word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67709.png",
+      "local_image_path": "images/67709.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pronounce for / against sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67710.png",
+      "local_image_path": "images/67710.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pronounce sentence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67711.png",
+      "local_image_path": "images/67711.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67712.png",
+      "local_image_path": "images/67712.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He pronounced himself in favour of the plan.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67713.png",
+      "local_image_path": "images/67713.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He pronounced badly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67714.png",
+      "local_image_path": "images/67714.png"
+    }
+  ],
+  "synonyms": [
+    "state",
+    "assert",
+    "declare",
+    "announce",
+    "decree",
+    "proclaim",
+    "maintain",
+    "pontificate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pronounceable",
+    "pronounced",
+    "pronouncedly",
+    "pronouncedness",
+    "pronouncement",
+    "pronouncer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pronounce.mp3",
+  "local_sound_path": "sounds/pronounce.mp3"
+}

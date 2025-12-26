@@ -1,0 +1,45 @@
+{
+  "word": "murmur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111117.png",
+      "local_image_path": "images/111117.png"
+    },
+    {
+      "pos": "v",
+      "example": "He murmured that he wanted to sleep.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111115.png",
+      "local_image_path": "images/111115.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111116.png",
+      "local_image_path": "images/111116.png"
+    }
+  ],
+  "synonyms": [
+    "hum",
+    "mumble",
+    "buzz",
+    "whisper",
+    "mutter",
+    "complain",
+    "grumble",
+    "grouse",
+    "grouch",
+    "bellyache"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "murmurer",
+    "murmuringly",
+    "murmurous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/murmur.mp3",
+  "local_sound_path": "sounds/murmur.mp3"
+}

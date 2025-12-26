@@ -1,0 +1,104 @@
+{
+  "word": "shake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Houses shake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78694.png",
+      "local_image_path": "images/78694.png"
+    },
+    {
+      "pos": "iv",
+      "example": "shake with anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78695.png",
+      "local_image_path": "images/78695.png"
+    },
+    {
+      "pos": "n",
+      "example": "He has a shake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78696.png",
+      "local_image_path": "images/78696.png"
+    },
+    {
+      "pos": "sl",
+      "example": "shake one's pursuers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78693.png",
+      "local_image_path": "images/78693.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shake a sleeping person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78688.png",
+      "local_image_path": "images/78688.png"
+    },
+    {
+      "pos": "tv",
+      "example": "winds shake the house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78689.png",
+      "local_image_path": "images/78689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78690.png",
+      "local_image_path": "images/78690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shake one's faith",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78691.png",
+      "local_image_path": "images/78691.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shake a bottle of medicine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78692.png",
+      "local_image_path": "images/78692.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127709.png",
+      "local_image_path": "images/127709.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127710.png",
+      "local_image_path": "images/127710.png"
+    }
+  ],
+  "synonyms": [
+    "jiggle",
+    "wobble",
+    "agitation",
+    "vibration",
+    "quiver",
+    "tremor",
+    "brandish",
+    "flourish",
+    "flaunt",
+    "wave",
+    "wield"
+  ],
+  "antonyms": [
+    "steady",
+    "reassure",
+    "stillness"
+  ],
+  "similar_words": [
+    "shake-down",
+    "shake-out",
+    "shake-proff",
+    "shake-rag",
+    "shake-up",
+    "shakedown",
+    "shaken",
+    "shaker",
+    "shakespearian"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shake.mp3",
+  "local_sound_path": "sounds/shake.mp3"
+}

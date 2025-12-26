@@ -1,0 +1,81 @@
+{
+  "word": "cause",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "what was the cause of fire?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13422.png",
+      "local_image_path": "images/13422.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116073.png",
+      "local_image_path": "images/116073.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116074.png",
+      "local_image_path": "images/116074.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116075.png",
+      "local_image_path": "images/116075.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116076.png",
+      "local_image_path": "images/116076.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he always causes trouble with them in the classroom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13423.png",
+      "local_image_path": "images/13423.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116077.png",
+      "local_image_path": "images/116077.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116078.png",
+      "local_image_path": "images/116078.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116079.png",
+      "local_image_path": "images/116079.png"
+    }
+  ],
+  "synonyms": [
+    "produce",
+    "instigate",
+    "trigger",
+    "begin",
+    "initiate",
+    "affect"
+  ],
+  "antonyms": [
+    "effect",
+    "impede"
+  ],
+  "similar_words": [
+    "cause celebre",
+    "causeless",
+    "causerie",
+    "causeway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cause.mp3",
+  "local_sound_path": "sounds/cause.mp3"
+}

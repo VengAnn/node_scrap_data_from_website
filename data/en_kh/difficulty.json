@@ -1,0 +1,33 @@
+{
+  "word": "difficulty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I had the greatest difficulty in persuading her.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21296.png",
+      "local_image_path": "images/21296.png"
+    },
+    {
+      "pos": "n",
+      "example": "She met with many difficulties when travelling.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21297.png",
+      "local_image_path": "images/21297.png"
+    }
+  ],
+  "synonyms": [
+    "problem",
+    "snag",
+    "obstacle",
+    "impediment",
+    "hurdle"
+  ],
+  "antonyms": [
+    "simplicity",
+    "ease"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/difficulty.mp3",
+  "local_sound_path": "sounds/difficulty.mp3"
+}

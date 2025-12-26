@@ -1,0 +1,84 @@
+{
+  "word": "sad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sad man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74996.png",
+      "local_image_path": "images/74996.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sad performance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74997.png",
+      "local_image_path": "images/74997.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127299.png",
+      "local_image_path": "images/127299.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127300.png",
+      "local_image_path": "images/127300.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127301.png",
+      "local_image_path": "images/127301.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127302.png",
+      "local_image_path": "images/127302.png"
+    }
+  ],
+  "synonyms": [
+    "depressing",
+    "gloomy",
+    "miserable",
+    "cheerless",
+    "heartbreaking",
+    "distressing",
+    "heartrending",
+    "poignant",
+    "moving"
+  ],
+  "antonyms": [
+    "cheerful",
+    "happy"
+  ],
+  "similar_words": [
+    "sad sack",
+    "sadden",
+    "saddhu",
+    "saddle",
+    "saddle leather",
+    "saddle seat",
+    "saddle shoe",
+    "saddle sore",
+    "saddle-bag",
+    "saddle-blanket",
+    "saddle-bow",
+    "saddle-cloth",
+    "saddle-girth",
+    "saddle-horse",
+    "saddle-pin",
+    "saddle-roof",
+    "saddle-shape",
+    "saddle-soap",
+    "saddle-tree",
+    "saddleback",
+    "saddler",
+    "saddlery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sad.mp3",
+  "local_sound_path": "sounds/sad.mp3"
+}

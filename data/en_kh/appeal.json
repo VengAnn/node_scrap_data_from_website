@@ -1,0 +1,57 @@
+{
+  "word": "appeal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "appeal to their mercy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5037.png",
+      "local_image_path": "images/5037.png"
+    },
+    {
+      "pos": "n",
+      "example": "I appeal to you for mercy appeal for assistance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5039.png",
+      "local_image_path": "images/5039.png"
+    },
+    {
+      "pos": "tv",
+      "example": "appeal a decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5038.png",
+      "local_image_path": "images/5038.png"
+    }
+  ],
+  "synonyms": [
+    "attract",
+    "interest",
+    "fascinate",
+    "charm",
+    "tempt",
+    "please",
+    "draw",
+    "pull",
+    "grab",
+    "request",
+    "ask",
+    "plead",
+    "demand",
+    "urge",
+    "petition",
+    "call",
+    "entreat"
+  ],
+  "antonyms": [
+    "repulsion",
+    "repel"
+  ],
+  "similar_words": [
+    "appealable",
+    "appealant",
+    "appealer",
+    "appealing",
+    "appealingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appeal.mp3",
+  "local_sound_path": "sounds/appeal.mp3"
+}

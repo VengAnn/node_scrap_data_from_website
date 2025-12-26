@@ -1,0 +1,66 @@
+{
+  "word": "suit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wear a suit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86157.png",
+      "local_image_path": "images/86157.png"
+    },
+    {
+      "pos": "n",
+      "example": "bring suit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86158.png",
+      "local_image_path": "images/86158.png"
+    },
+    {
+      "pos": "n",
+      "example": "suit of cards",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86159.png",
+      "local_image_path": "images/86159.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86160.png",
+      "local_image_path": "images/86160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86162.png",
+      "local_image_path": "images/86162.png"
+    },
+    {
+      "pos": "tv",
+      "example": "answer doesn't suit me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86161.png",
+      "local_image_path": "images/86161.png"
+    }
+  ],
+  "synonyms": [
+    "flatter",
+    "become",
+    "match",
+    "fit",
+    "befit",
+    "harmonize"
+  ],
+  "antonyms": [
+    "clash"
+  ],
+  "similar_words": [
+    "suitable",
+    "suitableness",
+    "suitcase",
+    "suite",
+    "suited",
+    "suiting",
+    "suitor",
+    "suitress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suit.mp3",
+  "local_sound_path": "sounds/suit.mp3"
+}

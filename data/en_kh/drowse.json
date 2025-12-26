@@ -1,0 +1,39 @@
+{
+  "word": "drowse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23233.png",
+      "local_image_path": "images/23233.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23234.png",
+      "local_image_path": "images/23234.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118805.png",
+      "local_image_path": "images/118805.png"
+    }
+  ],
+  "synonyms": [
+    "snooze",
+    "doze",
+    "nap",
+    "catnap",
+    "sleep",
+    "slumber"
+  ],
+  "antonyms": [
+    "wake"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drowse.mp3",
+  "local_sound_path": "sounds/drowse.mp3"
+}

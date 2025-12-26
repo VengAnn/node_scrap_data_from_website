@@ -1,0 +1,71 @@
+{
+  "word": "return",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "return trip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73222.png",
+      "local_image_path": "images/73222.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73217.png",
+      "local_image_path": "images/73217.png"
+    },
+    {
+      "pos": "n",
+      "example": "await his return",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73221.png",
+      "local_image_path": "images/73221.png"
+    },
+    {
+      "pos": "tv",
+      "example": "return a favor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73218.png",
+      "local_image_path": "images/73218.png"
+    },
+    {
+      "pos": "tv",
+      "example": "return a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73219.png",
+      "local_image_path": "images/73219.png"
+    },
+    {
+      "pos": "tv",
+      "example": "return a profit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73220.png",
+      "local_image_path": "images/73220.png"
+    }
+  ],
+  "synonyms": [
+    "profit",
+    "earnings",
+    "yield",
+    "revenue",
+    "proceeds",
+    "gain",
+    "benefit",
+    "restore",
+    "send",
+    "replace"
+  ],
+  "antonyms": [
+    "depart",
+    "departure",
+    "keep",
+    "remove",
+    "stop"
+  ],
+  "similar_words": [
+    "return-match",
+    "returnable",
+    "returnee",
+    "returner",
+    "returning officer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/return.mp3",
+  "local_sound_path": "sounds/return.mp3"
+}

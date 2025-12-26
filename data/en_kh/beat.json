@@ -1,0 +1,107 @@
+{
+  "word": "beat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "your heart beats well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7900.png",
+      "local_image_path": "images/7900.png"
+    },
+    {
+      "pos": "n",
+      "example": "heart beat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7901.png",
+      "local_image_path": "images/7901.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he is beating a drum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7899.png",
+      "local_image_path": "images/7899.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114739.png",
+      "local_image_path": "images/114739.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114740.png",
+      "local_image_path": "images/114740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114741.png",
+      "local_image_path": "images/114741.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114742.png",
+      "local_image_path": "images/114742.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114743.png",
+      "local_image_path": "images/114743.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114744.png",
+      "local_image_path": "images/114744.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114745.png",
+      "local_image_path": "images/114745.png"
+    }
+  ],
+  "synonyms": [
+    "tired",
+    "weary",
+    "exhausted",
+    "shattered",
+    "dog-tired",
+    "break",
+    "broke",
+    "smash",
+    "smashed",
+    "better",
+    "best",
+    "bested",
+    "top",
+    "topped",
+    "surpass",
+    "outstrip",
+    "outdo",
+    "outshine",
+    "outdistance",
+    "outperform",
+    "outrun"
+  ],
+  "antonyms": [
+    "lively",
+    "fresh"
+  ],
+  "similar_words": [
+    "beaten",
+    "beater",
+    "beatific",
+    "beatifically",
+    "beatification",
+    "beatify",
+    "beating",
+    "beatitude",
+    "beatnik"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beat.mp3",
+  "local_sound_path": "sounds/beat.mp3"
+}

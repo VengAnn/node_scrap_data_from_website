@@ -1,0 +1,55 @@
+{
+  "word": "terminal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "terminal point of a trip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88360.png",
+      "local_image_path": "images/88360.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88361.png",
+      "local_image_path": "images/88361.png"
+    },
+    {
+      "pos": "adj",
+      "example": "terminal illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88362.png",
+      "local_image_path": "images/88362.png"
+    },
+    {
+      "pos": "n",
+      "example": "bus terminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88357.png",
+      "local_image_path": "images/88357.png"
+    },
+    {
+      "pos": "n",
+      "example": "wiring terminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88358.png",
+      "local_image_path": "images/88358.png"
+    },
+    {
+      "pos": "n",
+      "example": "airport terminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88359.png",
+      "local_image_path": "images/88359.png"
+    }
+  ],
+  "synonyms": [
+    "station",
+    "depot",
+    "airport",
+    "computer"
+  ],
+  "antonyms": [
+    "curable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terminal.mp3",
+  "local_sound_path": "sounds/terminal.mp3"
+}

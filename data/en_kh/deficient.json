@@ -1,0 +1,44 @@
+{
+  "word": "deficient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "deficient supply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20174.png",
+      "local_image_path": "images/20174.png"
+    },
+    {
+      "pos": "adj",
+      "example": "mentally deficient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20175.png",
+      "local_image_path": "images/20175.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117909.png",
+      "local_image_path": "images/117909.png"
+    }
+  ],
+  "synonyms": [
+    "faulty",
+    "defective",
+    "imperfect",
+    "inadequate",
+    "unsatisfactory",
+    "lacking",
+    "incomplete",
+    "poor",
+    "shoddy"
+  ],
+  "antonyms": [
+    "adequate",
+    "perfect",
+    "abundant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deficient.mp3",
+  "local_sound_path": "sounds/deficient.mp3"
+}

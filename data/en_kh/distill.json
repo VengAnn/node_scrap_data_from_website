@@ -1,0 +1,42 @@
+{
+  "word": "distill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22277.png",
+      "local_image_path": "images/22277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22278.png",
+      "local_image_path": "images/22278.png"
+    }
+  ],
+  "synonyms": [
+    "extract",
+    "glean",
+    "cull",
+    "collect",
+    "gather",
+    "garner",
+    "obtain"
+  ],
+  "antonyms": [
+    "dilute",
+    "pollute"
+  ],
+  "similar_words": [
+    "distillable",
+    "distillation",
+    "distillator",
+    "distillatory",
+    "distiller",
+    "distillery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distill.mp3",
+  "local_sound_path": "sounds/distill.mp3"
+}

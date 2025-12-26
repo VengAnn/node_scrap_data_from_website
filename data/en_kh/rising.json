@@ -1,0 +1,37 @@
+{
+  "word": "rising",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rising moon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73786.png",
+      "local_image_path": "images/73786.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rising fear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73787.png",
+      "local_image_path": "images/73787.png"
+    }
+  ],
+  "synonyms": [
+    "uprising",
+    "rebellion",
+    "revolt",
+    "mutiny",
+    "riot",
+    "insurrection",
+    "revolution",
+    "revolting"
+  ],
+  "antonyms": [
+    "falling",
+    "ending",
+    "retiring"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rising.mp3",
+  "local_sound_path": "sounds/rising.mp3"
+}

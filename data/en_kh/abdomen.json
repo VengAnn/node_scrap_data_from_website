@@ -1,0 +1,25 @@
+{
+  "word": "abdomen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1361.png",
+      "local_image_path": "images/1361.png"
+    }
+  ],
+  "synonyms": [
+    "stomach",
+    "front",
+    "belly",
+    "tummy",
+    "paunch",
+    "venter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abdomen.mp3",
+  "local_sound_path": "sounds/abdomen.mp3"
+}

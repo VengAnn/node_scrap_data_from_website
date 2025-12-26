@@ -1,0 +1,41 @@
+{
+  "word": "boorish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10186.png",
+      "local_image_path": "images/10186.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115389.png",
+      "local_image_path": "images/115389.png"
+    }
+  ],
+  "synonyms": [
+    "rude",
+    "ill-mannered",
+    "impolite",
+    "coarse",
+    "rough",
+    "loutish",
+    "uncouth",
+    "crude",
+    "ignorant",
+    "churlish",
+    "base"
+  ],
+  "antonyms": [
+    "well-mannered"
+  ],
+  "similar_words": [
+    "boorishly",
+    "boorishness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boorish.mp3",
+  "local_sound_path": "sounds/boorish.mp3"
+}

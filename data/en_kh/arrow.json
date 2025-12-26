@@ -1,0 +1,33 @@
+{
+  "word": "arrow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5608.png",
+      "local_image_path": "images/5608.png"
+    }
+  ],
+  "synonyms": [
+    "projectile",
+    "rocket",
+    "shot",
+    "bullet",
+    "dart",
+    "cursor",
+    "marker",
+    "indicator",
+    "pointer",
+    "sign",
+    "symbol"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "arrowhead",
+    "arrowy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arrow.mp3",
+  "local_sound_path": "sounds/arrow.mp3"
+}

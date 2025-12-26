@@ -1,0 +1,51 @@
+{
+  "word": "refine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71337.png",
+      "local_image_path": "images/71337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refine oil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71338.png",
+      "local_image_path": "images/71338.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refine a technique",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71339.png",
+      "local_image_path": "images/71339.png"
+    }
+  ],
+  "synonyms": [
+    "improve",
+    "polish",
+    "perfect",
+    "hone",
+    "enhance",
+    "upgrade",
+    "cultivate",
+    "purify",
+    "process",
+    "treat",
+    "filter",
+    "distill"
+  ],
+  "antonyms": [
+    "contaminate",
+    "coarsen"
+  ],
+  "similar_words": [
+    "refined",
+    "refinement",
+    "refiner",
+    "refinery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refine.mp3",
+  "local_sound_path": "sounds/refine.mp3"
+}

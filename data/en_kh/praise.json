@@ -1,0 +1,57 @@
+{
+  "word": "praise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65828.png",
+      "local_image_path": "images/65828.png"
+    },
+    {
+      "pos": "n",
+      "example": "religious praise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65829.png",
+      "local_image_path": "images/65829.png"
+    },
+    {
+      "pos": "tv",
+      "example": "praise his work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65827.png",
+      "local_image_path": "images/65827.png"
+    }
+  ],
+  "synonyms": [
+    "worship",
+    "honor",
+    "adoration",
+    "devotion",
+    "thanks",
+    "glory",
+    "glorify",
+    "laud",
+    "adore",
+    "exalt",
+    "magnify",
+    "bless",
+    "celebrate",
+    "extol"
+  ],
+  "antonyms": [
+    "criticize",
+    "criticism",
+    "vilification",
+    "vilify"
+  ],
+  "similar_words": [
+    "praise-worthily",
+    "praiseful",
+    "praiser",
+    "praiseworthily",
+    "praiseworthiness",
+    "praiseworthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/praise.mp3",
+  "local_sound_path": "sounds/praise.mp3"
+}

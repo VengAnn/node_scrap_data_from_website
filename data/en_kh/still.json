@@ -1,0 +1,81 @@
+{
+  "word": "still",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "still night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84778.png",
+      "local_image_path": "images/84778.png"
+    },
+    {
+      "pos": "adj",
+      "example": "still water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84779.png",
+      "local_image_path": "images/84779.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stand still",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84780.png",
+      "local_image_path": "images/84780.png"
+    },
+    {
+      "pos": "adv",
+      "example": "They will still complain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84782.png",
+      "local_image_path": "images/84782.png"
+    },
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84783.png",
+      "local_image_path": "images/84783.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84781.png",
+      "local_image_path": "images/84781.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84785.png",
+      "local_image_path": "images/84785.png"
+    },
+    {
+      "pos": "tv",
+      "example": "still a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84784.png",
+      "local_image_path": "images/84784.png"
+    }
+  ],
+  "synonyms": [
+    "calm",
+    "allay",
+    "dispel",
+    "banish",
+    "quieten",
+    "subdue"
+  ],
+  "antonyms": [
+    "moving",
+    "stationary"
+  ],
+  "similar_words": [
+    "still-life",
+    "stillage",
+    "stillatitious",
+    "stillatory",
+    "stillborn",
+    "stiller",
+    "stillicide",
+    "stillness",
+    "stillroom",
+    "stilly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/still.mp3",
+  "local_sound_path": "sounds/still.mp3"
+}

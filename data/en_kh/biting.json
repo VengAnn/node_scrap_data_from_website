@@ -1,0 +1,39 @@
+{
+  "word": "biting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9218.png",
+      "local_image_path": "images/9218.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9219.png",
+      "local_image_path": "images/9219.png"
+    }
+  ],
+  "synonyms": [
+    "sarcastic",
+    "acerbic",
+    "mordant",
+    "satirical",
+    "cruel",
+    "scornful",
+    "derisive",
+    "wounding",
+    "stinging",
+    "nipping",
+    "pricking"
+  ],
+  "antonyms": [
+    "hot",
+    "sympathetic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/biting.mp3",
+  "local_sound_path": "sounds/biting.mp3"
+}

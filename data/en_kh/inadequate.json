@@ -1,0 +1,49 @@
+{
+  "word": "inadequate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38092.png",
+      "local_image_path": "images/38092.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121825.png",
+      "local_image_path": "images/121825.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121826.png",
+      "local_image_path": "images/121826.png"
+    }
+  ],
+  "synonyms": [
+    "lacking",
+    "deficient",
+    "incompetent",
+    "ineffective",
+    "defective",
+    "imperfect",
+    "hopeless",
+    "inefficient",
+    "ineffectual",
+    "unsatisfactory",
+    "incapable"
+  ],
+  "antonyms": [
+    "adequate",
+    "capable",
+    "sufficient"
+  ],
+  "similar_words": [
+    "inadequately",
+    "inadequateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inadequate.mp3",
+  "local_sound_path": "sounds/inadequate.mp3"
+}

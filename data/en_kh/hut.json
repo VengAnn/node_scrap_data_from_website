@@ -1,0 +1,35 @@
+{
+  "word": "hut",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36513.png",
+      "local_image_path": "images/36513.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36514.png",
+      "local_image_path": "images/36514.png"
+    }
+  ],
+  "synonyms": [
+    "shed",
+    "lean-to",
+    "cabin",
+    "shelter",
+    "shack",
+    "shanty",
+    "outbuilding"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hutch",
+    "hutment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hut.mp3",
+  "local_sound_path": "sounds/hut.mp3"
+}

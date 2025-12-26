@@ -1,0 +1,50 @@
+{
+  "word": "bray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10782.png",
+      "local_image_path": "images/10782.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10783.png",
+      "local_image_path": "images/10783.png"
+    },
+    {
+      "pos": "tv",
+      "example": "donkey bray",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10781.png",
+      "local_image_path": "images/10781.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10786.png",
+      "local_image_path": "images/10786.png"
+    }
+  ],
+  "synonyms": [
+    "grate",
+    "rasp",
+    "bark",
+    "bellow",
+    "snort",
+    "cackle",
+    "shriek",
+    "screech"
+  ],
+  "antonyms": [
+    "murmur"
+  ],
+  "similar_words": [
+    "brayer",
+    "braying"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bray.mp3",
+  "local_sound_path": "sounds/bray.mp3"
+}

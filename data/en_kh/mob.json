@@ -1,0 +1,61 @@
+{
+  "word": "mob",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109738.png",
+      "local_image_path": "images/109738.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109739.png",
+      "local_image_path": "images/109739.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109740.png",
+      "local_image_path": "images/109740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109741.png",
+      "local_image_path": "images/109741.png"
+    }
+  ],
+  "synonyms": [
+    "overwhelm",
+    "surround",
+    "attack",
+    "jostle",
+    "pester",
+    "assail"
+  ],
+  "antonyms": [
+    "avoid",
+    "defend"
+  ],
+  "similar_words": [
+    "mob-cap",
+    "mob-law",
+    "mobbish",
+    "mobby",
+    "mobile",
+    "mobility",
+    "mobilization",
+    "mobilize",
+    "moble",
+    "mobocracy",
+    "mobocrat",
+    "mobocratic",
+    "mobsman",
+    "mobster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mob.mp3",
+  "local_sound_path": "sounds/mob.mp3"
+}

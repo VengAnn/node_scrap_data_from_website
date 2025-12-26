@@ -1,0 +1,58 @@
+{
+  "word": "braid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10539.png",
+      "local_image_path": "images/10539.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10538.png",
+      "local_image_path": "images/10538.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115522.png",
+      "local_image_path": "images/115522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115523.png",
+      "local_image_path": "images/115523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115524.png",
+      "local_image_path": "images/115524.png"
+    }
+  ],
+  "synonyms": [
+    "ponytail",
+    "plait",
+    "tress",
+    "decorate",
+    "trim",
+    "edge",
+    "fringe",
+    "bind"
+  ],
+  "antonyms": [
+    "unravel",
+    "strip"
+  ],
+  "similar_words": [
+    "braided",
+    "braider",
+    "braidism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/braid.mp3",
+  "local_sound_path": "sounds/braid.mp3"
+}

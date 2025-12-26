@@ -1,0 +1,60 @@
+{
+  "word": "dream",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "have a dream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23074.png",
+      "local_image_path": "images/23074.png"
+    },
+    {
+      "pos": "n",
+      "example": "impossible",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23075.png",
+      "local_image_path": "images/23075.png"
+    },
+    {
+      "pos": "n",
+      "example": "dream house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23076.png",
+      "local_image_path": "images/23076.png"
+    },
+    {
+      "pos": "v",
+      "example": "dream about the future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23077.png",
+      "local_image_path": "images/23077.png"
+    }
+  ],
+  "synonyms": [
+    "delight",
+    "joy",
+    "pleasure",
+    "marvel",
+    "ideal",
+    "fantasize",
+    "visualize",
+    "imagine",
+    "fancy",
+    "daydream",
+    "envisage",
+    "hallucinate",
+    "think"
+  ],
+  "antonyms": [
+    "reality",
+    "nightmare"
+  ],
+  "similar_words": [
+    "dreamer",
+    "dreamily",
+    "dreaminess",
+    "dreamland",
+    "dreamt",
+    "dreamy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dream.mp3",
+  "local_sound_path": "sounds/dream.mp3"
+}

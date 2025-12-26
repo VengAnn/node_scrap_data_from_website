@@ -1,0 +1,48 @@
+{
+  "word": "gush",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "waters gush",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33312.png",
+      "local_image_path": "images/33312.png"
+    },
+    {
+      "pos": "iv",
+      "example": "gush over (a baby)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33313.png",
+      "local_image_path": "images/33313.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33314.png",
+      "local_image_path": "images/33314.png"
+    }
+  ],
+  "synonyms": [
+    "flood",
+    "flow",
+    "spurt",
+    "jet",
+    "stream",
+    "surge",
+    "rush",
+    "pour"
+  ],
+  "antonyms": [
+    "trickle"
+  ],
+  "similar_words": [
+    "gusher",
+    "gushily",
+    "gushiness",
+    "gushing",
+    "gushingly",
+    "gushy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gush.mp3",
+  "local_sound_path": "sounds/gush.mp3"
+}

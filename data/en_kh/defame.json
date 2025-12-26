@@ -1,0 +1,35 @@
+{
+  "word": "defame",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20118.png",
+      "local_image_path": "images/20118.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117874.png",
+      "local_image_path": "images/117874.png"
+    }
+  ],
+  "synonyms": [
+    "insult",
+    "slander",
+    "libel",
+    "denigrate",
+    "deprecate",
+    "disparage",
+    "offend",
+    "vilify"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defame.mp3",
+  "local_sound_path": "sounds/defame.mp3"
+}

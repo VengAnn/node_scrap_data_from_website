@@ -1,0 +1,74 @@
+{
+  "word": "perfect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "perfect performance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61644.png",
+      "local_image_path": "images/61644.png"
+    },
+    {
+      "pos": "adj",
+      "example": "perfect tense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61645.png",
+      "local_image_path": "images/61645.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61646.png",
+      "local_image_path": "images/61646.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125340.png",
+      "local_image_path": "images/125340.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61647.png",
+      "local_image_path": "images/61647.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61648.png",
+      "local_image_path": "images/61648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61649.png",
+      "local_image_path": "images/61649.png"
+    }
+  ],
+  "synonyms": [
+    "improve",
+    "refine",
+    "hone",
+    "sharpen"
+  ],
+  "antonyms": [
+    "wrong",
+    "incomplete",
+    "spoil"
+  ],
+  "similar_words": [
+    "perfectibility",
+    "perfectible",
+    "perfection",
+    "perfectionism",
+    "perfectionist",
+    "perfective",
+    "perfectively",
+    "perfectiveness",
+    "perfectly",
+    "perfectness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perfect.mp3",
+  "local_sound_path": "sounds/perfect.mp3"
+}

@@ -1,0 +1,65 @@
+{
+  "word": "probe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67184.png",
+      "local_image_path": "images/67184.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126040.png",
+      "local_image_path": "images/126040.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126041.png",
+      "local_image_path": "images/126041.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126042.png",
+      "local_image_path": "images/126042.png"
+    },
+    {
+      "pos": "n",
+      "example": "use a probe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67185.png",
+      "local_image_path": "images/67185.png"
+    },
+    {
+      "pos": "n",
+      "example": "congressional probe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67186.png",
+      "local_image_path": "images/67186.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67183.png",
+      "local_image_path": "images/67183.png"
+    }
+  ],
+  "synonyms": [
+    "search",
+    "investigate",
+    "explore",
+    "query",
+    "survey",
+    "prod",
+    "research",
+    "delve",
+    "inquire",
+    "enquire"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/probe.mp3",
+  "local_sound_path": "sounds/probe.mp3"
+}

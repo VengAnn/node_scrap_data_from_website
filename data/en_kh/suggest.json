@@ -1,0 +1,45 @@
+{
+  "word": "suggest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86132.png",
+      "local_image_path": "images/86132.png"
+    },
+    {
+      "pos": "tv",
+      "example": "What did you suggest to the manager?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86133.png",
+      "local_image_path": "images/86133.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86134.png",
+      "local_image_path": "images/86134.png"
+    }
+  ],
+  "synonyms": [
+    "evoke",
+    "remind"
+  ],
+  "antonyms": [
+    "veto",
+    "state"
+  ],
+  "similar_words": [
+    "suggester",
+    "suggestibility",
+    "suggestible",
+    "suggestion",
+    "suggestion box",
+    "suggestive",
+    "suggestor",
+    "suggestum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suggest.mp3",
+  "local_sound_path": "sounds/suggest.mp3"
+}

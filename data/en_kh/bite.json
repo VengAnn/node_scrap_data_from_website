@@ -1,0 +1,35 @@
+{
+  "word": "bite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dog bite",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9216.png",
+      "local_image_path": "images/9216.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he bit off a large piece of the apple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9215.png",
+      "local_image_path": "images/9215.png"
+    }
+  ],
+  "synonyms": [
+    "spiciness",
+    "tartness",
+    "piquancy",
+    "tang",
+    "kick",
+    "hurt",
+    "smart",
+    "sting",
+    "nip",
+    "prick"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bite.mp3",
+  "local_sound_path": "sounds/bite.mp3"
+}

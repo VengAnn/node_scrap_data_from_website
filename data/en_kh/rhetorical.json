@@ -1,0 +1,39 @@
+{
+  "word": "rhetorical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rhetorical skill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73460.png",
+      "local_image_path": "images/73460.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rhetorical question",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73461.png",
+      "local_image_path": "images/73461.png"
+    }
+  ],
+  "synonyms": [
+    "metaphorical",
+    "symbolic",
+    "metaphoric",
+    "allegorical",
+    "emblematic",
+    "abstract",
+    "theatrical",
+    "pompous",
+    "booming",
+    "melodramatic",
+    "oratorical"
+  ],
+  "antonyms": [
+    "literal",
+    "quiet"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rhetorical.mp3",
+  "local_sound_path": "sounds/rhetorical.mp3"
+}

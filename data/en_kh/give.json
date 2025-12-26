@@ -1,0 +1,52 @@
+{
+  "word": "give",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "everyone should give",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31802.png",
+      "local_image_path": "images/31802.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31803.png",
+      "local_image_path": "images/31803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can you give some money?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31801.png",
+      "local_image_path": "images/31801.png"
+    }
+  ],
+  "synonyms": [
+    "fail",
+    "collapse",
+    "break",
+    "snap",
+    "yield",
+    "end",
+    "go"
+  ],
+  "antonyms": [
+    "take",
+    "refuse",
+    "hold",
+    "continue",
+    "rigidity",
+    "withhold"
+  ],
+  "similar_words": [
+    "give-and-take",
+    "giveaway",
+    "giveback",
+    "given",
+    "given name",
+    "giver"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/give.mp3",
+  "local_sound_path": "sounds/give.mp3"
+}

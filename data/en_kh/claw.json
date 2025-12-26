@@ -1,0 +1,61 @@
+{
+  "word": "claw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "eagle's claw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14879.png",
+      "local_image_path": "images/14879.png"
+    },
+    {
+      "pos": "n",
+      "example": "crab's claw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14880.png",
+      "local_image_path": "images/14880.png"
+    },
+    {
+      "pos": "n",
+      "example": "hammer claw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14881.png",
+      "local_image_path": "images/14881.png"
+    },
+    {
+      "pos": "n",
+      "example": "claw a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14882.png",
+      "local_image_path": "images/14882.png"
+    },
+    {
+      "pos": "n",
+      "example": "claw a hold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14883.png",
+      "local_image_path": "images/14883.png"
+    },
+    {
+      "pos": "n",
+      "example": "claw back",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14884.png",
+      "local_image_path": "images/14884.png"
+    },
+    {
+      "pos": "n",
+      "example": "in the claws of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14885.png",
+      "local_image_path": "images/14885.png"
+    }
+  ],
+  "synonyms": [
+    "scrape",
+    "scratch",
+    "scrabble",
+    "tear",
+    "graze",
+    "pierce"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/claw.mp3",
+  "local_sound_path": "sounds/claw.mp3"
+}

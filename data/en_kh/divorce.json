@@ -1,0 +1,45 @@
+{
+  "word": "divorce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22486.png",
+      "local_image_path": "images/22486.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22487.png",
+      "local_image_path": "images/22487.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22488.png",
+      "local_image_path": "images/22488.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22489.png",
+      "local_image_path": "images/22489.png"
+    }
+  ],
+  "synonyms": [
+    "dissociate",
+    "disconnect",
+    "separate",
+    "distance",
+    "detach"
+  ],
+  "antonyms": [
+    "marriage",
+    "associate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divorce.mp3",
+  "local_sound_path": "sounds/divorce.mp3"
+}

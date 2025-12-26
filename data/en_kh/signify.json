@@ -1,0 +1,38 @@
+{
+  "word": "signify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "signify his agreement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80035.png",
+      "local_image_path": "images/80035.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Term signifies respect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80036.png",
+      "local_image_path": "images/80036.png"
+    },
+    {
+      "pos": "tv",
+      "example": "signify hard times",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80037.png",
+      "local_image_path": "images/80037.png"
+    }
+  ],
+  "synonyms": [
+    "mean",
+    "indicate",
+    "show",
+    "imply",
+    "suggest",
+    "denote",
+    "connote"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/signify.mp3",
+  "local_sound_path": "sounds/signify.mp3"
+}

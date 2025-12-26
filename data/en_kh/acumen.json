@@ -1,0 +1,35 @@
+{
+  "word": "acumen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2272.png",
+      "local_image_path": "images/2272.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111885.png",
+      "local_image_path": "images/111885.png"
+    }
+  ],
+  "synonyms": [
+    "insight",
+    "sharpness",
+    "shrewdness",
+    "penetration",
+    "intelligence",
+    "wisdom",
+    "expertise",
+    "judgment",
+    "perspicacity",
+    "perspicuity"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acumen.mp3",
+  "local_sound_path": "sounds/acumen.mp3"
+}

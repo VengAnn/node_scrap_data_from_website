@@ -1,0 +1,40 @@
+{
+  "word": "atonement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6201.png",
+      "local_image_path": "images/6201.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114200.png",
+      "local_image_path": "images/114200.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114201.png",
+      "local_image_path": "images/114201.png"
+    }
+  ],
+  "synonyms": [
+    "compensation",
+    "amends",
+    "penitence",
+    "penance",
+    "punishment",
+    "expiation",
+    "apology",
+    "reparation",
+    "recompense"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/atonement.mp3",
+  "local_sound_path": "sounds/atonement.mp3"
+}

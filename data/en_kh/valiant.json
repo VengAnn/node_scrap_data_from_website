@@ -1,0 +1,32 @@
+{
+  "word": "valiant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97115.png",
+      "local_image_path": "images/97115.png"
+    }
+  ],
+  "synonyms": [
+    "brave",
+    "courageous",
+    "heroic",
+    "fearless",
+    "noble",
+    "gallant",
+    "intrepid",
+    "bold"
+  ],
+  "antonyms": [
+    "cowardly"
+  ],
+  "similar_words": [
+    "valiantly",
+    "valiantness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/valiant.mp3",
+  "local_sound_path": "sounds/valiant.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "burrow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11972.png",
+      "local_image_path": "images/11972.png"
+    },
+    {
+      "pos": "v",
+      "example": "rabbits had burrowed holes in the grassy bank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11971.png",
+      "local_image_path": "images/11971.png"
+    }
+  ],
+  "synonyms": [
+    "nestle",
+    "snuggle",
+    "cuddle",
+    "dig",
+    "tunnel",
+    "excavate",
+    "channel",
+    "delve",
+    "grub"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burrow.mp3",
+  "local_sound_path": "sounds/burrow.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "depart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "We departed for London at 10 AM",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20580.png",
+      "local_image_path": "images/20580.png"
+    },
+    {
+      "pos": "iv",
+      "example": "depart from sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20581.png",
+      "local_image_path": "images/20581.png"
+    },
+    {
+      "pos": "iv",
+      "example": "depart from this world",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20582.png",
+      "local_image_path": "images/20582.png"
+    },
+    {
+      "pos": "iv",
+      "example": "depart glories",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20583.png",
+      "local_image_path": "images/20583.png"
+    }
+  ],
+  "synonyms": [
+    "proceed",
+    "advance",
+    "deviate",
+    "diverge",
+    "differ",
+    "vary",
+    "change",
+    "digress",
+    "meander",
+    "stray"
+  ],
+  "antonyms": [
+    "arrive",
+    "return"
+  ],
+  "similar_words": [
+    "departed",
+    "department",
+    "department store",
+    "departmental",
+    "departure"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/depart.mp3",
+  "local_sound_path": "sounds/depart.mp3"
+}

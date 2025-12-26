@@ -1,0 +1,42 @@
+{
+  "word": "acquaint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "you must acquaint yourself with your new study",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2125.png",
+      "local_image_path": "images/2125.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111911.png",
+      "local_image_path": "images/111911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113189.png",
+      "local_image_path": "images/113189.png"
+    }
+  ],
+  "synonyms": [
+    "explain",
+    "accustom",
+    "notify",
+    "tell",
+    "inform",
+    "apprise"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "acquaintance",
+    "acquaintance rape",
+    "acquaintanceship",
+    "acquainted"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acquaint.mp3",
+  "local_sound_path": "sounds/acquaint.mp3"
+}

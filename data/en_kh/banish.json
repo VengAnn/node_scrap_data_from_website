@@ -1,0 +1,50 @@
+{
+  "word": "banish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "banish from memory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7321.png",
+      "local_image_path": "images/7321.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114531.png",
+      "local_image_path": "images/114531.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114532.png",
+      "local_image_path": "images/114532.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114533.png",
+      "local_image_path": "images/114533.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114534.png",
+      "local_image_path": "images/114534.png"
+    }
+  ],
+  "synonyms": [
+    "remove",
+    "dismiss",
+    "eliminate",
+    "discard"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "banisher",
+    "banishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banish.mp3",
+  "local_sound_path": "sounds/banish.mp3"
+}

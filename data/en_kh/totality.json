@@ -1,0 +1,31 @@
+{
+  "word": "totality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90367.png",
+      "local_image_path": "images/90367.png"
+    },
+    {
+      "pos": "n",
+      "example": "Consider the problem in its totality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90368.png",
+      "local_image_path": "images/90368.png"
+    }
+  ],
+  "synonyms": [
+    "entirety",
+    "whole",
+    "total",
+    "sum"
+  ],
+  "antonyms": [
+    "part"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/totality.mp3",
+  "local_sound_path": "sounds/totality.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "sag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "you skin sags",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75088.png",
+      "local_image_path": "images/75088.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75089.png",
+      "local_image_path": "images/75089.png"
+    },
+    {
+      "pos": "iv",
+      "example": "My spirits sag right now",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75090.png",
+      "local_image_path": "images/75090.png"
+    },
+    {
+      "pos": "iv",
+      "example": "shoulders sag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75091.png",
+      "local_image_path": "images/75091.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75092.png",
+      "local_image_path": "images/75092.png"
+    }
+  ],
+  "synonyms": [
+    "drop",
+    "fall",
+    "slump",
+    "dip",
+    "lull",
+    "droop",
+    "wilt",
+    "flag",
+    "loll",
+    "bag",
+    "bend"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "saga",
+    "sagacious",
+    "sagaciously",
+    "sagaciousness",
+    "sagacity",
+    "sage",
+    "sage cheese",
+    "sage green",
+    "sagely",
+    "sageness",
+    "saggar",
+    "sagging"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sag.mp3",
+  "local_sound_path": "sounds/sag.mp3"
+}

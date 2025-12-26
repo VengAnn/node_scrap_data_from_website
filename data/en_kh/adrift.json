@@ -1,0 +1,45 @@
+{
+  "word": "adrift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2514.png",
+      "local_image_path": "images/2514.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112037.png",
+      "local_image_path": "images/112037.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113320.png",
+      "local_image_path": "images/113320.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113321.png",
+      "local_image_path": "images/113321.png"
+    }
+  ],
+  "synonyms": [
+    "aimless",
+    "wandering",
+    "lost",
+    "purposeless",
+    "floating",
+    "directionless"
+  ],
+  "antonyms": [
+    "stationary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adrift.mp3",
+  "local_sound_path": "sounds/adrift.mp3"
+}

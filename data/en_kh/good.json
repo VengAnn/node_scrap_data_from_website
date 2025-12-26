@@ -1,0 +1,83 @@
+{
+  "word": "good",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "good man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32283.png",
+      "local_image_path": "images/32283.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32287.png",
+      "local_image_path": "images/32287.png"
+    },
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32286.png",
+      "local_image_path": "images/32286.png"
+    },
+    {
+      "pos": "n (pl)",
+      "example": "imported goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32285.png",
+      "local_image_path": "images/32285.png"
+    },
+    {
+      "pos": "n",
+      "example": "do good",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32284.png",
+      "local_image_path": "images/32284.png"
+    }
+  ],
+  "synonyms": [
+    "benefit",
+    "help",
+    "advantage",
+    "usefulness",
+    "profit",
+    "gain"
+  ],
+  "antonyms": [
+    "poor",
+    "bad",
+    "useless",
+    "unpleasant",
+    "naughty",
+    "unsuitable"
+  ],
+  "similar_words": [
+    "good book",
+    "good day",
+    "good evening",
+    "good heartedly",
+    "good heartedness",
+    "good humour",
+    "good humoured",
+    "good humouredly",
+    "good humouredness",
+    "good left on hands",
+    "good luck",
+    "good morning",
+    "good nature",
+    "good neighbourliness",
+    "good night",
+    "good sense",
+    "good tempered",
+    "good temperedness",
+    "good title",
+    "good wife",
+    "good will",
+    "good-breeding",
+    "good-for-nothing",
+    "good-hearted",
+    "good-looking",
+    "good-natured"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/good.mp3",
+  "local_sound_path": "sounds/good.mp3"
+}

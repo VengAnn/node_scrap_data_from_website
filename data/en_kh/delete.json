@@ -1,0 +1,36 @@
+{
+  "word": "delete",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I deleted extra the characters.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20302.png",
+      "local_image_path": "images/20302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130971.png",
+      "local_image_path": "images/130971.png"
+    }
+  ],
+  "synonyms": [
+    "erase",
+    "remove",
+    "obliterate",
+    "cancel",
+    "scrub",
+    "scrap",
+    "score",
+    "scratch",
+    "expunge"
+  ],
+  "antonyms": [
+    "insert"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delete.mp3",
+  "local_sound_path": "sounds/delete.mp3"
+}

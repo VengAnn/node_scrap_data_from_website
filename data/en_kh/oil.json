@@ -1,0 +1,64 @@
+{
+  "word": "oil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "oil well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57405.png",
+      "local_image_path": "images/57405.png"
+    },
+    {
+      "pos": "n",
+      "example": "drill for oil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57402.png",
+      "local_image_path": "images/57402.png"
+    },
+    {
+      "pos": "n",
+      "example": "vinegar and oil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57403.png",
+      "local_image_path": "images/57403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "oil a hinge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57404.png",
+      "local_image_path": "images/57404.png"
+    }
+  ],
+  "synonyms": [
+    "lubricate",
+    "grease",
+    "loosen"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "oil burner",
+    "oil paint",
+    "oil palm",
+    "oil rig",
+    "oil sand",
+    "oil shale",
+    "oil well",
+    "oil-can",
+    "oil-cloth",
+    "oil-colour",
+    "oil-field",
+    "oil-fuel",
+    "oil-painting",
+    "oil-tanker",
+    "oiled",
+    "oiler",
+    "oilery",
+    "oilily",
+    "oiliness",
+    "oilman",
+    "oilpaper",
+    "oilstone",
+    "oily"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oil.mp3",
+  "local_sound_path": "sounds/oil.mp3"
+}

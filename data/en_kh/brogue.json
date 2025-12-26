@@ -1,0 +1,73 @@
+{
+  "word": "brogue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11331.png",
+      "local_image_path": "images/11331.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11335.png",
+      "local_image_path": "images/11335.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11336.png",
+      "local_image_path": "images/11336.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115684.png",
+      "local_image_path": "images/115684.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115685.png",
+      "local_image_path": "images/115685.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11337.png",
+      "local_image_path": "images/11337.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115686.png",
+      "local_image_path": "images/115686.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115687.png",
+      "local_image_path": "images/115687.png"
+    }
+  ],
+  "synonyms": [
+    "pronunciation",
+    "inflection",
+    "intonation",
+    "enunciation",
+    "drawl",
+    "twang",
+    "burr",
+    "bur"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brogueneer",
+    "broguer",
+    "broguery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brogue.mp3",
+  "local_sound_path": "sounds/brogue.mp3"
+}

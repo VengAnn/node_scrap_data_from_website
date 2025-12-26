@@ -1,0 +1,49 @@
+{
+  "word": "confusion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "confusion of the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16751.png",
+      "local_image_path": "images/16751.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117220.png",
+      "local_image_path": "images/117220.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117221.png",
+      "local_image_path": "images/117221.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117222.png",
+      "local_image_path": "images/117222.png"
+    }
+  ],
+  "synonyms": [
+    "embarrassment",
+    "awkwardness",
+    "disorientation",
+    "uncertainty",
+    "self-consciousness"
+  ],
+  "antonyms": [
+    "understanding",
+    "order",
+    "confidence",
+    "clarity"
+  ],
+  "similar_words": [
+    "confusional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confusion.mp3",
+  "local_sound_path": "sounds/confusion.mp3"
+}

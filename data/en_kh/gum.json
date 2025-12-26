@@ -1,0 +1,75 @@
+{
+  "word": "gum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "pine gum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33263.png",
+      "local_image_path": "images/33263.png"
+    },
+    {
+      "pos": "n",
+      "example": "adhesive gum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33264.png",
+      "local_image_path": "images/33264.png"
+    },
+    {
+      "pos": "n",
+      "example": "chewing gum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33265.png",
+      "local_image_path": "images/33265.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33268.png",
+      "local_image_path": "images/33268.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33269.png",
+      "local_image_path": "images/33269.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gum a label",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33266.png",
+      "local_image_path": "images/33266.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gum up (progress)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33267.png",
+      "local_image_path": "images/33267.png"
+    }
+  ],
+  "synonyms": [
+    "chewing gum",
+    "bubble gum",
+    "stick",
+    "glue",
+    "paste",
+    "bond",
+    "cement",
+    "affix"
+  ],
+  "antonyms": [
+    "unstick"
+  ],
+  "similar_words": [
+    "gum arabic",
+    "gum benjamin",
+    "gum tree",
+    "gumbo",
+    "gumboot",
+    "gumminess",
+    "gummous",
+    "gummy",
+    "gumption"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gum.mp3",
+  "local_sound_path": "sounds/gum.mp3"
+}

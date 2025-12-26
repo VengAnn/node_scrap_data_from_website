@@ -1,0 +1,80 @@
+{
+  "word": "except",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26381.png",
+      "local_image_path": "images/26381.png"
+    },
+    {
+      "pos": "prep",
+      "example": "I looked everywhere except in the bedroom.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26380.png",
+      "local_image_path": "images/26380.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119561.png",
+      "local_image_path": "images/119561.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119562.png",
+      "local_image_path": "images/119562.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119563.png",
+      "local_image_path": "images/119563.png"
+    },
+    {
+      "pos": "tv",
+      "example": "When I say that most students are lazy, of course, I except \n\nyou.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26382.png",
+      "local_image_path": "images/26382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119564.png",
+      "local_image_path": "images/119564.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119565.png",
+      "local_image_path": "images/119565.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119566.png",
+      "local_image_path": "images/119566.png"
+    }
+  ],
+  "synonyms": [
+    "but",
+    "bar",
+    "excepting",
+    "aside from"
+  ],
+  "antonyms": [
+    "including"
+  ],
+  "similar_words": [
+    "excepting",
+    "exception",
+    "exceptionability",
+    "exceptionable",
+    "exceptional",
+    "exceptionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/except.mp3",
+  "local_sound_path": "sounds/except.mp3"
+}

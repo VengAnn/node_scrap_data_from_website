@@ -1,0 +1,61 @@
+{
+  "word": "craft",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18350.png",
+      "local_image_path": "images/18350.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18351.png",
+      "local_image_path": "images/18351.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18352.png",
+      "local_image_path": "images/18352.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18353.png",
+      "local_image_path": "images/18353.png"
+    }
+  ],
+  "synonyms": [
+    "cunning",
+    "deceit",
+    "slyness",
+    "wiliness",
+    "shrewdness",
+    "guile",
+    "make",
+    "fashion",
+    "create",
+    "manufacture",
+    "construct",
+    "shape",
+    "hew",
+    "produce"
+  ],
+  "antonyms": [
+    "ingenuousness"
+  ],
+  "similar_words": [
+    "craft knife",
+    "craft work",
+    "craftily",
+    "craftsman",
+    "craftsmanship",
+    "craftswoman",
+    "crafty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/craft.mp3",
+  "local_sound_path": "sounds/craft.mp3"
+}

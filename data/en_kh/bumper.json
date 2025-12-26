@@ -1,0 +1,35 @@
+{
+  "word": "bumper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bumper crop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11828.png",
+      "local_image_path": "images/11828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11827.png",
+      "local_image_path": "images/11827.png"
+    }
+  ],
+  "synonyms": [
+    "jumbo",
+    "mammoth",
+    "mega",
+    "super",
+    "buffer",
+    "cushion",
+    "shock absorber"
+  ],
+  "antonyms": [
+    "meager",
+    "small"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bumper.mp3",
+  "local_sound_path": "sounds/bumper.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "word": "blossom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "tree blossom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9722.png",
+      "local_image_path": "images/9722.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115270.png",
+      "local_image_path": "images/115270.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115271.png",
+      "local_image_path": "images/115271.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115272.png",
+      "local_image_path": "images/115272.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9721.png",
+      "local_image_path": "images/9721.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115273.png",
+      "local_image_path": "images/115273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115274.png",
+      "local_image_path": "images/115274.png"
+    }
+  ],
+  "synonyms": [
+    "flourish",
+    "thrive",
+    "develop",
+    "grow",
+    "bloom",
+    "prosper"
+  ],
+  "antonyms": [
+    "wither",
+    "struggle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blossom.mp3",
+  "local_sound_path": "sounds/blossom.mp3"
+}

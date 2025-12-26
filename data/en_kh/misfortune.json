@@ -1,0 +1,50 @@
+{
+  "word": "misfortune",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "suffer great misfortune.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109212.png",
+      "local_image_path": "images/109212.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109213.png",
+      "local_image_path": "images/109213.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124131.png",
+      "local_image_path": "images/124131.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124132.png",
+      "local_image_path": "images/124132.png"
+    }
+  ],
+  "synonyms": [
+    "disaster",
+    "calamity",
+    "hardship",
+    "trouble",
+    "adversity",
+    "trial",
+    "tribulation",
+    "misadventure",
+    "catastrophe",
+    "accident"
+  ],
+  "antonyms": [
+    "luck",
+    "opportunity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/misfortune.mp3",
+  "local_sound_path": "sounds/misfortune.mp3"
+}

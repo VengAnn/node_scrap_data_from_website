@@ -1,0 +1,44 @@
+{
+  "word": "enthusiastic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25300.png",
+      "local_image_path": "images/25300.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131576.png",
+      "local_image_path": "images/131576.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131577.png",
+      "local_image_path": "images/131577.png"
+    }
+  ],
+  "synonyms": [
+    "excited",
+    "keen",
+    "eager",
+    "passionate",
+    "fervent",
+    "animated",
+    "whole-hearted",
+    "aflame",
+    "afire"
+  ],
+  "antonyms": [
+    "apathetic"
+  ],
+  "similar_words": [
+    "enthusiastically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enthusiastic.mp3",
+  "local_sound_path": "sounds/enthusiastic.mp3"
+}

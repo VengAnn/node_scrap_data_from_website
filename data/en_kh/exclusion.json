@@ -1,0 +1,40 @@
+{
+  "word": "exclusion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "exclusion of the poor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26450.png",
+      "local_image_path": "images/26450.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26451.png",
+      "local_image_path": "images/26451.png"
+    }
+  ],
+  "synonyms": [
+    "ban",
+    "refusal",
+    "sanction",
+    "embargo",
+    "prohibition",
+    "bar",
+    "veto"
+  ],
+  "antonyms": [
+    "inclusion",
+    "welcome"
+  ],
+  "similar_words": [
+    "exclusionary clause",
+    "exclusionary rule",
+    "exclusionist",
+    "exclusionistic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exclusion.mp3",
+  "local_sound_path": "sounds/exclusion.mp3"
+}

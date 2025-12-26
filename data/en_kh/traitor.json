@@ -1,0 +1,33 @@
+{
+  "word": "traitor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90844.png",
+      "local_image_path": "images/90844.png"
+    }
+  ],
+  "synonyms": [
+    "conspirator",
+    "collaborator",
+    "turncoat",
+    "defector",
+    "deserter",
+    "spy",
+    "quisling"
+  ],
+  "antonyms": [
+    "loyalist"
+  ],
+  "similar_words": [
+    "traitoress",
+    "traitorous",
+    "traitorously",
+    "traitorousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/traitor.mp3",
+  "local_sound_path": "sounds/traitor.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "word": "advantage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the advantages of a good education are very great",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2553.png",
+      "local_image_path": "images/2553.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112035.png",
+      "local_image_path": "images/112035.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2554.png",
+      "local_image_path": "images/2554.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112034.png",
+      "local_image_path": "images/112034.png"
+    }
+  ],
+  "synonyms": [
+    "benefit",
+    "gain",
+    "lead",
+    "plus",
+    "pro",
+    "improvement",
+    "help"
+  ],
+  "antonyms": [
+    "disadvantage"
+  ],
+  "similar_words": [
+    "advantaged",
+    "advantageous",
+    "advantageously",
+    "advantageousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advantage.mp3",
+  "local_sound_path": "sounds/advantage.mp3"
+}

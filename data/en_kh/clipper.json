@@ -1,0 +1,36 @@
+{
+  "word": "clipper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15061.png",
+      "local_image_path": "images/15061.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116488.png",
+      "local_image_path": "images/116488.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116489.png",
+      "local_image_path": "images/116489.png"
+    }
+  ],
+  "synonyms": [
+    "ship",
+    "sailboat",
+    "boat",
+    "cutter",
+    "vessel"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clipper.mp3",
+  "local_sound_path": "sounds/clipper.mp3"
+}

@@ -1,0 +1,79 @@
+{
+  "word": "wrong",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "wrong answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101209.png",
+      "local_image_path": "images/101209.png"
+    },
+    {
+      "pos": "adj",
+      "example": "wrong conduct",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101210.png",
+      "local_image_path": "images/101210.png"
+    },
+    {
+      "pos": "adj",
+      "example": "What's wrong?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101211.png",
+      "local_image_path": "images/101211.png"
+    },
+    {
+      "pos": "adj",
+      "example": "You are wrong to borrow my money today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101212.png",
+      "local_image_path": "images/101212.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101214.png",
+      "local_image_path": "images/101214.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101213.png",
+      "local_image_path": "images/101213.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101215.png",
+      "local_image_path": "images/101215.png"
+    }
+  ],
+  "synonyms": [
+    "insult",
+    "injure",
+    "wound",
+    "harm",
+    "ill-treat",
+    "abuse",
+    "offend",
+    "trespass"
+  ],
+  "antonyms": [
+    "right",
+    "suitable"
+  ],
+  "similar_words": [
+    "wrong-doing",
+    "wrong-headed",
+    "wrong-headedly",
+    "wrong-headedness",
+    "wrongdoer",
+    "wrongful",
+    "wrongful dismissal",
+    "wrongfully",
+    "wrongfulness",
+    "wrongly",
+    "wrongness",
+    "wrongous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wrong.mp3",
+  "local_sound_path": "sounds/wrong.mp3"
+}

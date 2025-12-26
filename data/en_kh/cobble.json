@@ -1,0 +1,33 @@
+{
+  "word": "cobble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15319.png",
+      "local_image_path": "images/15319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15318.png",
+      "local_image_path": "images/15318.png"
+    }
+  ],
+  "synonyms": [
+    "mend",
+    "repair",
+    "patch",
+    "stitch"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cobbler",
+    "cobblers",
+    "cobblestone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cobble.mp3",
+  "local_sound_path": "sounds/cobble.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "unhappy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94453.png",
+      "local_image_path": "images/94453.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94454.png",
+      "local_image_path": "images/94454.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94455.png",
+      "local_image_path": "images/94455.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94456.png",
+      "local_image_path": "images/94456.png"
+    }
+  ],
+  "synonyms": [
+    "sad",
+    "miserable",
+    "discontented",
+    "despondent",
+    "dejected",
+    "gloomy",
+    "forlorn",
+    "sorrowful",
+    "melancholic",
+    "depressed",
+    "down"
+  ],
+  "antonyms": [
+    "happy",
+    "fortunate",
+    "pleased"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unhappy.mp3",
+  "local_sound_path": "sounds/unhappy.mp3"
+}

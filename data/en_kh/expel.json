@@ -1,0 +1,49 @@
+{
+  "word": "expel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26776.png",
+      "local_image_path": "images/26776.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119689.png",
+      "local_image_path": "images/119689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119690.png",
+      "local_image_path": "images/119690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119691.png",
+      "local_image_path": "images/119691.png"
+    }
+  ],
+  "synonyms": [
+    "eject",
+    "oust",
+    "banish",
+    "exorcise",
+    "exorcize",
+    "dismiss",
+    "sack",
+    "fire"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "expelable",
+    "expellant",
+    "expellent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expel.mp3",
+  "local_sound_path": "sounds/expel.mp3"
+}

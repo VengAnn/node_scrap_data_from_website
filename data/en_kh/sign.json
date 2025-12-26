@@ -1,0 +1,91 @@
+{
+  "word": "sign",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79978.png",
+      "local_image_path": "images/79978.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79971.png",
+      "local_image_path": "images/79971.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79972.png",
+      "local_image_path": "images/79972.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79973.png",
+      "local_image_path": "images/79973.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79977.png",
+      "local_image_path": "images/79977.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79974.png",
+      "local_image_path": "images/79974.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79975.png",
+      "local_image_path": "images/79975.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79976.png",
+      "local_image_path": "images/79976.png"
+    }
+  ],
+  "synonyms": [
+    "signal",
+    "gesture",
+    "motion",
+    "indicate",
+    "gesticulate"
+  ],
+  "antonyms": [
+    "dismiss"
+  ],
+  "similar_words": [
+    "sign away",
+    "sign for",
+    "sign langauge",
+    "sign manual",
+    "sign-post",
+    "signable",
+    "signal",
+    "signal-book",
+    "signal-box",
+    "signal-corps",
+    "signal-fire",
+    "signal-flag",
+    "signal-gun",
+    "signal-lamp",
+    "signal-post",
+    "signal-station",
+    "signaler",
+    "signalist",
+    "signalize",
+    "signaller",
+    "signally",
+    "signalman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sign.mp3",
+  "local_sound_path": "sounds/sign.mp3"
+}

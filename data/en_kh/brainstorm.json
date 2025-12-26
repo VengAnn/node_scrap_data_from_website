@@ -1,0 +1,44 @@
+{
+  "word": "brainstorm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10565.png",
+      "local_image_path": "images/10565.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10566.png",
+      "local_image_path": "images/10566.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115531.png",
+      "local_image_path": "images/115531.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10567.png",
+      "local_image_path": "images/10567.png"
+    }
+  ],
+  "synonyms": [
+    "inspiration",
+    "idea",
+    "breakthrough",
+    "innovation",
+    "think",
+    "suggest",
+    "devise"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brainstorm.mp3",
+  "local_sound_path": "sounds/brainstorm.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "reproach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72458.png",
+      "local_image_path": "images/72458.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72457.png",
+      "local_image_path": "images/72457.png"
+    }
+  ],
+  "synonyms": [
+    "admonish",
+    "accuse",
+    "chide",
+    "reprove",
+    "criticize",
+    "scold",
+    "rebuke",
+    "reprimand",
+    "blame"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "reproachable",
+    "reproachableness",
+    "reproachably",
+    "reproacher",
+    "reproachful",
+    "reproachfully",
+    "reproachless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reproach.mp3",
+  "local_sound_path": "sounds/reproach.mp3"
+}

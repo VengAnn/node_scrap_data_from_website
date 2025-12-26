@@ -1,0 +1,57 @@
+{
+  "word": "refresh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71450.png",
+      "local_image_path": "images/71450.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71446.png",
+      "local_image_path": "images/71446.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refresh oneself after a strip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71447.png",
+      "local_image_path": "images/71447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "refresh one's memory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71448.png",
+      "local_image_path": "images/71448.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71449.png",
+      "local_image_path": "images/71449.png"
+    }
+  ],
+  "synonyms": [
+    "revive",
+    "enliven",
+    "invigorate",
+    "rejuvenate",
+    "energize",
+    "restore",
+    "recharge",
+    "revitalize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "refreshen",
+    "refresher",
+    "refreshful",
+    "refreshing",
+    "refreshment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refresh.mp3",
+  "local_sound_path": "sounds/refresh.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "doll",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "child's doll",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22629.png",
+      "local_image_path": "images/22629.png"
+    },
+    {
+      "pos": "sl",
+      "example": "She is a doll",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22630.png",
+      "local_image_path": "images/22630.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22631.png",
+      "local_image_path": "images/22631.png"
+    }
+  ],
+  "synonyms": [
+    "toy",
+    "game",
+    "figurine",
+    "figure",
+    "dolly",
+    "model",
+    "puppet"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dollar",
+    "dollar area",
+    "dollar balance",
+    "dollar crisis",
+    "dollar gap",
+    "dollars to donuts",
+    "dollop",
+    "dolly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doll.mp3",
+  "local_sound_path": "sounds/doll.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "boring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10248.png",
+      "local_image_path": "images/10248.png"
+    }
+  ],
+  "synonyms": [
+    "uninteresting",
+    "tedious",
+    "dull",
+    "dreary",
+    "tiresome",
+    "lackluster",
+    "unexciting",
+    "monotonous",
+    "repetitive",
+    "wearisome",
+    "humdrum",
+    "uninspiring",
+    "tiring",
+    "wearying"
+  ],
+  "antonyms": [
+    "exciting",
+    "interesting"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boring.mp3",
+  "local_sound_path": "sounds/boring.mp3"
+}

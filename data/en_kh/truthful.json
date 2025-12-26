@@ -1,0 +1,35 @@
+{
+  "word": "truthful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "truthful person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92215.png",
+      "local_image_path": "images/92215.png"
+    }
+  ],
+  "synonyms": [
+    "correct",
+    "true",
+    "reliable",
+    "accurate",
+    "exact",
+    "literal",
+    "factual",
+    "faithful",
+    "proper",
+    "right"
+  ],
+  "antonyms": [
+    "dishonest",
+    "false"
+  ],
+  "similar_words": [
+    "truthfully",
+    "truthfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/truthful.mp3",
+  "local_sound_path": "sounds/truthful.mp3"
+}

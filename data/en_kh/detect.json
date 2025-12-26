@@ -1,0 +1,52 @@
+{
+  "word": "detect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The police officer's job is to detect fraud.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20979.png",
+      "local_image_path": "images/20979.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118177.png",
+      "local_image_path": "images/118177.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118178.png",
+      "local_image_path": "images/118178.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118179.png",
+      "local_image_path": "images/118179.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118180.png",
+      "local_image_path": "images/118180.png"
+    }
+  ],
+  "synonyms": [
+    "discover",
+    "find",
+    "uncover",
+    "reveal",
+    "expose"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "detection",
+    "detective",
+    "detector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detect.mp3",
+  "local_sound_path": "sounds/detect.mp3"
+}

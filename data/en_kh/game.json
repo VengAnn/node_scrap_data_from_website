@@ -1,0 +1,100 @@
+{
+  "word": "game",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "game bird",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30944.png",
+      "local_image_path": "images/30944.png"
+    },
+    {
+      "pos": "adj",
+      "example": "game for a dare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30945.png",
+      "local_image_path": "images/30945.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30946.png",
+      "local_image_path": "images/30946.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30948.png",
+      "local_image_path": "images/30948.png"
+    },
+    {
+      "pos": "n",
+      "example": "play a game",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30938.png",
+      "local_image_path": "images/30938.png"
+    },
+    {
+      "pos": "n",
+      "example": "the game of football",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30939.png",
+      "local_image_path": "images/30939.png"
+    },
+    {
+      "pos": "n",
+      "example": "win a game",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30940.png",
+      "local_image_path": "images/30940.png"
+    },
+    {
+      "pos": "n",
+      "example": "This shop sells games.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30941.png",
+      "local_image_path": "images/30941.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30942.png",
+      "local_image_path": "images/30942.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30943.png",
+      "local_image_path": "images/30943.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30949.png",
+      "local_image_path": "images/30949.png"
+    }
+  ],
+  "synonyms": [
+    "spirited",
+    "plucky",
+    "brave",
+    "resolute",
+    "determined",
+    "tough",
+    "big game"
+  ],
+  "antonyms": [
+    "unwilling",
+    "spiritless"
+  ],
+  "similar_words": [
+    "game bird",
+    "game hen",
+    "game show",
+    "game-cock",
+    "game-keeper",
+    "gamely",
+    "gamer",
+    "gamesome",
+    "gamester",
+    "gamete"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/game.mp3",
+  "local_sound_path": "sounds/game.mp3"
+}

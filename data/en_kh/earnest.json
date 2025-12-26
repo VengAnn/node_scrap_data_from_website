@@ -1,0 +1,48 @@
+{
+  "word": "earnest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "to earnest effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23644.png",
+      "local_image_path": "images/23644.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23645.png",
+      "local_image_path": "images/23645.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23646.png",
+      "local_image_path": "images/23646.png"
+    },
+    {
+      "pos": "n",
+      "example": "earnest of his intention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23647.png",
+      "local_image_path": "images/23647.png"
+    }
+  ],
+  "synonyms": [
+    "sincere",
+    "heartfelt",
+    "deep",
+    "intense",
+    "strong"
+  ],
+  "antonyms": [
+    "frivolous",
+    "superficial"
+  ],
+  "similar_words": [
+    "earnestly",
+    "earnestness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/earnest.mp3",
+  "local_sound_path": "sounds/earnest.mp3"
+}

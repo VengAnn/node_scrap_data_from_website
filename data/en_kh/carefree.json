@@ -1,0 +1,33 @@
+{
+  "word": "carefree",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "carefree life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12980.png",
+      "local_image_path": "images/12980.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115993.png",
+      "local_image_path": "images/115993.png"
+    }
+  ],
+  "synonyms": [
+    "untroubled",
+    "happy-go-lucky",
+    "cheery",
+    "relaxed",
+    "cheerful",
+    "blithe"
+  ],
+  "antonyms": [
+    "troubled"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carefree.mp3",
+  "local_sound_path": "sounds/carefree.mp3"
+}

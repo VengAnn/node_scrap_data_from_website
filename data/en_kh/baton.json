@@ -1,0 +1,34 @@
+{
+  "word": "baton",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7745.png",
+      "local_image_path": "images/7745.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129984.png",
+      "local_image_path": "images/129984.png"
+    }
+  ],
+  "synonyms": [
+    "stick",
+    "truncheon",
+    "crop",
+    "rod",
+    "club",
+    "cudgel",
+    "wand",
+    "pointer",
+    "cane"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baton.mp3",
+  "local_sound_path": "sounds/baton.mp3"
+}

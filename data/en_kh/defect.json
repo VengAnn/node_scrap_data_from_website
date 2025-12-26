@@ -1,0 +1,59 @@
+{
+  "word": "defect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20132.png",
+      "local_image_path": "images/20132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20131.png",
+      "local_image_path": "images/20131.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117875.png",
+      "local_image_path": "images/117875.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117876.png",
+      "local_image_path": "images/117876.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117877.png",
+      "local_image_path": "images/117877.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117878.png",
+      "local_image_path": "images/117878.png"
+    }
+  ],
+  "synonyms": [
+    "desert",
+    "abscond",
+    "decamp"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "defection",
+    "defective",
+    "defective title",
+    "defectively",
+    "defectiveness",
+    "defector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defect.mp3",
+  "local_sound_path": "sounds/defect.mp3"
+}

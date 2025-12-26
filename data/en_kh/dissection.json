@@ -1,0 +1,35 @@
+{
+  "word": "dissection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22165.png",
+      "local_image_path": "images/22165.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131743.png",
+      "local_image_path": "images/131743.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131989.png",
+      "local_image_path": "images/131989.png"
+    }
+  ],
+  "synonyms": [
+    "analysis",
+    "itemization",
+    "classification",
+    "categorization"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissection.mp3",
+  "local_sound_path": "sounds/dissection.mp3"
+}

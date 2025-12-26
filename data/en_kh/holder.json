@@ -1,0 +1,49 @@
+{
+  "word": "holder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35554.png",
+      "local_image_path": "images/35554.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35555.png",
+      "local_image_path": "images/35555.png"
+    },
+    {
+      "pos": "n",
+      "example": "policy holder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35556.png",
+      "local_image_path": "images/35556.png"
+    },
+    {
+      "pos": "n",
+      "example": "cigarette holder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35557.png",
+      "local_image_path": "images/35557.png"
+    }
+  ],
+  "synonyms": [
+    "container",
+    "receptacle",
+    "vessel",
+    "box",
+    "frame",
+    "pocket",
+    "owner",
+    "possessor",
+    "proprietor",
+    "controller",
+    "bearer",
+    "defender"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/holder.mp3",
+  "local_sound_path": "sounds/holder.mp3"
+}

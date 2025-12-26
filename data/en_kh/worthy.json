@@ -1,0 +1,45 @@
+{
+  "word": "worthy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101052.png",
+      "local_image_path": "images/101052.png"
+    },
+    {
+      "pos": "adj",
+      "example": "worthy applicant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101053.png",
+      "local_image_path": "images/101053.png"
+    },
+    {
+      "pos": "adj",
+      "example": "She say she helps only the worthy poor.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101054.png",
+      "local_image_path": "images/101054.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I am not worthy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101057.png",
+      "local_image_path": "images/101057.png"
+    }
+  ],
+  "synonyms": [
+    "commendable",
+    "praiseworthy",
+    "laudable",
+    "admirable",
+    "valuable",
+    "precious",
+    "creditable",
+    "worthwhile"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/worthy.mp3",
+  "local_sound_path": "sounds/worthy.mp3"
+}

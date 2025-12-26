@@ -1,0 +1,50 @@
+{
+  "word": "denial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "denial of privilege",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20513.png",
+      "local_image_path": "images/20513.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20514.png",
+      "local_image_path": "images/20514.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118031.png",
+      "local_image_path": "images/118031.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118032.png",
+      "local_image_path": "images/118032.png"
+    }
+  ],
+  "synonyms": [
+    "renunciation",
+    "disavowal",
+    "rejection",
+    "abjuration",
+    "refusal",
+    "repudiation",
+    "rebuttal",
+    "veto",
+    "deprivation"
+  ],
+  "antonyms": [
+    "agreement",
+    "permission",
+    "confirmation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/denial.mp3",
+  "local_sound_path": "sounds/denial.mp3"
+}

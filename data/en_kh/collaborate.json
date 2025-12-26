@@ -1,0 +1,45 @@
+{
+  "word": "collaborate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "she collaborated with her sister",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15643.png",
+      "local_image_path": "images/15643.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116663.png",
+      "local_image_path": "images/116663.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116664.png",
+      "local_image_path": "images/116664.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116665.png",
+      "local_image_path": "images/116665.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116666.png",
+      "local_image_path": "images/116666.png"
+    }
+  ],
+  "synonyms": [
+    "team up",
+    "cooperate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/collaborate.mp3",
+  "local_sound_path": "sounds/collaborate.mp3"
+}

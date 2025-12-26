@@ -1,0 +1,42 @@
+{
+  "word": "rounded",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74333.png",
+      "local_image_path": "images/74333.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127211.png",
+      "local_image_path": "images/127211.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127212.png",
+      "local_image_path": "images/127212.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127213.png",
+      "local_image_path": "images/127213.png"
+    }
+  ],
+  "synonyms": [
+    "round",
+    "curved"
+  ],
+  "antonyms": [
+    "sharp",
+    "pointed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rounded.mp3",
+  "local_sound_path": "sounds/rounded.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "cute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "child cute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19305.png",
+      "local_image_path": "images/19305.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cute remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19306.png",
+      "local_image_path": "images/19306.png"
+    }
+  ],
+  "synonyms": [
+    "clever",
+    "shrewd",
+    "cunning",
+    "smart",
+    "sharp",
+    "quick"
+  ],
+  "antonyms": [
+    "ugly"
+  ],
+  "similar_words": [
+    "cutely",
+    "cuteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cute.mp3",
+  "local_sound_path": "sounds/cute.mp3"
+}

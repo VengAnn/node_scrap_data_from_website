@@ -1,0 +1,26 @@
+{
+  "word": "alphabetize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3633.png",
+      "local_image_path": "images/3633.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3632.png",
+      "local_image_path": "images/3632.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "alphabetizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alphabetize.mp3",
+  "local_sound_path": "sounds/alphabetize.mp3"
+}

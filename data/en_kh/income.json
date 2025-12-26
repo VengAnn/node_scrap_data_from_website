@@ -1,0 +1,31 @@
+{
+  "word": "income",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "annual income",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38473.png",
+      "local_image_path": "images/38473.png"
+    }
+  ],
+  "synonyms": [
+    "earnings",
+    "pay",
+    "salary",
+    "take-home pay",
+    "revenue",
+    "proceeds",
+    "takings"
+  ],
+  "antonyms": [
+    "expenditure"
+  ],
+  "similar_words": [
+    "income tax",
+    "incomer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/income.mp3",
+  "local_sound_path": "sounds/income.mp3"
+}

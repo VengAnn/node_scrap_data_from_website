@@ -1,0 +1,54 @@
+{
+  "word": "allude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3550.png",
+      "local_image_path": "images/3550.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112403.png",
+      "local_image_path": "images/112403.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112404.png",
+      "local_image_path": "images/112404.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112405.png",
+      "local_image_path": "images/112405.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112406.png",
+      "local_image_path": "images/112406.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112407.png",
+      "local_image_path": "images/112407.png"
+    }
+  ],
+  "synonyms": [
+    "refer",
+    "mention",
+    "indicate",
+    "suggest",
+    "introduce"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allude.mp3",
+  "local_sound_path": "sounds/allude.mp3"
+}

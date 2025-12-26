@@ -1,0 +1,76 @@
+{
+  "word": "time",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "time bomb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89511.png",
+      "local_image_path": "images/89511.png"
+    },
+    {
+      "pos": "n",
+      "example": "Time will show who is right.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89507.png",
+      "local_image_path": "images/89507.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89508.png",
+      "local_image_path": "images/89508.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89509.png",
+      "local_image_path": "images/89509.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He timed his journey so that he arrived before dark.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89510.png",
+      "local_image_path": "images/89510.png"
+    }
+  ],
+  "synonyms": [
+    "count",
+    "measure",
+    "clock",
+    "schedule",
+    "calculate",
+    "record"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "time bill",
+    "time bomb",
+    "time capsule",
+    "time clock",
+    "time frame",
+    "time immemorial",
+    "time keeper",
+    "time line",
+    "time loan",
+    "time lock",
+    "time machine",
+    "time money",
+    "time note",
+    "time out",
+    "time out of mind",
+    "time policy",
+    "time rate",
+    "time segment",
+    "time share",
+    "time sheet",
+    "time sign",
+    "time signal",
+    "time signature",
+    "time value",
+    "time warp",
+    "time work"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/time.mp3",
+  "local_sound_path": "sounds/time.mp3"
+}

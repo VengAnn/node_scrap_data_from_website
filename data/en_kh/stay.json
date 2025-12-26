@@ -1,0 +1,76 @@
+{
+  "word": "stay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I stay at home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84475.png",
+      "local_image_path": "images/84475.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84476.png",
+      "local_image_path": "images/84476.png"
+    },
+    {
+      "pos": "n",
+      "example": "short stay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84478.png",
+      "local_image_path": "images/84478.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84479.png",
+      "local_image_path": "images/84479.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84480.png",
+      "local_image_path": "images/84480.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84481.png",
+      "local_image_path": "images/84481.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stay progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84477.png",
+      "local_image_path": "images/84477.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84482.png",
+      "local_image_path": "images/84482.png"
+    }
+  ],
+  "synonyms": [
+    "halt",
+    "stop",
+    "delay",
+    "deferment",
+    "postponement",
+    "adjournment",
+    "defer",
+    "postpone",
+    "adjourn"
+  ],
+  "antonyms": [
+    "go"
+  ],
+  "similar_words": [
+    "stay on",
+    "staying-power",
+    "stayless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stay.mp3",
+  "local_sound_path": "sounds/stay.mp3"
+}

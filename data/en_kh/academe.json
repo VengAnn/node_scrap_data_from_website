@@ -1,0 +1,37 @@
+{
+  "word": "academe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1745.png",
+      "local_image_path": "images/1745.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112006.png",
+      "local_image_path": "images/112006.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113106.png",
+      "local_image_path": "images/113106.png"
+    }
+  ],
+  "synonyms": [
+    "college",
+    "campus",
+    "academia",
+    "academy",
+    "school",
+    "university"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/academe.mp3",
+  "local_sound_path": "sounds/academe.mp3"
+}

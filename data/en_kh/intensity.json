@@ -1,0 +1,46 @@
+{
+  "word": "intensity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41037.png",
+      "local_image_path": "images/41037.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41038.png",
+      "local_image_path": "images/41038.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41039.png",
+      "local_image_path": "images/41039.png"
+    },
+    {
+      "pos": "n",
+      "example": "intensity of emotion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41040.png",
+      "local_image_path": "images/41040.png"
+    }
+  ],
+  "synonyms": [
+    "strength",
+    "concentration",
+    "power",
+    "force",
+    "passion",
+    "amount",
+    "greatness"
+  ],
+  "antonyms": [
+    "moderation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intensity.mp3",
+  "local_sound_path": "sounds/intensity.mp3"
+}

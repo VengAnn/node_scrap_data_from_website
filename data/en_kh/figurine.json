@@ -1,0 +1,38 @@
+{
+  "word": "figurine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28472.png",
+      "local_image_path": "images/28472.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120126.png",
+      "local_image_path": "images/120126.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120127.png",
+      "local_image_path": "images/120127.png"
+    }
+  ],
+  "synonyms": [
+    "statuette",
+    "ornament",
+    "figure",
+    "model",
+    "bust",
+    "statue",
+    "sculpture"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/figurine.mp3",
+  "local_sound_path": "sounds/figurine.mp3"
+}

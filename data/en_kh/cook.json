@@ -1,0 +1,89 @@
+{
+  "word": "cook",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17554.png",
+      "local_image_path": "images/17554.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17555.png",
+      "local_image_path": "images/17555.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cook rice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17552.png",
+      "local_image_path": "images/17552.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cook up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17553.png",
+      "local_image_path": "images/17553.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117565.png",
+      "local_image_path": "images/117565.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117566.png",
+      "local_image_path": "images/117566.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117567.png",
+      "local_image_path": "images/117567.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117568.png",
+      "local_image_path": "images/117568.png"
+    }
+  ],
+  "synonyms": [
+    "chef",
+    "pastry-cook",
+    "heat",
+    "boil",
+    "prepare",
+    "fry",
+    "roast",
+    "bake",
+    "grill",
+    "steam",
+    "barbecue",
+    "scramble",
+    "braise",
+    "broil",
+    "poach",
+    "microwave",
+    "saute",
+    "casserole"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cook out",
+    "cookbook",
+    "cooker",
+    "cookery",
+    "cookie",
+    "cookie buster",
+    "cooking",
+    "cooking pot",
+    "cooky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cook.mp3",
+  "local_sound_path": "sounds/cook.mp3"
+}

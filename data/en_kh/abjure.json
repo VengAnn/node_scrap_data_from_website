@@ -1,0 +1,44 @@
+{
+  "word": "abjure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1431.png",
+      "local_image_path": "images/1431.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113019.png",
+      "local_image_path": "images/113019.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113020.png",
+      "local_image_path": "images/113020.png"
+    }
+  ],
+  "synonyms": [
+    "renounce",
+    "disavow",
+    "reject",
+    "disown",
+    "forswear",
+    "deny",
+    "abstain",
+    "refrain"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [
+    "abjurement",
+    "abjurer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abjure.mp3",
+  "local_sound_path": "sounds/abjure.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "amiss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "What is amiss?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3890.png",
+      "local_image_path": "images/3890.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113652.png",
+      "local_image_path": "images/113652.png"
+    },
+    {
+      "pos": "adv",
+      "example": "take amiss",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3889.png",
+      "local_image_path": "images/3889.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112462.png",
+      "local_image_path": "images/112462.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112463.png",
+      "local_image_path": "images/112463.png"
+    }
+  ],
+  "synonyms": [
+    "wrong",
+    "muddled",
+    "incorrect",
+    "incorrectly",
+    "inappropriately",
+    "mistakenly",
+    "wrongly",
+    "erroneously",
+    "awry"
+  ],
+  "antonyms": [
+    "correct",
+    "suitable",
+    "correctly"
+  ],
+  "similar_words": [
+    "amissibility",
+    "amissible",
+    "amission"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amiss.mp3",
+  "local_sound_path": "sounds/amiss.mp3"
+}

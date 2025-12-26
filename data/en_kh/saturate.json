@@ -1,0 +1,87 @@
+{
+  "word": "saturate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76026.png",
+      "local_image_path": "images/76026.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76018.png",
+      "local_image_path": "images/76018.png"
+    },
+    {
+      "pos": "tv",
+      "example": "saturate a cloth with water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76019.png",
+      "local_image_path": "images/76019.png"
+    },
+    {
+      "pos": "tv",
+      "example": "saturate the air with smoke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76020.png",
+      "local_image_path": "images/76020.png"
+    },
+    {
+      "pos": "tv",
+      "example": "saturated with water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76021.png",
+      "local_image_path": "images/76021.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76022.png",
+      "local_image_path": "images/76022.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76023.png",
+      "local_image_path": "images/76023.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127425.png",
+      "local_image_path": "images/127425.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127426.png",
+      "local_image_path": "images/127426.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127427.png",
+      "local_image_path": "images/127427.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127428.png",
+      "local_image_path": "images/127428.png"
+    }
+  ],
+  "synonyms": [
+    "oversupply",
+    "flood",
+    "inundate",
+    "overwhelm",
+    "overload",
+    "fill"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "saturated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/saturate.mp3",
+  "local_sound_path": "sounds/saturate.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "nibble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55670.png",
+      "local_image_path": "images/55670.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55669.png",
+      "local_image_path": "images/55669.png"
+    }
+  ],
+  "synonyms": [
+    "snack",
+    "chew",
+    "nip",
+    "peck",
+    "gnaw",
+    "bite",
+    "eat"
+  ],
+  "antonyms": [
+    "chomp"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nibble.mp3",
+  "local_sound_path": "sounds/nibble.mp3"
+}

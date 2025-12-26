@@ -1,0 +1,39 @@
+{
+  "word": "solvent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "financially solvent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82602.png",
+      "local_image_path": "images/82602.png"
+    },
+    {
+      "pos": "adj",
+      "example": "solvent substance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82603.png",
+      "local_image_path": "images/82603.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82604.png",
+      "local_image_path": "images/82604.png"
+    }
+  ],
+  "synonyms": [
+    "thinner",
+    "diluent",
+    "turpentine",
+    "stripper",
+    "cleaner"
+  ],
+  "antonyms": [
+    "bankrupt",
+    "insolvent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/solvent.mp3",
+  "local_sound_path": "sounds/solvent.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "perfidious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "perfidious to/towards sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61665.png",
+      "local_image_path": "images/61665.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125350.png",
+      "local_image_path": "images/125350.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125351.png",
+      "local_image_path": "images/125351.png"
+    }
+  ],
+  "synonyms": [
+    "disloyal",
+    "treacherous",
+    "deceitful",
+    "dishonest",
+    "untrue",
+    "lying",
+    "base",
+    "low"
+  ],
+  "antonyms": [
+    "honest"
+  ],
+  "similar_words": [
+    "perfidiously",
+    "perfidiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perfidious.mp3",
+  "local_sound_path": "sounds/perfidious.mp3"
+}

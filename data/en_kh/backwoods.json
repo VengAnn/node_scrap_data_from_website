@@ -1,0 +1,41 @@
+{
+  "word": "backwoods",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7024.png",
+      "local_image_path": "images/7024.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7023.png",
+      "local_image_path": "images/7023.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114423.png",
+      "local_image_path": "images/114423.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114424.png",
+      "local_image_path": "images/114424.png"
+    }
+  ],
+  "synonyms": [
+    "wasteland",
+    "boondocks"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "backwoodsman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/backwoods.mp3",
+  "local_sound_path": "sounds/backwoods.mp3"
+}

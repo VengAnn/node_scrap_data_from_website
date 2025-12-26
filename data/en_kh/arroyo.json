@@ -1,0 +1,45 @@
+{
+  "word": "arroyo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5611.png",
+      "local_image_path": "images/5611.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112704.png",
+      "local_image_path": "images/112704.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112705.png",
+      "local_image_path": "images/112705.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112706.png",
+      "local_image_path": "images/112706.png"
+    }
+  ],
+  "synonyms": [
+    "gulf",
+    "gap",
+    "abyss",
+    "gorge",
+    "rift",
+    "gulch",
+    "break",
+    "opening"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arroyo.mp3",
+  "local_sound_path": "sounds/arroyo.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "ditch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22375.png",
+      "local_image_path": "images/22375.png"
+    },
+    {
+      "pos": "sl",
+      "example": "ditch a companion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22377.png",
+      "local_image_path": "images/22377.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ditch a field",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22376.png",
+      "local_image_path": "images/22376.png"
+    }
+  ],
+  "synonyms": [
+    "dump",
+    "scrap",
+    "abandon",
+    "chuck",
+    "drop",
+    "discard",
+    "leave"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ditch.mp3",
+  "local_sound_path": "sounds/ditch.mp3"
+}

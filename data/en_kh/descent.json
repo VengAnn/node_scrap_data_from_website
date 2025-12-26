@@ -1,0 +1,26 @@
+{
+  "word": "descent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "rapid descent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20800.png",
+      "local_image_path": "images/20800.png"
+    }
+  ],
+  "synonyms": [
+    "slope",
+    "decline",
+    "incline",
+    "inclination"
+  ],
+  "antonyms": [
+    "ascent",
+    "improvement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/descent.mp3",
+  "local_sound_path": "sounds/descent.mp3"
+}

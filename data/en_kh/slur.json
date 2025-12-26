@@ -1,0 +1,55 @@
+{
+  "word": "slur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "speak with a slur",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81531.png",
+      "local_image_path": "images/81531.png"
+    },
+    {
+      "pos": "n",
+      "example": "nasty slur",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81532.png",
+      "local_image_path": "images/81532.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81528.png",
+      "local_image_path": "images/81528.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81529.png",
+      "local_image_path": "images/81529.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slur an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81530.png",
+      "local_image_path": "images/81530.png"
+    }
+  ],
+  "synonyms": [
+    "smear",
+    "disgrace",
+    "insult",
+    "slight",
+    "stain",
+    "affront",
+    "demean",
+    "besmirch",
+    "denigrate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slurp",
+    "slurry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slur.mp3",
+  "local_sound_path": "sounds/slur.mp3"
+}

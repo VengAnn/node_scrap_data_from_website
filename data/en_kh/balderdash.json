@@ -1,0 +1,38 @@
+{
+  "word": "balderdash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7160.png",
+      "local_image_path": "images/7160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114464.png",
+      "local_image_path": "images/114464.png"
+    }
+  ],
+  "synonyms": [
+    "nonsense",
+    "twaddle",
+    "rubbish",
+    "drivel",
+    "claptrap",
+    "baloney",
+    "garbage",
+    "tripe",
+    "boloney",
+    "hogwash",
+    "bunkum"
+  ],
+  "antonyms": [
+    "sense"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/balderdash.mp3",
+  "local_sound_path": "sounds/balderdash.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "abandon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "Don't abandon the attempt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1312.png",
+      "local_image_path": "images/1312.png"
+    }
+  ],
+  "synonyms": [
+    "recklessness",
+    "dump",
+    "ditch",
+    "discard"
+  ],
+  "antonyms": [
+    "keep",
+    "continue",
+    "restraint"
+  ],
+  "similar_words": [
+    "abandoned",
+    "abandonedly",
+    "abandonee",
+    "abandoner",
+    "abandonment",
+    "Abandonment of trade"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abandon.mp3",
+  "local_sound_path": "sounds/abandon.mp3"
+}

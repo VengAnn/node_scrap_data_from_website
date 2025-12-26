@@ -1,0 +1,45 @@
+{
+  "word": "obliterate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56911.png",
+      "local_image_path": "images/56911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124808.png",
+      "local_image_path": "images/124808.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124809.png",
+      "local_image_path": "images/124809.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124810.png",
+      "local_image_path": "images/124810.png"
+    }
+  ],
+  "synonyms": [
+    "destroy",
+    "demolish",
+    "eliminate",
+    "eradicate",
+    "annihilate",
+    "abolish"
+  ],
+  "antonyms": [
+    "create"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obliterate.mp3",
+  "local_sound_path": "sounds/obliterate.mp3"
+}

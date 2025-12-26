@@ -1,0 +1,57 @@
+{
+  "word": "central",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "we live in central London",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13582.png",
+      "local_image_path": "images/13582.png"
+    },
+    {
+      "pos": "n",
+      "example": "central bank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13583.png",
+      "local_image_path": "images/13583.png"
+    }
+  ],
+  "synonyms": [
+    "vital",
+    "essential",
+    "fundamental",
+    "chief",
+    "crucial",
+    "principal",
+    "significant",
+    "main",
+    "predominant",
+    "key",
+    "pivotal",
+    "focal",
+    "middle",
+    "mid",
+    "inner",
+    "innermost",
+    "midway",
+    "halfway"
+  ],
+  "antonyms": [
+    "outer",
+    "peripheral",
+    "unimportant"
+  ],
+  "similar_words": [
+    "central reservation office",
+    "centralism",
+    "centralist",
+    "centralistic",
+    "centrality",
+    "centralization",
+    "centralize",
+    "centralizer",
+    "centrally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/central.mp3",
+  "local_sound_path": "sounds/central.mp3"
+}

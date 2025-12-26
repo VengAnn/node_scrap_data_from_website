@@ -1,0 +1,132 @@
+{
+  "word": "pack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59161.png",
+      "local_image_path": "images/59161.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59160.png",
+      "local_image_path": "images/59160.png"
+    },
+    {
+      "pos": "n",
+      "example": "pack of cigarettes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59149.png",
+      "local_image_path": "images/59149.png"
+    },
+    {
+      "pos": "n",
+      "example": "back pack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59150.png",
+      "local_image_path": "images/59150.png"
+    },
+    {
+      "pos": "n",
+      "example": "pack of wolves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59151.png",
+      "local_image_path": "images/59151.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59152.png",
+      "local_image_path": "images/59152.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59153.png",
+      "local_image_path": "images/59153.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59154.png",
+      "local_image_path": "images/59154.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pack supplies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59155.png",
+      "local_image_path": "images/59155.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pack trunk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59156.png",
+      "local_image_path": "images/59156.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pack supplies on one's back",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59157.png",
+      "local_image_path": "images/59157.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59158.png",
+      "local_image_path": "images/59158.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59159.png",
+      "local_image_path": "images/59159.png"
+    }
+  ],
+  "synonyms": [
+    "bag",
+    "rucksack",
+    "haversack",
+    "bundle",
+    "fill",
+    "cram",
+    "stuff",
+    "jam",
+    "press",
+    "push",
+    "ram",
+    "load",
+    "cover"
+  ],
+  "antonyms": [
+    "unpack",
+    "empty"
+  ],
+  "similar_words": [
+    "pack cards",
+    "pack horse",
+    "pack rat",
+    "pack rice",
+    "pack train",
+    "pack-animal",
+    "pack-cloth",
+    "pack-saddle",
+    "pack-wagon",
+    "packability",
+    "packable",
+    "package",
+    "package deal",
+    "package mortgage",
+    "package tour",
+    "packaging",
+    "packaging store",
+    "packed",
+    "packer",
+    "packet",
+    "packet line",
+    "packet ship",
+    "packet-boat",
+    "packet-day"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pack.mp3",
+  "local_sound_path": "sounds/pack.mp3"
+}

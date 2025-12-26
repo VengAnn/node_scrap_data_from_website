@@ -1,0 +1,48 @@
+{
+  "word": "captivate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "captivate an audience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12868.png",
+      "local_image_path": "images/12868.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115971.png",
+      "local_image_path": "images/115971.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115972.png",
+      "local_image_path": "images/115972.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115973.png",
+      "local_image_path": "images/115973.png"
+    }
+  ],
+  "synonyms": [
+    "enthrall",
+    "hypnotize",
+    "fascinate",
+    "mesmerize",
+    "charm",
+    "enchant",
+    "entrance",
+    "attract",
+    "draw"
+  ],
+  "antonyms": [
+    "repel"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/captivate.mp3",
+  "local_sound_path": "sounds/captivate.mp3"
+}

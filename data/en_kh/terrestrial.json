@@ -1,0 +1,48 @@
+{
+  "word": "terrestrial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "terrestrial inhabitants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88417.png",
+      "local_image_path": "images/88417.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88418.png",
+      "local_image_path": "images/88418.png"
+    },
+    {
+      "pos": "adj",
+      "example": "terrestrial plant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88419.png",
+      "local_image_path": "images/88419.png"
+    },
+    {
+      "pos": "adj",
+      "example": "terrestrial animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88420.png",
+      "local_image_path": "images/88420.png"
+    },
+    {
+      "pos": "adj",
+      "example": "terrestrial pleasures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88421.png",
+      "local_image_path": "images/88421.png"
+    }
+  ],
+  "synonyms": [
+    "earthly",
+    "worldly",
+    "global",
+    "continental",
+    "land"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terrestrial.mp3",
+  "local_sound_path": "sounds/terrestrial.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "hammer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "carpenter's hammer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33659.png",
+      "local_image_path": "images/33659.png"
+    },
+    {
+      "pos": "n",
+      "example": "gun hammer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33660.png",
+      "local_image_path": "images/33660.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33661.png",
+      "local_image_path": "images/33661.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33662.png",
+      "local_image_path": "images/33662.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hammer a nail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33663.png",
+      "local_image_path": "images/33663.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33664.png",
+      "local_image_path": "images/33664.png"
+    }
+  ],
+  "synonyms": [
+    "beat",
+    "strike",
+    "hit",
+    "knock",
+    "pound",
+    "nail",
+    "drive",
+    "batter",
+    "drum",
+    "defeat",
+    "thrash",
+    "trounce",
+    "slaughter",
+    "pulverize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hammer and sickle",
+    "hammerer",
+    "hammering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hammer.mp3",
+  "local_sound_path": "sounds/hammer.mp3"
+}

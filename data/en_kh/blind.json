@@ -1,0 +1,73 @@
+{
+  "word": "blind",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "blind person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9544.png",
+      "local_image_path": "images/9544.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115211.png",
+      "local_image_path": "images/115211.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115212.png",
+      "local_image_path": "images/115212.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115213.png",
+      "local_image_path": "images/115213.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115214.png",
+      "local_image_path": "images/115214.png"
+    },
+    {
+      "pos": "n",
+      "example": "duck blind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9545.png",
+      "local_image_path": "images/9545.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115215.png",
+      "local_image_path": "images/115215.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115216.png",
+      "local_image_path": "images/115216.png"
+    }
+  ],
+  "synonyms": [
+    "shade",
+    "screen",
+    "canopy",
+    "visor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blind date",
+    "blinder",
+    "blinders",
+    "blindfold",
+    "blindingly",
+    "blindly",
+    "blindness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blind.mp3",
+  "local_sound_path": "sounds/blind.mp3"
+}

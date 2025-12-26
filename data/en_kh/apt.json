@@ -1,0 +1,66 @@
+{
+  "word": "apt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "apt student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5210.png",
+      "local_image_path": "images/5210.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113916.png",
+      "local_image_path": "images/113916.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113917.png",
+      "local_image_path": "images/113917.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113918.png",
+      "local_image_path": "images/113918.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113919.png",
+      "local_image_path": "images/113919.png"
+    },
+    {
+      "pos": "v",
+      "example": "apt to be late today",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5211.png",
+      "local_image_path": "images/5211.png"
+    }
+  ],
+  "synonyms": [
+    "quick",
+    "capable",
+    "competent",
+    "clever",
+    "skilled",
+    "able",
+    "ready"
+  ],
+  "antonyms": [
+    "inappropriate",
+    "inept"
+  ],
+  "similar_words": [
+    "apteral",
+    "apteran",
+    "apterous",
+    "aptitude",
+    "aptly",
+    "aptness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apt.mp3",
+  "local_sound_path": "sounds/apt.mp3"
+}

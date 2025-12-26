@@ -1,0 +1,40 @@
+{
+  "word": "unity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "unity among the people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94638.png",
+      "local_image_path": "images/94638.png"
+    },
+    {
+      "pos": "n",
+      "example": "unity of the story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94639.png",
+      "local_image_path": "images/94639.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94640.png",
+      "local_image_path": "images/94640.png"
+    }
+  ],
+  "synonyms": [
+    "agreement",
+    "harmony",
+    "accord",
+    "unison",
+    "union",
+    "concord",
+    "unanimity"
+  ],
+  "antonyms": [
+    "disarray"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unity.mp3",
+  "local_sound_path": "sounds/unity.mp3"
+}

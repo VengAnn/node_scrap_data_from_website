@@ -1,0 +1,57 @@
+{
+  "word": "extension",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "extension of a road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27004.png",
+      "local_image_path": "images/27004.png"
+    },
+    {
+      "pos": "n",
+      "example": "road extension",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27005.png",
+      "local_image_path": "images/27005.png"
+    },
+    {
+      "pos": "n",
+      "example": "extension of a visa",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27006.png",
+      "local_image_path": "images/27006.png"
+    },
+    {
+      "pos": "n",
+      "example": "extension of a ladder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27007.png",
+      "local_image_path": "images/27007.png"
+    },
+    {
+      "pos": "n",
+      "example": "agricultural extension",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27008.png",
+      "local_image_path": "images/27008.png"
+    },
+    {
+      "pos": "n",
+      "example": "extension of service",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27009.png",
+      "local_image_path": "images/27009.png"
+    }
+  ],
+  "synonyms": [
+    "postponement",
+    "delay",
+    "expansion",
+    "enlargement",
+    "increase",
+    "augmentation"
+  ],
+  "antonyms": [
+    "contraction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extension.mp3",
+  "local_sound_path": "sounds/extension.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "suspend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "suspend a chandelier",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86669.png",
+      "local_image_path": "images/86669.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suspend a sentence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86670.png",
+      "local_image_path": "images/86670.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suspend a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86671.png",
+      "local_image_path": "images/86671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86672.png",
+      "local_image_path": "images/86672.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86673.png",
+      "local_image_path": "images/86673.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suspend work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86674.png",
+      "local_image_path": "images/86674.png"
+    },
+    {
+      "pos": "tv",
+      "example": "particles suspended in liquid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86675.png",
+      "local_image_path": "images/86675.png"
+    }
+  ],
+  "synonyms": [
+    "postpone",
+    "defer",
+    "delay",
+    "shelve",
+    "adjourn",
+    "rearrange",
+    "reschedule",
+    "table",
+    "stay"
+  ],
+  "antonyms": [
+    "resume"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suspend.mp3",
+  "local_sound_path": "sounds/suspend.mp3"
+}

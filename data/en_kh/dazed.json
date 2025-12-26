@@ -1,0 +1,53 @@
+{
+  "word": "dazed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19764.png",
+      "local_image_path": "images/19764.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131436.png",
+      "local_image_path": "images/131436.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131437.png",
+      "local_image_path": "images/131437.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131438.png",
+      "local_image_path": "images/131438.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131439.png",
+      "local_image_path": "images/131439.png"
+    }
+  ],
+  "synonyms": [
+    "confused",
+    "astonished",
+    "surprised",
+    "bemused",
+    "overcome",
+    "bewildered",
+    "confounded",
+    "baffled"
+  ],
+  "antonyms": [
+    "alert"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dazed.mp3",
+  "local_sound_path": "sounds/dazed.mp3"
+}

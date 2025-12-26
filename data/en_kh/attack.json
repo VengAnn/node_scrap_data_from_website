@@ -1,0 +1,63 @@
+{
+  "word": "attack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "attack is the best form of defence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6233.png",
+      "local_image_path": "images/6233.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112135.png",
+      "local_image_path": "images/112135.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the prime minister's proposals were severely attacked in the newspapers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6232.png",
+      "local_image_path": "images/6232.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112133.png",
+      "local_image_path": "images/112133.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112134.png",
+      "local_image_path": "images/112134.png"
+    }
+  ],
+  "synonyms": [
+    "bout",
+    "dose",
+    "spell",
+    "round",
+    "assault",
+    "harass",
+    "bother",
+    "molest",
+    "assail",
+    "hit",
+    "strike",
+    "beat",
+    "hurt",
+    "harm",
+    "damage"
+  ],
+  "antonyms": [
+    "defend",
+    "defense",
+    "praise",
+    "support"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attack.mp3",
+  "local_sound_path": "sounds/attack.mp3"
+}

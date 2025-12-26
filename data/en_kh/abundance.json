@@ -1,0 +1,50 @@
+{
+  "word": "abundance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "gen",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1714.png",
+      "local_image_path": "images/1714.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1715.png",
+      "local_image_path": "images/1715.png"
+    },
+    {
+      "pos": "n",
+      "example": "in abundance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1713.png",
+      "local_image_path": "images/1713.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113091.png",
+      "local_image_path": "images/113091.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113092.png",
+      "local_image_path": "images/113092.png"
+    }
+  ],
+  "synonyms": [
+    "profusion",
+    "plenty",
+    "wealth",
+    "richness",
+    "lavishness"
+  ],
+  "antonyms": [
+    "scarcity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abundance.mp3",
+  "local_sound_path": "sounds/abundance.mp3"
+}

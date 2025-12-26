@@ -1,0 +1,42 @@
+{
+  "word": "cling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wet clothes cling to the body",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15036.png",
+      "local_image_path": "images/15036.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116478.png",
+      "local_image_path": "images/116478.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116479.png",
+      "local_image_path": "images/116479.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116480.png",
+      "local_image_path": "images/116480.png"
+    }
+  ],
+  "synonyms": [
+    "hug",
+    "clutch",
+    "grasp",
+    "embrace",
+    "hold"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cling.mp3",
+  "local_sound_path": "sounds/cling.mp3"
+}

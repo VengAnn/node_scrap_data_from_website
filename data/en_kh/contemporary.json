@@ -1,0 +1,28 @@
+{
+  "word": "contemporary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "contemporary events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17211.png",
+      "local_image_path": "images/17211.png"
+    },
+    {
+      "pos": "n",
+      "example": "he was a contemporary of Mr. Sylong",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17212.png",
+      "local_image_path": "images/17212.png"
+    }
+  ],
+  "synonyms": [
+    "contemporaneous"
+  ],
+  "antonyms": [
+    "old"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contemporary.mp3",
+  "local_sound_path": "sounds/contemporary.mp3"
+}

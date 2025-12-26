@@ -1,0 +1,42 @@
+{
+  "word": "recognize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70862.png",
+      "local_image_path": "images/70862.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I didn't recognize you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70863.png",
+      "local_image_path": "images/70863.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recognize the symptoms",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70864.png",
+      "local_image_path": "images/70864.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recognize a speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70865.png",
+      "local_image_path": "images/70865.png"
+    }
+  ],
+  "synonyms": [
+    "cherish",
+    "acknowledge",
+    "value"
+  ],
+  "antonyms": [
+    "deny"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recognize.mp3",
+  "local_sound_path": "sounds/recognize.mp3"
+}

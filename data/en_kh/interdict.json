@@ -1,0 +1,45 @@
+{
+  "word": "interdict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41178.png",
+      "local_image_path": "images/41178.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41177.png",
+      "local_image_path": "images/41177.png"
+    }
+  ],
+  "synonyms": [
+    "prohibition",
+    "veto",
+    "bar",
+    "injunction",
+    "embargo",
+    "sanction",
+    "ban",
+    "prohibit",
+    "forbid",
+    "exclude",
+    "proscribe",
+    "preclude"
+  ],
+  "antonyms": [
+    "permit"
+  ],
+  "similar_words": [
+    "interdiction",
+    "interdictive",
+    "interdictively",
+    "interdictor",
+    "interdictory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interdict.mp3",
+  "local_sound_path": "sounds/interdict.mp3"
+}

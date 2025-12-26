@@ -1,0 +1,63 @@
+{
+  "word": "brief",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "brief account",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11104.png",
+      "local_image_path": "images/11104.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11105.png",
+      "local_image_path": "images/11105.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11106.png",
+      "local_image_path": "images/11106.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115632.png",
+      "local_image_path": "images/115632.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115633.png",
+      "local_image_path": "images/115633.png"
+    }
+  ],
+  "synonyms": [
+    "briefing",
+    "preparation",
+    "remit",
+    "mission",
+    "inform",
+    "tell",
+    "prepare",
+    "instruct",
+    "direct",
+    "update"
+  ],
+  "antonyms": [
+    "lengthy",
+    "lasting"
+  ],
+  "similar_words": [
+    "briefcase",
+    "briefing",
+    "briefless",
+    "briefly",
+    "briefness",
+    "briefs"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brief.mp3",
+  "local_sound_path": "sounds/brief.mp3"
+}

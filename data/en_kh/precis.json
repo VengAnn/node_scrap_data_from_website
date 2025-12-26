@@ -1,0 +1,43 @@
+{
+  "word": "precis",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66035.png",
+      "local_image_path": "images/66035.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66036.png",
+      "local_image_path": "images/66036.png"
+    }
+  ],
+  "synonyms": [
+    "summary",
+    "synopsis",
+    "resume",
+    "abstract",
+    "sketch"
+  ],
+  "antonyms": [
+    "expand"
+  ],
+  "similar_words": [
+    "precise",
+    "precisely",
+    "preciseness",
+    "precisian",
+    "precisianism",
+    "precisianist",
+    "precision",
+    "precisionism",
+    "precisionist",
+    "precisive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/precis.mp3",
+  "local_sound_path": "sounds/precis.mp3"
+}

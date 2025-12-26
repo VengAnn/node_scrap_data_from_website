@@ -1,0 +1,51 @@
+{
+  "word": "gloomy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gloomy day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32012.png",
+      "local_image_path": "images/32012.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gloomy mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32013.png",
+      "local_image_path": "images/32013.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gloomy thoughts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32014.png",
+      "local_image_path": "images/32014.png"
+    }
+  ],
+  "synonyms": [
+    "depressed",
+    "low",
+    "low-spirited",
+    "melancholy",
+    "miserable",
+    "disconsolate",
+    "unhappy",
+    "sad",
+    "glum",
+    "dark",
+    "depressing",
+    "dim",
+    "overcast",
+    "dull",
+    "ominous",
+    "dismal",
+    "murky"
+  ],
+  "antonyms": [
+    "bright",
+    "cheerful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gloomy.mp3",
+  "local_sound_path": "sounds/gloomy.mp3"
+}

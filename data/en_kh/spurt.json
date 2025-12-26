@@ -1,0 +1,52 @@
+{
+  "word": "spurt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "production spurted",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83828.png",
+      "local_image_path": "images/83828.png"
+    },
+    {
+      "pos": "n",
+      "example": "spurt of blood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83831.png",
+      "local_image_path": "images/83831.png"
+    },
+    {
+      "pos": "tv",
+      "example": "blood spurted from the wound.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83829.png",
+      "local_image_path": "images/83829.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83830.png",
+      "local_image_path": "images/83830.png"
+    }
+  ],
+  "synonyms": [
+    "surge",
+    "rush",
+    "hurry",
+    "gush",
+    "spray",
+    "burst",
+    "jet",
+    "erupt",
+    "squirt",
+    "shoot",
+    "spout",
+    "emit",
+    "issue"
+  ],
+  "antonyms": [
+    "trickle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spurt.mp3",
+  "local_sound_path": "sounds/spurt.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "coordinate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "coordinate offices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17603.png",
+      "local_image_path": "images/17603.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117580.png",
+      "local_image_path": "images/117580.png"
+    },
+    {
+      "pos": "iv",
+      "example": "coordinate efforts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17602.png",
+      "local_image_path": "images/17602.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17604.png",
+      "local_image_path": "images/17604.png"
+    }
+  ],
+  "synonyms": [
+    "organize",
+    "direct",
+    "manage",
+    "synchronize",
+    "harmonize",
+    "match"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coordinate.mp3",
+  "local_sound_path": "sounds/coordinate.mp3"
+}

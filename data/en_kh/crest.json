@@ -1,0 +1,73 @@
+{
+  "word": "crest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "waves crest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18555.png",
+      "local_image_path": "images/18555.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18549.png",
+      "local_image_path": "images/18549.png"
+    },
+    {
+      "pos": "n",
+      "example": "crest of a bird",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18550.png",
+      "local_image_path": "images/18550.png"
+    },
+    {
+      "pos": "n",
+      "example": "hill crest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18551.png",
+      "local_image_path": "images/18551.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18552.png",
+      "local_image_path": "images/18552.png"
+    },
+    {
+      "pos": "n",
+      "example": "school crest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18553.png",
+      "local_image_path": "images/18553.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crest the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18554.png",
+      "local_image_path": "images/18554.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131008.png",
+      "local_image_path": "images/131008.png"
+    }
+  ],
+  "synonyms": [
+    "coat of arms",
+    "emblem",
+    "symbol",
+    "device",
+    "heraldry"
+  ],
+  "antonyms": [
+    "base"
+  ],
+  "similar_words": [
+    "crestfallen",
+    "crestfallenly",
+    "crestfallenness",
+    "cresting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crest.mp3",
+  "local_sound_path": "sounds/crest.mp3"
+}

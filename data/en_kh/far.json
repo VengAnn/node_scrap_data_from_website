@@ -1,0 +1,72 @@
+{
+  "word": "far",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "far future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27618.png",
+      "local_image_path": "images/27618.png"
+    },
+    {
+      "pos": "adj",
+      "example": "how far?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27619.png",
+      "local_image_path": "images/27619.png"
+    },
+    {
+      "pos": "adv",
+      "example": "far beyond the bridge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27620.png",
+      "local_image_path": "images/27620.png"
+    },
+    {
+      "pos": "adv",
+      "example": "How far is it to London from here?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27621.png",
+      "local_image_path": "images/27621.png"
+    }
+  ],
+  "synonyms": [
+    "further",
+    "furthest",
+    "extreme",
+    "other",
+    "much",
+    "greatly",
+    "considerably",
+    "significantly",
+    "widely",
+    "extremely",
+    "immeasurably"
+  ],
+  "antonyms": [
+    "near",
+    "close",
+    "barely"
+  ],
+  "similar_words": [
+    "far east",
+    "far righter",
+    "far-away",
+    "far-famed",
+    "far-fetched",
+    "far-flung",
+    "far-letter",
+    "far-off",
+    "far-reaching",
+    "far-right",
+    "far-seeing",
+    "farce",
+    "farceur",
+    "farci",
+    "farcical",
+    "farcicality",
+    "farcically",
+    "farcicalness",
+    "farcie"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/far.mp3",
+  "local_sound_path": "sounds/far.mp3"
+}

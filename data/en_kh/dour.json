@@ -1,0 +1,38 @@
+{
+  "word": "dour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22859.png",
+      "local_image_path": "images/22859.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118759.png",
+      "local_image_path": "images/118759.png"
+    }
+  ],
+  "synonyms": [
+    "gloomy",
+    "dreary",
+    "dismal",
+    "dark",
+    "bleak",
+    "cheerless",
+    "grim"
+  ],
+  "antonyms": [
+    "kindly",
+    "indecisive"
+  ],
+  "similar_words": [
+    "dourly",
+    "dourness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dour.mp3",
+  "local_sound_path": "sounds/dour.mp3"
+}

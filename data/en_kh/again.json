@@ -1,0 +1,23 @@
+{
+  "word": "again",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "If you fail the first time, try again",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2850.png",
+      "local_image_path": "images/2850.png"
+    }
+  ],
+  "synonyms": [
+    "another time",
+    "over"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "against"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/again.mp3",
+  "local_sound_path": "sounds/again.mp3"
+}

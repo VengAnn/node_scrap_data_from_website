@@ -1,0 +1,47 @@
+{
+  "word": "transparency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "transparency glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91132.png",
+      "local_image_path": "images/91132.png"
+    },
+    {
+      "pos": "n",
+      "example": "transparency of his motives",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91133.png",
+      "local_image_path": "images/91133.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a transparency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91134.png",
+      "local_image_path": "images/91134.png"
+    }
+  ],
+  "synonyms": [
+    "clearness",
+    "lucidity",
+    "simplicity",
+    "precision",
+    "intelligibility",
+    "clarity",
+    "plainness",
+    "obviousness",
+    "directness",
+    "comprehensibility",
+    "candidness"
+  ],
+  "antonyms": [
+    "ambiguity",
+    "print",
+    "opacity",
+    "ambiguousness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transparency.mp3",
+  "local_sound_path": "sounds/transparency.mp3"
+}

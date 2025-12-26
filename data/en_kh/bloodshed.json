@@ -1,0 +1,36 @@
+{
+  "word": "bloodshed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9683.png",
+      "local_image_path": "images/9683.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115254.png",
+      "local_image_path": "images/115254.png"
+    }
+  ],
+  "synonyms": [
+    "carnage",
+    "slaughter",
+    "killing",
+    "violence",
+    "murder",
+    "mayhem",
+    "massacre",
+    "butchery"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bloodshedder",
+    "bloodshedding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bloodshed.mp3",
+  "local_sound_path": "sounds/bloodshed.mp3"
+}

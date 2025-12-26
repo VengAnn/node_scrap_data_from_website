@@ -1,0 +1,42 @@
+{
+  "word": "outstanding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "outstanding performance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58494.png",
+      "local_image_path": "images/58494.png"
+    },
+    {
+      "pos": "adj",
+      "example": "outstanding debts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58495.png",
+      "local_image_path": "images/58495.png"
+    }
+  ],
+  "synonyms": [
+    "unresolved",
+    "unsettled",
+    "unpaid",
+    "remaining",
+    "owing",
+    "due",
+    "exceptional",
+    "terrific",
+    "wonderful",
+    "stupendous",
+    "excellent",
+    "great",
+    "superior",
+    "remarkable"
+  ],
+  "antonyms": [
+    "abysmal",
+    "settled"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outstanding.mp3",
+  "local_sound_path": "sounds/outstanding.mp3"
+}

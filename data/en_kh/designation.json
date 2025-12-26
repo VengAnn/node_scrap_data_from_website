@@ -1,0 +1,26 @@
+{
+  "word": "designation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "designation of a replacement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20858.png",
+      "local_image_path": "images/20858.png"
+    }
+  ],
+  "synonyms": [
+    "title",
+    "name",
+    "description",
+    "term",
+    "label",
+    "alias",
+    "nickname"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/designation.mp3",
+  "local_sound_path": "sounds/designation.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "word": "decay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19914.png",
+      "local_image_path": "images/19914.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117825.png",
+      "local_image_path": "images/117825.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117826.png",
+      "local_image_path": "images/117826.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117827.png",
+      "local_image_path": "images/117827.png"
+    },
+    {
+      "pos": "n",
+      "example": "decay of matter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19916.png",
+      "local_image_path": "images/19916.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19915.png",
+      "local_image_path": "images/19915.png"
+    }
+  ],
+  "synonyms": [
+    "rot",
+    "mold",
+    "corrosion",
+    "putrefaction",
+    "decomposition",
+    "decompose",
+    "molder",
+    "fester",
+    "perish",
+    "crumble",
+    "putrefy",
+    "corrode"
+  ],
+  "antonyms": [
+    "growth",
+    "flourish"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decay.mp3",
+  "local_sound_path": "sounds/decay.mp3"
+}

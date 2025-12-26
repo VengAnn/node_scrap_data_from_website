@@ -1,0 +1,105 @@
+{
+  "word": "stretch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Clothes will stretch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85361.png",
+      "local_image_path": "images/85361.png"
+    },
+    {
+      "pos": "iv",
+      "example": "get up and stretch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85362.png",
+      "local_image_path": "images/85362.png"
+    },
+    {
+      "pos": "iv",
+      "example": "mountains stretch for 100 miles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85363.png",
+      "local_image_path": "images/85363.png"
+    },
+    {
+      "pos": "n",
+      "example": "degree of stretch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85364.png",
+      "local_image_path": "images/85364.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stretch a rubber band",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85353.png",
+      "local_image_path": "images/85353.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stretch one's legs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85354.png",
+      "local_image_path": "images/85354.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stretch one's supplies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85355.png",
+      "local_image_path": "images/85355.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stretch a rope across",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85356.png",
+      "local_image_path": "images/85356.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stretch the truth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85357.png",
+      "local_image_path": "images/85357.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stretch the imagination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85358.png",
+      "local_image_path": "images/85358.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stretch a muscle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85359.png",
+      "local_image_path": "images/85359.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85360.png",
+      "local_image_path": "images/85360.png"
+    }
+  ],
+  "synonyms": [
+    "spell",
+    "period",
+    "stint",
+    "time",
+    "run",
+    "term",
+    "give",
+    "expand",
+    "yield"
+  ],
+  "antonyms": [
+    "shrink",
+    "withdraw",
+    "rigidity"
+  ],
+  "similar_words": [
+    "stretchable",
+    "stretcher",
+    "stretcher-bearer",
+    "stretcherparty",
+    "stretching",
+    "stretchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stretch.mp3",
+  "local_sound_path": "sounds/stretch.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "reasonable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "reasonable conclusion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70595.png",
+      "local_image_path": "images/70595.png"
+    },
+    {
+      "pos": "adj",
+      "example": "reasonable price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70596.png",
+      "local_image_path": "images/70596.png"
+    },
+    {
+      "pos": "adj",
+      "example": "reasonable man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70597.png",
+      "local_image_path": "images/70597.png"
+    }
+  ],
+  "synonyms": [
+    "inexpensive",
+    "affordable",
+    "cheap",
+    "passable",
+    "tolerable",
+    "sufficient",
+    "acceptable",
+    "satisfactory",
+    "moderate",
+    "fair",
+    "all right"
+  ],
+  "antonyms": [
+    "unreasonable",
+    "appalling",
+    "expensive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reasonable.mp3",
+  "local_sound_path": "sounds/reasonable.mp3"
+}

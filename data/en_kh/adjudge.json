@@ -1,0 +1,35 @@
+{
+  "word": "adjudge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "adjudge legal damages to her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2400.png",
+      "local_image_path": "images/2400.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112072.png",
+      "local_image_path": "images/112072.png"
+    }
+  ],
+  "synonyms": [
+    "pronounce",
+    "rule",
+    "announce",
+    "declare",
+    "adjudicate",
+    "judge",
+    "find",
+    "deem",
+    "consider",
+    "decide"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjudge.mp3",
+  "local_sound_path": "sounds/adjudge.mp3"
+}

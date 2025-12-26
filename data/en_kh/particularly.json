@@ -1,0 +1,41 @@
+{
+  "word": "particularly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60340.png",
+      "local_image_path": "images/60340.png"
+    },
+    {
+      "pos": "adv",
+      "example": "particularly interesting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60341.png",
+      "local_image_path": "images/60341.png"
+    },
+    {
+      "pos": "adv",
+      "example": "particularly the small one",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60342.png",
+      "local_image_path": "images/60342.png"
+    }
+  ],
+  "synonyms": [
+    "exceptionally",
+    "intensely",
+    "acutely",
+    "especially",
+    "specifically",
+    "remarkably",
+    "very",
+    "markedly"
+  ],
+  "antonyms": [
+    "unexceptionally"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/particularly.mp3",
+  "local_sound_path": "sounds/particularly.mp3"
+}

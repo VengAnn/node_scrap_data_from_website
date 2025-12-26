@@ -1,0 +1,54 @@
+{
+  "word": "baffle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7063.png",
+      "local_image_path": "images/7063.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7062.png",
+      "local_image_path": "images/7062.png"
+    },
+    {
+      "pos": "tv",
+      "example": "your homework baffles me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7061.png",
+      "local_image_path": "images/7061.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114441.png",
+      "local_image_path": "images/114441.png"
+    }
+  ],
+  "synonyms": [
+    "confuse",
+    "perplex",
+    "puzzle",
+    "flummox",
+    "stump",
+    "nonplus",
+    "mystify",
+    "confound",
+    "bewilder",
+    "bemuse",
+    "befuddle",
+    "bamboozle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "baffle-wall",
+    "baffled",
+    "bafflement",
+    "baffler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baffle.mp3",
+  "local_sound_path": "sounds/baffle.mp3"
+}

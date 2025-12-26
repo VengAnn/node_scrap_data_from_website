@@ -1,0 +1,33 @@
+{
+  "word": "cruiser",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18838.png",
+      "local_image_path": "images/18838.png"
+    },
+    {
+      "pos": "n",
+      "example": "pleasure cruiser",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18839.png",
+      "local_image_path": "images/18839.png"
+    }
+  ],
+  "synonyms": [
+    "police car",
+    "vessel",
+    "craft",
+    "yacht",
+    "liner",
+    "dinghy",
+    "ferry",
+    "ship"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cruiser.mp3",
+  "local_sound_path": "sounds/cruiser.mp3"
+}

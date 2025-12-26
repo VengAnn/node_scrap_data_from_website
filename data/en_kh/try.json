@@ -1,0 +1,65 @@
+{
+  "word": "try",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92225.png",
+      "local_image_path": "images/92225.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92226.png",
+      "local_image_path": "images/92226.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128533.png",
+      "local_image_path": "images/128533.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128534.png",
+      "local_image_path": "images/128534.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will try to study computer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92222.png",
+      "local_image_path": "images/92222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "try a different approach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92223.png",
+      "local_image_path": "images/92223.png"
+    },
+    {
+      "pos": "tv",
+      "example": "try a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92224.png",
+      "local_image_path": "images/92224.png"
+    }
+  ],
+  "synonyms": [
+    "judge",
+    "hear"
+  ],
+  "antonyms": [
+    "soothe"
+  ],
+  "similar_words": [
+    "try-on",
+    "try-out",
+    "trying",
+    "trysail",
+    "tryst"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/try.mp3",
+  "local_sound_path": "sounds/try.mp3"
+}

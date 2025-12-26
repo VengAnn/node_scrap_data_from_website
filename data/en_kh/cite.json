@@ -1,0 +1,28 @@
+{
+  "word": "cite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "cite a author",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14671.png",
+      "local_image_path": "images/14671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130986.png",
+      "local_image_path": "images/130986.png"
+    }
+  ],
+  "synonyms": [
+    "quote",
+    "name",
+    "mention"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cite.mp3",
+  "local_sound_path": "sounds/cite.mp3"
+}

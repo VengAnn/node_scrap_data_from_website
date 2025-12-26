@@ -1,0 +1,97 @@
+{
+  "word": "stake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84108.png",
+      "local_image_path": "images/84108.png"
+    },
+    {
+      "pos": "n",
+      "example": "tether stake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84109.png",
+      "local_image_path": "images/84109.png"
+    },
+    {
+      "pos": "n",
+      "example": "fence stake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84110.png",
+      "local_image_path": "images/84110.png"
+    },
+    {
+      "pos": "n",
+      "example": "winer's stake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84114.png",
+      "local_image_path": "images/84114.png"
+    },
+    {
+      "pos": "n",
+      "example": "prospector's stake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84115.png",
+      "local_image_path": "images/84115.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84111.png",
+      "local_image_path": "images/84111.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stake out a claim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84112.png",
+      "local_image_path": "images/84112.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stake out a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84113.png",
+      "local_image_path": "images/84113.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stake $15 on a race",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84116.png",
+      "local_image_path": "images/84116.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stake my life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84117.png",
+      "local_image_path": "images/84117.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stake a gambler",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84118.png",
+      "local_image_path": "images/84118.png"
+    },
+    {
+      "pos": "tv",
+      "example": "have a stake in a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84119.png",
+      "local_image_path": "images/84119.png"
+    }
+  ],
+  "synonyms": [
+    "post",
+    "palisade",
+    "picket",
+    "pole",
+    "risk",
+    "gamble",
+    "bet",
+    "venture",
+    "hazard",
+    "wager"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stakeholder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stake.mp3",
+  "local_sound_path": "sounds/stake.mp3"
+}

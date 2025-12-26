@@ -1,0 +1,54 @@
+{
+  "word": "heaven",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34343.png",
+      "local_image_path": "images/34343.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34344.png",
+      "local_image_path": "images/34344.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34345.png",
+      "local_image_path": "images/34345.png"
+    },
+    {
+      "pos": "n",
+      "example": "the heavens",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34346.png",
+      "local_image_path": "images/34346.png"
+    }
+  ],
+  "synonyms": [
+    "paradise",
+    "bliss",
+    "ecstasy",
+    "rapture",
+    "dreamland"
+  ],
+  "antonyms": [
+    "hell"
+  ],
+  "similar_words": [
+    "heaven knows",
+    "heaven-born",
+    "heaven-sent",
+    "heavenish",
+    "heavenlike",
+    "heavenly",
+    "heavenly bodies",
+    "heavenward",
+    "heavenwards"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heaven.mp3",
+  "local_sound_path": "sounds/heaven.mp3"
+}

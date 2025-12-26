@@ -1,0 +1,39 @@
+{
+  "word": "dupe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23454.png",
+      "local_image_path": "images/23454.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23453.png",
+      "local_image_path": "images/23453.png"
+    }
+  ],
+  "synonyms": [
+    "sucker",
+    "mug",
+    "victim",
+    "target",
+    "fool",
+    "trick",
+    "deceive",
+    "con",
+    "cheat",
+    "hoodwink",
+    "swindle",
+    "take in"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "duper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dupe.mp3",
+  "local_sound_path": "sounds/dupe.mp3"
+}

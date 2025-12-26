@@ -1,0 +1,33 @@
+{
+  "word": "ingress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39953.png",
+      "local_image_path": "images/39953.png"
+    }
+  ],
+  "synonyms": [
+    "entrance",
+    "access",
+    "doorway",
+    "door",
+    "opening",
+    "entry",
+    "admission"
+  ],
+  "antonyms": [
+    "exit"
+  ],
+  "similar_words": [
+    "ingress and egress",
+    "ingression",
+    "ingressive",
+    "ingressiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ingress.mp3",
+  "local_sound_path": "sounds/ingress.mp3"
+}

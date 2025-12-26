@@ -1,0 +1,35 @@
+{
+  "word": "armistice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5512.png",
+      "local_image_path": "images/5512.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112696.png",
+      "local_image_path": "images/112696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112697.png",
+      "local_image_path": "images/112697.png"
+    }
+  ],
+  "synonyms": [
+    "truce",
+    "settlement",
+    "resolution",
+    "cease-fire"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/armistice.mp3",
+  "local_sound_path": "sounds/armistice.mp3"
+}

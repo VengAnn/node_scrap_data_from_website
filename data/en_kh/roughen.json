@@ -1,0 +1,33 @@
+{
+  "word": "roughen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74300.png",
+      "local_image_path": "images/74300.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74299.png",
+      "local_image_path": "images/74299.png"
+    }
+  ],
+  "synonyms": [
+    "coarsen",
+    "toughen",
+    "scratch",
+    "abrade",
+    "rough",
+    "crumple"
+  ],
+  "antonyms": [
+    "soften"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/roughen.mp3",
+  "local_sound_path": "sounds/roughen.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "shirt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79219.png",
+      "local_image_path": "images/79219.png"
+    }
+  ],
+  "synonyms": [
+    "blouse",
+    "chemise",
+    "top"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shirt front",
+    "shirt-sleeve",
+    "shirt-sleeves",
+    "shirt-waist",
+    "shirting",
+    "shirty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shirt.mp3",
+  "local_sound_path": "sounds/shirt.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "anyhow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "anyhow it is done",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4851.png",
+      "local_image_path": "images/4851.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113819.png",
+      "local_image_path": "images/113819.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113820.png",
+      "local_image_path": "images/113820.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113821.png",
+      "local_image_path": "images/113821.png"
+    }
+  ],
+  "synonyms": [
+    "anyway",
+    "nevertheless",
+    "nonetheless",
+    "besides",
+    "well"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anyhow.mp3",
+  "local_sound_path": "sounds/anyhow.mp3"
+}

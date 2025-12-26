@@ -1,0 +1,69 @@
+{
+  "word": "pure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pure gold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68956.png",
+      "local_image_path": "images/68956.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pure ignorance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68957.png",
+      "local_image_path": "images/68957.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pure heart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68958.png",
+      "local_image_path": "images/68958.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68959.png",
+      "local_image_path": "images/68959.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68962.png",
+      "local_image_path": "images/68962.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126265.png",
+      "local_image_path": "images/126265.png"
+    }
+  ],
+  "synonyms": [
+    "utter",
+    "sheer",
+    "absolute",
+    "complete",
+    "downright",
+    "out-and-out",
+    "total"
+  ],
+  "antonyms": [
+    "tainted",
+    "corrupt",
+    "impure",
+    "applied",
+    "weak"
+  ],
+  "similar_words": [
+    "pure democracy",
+    "pureblood",
+    "purebred",
+    "puree",
+    "purely",
+    "pureness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pure.mp3",
+  "local_sound_path": "sounds/pure.mp3"
+}

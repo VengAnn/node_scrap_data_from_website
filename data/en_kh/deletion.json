@@ -1,0 +1,47 @@
+{
+  "word": "deletion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "by deletion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20304.png",
+      "local_image_path": "images/20304.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117951.png",
+      "local_image_path": "images/117951.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117952.png",
+      "local_image_path": "images/117952.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117953.png",
+      "local_image_path": "images/117953.png"
+    }
+  ],
+  "synonyms": [
+    "removal",
+    "cut",
+    "cutting",
+    "erasure",
+    "obliteration",
+    "loss",
+    "omission",
+    "scoring"
+  ],
+  "antonyms": [
+    "addition"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deletion.mp3",
+  "local_sound_path": "sounds/deletion.mp3"
+}

@@ -1,0 +1,97 @@
+{
+  "word": "solid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "When water becomes solid, we call it ice.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82536.png",
+      "local_image_path": "images/82536.png"
+    },
+    {
+      "pos": "adj",
+      "example": "solid wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82537.png",
+      "local_image_path": "images/82537.png"
+    },
+    {
+      "pos": "adj",
+      "example": "solid foundation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82538.png",
+      "local_image_path": "images/82538.png"
+    },
+    {
+      "pos": "adj",
+      "example": "solid support",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82539.png",
+      "local_image_path": "images/82539.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82543.png",
+      "local_image_path": "images/82543.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82544.png",
+      "local_image_path": "images/82544.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82540.png",
+      "local_image_path": "images/82540.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82541.png",
+      "local_image_path": "images/82541.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82542.png",
+      "local_image_path": "images/82542.png"
+    }
+  ],
+  "synonyms": [
+    "constant",
+    "durable",
+    "enduring",
+    "stable",
+    "lasting",
+    "substantial",
+    "figure",
+    "pyramid",
+    "tetrahedron",
+    "sphere",
+    "icosahedron",
+    "cube"
+  ],
+  "antonyms": [
+    "soft",
+    "weak",
+    "unreliable",
+    "insubstantial",
+    "hollow",
+    "patchy"
+  ],
+  "similar_words": [
+    "solidago",
+    "solidarity",
+    "solidary",
+    "solidate",
+    "solidifian",
+    "solidification",
+    "solidify",
+    "solidity",
+    "solidly",
+    "solidness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/solid.mp3",
+  "local_sound_path": "sounds/solid.mp3"
+}

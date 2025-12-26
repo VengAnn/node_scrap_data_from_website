@@ -1,0 +1,62 @@
+{
+  "word": "witness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100664.png",
+      "local_image_path": "images/100664.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is a witness in this event.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100662.png",
+      "local_image_path": "images/100662.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129911.png",
+      "local_image_path": "images/129911.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129912.png",
+      "local_image_path": "images/129912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "witness an accident",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100663.png",
+      "local_image_path": "images/100663.png"
+    }
+  ],
+  "synonyms": [
+    "see",
+    "observe",
+    "view",
+    "perceive",
+    "behold",
+    "countersign",
+    "endorse",
+    "indorse",
+    "sign",
+    "attest",
+    "authenticate",
+    "corroborate",
+    "certify",
+    "notarize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "witness-box",
+    "witness-stand",
+    "witnessable",
+    "witnesser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/witness.mp3",
+  "local_sound_path": "sounds/witness.mp3"
+}

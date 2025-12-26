@@ -1,0 +1,76 @@
+{
+  "word": "host",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "You are my special host today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36042.png",
+      "local_image_path": "images/36042.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36043.png",
+      "local_image_path": "images/36043.png"
+    },
+    {
+      "pos": "n",
+      "example": "host of a parasite",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36044.png",
+      "local_image_path": "images/36044.png"
+    },
+    {
+      "pos": "n",
+      "example": "a host of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36046.png",
+      "local_image_path": "images/36046.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121221.png",
+      "local_image_path": "images/121221.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36045.png",
+      "local_image_path": "images/36045.png"
+    }
+  ],
+  "synonyms": [
+    "crowd",
+    "swarm",
+    "congregation",
+    "mass",
+    "multitude",
+    "horde",
+    "hold",
+    "present",
+    "introduce",
+    "accommodate",
+    "compere"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hostage",
+    "hostage-taking",
+    "hostel",
+    "hosteler",
+    "hosteller",
+    "hostelry",
+    "hostess",
+    "hostile",
+    "hostile possession",
+    "hostile witness",
+    "hostilely",
+    "hostilities",
+    "hostility",
+    "hosting",
+    "hostler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/host.mp3",
+  "local_sound_path": "sounds/host.mp3"
+}

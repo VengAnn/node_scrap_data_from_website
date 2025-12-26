@@ -1,0 +1,28 @@
+{
+  "word": "bandage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7274.png",
+      "local_image_path": "images/7274.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7275.png",
+      "local_image_path": "images/7275.png"
+    }
+  ],
+  "synonyms": [
+    "dress",
+    "bind",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bandage.mp3",
+  "local_sound_path": "sounds/bandage.mp3"
+}

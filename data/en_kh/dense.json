@@ -1,0 +1,39 @@
+{
+  "word": "dense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dense forest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20537.png",
+      "local_image_path": "images/20537.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dense student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20538.png",
+      "local_image_path": "images/20538.png"
+    }
+  ],
+  "synonyms": [
+    "stupid",
+    "unintelligent",
+    "dim",
+    "slow",
+    "thick"
+  ],
+  "antonyms": [
+    "transparent",
+    "sparse",
+    "light",
+    "clear",
+    "clever"
+  ],
+  "similar_words": [
+    "densely",
+    "denseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dense.mp3",
+  "local_sound_path": "sounds/dense.mp3"
+}

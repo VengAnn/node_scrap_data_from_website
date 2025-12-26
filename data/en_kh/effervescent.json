@@ -1,0 +1,35 @@
+{
+  "word": "effervescent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "effervescent drink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23960.png",
+      "local_image_path": "images/23960.png"
+    },
+    {
+      "pos": "adj",
+      "example": "effervescent personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23961.png",
+      "local_image_path": "images/23961.png"
+    }
+  ],
+  "synonyms": [
+    "lively",
+    "vibrant",
+    "bubbly",
+    "bouncy",
+    "sparkling",
+    "vivacious",
+    "animated"
+  ],
+  "antonyms": [
+    "still",
+    "dull"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/effervescent.mp3",
+  "local_sound_path": "sounds/effervescent.mp3"
+}

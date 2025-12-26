@@ -1,0 +1,53 @@
+{
+  "word": "dart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19673.png",
+      "local_image_path": "images/19673.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19671.png",
+      "local_image_path": "images/19671.png"
+    },
+    {
+      "pos": "n",
+      "example": "poison dart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19672.png",
+      "local_image_path": "images/19672.png"
+    }
+  ],
+  "synonyms": [
+    "arrow",
+    "barb",
+    "shaft",
+    "sting",
+    "dash",
+    "scurry",
+    "whiz",
+    "rush",
+    "run",
+    "zip",
+    "scoot",
+    "zoom",
+    "shoot",
+    "sprint",
+    "tear",
+    "nip",
+    "flit"
+  ],
+  "antonyms": [
+    "saunter"
+  ],
+  "similar_words": [
+    "dart board",
+    "darter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dart.mp3",
+  "local_sound_path": "sounds/dart.mp3"
+}

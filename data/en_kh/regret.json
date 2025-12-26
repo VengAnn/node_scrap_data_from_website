@@ -1,0 +1,44 @@
+{
+  "word": "regret",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71626.png",
+      "local_image_path": "images/71626.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I regret to say that ……….",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71625.png",
+      "local_image_path": "images/71625.png"
+    }
+  ],
+  "synonyms": [
+    "disappointment",
+    "sorrow",
+    "unhappiness",
+    "grief",
+    "distress",
+    "lament",
+    "mourn",
+    "bemoan"
+  ],
+  "antonyms": [
+    "shamelessness",
+    "contentment"
+  ],
+  "similar_words": [
+    "regretable",
+    "regretably",
+    "regretful",
+    "regretfully",
+    "regretfulness",
+    "regrettable",
+    "regretter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/regret.mp3",
+  "local_sound_path": "sounds/regret.mp3"
+}

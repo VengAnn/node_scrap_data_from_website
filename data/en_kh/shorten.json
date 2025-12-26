@@ -1,0 +1,44 @@
+{
+  "word": "shorten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79428.png",
+      "local_image_path": "images/79428.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shorten a dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79426.png",
+      "local_image_path": "images/79426.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shorten a string",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79427.png",
+      "local_image_path": "images/79427.png"
+    }
+  ],
+  "synonyms": [
+    "cut",
+    "curtail",
+    "abbreviate",
+    "abridge",
+    "condense",
+    "contract",
+    "truncate",
+    "reduce",
+    "compress",
+    "telescope",
+    "diminish"
+  ],
+  "antonyms": [
+    "lengthen"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shorten.mp3",
+  "local_sound_path": "sounds/shorten.mp3"
+}

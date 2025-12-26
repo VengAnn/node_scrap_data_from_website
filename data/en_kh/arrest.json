@@ -1,0 +1,81 @@
+{
+  "word": "arrest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5575.png",
+      "local_image_path": "images/5575.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112701.png",
+      "local_image_path": "images/112701.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112702.png",
+      "local_image_path": "images/112702.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112703.png",
+      "local_image_path": "images/112703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5574.png",
+      "local_image_path": "images/5574.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114029.png",
+      "local_image_path": "images/114029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114030.png",
+      "local_image_path": "images/114030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114031.png",
+      "local_image_path": "images/114031.png"
+    }
+  ],
+  "synonyms": [
+    "attract",
+    "engage",
+    "catch",
+    "hold",
+    "fix",
+    "seize",
+    "capture",
+    "detain",
+    "apprehend",
+    "stop"
+  ],
+  "antonyms": [
+    "release",
+    "help",
+    "start"
+  ],
+  "similar_words": [
+    "arrester",
+    "arresting",
+    "arrestingly",
+    "arrestive",
+    "arrestment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arrest.mp3",
+  "local_sound_path": "sounds/arrest.mp3"
+}

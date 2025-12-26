@@ -1,0 +1,55 @@
+{
+  "word": "dread",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23063.png",
+      "local_image_path": "images/23063.png"
+    },
+    {
+      "pos": "n",
+      "example": "in dread of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23061.png",
+      "local_image_path": "images/23061.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23062.png",
+      "local_image_path": "images/23062.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23060.png",
+      "local_image_path": "images/23060.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118794.png",
+      "local_image_path": "images/118794.png"
+    }
+  ],
+  "synonyms": [
+    "fear",
+    "look forward to"
+  ],
+  "antonyms": [
+    "confidence",
+    "look forward to"
+  ],
+  "similar_words": [
+    "dreaded",
+    "dreadful",
+    "dreadfully",
+    "dreadfulness",
+    "dreadlocks",
+    "dreadnought"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dread.mp3",
+  "local_sound_path": "sounds/dread.mp3"
+}

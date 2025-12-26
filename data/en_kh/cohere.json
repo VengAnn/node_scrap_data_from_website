@@ -1,0 +1,30 @@
+{
+  "word": "cohere",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15560.png",
+      "local_image_path": "images/15560.png"
+    }
+  ],
+  "synonyms": [
+    "conform",
+    "match",
+    "tally",
+    "correspond",
+    "follow"
+  ],
+  "antonyms": [
+    "disagree"
+  ],
+  "similar_words": [
+    "coherence",
+    "coherent",
+    "coherently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cohere.mp3",
+  "local_sound_path": "sounds/cohere.mp3"
+}

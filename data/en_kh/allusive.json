@@ -1,0 +1,41 @@
+{
+  "word": "allusive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3559.png",
+      "local_image_path": "images/3559.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113566.png",
+      "local_image_path": "images/113566.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113567.png",
+      "local_image_path": "images/113567.png"
+    }
+  ],
+  "synonyms": [
+    "indirect",
+    "oblique",
+    "referential",
+    "suggestive",
+    "indicative"
+  ],
+  "antonyms": [
+    "direct"
+  ],
+  "similar_words": [
+    "allusively",
+    "allusiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/allusive.mp3",
+  "local_sound_path": "sounds/allusive.mp3"
+}

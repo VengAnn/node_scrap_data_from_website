@@ -1,0 +1,36 @@
+{
+  "word": "coke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "burn coke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15590.png",
+      "local_image_path": "images/15590.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116654.png",
+      "local_image_path": "images/116654.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116655.png",
+      "local_image_path": "images/116655.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116656.png",
+      "local_image_path": "images/116656.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coke.mp3",
+  "local_sound_path": "sounds/coke.mp3"
+}

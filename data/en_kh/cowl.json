@@ -1,0 +1,26 @@
+{
+  "word": "cowl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18263.png",
+      "local_image_path": "images/18263.png"
+    }
+  ],
+  "synonyms": [
+    "hood",
+    "cover",
+    "cloak",
+    "top"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cowlick",
+    "cowling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cowl.mp3",
+  "local_sound_path": "sounds/cowl.mp3"
+}

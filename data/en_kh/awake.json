@@ -1,0 +1,56 @@
+{
+  "word": "awake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "awake all night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6754.png",
+      "local_image_path": "images/6754.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114322.png",
+      "local_image_path": "images/114322.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114323.png",
+      "local_image_path": "images/114323.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6756.png",
+      "local_image_path": "images/6756.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the noise of the explosion awake me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6755.png",
+      "local_image_path": "images/6755.png"
+    }
+  ],
+  "synonyms": [
+    "up",
+    "stirring",
+    "wide awake",
+    "conscious",
+    "wakeful",
+    "aware",
+    "alert"
+  ],
+  "antonyms": [
+    "asleep"
+  ],
+  "similar_words": [
+    "awaken",
+    "awakener",
+    "awakening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/awake.mp3",
+  "local_sound_path": "sounds/awake.mp3"
+}

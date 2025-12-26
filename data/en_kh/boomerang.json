@@ -1,0 +1,28 @@
+{
+  "word": "boomerang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10175.png",
+      "local_image_path": "images/10175.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115384.png",
+      "local_image_path": "images/115384.png"
+    }
+  ],
+  "synonyms": [
+    "rebound",
+    "return",
+    "ricochet"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boomerang.mp3",
+  "local_sound_path": "sounds/boomerang.mp3"
+}

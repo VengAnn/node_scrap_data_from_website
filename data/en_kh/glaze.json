@@ -1,0 +1,50 @@
+{
+  "word": "glaze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31914.png",
+      "local_image_path": "images/31914.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31915.png",
+      "local_image_path": "images/31915.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glaze pottery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31911.png",
+      "local_image_path": "images/31911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glaze meat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31912.png",
+      "local_image_path": "images/31912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glaze a window",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31913.png",
+      "local_image_path": "images/31913.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "finish",
+    "varnish",
+    "seal",
+    "coat",
+    "veneer",
+    "paint"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glaze.mp3",
+  "local_sound_path": "sounds/glaze.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "bus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11988.png",
+      "local_image_path": "images/11988.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11989.png",
+      "local_image_path": "images/11989.png"
+    }
+  ],
+  "synonyms": [
+    "car",
+    "van",
+    "automobile",
+    "truck",
+    "transport",
+    "carry",
+    "take",
+    "convey",
+    "move",
+    "travel",
+    "journey"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bus-shelter",
+    "bus-stop",
+    "busboy",
+    "busby",
+    "bush",
+    "bush beating",
+    "bush dog",
+    "bushed",
+    "bushel",
+    "bushido",
+    "bushing",
+    "bushman",
+    "bushmaster",
+    "bushwhack",
+    "bushy",
+    "busily",
+    "business",
+    "business address",
+    "business call",
+    "business center",
+    "business class",
+    "business corespondence",
+    "business corespondent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bus.mp3",
+  "local_sound_path": "sounds/bus.mp3"
+}

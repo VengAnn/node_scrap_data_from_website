@@ -1,0 +1,73 @@
+{
+  "word": "surface",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86563.png",
+      "local_image_path": "images/86563.png"
+    },
+    {
+      "pos": "iv",
+      "example": "submarines surface",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86560.png",
+      "local_image_path": "images/86560.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86556.png",
+      "local_image_path": "images/86556.png"
+    },
+    {
+      "pos": "n",
+      "example": "surface of the earth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86557.png",
+      "local_image_path": "images/86557.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86558.png",
+      "local_image_path": "images/86558.png"
+    },
+    {
+      "pos": "n",
+      "example": "surface of a cube",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86559.png",
+      "local_image_path": "images/86559.png"
+    },
+    {
+      "pos": "tv",
+      "example": "surface a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86561.png",
+      "local_image_path": "images/86561.png"
+    },
+    {
+      "pos": "tv",
+      "example": "surface a road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86562.png",
+      "local_image_path": "images/86562.png"
+    }
+  ],
+  "synonyms": [
+    "superficial",
+    "shallow",
+    "external",
+    "exterior",
+    "outward",
+    "apparent",
+    "seeming",
+    "emerge"
+  ],
+  "antonyms": [
+    "inside",
+    "sink",
+    "inner"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/surface.mp3",
+  "local_sound_path": "sounds/surface.mp3"
+}

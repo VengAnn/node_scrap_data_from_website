@@ -1,0 +1,55 @@
+{
+  "word": "material",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "material evidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106727.png",
+      "local_image_path": "images/106727.png"
+    },
+    {
+      "pos": "n",
+      "example": "building material",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106726.png",
+      "local_image_path": "images/106726.png"
+    },
+    {
+      "pos": "n",
+      "example": "raw material",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106728.png",
+      "local_image_path": "images/106728.png"
+    }
+  ],
+  "synonyms": [
+    "significant",
+    "relevant",
+    "pertinent",
+    "important",
+    "information",
+    "background",
+    "data"
+  ],
+  "antonyms": [
+    "immaterial",
+    "insubstantial"
+  ],
+  "similar_words": [
+    "material breach",
+    "material mind",
+    "material witness",
+    "materialism",
+    "materialist",
+    "materialistic",
+    "materialistical",
+    "materialistically",
+    "materiality",
+    "materialization",
+    "materialize",
+    "materially",
+    "materialness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/material.mp3",
+  "local_sound_path": "sounds/material.mp3"
+}

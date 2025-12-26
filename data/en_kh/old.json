@@ -1,0 +1,79 @@
+{
+  "word": "old",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "old man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57441.png",
+      "local_image_path": "images/57441.png"
+    },
+    {
+      "pos": "adj",
+      "example": "old bread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57442.png",
+      "local_image_path": "images/57442.png"
+    },
+    {
+      "pos": "adj",
+      "example": "He is my old teacher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57443.png",
+      "local_image_path": "images/57443.png"
+    },
+    {
+      "pos": "adj",
+      "example": "She is my old friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57444.png",
+      "local_image_path": "images/57444.png"
+    },
+    {
+      "pos": "adj",
+      "example": "This boy is 10 years old.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57445.png",
+      "local_image_path": "images/57445.png"
+    },
+    {
+      "pos": "n",
+      "example": "the old",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57446.png",
+      "local_image_path": "images/57446.png"
+    }
+  ],
+  "synonyms": [
+    "ancient",
+    "long-standing",
+    "childhood",
+    "deep-rooted",
+    "aged",
+    "elderly",
+    "older",
+    "mature"
+  ],
+  "antonyms": [
+    "young",
+    "current",
+    "recent"
+  ],
+  "similar_words": [
+    "old hat",
+    "old lady",
+    "old maid",
+    "old man",
+    "old school",
+    "old-clothes-man",
+    "old-fangled",
+    "old-fashioned",
+    "old-time",
+    "old-timer",
+    "olden",
+    "older",
+    "oldie",
+    "oldish",
+    "oldmaidish",
+    "oldness",
+    "oldster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/old.mp3",
+  "local_sound_path": "sounds/old.mp3"
+}

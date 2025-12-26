@@ -1,0 +1,35 @@
+{
+  "word": "predict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66139.png",
+      "local_image_path": "images/66139.png"
+    }
+  ],
+  "synonyms": [
+    "forecast",
+    "foresee",
+    "envisage",
+    "expect",
+    "guess",
+    "calculate",
+    "foretell",
+    "prophesy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "predictability",
+    "predictable",
+    "predictably",
+    "prediction",
+    "predictive",
+    "predictively",
+    "predictiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/predict.mp3",
+  "local_sound_path": "sounds/predict.mp3"
+}

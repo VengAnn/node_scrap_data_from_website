@@ -1,0 +1,71 @@
+{
+  "word": "escape",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25832.png",
+      "local_image_path": "images/25832.png"
+    },
+    {
+      "pos": "iv",
+      "example": "escape from prison",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25833.png",
+      "local_image_path": "images/25833.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25834.png",
+      "local_image_path": "images/25834.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25835.png",
+      "local_image_path": "images/25835.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25836.png",
+      "local_image_path": "images/25836.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25838.png",
+      "local_image_path": "images/25838.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25837.png",
+      "local_image_path": "images/25837.png"
+    }
+  ],
+  "synonyms": [
+    "seepage",
+    "leakage",
+    "leak",
+    "discharge",
+    "outflow",
+    "avoid",
+    "evade",
+    "dodge",
+    "elude"
+  ],
+  "antonyms": [
+    "face",
+    "capture"
+  ],
+  "similar_words": [
+    "escape-hatch",
+    "escapee",
+    "escapement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/escape.mp3",
+  "local_sound_path": "sounds/escape.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "athlete",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6149.png",
+      "local_image_path": "images/6149.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131345.png",
+      "local_image_path": "images/131345.png"
+    }
+  ],
+  "synonyms": [
+    "contestant",
+    "participant",
+    "competitor",
+    "player"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/athlete.mp3",
+  "local_sound_path": "sounds/athlete.mp3"
+}

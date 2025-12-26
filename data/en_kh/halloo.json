@@ -1,0 +1,29 @@
+{
+  "word": "halloo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n, interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33612.png",
+      "local_image_path": "images/33612.png"
+    },
+    {
+      "pos": "v",
+      "example": "Don't halloo till you're out of the wood.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33611.png",
+      "local_image_path": "images/33611.png"
+    }
+  ],
+  "synonyms": [
+    "hi",
+    "goodbye"
+  ],
+  "antonyms": [
+    "goodbye"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/halloo.mp3",
+  "local_sound_path": "sounds/halloo.mp3"
+}

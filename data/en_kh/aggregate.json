@@ -1,0 +1,60 @@
+{
+  "word": "aggregate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2926.png",
+      "local_image_path": "images/2926.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113421.png",
+      "local_image_path": "images/113421.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113422.png",
+      "local_image_path": "images/113422.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113423.png",
+      "local_image_path": "images/113423.png"
+    },
+    {
+      "pos": "n",
+      "example": "find the aggregate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2927.png",
+      "local_image_path": "images/2927.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2928.png",
+      "local_image_path": "images/2928.png"
+    }
+  ],
+  "synonyms": [
+    "combine",
+    "amass",
+    "collect",
+    "accumulate",
+    "total",
+    "gather",
+    "group"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "aggregately"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aggregate.mp3",
+  "local_sound_path": "sounds/aggregate.mp3"
+}

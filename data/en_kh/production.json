@@ -1,0 +1,36 @@
+{
+  "word": "production",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "production of merchandise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67340.png",
+      "local_image_path": "images/67340.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67341.png",
+      "local_image_path": "images/67341.png"
+    }
+  ],
+  "synonyms": [
+    "manufacture",
+    "making",
+    "construction",
+    "creation",
+    "invention",
+    "fabrication",
+    "assembly"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "production accounts",
+    "production cost",
+    "production department"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/production.mp3",
+  "local_sound_path": "sounds/production.mp3"
+}

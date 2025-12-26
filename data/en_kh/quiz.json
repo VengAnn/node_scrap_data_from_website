@@ -1,0 +1,60 @@
+{
+  "word": "quiz",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69682.png",
+      "local_image_path": "images/69682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69678.png",
+      "local_image_path": "images/69678.png"
+    },
+    {
+      "pos": "tv",
+      "example": "quiz a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69679.png",
+      "local_image_path": "images/69679.png"
+    },
+    {
+      "pos": "tv",
+      "example": "quiz a messenger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69680.png",
+      "local_image_path": "images/69680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69681.png",
+      "local_image_path": "images/69681.png"
+    }
+  ],
+  "synonyms": [
+    "question",
+    "ask",
+    "interrogate",
+    "cross-examine",
+    "interview",
+    "examine",
+    "grill",
+    "debrief",
+    "query",
+    "catechize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "quiz show",
+    "quizmaster",
+    "quizzical",
+    "quizzicality",
+    "quizzically",
+    "quizzing-glass"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quiz.mp3",
+  "local_sound_path": "sounds/quiz.mp3"
+}

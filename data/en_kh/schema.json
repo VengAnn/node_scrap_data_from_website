@@ -1,0 +1,34 @@
+{
+  "word": "schema",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76591.png",
+      "local_image_path": "images/76591.png"
+    }
+  ],
+  "synonyms": [
+    "plan",
+    "diagram",
+    "scheme",
+    "representation",
+    "schematic",
+    "graphic",
+    "chart",
+    "outline",
+    "draft",
+    "draught"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "schematic",
+    "schematism",
+    "schematist",
+    "schematize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/schema.mp3",
+  "local_sound_path": "sounds/schema.mp3"
+}

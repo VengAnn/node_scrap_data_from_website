@@ -1,0 +1,52 @@
+{
+  "word": "rage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "prisoners rage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69932.png",
+      "local_image_path": "images/69932.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69933.png",
+      "local_image_path": "images/69933.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126433.png",
+      "local_image_path": "images/126433.png"
+    },
+    {
+      "pos": "n",
+      "example": "in a rage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69931.png",
+      "local_image_path": "images/69931.png"
+    }
+  ],
+  "synonyms": [
+    "craze",
+    "fad",
+    "thing",
+    "fashion",
+    "trend",
+    "mania",
+    "fume",
+    "storm",
+    "seethe",
+    "thunder",
+    "fulminate",
+    "explode",
+    "erupt"
+  ],
+  "antonyms": [
+    "calmness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rage.mp3",
+  "local_sound_path": "sounds/rage.mp3"
+}

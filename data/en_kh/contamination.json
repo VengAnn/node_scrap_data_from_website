@@ -1,0 +1,35 @@
+{
+  "word": "contamination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17195.png",
+      "local_image_path": "images/17195.png"
+    }
+  ],
+  "synonyms": [
+    "contagion",
+    "infectivity",
+    "pollution",
+    "corruption",
+    "blemish",
+    "blot",
+    "defect",
+    "fault",
+    "flaw",
+    "smear",
+    "spot",
+    "stigma",
+    "disgrace",
+    "stain"
+  ],
+  "antonyms": [
+    "detoxification"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contamination.mp3",
+  "local_sound_path": "sounds/contamination.mp3"
+}

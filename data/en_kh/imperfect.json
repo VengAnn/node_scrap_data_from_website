@@ -1,0 +1,48 @@
+{
+  "word": "imperfect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "imperfect specimen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37673.png",
+      "local_image_path": "images/37673.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121606.png",
+      "local_image_path": "images/121606.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121607.png",
+      "local_image_path": "images/121607.png"
+    }
+  ],
+  "synonyms": [
+    "defective",
+    "deficient",
+    "damaged",
+    "lacking",
+    "faulty",
+    "unsatisfactory",
+    "inadequate",
+    "insufficient",
+    "limited",
+    "incomplete"
+  ],
+  "antonyms": [
+    "perfect"
+  ],
+  "similar_words": [
+    "imperfection",
+    "imperfective",
+    "imperfectly",
+    "imperfectness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imperfect.mp3",
+  "local_sound_path": "sounds/imperfect.mp3"
+}

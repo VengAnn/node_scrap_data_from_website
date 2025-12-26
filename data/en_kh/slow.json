@@ -1,0 +1,79 @@
+{
+  "word": "slow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "slow worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81430.png",
+      "local_image_path": "images/81430.png"
+    },
+    {
+      "pos": "adj",
+      "example": "slow student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81431.png",
+      "local_image_path": "images/81431.png"
+    },
+    {
+      "pos": "adj",
+      "example": "business is slow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81432.png",
+      "local_image_path": "images/81432.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81433.png",
+      "local_image_path": "images/81433.png"
+    },
+    {
+      "pos": "iv",
+      "example": "slow progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81435.png",
+      "local_image_path": "images/81435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Slow down when you reach the cross roads!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81434.png",
+      "local_image_path": "images/81434.png"
+    }
+  ],
+  "synonyms": [
+    "decelerate",
+    "brake",
+    "reduce",
+    "slacken"
+  ],
+  "antonyms": [
+    "fast",
+    "quick",
+    "bright"
+  ],
+  "similar_words": [
+    "slow lane",
+    "slow-coach",
+    "slow-down",
+    "slow-foot",
+    "slow-footed",
+    "slow-footedness",
+    "slow-learner",
+    "slow-march",
+    "slow-match",
+    "slow-motion",
+    "slow-moving",
+    "slow-multiplying",
+    "slow-paced",
+    "slow-poke",
+    "slow-sighted",
+    "slow-witted",
+    "slowback",
+    "slowing-down",
+    "slowliness",
+    "slowly",
+    "slowworm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slow.mp3",
+  "local_sound_path": "sounds/slow.mp3"
+}

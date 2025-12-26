@@ -1,0 +1,56 @@
+{
+  "word": "pollute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64824.png",
+      "local_image_path": "images/64824.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125705.png",
+      "local_image_path": "images/125705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125706.png",
+      "local_image_path": "images/125706.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125707.png",
+      "local_image_path": "images/125707.png"
+    }
+  ],
+  "synonyms": [
+    "contaminate",
+    "poison",
+    "infect",
+    "spoil",
+    "litter",
+    "corrupt",
+    "defile",
+    "pervert",
+    "demoralize",
+    "violate",
+    "damage",
+    "impair",
+    "blight"
+  ],
+  "antonyms": [
+    "clean",
+    "purify"
+  ],
+  "similar_words": [
+    "polluted",
+    "polluter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pollute.mp3",
+  "local_sound_path": "sounds/pollute.mp3"
+}

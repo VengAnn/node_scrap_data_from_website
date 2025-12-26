@@ -1,0 +1,51 @@
+{
+  "word": "transcription",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90943.png",
+      "local_image_path": "images/90943.png"
+    },
+    {
+      "pos": "n",
+      "example": "the transcription of a conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90944.png",
+      "local_image_path": "images/90944.png"
+    },
+    {
+      "pos": "n",
+      "example": "language transcription",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90945.png",
+      "local_image_path": "images/90945.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90946.png",
+      "local_image_path": "images/90946.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90947.png",
+      "local_image_path": "images/90947.png"
+    }
+  ],
+  "synonyms": [
+    "record",
+    "transcript",
+    "copy",
+    "text",
+    "dictation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "transcriptional",
+    "transcriptionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transcription.mp3",
+  "local_sound_path": "sounds/transcription.mp3"
+}

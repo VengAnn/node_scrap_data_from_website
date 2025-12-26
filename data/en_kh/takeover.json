@@ -1,0 +1,31 @@
+{
+  "word": "takeover",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87328.png",
+      "local_image_path": "images/87328.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87327.png",
+      "local_image_path": "images/87327.png"
+    }
+  ],
+  "synonyms": [
+    "conquest",
+    "invasion",
+    "occupation",
+    "capture"
+  ],
+  "antonyms": [
+    "surrender"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/takeover.mp3",
+  "local_sound_path": "sounds/takeover.mp3"
+}

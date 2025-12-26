@@ -1,0 +1,50 @@
+{
+  "word": "split",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83553.png",
+      "local_image_path": "images/83553.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83554.png",
+      "local_image_path": "images/83554.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This kind of wood split easily.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83551.png",
+      "local_image_path": "images/83551.png"
+    },
+    {
+      "pos": "tv",
+      "example": "split two factions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83552.png",
+      "local_image_path": "images/83552.png"
+    }
+  ],
+  "synonyms": [
+    "go",
+    "leave",
+    "separate",
+    "separated",
+    "part",
+    "parted",
+    "divorce"
+  ],
+  "antonyms": [
+    "unite",
+    "united",
+    "reconciliation",
+    "stay",
+    "join"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/split.mp3",
+  "local_sound_path": "sounds/split.mp3"
+}

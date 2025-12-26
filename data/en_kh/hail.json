@@ -1,0 +1,86 @@
+{
+  "word": "hail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "It hailed during the night.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33507.png",
+      "local_image_path": "images/33507.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33508.png",
+      "local_image_path": "images/33508.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33504.png",
+      "local_image_path": "images/33504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33505.png",
+      "local_image_path": "images/33505.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33506.png",
+      "local_image_path": "images/33506.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120896.png",
+      "local_image_path": "images/120896.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Cheerful voices hailed us as we entered the hall.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33501.png",
+      "local_image_path": "images/33501.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hail a taxi",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33502.png",
+      "local_image_path": "images/33502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Where does the ship hail from",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33503.png",
+      "local_image_path": "images/33503.png"
+    }
+  ],
+  "synonyms": [
+    "barrage",
+    "storm",
+    "volley",
+    "burst",
+    "flood",
+    "shower",
+    "summon",
+    "call",
+    "wave",
+    "signal",
+    "beckon"
+  ],
+  "antonyms": [
+    "ignore",
+    "reject",
+    "dismiss"
+  ],
+  "similar_words": [
+    "hail-fellow",
+    "hailstone",
+    "hailstorm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hail.mp3",
+  "local_sound_path": "sounds/hail.mp3"
+}

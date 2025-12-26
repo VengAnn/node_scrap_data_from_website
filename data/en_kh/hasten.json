@@ -1,0 +1,30 @@
+{
+  "word": "hasten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He hastened away to the office.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34005.png",
+      "local_image_path": "images/34005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34006.png",
+      "local_image_path": "images/34006.png"
+    }
+  ],
+  "synonyms": [
+    "hurry",
+    "rush",
+    "speed",
+    "accelerate",
+    "race"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hasten.mp3",
+  "local_sound_path": "sounds/hasten.mp3"
+}

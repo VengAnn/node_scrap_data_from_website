@@ -1,0 +1,44 @@
+{
+  "word": "corporal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17781.png",
+      "local_image_path": "images/17781.png"
+    },
+    {
+      "pos": "adj",
+      "example": "corporal pleasures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17782.png",
+      "local_image_path": "images/17782.png"
+    },
+    {
+      "pos": "adj",
+      "example": "corporal punishment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17783.png",
+      "local_image_path": "images/17783.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17786.png",
+      "local_image_path": "images/17786.png"
+    }
+  ],
+  "synonyms": [
+    "physical",
+    "bodily"
+  ],
+  "antonyms": [
+    "spiritual"
+  ],
+  "similar_words": [
+    "corporality",
+    "corporally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corporal.mp3",
+  "local_sound_path": "sounds/corporal.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "word": "tension",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88267.png",
+      "local_image_path": "images/88267.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88263.png",
+      "local_image_path": "images/88263.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88264.png",
+      "local_image_path": "images/88264.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88265.png",
+      "local_image_path": "images/88265.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88266.png",
+      "local_image_path": "images/88266.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128138.png",
+      "local_image_path": "images/128138.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88268.png",
+      "local_image_path": "images/88268.png"
+    }
+  ],
+  "synonyms": [
+    "conflict",
+    "friction",
+    "hostility",
+    "opposition",
+    "strain",
+    "stress",
+    "dread",
+    "mistrust",
+    "unease"
+  ],
+  "antonyms": [
+    "relief",
+    "relaxation",
+    "ease"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tension.mp3",
+  "local_sound_path": "sounds/tension.mp3"
+}

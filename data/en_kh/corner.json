@@ -1,0 +1,58 @@
+{
+  "word": "corner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "corner of a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17744.png",
+      "local_image_path": "images/17744.png"
+    },
+    {
+      "pos": "n",
+      "example": "drive into a corner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17745.png",
+      "local_image_path": "images/17745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "corner an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17746.png",
+      "local_image_path": "images/17746.png"
+    },
+    {
+      "pos": "tv",
+      "example": "coner the market",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17747.png",
+      "local_image_path": "images/17747.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117601.png",
+      "local_image_path": "images/117601.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117602.png",
+      "local_image_path": "images/117602.png"
+    }
+  ],
+  "synonyms": [
+    "trap",
+    "surround",
+    "confront",
+    "restrict",
+    "detain",
+    "waylay",
+    "accost"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cornerstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corner.mp3",
+  "local_sound_path": "sounds/corner.mp3"
+}

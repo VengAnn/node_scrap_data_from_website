@@ -1,0 +1,47 @@
+{
+  "word": "stern",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stern discipline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84685.png",
+      "local_image_path": "images/84685.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84686.png",
+      "local_image_path": "images/84686.png"
+    }
+  ],
+  "synonyms": [
+    "grim",
+    "serious",
+    "forbidding",
+    "formidable",
+    "dour",
+    "somber",
+    "grave",
+    "unsmiling",
+    "humorless"
+  ],
+  "antonyms": [
+    "easygoing",
+    "cheerful"
+  ],
+  "similar_words": [
+    "stern necessity",
+    "stern reality",
+    "stern-wheel",
+    "sternly",
+    "sternmost",
+    "sternness",
+    "sternum",
+    "sternutation",
+    "sternutatory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stern.mp3",
+  "local_sound_path": "sounds/stern.mp3"
+}

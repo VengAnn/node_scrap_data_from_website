@@ -1,0 +1,69 @@
+{
+  "word": "date",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "date from 1900",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19705.png",
+      "local_image_path": "images/19705.png"
+    },
+    {
+      "pos": "n",
+      "example": "date of a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19699.png",
+      "local_image_path": "images/19699.png"
+    },
+    {
+      "pos": "n",
+      "example": "date with a doctor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19700.png",
+      "local_image_path": "images/19700.png"
+    },
+    {
+      "pos": "n",
+      "example": "out of date",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19701.png",
+      "local_image_path": "images/19701.png"
+    },
+    {
+      "pos": "n",
+      "example": "up to date",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19702.png",
+      "local_image_path": "images/19702.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19706.png",
+      "local_image_path": "images/19706.png"
+    },
+    {
+      "pos": "tv",
+      "example": "date a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19703.png",
+      "local_image_path": "images/19703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "date a girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19704.png",
+      "local_image_path": "images/19704.png"
+    }
+  ],
+  "synonyms": [
+    "see",
+    "court",
+    "socialize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "date plum",
+    "date stamp",
+    "dated",
+    "dateless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/date.mp3",
+  "local_sound_path": "sounds/date.mp3"
+}

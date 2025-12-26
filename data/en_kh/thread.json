@@ -1,0 +1,98 @@
+{
+  "word": "thread",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "thread one's way",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89083.png",
+      "local_image_path": "images/89083.png"
+    },
+    {
+      "pos": "n",
+      "example": "weaving thread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89074.png",
+      "local_image_path": "images/89074.png"
+    },
+    {
+      "pos": "n",
+      "example": "sewing thread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89075.png",
+      "local_image_path": "images/89075.png"
+    },
+    {
+      "pos": "n",
+      "example": "thread of ore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89076.png",
+      "local_image_path": "images/89076.png"
+    },
+    {
+      "pos": "n",
+      "example": "thread of the story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89077.png",
+      "local_image_path": "images/89077.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89078.png",
+      "local_image_path": "images/89078.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89084.png",
+      "local_image_path": "images/89084.png"
+    },
+    {
+      "pos": "tv",
+      "example": "thread a needle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89079.png",
+      "local_image_path": "images/89079.png"
+    },
+    {
+      "pos": "tv",
+      "example": "thread beads",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89080.png",
+      "local_image_path": "images/89080.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89081.png",
+      "local_image_path": "images/89081.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89082.png",
+      "local_image_path": "images/89082.png"
+    }
+  ],
+  "synonyms": [
+    "drift",
+    "gist",
+    "sequence",
+    "theme",
+    "plot",
+    "string",
+    "wind",
+    "loop",
+    "lace",
+    "ease"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "thread mark",
+    "thread-fin",
+    "threadbare",
+    "threaded",
+    "threaden",
+    "threading",
+    "threadworm",
+    "thready"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thread.mp3",
+  "local_sound_path": "sounds/thread.mp3"
+}

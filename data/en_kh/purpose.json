@@ -1,0 +1,57 @@
+{
+  "word": "purpose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is your purpose?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69027.png",
+      "local_image_path": "images/69027.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69028.png",
+      "local_image_path": "images/69028.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They purpose a further attempt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69029.png",
+      "local_image_path": "images/69029.png"
+    }
+  ],
+  "synonyms": [
+    "drive",
+    "determination",
+    "resolution",
+    "resolve",
+    "persistence",
+    "perseverance",
+    "tenacity",
+    "intention",
+    "intent",
+    "aim",
+    "object",
+    "objective",
+    "goal",
+    "target",
+    "end"
+  ],
+  "antonyms": [
+    "indifference"
+  ],
+  "similar_words": [
+    "purposebuilt",
+    "purposeful",
+    "purposefully",
+    "purposefulness",
+    "purposeless",
+    "purposelessly",
+    "purposelessness",
+    "purposely"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/purpose.mp3",
+  "local_sound_path": "sounds/purpose.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "use",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Can I use your car for a while?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96906.png",
+      "local_image_path": "images/96906.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Cars use gas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96907.png",
+      "local_image_path": "images/96907.png"
+    }
+  ],
+  "synonyms": [
+    "enjoy",
+    "exploit",
+    "manipulate",
+    "mistreat",
+    "abuse"
+  ],
+  "antonyms": [
+    "conserve",
+    "detriment",
+    "saving",
+    "disuse",
+    "harm",
+    "forgo",
+    "forego"
+  ],
+  "similar_words": [
+    "useable",
+    "used",
+    "useful",
+    "usefully",
+    "usefulness",
+    "useless",
+    "uselessly",
+    "uselessness",
+    "usequebaugh",
+    "user",
+    "userer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/use.mp3",
+  "local_sound_path": "sounds/use.mp3"
+}

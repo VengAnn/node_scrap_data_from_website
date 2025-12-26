@@ -1,0 +1,90 @@
+{
+  "word": "help",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34591.png",
+      "local_image_path": "images/34591.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I can't help doing your homework.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34587.png",
+      "local_image_path": "images/34587.png"
+    },
+    {
+      "pos": "iv",
+      "example": "help out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34588.png",
+      "local_image_path": "images/34588.png"
+    },
+    {
+      "pos": "n",
+      "example": "I thank you for your help.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34589.png",
+      "local_image_path": "images/34589.png"
+    },
+    {
+      "pos": "n",
+      "example": "His words were a help.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34590.png",
+      "local_image_path": "images/34590.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Your advice helped me a lot.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34584.png",
+      "local_image_path": "images/34584.png"
+    },
+    {
+      "pos": "tv",
+      "example": "help a cause",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34585.png",
+      "local_image_path": "images/34585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "help the pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34586.png",
+      "local_image_path": "images/34586.png"
+    }
+  ],
+  "synonyms": [
+    "assistance",
+    "aid",
+    "benefit",
+    "support",
+    "service",
+    "relief",
+    "comfort",
+    "advantage",
+    "avoid",
+    "evade",
+    "stop",
+    "prevent",
+    "dodge"
+  ],
+  "antonyms": [
+    "hinder",
+    "worsen",
+    "hindrance"
+  ],
+  "similar_words": [
+    "help screen",
+    "helper",
+    "helpful",
+    "helpfully",
+    "helpfulness",
+    "helping",
+    "helpless",
+    "helplessly",
+    "helplessness",
+    "helpmate",
+    "helpmeet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/help.mp3",
+  "local_sound_path": "sounds/help.mp3"
+}

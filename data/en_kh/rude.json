@@ -1,0 +1,68 @@
+{
+  "word": "rude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74522.png",
+      "local_image_path": "images/74522.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rude person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74523.png",
+      "local_image_path": "images/74523.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74524.png",
+      "local_image_path": "images/74524.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rude accomodations",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74525.png",
+      "local_image_path": "images/74525.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74526.png",
+      "local_image_path": "images/74526.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127236.png",
+      "local_image_path": "images/127236.png"
+    }
+  ],
+  "synonyms": [
+    "impolite",
+    "discourteous",
+    "uncouth",
+    "offensive",
+    "foul",
+    "vulgar",
+    "boorish",
+    "disrespectful",
+    "crude",
+    "foul-mouthed",
+    "obscene",
+    "indecent"
+  ],
+  "antonyms": [
+    "polite"
+  ],
+  "similar_words": [
+    "rudely",
+    "rudeness",
+    "ruderal",
+    "rudesby"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rude.mp3",
+  "local_sound_path": "sounds/rude.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "unemployment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Unemployment is not good for you.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94251.png",
+      "local_image_path": "images/94251.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131672.png",
+      "local_image_path": "images/131672.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131706.png",
+      "local_image_path": "images/131706.png"
+    }
+  ],
+  "synonyms": [
+    "joblessness",
+    "redundancy",
+    "idleness"
+  ],
+  "antonyms": [
+    "employment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unemployment.mp3",
+  "local_sound_path": "sounds/unemployment.mp3"
+}

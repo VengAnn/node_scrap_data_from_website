@@ -1,0 +1,86 @@
+{
+  "word": "signal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79985.png",
+      "local_image_path": "images/79985.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79986.png",
+      "local_image_path": "images/79986.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79987.png",
+      "local_image_path": "images/79987.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a signal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79981.png",
+      "local_image_path": "images/79981.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79982.png",
+      "local_image_path": "images/79982.png"
+    },
+    {
+      "pos": "n",
+      "example": "Radio signal is weak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79983.png",
+      "local_image_path": "images/79983.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127861.png",
+      "local_image_path": "images/127861.png"
+    },
+    {
+      "pos": "tv",
+      "example": "signal a message",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79984.png",
+      "local_image_path": "images/79984.png"
+    }
+  ],
+  "synonyms": [
+    "indicate",
+    "show",
+    "suggest",
+    "intimate",
+    "imply",
+    "signify",
+    "communicate",
+    "hint"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "signal-book",
+    "signal-box",
+    "signal-corps",
+    "signal-fire",
+    "signal-flag",
+    "signal-gun",
+    "signal-lamp",
+    "signal-post",
+    "signal-station",
+    "signaler",
+    "signalist",
+    "signalize",
+    "signaller",
+    "signally",
+    "signalman",
+    "signalment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/signal.mp3",
+  "local_sound_path": "sounds/signal.mp3"
+}

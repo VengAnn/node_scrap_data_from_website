@@ -1,0 +1,39 @@
+{
+  "word": "easygoing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23722.png",
+      "local_image_path": "images/23722.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118866.png",
+      "local_image_path": "images/118866.png"
+    }
+  ],
+  "synonyms": [
+    "relaxed",
+    "laid-back",
+    "tolerant",
+    "calm",
+    "unconcerned",
+    "lenient",
+    "carefree",
+    "unhurried",
+    "agreeable",
+    "lackadaisical",
+    "mellow"
+  ],
+  "antonyms": [
+    "strict",
+    "anxious"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/easygoing.mp3",
+  "local_sound_path": "sounds/easygoing.mp3"
+}

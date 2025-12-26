@@ -1,0 +1,38 @@
+{
+  "word": "acoustic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2112.png",
+      "local_image_path": "images/2112.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111912.png",
+      "local_image_path": "images/111912.png"
+    }
+  ],
+  "synonyms": [
+    "audio",
+    "aural",
+    "auditory",
+    "sound",
+    "audile"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "acoustic guitar",
+    "acoustic mine",
+    "acoustic phonetics",
+    "acoustical cloud",
+    "acoustically",
+    "acoustician",
+    "acoustics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acoustic.mp3",
+  "local_sound_path": "sounds/acoustic.mp3"
+}

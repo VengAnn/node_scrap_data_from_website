@@ -1,0 +1,47 @@
+{
+  "word": "terrific",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "terrific battle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88436.png",
+      "local_image_path": "images/88436.png"
+    },
+    {
+      "pos": "adj",
+      "example": "have a terrific time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88437.png",
+      "local_image_path": "images/88437.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88438.png",
+      "local_image_path": "images/88438.png"
+    }
+  ],
+  "synonyms": [
+    "enormous",
+    "huge",
+    "massive",
+    "tremendous",
+    "awesome",
+    "extreme",
+    "excessive",
+    "great",
+    "wonderful",
+    "super",
+    "excellent",
+    "remarkable",
+    "superb"
+  ],
+  "antonyms": [
+    "dreadful",
+    "insignificant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/terrific.mp3",
+  "local_sound_path": "sounds/terrific.mp3"
+}

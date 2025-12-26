@@ -1,0 +1,40 @@
+{
+  "word": "servitude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78383.png",
+      "local_image_path": "images/78383.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131920.png",
+      "local_image_path": "images/131920.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131921.png",
+      "local_image_path": "images/131921.png"
+    }
+  ],
+  "synonyms": [
+    "subjection",
+    "subjugation",
+    "subordination",
+    "dependence",
+    "dependency",
+    "subservience"
+  ],
+  "antonyms": [
+    "freedom",
+    "liberty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/servitude.mp3",
+  "local_sound_path": "sounds/servitude.mp3"
+}

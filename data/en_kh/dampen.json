@@ -1,0 +1,41 @@
+{
+  "word": "dampen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19576.png",
+      "local_image_path": "images/19576.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dampen a cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19574.png",
+      "local_image_path": "images/19574.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dampen one's spirits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19575.png",
+      "local_image_path": "images/19575.png"
+    }
+  ],
+  "synonyms": [
+    "reduce",
+    "diminish",
+    "check",
+    "dull",
+    "damp",
+    "moisten",
+    "humidify",
+    "wet"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dampen.mp3",
+  "local_sound_path": "sounds/dampen.mp3"
+}

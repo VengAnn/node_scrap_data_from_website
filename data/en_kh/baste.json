@@ -1,0 +1,43 @@
+{
+  "word": "baste",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7689.png",
+      "local_image_path": "images/7689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7691.png",
+      "local_image_path": "images/7691.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7692.png",
+      "local_image_path": "images/7692.png"
+    }
+  ],
+  "synonyms": [
+    "stitch",
+    "seam",
+    "hem",
+    "embroider",
+    "darn",
+    "sew",
+    "tack"
+  ],
+  "antonyms": [
+    "unpick"
+  ],
+  "similar_words": [
+    "bastel house",
+    "baster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baste.mp3",
+  "local_sound_path": "sounds/baste.mp3"
+}

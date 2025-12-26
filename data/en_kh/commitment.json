@@ -1,0 +1,49 @@
+{
+  "word": "commitment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "commitment of money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16032.png",
+      "local_image_path": "images/16032.png"
+    },
+    {
+      "pos": "n",
+      "example": "previews commitment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16033.png",
+      "local_image_path": "images/16033.png"
+    },
+    {
+      "pos": "n",
+      "example": "financial commitment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16034.png",
+      "local_image_path": "images/16034.png"
+    },
+    {
+      "pos": "n",
+      "example": "commitment of patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16035.png",
+      "local_image_path": "images/16035.png"
+    }
+  ],
+  "synonyms": [
+    "obligation",
+    "duty",
+    "responsibility",
+    "liability",
+    "dedication",
+    "loyalty",
+    "devotion",
+    "steadfastness",
+    "allegiance",
+    "faithfulness"
+  ],
+  "antonyms": [
+    "indifference"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/commitment.mp3",
+  "local_sound_path": "sounds/commitment.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "bout",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "boxing bout",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10395.png",
+      "local_image_path": "images/10395.png"
+    }
+  ],
+  "synonyms": [
+    "session",
+    "spell",
+    "attack",
+    "fit",
+    "stretch",
+    "stint"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "boutique",
+    "bouton",
+    "boutonniere"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bout.mp3",
+  "local_sound_path": "sounds/bout.mp3"
+}

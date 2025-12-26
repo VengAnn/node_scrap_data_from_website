@@ -1,0 +1,45 @@
+{
+  "word": "obvious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57061.png",
+      "local_image_path": "images/57061.png"
+    },
+    {
+      "pos": "adj",
+      "example": "obvious conclusion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57062.png",
+      "local_image_path": "images/57062.png"
+    },
+    {
+      "pos": "adj",
+      "example": "symptoms become obvious",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57063.png",
+      "local_image_path": "images/57063.png"
+    }
+  ],
+  "synonyms": [
+    "clear",
+    "understandable",
+    "palpable",
+    "noticeable",
+    "apparent",
+    "evident",
+    "observable",
+    "recognizable",
+    "discernible"
+  ],
+  "antonyms": [
+    "obscure"
+  ],
+  "similar_words": [
+    "obviously",
+    "obviousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obvious.mp3",
+  "local_sound_path": "sounds/obvious.mp3"
+}

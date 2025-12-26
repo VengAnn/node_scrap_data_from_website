@@ -1,0 +1,32 @@
+{
+  "word": "debut",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19894.png",
+      "local_image_path": "images/19894.png"
+    },
+    {
+      "pos": "v",
+      "example": "Apple CEO debuts new iPhone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19895.png",
+      "local_image_path": "images/19895.png"
+    }
+  ],
+  "synonyms": [
+    "entrance",
+    "introduction",
+    "presentation"
+  ],
+  "antonyms": [
+    "retirement"
+  ],
+  "similar_words": [
+    "debutante"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debut.mp3",
+  "local_sound_path": "sounds/debut.mp3"
+}

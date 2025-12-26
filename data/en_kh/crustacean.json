@@ -1,0 +1,41 @@
+{
+  "word": "crustacean",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18879.png",
+      "local_image_path": "images/18879.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18878.png",
+      "local_image_path": "images/18878.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131737.png",
+      "local_image_path": "images/131737.png"
+    }
+  ],
+  "synonyms": [
+    "shellfish",
+    "lobster",
+    "crawfish",
+    "prawn",
+    "shrimp",
+    "oyster",
+    "mussel",
+    "cockle",
+    "whelk",
+    "clam"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crustacean.mp3",
+  "local_sound_path": "sounds/crustacean.mp3"
+}

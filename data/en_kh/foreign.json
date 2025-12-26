@@ -1,0 +1,56 @@
+{
+  "word": "foreign",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "foreign language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29710.png",
+      "local_image_path": "images/29710.png"
+    },
+    {
+      "pos": "adj",
+      "example": "foreign to my experience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29711.png",
+      "local_image_path": "images/29711.png"
+    }
+  ],
+  "synonyms": [
+    "unrelated",
+    "extraneous",
+    "irrelevant",
+    "external",
+    "strange",
+    "unfamiliar",
+    "unknown",
+    "alien",
+    "exotic",
+    "outlandish"
+  ],
+  "antonyms": [
+    "native",
+    "familiar",
+    "relevant",
+    "indigenous"
+  ],
+  "similar_words": [
+    "foreign accounts",
+    "foreign affairs",
+    "foreign aid",
+    "foreign bill",
+    "foreign correspondent",
+    "foreign exchange",
+    "foreign exchange transfer",
+    "foreign minister",
+    "foreign mission",
+    "foreign policy",
+    "foreign service",
+    "foreign tourism",
+    "foreign-born",
+    "foreigner",
+    "foreignism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foreign.mp3",
+  "local_sound_path": "sounds/foreign.mp3"
+}

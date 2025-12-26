@@ -1,0 +1,46 @@
+{
+  "word": "accommodation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He did it as an acommodation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1868.png",
+      "local_image_path": "images/1868.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111972.png",
+      "local_image_path": "images/111972.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111973.png",
+      "local_image_path": "images/111973.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113129.png",
+      "local_image_path": "images/113129.png"
+    }
+  ],
+  "synonyms": [
+    "adjustment",
+    "adaptation",
+    "alteration",
+    "change",
+    "modification"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "accommodation address",
+    "accommodation ladder",
+    "accommodation party"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accommodation.mp3",
+  "local_sound_path": "sounds/accommodation.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "drudge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23242.png",
+      "local_image_path": "images/23242.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118809.png",
+      "local_image_path": "images/118809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23241.png",
+      "local_image_path": "images/23241.png"
+    }
+  ],
+  "synonyms": [
+    "toil",
+    "labor",
+    "grind",
+    "plod",
+    "slog",
+    "skivvy",
+    "graft",
+    "work"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drudge.mp3",
+  "local_sound_path": "sounds/drudge.mp3"
+}

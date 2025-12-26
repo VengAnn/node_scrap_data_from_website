@@ -1,0 +1,37 @@
+{
+  "word": "destined",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "destined for Chicago",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20936.png",
+      "local_image_path": "images/20936.png"
+    },
+    {
+      "pos": "adj",
+      "example": "destined for home use",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20937.png",
+      "local_image_path": "images/20937.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20938.png",
+      "local_image_path": "images/20938.png"
+    }
+  ],
+  "synonyms": [
+    "intended",
+    "meant",
+    "fated",
+    "certain",
+    "decided",
+    "prearranged"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/destined.mp3",
+  "local_sound_path": "sounds/destined.mp3"
+}

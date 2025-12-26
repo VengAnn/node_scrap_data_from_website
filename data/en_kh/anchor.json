@@ -1,0 +1,54 @@
+{
+  "word": "anchor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4153.png",
+      "local_image_path": "images/4153.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4151.png",
+      "local_image_path": "images/4151.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4152.png",
+      "local_image_path": "images/4152.png"
+    }
+  ],
+  "synonyms": [
+    "commentator",
+    "presenter",
+    "announcer",
+    "fasten",
+    "attach",
+    "fix",
+    "affix",
+    "secure",
+    "moor"
+  ],
+  "antonyms": [
+    "unfasten"
+  ],
+  "similar_words": [
+    "anchorage",
+    "anchorage analogy",
+    "anchoress",
+    "anchoret",
+    "anchoring",
+    "anchorite",
+    "anchorite analogy",
+    "anchoritic",
+    "anchorless",
+    "anchorman",
+    "anchorwoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anchor.mp3",
+  "local_sound_path": "sounds/anchor.mp3"
+}

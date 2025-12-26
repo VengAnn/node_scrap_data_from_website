@@ -1,0 +1,59 @@
+{
+  "word": "clerical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "clerical assistance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14973.png",
+      "local_image_path": "images/14973.png"
+    },
+    {
+      "pos": "adj",
+      "example": "clerical powere",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14974.png",
+      "local_image_path": "images/14974.png"
+    },
+    {
+      "pos": "adj",
+      "example": "clerical error",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14975.png",
+      "local_image_path": "images/14975.png"
+    },
+    {
+      "pos": "adj",
+      "example": "clerical staff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14976.png",
+      "local_image_path": "images/14976.png"
+    },
+    {
+      "pos": "adj",
+      "example": "clerical work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14977.png",
+      "local_image_path": "images/14977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14978.png",
+      "local_image_path": "images/14978.png"
+    }
+  ],
+  "synonyms": [
+    "priestly",
+    "religious",
+    "secretarial",
+    "office",
+    "bookkeeping",
+    "accounting"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clericalism",
+    "clericalist",
+    "clerically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clerical.mp3",
+  "local_sound_path": "sounds/clerical.mp3"
+}

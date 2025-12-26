@@ -1,0 +1,52 @@
+{
+  "word": "twine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92664.png",
+      "local_image_path": "images/92664.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92663.png",
+      "local_image_path": "images/92663.png"
+    },
+    {
+      "pos": "tv",
+      "example": "twine flowers into a garland.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92665.png",
+      "local_image_path": "images/92665.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128573.png",
+      "local_image_path": "images/128573.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128574.png",
+      "local_image_path": "images/128574.png"
+    }
+  ],
+  "synonyms": [
+    "coil",
+    "twist",
+    "wind",
+    "loop",
+    "snake",
+    "twirl",
+    "weave",
+    "curl",
+    "bend"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twine.mp3",
+  "local_sound_path": "sounds/twine.mp3"
+}

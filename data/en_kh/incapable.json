@@ -1,0 +1,41 @@
+{
+  "word": "incapable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38255.png",
+      "local_image_path": "images/38255.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121903.png",
+      "local_image_path": "images/121903.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121904.png",
+      "local_image_path": "images/121904.png"
+    }
+  ],
+  "synonyms": [
+    "helpless",
+    "weak",
+    "vulnerable",
+    "feeble",
+    "frail",
+    "dependent"
+  ],
+  "antonyms": [
+    "capable",
+    "able",
+    "strong"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incapable.mp3",
+  "local_sound_path": "sounds/incapable.mp3"
+}

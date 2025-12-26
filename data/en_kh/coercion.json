@@ -1,0 +1,40 @@
+{
+  "word": "coercion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he paid the money under coercion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15482.png",
+      "local_image_path": "images/15482.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116610.png",
+      "local_image_path": "images/116610.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116611.png",
+      "local_image_path": "images/116611.png"
+    }
+  ],
+  "synonyms": [
+    "compulsion",
+    "force",
+    "intimidation",
+    "oppression",
+    "cruelty",
+    "duress",
+    "pressure"
+  ],
+  "antonyms": [
+    "persuasion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coercion.mp3",
+  "local_sound_path": "sounds/coercion.mp3"
+}

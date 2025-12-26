@@ -1,0 +1,57 @@
+{
+  "word": "edit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23887.png",
+      "local_image_path": "images/23887.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23888.png",
+      "local_image_path": "images/23888.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23889.png",
+      "local_image_path": "images/23889.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23890.png",
+      "local_image_path": "images/23890.png"
+    }
+  ],
+  "synonyms": [
+    "oversee",
+    "run",
+    "manage",
+    "correct",
+    "revise",
+    "amend",
+    "change",
+    "alter",
+    "rework",
+    "rewrite",
+    "rearrange",
+    "rehash",
+    "improve"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "editableness",
+    "edition",
+    "editor",
+    "editorial",
+    "editorship",
+    "editress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/edit.mp3",
+  "local_sound_path": "sounds/edit.mp3"
+}

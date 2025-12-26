@@ -1,0 +1,39 @@
+{
+  "word": "humiliation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36333.png",
+      "local_image_path": "images/36333.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121267.png",
+      "local_image_path": "images/121267.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121268.png",
+      "local_image_path": "images/121268.png"
+    }
+  ],
+  "synonyms": [
+    "disgrace",
+    "shame",
+    "mortification",
+    "embarrassment",
+    "dishonor",
+    "degradation"
+  ],
+  "antonyms": [
+    "dignity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/humiliation.mp3",
+  "local_sound_path": "sounds/humiliation.mp3"
+}

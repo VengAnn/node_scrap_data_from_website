@@ -1,0 +1,44 @@
+{
+  "word": "treatment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cruel treatment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91428.png",
+      "local_image_path": "images/91428.png"
+    },
+    {
+      "pos": "n",
+      "example": "prescribed treatment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91429.png",
+      "local_image_path": "images/91429.png"
+    },
+    {
+      "pos": "n",
+      "example": "the treatment of patients",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91430.png",
+      "local_image_path": "images/91430.png"
+    },
+    {
+      "pos": "n",
+      "example": "a treatment of acid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91431.png",
+      "local_image_path": "images/91431.png"
+    }
+  ],
+  "synonyms": [
+    "cure",
+    "healing",
+    "care",
+    "medicine",
+    "medication",
+    "therapy",
+    "remedy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/treatment.mp3",
+  "local_sound_path": "sounds/treatment.mp3"
+}

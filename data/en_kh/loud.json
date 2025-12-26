@@ -1,0 +1,58 @@
+{
+  "word": "loud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "loud noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47716.png",
+      "local_image_path": "images/47716.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lound children",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47717.png",
+      "local_image_path": "images/47717.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lound colors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47718.png",
+      "local_image_path": "images/47718.png"
+    }
+  ],
+  "synonyms": [
+    "lurid",
+    "flamboyant",
+    "brassy",
+    "brash",
+    "flashy",
+    "gaudy",
+    "vulgar",
+    "vociferous",
+    "rowdy",
+    "boisterous",
+    "raucous",
+    "noisy",
+    "loudmouthed",
+    "forceful",
+    "voluble",
+    "riotous"
+  ],
+  "antonyms": [
+    "quiet",
+    "gentle"
+  ],
+  "similar_words": [
+    "loud hailer",
+    "loud speaker",
+    "louden",
+    "loudering",
+    "loudly",
+    "loudmouthed",
+    "loudness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/loud.mp3",
+  "local_sound_path": "sounds/loud.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "drivel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23178.png",
+      "local_image_path": "images/23178.png"
+    },
+    {
+      "pos": "n",
+      "example": "don't talk drivel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23177.png",
+      "local_image_path": "images/23177.png"
+    }
+  ],
+  "synonyms": [
+    "nonsense",
+    "foolishness",
+    "poppycock",
+    "idiocy",
+    "claptrap",
+    "rubbish",
+    "rot",
+    "tosh"
+  ],
+  "antonyms": [
+    "sense"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drivel.mp3",
+  "local_sound_path": "sounds/drivel.mp3"
+}

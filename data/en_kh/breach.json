@@ -1,0 +1,66 @@
+{
+  "word": "breach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "breach in the wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10809.png",
+      "local_image_path": "images/10809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115560.png",
+      "local_image_path": "images/115560.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115561.png",
+      "local_image_path": "images/115561.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115562.png",
+      "local_image_path": "images/115562.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115563.png",
+      "local_image_path": "images/115563.png"
+    },
+    {
+      "pos": "tv",
+      "example": "breach a law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10810.png",
+      "local_image_path": "images/10810.png"
+    }
+  ],
+  "synonyms": [
+    "opening",
+    "break",
+    "gap",
+    "hole",
+    "crack",
+    "fissure",
+    "violate",
+    "contravene",
+    "infringe",
+    "flout",
+    "disobey"
+  ],
+  "antonyms": [
+    "honor",
+    "obstacle",
+    "compliance",
+    "reconciliation",
+    "block"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breach.mp3",
+  "local_sound_path": "sounds/breach.mp3"
+}

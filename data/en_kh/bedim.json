@@ -1,0 +1,30 @@
+{
+  "word": "bedim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "eyes bedimmed with tears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7995.png",
+      "local_image_path": "images/7995.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114805.png",
+      "local_image_path": "images/114805.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114806.png",
+      "local_image_path": "images/114806.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bedim.mp3",
+  "local_sound_path": "sounds/bedim.mp3"
+}

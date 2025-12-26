@@ -1,0 +1,40 @@
+{
+  "word": "characterize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "how would you characterize him?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13847.png",
+      "local_image_path": "images/13847.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116187.png",
+      "local_image_path": "images/116187.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116188.png",
+      "local_image_path": "images/116188.png"
+    }
+  ],
+  "synonyms": [
+    "describe",
+    "portray",
+    "illustrate",
+    "depict",
+    "typify",
+    "symbolize",
+    "exemplify",
+    "personify",
+    "embody"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/characterize.mp3",
+  "local_sound_path": "sounds/characterize.mp3"
+}

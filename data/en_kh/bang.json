@@ -1,0 +1,91 @@
+{
+  "word": "bang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7314.png",
+      "local_image_path": "images/7314.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114526.png",
+      "local_image_path": "images/114526.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114527.png",
+      "local_image_path": "images/114527.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114528.png",
+      "local_image_path": "images/114528.png"
+    },
+    {
+      "pos": "iv",
+      "example": "bang in the wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7311.png",
+      "local_image_path": "images/7311.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7309.png",
+      "local_image_path": "images/7309.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7312.png",
+      "local_image_path": "images/7312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114529.png",
+      "local_image_path": "images/114529.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130975.png",
+      "local_image_path": "images/130975.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bang the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7310.png",
+      "local_image_path": "images/7310.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7313.png",
+      "local_image_path": "images/7313.png"
+    }
+  ],
+  "synonyms": [
+    "bump",
+    "knock",
+    "jolt",
+    "hit",
+    "collide",
+    "crash"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bang-tail",
+    "bang-up",
+    "banger",
+    "Bangkok",
+    "bangle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bang.mp3",
+  "local_sound_path": "sounds/bang.mp3"
+}

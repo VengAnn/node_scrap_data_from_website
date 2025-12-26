@@ -1,0 +1,42 @@
+{
+  "word": "waft",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Delicious smells wafted up from the kitchen.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98760.png",
+      "local_image_path": "images/98760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98761.png",
+      "local_image_path": "images/98761.png"
+    }
+  ],
+  "synonyms": [
+    "puff",
+    "breath",
+    "gust",
+    "breeze",
+    "drift",
+    "float",
+    "fan",
+    "blow",
+    "come",
+    "arrive",
+    "go",
+    "glide",
+    "sail"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "waftage",
+    "wafter",
+    "wafture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/waft.mp3",
+  "local_sound_path": "sounds/waft.mp3"
+}

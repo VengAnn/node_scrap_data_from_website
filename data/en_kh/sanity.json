@@ -1,0 +1,44 @@
+{
+  "word": "sanity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "question his sanity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75728.png",
+      "local_image_path": "images/75728.png"
+    },
+    {
+      "pos": "n",
+      "example": "sanity of his suggestion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75729.png",
+      "local_image_path": "images/75729.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75730.png",
+      "local_image_path": "images/75730.png"
+    }
+  ],
+  "synonyms": [
+    "good sense",
+    "wisdom",
+    "reason",
+    "understanding",
+    "common sense",
+    "sense",
+    "judgment",
+    "reasonableness",
+    "rationality",
+    "soundness"
+  ],
+  "antonyms": [
+    "insanity",
+    "unreasonableness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sanity.mp3",
+  "local_sound_path": "sounds/sanity.mp3"
+}

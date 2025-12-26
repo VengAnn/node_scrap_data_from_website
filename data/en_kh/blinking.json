@@ -1,0 +1,30 @@
+{
+  "word": "blinking",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9563.png",
+      "local_image_path": "images/9563.png"
+    }
+  ],
+  "synonyms": [
+    "irregular",
+    "intermittent",
+    "broken",
+    "discontinuous",
+    "sporadic",
+    "winking",
+    "twinkling",
+    "shining",
+    "glimmering"
+  ],
+  "antonyms": [
+    "constant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blinking.mp3",
+  "local_sound_path": "sounds/blinking.mp3"
+}

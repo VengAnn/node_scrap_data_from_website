@@ -1,0 +1,28 @@
+{
+  "word": "activate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2240.png",
+      "local_image_path": "images/2240.png"
+    }
+  ],
+  "synonyms": [
+    "trigger",
+    "start",
+    "stimulate",
+    "galvanize",
+    "initiate",
+    "motivate",
+    "actuate"
+  ],
+  "antonyms": [
+    "stop"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/activate.mp3",
+  "local_sound_path": "sounds/activate.mp3"
+}

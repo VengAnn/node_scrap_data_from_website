@@ -1,0 +1,80 @@
+{
+  "word": "table",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dining table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87096.png",
+      "local_image_path": "images/87096.png"
+    },
+    {
+      "pos": "n",
+      "example": "table of contents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87097.png",
+      "local_image_path": "images/87097.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87098.png",
+      "local_image_path": "images/87098.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87099.png",
+      "local_image_path": "images/87099.png"
+    },
+    {
+      "pos": "tv",
+      "example": "table figures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87100.png",
+      "local_image_path": "images/87100.png"
+    },
+    {
+      "pos": "tv",
+      "example": "table a motion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87101.png",
+      "local_image_path": "images/87101.png"
+    }
+  ],
+  "synonyms": [
+    "postpone",
+    "shelve",
+    "propose",
+    "submit",
+    "suggest",
+    "enter",
+    "move"
+  ],
+  "antonyms": [
+    "withdraw"
+  ],
+  "similar_words": [
+    "table dancing",
+    "table knife",
+    "table linen",
+    "table manners",
+    "table salt",
+    "table sugar",
+    "table tennis",
+    "table wine",
+    "table-hop",
+    "table-hopper",
+    "table-mat",
+    "table-top",
+    "tableau",
+    "tableaux vivants",
+    "tablecloth",
+    "tableland",
+    "tablemountain",
+    "tablespoon",
+    "tablespoonful",
+    "tablet",
+    "tableware"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/table.mp3",
+  "local_sound_path": "sounds/table.mp3"
+}

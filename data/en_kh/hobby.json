@@ -1,0 +1,41 @@
+{
+  "word": "hobby",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35464.png",
+      "local_image_path": "images/35464.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35465.png",
+      "local_image_path": "images/35465.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121148.png",
+      "local_image_path": "images/121148.png"
+    }
+  ],
+  "synonyms": [
+    "pastime",
+    "diversion",
+    "relaxation",
+    "sideline",
+    "fad",
+    "interest"
+  ],
+  "antonyms": [
+    "job"
+  ],
+  "similar_words": [
+    "hobbyhorse"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hobby.mp3",
+  "local_sound_path": "sounds/hobby.mp3"
+}

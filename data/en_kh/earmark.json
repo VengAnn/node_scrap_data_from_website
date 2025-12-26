@@ -1,0 +1,38 @@
+{
+  "word": "earmark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23638.png",
+      "local_image_path": "images/23638.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23639.png",
+      "local_image_path": "images/23639.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118855.png",
+      "local_image_path": "images/118855.png"
+    }
+  ],
+  "synonyms": [
+    "allocate",
+    "assign",
+    "allot",
+    "tag",
+    "save",
+    "reserve",
+    "keep"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/earmark.mp3",
+  "local_sound_path": "sounds/earmark.mp3"
+}

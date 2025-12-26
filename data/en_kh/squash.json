@@ -1,0 +1,66 @@
+{
+  "word": "squash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hear a squash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83909.png",
+      "local_image_path": "images/83909.png"
+    },
+    {
+      "pos": "n",
+      "example": "play squash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83910.png",
+      "local_image_path": "images/83910.png"
+    },
+    {
+      "pos": "n",
+      "example": "orange squash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83911.png",
+      "local_image_path": "images/83911.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83912.png",
+      "local_image_path": "images/83912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "squash a rebellion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83906.png",
+      "local_image_path": "images/83906.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83907.png",
+      "local_image_path": "images/83907.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tomatoes squash easily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83908.png",
+      "local_image_path": "images/83908.png"
+    }
+  ],
+  "synonyms": [
+    "overcome",
+    "stop",
+    "conquer",
+    "suppress",
+    "quash",
+    "quell",
+    "annihilate"
+  ],
+  "antonyms": [
+    "reshape",
+    "coax",
+    "encourage"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/squash.mp3",
+  "local_sound_path": "sounds/squash.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "auditory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6388.png",
+      "local_image_path": "images/6388.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114273.png",
+      "local_image_path": "images/114273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6389.png",
+      "local_image_path": "images/6389.png"
+    }
+  ],
+  "synonyms": [
+    "aural",
+    "hearing",
+    "acoustic",
+    "audio"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/auditory.mp3",
+  "local_sound_path": "sounds/auditory.mp3"
+}

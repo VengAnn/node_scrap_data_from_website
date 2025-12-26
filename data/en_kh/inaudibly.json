@@ -1,0 +1,32 @@
+{
+  "word": "inaudibly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38191.png",
+      "local_image_path": "images/38191.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121888.png",
+      "local_image_path": "images/121888.png"
+    }
+  ],
+  "synonyms": [
+    "indistinctly",
+    "faintly",
+    "silently",
+    "noiselessly"
+  ],
+  "antonyms": [
+    "audibly",
+    "perceptibly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inaudibly.mp3",
+  "local_sound_path": "sounds/inaudibly.mp3"
+}

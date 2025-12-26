@@ -1,0 +1,35 @@
+{
+  "word": "discern",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "discern the meaning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21635.png",
+      "local_image_path": "images/21635.png"
+    }
+  ],
+  "synonyms": [
+    "notice",
+    "see",
+    "perceive",
+    "discover",
+    "observe",
+    "glimpse",
+    "detect",
+    "spot"
+  ],
+  "antonyms": [
+    "miss"
+  ],
+  "similar_words": [
+    "discerner",
+    "discernible",
+    "discernibly",
+    "discerning",
+    "discernment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discern.mp3",
+  "local_sound_path": "sounds/discern.mp3"
+}

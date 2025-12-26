@@ -1,0 +1,31 @@
+{
+  "word": "banishment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7323.png",
+      "local_image_path": "images/7323.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130976.png",
+      "local_image_path": "images/130976.png"
+    }
+  ],
+  "synonyms": [
+    "expulsion",
+    "exile",
+    "deportation",
+    "eviction",
+    "exclusion",
+    "transportation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banishment.mp3",
+  "local_sound_path": "sounds/banishment.mp3"
+}

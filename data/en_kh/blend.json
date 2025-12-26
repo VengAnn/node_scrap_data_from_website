@@ -1,0 +1,70 @@
+{
+  "word": "blend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9510.png",
+      "local_image_path": "images/9510.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9511.png",
+      "local_image_path": "images/9511.png"
+    },
+    {
+      "pos": "tv",
+      "example": "blend coffe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9509.png",
+      "local_image_path": "images/9509.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115197.png",
+      "local_image_path": "images/115197.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115198.png",
+      "local_image_path": "images/115198.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115199.png",
+      "local_image_path": "images/115199.png"
+    }
+  ],
+  "synonyms": [
+    "mixture",
+    "merger",
+    "combination",
+    "m�lange",
+    "balance",
+    "assortment",
+    "mix",
+    "merge",
+    "combine",
+    "unify",
+    "intermingle",
+    "mingle",
+    "amalgamate",
+    "meld"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "blended",
+    "blended family",
+    "blender",
+    "blendure"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blend.mp3",
+  "local_sound_path": "sounds/blend.mp3"
+}

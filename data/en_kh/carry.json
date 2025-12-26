@@ -1,0 +1,41 @@
+{
+  "word": "carry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "we must carry on our work soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13101.png",
+      "local_image_path": "images/13101.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Please you help me carry this case",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13100.png",
+      "local_image_path": "images/13100.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130981.png",
+      "local_image_path": "images/130981.png"
+    }
+  ],
+  "synonyms": [
+    "stock",
+    "store",
+    "keep",
+    "supply"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "carry-out",
+    "carry-over",
+    "carrying capacity",
+    "carrying charge",
+    "carryon"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carry.mp3",
+  "local_sound_path": "sounds/carry.mp3"
+}

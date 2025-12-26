@@ -1,0 +1,50 @@
+{
+  "word": "marked",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106335.png",
+      "local_image_path": "images/106335.png"
+    },
+    {
+      "pos": "adj",
+      "example": "marked improvement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106336.png",
+      "local_image_path": "images/106336.png"
+    },
+    {
+      "pos": "adj",
+      "example": "marked man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106337.png",
+      "local_image_path": "images/106337.png"
+    }
+  ],
+  "synonyms": [
+    "noticeable",
+    "clear",
+    "obvious",
+    "patent",
+    "manifest",
+    "discernible",
+    "striking",
+    "distinct",
+    "evident",
+    "conspicuous",
+    "perceptible",
+    "apparent",
+    "celebrated",
+    "kept"
+  ],
+  "antonyms": [
+    "obscure"
+  ],
+  "similar_words": [
+    "markedly",
+    "markedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/marked.mp3",
+  "local_sound_path": "sounds/marked.mp3"
+}

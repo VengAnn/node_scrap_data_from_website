@@ -1,0 +1,76 @@
+{
+  "word": "fault",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27833.png",
+      "local_image_path": "images/27833.png"
+    },
+    {
+      "pos": "n",
+      "example": "It is my fault.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27828.png",
+      "local_image_path": "images/27828.png"
+    },
+    {
+      "pos": "n",
+      "example": "character fault",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27829.png",
+      "local_image_path": "images/27829.png"
+    },
+    {
+      "pos": "n",
+      "example": "at fault",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27830.png",
+      "local_image_path": "images/27830.png"
+    },
+    {
+      "pos": "n",
+      "example": "geological fault",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27831.png",
+      "local_image_path": "images/27831.png"
+    },
+    {
+      "pos": "tv",
+      "example": "No one could fault his performance.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27832.png",
+      "local_image_path": "images/27832.png"
+    }
+  ],
+  "synonyms": [
+    "weakness",
+    "failing",
+    "imperfection",
+    "defect",
+    "flaw",
+    "deficiency",
+    "drawback",
+    "criticize",
+    "blame",
+    "question",
+    "censure",
+    "condemn"
+  ],
+  "antonyms": [
+    "praise",
+    "strength",
+    "asset"
+  ],
+  "similar_words": [
+    "fault plane",
+    "fault-finder",
+    "fault-finding",
+    "faulter",
+    "faultily",
+    "faultiness",
+    "faultless",
+    "faultlessly",
+    "faultlessness",
+    "faulty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fault.mp3",
+  "local_sound_path": "sounds/fault.mp3"
+}

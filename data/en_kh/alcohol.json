@@ -1,0 +1,45 @@
+{
+  "word": "alcohol",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "drink alcohol",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3275.png",
+      "local_image_path": "images/3275.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113498.png",
+      "local_image_path": "images/113498.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113499.png",
+      "local_image_path": "images/113499.png"
+    }
+  ],
+  "synonyms": [
+    "liquor",
+    "whiskey",
+    "whisky",
+    "malt",
+    "spirit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "alcoholic",
+    "alcoholic drink",
+    "alcoholicity",
+    "alcoholism",
+    "alcoholization",
+    "alcoholize",
+    "alcoholometer",
+    "alcoholuria"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alcohol.mp3",
+  "local_sound_path": "sounds/alcohol.mp3"
+}

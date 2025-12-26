@@ -1,0 +1,37 @@
+{
+  "word": "conscript",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16942.png",
+      "local_image_path": "images/16942.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16943.png",
+      "local_image_path": "images/16943.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16941.png",
+      "local_image_path": "images/16941.png"
+    }
+  ],
+  "synonyms": [
+    "draftee",
+    "recruit",
+    "rookie",
+    "draft",
+    "enlist",
+    "enroll"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conscript.mp3",
+  "local_sound_path": "sounds/conscript.mp3"
+}

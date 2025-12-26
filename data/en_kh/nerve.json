@@ -1,0 +1,68 @@
+{
+  "word": "nerve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "get on one's nerves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55449.png",
+      "local_image_path": "images/55449.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55448.png",
+      "local_image_path": "images/55448.png"
+    },
+    {
+      "pos": "n",
+      "example": "sensitive nerve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55445.png",
+      "local_image_path": "images/55445.png"
+    },
+    {
+      "pos": "n",
+      "example": "lose one's nerve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55446.png",
+      "local_image_path": "images/55446.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55450.png",
+      "local_image_path": "images/55450.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55451.png",
+      "local_image_path": "images/55451.png"
+    }
+  ],
+  "synonyms": [
+    "impudence",
+    "face",
+    "audacity",
+    "insolence",
+    "effrontery",
+    "prepare",
+    "steel",
+    "brace",
+    "motivate",
+    "psych"
+  ],
+  "antonyms": [
+    "cowardice"
+  ],
+  "similar_words": [
+    "nerve-racking",
+    "nerved",
+    "nerveless",
+    "nervelessly",
+    "nervelessness",
+    "nerves"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nerve.mp3",
+  "local_sound_path": "sounds/nerve.mp3"
+}

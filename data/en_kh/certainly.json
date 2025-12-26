@@ -1,0 +1,30 @@
+{
+  "word": "certainly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "he will certainly die if you don't call a doctor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13661.png",
+      "local_image_path": "images/13661.png"
+    }
+  ],
+  "synonyms": [
+    "indeed",
+    "definitely",
+    "absolutely",
+    "sure",
+    "indubitably",
+    "emphatically",
+    "okay",
+    "naturally"
+  ],
+  "antonyms": [
+    "doubtfully",
+    "possibly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/certainly.mp3",
+  "local_sound_path": "sounds/certainly.mp3"
+}

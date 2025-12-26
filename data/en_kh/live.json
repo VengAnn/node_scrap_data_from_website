@@ -1,0 +1,108 @@
+{
+  "word": "live",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47116.png",
+      "local_image_path": "images/47116.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Where do you live?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47109.png",
+      "local_image_path": "images/47109.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47110.png",
+      "local_image_path": "images/47110.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47111.png",
+      "local_image_path": "images/47111.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47112.png",
+      "local_image_path": "images/47112.png"
+    },
+    {
+      "pos": "iv",
+      "example": "live for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47113.png",
+      "local_image_path": "images/47113.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The doctors don't think he will live through the night.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47114.png",
+      "local_image_path": "images/47114.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Where do you live?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47115.png",
+      "local_image_path": "images/47115.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123598.png",
+      "local_image_path": "images/123598.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123599.png",
+      "local_image_path": "images/123599.png"
+    }
+  ],
+  "synonyms": [
+    "living",
+    "animate",
+    "conscious",
+    "breathing",
+    "aware",
+    "sentient",
+    "reside",
+    "stay",
+    "dwell",
+    "inhabit",
+    "settle",
+    "abide",
+    "occupy"
+  ],
+  "antonyms": [
+    "die",
+    "dead"
+  ],
+  "similar_words": [
+    "live ammunition",
+    "live in idleness",
+    "liveable",
+    "liveable in",
+    "liveable with",
+    "liveableness",
+    "lived",
+    "livelihood",
+    "livelily",
+    "liveliness",
+    "livelong",
+    "lively",
+    "liven",
+    "liver",
+    "liver fluke",
+    "liverance",
+    "livered",
+    "liverish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/live.mp3",
+  "local_sound_path": "sounds/live.mp3"
+}

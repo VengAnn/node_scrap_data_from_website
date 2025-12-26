@@ -1,0 +1,82 @@
+{
+  "word": "access",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "have access to the president",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1814.png",
+      "local_image_path": "images/1814.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113115.png",
+      "local_image_path": "images/113115.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113116.png",
+      "local_image_path": "images/113116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113117.png",
+      "local_image_path": "images/113117.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113118.png",
+      "local_image_path": "images/113118.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1815.png",
+      "local_image_path": "images/1815.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1817.png",
+      "local_image_path": "images/1817.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111988.png",
+      "local_image_path": "images/111988.png"
+    }
+  ],
+  "synonyms": [
+    "retrieve",
+    "open",
+    "read",
+    "edit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "access code",
+    "access provider",
+    "access road",
+    "access time",
+    "accessibility",
+    "accessible",
+    "accessibleness",
+    "accessibly",
+    "accession",
+    "accessional",
+    "accessorial",
+    "accessories",
+    "accessorily",
+    "accessoriness",
+    "accessorize",
+    "accessory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/access.mp3",
+  "local_sound_path": "sounds/access.mp3"
+}

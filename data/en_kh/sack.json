@@ -1,0 +1,82 @@
+{
+  "word": "sack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sack of rice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74907.png",
+      "local_image_path": "images/74907.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74915.png",
+      "local_image_path": "images/74915.png"
+    },
+    {
+      "pos": "sl",
+      "example": "hit the sack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74908.png",
+      "local_image_path": "images/74908.png"
+    },
+    {
+      "pos": "sl",
+      "example": "give him the sack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74909.png",
+      "local_image_path": "images/74909.png"
+    },
+    {
+      "pos": "sl",
+      "example": "He got the sack for laziness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74910.png",
+      "local_image_path": "images/74910.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sack rice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74911.png",
+      "local_image_path": "images/74911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sack an employee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74912.png",
+      "local_image_path": "images/74912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74914.png",
+      "local_image_path": "images/74914.png"
+    }
+  ],
+  "synonyms": [
+    "ransack",
+    "destroy",
+    "pillage",
+    "ruin",
+    "plunder",
+    "despoil"
+  ],
+  "antonyms": [
+    "hire",
+    "employ"
+  ],
+  "similar_words": [
+    "sack cloth",
+    "sack-barrow",
+    "sack-but",
+    "sack-coat",
+    "sack-holder",
+    "sack-race",
+    "sackage",
+    "sacker",
+    "sackful",
+    "sacking",
+    "sackless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sack.mp3",
+  "local_sound_path": "sounds/sack.mp3"
+}

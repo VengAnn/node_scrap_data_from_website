@@ -1,0 +1,87 @@
+{
+  "word": "infringe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39845.png",
+      "local_image_path": "images/39845.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39843.png",
+      "local_image_path": "images/39843.png"
+    },
+    {
+      "pos": "tv",
+      "example": "infringe a copyright",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39844.png",
+      "local_image_path": "images/39844.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122384.png",
+      "local_image_path": "images/122384.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122385.png",
+      "local_image_path": "images/122385.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122386.png",
+      "local_image_path": "images/122386.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122387.png",
+      "local_image_path": "images/122387.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130426.png",
+      "local_image_path": "images/130426.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130427.png",
+      "local_image_path": "images/130427.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130428.png",
+      "local_image_path": "images/130428.png"
+    }
+  ],
+  "synonyms": [
+    "break",
+    "disobey",
+    "breach",
+    "violate",
+    "contravene",
+    "flout",
+    "disregard",
+    "transgress"
+  ],
+  "antonyms": [
+    "obey",
+    "respect"
+  ],
+  "similar_words": [
+    "infringement",
+    "infringer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infringe.mp3",
+  "local_sound_path": "sounds/infringe.mp3"
+}

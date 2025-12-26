@@ -1,0 +1,42 @@
+{
+  "word": "arson",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5619.png",
+      "local_image_path": "images/5619.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112707.png",
+      "local_image_path": "images/112707.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112708.png",
+      "local_image_path": "images/112708.png"
+    }
+  ],
+  "synonyms": [
+    "inflammable",
+    "combustible",
+    "flammable",
+    "burning",
+    "incendiarism",
+    "pyromania",
+    "incineration",
+    "ignition"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "arsonist",
+    "arsonous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arson.mp3",
+  "local_sound_path": "sounds/arson.mp3"
+}

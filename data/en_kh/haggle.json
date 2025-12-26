@@ -1,0 +1,30 @@
+{
+  "word": "haggle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33484.png",
+      "local_image_path": "images/33484.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33485.png",
+      "local_image_path": "images/33485.png"
+    }
+  ],
+  "synonyms": [
+    "bargain",
+    "barter",
+    "quibble",
+    "wrangle",
+    "negotiate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/haggle.mp3",
+  "local_sound_path": "sounds/haggle.mp3"
+}

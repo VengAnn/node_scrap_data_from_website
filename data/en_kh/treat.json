@@ -1,0 +1,99 @@
+{
+  "word": "treat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "treat with someone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91420.png",
+      "local_image_path": "images/91420.png"
+    },
+    {
+      "pos": "n",
+      "example": "The play was a treat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91421.png",
+      "local_image_path": "images/91421.png"
+    },
+    {
+      "pos": "n",
+      "example": "It's your treat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91422.png",
+      "local_image_path": "images/91422.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He treats his wife badly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91411.png",
+      "local_image_path": "images/91411.png"
+    },
+    {
+      "pos": "tv",
+      "example": "treat an illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91412.png",
+      "local_image_path": "images/91412.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We had better treat it as a job.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91413.png",
+      "local_image_path": "images/91413.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The problem has been treated by numerous experts.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91414.png",
+      "local_image_path": "images/91414.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The essay treats of the progress of cancer research.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91415.png",
+      "local_image_path": "images/91415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91416.png",
+      "local_image_path": "images/91416.png"
+    },
+    {
+      "pos": "tv",
+      "example": "treat leather with acid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91417.png",
+      "local_image_path": "images/91417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91418.png",
+      "local_image_path": "images/91418.png"
+    },
+    {
+      "pos": "tv",
+      "example": "treat them to drink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91419.png",
+      "local_image_path": "images/91419.png"
+    }
+  ],
+  "synonyms": [
+    "indulge",
+    "spoil",
+    "pamper"
+  ],
+  "antonyms": [
+    "necessity"
+  ],
+  "similar_words": [
+    "treatable",
+    "treatably",
+    "treater",
+    "treating",
+    "treatise",
+    "treatiser",
+    "treatment",
+    "treaty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/treat.mp3",
+  "local_sound_path": "sounds/treat.mp3"
+}

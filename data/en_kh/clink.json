@@ -1,0 +1,49 @@
+{
+  "word": "clink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15042.png",
+      "local_image_path": "images/15042.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15044.png",
+      "local_image_path": "images/15044.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15045.png",
+      "local_image_path": "images/15045.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116483.png",
+      "local_image_path": "images/116483.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15043.png",
+      "local_image_path": "images/15043.png"
+    }
+  ],
+  "synonyms": [
+    "chink",
+    "clank",
+    "jingle",
+    "tinkle",
+    "ring",
+    "jangle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clink.mp3",
+  "local_sound_path": "sounds/clink.mp3"
+}

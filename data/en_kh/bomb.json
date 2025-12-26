@@ -1,0 +1,51 @@
+{
+  "word": "bomb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10041.png",
+      "local_image_path": "images/10041.png"
+    },
+    {
+      "pos": "tv",
+      "example": "homemade bomb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10042.png",
+      "local_image_path": "images/10042.png"
+    }
+  ],
+  "synonyms": [
+    "fail",
+    "flop",
+    "disappoint",
+    "flounder"
+  ],
+  "antonyms": [
+    "succeed"
+  ],
+  "similar_words": [
+    "bomb bay",
+    "bombard",
+    "bombarder",
+    "bombardier",
+    "bombardment",
+    "bombardon",
+    "bombast",
+    "bombaster",
+    "bombastic",
+    "bombastically",
+    "bombax",
+    "bombe",
+    "bombed",
+    "bomber",
+    "bombine",
+    "bombproof",
+    "bombshell",
+    "bombsight",
+    "Bombycid moth"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bomb.mp3",
+  "local_sound_path": "sounds/bomb.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "dopey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22758.png",
+      "local_image_path": "images/22758.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130267.png",
+      "local_image_path": "images/130267.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130268.png",
+      "local_image_path": "images/130268.png"
+    }
+  ],
+  "synonyms": [
+    "dimwitted",
+    "slow",
+    "thick",
+    "dull",
+    "stupid",
+    "simple"
+  ],
+  "antonyms": [
+    "bright"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dopey.mp3",
+  "local_sound_path": "sounds/dopey.mp3"
+}

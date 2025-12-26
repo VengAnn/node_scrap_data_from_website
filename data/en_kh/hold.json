@@ -1,0 +1,152 @@
+{
+  "word": "hold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rope won't hold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35545.png",
+      "local_image_path": "images/35545.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rule doen't hold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35546.png",
+      "local_image_path": "images/35546.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hold out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35547.png",
+      "local_image_path": "images/35547.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hold up for a while",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35548.png",
+      "local_image_path": "images/35548.png"
+    },
+    {
+      "pos": "n",
+      "example": "get a good hold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35549.png",
+      "local_image_path": "images/35549.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a hold over",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35550.png",
+      "local_image_path": "images/35550.png"
+    },
+    {
+      "pos": "n",
+      "example": "hold of a ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35551.png",
+      "local_image_path": "images/35551.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121166.png",
+      "local_image_path": "images/121166.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold in the hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35533.png",
+      "local_image_path": "images/35533.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold a position",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35534.png",
+      "local_image_path": "images/35534.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She was holding the baby in her arms.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35535.png",
+      "local_image_path": "images/35535.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold three gallons",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35536.png",
+      "local_image_path": "images/35536.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold stock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35537.png",
+      "local_image_path": "images/35537.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold a belief",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35538.png",
+      "local_image_path": "images/35538.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold sb responsible",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35539.png",
+      "local_image_path": "images/35539.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold a fort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35540.png",
+      "local_image_path": "images/35540.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35541.png",
+      "local_image_path": "images/35541.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold up (one's hand)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35542.png",
+      "local_image_path": "images/35542.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold up work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35543.png",
+      "local_image_path": "images/35543.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hold up (a bank)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35544.png",
+      "local_image_path": "images/35544.png"
+    }
+  ],
+  "synonyms": [
+    "power",
+    "control",
+    "influence",
+    "claim",
+    "sway",
+    "grasp",
+    "command",
+    "spell",
+    "wait"
+  ],
+  "antonyms": [
+    "release"
+  ],
+  "similar_words": [
+    "hold fast",
+    "hold harmless",
+    "holdall",
+    "holder",
+    "holding",
+    "holdout",
+    "holdup"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hold.mp3",
+  "local_sound_path": "sounds/hold.mp3"
+}

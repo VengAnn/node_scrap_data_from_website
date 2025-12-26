@@ -1,0 +1,102 @@
+{
+  "word": "strike",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85405.png",
+      "local_image_path": "images/85405.png"
+    },
+    {
+      "pos": "iv",
+      "example": "clocks strike",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85409.png",
+      "local_image_path": "images/85409.png"
+    },
+    {
+      "pos": "iv",
+      "example": "snakes strike",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85410.png",
+      "local_image_path": "images/85410.png"
+    },
+    {
+      "pos": "iv",
+      "example": "troubles strike",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85411.png",
+      "local_image_path": "images/85411.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85412.png",
+      "local_image_path": "images/85412.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85413.png",
+      "local_image_path": "images/85413.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strike a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85403.png",
+      "local_image_path": "images/85403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This room strikes you as warm and comfortable.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85404.png",
+      "local_image_path": "images/85404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85406.png",
+      "local_image_path": "images/85406.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85407.png",
+      "local_image_path": "images/85407.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85408.png",
+      "local_image_path": "images/85408.png"
+    }
+  ],
+  "synonyms": [
+    "reach",
+    "attain",
+    "achieve",
+    "effect",
+    "arrange"
+  ],
+  "antonyms": [
+    "miss"
+  ],
+  "similar_words": [
+    "strike agreement",
+    "strike ballot",
+    "strike bound",
+    "strike breaker",
+    "strike call",
+    "strike deal",
+    "strike down",
+    "strike fund",
+    "strike hands",
+    "strike home",
+    "strike off",
+    "strike pay",
+    "strike vote",
+    "striken",
+    "striker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strike.mp3",
+  "local_sound_path": "sounds/strike.mp3"
+}

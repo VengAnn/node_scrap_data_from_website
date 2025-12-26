@@ -1,0 +1,65 @@
+{
+  "word": "forge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29813.png",
+      "local_image_path": "images/29813.png"
+    },
+    {
+      "pos": "n",
+      "example": "blacksmith forge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29809.png",
+      "local_image_path": "images/29809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29810.png",
+      "local_image_path": "images/29810.png"
+    },
+    {
+      "pos": "tv",
+      "example": "forge a houseshoe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29811.png",
+      "local_image_path": "images/29811.png"
+    },
+    {
+      "pos": "tv",
+      "example": "forge a signature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29812.png",
+      "local_image_path": "images/29812.png"
+    }
+  ],
+  "synonyms": [
+    "furnace",
+    "hearth",
+    "kiln",
+    "build",
+    "shape",
+    "create",
+    "fashion",
+    "construct",
+    "establish",
+    "make",
+    "form"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "forgeability",
+    "forgeable",
+    "forger",
+    "forgery",
+    "forget",
+    "forget-menot",
+    "forgetable",
+    "forgetful",
+    "forgetfully",
+    "forgetfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forge.mp3",
+  "local_sound_path": "sounds/forge.mp3"
+}

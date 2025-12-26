@@ -1,0 +1,38 @@
+{
+  "word": "pastel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60510.png",
+      "local_image_path": "images/60510.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60511.png",
+      "local_image_path": "images/60511.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60512.png",
+      "local_image_path": "images/60512.png"
+    }
+  ],
+  "synonyms": [
+    "crayon",
+    "chalk"
+  ],
+  "antonyms": [
+    "vivid"
+  ],
+  "similar_words": [
+    "pastelist",
+    "pastellist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pastel.mp3",
+  "local_sound_path": "sounds/pastel.mp3"
+}

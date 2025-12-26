@@ -1,0 +1,38 @@
+{
+  "word": "jammed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42714.png",
+      "local_image_path": "images/42714.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123059.png",
+      "local_image_path": "images/123059.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123060.png",
+      "local_image_path": "images/123060.png"
+    }
+  ],
+  "synonyms": [
+    "stuck",
+    "stiff",
+    "seize up"
+  ],
+  "antonyms": [
+    "free",
+    "deserted",
+    "freed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jammed.mp3",
+  "local_sound_path": "sounds/jammed.mp3"
+}

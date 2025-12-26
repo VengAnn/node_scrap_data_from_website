@@ -1,0 +1,27 @@
+{
+  "word": "boggy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "boggy ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9966.png",
+      "local_image_path": "images/9966.png"
+    }
+  ],
+  "synonyms": [
+    "marshy",
+    "swampy",
+    "wet",
+    "muddy",
+    "watery",
+    "sloppy",
+    "soggy",
+    "sodden"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boggy.mp3",
+  "local_sound_path": "sounds/boggy.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "rope",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hemp rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74150.png",
+      "local_image_path": "images/74150.png"
+    },
+    {
+      "pos": "n",
+      "example": "die by the rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74151.png",
+      "local_image_path": "images/74151.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74152.png",
+      "local_image_path": "images/74152.png"
+    }
+  ],
+  "synonyms": [
+    "tie",
+    "fasten",
+    "lash",
+    "secure",
+    "attach",
+    "moor",
+    "link",
+    "bind"
+  ],
+  "antonyms": [
+    "untie"
+  ],
+  "similar_words": [
+    "rope-dancer",
+    "rope-dancing",
+    "rope-making",
+    "rope-work",
+    "roper",
+    "ropery",
+    "ropewalk"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rope.mp3",
+  "local_sound_path": "sounds/rope.mp3"
+}

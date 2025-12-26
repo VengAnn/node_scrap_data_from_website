@@ -1,0 +1,60 @@
+{
+  "word": "necessary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She hasn't the experience necessary for the job.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55183.png",
+      "local_image_path": "images/55183.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55184.png",
+      "local_image_path": "images/55184.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124527.png",
+      "local_image_path": "images/124527.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124528.png",
+      "local_image_path": "images/124528.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124529.png",
+      "local_image_path": "images/124529.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55185.png",
+      "local_image_path": "images/55185.png"
+    }
+  ],
+  "synonyms": [
+    "essential",
+    "compulsory",
+    "obligatory",
+    "indispensable",
+    "basic",
+    "crucial",
+    "vital",
+    "necessitous",
+    "mandatory"
+  ],
+  "antonyms": [
+    "optional"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/necessary.mp3",
+  "local_sound_path": "sounds/necessary.mp3"
+}

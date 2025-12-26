@@ -1,0 +1,34 @@
+{
+  "word": "acceptable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1797.png",
+      "local_image_path": "images/1797.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111990.png",
+      "local_image_path": "images/111990.png"
+    }
+  ],
+  "synonyms": [
+    "pleasing",
+    "welcome",
+    "gratifying",
+    "agreeable",
+    "enjoyable"
+  ],
+  "antonyms": [
+    "unacceptable",
+    "annoying",
+    "inacceptable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acceptable.mp3",
+  "local_sound_path": "sounds/acceptable.mp3"
+}

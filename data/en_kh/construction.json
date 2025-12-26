@@ -1,0 +1,30 @@
+{
+  "word": "construction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "construction of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17120.png",
+      "local_image_path": "images/17120.png"
+    }
+  ],
+  "synonyms": [
+    "interpretation",
+    "understanding",
+    "comprehension",
+    "meaning",
+    "spin",
+    "explanation"
+  ],
+  "antonyms": [
+    "destruction"
+  ],
+  "similar_words": [
+    "constructional",
+    "constructionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/construction.mp3",
+  "local_sound_path": "sounds/construction.mp3"
+}

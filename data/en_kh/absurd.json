@@ -1,0 +1,43 @@
+{
+  "word": "absurd",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "the absurd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1709.png",
+      "local_image_path": "images/1709.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111807.png",
+      "local_image_path": "images/111807.png"
+    }
+  ],
+  "synonyms": [
+    "ridiculous",
+    "silly",
+    "strange",
+    "illogical",
+    "meaningless",
+    "bizarre",
+    "incongruous",
+    "pointless",
+    "futile",
+    "empty",
+    "purposeless",
+    "hollow"
+  ],
+  "antonyms": [
+    "reasonable"
+  ],
+  "similar_words": [
+    "absurdity",
+    "absurdly",
+    "absurdness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absurd.mp3",
+  "local_sound_path": "sounds/absurd.mp3"
+}

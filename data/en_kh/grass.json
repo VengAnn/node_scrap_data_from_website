@@ -1,0 +1,57 @@
+{
+  "word": "grass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32644.png",
+      "local_image_path": "images/32644.png"
+    },
+    {
+      "pos": "sl",
+      "example": "smoke grass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32645.png",
+      "local_image_path": "images/32645.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grass a lawn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32646.png",
+      "local_image_path": "images/32646.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grass cattle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32647.png",
+      "local_image_path": "images/32647.png"
+    }
+  ],
+  "synonyms": [
+    "lawn",
+    "meadow",
+    "pasture",
+    "prairie",
+    "inform",
+    "betray",
+    "snitch",
+    "squeal",
+    "sneak"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "grass land",
+    "grass roots",
+    "grass widow",
+    "grass-green",
+    "grass-grown",
+    "grass-snake",
+    "grassant",
+    "grasshopper",
+    "grassless",
+    "grassy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grass.mp3",
+  "local_sound_path": "sounds/grass.mp3"
+}

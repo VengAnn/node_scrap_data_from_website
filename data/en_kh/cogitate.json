@@ -1,0 +1,45 @@
+{
+  "word": "cogitate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15529.png",
+      "local_image_path": "images/15529.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116625.png",
+      "local_image_path": "images/116625.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116626.png",
+      "local_image_path": "images/116626.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116627.png",
+      "local_image_path": "images/116627.png"
+    }
+  ],
+  "synonyms": [
+    "think",
+    "consider",
+    "reflect",
+    "deliberate",
+    "ponder",
+    "ruminate",
+    "muse",
+    "meditate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cogitate.mp3",
+  "local_sound_path": "sounds/cogitate.mp3"
+}

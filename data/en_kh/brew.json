@@ -1,0 +1,93 @@
+{
+  "word": "brew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11003.png",
+      "local_image_path": "images/11003.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11004.png",
+      "local_image_path": "images/11004.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115605.png",
+      "local_image_path": "images/115605.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115606.png",
+      "local_image_path": "images/115606.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115607.png",
+      "local_image_path": "images/115607.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11002.png",
+      "local_image_path": "images/11002.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115608.png",
+      "local_image_path": "images/115608.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115609.png",
+      "local_image_path": "images/115609.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115610.png",
+      "local_image_path": "images/115610.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115611.png",
+      "local_image_path": "images/115611.png"
+    }
+  ],
+  "synonyms": [
+    "mixture",
+    "mix",
+    "blend",
+    "combination",
+    "infusion",
+    "concoction",
+    "cocktail",
+    "develop",
+    "loom",
+    "threaten",
+    "grow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brewage",
+    "brewer",
+    "brewery",
+    "brewhouse",
+    "brewing",
+    "brewis",
+    "brewmaster",
+    "brewster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brew.mp3",
+  "local_sound_path": "sounds/brew.mp3"
+}

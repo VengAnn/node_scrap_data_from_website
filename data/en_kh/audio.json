@@ -1,0 +1,41 @@
+{
+  "word": "audio",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6362.png",
+      "local_image_path": "images/6362.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6363.png",
+      "local_image_path": "images/6363.png"
+    }
+  ],
+  "synonyms": [
+    "acoustic",
+    "auditory",
+    "aural"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "audio-conference",
+    "audio-lingual",
+    "audiogram",
+    "audiological",
+    "audiologist",
+    "audiology",
+    "audiometer",
+    "audiometric",
+    "audiophile",
+    "audiotape",
+    "audiotypist",
+    "audiovisual"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/audio.mp3",
+  "local_sound_path": "sounds/audio.mp3"
+}

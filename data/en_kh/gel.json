@@ -1,0 +1,63 @@
+{
+  "word": "gel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "liquids gel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31295.png",
+      "local_image_path": "images/31295.png"
+    },
+    {
+      "pos": "iv",
+      "example": "plans gel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31296.png",
+      "local_image_path": "images/31296.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31294.png",
+      "local_image_path": "images/31294.png"
+    }
+  ],
+  "synonyms": [
+    "set",
+    "clot",
+    "coagulate",
+    "thicken",
+    "solidify",
+    "harden",
+    "crystallize"
+  ],
+  "antonyms": [
+    "liquefy",
+    "disperse",
+    "melt"
+  ],
+  "similar_words": [
+    "gelastic",
+    "gelate",
+    "gelatification",
+    "gelatigenous",
+    "gelatin",
+    "gelatinate",
+    "gelatine",
+    "gelatiniferous",
+    "gelatinization",
+    "gelatinize",
+    "gelatinous",
+    "gelatinously",
+    "gelatinousness",
+    "gelation",
+    "geld",
+    "gelding",
+    "gelid",
+    "gelidity",
+    "gelidly",
+    "gelignite"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gel.mp3",
+  "local_sound_path": "sounds/gel.mp3"
+}

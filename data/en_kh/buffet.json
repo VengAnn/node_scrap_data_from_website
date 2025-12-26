@@ -1,0 +1,73 @@
+{
+  "word": "buffet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "antique buffet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11687.png",
+      "local_image_path": "images/11687.png"
+    },
+    {
+      "pos": "n",
+      "example": "give a buffet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11688.png",
+      "local_image_path": "images/11688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11689.png",
+      "local_image_path": "images/11689.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11690.png",
+      "local_image_path": "images/11690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "waves buffet the boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11686.png",
+      "local_image_path": "images/11686.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115764.png",
+      "local_image_path": "images/115764.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115765.png",
+      "local_image_path": "images/115765.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11685.png",
+      "local_image_path": "images/11685.png"
+    }
+  ],
+  "synonyms": [
+    "rock",
+    "pound",
+    "batter",
+    "bang",
+    "pummel",
+    "beat",
+    "knock",
+    "strike",
+    "pommel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "buffet car",
+    "buffeting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buffet.mp3",
+  "local_sound_path": "sounds/buffet.mp3"
+}

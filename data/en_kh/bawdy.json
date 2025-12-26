@@ -1,0 +1,43 @@
+{
+  "word": "bawdy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7805.png",
+      "local_image_path": "images/7805.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7806.png",
+      "local_image_path": "images/7806.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114694.png",
+      "local_image_path": "images/114694.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114695.png",
+      "local_image_path": "images/114695.png"
+    }
+  ],
+  "synonyms": [
+    "coarse",
+    "vulgar",
+    "rude",
+    "lewd"
+  ],
+  "antonyms": [
+    "refined"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bawdy.mp3",
+  "local_sound_path": "sounds/bawdy.mp3"
+}

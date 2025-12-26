@@ -1,0 +1,43 @@
+{
+  "word": "scum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "remove the scum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77354.png",
+      "local_image_path": "images/77354.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77355.png",
+      "local_image_path": "images/77355.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77356.png",
+      "local_image_path": "images/77356.png"
+    }
+  ],
+  "synonyms": [
+    "froth",
+    "foam",
+    "crust",
+    "skin",
+    "layer",
+    "filth"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "scumbag",
+    "scumber",
+    "scumble",
+    "scummer",
+    "scumming"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scum.mp3",
+  "local_sound_path": "sounds/scum.mp3"
+}

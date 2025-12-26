@@ -1,0 +1,26 @@
+{
+  "word": "cereal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13633.png",
+      "local_image_path": "images/13633.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13632.png",
+      "local_image_path": "images/13632.png"
+    }
+  ],
+  "synonyms": [
+    "cornflakes"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cereal.mp3",
+  "local_sound_path": "sounds/cereal.mp3"
+}

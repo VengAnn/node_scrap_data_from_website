@@ -1,0 +1,29 @@
+{
+  "word": "abdication",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1359.png",
+      "local_image_path": "images/1359.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1358.png",
+      "local_image_path": "images/1358.png"
+    }
+  ],
+  "synonyms": [
+    "resignation",
+    "renunciation",
+    "abandonment",
+    "relinquishment"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abdication.mp3",
+  "local_sound_path": "sounds/abdication.mp3"
+}

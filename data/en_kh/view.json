@@ -1,0 +1,55 @@
+{
+  "word": "view",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "beautiful view",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97984.png",
+      "local_image_path": "images/97984.png"
+    },
+    {
+      "pos": "n",
+      "example": "How is your view?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97985.png",
+      "local_image_path": "images/97985.png"
+    },
+    {
+      "pos": "tv",
+      "example": "How do you view it?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97986.png",
+      "local_image_path": "images/97986.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97987.png",
+      "local_image_path": "images/97987.png"
+    }
+  ],
+  "synonyms": [
+    "watch",
+    "observe",
+    "see",
+    "behold",
+    "notice",
+    "examine",
+    "inspect",
+    "scrutinize",
+    "survey",
+    "look over"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "viewable",
+    "viewer",
+    "viewfinder",
+    "viewing",
+    "viewless",
+    "viewpoint",
+    "viewy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/view.mp3",
+  "local_sound_path": "sounds/view.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "unfortunate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "unfortunate victim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94377.png",
+      "local_image_path": "images/94377.png"
+    },
+    {
+      "pos": "adj",
+      "example": "unfortunate choice of words",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94378.png",
+      "local_image_path": "images/94378.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94379.png",
+      "local_image_path": "images/94379.png"
+    }
+  ],
+  "synonyms": [
+    "unlucky",
+    "ill-fated",
+    "untoward",
+    "adverse",
+    "inopportune",
+    "fateful",
+    "regrettable",
+    "ill-timed",
+    "awkward",
+    "disastrous",
+    "wretch",
+    "underdog",
+    "loser",
+    "weakling",
+    "lame duck"
+  ],
+  "antonyms": [
+    "fortunate",
+    "lucky",
+    "timely"
+  ],
+  "similar_words": [
+    "unfortunately",
+    "unfortunateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unfortunate.mp3",
+  "local_sound_path": "sounds/unfortunate.mp3"
+}

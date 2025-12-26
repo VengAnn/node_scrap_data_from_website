@@ -1,0 +1,28 @@
+{
+  "word": "accounting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1914.png",
+      "local_image_path": "images/1914.png"
+    },
+    {
+      "pos": "n",
+      "example": "accounting system",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1913.png",
+      "local_image_path": "images/1913.png"
+    }
+  ],
+  "synonyms": [
+    "secretarial",
+    "office",
+    "bookkeeping"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accounting.mp3",
+  "local_sound_path": "sounds/accounting.mp3"
+}

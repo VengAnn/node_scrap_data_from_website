@@ -1,0 +1,30 @@
+{
+  "word": "adventurer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2566.png",
+      "local_image_path": "images/2566.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112022.png",
+      "local_image_path": "images/112022.png"
+    }
+  ],
+  "synonyms": [
+    "entrepreneur",
+    "investor",
+    "speculator",
+    "pioneer",
+    "opportunist"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adventurer.mp3",
+  "local_sound_path": "sounds/adventurer.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "entrance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Where's the entrance to the cave?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25331.png",
+      "local_image_path": "images/25331.png"
+    },
+    {
+      "pos": "n",
+      "example": "entrance of a guest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25332.png",
+      "local_image_path": "images/25332.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25349.png",
+      "local_image_path": "images/25349.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25350.png",
+      "local_image_path": "images/25350.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25333.png",
+      "local_image_path": "images/25333.png"
+    }
+  ],
+  "synonyms": [
+    "captivate",
+    "engross",
+    "fascinate",
+    "charm",
+    "delight",
+    "enthrall",
+    "mesmerize",
+    "enchant",
+    "rivet"
+  ],
+  "antonyms": [
+    "exit",
+    "departure",
+    "bore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entrance.mp3",
+  "local_sound_path": "sounds/entrance.mp3"
+}

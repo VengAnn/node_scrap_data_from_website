@@ -1,0 +1,49 @@
+{
+  "word": "mud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110857.png",
+      "local_image_path": "images/110857.png"
+    },
+    {
+      "pos": "n",
+      "example": "political mud",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110858.png",
+      "local_image_path": "images/110858.png"
+    }
+  ],
+  "synonyms": [
+    "mire",
+    "sludge",
+    "muck",
+    "dirt",
+    "filth",
+    "grime"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mud bath",
+    "mud cat",
+    "mud fish",
+    "mud-atained",
+    "mud-built",
+    "mud-filled",
+    "mud-flat",
+    "mud-head",
+    "mud-slinging",
+    "muddily",
+    "muddiness",
+    "muddle",
+    "muddle-headed",
+    "muddle-headedness",
+    "muddled",
+    "muddling",
+    "muddy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mud.mp3",
+  "local_sound_path": "sounds/mud.mp3"
+}

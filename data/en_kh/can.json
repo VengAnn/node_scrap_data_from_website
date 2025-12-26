@@ -1,0 +1,93 @@
+{
+  "word": "can",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "aux",
+      "example": "Can you speak English?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12583.png",
+      "local_image_path": "images/12583.png"
+    },
+    {
+      "pos": "n",
+      "example": "I put it in the can.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12584.png",
+      "local_image_path": "images/12584.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115891.png",
+      "local_image_path": "images/115891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115892.png",
+      "local_image_path": "images/115892.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115893.png",
+      "local_image_path": "images/115893.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115894.png",
+      "local_image_path": "images/115894.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115895.png",
+      "local_image_path": "images/115895.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12585.png",
+      "local_image_path": "images/12585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130970.png",
+      "local_image_path": "images/130970.png"
+    }
+  ],
+  "synonyms": [
+    "preserve",
+    "tin",
+    "bottle"
+  ],
+  "antonyms": [
+    "hire"
+  ],
+  "similar_words": [
+    "can't",
+    "Canada",
+    "Canadian",
+    "canaille",
+    "canal",
+    "canalicular",
+    "canaliculate",
+    "canaliculus",
+    "canalization",
+    "canalize",
+    "Cananga odorata",
+    "canape",
+    "canard",
+    "canary",
+    "canasta",
+    "Cancan",
+    "cancel",
+    "cancelable",
+    "canceler",
+    "cancellation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/can.mp3",
+  "local_sound_path": "sounds/can.mp3"
+}

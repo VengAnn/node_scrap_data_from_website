@@ -1,0 +1,40 @@
+{
+  "word": "abortive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1520.png",
+      "local_image_path": "images/1520.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113040.png",
+      "local_image_path": "images/113040.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113041.png",
+      "local_image_path": "images/113041.png"
+    }
+  ],
+  "synonyms": [
+    "unsuccessful",
+    "fruitless",
+    "unproductive",
+    "futile"
+  ],
+  "antonyms": [
+    "successful"
+  ],
+  "similar_words": [
+    "abortively",
+    "abortiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abortive.mp3",
+  "local_sound_path": "sounds/abortive.mp3"
+}

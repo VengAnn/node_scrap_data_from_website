@@ -1,0 +1,44 @@
+{
+  "word": "avoidance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6733.png",
+      "local_image_path": "images/6733.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112930.png",
+      "local_image_path": "images/112930.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112931.png",
+      "local_image_path": "images/112931.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112932.png",
+      "local_image_path": "images/112932.png"
+    }
+  ],
+  "synonyms": [
+    "prevention",
+    "eschewal",
+    "abstention",
+    "refrainment"
+  ],
+  "antonyms": [
+    "promotion",
+    "indulgence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avoidance.mp3",
+  "local_sound_path": "sounds/avoidance.mp3"
+}

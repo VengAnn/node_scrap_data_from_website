@@ -1,0 +1,59 @@
+{
+  "word": "total",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "total figure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90359.png",
+      "local_image_path": "images/90359.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90362.png",
+      "local_image_path": "images/90362.png"
+    },
+    {
+      "pos": "n",
+      "example": "Our expenses reached a total of $20.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90358.png",
+      "local_image_path": "images/90358.png"
+    },
+    {
+      "pos": "tv",
+      "example": "total the figures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90360.png",
+      "local_image_path": "images/90360.png"
+    },
+    {
+      "pos": "tv",
+      "example": "total one's car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90361.png",
+      "local_image_path": "images/90361.png"
+    }
+  ],
+  "synonyms": [
+    "calculate",
+    "sum",
+    "compute",
+    "totalize"
+  ],
+  "antonyms": [
+    "partial",
+    "rather"
+  ],
+  "similar_words": [
+    "total disability",
+    "totalitarian",
+    "totalitarianism",
+    "totality",
+    "totalization",
+    "totalizator",
+    "totalize",
+    "totally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/total.mp3",
+  "local_sound_path": "sounds/total.mp3"
+}

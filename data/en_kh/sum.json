@@ -1,0 +1,64 @@
+{
+  "word": "sum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "arithmetical sum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86208.png",
+      "local_image_path": "images/86208.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86209.png",
+      "local_image_path": "images/86209.png"
+    },
+    {
+      "pos": "n",
+      "example": "sum of $100",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86210.png",
+      "local_image_path": "images/86210.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sum a column of figures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86211.png",
+      "local_image_path": "images/86211.png"
+    }
+  ],
+  "synonyms": [
+    "total",
+    "aggregate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sum certain",
+    "sum-total",
+    "sumac",
+    "sumless",
+    "summa",
+    "summarily",
+    "summarist",
+    "summarize",
+    "summary",
+    "summary arrest",
+    "summary conviction",
+    "summary dismissal",
+    "summary judgment",
+    "summary offence",
+    "summary process",
+    "summat",
+    "summation",
+    "summative evaluation",
+    "summer",
+    "summer resort",
+    "summer's day",
+    "summer-cloud",
+    "summer-freckled",
+    "summer-house"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sum.mp3",
+  "local_sound_path": "sounds/sum.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "animation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "speak with animation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4341.png",
+      "local_image_path": "images/4341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113738.png",
+      "local_image_path": "images/113738.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113739.png",
+      "local_image_path": "images/113739.png"
+    }
+  ],
+  "synonyms": [
+    "liveliness",
+    "energy",
+    "life",
+    "vigor",
+    "vivaciousness",
+    "dynamism",
+    "enthusiasm",
+    "excitement",
+    "activity",
+    "sparkle",
+    "spirit"
+  ],
+  "antonyms": [
+    "lifelessness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/animation.mp3",
+  "local_sound_path": "sounds/animation.mp3"
+}

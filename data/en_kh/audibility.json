@@ -1,0 +1,27 @@
+{
+  "word": "audibility",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6354.png",
+      "local_image_path": "images/6354.png"
+    }
+  ],
+  "synonyms": [
+    "loudness",
+    "noise",
+    "distinctness",
+    "clarity",
+    "acoustics",
+    "perceptibility"
+  ],
+  "antonyms": [
+    "inaudibility"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/audibility.mp3",
+  "local_sound_path": "sounds/audibility.mp3"
+}

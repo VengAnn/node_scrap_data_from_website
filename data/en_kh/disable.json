@@ -1,0 +1,34 @@
+{
+  "word": "disable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "disable a worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21542.png",
+      "local_image_path": "images/21542.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disable a tank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21543.png",
+      "local_image_path": "images/21543.png"
+    }
+  ],
+  "synonyms": [
+    "immobilize",
+    "stop",
+    "hinder",
+    "halt"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "disabled",
+    "disableism",
+    "disableist",
+    "disablement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disable.mp3",
+  "local_sound_path": "sounds/disable.mp3"
+}

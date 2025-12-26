@@ -1,0 +1,56 @@
+{
+  "word": "same",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "same man, I saw yesterday.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75497.png",
+      "local_image_path": "images/75497.png"
+    },
+    {
+      "pos": "adv",
+      "example": "It's all the same with me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75499.png",
+      "local_image_path": "images/75499.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75500.png",
+      "local_image_path": "images/75500.png"
+    },
+    {
+      "pos": "pron",
+      "example": "I'll have the same",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75498.png",
+      "local_image_path": "images/75498.png"
+    }
+  ],
+  "synonyms": [
+    "unchanged",
+    "constant",
+    "uniform",
+    "consistent",
+    "even",
+    "invariable",
+    "unaffected"
+  ],
+  "antonyms": [
+    "different",
+    "varied",
+    "variable"
+  ],
+  "similar_words": [
+    "same-sex",
+    "samekh",
+    "samel",
+    "samel-brick",
+    "samely",
+    "sameness",
+    "samey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/same.mp3",
+  "local_sound_path": "sounds/same.mp3"
+}

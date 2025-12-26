@@ -1,0 +1,44 @@
+{
+  "word": "bundle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bundle of wheat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11850.png",
+      "local_image_path": "images/11850.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11852.png",
+      "local_image_path": "images/11852.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11853.png",
+      "local_image_path": "images/11853.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131053.png",
+      "local_image_path": "images/131053.png"
+    }
+  ],
+  "synonyms": [
+    "fortune",
+    "mint",
+    "hustle",
+    "hurry",
+    "rush",
+    "push",
+    "shove"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bundle.mp3",
+  "local_sound_path": "sounds/bundle.mp3"
+}

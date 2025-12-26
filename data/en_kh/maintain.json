@@ -1,0 +1,49 @@
+{
+  "word": "maintain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105414.png",
+      "local_image_path": "images/105414.png"
+    },
+    {
+      "pos": "tv",
+      "example": "maintain a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105415.png",
+      "local_image_path": "images/105415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She maintained that it is true",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105416.png",
+      "local_image_path": "images/105416.png"
+    }
+  ],
+  "synonyms": [
+    "continue",
+    "argue",
+    "claim",
+    "insist",
+    "assert",
+    "hold",
+    "swear",
+    "avow",
+    "declare",
+    "affirm",
+    "state"
+  ],
+  "antonyms": [
+    "destroy",
+    "deny",
+    "neglect"
+  ],
+  "similar_words": [
+    "maintainable",
+    "maintainer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/maintain.mp3",
+  "local_sound_path": "sounds/maintain.mp3"
+}

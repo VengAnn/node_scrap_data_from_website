@@ -1,0 +1,35 @@
+{
+  "word": "cabinet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "medicine cabinet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12198.png",
+      "local_image_path": "images/12198.png"
+    },
+    {
+      "pos": "n",
+      "example": "members of the cabinet are chosen by the prime minister",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12199.png",
+      "local_image_path": "images/12199.png"
+    }
+  ],
+  "synonyms": [
+    "cupboard",
+    "breakfront",
+    "dresser"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cabinet office",
+    "cabinet pudding",
+    "cabinet-maker",
+    "cabinetmaking",
+    "cabinetry",
+    "cabinetwork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cabinet.mp3",
+  "local_sound_path": "sounds/cabinet.mp3"
+}

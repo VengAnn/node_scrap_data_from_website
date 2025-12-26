@@ -1,0 +1,40 @@
+{
+  "word": "squabble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83849.png",
+      "local_image_path": "images/83849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83848.png",
+      "local_image_path": "images/83848.png"
+    }
+  ],
+  "synonyms": [
+    "quarrel",
+    "row",
+    "tiff",
+    "dispute",
+    "argument",
+    "fight",
+    "disagreement",
+    "spat",
+    "argue",
+    "bicker",
+    "disagree",
+    "wrangle",
+    "make up"
+  ],
+  "antonyms": [
+    "reconciliation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/squabble.mp3",
+  "local_sound_path": "sounds/squabble.mp3"
+}

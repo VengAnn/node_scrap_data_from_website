@@ -1,0 +1,123 @@
+{
+  "word": "pet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pet cat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62214.png",
+      "local_image_path": "images/62214.png"
+    },
+    {
+      "pos": "n",
+      "example": "keep a pet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62211.png",
+      "local_image_path": "images/62211.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62212.png",
+      "local_image_path": "images/62212.png"
+    },
+    {
+      "pos": "n",
+      "example": "teacher's pet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62213.png",
+      "local_image_path": "images/62213.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62217.png",
+      "local_image_path": "images/62217.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125433.png",
+      "local_image_path": "images/125433.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125434.png",
+      "local_image_path": "images/125434.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125435.png",
+      "local_image_path": "images/125435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62215.png",
+      "local_image_path": "images/62215.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62216.png",
+      "local_image_path": "images/62216.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62218.png",
+      "local_image_path": "images/62218.png"
+    }
+  ],
+  "synonyms": [
+    "favorite",
+    "darling",
+    "choice",
+    "preference",
+    "mollycoddle",
+    "baby",
+    "pat",
+    "indulge",
+    "spoil",
+    "cosset",
+    "pamper",
+    "coddle"
+  ],
+  "antonyms": [
+    "wild"
+  ],
+  "similar_words": [
+    "pet name",
+    "petal",
+    "petaled",
+    "petaliferous",
+    "petaliform",
+    "petaline",
+    "petalism",
+    "petalite",
+    "petalled",
+    "petalody",
+    "petaloid",
+    "petalon",
+    "petalous",
+    "petard",
+    "petardeer",
+    "petasus",
+    "petaurist",
+    "petcock",
+    "petechia",
+    "peter",
+    "peter penny",
+    "peter sham",
+    "peter-boat",
+    "peternoster",
+    "petiolar",
+    "petiolate",
+    "petiolule",
+    "petit",
+    "petit bourgeois"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pet.mp3",
+  "local_sound_path": "sounds/pet.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "word": "shunt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79673.png",
+      "local_image_path": "images/79673.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79668.png",
+      "local_image_path": "images/79668.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shunt rail cars",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79669.png",
+      "local_image_path": "images/79669.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79670.png",
+      "local_image_path": "images/79670.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shunt so aside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79671.png",
+      "local_image_path": "images/79671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79672.png",
+      "local_image_path": "images/79672.png"
+    }
+  ],
+  "synonyms": [
+    "shove",
+    "thrust",
+    "jolt",
+    "push",
+    "move",
+    "shift",
+    "propel",
+    "force"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shunted",
+    "shunter",
+    "shunting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shunt.mp3",
+  "local_sound_path": "sounds/shunt.mp3"
+}

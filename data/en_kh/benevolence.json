@@ -1,0 +1,46 @@
+{
+  "word": "benevolence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8296.png",
+      "local_image_path": "images/8296.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114915.png",
+      "local_image_path": "images/114915.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114916.png",
+      "local_image_path": "images/114916.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114917.png",
+      "local_image_path": "images/114917.png"
+    }
+  ],
+  "synonyms": [
+    "kindness",
+    "compassion",
+    "generosity",
+    "munificence",
+    "goodwill",
+    "altruism",
+    "magnanimity"
+  ],
+  "antonyms": [
+    "malevolence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/benevolence.mp3",
+  "local_sound_path": "sounds/benevolence.mp3"
+}

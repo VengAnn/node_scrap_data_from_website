@@ -1,0 +1,58 @@
+{
+  "word": "ponderous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65057.png",
+      "local_image_path": "images/65057.png"
+    },
+    {
+      "pos": "adj",
+      "example": "A fat man's ponderous movement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65058.png",
+      "local_image_path": "images/65058.png"
+    },
+    {
+      "pos": "adj",
+      "example": "ponderous speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65059.png",
+      "local_image_path": "images/65059.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125738.png",
+      "local_image_path": "images/125738.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125739.png",
+      "local_image_path": "images/125739.png"
+    }
+  ],
+  "synonyms": [
+    "tedious",
+    "boring",
+    "laborious",
+    "tiresome",
+    "dull",
+    "slow",
+    "long-winded",
+    "verbose"
+  ],
+  "antonyms": [
+    "light",
+    "brisk",
+    "lively"
+  ],
+  "similar_words": [
+    "ponderously",
+    "ponderousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ponderous.mp3",
+  "local_sound_path": "sounds/ponderous.mp3"
+}

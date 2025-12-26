@@ -1,0 +1,41 @@
+{
+  "word": "impound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37897.png",
+      "local_image_path": "images/37897.png"
+    },
+    {
+      "pos": "tv",
+      "example": "impound an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37898.png",
+      "local_image_path": "images/37898.png"
+    },
+    {
+      "pos": "tv",
+      "example": "impound goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37899.png",
+      "local_image_path": "images/37899.png"
+    }
+  ],
+  "synonyms": [
+    "confiscate",
+    "seize",
+    "hold",
+    "possess",
+    "store"
+  ],
+  "antonyms": [
+    "release"
+  ],
+  "similar_words": [
+    "impoundage",
+    "impounder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impound.mp3",
+  "local_sound_path": "sounds/impound.mp3"
+}

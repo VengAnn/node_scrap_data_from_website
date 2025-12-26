@@ -1,0 +1,33 @@
+{
+  "word": "decimal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19956.png",
+      "local_image_path": "images/19956.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19955.png",
+      "local_image_path": "images/19955.png"
+    }
+  ],
+  "synonyms": [
+    "number",
+    "fraction",
+    "unit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "decimal point",
+    "decimalise",
+    "decimalization",
+    "decimalize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decimal.mp3",
+  "local_sound_path": "sounds/decimal.mp3"
+}

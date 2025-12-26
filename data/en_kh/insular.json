@@ -1,0 +1,34 @@
+{
+  "word": "insular",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "insular territories",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40834.png",
+      "local_image_path": "images/40834.png"
+    },
+    {
+      "pos": "adj",
+      "example": "insular existence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40835.png",
+      "local_image_path": "images/40835.png"
+    }
+  ],
+  "synonyms": [
+    "blinkered",
+    "narrow-minded",
+    "narrow",
+    "limited"
+  ],
+  "antonyms": [
+    "open-minded"
+  ],
+  "similar_words": [
+    "insularity",
+    "insularly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/insular.mp3",
+  "local_sound_path": "sounds/insular.mp3"
+}

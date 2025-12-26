@@ -1,0 +1,36 @@
+{
+  "word": "docket",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22527.png",
+      "local_image_path": "images/22527.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130261.png",
+      "local_image_path": "images/130261.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22528.png",
+      "local_image_path": "images/22528.png"
+    }
+  ],
+  "synonyms": [
+    "label",
+    "tag",
+    "identify",
+    "disclose",
+    "declare"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/docket.mp3",
+  "local_sound_path": "sounds/docket.mp3"
+}

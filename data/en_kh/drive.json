@@ -1,0 +1,65 @@
+{
+  "word": "drive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He likes to drive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23172.png",
+      "local_image_path": "images/23172.png"
+    },
+    {
+      "pos": "n",
+      "example": "go for a drive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23173.png",
+      "local_image_path": "images/23173.png"
+    },
+    {
+      "pos": "n",
+      "example": "he has a lot of drive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23174.png",
+      "local_image_path": "images/23174.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drive a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23169.png",
+      "local_image_path": "images/23169.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drive cattle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23170.png",
+      "local_image_path": "images/23170.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drive a nail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23171.png",
+      "local_image_path": "images/23171.png"
+    }
+  ],
+  "synonyms": [
+    "hammer",
+    "push",
+    "force",
+    "plunge",
+    "sink",
+    "thrust",
+    "power",
+    "run"
+  ],
+  "antonyms": [
+    "lethargy"
+  ],
+  "similar_words": [
+    "drive-in",
+    "drivel",
+    "driven",
+    "driver",
+    "driveway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drive.mp3",
+  "local_sound_path": "sounds/drive.mp3"
+}

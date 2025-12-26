@@ -1,0 +1,59 @@
+{
+  "word": "district",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "congressional district",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22331.png",
+      "local_image_path": "images/22331.png"
+    },
+    {
+      "pos": "n",
+      "example": "theater district",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22332.png",
+      "local_image_path": "images/22332.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22338.png",
+      "local_image_path": "images/22338.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118677.png",
+      "local_image_path": "images/118677.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118678.png",
+      "local_image_path": "images/118678.png"
+    }
+  ],
+  "synonyms": [
+    "region",
+    "area",
+    "quarter",
+    "borough",
+    "ward",
+    "constituency",
+    "locality",
+    "neighborhood",
+    "canton"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "district council",
+    "district court",
+    "district office",
+    "district officer",
+    "district police",
+    "distriction"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/district.mp3",
+  "local_sound_path": "sounds/district.mp3"
+}

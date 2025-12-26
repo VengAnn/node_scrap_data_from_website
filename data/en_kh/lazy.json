@@ -1,0 +1,62 @@
+{
+  "word": "lazy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lazy man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45393.png",
+      "local_image_path": "images/45393.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45394.png",
+      "local_image_path": "images/45394.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lazy stream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45395.png",
+      "local_image_path": "images/45395.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123391.png",
+      "local_image_path": "images/123391.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123392.png",
+      "local_image_path": "images/123392.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123393.png",
+      "local_image_path": "images/123393.png"
+    }
+  ],
+  "synonyms": [
+    "indolent",
+    "idle",
+    "lethargic",
+    "languid",
+    "sluggish",
+    "slothful"
+  ],
+  "antonyms": [
+    "energetic"
+  ],
+  "similar_words": [
+    "lazy tongs",
+    "lazybone",
+    "lazybones",
+    "lazyboot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lazy.mp3",
+  "local_sound_path": "sounds/lazy.mp3"
+}

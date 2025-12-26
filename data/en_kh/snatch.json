@@ -1,0 +1,45 @@
+{
+  "word": "snatch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81993.png",
+      "local_image_path": "images/81993.png"
+    },
+    {
+      "pos": "tv",
+      "example": "snatch the cheese",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81990.png",
+      "local_image_path": "images/81990.png"
+    },
+    {
+      "pos": "tv",
+      "example": "snatch a chance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81991.png",
+      "local_image_path": "images/81991.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81992.png",
+      "local_image_path": "images/81992.png"
+    }
+  ],
+  "synonyms": [
+    "steal",
+    "pinch",
+    "filch",
+    "nick"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "snatch at",
+    "snatcher",
+    "snatchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/snatch.mp3",
+  "local_sound_path": "sounds/snatch.mp3"
+}

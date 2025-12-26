@@ -1,0 +1,58 @@
+{
+  "word": "goad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cattle goad",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32127.png",
+      "local_image_path": "images/32127.png"
+    },
+    {
+      "pos": "n",
+      "example": "use promotion as a goad",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32128.png",
+      "local_image_path": "images/32128.png"
+    },
+    {
+      "pos": "tv",
+      "example": "goad cattle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32129.png",
+      "local_image_path": "images/32129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "goad him to anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32130.png",
+      "local_image_path": "images/32130.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32131.png",
+      "local_image_path": "images/32131.png"
+    }
+  ],
+  "synonyms": [
+    "annoy",
+    "hound",
+    "badger",
+    "hassle",
+    "provoke",
+    "aggravate",
+    "prod",
+    "poke",
+    "spur",
+    "drive",
+    "stick",
+    "stir"
+  ],
+  "antonyms": [
+    "calm",
+    "soothe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/goad.mp3",
+  "local_sound_path": "sounds/goad.mp3"
+}

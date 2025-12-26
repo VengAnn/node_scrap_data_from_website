@@ -1,0 +1,37 @@
+{
+  "word": "crouch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "tigers crouch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18790.png",
+      "local_image_path": "images/18790.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I crouched behind the sofa",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18791.png",
+      "local_image_path": "images/18791.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18792.png",
+      "local_image_path": "images/18792.png"
+    }
+  ],
+  "synonyms": [
+    "bend",
+    "squat",
+    "stoop",
+    "duck",
+    "bow",
+    "hunker"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crouch.mp3",
+  "local_sound_path": "sounds/crouch.mp3"
+}

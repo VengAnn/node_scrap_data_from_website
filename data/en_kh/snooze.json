@@ -1,0 +1,30 @@
+{
+  "word": "snooze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82129.png",
+      "local_image_path": "images/82129.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82130.png",
+      "local_image_path": "images/82130.png"
+    }
+  ],
+  "synonyms": [
+    "doze",
+    "sleep",
+    "nap",
+    "catnap",
+    "kip"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/snooze.mp3",
+  "local_sound_path": "sounds/snooze.mp3"
+}

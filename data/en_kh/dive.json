@@ -1,0 +1,86 @@
+{
+  "word": "dive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "dive into the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22402.png",
+      "local_image_path": "images/22402.png"
+    },
+    {
+      "pos": "iv",
+      "example": "dive in",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22403.png",
+      "local_image_path": "images/22403.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118694.png",
+      "local_image_path": "images/118694.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118695.png",
+      "local_image_path": "images/118695.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118696.png",
+      "local_image_path": "images/118696.png"
+    },
+    {
+      "pos": "n",
+      "example": "athlete's dive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22404.png",
+      "local_image_path": "images/22404.png"
+    },
+    {
+      "pos": "sl",
+      "example": "cheap dive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22405.png",
+      "local_image_path": "images/22405.png"
+    }
+  ],
+  "synonyms": [
+    "dump",
+    "bar",
+    "joint",
+    "hangout",
+    "plummet",
+    "plunge",
+    "fall",
+    "nose-dive",
+    "crash",
+    "decrease"
+  ],
+  "antonyms": [
+    "surface"
+  ],
+  "similar_words": [
+    "divebomber",
+    "divell",
+    "divellent",
+    "divellicate",
+    "diver",
+    "diver-bomb",
+    "diverb",
+    "diverge",
+    "divergence",
+    "divergency",
+    "divergent",
+    "divers",
+    "diverse",
+    "diversification",
+    "diversified",
+    "diversiform",
+    "diversify",
+    "diversion"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dive.mp3",
+  "local_sound_path": "sounds/dive.mp3"
+}

@@ -1,0 +1,82 @@
+{
+  "word": "lodge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47331.png",
+      "local_image_path": "images/47331.png"
+    },
+    {
+      "pos": "iv",
+      "example": "lodge in the hotel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47332.png",
+      "local_image_path": "images/47332.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The soldiers were lodged in the school temporarily.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47333.png",
+      "local_image_path": "images/47333.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47327.png",
+      "local_image_path": "images/47327.png"
+    },
+    {
+      "pos": "n",
+      "example": "mountain lodge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47328.png",
+      "local_image_path": "images/47328.png"
+    },
+    {
+      "pos": "n",
+      "example": "guest lodge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47329.png",
+      "local_image_path": "images/47329.png"
+    },
+    {
+      "pos": "n",
+      "example": "lodge of a society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47330.png",
+      "local_image_path": "images/47330.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47334.png",
+      "local_image_path": "images/47334.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47335.png",
+      "local_image_path": "images/47335.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lodge a complaint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47336.png",
+      "local_image_path": "images/47336.png"
+    }
+  ],
+  "synonyms": [
+    "embed",
+    "implant",
+    "stick",
+    "catch",
+    "settle",
+    "imbed"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "lodgement",
+    "lodger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lodge.mp3",
+  "local_sound_path": "sounds/lodge.mp3"
+}

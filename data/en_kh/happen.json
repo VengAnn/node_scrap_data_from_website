@@ -1,0 +1,40 @@
+{
+  "word": "happen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "How did the accident happen?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33800.png",
+      "local_image_path": "images/33800.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33801.png",
+      "local_image_path": "images/33801.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33802.png",
+      "local_image_path": "images/33802.png"
+    }
+  ],
+  "synonyms": [
+    "occur",
+    "ensue",
+    "transpire",
+    "materialize",
+    "chance"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "happenchance",
+    "happening",
+    "happenstance"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/happen.mp3",
+  "local_sound_path": "sounds/happen.mp3"
+}

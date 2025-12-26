@@ -1,0 +1,47 @@
+{
+  "word": "notion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "notion that",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56431.png",
+      "local_image_path": "images/56431.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a sudden notion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56432.png",
+      "local_image_path": "images/56432.png"
+    },
+    {
+      "pos": "n",
+      "example": "have no notion of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56433.png",
+      "local_image_path": "images/56433.png"
+    },
+    {
+      "pos": "n",
+      "example": "small notion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56434.png",
+      "local_image_path": "images/56434.png"
+    }
+  ],
+  "synonyms": [
+    "impulse",
+    "urge",
+    "whim",
+    "fancy",
+    "instinct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "notional",
+    "notionalist",
+    "notionally",
+    "notionate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/notion.mp3",
+  "local_sound_path": "sounds/notion.mp3"
+}

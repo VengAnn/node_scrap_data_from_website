@@ -1,0 +1,43 @@
+{
+  "word": "acknowledgment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2081.png",
+      "local_image_path": "images/2081.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111915.png",
+      "local_image_path": "images/111915.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111916.png",
+      "local_image_path": "images/111916.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113185.png",
+      "local_image_path": "images/113185.png"
+    }
+  ],
+  "synonyms": [
+    "greeting",
+    "salutation",
+    "nod",
+    "wave",
+    "credit",
+    "heading"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acknowledgment.mp3",
+  "local_sound_path": "sounds/acknowledgment.mp3"
+}

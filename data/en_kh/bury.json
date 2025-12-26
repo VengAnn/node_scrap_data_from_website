@@ -1,0 +1,34 @@
+{
+  "word": "bury",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11987.png",
+      "local_image_path": "images/11987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131056.png",
+      "local_image_path": "images/131056.png"
+    }
+  ],
+  "synonyms": [
+    "hide",
+    "conceal",
+    "secrete",
+    "cover",
+    "submerge"
+  ],
+  "antonyms": [
+    "exhume",
+    "unearth",
+    "expose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bury.mp3",
+  "local_sound_path": "sounds/bury.mp3"
+}

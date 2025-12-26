@@ -1,0 +1,56 @@
+{
+  "word": "blench",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9507.png",
+      "local_image_path": "images/9507.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115193.png",
+      "local_image_path": "images/115193.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115194.png",
+      "local_image_path": "images/115194.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115195.png",
+      "local_image_path": "images/115195.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115196.png",
+      "local_image_path": "images/115196.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9508.png",
+      "local_image_path": "images/9508.png"
+    }
+  ],
+  "synonyms": [
+    "hesitate",
+    "falter",
+    "recoil",
+    "flinch",
+    "quail"
+  ],
+  "antonyms": [
+    "redden"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blench.mp3",
+  "local_sound_path": "sounds/blench.mp3"
+}

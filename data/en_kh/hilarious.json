@@ -1,0 +1,43 @@
+{
+  "word": "hilarious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35208.png",
+      "local_image_path": "images/35208.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121115.png",
+      "local_image_path": "images/121115.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121116.png",
+      "local_image_path": "images/121116.png"
+    }
+  ],
+  "synonyms": [
+    "amusing",
+    "comical",
+    "entertaining",
+    "uproarious",
+    "riotous",
+    "mirthful",
+    "funny",
+    "sidesplitting",
+    "hysterical"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hilariously",
+    "hilariousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hilarious.mp3",
+  "local_sound_path": "sounds/hilarious.mp3"
+}

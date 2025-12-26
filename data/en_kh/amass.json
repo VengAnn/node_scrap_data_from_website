@@ -1,0 +1,33 @@
+{
+  "word": "amass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3740.png",
+      "local_image_path": "images/3740.png"
+    }
+  ],
+  "synonyms": [
+    "accumulate",
+    "collect",
+    "build up",
+    "stockpile",
+    "hoard",
+    "accrue",
+    "assemble",
+    "gather"
+  ],
+  "antonyms": [
+    "distribute"
+  ],
+  "similar_words": [
+    "amassable",
+    "amasser",
+    "amassment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amass.mp3",
+  "local_sound_path": "sounds/amass.mp3"
+}

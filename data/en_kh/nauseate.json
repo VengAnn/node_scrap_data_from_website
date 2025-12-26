@@ -1,0 +1,33 @@
+{
+  "word": "nauseate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55098.png",
+      "local_image_path": "images/55098.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124505.png",
+      "local_image_path": "images/124505.png"
+    }
+  ],
+  "synonyms": [
+    "disgust",
+    "sicken",
+    "repel",
+    "revolt",
+    "upset"
+  ],
+  "antonyms": [
+    "attract",
+    "please"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nauseate.mp3",
+  "local_sound_path": "sounds/nauseate.mp3"
+}

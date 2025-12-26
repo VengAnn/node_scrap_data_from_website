@@ -1,0 +1,48 @@
+{
+  "word": "length",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "length of a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45833.png",
+      "local_image_path": "images/45833.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45834.png",
+      "local_image_path": "images/45834.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45835.png",
+      "local_image_path": "images/45835.png"
+    }
+  ],
+  "synonyms": [
+    "piece",
+    "strip",
+    "segment",
+    "part",
+    "chunk",
+    "duration",
+    "extent",
+    "time"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "lengthen",
+    "lengthener",
+    "lengthful",
+    "lengthily",
+    "lengthiness",
+    "lengthways",
+    "lengthwise",
+    "lengthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/length.mp3",
+  "local_sound_path": "sounds/length.mp3"
+}

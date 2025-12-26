@@ -1,0 +1,54 @@
+{
+  "word": "couch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18007.png",
+      "local_image_path": "images/18007.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18005.png",
+      "local_image_path": "images/18005.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117648.png",
+      "local_image_path": "images/117648.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117649.png",
+      "local_image_path": "images/117649.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18006.png",
+      "local_image_path": "images/18006.png"
+    }
+  ],
+  "synonyms": [
+    "express",
+    "phrase",
+    "put",
+    "word",
+    "formulate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "couch hopping",
+    "couchant",
+    "coucher",
+    "couchette",
+    "couchgrass"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/couch.mp3",
+  "local_sound_path": "sounds/couch.mp3"
+}

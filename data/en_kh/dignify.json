@@ -1,0 +1,45 @@
+{
+  "word": "dignify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21351.png",
+      "local_image_path": "images/21351.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118301.png",
+      "local_image_path": "images/118301.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118302.png",
+      "local_image_path": "images/118302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118303.png",
+      "local_image_path": "images/118303.png"
+    }
+  ],
+  "synonyms": [
+    "honor",
+    "exalt",
+    "distinguish",
+    "grace",
+    "glorify",
+    "venerate"
+  ],
+  "antonyms": [
+    "degrade"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dignify.mp3",
+  "local_sound_path": "sounds/dignify.mp3"
+}

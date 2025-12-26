@@ -1,0 +1,46 @@
+{
+  "word": "dogma",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22601.png",
+      "local_image_path": "images/22601.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130262.png",
+      "local_image_path": "images/130262.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130263.png",
+      "local_image_path": "images/130263.png"
+    }
+  ],
+  "synonyms": [
+    "creed",
+    "doctrine",
+    "canon",
+    "belief",
+    "view",
+    "philosophy",
+    "code"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dogmatic",
+    "dogmatical",
+    "dogmatically",
+    "dogmatise",
+    "dogmatism",
+    "dogmatist",
+    "dogmatize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dogma.mp3",
+  "local_sound_path": "sounds/dogma.mp3"
+}

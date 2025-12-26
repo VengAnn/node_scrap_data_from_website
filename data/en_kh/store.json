@@ -1,0 +1,68 @@
+{
+  "word": "store",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "food store",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85045.png",
+      "local_image_path": "images/85045.png"
+    },
+    {
+      "pos": "n",
+      "example": "store of supplies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85046.png",
+      "local_image_path": "images/85046.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85047.png",
+      "local_image_path": "images/85047.png"
+    },
+    {
+      "pos": "n",
+      "example": "store house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85048.png",
+      "local_image_path": "images/85048.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85049.png",
+      "local_image_path": "images/85049.png"
+    },
+    {
+      "pos": "tv",
+      "example": "store furniture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85050.png",
+      "local_image_path": "images/85050.png"
+    }
+  ],
+  "synonyms": [
+    "warehouse",
+    "storehouse",
+    "storeroom",
+    "depot",
+    "amass",
+    "hoard",
+    "accumulate",
+    "stockpile",
+    "save",
+    "collect",
+    "gather",
+    "shop"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "storehouse",
+    "storekeeper",
+    "storer",
+    "storeroom",
+    "storey",
+    "storeyed"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/store.mp3",
+  "local_sound_path": "sounds/store.mp3"
+}

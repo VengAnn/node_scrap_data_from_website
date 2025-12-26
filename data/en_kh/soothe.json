@@ -1,0 +1,46 @@
+{
+  "word": "soothe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82714.png",
+      "local_image_path": "images/82714.png"
+    },
+    {
+      "pos": "tv",
+      "example": "soothe a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82711.png",
+      "local_image_path": "images/82711.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82712.png",
+      "local_image_path": "images/82712.png"
+    },
+    {
+      "pos": "tv",
+      "example": "soothe pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82713.png",
+      "local_image_path": "images/82713.png"
+    }
+  ],
+  "synonyms": [
+    "ease",
+    "relieve",
+    "alleviate",
+    "reduce",
+    "palliate",
+    "lessen"
+  ],
+  "antonyms": [
+    "excite",
+    "aggravate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soothe.mp3",
+  "local_sound_path": "sounds/soothe.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "adieu",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "make one's adieus",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2373.png",
+      "local_image_path": "images/2373.png"
+    }
+  ],
+  "synonyms": [
+    "farewell",
+    "goodbye",
+    "send-off",
+    "leave-taking",
+    "valediction",
+    "parting"
+  ],
+  "antonyms": [
+    "hello",
+    "hallo",
+    "halloo",
+    "hullo"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adieu.mp3",
+  "local_sound_path": "sounds/adieu.mp3"
+}

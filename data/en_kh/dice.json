@@ -1,0 +1,43 @@
+{
+  "word": "dice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21227.png",
+      "local_image_path": "images/21227.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21228.png",
+      "local_image_path": "images/21228.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118262.png",
+      "local_image_path": "images/118262.png"
+    }
+  ],
+  "synonyms": [
+    "gamble",
+    "risk",
+    "stake",
+    "bet",
+    "wager",
+    "venture",
+    "hazard",
+    "chance"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dicephalous",
+    "dicer",
+    "dicey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dice.mp3",
+  "local_sound_path": "sounds/dice.mp3"
+}

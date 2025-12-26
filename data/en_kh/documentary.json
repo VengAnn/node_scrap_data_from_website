@@ -1,0 +1,41 @@
+{
+  "word": "documentary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "to modify a documentary",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22547.png",
+      "local_image_path": "images/22547.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22548.png",
+      "local_image_path": "images/22548.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118718.png",
+      "local_image_path": "images/118718.png"
+    }
+  ],
+  "synonyms": [
+    "film",
+    "movie",
+    "biography",
+    "life"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "documentary bill",
+    "documentary collection",
+    "documentary credit",
+    "documentary draft",
+    "documentary evidence"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/documentary.mp3",
+  "local_sound_path": "sounds/documentary.mp3"
+}

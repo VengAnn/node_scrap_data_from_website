@@ -1,0 +1,38 @@
+{
+  "word": "peaceful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "peaceful people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60882.png",
+      "local_image_path": "images/60882.png"
+    },
+    {
+      "pos": "adj",
+      "example": "peaceful place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60883.png",
+      "local_image_path": "images/60883.png"
+    }
+  ],
+  "synonyms": [
+    "quiet",
+    "serene",
+    "calm",
+    "still",
+    "peaceable",
+    "undisturbed"
+  ],
+  "antonyms": [
+    "violent"
+  ],
+  "similar_words": [
+    "peaceful coexistence",
+    "peaceful means",
+    "peacefully",
+    "peacefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peaceful.mp3",
+  "local_sound_path": "sounds/peaceful.mp3"
+}

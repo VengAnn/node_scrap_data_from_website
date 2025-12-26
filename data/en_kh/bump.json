@@ -1,0 +1,47 @@
+{
+  "word": "bump",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the driver bumped the kerb while reversing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11825.png",
+      "local_image_path": "images/11825.png"
+    },
+    {
+      "pos": "n",
+      "example": "the two children collieded with a bump",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11826.png",
+      "local_image_path": "images/11826.png"
+    },
+    {
+      "pos": "tv",
+      "example": "in the dark I bumped into a chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11824.png",
+      "local_image_path": "images/11824.png"
+    }
+  ],
+  "synonyms": [
+    "collision",
+    "smash",
+    "accident",
+    "crash",
+    "shunt",
+    "knock",
+    "collide"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bumper",
+    "bumpily",
+    "bumpiness",
+    "bumpkin",
+    "bumptious",
+    "bumptiously",
+    "bumptiousness",
+    "bumpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bump.mp3",
+  "local_sound_path": "sounds/bump.mp3"
+}

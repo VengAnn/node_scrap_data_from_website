@@ -1,0 +1,35 @@
+{
+  "word": "soon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "I will be here soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82704.png",
+      "local_image_path": "images/82704.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I would just as soon stay at home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82705.png",
+      "local_image_path": "images/82705.png"
+    }
+  ],
+  "synonyms": [
+    "rapidly",
+    "quickly",
+    "shortly",
+    "presently",
+    "momentarily"
+  ],
+  "antonyms": [
+    "later"
+  ],
+  "similar_words": [
+    "sooner",
+    "soonest"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soon.mp3",
+  "local_sound_path": "sounds/soon.mp3"
+}

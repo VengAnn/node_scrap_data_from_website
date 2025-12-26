@@ -1,0 +1,72 @@
+{
+  "word": "design",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20850.png",
+      "local_image_path": "images/20850.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118113.png",
+      "local_image_path": "images/118113.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118114.png",
+      "local_image_path": "images/118114.png"
+    },
+    {
+      "pos": "n",
+      "example": "clothing design",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118115.png",
+      "local_image_path": "images/118115.png"
+    },
+    {
+      "pos": "n",
+      "example": "interior/exterior design",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131949.png",
+      "local_image_path": "images/131949.png"
+    },
+    {
+      "pos": "tv",
+      "example": "design a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20849.png",
+      "local_image_path": "images/20849.png"
+    }
+  ],
+  "synonyms": [
+    "project",
+    "enterprise",
+    "plan",
+    "strategy",
+    "proposal",
+    "invent",
+    "create",
+    "conceive",
+    "originate",
+    "fabricate",
+    "construct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "design effect",
+    "design weight",
+    "designable",
+    "designate",
+    "designation",
+    "designative",
+    "designator",
+    "designatory",
+    "designedly",
+    "designer",
+    "designing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/design.mp3",
+  "local_sound_path": "sounds/design.mp3"
+}

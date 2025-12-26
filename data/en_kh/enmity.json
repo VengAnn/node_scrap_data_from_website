@@ -1,0 +1,41 @@
+{
+  "word": "enmity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25138.png",
+      "local_image_path": "images/25138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119225.png",
+      "local_image_path": "images/119225.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119226.png",
+      "local_image_path": "images/119226.png"
+    }
+  ],
+  "synonyms": [
+    "hostility",
+    "hate",
+    "antagonism",
+    "hatred",
+    "animosity",
+    "antipathy",
+    "rancor",
+    "ill will"
+  ],
+  "antonyms": [
+    "goodwill"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enmity.mp3",
+  "local_sound_path": "sounds/enmity.mp3"
+}

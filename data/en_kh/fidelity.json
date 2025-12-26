@@ -1,0 +1,35 @@
+{
+  "word": "fidelity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "marital fidelity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28367.png",
+      "local_image_path": "images/28367.png"
+    },
+    {
+      "pos": "n",
+      "example": "sound fidelity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28368.png",
+      "local_image_path": "images/28368.png"
+    }
+  ],
+  "synonyms": [
+    "loyalty",
+    "faithfulness",
+    "reliability",
+    "trustworthiness",
+    "dependability",
+    "devotion",
+    "commitment",
+    "conformity"
+  ],
+  "antonyms": [
+    "infidelity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fidelity.mp3",
+  "local_sound_path": "sounds/fidelity.mp3"
+}

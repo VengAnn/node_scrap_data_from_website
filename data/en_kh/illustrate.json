@@ -1,0 +1,39 @@
+{
+  "word": "illustrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37326.png",
+      "local_image_path": "images/37326.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37327.png",
+      "local_image_path": "images/37327.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121455.png",
+      "local_image_path": "images/121455.png"
+    }
+  ],
+  "synonyms": [
+    "exemplify",
+    "demonstrate",
+    "show",
+    "prove",
+    "explain",
+    "clarify",
+    "elucidate",
+    "illuminate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/illustrate.mp3",
+  "local_sound_path": "sounds/illustrate.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "desire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is your desire?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20871.png",
+      "local_image_path": "images/20871.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118125.png",
+      "local_image_path": "images/118125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118126.png",
+      "local_image_path": "images/118126.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118127.png",
+      "local_image_path": "images/118127.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Everybody who desires happiness should refram from doing evil.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20869.png",
+      "local_image_path": "images/20869.png"
+    },
+    {
+      "pos": "tv",
+      "example": "desire a woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20870.png",
+      "local_image_path": "images/20870.png"
+    }
+  ],
+  "synonyms": [
+    "plea",
+    "request",
+    "appeal",
+    "entreaty",
+    "petition",
+    "wish",
+    "ask",
+    "require",
+    "implore",
+    "entreat",
+    "beg"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desire.mp3",
+  "local_sound_path": "sounds/desire.mp3"
+}

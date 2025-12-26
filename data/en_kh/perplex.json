@@ -1,0 +1,57 @@
+{
+  "word": "perplex",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61951.png",
+      "local_image_path": "images/61951.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125382.png",
+      "local_image_path": "images/125382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125383.png",
+      "local_image_path": "images/125383.png"
+    }
+  ],
+  "synonyms": [
+    "bewilder",
+    "confuse",
+    "confound",
+    "baffle",
+    "stump",
+    "stymie",
+    "bamboozle",
+    "puzzle",
+    "stupefy",
+    "floor",
+    "stun",
+    "throw",
+    "mystify",
+    "fox",
+    "disconcert",
+    "flummox",
+    "befuddle",
+    "amaze"
+  ],
+  "antonyms": [
+    "enlighten"
+  ],
+  "similar_words": [
+    "perplexed",
+    "perplexedly",
+    "perplexing",
+    "perplexingly",
+    "perplexity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perplex.mp3",
+  "local_sound_path": "sounds/perplex.mp3"
+}

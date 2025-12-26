@@ -1,0 +1,49 @@
+{
+  "word": "coo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17551.png",
+      "local_image_path": "images/17551.png"
+    },
+    {
+      "pos": "iv",
+      "example": "pigeons coo",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17549.png",
+      "local_image_path": "images/17549.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17550.png",
+      "local_image_path": "images/17550.png"
+    }
+  ],
+  "synonyms": [
+    "fuss",
+    "cluck",
+    "chuckle",
+    "tut",
+    "bustle",
+    "flap"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cook",
+    "cook out",
+    "cookbook",
+    "cooker",
+    "cookery",
+    "cookie",
+    "cookie buster",
+    "cooking",
+    "cooking pot",
+    "cooky",
+    "cool"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coo.mp3",
+  "local_sound_path": "sounds/coo.mp3"
+}

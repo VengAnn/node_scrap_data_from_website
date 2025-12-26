@@ -1,0 +1,60 @@
+{
+  "word": "abase",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "abase oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1320.png",
+      "local_image_path": "images/1320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1319.png",
+      "local_image_path": "images/1319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112968.png",
+      "local_image_path": "images/112968.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112969.png",
+      "local_image_path": "images/112969.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112970.png",
+      "local_image_path": "images/112970.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112971.png",
+      "local_image_path": "images/112971.png"
+    }
+  ],
+  "synonyms": [
+    "lower",
+    "demean",
+    "degrade",
+    "belittle",
+    "humiliate",
+    "subjugate",
+    "denigrate"
+  ],
+  "antonyms": [
+    "respect"
+  ],
+  "similar_words": [
+    "abasement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abase.mp3",
+  "local_sound_path": "sounds/abase.mp3"
+}

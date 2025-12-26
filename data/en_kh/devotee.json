@@ -1,0 +1,39 @@
+{
+  "word": "devotee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "devotee of sport",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21121.png",
+      "local_image_path": "images/21121.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118235.png",
+      "local_image_path": "images/118235.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118236.png",
+      "local_image_path": "images/118236.png"
+    }
+  ],
+  "synonyms": [
+    "fan",
+    "follower",
+    "supporter",
+    "aficionado",
+    "disciple",
+    "enthusiast",
+    "believer",
+    "votary"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devotee.mp3",
+  "local_sound_path": "sounds/devotee.mp3"
+}

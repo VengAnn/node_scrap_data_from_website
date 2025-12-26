@@ -1,0 +1,37 @@
+{
+  "word": "transformation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "transformation of liquid into gas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90991.png",
+      "local_image_path": "images/90991.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128407.png",
+      "local_image_path": "images/128407.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128408.png",
+      "local_image_path": "images/128408.png"
+    }
+  ],
+  "synonyms": [
+    "alteration",
+    "change",
+    "conversion",
+    "revolution",
+    "renovation",
+    "makeover"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transformation.mp3",
+  "local_sound_path": "sounds/transformation.mp3"
+}

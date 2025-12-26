@@ -1,0 +1,63 @@
+{
+  "word": "sleep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81113.png",
+      "local_image_path": "images/81113.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81114.png",
+      "local_image_path": "images/81114.png"
+    },
+    {
+      "pos": "tv",
+      "example": "go to sleep",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81112.png",
+      "local_image_path": "images/81112.png"
+    }
+  ],
+  "synonyms": [
+    "slumber",
+    "nap",
+    "snooze",
+    "doze",
+    "catnap",
+    "kip"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sleep on",
+    "sleep walker",
+    "sleep-walking",
+    "sleeper",
+    "sleeper seat",
+    "sleepful",
+    "sleepily",
+    "sleepiness",
+    "sleeping",
+    "sleeping bag",
+    "sleeping-accommodation",
+    "sleeping-car",
+    "sleeping-chamber",
+    "sleeping-compartment",
+    "sleeping-draught",
+    "sleeping-partner",
+    "sleeping-pill",
+    "sleeping-potion",
+    "sleeping-room",
+    "sleeping-sickness",
+    "sleeping-suit",
+    "sleepless",
+    "sleeplessly",
+    "sleeplessness",
+    "sleepy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sleep.mp3",
+  "local_sound_path": "sounds/sleep.mp3"
+}

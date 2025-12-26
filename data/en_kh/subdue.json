@@ -1,0 +1,50 @@
+{
+  "word": "subdue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85717.png",
+      "local_image_path": "images/85717.png"
+    },
+    {
+      "pos": "tv",
+      "example": "subdue the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85718.png",
+      "local_image_path": "images/85718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "subdue his fear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85719.png",
+      "local_image_path": "images/85719.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85720.png",
+      "local_image_path": "images/85720.png"
+    }
+  ],
+  "synonyms": [
+    "subjugate",
+    "conquer",
+    "vanquish",
+    "defeat",
+    "overpower",
+    "overcome",
+    "crush",
+    "restrain",
+    "suppress",
+    "control",
+    "check",
+    "discipline",
+    "tame"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subdue.mp3",
+  "local_sound_path": "sounds/subdue.mp3"
+}

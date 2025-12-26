@@ -1,0 +1,32 @@
+{
+  "word": "ascend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "ascend the throne",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5717.png",
+      "local_image_path": "images/5717.png"
+    }
+  ],
+  "synonyms": [
+    "climb",
+    "mount",
+    "lead",
+    "scale"
+  ],
+  "antonyms": [
+    "descend"
+  ],
+  "similar_words": [
+    "ascendable",
+    "ascendance",
+    "ascendancy",
+    "ascendant",
+    "ascendible",
+    "ascending"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ascend.mp3",
+  "local_sound_path": "sounds/ascend.mp3"
+}

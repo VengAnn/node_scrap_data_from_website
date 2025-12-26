@@ -1,0 +1,99 @@
+{
+  "word": "thin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "thin paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88938.png",
+      "local_image_path": "images/88938.png"
+    },
+    {
+      "pos": "adj",
+      "example": "thin child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88939.png",
+      "local_image_path": "images/88939.png"
+    },
+    {
+      "pos": "adj",
+      "example": "thin wire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88940.png",
+      "local_image_path": "images/88940.png"
+    },
+    {
+      "pos": "adj",
+      "example": "thin vegetation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88941.png",
+      "local_image_path": "images/88941.png"
+    },
+    {
+      "pos": "adj",
+      "example": "thin soup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88942.png",
+      "local_image_path": "images/88942.png"
+    },
+    {
+      "pos": "adj",
+      "example": "thin smoke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88943.png",
+      "local_image_path": "images/88943.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88944.png",
+      "local_image_path": "images/88944.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88945.png",
+      "local_image_path": "images/88945.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88947.png",
+      "local_image_path": "images/88947.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88946.png",
+      "local_image_path": "images/88946.png"
+    }
+  ],
+  "synonyms": [
+    "dilute",
+    "weaken",
+    "disperse",
+    "rarefy"
+  ],
+  "antonyms": [
+    "fat",
+    "substantial",
+    "thick",
+    "concentrated",
+    "resonant",
+    "condense"
+  ],
+  "similar_words": [
+    "thin-skinned",
+    "thing",
+    "thingamabob",
+    "thingamajig",
+    "thingan",
+    "thingkingcap",
+    "thingumabob",
+    "thingumajig",
+    "thingumbob",
+    "thingummy",
+    "think",
+    "think tank",
+    "thinkable",
+    "thinkably"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thin.mp3",
+  "local_sound_path": "sounds/thin.mp3"
+}

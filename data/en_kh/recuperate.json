@@ -1,0 +1,51 @@
+{
+  "word": "recuperate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "recuperate from illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71063.png",
+      "local_image_path": "images/71063.png"
+    },
+    {
+      "pos": "iv",
+      "example": "recuperate from financial loss",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71064.png",
+      "local_image_path": "images/71064.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71065.png",
+      "local_image_path": "images/71065.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71066.png",
+      "local_image_path": "images/71066.png"
+    }
+  ],
+  "synonyms": [
+    "retrieve",
+    "reclaim",
+    "recover",
+    "recapture",
+    "salvage",
+    "regain",
+    "rescue",
+    "re-claim",
+    "claim",
+    "recoup",
+    "repossess"
+  ],
+  "antonyms": [
+    "deteriorate",
+    "lose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recuperate.mp3",
+  "local_sound_path": "sounds/recuperate.mp3"
+}

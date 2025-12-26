@@ -1,0 +1,41 @@
+{
+  "word": "navy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55128.png",
+      "local_image_path": "images/55128.png"
+    },
+    {
+      "pos": "n",
+      "example": "join the navy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55129.png",
+      "local_image_path": "images/55129.png"
+    },
+    {
+      "pos": "n",
+      "example": "raise a navy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55130.png",
+      "local_image_path": "images/55130.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124509.png",
+      "local_image_path": "images/124509.png"
+    }
+  ],
+  "synonyms": [
+    "fleet",
+    "armada",
+    "flotilla",
+    "merchant marine"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/navy.mp3",
+  "local_sound_path": "sounds/navy.mp3"
+}

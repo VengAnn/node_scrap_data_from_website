@@ -1,0 +1,30 @@
+{
+  "word": "classical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14829.png",
+      "local_image_path": "images/14829.png"
+    }
+  ],
+  "synonyms": [
+    "traditional",
+    "standard",
+    "conventional",
+    "orthodox",
+    "usual",
+    "typical",
+    "established",
+    "old"
+  ],
+  "antonyms": [
+    "new",
+    "modern"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/classical.mp3",
+  "local_sound_path": "sounds/classical.mp3"
+}

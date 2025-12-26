@@ -1,0 +1,35 @@
+{
+  "word": "aquatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "aquatic sports",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5236.png",
+      "local_image_path": "images/5236.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112658.png",
+      "local_image_path": "images/112658.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112659.png",
+      "local_image_path": "images/112659.png"
+    }
+  ],
+  "synonyms": [
+    "water",
+    "marine",
+    "sea",
+    "river"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aquatic.mp3",
+  "local_sound_path": "sounds/aquatic.mp3"
+}

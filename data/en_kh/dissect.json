@@ -1,0 +1,39 @@
+{
+  "word": "dissect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22162.png",
+      "local_image_path": "images/22162.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dissect an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22163.png",
+      "local_image_path": "images/22163.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dissect a problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22164.png",
+      "local_image_path": "images/22164.png"
+    }
+  ],
+  "synonyms": [
+    "scrutinize",
+    "analyze",
+    "examine",
+    "study",
+    "explore",
+    "anatomize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dissection"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissect.mp3",
+  "local_sound_path": "sounds/dissect.mp3"
+}

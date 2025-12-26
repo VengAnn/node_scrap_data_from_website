@@ -1,0 +1,45 @@
+{
+  "word": "critic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18649.png",
+      "local_image_path": "images/18649.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131016.png",
+      "local_image_path": "images/131016.png"
+    }
+  ],
+  "synonyms": [
+    "reviewer",
+    "columnist",
+    "commentator",
+    "reporter",
+    "journalist",
+    "appraiser",
+    "judge"
+  ],
+  "antonyms": [
+    "fan",
+    "supporter"
+  ],
+  "similar_words": [
+    "critical",
+    "critically",
+    "criticalness",
+    "criticaster",
+    "criticise",
+    "criticism",
+    "criticizable",
+    "criticize",
+    "criticizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/critic.mp3",
+  "local_sound_path": "sounds/critic.mp3"
+}

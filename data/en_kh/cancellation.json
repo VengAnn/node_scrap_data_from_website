@@ -1,0 +1,40 @@
+{
+  "word": "cancellation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12605.png",
+      "local_image_path": "images/12605.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115903.png",
+      "local_image_path": "images/115903.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115904.png",
+      "local_image_path": "images/115904.png"
+    }
+  ],
+  "synonyms": [
+    "annulment",
+    "abolition",
+    "termination",
+    "cessation",
+    "deletion",
+    "postponement",
+    "abandonment"
+  ],
+  "antonyms": [
+    "enactment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cancellation.mp3",
+  "local_sound_path": "sounds/cancellation.mp3"
+}

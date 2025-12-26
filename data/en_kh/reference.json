@@ -1,0 +1,33 @@
+{
+  "word": "reference",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make reference",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71325.png",
+      "local_image_path": "images/71325.png"
+    },
+    {
+      "pos": "n",
+      "example": "employment reference",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71326.png",
+      "local_image_path": "images/71326.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71327.png",
+      "local_image_path": "images/71327.png"
+    }
+  ],
+  "synonyms": [
+    "recommendation",
+    "testimonial"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reference.mp3",
+  "local_sound_path": "sounds/reference.mp3"
+}

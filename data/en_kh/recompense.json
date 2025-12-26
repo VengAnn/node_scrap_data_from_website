@@ -1,0 +1,40 @@
+{
+  "word": "recompense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70904.png",
+      "local_image_path": "images/70904.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70903.png",
+      "local_image_path": "images/70903.png"
+    }
+  ],
+  "synonyms": [
+    "payment",
+    "reward",
+    "remuneration",
+    "repayment",
+    "return",
+    "compensation",
+    "compensate",
+    "repay",
+    "pay",
+    "remunerate",
+    "reimburse",
+    "requite"
+  ],
+  "antonyms": [
+    "cost",
+    "charge"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recompense.mp3",
+  "local_sound_path": "sounds/recompense.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "simmer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80213.png",
+      "local_image_path": "images/80213.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127881.png",
+      "local_image_path": "images/127881.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80214.png",
+      "local_image_path": "images/80214.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80212.png",
+      "local_image_path": "images/80212.png"
+    }
+  ],
+  "synonyms": [
+    "seethe",
+    "rumble",
+    "bubble",
+    "boil",
+    "fester",
+    "smolder",
+    "cook"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/simmer.mp3",
+  "local_sound_path": "sounds/simmer.mp3"
+}

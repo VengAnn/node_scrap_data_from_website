@@ -1,0 +1,40 @@
+{
+  "word": "announce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4399.png",
+      "local_image_path": "images/4399.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4398.png",
+      "local_image_path": "images/4398.png"
+    }
+  ],
+  "synonyms": [
+    "proclaim",
+    "publicize",
+    "broadcast",
+    "declare",
+    "say",
+    "pronounce",
+    "state",
+    "reveal",
+    "name",
+    "post",
+    "herald",
+    "publish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "announcement",
+    "announcer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/announce.mp3",
+  "local_sound_path": "sounds/announce.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "faze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27898.png",
+      "local_image_path": "images/27898.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119976.png",
+      "local_image_path": "images/119976.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119977.png",
+      "local_image_path": "images/119977.png"
+    }
+  ],
+  "synonyms": [
+    "deter",
+    "daunt",
+    "throw",
+    "intimidate",
+    "upset",
+    "disturb",
+    "discourage",
+    "overwhelm",
+    "confuse",
+    "shock",
+    "surprise",
+    "disconcert",
+    "fluster"
+  ],
+  "antonyms": [
+    "encourage"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/faze.mp3",
+  "local_sound_path": "sounds/faze.mp3"
+}

@@ -1,0 +1,83 @@
+{
+  "word": "gain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "prices gain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30838.png",
+      "local_image_path": "images/30838.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30839.png",
+      "local_image_path": "images/30839.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gain one's ends",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30835.png",
+      "local_image_path": "images/30835.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gain time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30836.png",
+      "local_image_path": "images/30836.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gain the prize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30837.png",
+      "local_image_path": "images/30837.png"
+    }
+  ],
+  "synonyms": [
+    "improvement",
+    "advance",
+    "increase",
+    "expansion",
+    "addition",
+    "get",
+    "win",
+    "obtain",
+    "acquire",
+    "earn",
+    "attain",
+    "reach",
+    "make",
+    "take",
+    "achieve",
+    "profit",
+    "benefit",
+    "increment",
+    "advantage",
+    "lucre",
+    "secure",
+    "collect",
+    "reap"
+  ],
+  "antonyms": [
+    "decrease",
+    "lose",
+    "loss",
+    "setback"
+  ],
+  "similar_words": [
+    "gainer",
+    "gainful",
+    "gainful employment",
+    "gainfully",
+    "gainfulness",
+    "gainings",
+    "gainless",
+    "gainliness",
+    "gainly",
+    "gainsay",
+    "gainsayer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gain.mp3",
+  "local_sound_path": "sounds/gain.mp3"
+}

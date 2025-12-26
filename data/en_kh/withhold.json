@@ -1,0 +1,34 @@
+{
+  "word": "withhold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "withhold payment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100641.png",
+      "local_image_path": "images/100641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "withhold income tax",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100642.png",
+      "local_image_path": "images/100642.png"
+    }
+  ],
+  "synonyms": [
+    "deny",
+    "refuse",
+    "suppress",
+    "reserve"
+  ],
+  "antonyms": [
+    "give"
+  ],
+  "similar_words": [
+    "withholder",
+    "withholding tax"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/withhold.mp3",
+  "local_sound_path": "sounds/withhold.mp3"
+}

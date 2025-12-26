@@ -1,0 +1,48 @@
+{
+  "word": "frustrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "frustrate his hopes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30506.png",
+      "local_image_path": "images/30506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "frustrate him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30507.png",
+      "local_image_path": "images/30507.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120501.png",
+      "local_image_path": "images/120501.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120502.png",
+      "local_image_path": "images/120502.png"
+    }
+  ],
+  "synonyms": [
+    "prevent",
+    "thwart",
+    "foil",
+    "stop",
+    "block",
+    "hinder",
+    "obstruct",
+    "stymie"
+  ],
+  "antonyms": [
+    "encourage",
+    "promote"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frustrate.mp3",
+  "local_sound_path": "sounds/frustrate.mp3"
+}

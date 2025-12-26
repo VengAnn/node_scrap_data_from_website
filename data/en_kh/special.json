@@ -1,0 +1,52 @@
+{
+  "word": "special",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "special program",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83148.png",
+      "local_image_path": "images/83148.png"
+    },
+    {
+      "pos": "adj",
+      "example": "special friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83149.png",
+      "local_image_path": "images/83149.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a special on hamburger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83150.png",
+      "local_image_path": "images/83150.png"
+    },
+    {
+      "pos": "n",
+      "example": "TV special",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83151.png",
+      "local_image_path": "images/83151.png"
+    }
+  ],
+  "synonyms": [
+    "exclusive",
+    "elite"
+  ],
+  "antonyms": [
+    "ordinary",
+    "common",
+    "regular",
+    "general"
+  ],
+  "similar_words": [
+    "specialist",
+    "speciality",
+    "specialization",
+    "specialize",
+    "specialized",
+    "specially",
+    "specialty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/special.mp3",
+  "local_sound_path": "sounds/special.mp3"
+}

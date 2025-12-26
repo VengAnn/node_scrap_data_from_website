@@ -1,0 +1,43 @@
+{
+  "word": "indiscriminate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39113.png",
+      "local_image_path": "images/39113.png"
+    },
+    {
+      "pos": "adj",
+      "example": "indiscriminate killing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39114.png",
+      "local_image_path": "images/39114.png"
+    },
+    {
+      "pos": "adj",
+      "example": "indiscriminate treatment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39115.png",
+      "local_image_path": "images/39115.png"
+    }
+  ],
+  "synonyms": [
+    "haphazard",
+    "random",
+    "arbitrary",
+    "wholesale",
+    "blanket",
+    "unsystematic"
+  ],
+  "antonyms": [
+    "selective",
+    "planned"
+  ],
+  "similar_words": [
+    "indiscriminately",
+    "indiscriminateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indiscriminate.mp3",
+  "local_sound_path": "sounds/indiscriminate.mp3"
+}

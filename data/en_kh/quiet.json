@@ -1,0 +1,82 @@
+{
+  "word": "quiet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "quiet night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69585.png",
+      "local_image_path": "images/69585.png"
+    },
+    {
+      "pos": "adj",
+      "example": "quiet person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69586.png",
+      "local_image_path": "images/69586.png"
+    },
+    {
+      "pos": "adj",
+      "example": "quiet color",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69587.png",
+      "local_image_path": "images/69587.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69590.png",
+      "local_image_path": "images/69590.png"
+    },
+    {
+      "pos": "tv",
+      "example": "quiet a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69588.png",
+      "local_image_path": "images/69588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "quiet his fears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69589.png",
+      "local_image_path": "images/69589.png"
+    }
+  ],
+  "synonyms": [
+    "subtle",
+    "unobtrusive",
+    "alleviate",
+    "allay",
+    "soothe",
+    "assuage",
+    "quell",
+    "mollify",
+    "banish",
+    "dispel",
+    "still",
+    "calm",
+    "ease"
+  ],
+  "antonyms": [
+    "rouse",
+    "loud",
+    "noise",
+    "arouse",
+    "noisy",
+    "public",
+    "busy",
+    "showy",
+    "animate",
+    "aggravate"
+  ],
+  "similar_words": [
+    "quiet enjoyment",
+    "quieten",
+    "quietism",
+    "quietist",
+    "quietly",
+    "quietness",
+    "quietude",
+    "quietus"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quiet.mp3",
+  "local_sound_path": "sounds/quiet.mp3"
+}

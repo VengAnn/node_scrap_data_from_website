@@ -1,0 +1,47 @@
+{
+  "word": "clearance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "customs clearance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14926.png",
+      "local_image_path": "images/14926.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116455.png",
+      "local_image_path": "images/116455.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116456.png",
+      "local_image_path": "images/116456.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116457.png",
+      "local_image_path": "images/116457.png"
+    }
+  ],
+  "synonyms": [
+    "permission",
+    "authorization",
+    "go-ahead",
+    "consent",
+    "approval",
+    "okay",
+    "allowance",
+    "sanction"
+  ],
+  "antonyms": [
+    "prohibition"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clearance.mp3",
+  "local_sound_path": "sounds/clearance.mp3"
+}

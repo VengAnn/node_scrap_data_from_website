@@ -1,0 +1,65 @@
+{
+  "word": "hope",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "We hope to see you soon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35907.png",
+      "local_image_path": "images/35907.png"
+    },
+    {
+      "pos": "n",
+      "example": "I have good hopes that he will soon be well again.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35905.png",
+      "local_image_path": "images/35905.png"
+    },
+    {
+      "pos": "n",
+      "example": "our only hope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35906.png",
+      "local_image_path": "images/35906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121200.png",
+      "local_image_path": "images/121200.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121201.png",
+      "local_image_path": "images/121201.png"
+    }
+  ],
+  "synonyms": [
+    "chance",
+    "prospect",
+    "likelihood",
+    "possibility",
+    "want",
+    "expect",
+    "trust",
+    "anticipate",
+    "wish",
+    "yearn",
+    "long",
+    "look forward to"
+  ],
+  "antonyms": [
+    "despair",
+    "impossibility"
+  ],
+  "similar_words": [
+    "hopeful",
+    "hopefully",
+    "hopefulness",
+    "hopeless",
+    "hopelessly",
+    "hopelessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hope.mp3",
+  "local_sound_path": "sounds/hope.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "mover",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110812.png",
+      "local_image_path": "images/110812.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110813.png",
+      "local_image_path": "images/110813.png"
+    }
+  ],
+  "synonyms": [
+    "transporter",
+    "carter",
+    "shipper"
+  ],
+  "antonyms": [
+    "seconder"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mover.mp3",
+  "local_sound_path": "sounds/mover.mp3"
+}

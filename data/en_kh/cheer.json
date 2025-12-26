@@ -1,0 +1,81 @@
+{
+  "word": "cheer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "cheer for a team",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14014.png",
+      "local_image_path": "images/14014.png"
+    },
+    {
+      "pos": "iv",
+      "example": "cheer up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14015.png",
+      "local_image_path": "images/14015.png"
+    },
+    {
+      "pos": "n",
+      "example": "a loud cheer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14016.png",
+      "local_image_path": "images/14016.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cheer the leader",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14010.png",
+      "local_image_path": "images/14010.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cheek the room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14011.png",
+      "local_image_path": "images/14011.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cheer on (a team)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14012.png",
+      "local_image_path": "images/14012.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cheer up (a friend)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14013.png",
+      "local_image_path": "images/14013.png"
+    }
+  ],
+  "synonyms": [
+    "cheerfulness",
+    "optimism",
+    "merriment",
+    "joyfulness",
+    "liveliness",
+    "applaud",
+    "shout",
+    "hail",
+    "praise"
+  ],
+  "antonyms": [
+    "gloom"
+  ],
+  "similar_words": [
+    "cheerer",
+    "cheerful",
+    "cheerfully",
+    "cheerfulness",
+    "cheerily",
+    "cheeriness",
+    "cheering",
+    "cheeringly",
+    "cheerio",
+    "cheerless",
+    "cheerlessly",
+    "cheerlessness",
+    "cheers",
+    "cheery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cheer.mp3",
+  "local_sound_path": "sounds/cheer.mp3"
+}

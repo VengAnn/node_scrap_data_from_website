@@ -1,0 +1,67 @@
+{
+  "word": "drain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "All the blood drained from his face.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22981.png",
+      "local_image_path": "images/22981.png"
+    },
+    {
+      "pos": "n",
+      "example": "clogged drain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22982.png",
+      "local_image_path": "images/22982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drain apond",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22977.png",
+      "local_image_path": "images/22977.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22978.png",
+      "local_image_path": "images/22978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22979.png",
+      "local_image_path": "images/22979.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drain resource",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22980.png",
+      "local_image_path": "images/22980.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131598.png",
+      "local_image_path": "images/131598.png"
+    }
+  ],
+  "synonyms": [
+    "empty",
+    "bleed",
+    "remove",
+    "tap",
+    "withdraw"
+  ],
+  "antonyms": [
+    "replenish",
+    "fill"
+  ],
+  "similar_words": [
+    "drainable",
+    "drainage",
+    "drainer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drain.mp3",
+  "local_sound_path": "sounds/drain.mp3"
+}

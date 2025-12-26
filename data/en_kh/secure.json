@@ -1,0 +1,87 @@
+{
+  "word": "secure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "My family is secure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77601.png",
+      "local_image_path": "images/77601.png"
+    },
+    {
+      "pos": "adj",
+      "example": "secure load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77602.png",
+      "local_image_path": "images/77602.png"
+    },
+    {
+      "pos": "adj",
+      "example": "secure job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77603.png",
+      "local_image_path": "images/77603.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127592.png",
+      "local_image_path": "images/127592.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127593.png",
+      "local_image_path": "images/127593.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127594.png",
+      "local_image_path": "images/127594.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127595.png",
+      "local_image_path": "images/127595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77604.png",
+      "local_image_path": "images/77604.png"
+    },
+    {
+      "pos": "tv",
+      "example": "secure wealth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77605.png",
+      "local_image_path": "images/77605.png"
+    },
+    {
+      "pos": "tv",
+      "example": "secure a load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77606.png",
+      "local_image_path": "images/77606.png"
+    }
+  ],
+  "synonyms": [
+    "guarantee",
+    "assure",
+    "ensure",
+    "indemnify"
+  ],
+  "antonyms": [
+    "vulnerable",
+    "insecure",
+    "loosen",
+    "unreliable",
+    "lose"
+  ],
+  "similar_words": [
+    "secured",
+    "securely",
+    "securement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/secure.mp3",
+  "local_sound_path": "sounds/secure.mp3"
+}

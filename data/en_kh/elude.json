@@ -1,0 +1,47 @@
+{
+  "word": "elude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "elude the police",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24370.png",
+      "local_image_path": "images/24370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The meaning eludes me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24371.png",
+      "local_image_path": "images/24371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119016.png",
+      "local_image_path": "images/119016.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119017.png",
+      "local_image_path": "images/119017.png"
+    }
+  ],
+  "synonyms": [
+    "escape",
+    "avoid",
+    "evade",
+    "dodge",
+    "baffle",
+    "confound",
+    "foil",
+    "puzzle",
+    "stump",
+    "thwart"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elude.mp3",
+  "local_sound_path": "sounds/elude.mp3"
+}

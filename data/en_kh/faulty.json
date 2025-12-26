@@ -1,0 +1,30 @@
+{
+  "word": "faulty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27844.png",
+      "local_image_path": "images/27844.png"
+    }
+  ],
+  "synonyms": [
+    "imperfect",
+    "incorrect",
+    "incoherent",
+    "contradictory",
+    "defective",
+    "deficient",
+    "confused"
+  ],
+  "antonyms": [
+    "fine",
+    "sound",
+    "perfect"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/faulty.mp3",
+  "local_sound_path": "sounds/faulty.mp3"
+}

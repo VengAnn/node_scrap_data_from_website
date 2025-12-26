@@ -1,0 +1,80 @@
+{
+  "word": "compact",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "compact car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16139.png",
+      "local_image_path": "images/16139.png"
+    },
+    {
+      "pos": "n",
+      "example": "the two states made a compact to cooperate against terrorism",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16141.png",
+      "local_image_path": "images/16141.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116838.png",
+      "local_image_path": "images/116838.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116839.png",
+      "local_image_path": "images/116839.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116840.png",
+      "local_image_path": "images/116840.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116841.png",
+      "local_image_path": "images/116841.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16140.png",
+      "local_image_path": "images/16140.png"
+    }
+  ],
+  "synonyms": [
+    "small",
+    "neat",
+    "trim",
+    "tiny",
+    "miniature",
+    "pocket-sized",
+    "reduced",
+    "efficient",
+    "compress",
+    "pack",
+    "squeeze",
+    "squash",
+    "tamp",
+    "press",
+    "condense"
+  ],
+  "antonyms": [
+    "loose",
+    "loosen",
+    "large"
+  ],
+  "similar_words": [
+    "compacter",
+    "compaction",
+    "compactly",
+    "compactness",
+    "compactor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compact.mp3",
+  "local_sound_path": "sounds/compact.mp3"
+}

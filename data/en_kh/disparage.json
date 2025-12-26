@@ -1,0 +1,34 @@
+{
+  "word": "disparage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "An objective observer might disparage conservatives.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22013.png",
+      "local_image_path": "images/22013.png"
+    }
+  ],
+  "synonyms": [
+    "belittle",
+    "mock",
+    "ridicule",
+    "criticize",
+    "vilify",
+    "denigrate",
+    "sneer",
+    "deride",
+    "scorn",
+    "rubbish"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "disparagement",
+    "disparagement of goods"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disparage.mp3",
+  "local_sound_path": "sounds/disparage.mp3"
+}

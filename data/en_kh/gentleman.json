@@ -1,0 +1,32 @@
+{
+  "word": "gentleman",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31458.png",
+      "local_image_path": "images/31458.png"
+    }
+  ],
+  "synonyms": [
+    "man",
+    "guy",
+    "chap",
+    "male",
+    "lad",
+    "fellow",
+    "person"
+  ],
+  "antonyms": [
+    "woman"
+  ],
+  "similar_words": [
+    "gentlemanlike",
+    "gentlemanliness",
+    "gentlemanly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gentleman.mp3",
+  "local_sound_path": "sounds/gentleman.mp3"
+}

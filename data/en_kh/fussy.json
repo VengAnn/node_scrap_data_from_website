@@ -1,0 +1,43 @@
+{
+  "word": "fussy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fussy with his dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30753.png",
+      "local_image_path": "images/30753.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fussy child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30754.png",
+      "local_image_path": "images/30754.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120541.png",
+      "local_image_path": "images/120541.png"
+    }
+  ],
+  "synonyms": [
+    "picky",
+    "particular",
+    "finicky",
+    "selective",
+    "choosy",
+    "persnickety",
+    "exacting",
+    "pernickety",
+    "inflexible",
+    "fastidious"
+  ],
+  "antonyms": [
+    "laid-back"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fussy.mp3",
+  "local_sound_path": "sounds/fussy.mp3"
+}

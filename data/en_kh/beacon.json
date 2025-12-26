@@ -1,0 +1,42 @@
+{
+  "word": "beacon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ornamental bead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7832.png",
+      "local_image_path": "images/7832.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114704.png",
+      "local_image_path": "images/114704.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114705.png",
+      "local_image_path": "images/114705.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114706.png",
+      "local_image_path": "images/114706.png"
+    }
+  ],
+  "synonyms": [
+    "signal",
+    "sign",
+    "warning",
+    "flare",
+    "alarm"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beacon.mp3",
+  "local_sound_path": "sounds/beacon.mp3"
+}

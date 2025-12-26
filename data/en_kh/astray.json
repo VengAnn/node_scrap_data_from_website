@@ -1,0 +1,41 @@
+{
+  "word": "astray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6041.png",
+      "local_image_path": "images/6041.png"
+    },
+    {
+      "pos": "adv",
+      "example": "to go astray",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6040.png",
+      "local_image_path": "images/6040.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114182.png",
+      "local_image_path": "images/114182.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114183.png",
+      "local_image_path": "images/114183.png"
+    }
+  ],
+  "synonyms": [
+    "lost",
+    "amiss",
+    "afield",
+    "awry"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astray.mp3",
+  "local_sound_path": "sounds/astray.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "spar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "boxers spar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83044.png",
+      "local_image_path": "images/83044.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83043.png",
+      "local_image_path": "images/83043.png"
+    }
+  ],
+  "synonyms": [
+    "pole",
+    "arm",
+    "mast",
+    "boom",
+    "rod",
+    "argue",
+    "fence",
+    "dispute",
+    "wrangle",
+    "squabble",
+    "bicker",
+    "joust"
+  ],
+  "antonyms": [
+    "agree"
+  ],
+  "similar_words": [
+    "spare",
+    "spare part",
+    "spare time",
+    "spareful",
+    "sparefully",
+    "sparefulness",
+    "spareless",
+    "sparerib",
+    "sparganium",
+    "sparge",
+    "spargefication",
+    "sparhawk",
+    "sparing",
+    "sparingly",
+    "spark",
+    "sparkish",
+    "sparkle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spar.mp3",
+  "local_sound_path": "sounds/spar.mp3"
+}

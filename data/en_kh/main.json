@@ -1,0 +1,65 @@
+{
+  "word": "main",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "main office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105395.png",
+      "local_image_path": "images/105395.png"
+    },
+    {
+      "pos": "adj",
+      "example": "main idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105396.png",
+      "local_image_path": "images/105396.png"
+    },
+    {
+      "pos": "n",
+      "example": "water main",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105397.png",
+      "local_image_path": "images/105397.png"
+    }
+  ],
+  "synonyms": [
+    "major",
+    "chief",
+    "key",
+    "foremost",
+    "core",
+    "focal",
+    "central",
+    "highest",
+    "leading",
+    "principal",
+    "head"
+  ],
+  "antonyms": [
+    "minor"
+  ],
+  "similar_words": [
+    "main clause",
+    "main deck",
+    "main lander",
+    "main mast",
+    "main street",
+    "mainframe",
+    "mainland",
+    "mainline",
+    "mainly",
+    "mainsail",
+    "mainsea",
+    "mainspring",
+    "mainstay",
+    "mainstream",
+    "maint",
+    "maintain",
+    "maintainable",
+    "maintainer",
+    "maintenance",
+    "maintenance costs"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/main.mp3",
+  "local_sound_path": "sounds/main.mp3"
+}

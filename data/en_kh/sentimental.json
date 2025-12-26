@@ -1,0 +1,50 @@
+{
+  "word": "sentimental",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sentimental novel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78165.png",
+      "local_image_path": "images/78165.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sentimental person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78166.png",
+      "local_image_path": "images/78166.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sentimental value",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78167.png",
+      "local_image_path": "images/78167.png"
+    }
+  ],
+  "synonyms": [
+    "sappy",
+    "sloppy",
+    "schmaltzy",
+    "corny",
+    "gushy",
+    "maudlin",
+    "emotional",
+    "mawkish",
+    "romantic",
+    "soppy",
+    "slushy"
+  ],
+  "antonyms": [
+    "cynical"
+  ],
+  "similar_words": [
+    "sentimentalism",
+    "sentimentalist",
+    "sentimentality",
+    "sentimentalize",
+    "sentimentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sentimental.mp3",
+  "local_sound_path": "sounds/sentimental.mp3"
+}

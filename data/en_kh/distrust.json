@@ -1,0 +1,38 @@
+{
+  "word": "distrust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22341.png",
+      "local_image_path": "images/22341.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He has a distrust of strangers.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22340.png",
+      "local_image_path": "images/22340.png"
+    }
+  ],
+  "synonyms": [
+    "suspicion",
+    "disbelief",
+    "doubt",
+    "skepticism",
+    "cynicism",
+    "disbelieve",
+    "mistrust",
+    "suspect"
+  ],
+  "antonyms": [
+    "trust"
+  ],
+  "similar_words": [
+    "distrustful",
+    "distrustfully"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distrust.mp3",
+  "local_sound_path": "sounds/distrust.mp3"
+}

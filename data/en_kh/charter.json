@@ -1,0 +1,49 @@
+{
+  "word": "charter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "business charter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13890.png",
+      "local_image_path": "images/13890.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116219.png",
+      "local_image_path": "images/116219.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116220.png",
+      "local_image_path": "images/116220.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116221.png",
+      "local_image_path": "images/116221.png"
+    },
+    {
+      "pos": "tv",
+      "example": "charter a local charter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13891.png",
+      "local_image_path": "images/13891.png"
+    }
+  ],
+  "synonyms": [
+    "rent",
+    "employ",
+    "lease",
+    "hire",
+    "commission",
+    "let"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/charter.mp3",
+  "local_sound_path": "sounds/charter.mp3"
+}

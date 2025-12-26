@@ -1,0 +1,63 @@
+{
+  "word": "burn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11950.png",
+      "local_image_path": "images/11950.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11948.png",
+      "local_image_path": "images/11948.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11951.png",
+      "local_image_path": "images/11951.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11949.png",
+      "local_image_path": "images/11949.png"
+    }
+  ],
+  "synonyms": [
+    "tingle",
+    "smart",
+    "sting",
+    "race",
+    "hurtle",
+    "tear",
+    "speed",
+    "scorch",
+    "zoom"
+  ],
+  "antonyms": [
+    "dawdle"
+  ],
+  "similar_words": [
+    "burn rate",
+    "burnable",
+    "burner",
+    "burnet",
+    "burning",
+    "burning​ sensation",
+    "burnish",
+    "burnisher",
+    "burnoose",
+    "burnous",
+    "burnout",
+    "burnt",
+    "burnt offering",
+    "burnt-out"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burn.mp3",
+  "local_sound_path": "sounds/burn.mp3"
+}

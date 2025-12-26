@@ -1,0 +1,41 @@
+{
+  "word": "accumulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Dust quickly accumulates if we don't sweep our room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1945.png",
+      "local_image_path": "images/1945.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111938.png",
+      "local_image_path": "images/111938.png"
+    },
+    {
+      "pos": "tv",
+      "example": "accumulate books",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1944.png",
+      "local_image_path": "images/1944.png"
+    }
+  ],
+  "synonyms": [
+    "build up",
+    "accrue",
+    "amass",
+    "collect",
+    "gather",
+    "hoard",
+    "add",
+    "store"
+  ],
+  "antonyms": [
+    "disperse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accumulate.mp3",
+  "local_sound_path": "sounds/accumulate.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "tale",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "fairy tale",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87342.png",
+      "local_image_path": "images/87342.png"
+    }
+  ],
+  "synonyms": [
+    "lie",
+    "fib",
+    "untruth",
+    "rumor",
+    "story",
+    "falsehood",
+    "fabrication",
+    "gossip"
+  ],
+  "antonyms": [
+    "truth"
+  ],
+  "similar_words": [
+    "tale-teller",
+    "tale-telling",
+    "talebearer",
+    "talebearering",
+    "talent",
+    "talented",
+    "talentedless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tale.mp3",
+  "local_sound_path": "sounds/tale.mp3"
+}

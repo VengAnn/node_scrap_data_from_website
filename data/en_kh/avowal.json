@@ -1,0 +1,48 @@
+{
+  "word": "avowal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6744.png",
+      "local_image_path": "images/6744.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112940.png",
+      "local_image_path": "images/112940.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112941.png",
+      "local_image_path": "images/112941.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112942.png",
+      "local_image_path": "images/112942.png"
+    }
+  ],
+  "synonyms": [
+    "affirmation",
+    "statement",
+    "confirmation",
+    "declaration",
+    "acknowledgment",
+    "admission",
+    "acknowledgement",
+    "confession",
+    "profession"
+  ],
+  "antonyms": [
+    "denial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avowal.mp3",
+  "local_sound_path": "sounds/avowal.mp3"
+}

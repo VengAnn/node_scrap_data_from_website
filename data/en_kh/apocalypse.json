@@ -1,0 +1,29 @@
+{
+  "word": "apocalypse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4949.png",
+      "local_image_path": "images/4949.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113824.png",
+      "local_image_path": "images/113824.png"
+    }
+  ],
+  "synonyms": [
+    "disaster",
+    "catastrophe",
+    "destruction",
+    "Armageddon"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apocalypse.mp3",
+  "local_sound_path": "sounds/apocalypse.mp3"
+}

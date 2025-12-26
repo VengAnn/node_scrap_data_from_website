@@ -1,0 +1,45 @@
+{
+  "word": "revise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73352.png",
+      "local_image_path": "images/73352.png"
+    },
+    {
+      "pos": "tv",
+      "example": "revise one's opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73353.png",
+      "local_image_path": "images/73353.png"
+    },
+    {
+      "pos": "tv",
+      "example": "revise an article",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73354.png",
+      "local_image_path": "images/73354.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73358.png",
+      "local_image_path": "images/73358.png"
+    }
+  ],
+  "synonyms": [
+    "amend",
+    "modify",
+    "adjust",
+    "alter",
+    "change",
+    "correct",
+    "improve",
+    "rework"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/revise.mp3",
+  "local_sound_path": "sounds/revise.mp3"
+}

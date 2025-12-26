@@ -1,0 +1,49 @@
+{
+  "word": "rhyme",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73510.png",
+      "local_image_path": "images/73510.png"
+    },
+    {
+      "pos": "n",
+      "example": "the two words form a rhyme",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73507.png",
+      "local_image_path": "images/73507.png"
+    },
+    {
+      "pos": "n",
+      "example": "use rhyme for euphony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73508.png",
+      "local_image_path": "images/73508.png"
+    },
+    {
+      "pos": "n",
+      "example": "write a euphony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73509.png",
+      "local_image_path": "images/73509.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73511.png",
+      "local_image_path": "images/73511.png"
+    }
+  ],
+  "synonyms": [
+    "verse",
+    "poetry",
+    "assonance"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rhymer",
+    "rhymester"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rhyme.mp3",
+  "local_sound_path": "sounds/rhyme.mp3"
+}

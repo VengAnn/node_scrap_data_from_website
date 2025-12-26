@@ -1,0 +1,45 @@
+{
+  "word": "huddle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The children huddled together for warmth.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36218.png",
+      "local_image_path": "images/36218.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36219.png",
+      "local_image_path": "images/36219.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36216.png",
+      "local_image_path": "images/36216.png"
+    },
+    {
+      "pos": "tv",
+      "example": "huddle together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36217.png",
+      "local_image_path": "images/36217.png"
+    }
+  ],
+  "synonyms": [
+    "hunch",
+    "bend",
+    "crouch",
+    "cower",
+    "nestle"
+  ],
+  "antonyms": [
+    "scattering",
+    "scatter"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/huddle.mp3",
+  "local_sound_path": "sounds/huddle.mp3"
+}

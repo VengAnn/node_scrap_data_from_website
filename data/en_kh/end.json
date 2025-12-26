@@ -1,0 +1,109 @@
+{
+  "word": "end",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "end in disaster",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24853.png",
+      "local_image_path": "images/24853.png"
+    },
+    {
+      "pos": "iv",
+      "example": "end at 4 p.m",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24854.png",
+      "local_image_path": "images/24854.png"
+    },
+    {
+      "pos": "n",
+      "example": "end of the year",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24849.png",
+      "local_image_path": "images/24849.png"
+    },
+    {
+      "pos": "n",
+      "example": "meet one's end",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24850.png",
+      "local_image_path": "images/24850.png"
+    },
+    {
+      "pos": "n",
+      "example": "end of a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24851.png",
+      "local_image_path": "images/24851.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24852.png",
+      "local_image_path": "images/24852.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119160.png",
+      "local_image_path": "images/119160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119161.png",
+      "local_image_path": "images/119161.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119162.png",
+      "local_image_path": "images/119162.png"
+    },
+    {
+      "pos": "tv",
+      "example": "end one's days",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24855.png",
+      "local_image_path": "images/24855.png"
+    }
+  ],
+  "synonyms": [
+    "purpose",
+    "aim",
+    "result",
+    "outcome",
+    "objective",
+    "goal",
+    "finish",
+    "conclude",
+    "culminate"
+  ],
+  "antonyms": [
+    "beginning",
+    "start",
+    "begin",
+    "middle",
+    "whole",
+    "birth"
+  ],
+  "similar_words": [
+    "endable",
+    "endamage",
+    "endanger",
+    "endangerment",
+    "endark",
+    "endear",
+    "endearance",
+    "endearing",
+    "endearingly",
+    "endearment",
+    "endeavor",
+    "endeavour",
+    "endecagon",
+    "endecaphyllous",
+    "endecasyllabic",
+    "endecasyllable",
+    "endecency",
+    "ended",
+    "endeictic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/end.mp3",
+  "local_sound_path": "sounds/end.mp3"
+}

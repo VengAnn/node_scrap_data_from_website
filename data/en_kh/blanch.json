@@ -1,0 +1,30 @@
+{
+  "word": "blanch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9370.png",
+      "local_image_path": "images/9370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9369.png",
+      "local_image_path": "images/9369.png"
+    }
+  ],
+  "synonyms": [
+    "lighten",
+    "bleach",
+    "blench"
+  ],
+  "antonyms": [
+    "blush"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blanch.mp3",
+  "local_sound_path": "sounds/blanch.mp3"
+}

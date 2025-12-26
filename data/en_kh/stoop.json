@@ -1,0 +1,57 @@
+{
+  "word": "stoop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85015.png",
+      "local_image_path": "images/85015.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stoop to pick it up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85012.png",
+      "local_image_path": "images/85012.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stoop with age",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85013.png",
+      "local_image_path": "images/85013.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stoop to theft",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85014.png",
+      "local_image_path": "images/85014.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85016.png",
+      "local_image_path": "images/85016.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85017.png",
+      "local_image_path": "images/85017.png"
+    }
+  ],
+  "synonyms": [
+    "condescend",
+    "deign",
+    "bend",
+    "crouch",
+    "straighten up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stooper",
+    "stooping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stoop.mp3",
+  "local_sound_path": "sounds/stoop.mp3"
+}

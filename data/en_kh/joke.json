@@ -1,0 +1,42 @@
+{
+  "word": "joke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43179.png",
+      "local_image_path": "images/43179.png"
+    },
+    {
+      "pos": "n",
+      "example": "tell a joke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43177.png",
+      "local_image_path": "images/43177.png"
+    },
+    {
+      "pos": "n",
+      "example": "his effort was a joke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43178.png",
+      "local_image_path": "images/43178.png"
+    }
+  ],
+  "synonyms": [
+    "tease",
+    "kid",
+    "pretend",
+    "jest",
+    "josh",
+    "clown"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "joker",
+    "jokesmith",
+    "jokesome",
+    "jokey"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/joke.mp3",
+  "local_sound_path": "sounds/joke.mp3"
+}

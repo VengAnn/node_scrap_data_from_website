@@ -1,0 +1,38 @@
+{
+  "word": "faculty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "A faculty meeting will be held on Monday.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27338.png",
+      "local_image_path": "images/27338.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental faculty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27339.png",
+      "local_image_path": "images/27339.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119821.png",
+      "local_image_path": "images/119821.png"
+    }
+  ],
+  "synonyms": [
+    "staff",
+    "personnel"
+  ],
+  "antonyms": [
+    "inability"
+  ],
+  "similar_words": [
+    "faculty of business",
+    "faculty of medicine"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/faculty.mp3",
+  "local_sound_path": "sounds/faculty.mp3"
+}

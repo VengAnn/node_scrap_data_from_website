@@ -1,0 +1,33 @@
+{
+  "word": "compel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "we can't compel you to do it, but we think you should",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16193.png",
+      "local_image_path": "images/16193.png"
+    }
+  ],
+  "synonyms": [
+    "force",
+    "induce",
+    "require",
+    "coerce",
+    "oblige",
+    "make",
+    "constrain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "compellable",
+    "compellably",
+    "compellation",
+    "compellative",
+    "compeller",
+    "compelling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compel.mp3",
+  "local_sound_path": "sounds/compel.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "making",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He has in him the makings of a great man.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105484.png",
+      "local_image_path": "images/105484.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123724.png",
+      "local_image_path": "images/123724.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123725.png",
+      "local_image_path": "images/123725.png"
+    }
+  ],
+  "synonyms": [
+    "creation",
+    "manufacture",
+    "production",
+    "construction",
+    "assembly",
+    "building",
+    "being",
+    "make up"
+  ],
+  "antonyms": [
+    "asking",
+    "consuming",
+    "spending",
+    "missing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/making.mp3",
+  "local_sound_path": "sounds/making.mp3"
+}

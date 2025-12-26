@@ -1,0 +1,43 @@
+{
+  "word": "congregation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the congregation of friends",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16804.png",
+      "local_image_path": "images/16804.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117243.png",
+      "local_image_path": "images/117243.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117244.png",
+      "local_image_path": "images/117244.png"
+    }
+  ],
+  "synonyms": [
+    "flock",
+    "audience",
+    "gathering",
+    "assembly",
+    "crowd",
+    "throng",
+    "host",
+    "mass"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "congregational",
+    "congregationalism",
+    "congregationalist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/congregation.mp3",
+  "local_sound_path": "sounds/congregation.mp3"
+}

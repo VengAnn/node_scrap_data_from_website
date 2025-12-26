@@ -1,0 +1,33 @@
+{
+  "word": "aforesaid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2796.png",
+      "local_image_path": "images/2796.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113391.png",
+      "local_image_path": "images/113391.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2797.png",
+      "local_image_path": "images/2797.png"
+    }
+  ],
+  "synonyms": [
+    "aforementioned",
+    "said"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aforesaid.mp3",
+  "local_sound_path": "sounds/aforesaid.mp3"
+}

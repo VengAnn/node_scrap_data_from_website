@@ -1,0 +1,59 @@
+{
+  "word": "bargain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7468.png",
+      "local_image_path": "images/7468.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a bargain before you buy it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7467.png",
+      "local_image_path": "images/7467.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114597.png",
+      "local_image_path": "images/114597.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114598.png",
+      "local_image_path": "images/114598.png"
+    }
+  ],
+  "synonyms": [
+    "deal",
+    "agreement",
+    "accord",
+    "arrangement",
+    "pact",
+    "covenant",
+    "understanding",
+    "contract",
+    "haggle",
+    "barter",
+    "negotiate",
+    "trade",
+    "broker"
+  ],
+  "antonyms": [
+    "rip-off"
+  ],
+  "similar_words": [
+    "bargaining",
+    "bargaining agent",
+    "bargaining counter",
+    "bargaining position",
+    "bargaining power",
+    "bargaining unit"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bargain.mp3",
+  "local_sound_path": "sounds/bargain.mp3"
+}

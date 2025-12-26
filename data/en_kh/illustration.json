@@ -1,0 +1,39 @@
+{
+  "word": "illustration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37331.png",
+      "local_image_path": "images/37331.png"
+    },
+    {
+      "pos": "n",
+      "example": "illustration of a principle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37332.png",
+      "local_image_path": "images/37332.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121456.png",
+      "local_image_path": "images/121456.png"
+    }
+  ],
+  "synonyms": [
+    "example",
+    "demonstration",
+    "instance",
+    "model",
+    "specimen",
+    "exemplification",
+    "sample",
+    "representative"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/illustration.mp3",
+  "local_sound_path": "sounds/illustration.mp3"
+}

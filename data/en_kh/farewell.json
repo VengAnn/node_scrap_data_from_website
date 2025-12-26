@@ -1,0 +1,40 @@
+{
+  "word": "farewell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27643.png",
+      "local_image_path": "images/27643.png"
+    },
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27641.png",
+      "local_image_path": "images/27641.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27642.png",
+      "local_image_path": "images/27642.png"
+    }
+  ],
+  "synonyms": [
+    "send-off",
+    "leave-taking",
+    "departure",
+    "exit",
+    "parting",
+    "goodbye",
+    "valediction"
+  ],
+  "antonyms": [
+    "greeting"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/farewell.mp3",
+  "local_sound_path": "sounds/farewell.mp3"
+}

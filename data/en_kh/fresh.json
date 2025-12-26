@@ -1,0 +1,68 @@
+{
+  "word": "fresh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fresh air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30267.png",
+      "local_image_path": "images/30267.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fresh news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30268.png",
+      "local_image_path": "images/30268.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fresh water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30269.png",
+      "local_image_path": "images/30269.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fresh vegitables",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30270.png",
+      "local_image_path": "images/30270.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fresh cow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30271.png",
+      "local_image_path": "images/30271.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fresh suitor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30272.png",
+      "local_image_path": "images/30272.png"
+    }
+  ],
+  "synonyms": [
+    "crisp",
+    "warm",
+    "light"
+  ],
+  "antonyms": [
+    "old",
+    "hackneyed",
+    "musty",
+    "limp",
+    "stale",
+    "tired"
+  ],
+  "similar_words": [
+    "fresh buying",
+    "fresh pursuit",
+    "freshen",
+    "fresher",
+    "freshly",
+    "freshman",
+    "freshness",
+    "freshwater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fresh.mp3",
+  "local_sound_path": "sounds/fresh.mp3"
+}

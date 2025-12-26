@@ -1,0 +1,25 @@
+{
+  "word": "airplane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3162.png",
+      "local_image_path": "images/3162.png"
+    }
+  ],
+  "synonyms": [
+    "aircraft",
+    "plane",
+    "jet",
+    "airliner",
+    "seaplane",
+    "flying machine"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airplane.mp3",
+  "local_sound_path": "sounds/airplane.mp3"
+}

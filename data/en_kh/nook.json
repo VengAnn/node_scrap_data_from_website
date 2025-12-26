@@ -1,0 +1,36 @@
+{
+  "word": "nook",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56245.png",
+      "local_image_path": "images/56245.png"
+    },
+    {
+      "pos": "n",
+      "example": "eating nook",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56246.png",
+      "local_image_path": "images/56246.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56247.png",
+      "local_image_path": "images/56247.png"
+    }
+  ],
+  "synonyms": [
+    "corner",
+    "alcove",
+    "cranny",
+    "niche",
+    "recess"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nook.mp3",
+  "local_sound_path": "sounds/nook.mp3"
+}

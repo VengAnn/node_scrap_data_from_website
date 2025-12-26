@@ -1,0 +1,55 @@
+{
+  "word": "relief",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "relief from pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71904.png",
+      "local_image_path": "images/71904.png"
+    },
+    {
+      "pos": "n",
+      "example": "relief of a guard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71905.png",
+      "local_image_path": "images/71905.png"
+    },
+    {
+      "pos": "n",
+      "example": "send in a relief",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71906.png",
+      "local_image_path": "images/71906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71907.png",
+      "local_image_path": "images/71907.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71908.png",
+      "local_image_path": "images/71908.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71909.png",
+      "local_image_path": "images/71909.png"
+    }
+  ],
+  "synonyms": [
+    "assistance",
+    "aid",
+    "help",
+    "reinforcement",
+    "support",
+    "alleviation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relief.mp3",
+  "local_sound_path": "sounds/relief.mp3"
+}

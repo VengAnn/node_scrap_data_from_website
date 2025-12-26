@@ -1,0 +1,53 @@
+{
+  "word": "way",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Do it your own way if you don't like my way.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99451.png",
+      "local_image_path": "images/99451.png"
+    },
+    {
+      "pos": "n",
+      "example": "I don't know the way",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99452.png",
+      "local_image_path": "images/99452.png"
+    }
+  ],
+  "synonyms": [
+    "road",
+    "avenue",
+    "lane",
+    "street",
+    "path",
+    "track",
+    "pathway",
+    "route",
+    "direction"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "way back",
+    "way train",
+    "way worn",
+    "way-bill",
+    "way-out",
+    "way-wiser",
+    "wayfare",
+    "wayfarer",
+    "wayfaring",
+    "waygoing",
+    "waylay",
+    "waylayer",
+    "wayment",
+    "wayside",
+    "wayward",
+    "waywarden",
+    "waywardly",
+    "waywardness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/way.mp3",
+  "local_sound_path": "sounds/way.mp3"
+}

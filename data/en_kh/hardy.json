@@ -1,0 +1,46 @@
+{
+  "word": "hardy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "hardy plants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33885.png",
+      "local_image_path": "images/33885.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hardy soldiers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33886.png",
+      "local_image_path": "images/33886.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hardy adventurer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33887.png",
+      "local_image_path": "images/33887.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120954.png",
+      "local_image_path": "images/120954.png"
+    }
+  ],
+  "synonyms": [
+    "resilient",
+    "enduring",
+    "tough",
+    "strong",
+    "robust",
+    "lasting",
+    "resistant"
+  ],
+  "antonyms": [
+    "frail"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hardy.mp3",
+  "local_sound_path": "sounds/hardy.mp3"
+}

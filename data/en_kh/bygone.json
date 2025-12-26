@@ -1,0 +1,32 @@
+{
+  "word": "bygone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bygone days",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12142.png",
+      "local_image_path": "images/12142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12143.png",
+      "local_image_path": "images/12143.png"
+    }
+  ],
+  "synonyms": [
+    "past",
+    "former",
+    "previous",
+    "departed",
+    "olden"
+  ],
+  "antonyms": [
+    "future"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bygone.mp3",
+  "local_sound_path": "sounds/bygone.mp3"
+}

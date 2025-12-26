@@ -1,0 +1,39 @@
+{
+  "word": "clown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15180.png",
+      "local_image_path": "images/15180.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116530.png",
+      "local_image_path": "images/116530.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15179.png",
+      "local_image_path": "images/15179.png"
+    }
+  ],
+  "synonyms": [
+    "joke",
+    "jest"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clown fish",
+    "clownfish",
+    "clownish",
+    "clownishly",
+    "clownishness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clown.mp3",
+  "local_sound_path": "sounds/clown.mp3"
+}

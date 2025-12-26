@@ -1,0 +1,31 @@
+{
+  "word": "disuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22366.png",
+      "local_image_path": "images/22366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22367.png",
+      "local_image_path": "images/22367.png"
+    }
+  ],
+  "synonyms": [
+    "neglect",
+    "abandonment",
+    "unemployment",
+    "dereliction"
+  ],
+  "antonyms": [
+    "use"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disuse.mp3",
+  "local_sound_path": "sounds/disuse.mp3"
+}

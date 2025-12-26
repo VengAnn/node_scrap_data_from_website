@@ -1,0 +1,39 @@
+{
+  "word": "molest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "molest an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109983.png",
+      "local_image_path": "images/109983.png"
+    },
+    {
+      "pos": "tv",
+      "example": "molest a young girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109984.png",
+      "local_image_path": "images/109984.png"
+    }
+  ],
+  "synonyms": [
+    "bother",
+    "pester",
+    "annoy",
+    "bug",
+    "torment",
+    "harass",
+    "tease",
+    "disturb",
+    "harry",
+    "trouble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "molestation",
+    "molester",
+    "molestful"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/molest.mp3",
+  "local_sound_path": "sounds/molest.mp3"
+}

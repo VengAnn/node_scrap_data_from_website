@@ -1,0 +1,52 @@
+{
+  "word": "memorial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107634.png",
+      "local_image_path": "images/107634.png"
+    },
+    {
+      "pos": "n",
+      "example": "This status is a memorial to a great statesman.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107633.png",
+      "local_image_path": "images/107633.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123879.png",
+      "local_image_path": "images/123879.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123880.png",
+      "local_image_path": "images/123880.png"
+    }
+  ],
+  "synonyms": [
+    "monument",
+    "commemorative",
+    "cenotaph",
+    "statue",
+    "bust",
+    "plaque",
+    "inscription",
+    "stone",
+    "ceremony",
+    "speech"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "memorialist",
+    "memorialization",
+    "memorialize",
+    "memorializer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/memorial.mp3",
+  "local_sound_path": "sounds/memorial.mp3"
+}

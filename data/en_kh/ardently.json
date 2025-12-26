@@ -1,0 +1,41 @@
+{
+  "word": "ardently",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5394.png",
+      "local_image_path": "images/5394.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112677.png",
+      "local_image_path": "images/112677.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112678.png",
+      "local_image_path": "images/112678.png"
+    }
+  ],
+  "synonyms": [
+    "passionately",
+    "enthusiastically",
+    "keenly",
+    "fervently",
+    "zealously",
+    "eagerly",
+    "fervidly"
+  ],
+  "antonyms": [
+    "half-heartedly",
+    "dispassionately"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ardently.mp3",
+  "local_sound_path": "sounds/ardently.mp3"
+}

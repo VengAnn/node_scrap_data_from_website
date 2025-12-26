@@ -1,0 +1,46 @@
+{
+  "word": "anxious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "anxious patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4844.png",
+      "local_image_path": "images/4844.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131277.png",
+      "local_image_path": "images/131277.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131278.png",
+      "local_image_path": "images/131278.png"
+    }
+  ],
+  "synonyms": [
+    "eager",
+    "keen",
+    "concerned",
+    "enthusiastic",
+    "impatient",
+    "itching",
+    "intent",
+    "yearning"
+  ],
+  "antonyms": [
+    "unconcerned",
+    "calm",
+    "indifferent"
+  ],
+  "similar_words": [
+    "anxiously",
+    "anxiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anxious.mp3",
+  "local_sound_path": "sounds/anxious.mp3"
+}

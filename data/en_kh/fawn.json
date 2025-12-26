@@ -1,0 +1,43 @@
+{
+  "word": "fawn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27889.png",
+      "local_image_path": "images/27889.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27890.png",
+      "local_image_path": "images/27890.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27891.png",
+      "local_image_path": "images/27891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27888.png",
+      "local_image_path": "images/27888.png"
+    }
+  ],
+  "synonyms": [
+    "flatter",
+    "grovel",
+    "creep",
+    "crawl",
+    "toady",
+    "kowtow"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fawn.mp3",
+  "local_sound_path": "sounds/fawn.mp3"
+}

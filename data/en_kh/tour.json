@@ -1,0 +1,79 @@
+{
+  "word": "tour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "sightseers tour",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90444.png",
+      "local_image_path": "images/90444.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128341.png",
+      "local_image_path": "images/128341.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128342.png",
+      "local_image_path": "images/128342.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a tour",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90443.png",
+      "local_image_path": "images/90443.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tour Cambodia",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90445.png",
+      "local_image_path": "images/90445.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Orchestras tour Europe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90446.png",
+      "local_image_path": "images/90446.png"
+    }
+  ],
+  "synonyms": [
+    "trip",
+    "excursion",
+    "expedition",
+    "outing",
+    "journey",
+    "visit",
+    "circuit",
+    "sightsee",
+    "explore"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tour arrivals",
+    "tour deforce",
+    "tour departure",
+    "tour guide",
+    "tourbillion",
+    "touring",
+    "touring car",
+    "tourism",
+    "tourism demand",
+    "tourism expenditure",
+    "tourism industry",
+    "tourist",
+    "tourist class",
+    "tourist trap",
+    "touristy",
+    "tourmaline",
+    "tournament",
+    "tournedos",
+    "tourney",
+    "tourniquet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tour.mp3",
+  "local_sound_path": "sounds/tour.mp3"
+}

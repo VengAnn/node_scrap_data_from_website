@@ -1,0 +1,47 @@
+{
+  "word": "repugnance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72524.png",
+      "local_image_path": "images/72524.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126911.png",
+      "local_image_path": "images/126911.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126912.png",
+      "local_image_path": "images/126912.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126913.png",
+      "local_image_path": "images/126913.png"
+    }
+  ],
+  "synonyms": [
+    "disgust",
+    "revulsion",
+    "hatred",
+    "dislike",
+    "hate",
+    "abhorrence",
+    "repulsion",
+    "distaste"
+  ],
+  "antonyms": [
+    "attraction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repugnance.mp3",
+  "local_sound_path": "sounds/repugnance.mp3"
+}

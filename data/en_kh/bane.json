@@ -1,0 +1,44 @@
+{
+  "word": "bane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "drink has been the bane of his life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7306.png",
+      "local_image_path": "images/7306.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114521.png",
+      "local_image_path": "images/114521.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114522.png",
+      "local_image_path": "images/114522.png"
+    }
+  ],
+  "synonyms": [
+    "nuisance",
+    "pest",
+    "blight",
+    "curse",
+    "bother",
+    "irritation",
+    "annoyance",
+    "misery"
+  ],
+  "antonyms": [
+    "blessing"
+  ],
+  "similar_words": [
+    "baneful",
+    "banefully"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bane.mp3",
+  "local_sound_path": "sounds/bane.mp3"
+}

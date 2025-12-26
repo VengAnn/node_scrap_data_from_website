@@ -1,0 +1,50 @@
+{
+  "word": "concentration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "concentration camp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16425.png",
+      "local_image_path": "images/16425.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16424.png",
+      "local_image_path": "images/16424.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117014.png",
+      "local_image_path": "images/117014.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117015.png",
+      "local_image_path": "images/117015.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117016.png",
+      "local_image_path": "images/117016.png"
+    }
+  ],
+  "synonyms": [
+    "strength",
+    "intensity",
+    "dilution"
+  ],
+  "antonyms": [
+    "distraction"
+  ],
+  "similar_words": [
+    "concentration camp"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concentration.mp3",
+  "local_sound_path": "sounds/concentration.mp3"
+}

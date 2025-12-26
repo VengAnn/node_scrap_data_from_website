@@ -1,0 +1,28 @@
+{
+  "word": "airdrop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3125.png",
+      "local_image_path": "images/3125.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3126.png",
+      "local_image_path": "images/3126.png"
+    }
+  ],
+  "synonyms": [
+    "airlift",
+    "drop",
+    "parachute"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airdrop.mp3",
+  "local_sound_path": "sounds/airdrop.mp3"
+}

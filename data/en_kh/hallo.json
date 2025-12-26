@@ -1,0 +1,28 @@
+{
+  "word": "hallo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33608.png",
+      "local_image_path": "images/33608.png"
+    }
+  ],
+  "synonyms": [
+    "hi"
+  ],
+  "antonyms": [
+    "goodbye"
+  ],
+  "similar_words": [
+    "halloa",
+    "halloo",
+    "hallow",
+    "hallowed",
+    "halloween"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hallo.mp3",
+  "local_sound_path": "sounds/hallo.mp3"
+}

@@ -1,0 +1,70 @@
+{
+  "word": "murder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "He murdered his wife with a knife.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111088.png",
+      "local_image_path": "images/111088.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111089.png",
+      "local_image_path": "images/111089.png"
+    },
+    {
+      "pos": "tv",
+      "example": "murder a language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111090.png",
+      "local_image_path": "images/111090.png"
+    },
+    {
+      "pos": "tv",
+      "example": "commit murder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111091.png",
+      "local_image_path": "images/111091.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124396.png",
+      "local_image_path": "images/124396.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124397.png",
+      "local_image_path": "images/124397.png"
+    }
+  ],
+  "synonyms": [
+    "homicide",
+    "manslaughter",
+    "assassination",
+    "killing",
+    "slaying",
+    "slaughter",
+    "massacre",
+    "wasting",
+    "kill",
+    "slay",
+    "assassinate",
+    "execute",
+    "waste",
+    "snuff",
+    "do"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "murderer",
+    "murderess",
+    "murderous",
+    "murderously",
+    "murderousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/murder.mp3",
+  "local_sound_path": "sounds/murder.mp3"
+}

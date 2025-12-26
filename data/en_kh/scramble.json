@@ -1,0 +1,68 @@
+{
+  "word": "scramble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "scramble over rough ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77010.png",
+      "local_image_path": "images/77010.png"
+    },
+    {
+      "pos": "iv",
+      "example": "scramble to get spilled candy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77011.png",
+      "local_image_path": "images/77011.png"
+    },
+    {
+      "pos": "n",
+      "example": "a mad cramble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77014.png",
+      "local_image_path": "images/77014.png"
+    },
+    {
+      "pos": "n",
+      "example": "cards are in a cramble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77015.png",
+      "local_image_path": "images/77015.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scramble cards",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77012.png",
+      "local_image_path": "images/77012.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scramble eggs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77013.png",
+      "local_image_path": "images/77013.png"
+    }
+  ],
+  "synonyms": [
+    "rush",
+    "run",
+    "stampede",
+    "commotion",
+    "free-for-all",
+    "jumble",
+    "mix",
+    "muddle",
+    "confuse",
+    "disorganize"
+  ],
+  "antonyms": [
+    "stroll",
+    "calm",
+    "descend",
+    "plod",
+    "unscramble"
+  ],
+  "similar_words": [
+    "scrambledegg",
+    "scrambler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scramble.mp3",
+  "local_sound_path": "sounds/scramble.mp3"
+}

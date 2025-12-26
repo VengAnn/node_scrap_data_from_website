@@ -1,0 +1,26 @@
+{
+  "word": "annotation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4395.png",
+      "local_image_path": "images/4395.png"
+    }
+  ],
+  "synonyms": [
+    "footnote",
+    "gloss",
+    "marginal note",
+    "explanation",
+    "note",
+    "comment",
+    "mark"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/annotation.mp3",
+  "local_sound_path": "sounds/annotation.mp3"
+}

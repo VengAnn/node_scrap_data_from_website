@@ -1,0 +1,36 @@
+{
+  "word": "dated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dated letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19707.png",
+      "local_image_path": "images/19707.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dated idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19708.png",
+      "local_image_path": "images/19708.png"
+    }
+  ],
+  "synonyms": [
+    "old-fashioned",
+    "out-of-date",
+    "old",
+    "square",
+    "unfashionable",
+    "pass�",
+    "saw",
+    "seen"
+  ],
+  "antonyms": [
+    "fresh",
+    "up-to-date"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dated.mp3",
+  "local_sound_path": "sounds/dated.mp3"
+}

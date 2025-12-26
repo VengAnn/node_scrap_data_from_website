@@ -1,0 +1,37 @@
+{
+  "word": "envy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25430.png",
+      "local_image_path": "images/25430.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25431.png",
+      "local_image_path": "images/25431.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I always envy your good luck.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25432.png",
+      "local_image_path": "images/25432.png"
+    }
+  ],
+  "synonyms": [
+    "covet",
+    "resent",
+    "begrudge",
+    "grudge"
+  ],
+  "antonyms": [
+    "goodwill"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/envy.mp3",
+  "local_sound_path": "sounds/envy.mp3"
+}

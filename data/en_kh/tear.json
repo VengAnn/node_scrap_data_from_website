@@ -1,0 +1,107 @@
+{
+  "word": "tear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87819.png",
+      "local_image_path": "images/87819.png"
+    },
+    {
+      "pos": "iv",
+      "example": "papers tear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87825.png",
+      "local_image_path": "images/87825.png"
+    },
+    {
+      "pos": "iv",
+      "example": "tear around",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87826.png",
+      "local_image_path": "images/87826.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87817.png",
+      "local_image_path": "images/87817.png"
+    },
+    {
+      "pos": "n",
+      "example": "will bring tea only",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87818.png",
+      "local_image_path": "images/87818.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87827.png",
+      "local_image_path": "images/87827.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tear one's shirt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87820.png",
+      "local_image_path": "images/87820.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87821.png",
+      "local_image_path": "images/87821.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The children tore out of the school gates.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87822.png",
+      "local_image_path": "images/87822.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87823.png",
+      "local_image_path": "images/87823.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tear oneself away",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87824.png",
+      "local_image_path": "images/87824.png"
+    }
+  ],
+  "synonyms": [
+    "dash",
+    "rush",
+    "hurry",
+    "rip",
+    "streak",
+    "charge",
+    "speed",
+    "pelt",
+    "zip",
+    "run"
+  ],
+  "antonyms": [
+    "join",
+    "saunter",
+    "coax"
+  ],
+  "similar_words": [
+    "tear-jerker",
+    "tearaway",
+    "teardown",
+    "teardrop",
+    "tearer",
+    "tearful",
+    "tearfully",
+    "tearfulness",
+    "teargas",
+    "tearing",
+    "tearless",
+    "tearoom",
+    "teary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tear.mp3",
+  "local_sound_path": "sounds/tear.mp3"
+}

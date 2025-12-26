@@ -1,0 +1,35 @@
+{
+  "word": "celebrant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13484.png",
+      "local_image_path": "images/13484.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116097.png",
+      "local_image_path": "images/116097.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116098.png",
+      "local_image_path": "images/116098.png"
+    }
+  ],
+  "synonyms": [
+    "cleric",
+    "high priest",
+    "pastor",
+    "minister"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/celebrant.mp3",
+  "local_sound_path": "sounds/celebrant.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "scrounge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77240.png",
+      "local_image_path": "images/77240.png"
+    }
+  ],
+  "synonyms": [
+    "beg",
+    "borrow",
+    "cadge",
+    "sponge",
+    "solicit",
+    "scavenge",
+    "rummage",
+    "forage",
+    "search",
+    "hunt"
+  ],
+  "antonyms": [
+    "give"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scrounge.mp3",
+  "local_sound_path": "sounds/scrounge.mp3"
+}

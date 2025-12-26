@@ -1,0 +1,76 @@
+{
+  "word": "spur",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "spur them on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83817.png",
+      "local_image_path": "images/83817.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83813.png",
+      "local_image_path": "images/83813.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83814.png",
+      "local_image_path": "images/83814.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83815.png",
+      "local_image_path": "images/83815.png"
+    },
+    {
+      "pos": "n",
+      "example": "spur a horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83819.png",
+      "local_image_path": "images/83819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83816.png",
+      "local_image_path": "images/83816.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spur a cock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83818.png",
+      "local_image_path": "images/83818.png"
+    }
+  ],
+  "synonyms": [
+    "branch",
+    "limb",
+    "division",
+    "subdivision",
+    "hasten",
+    "speed",
+    "rush"
+  ],
+  "antonyms": [
+    "discourage",
+    "delay"
+  ],
+  "similar_words": [
+    "spurge",
+    "spuriess",
+    "spurious",
+    "spuriousness",
+    "spurn",
+    "spurned lover",
+    "spurred",
+    "spurrer",
+    "spurt",
+    "spurtle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spur.mp3",
+  "local_sound_path": "sounds/spur.mp3"
+}

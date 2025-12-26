@@ -1,0 +1,62 @@
+{
+  "word": "chapter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I've just finished chapter 3",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13835.png",
+      "local_image_path": "images/13835.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116172.png",
+      "local_image_path": "images/116172.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116173.png",
+      "local_image_path": "images/116173.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116174.png",
+      "local_image_path": "images/116174.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116175.png",
+      "local_image_path": "images/116175.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116176.png",
+      "local_image_path": "images/116176.png"
+    }
+  ],
+  "synonyms": [
+    "episode",
+    "section",
+    "part",
+    "subdivision",
+    "interval",
+    "division",
+    "stage",
+    "period",
+    "phase",
+    "segment",
+    "unit",
+    "era",
+    "clause"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chapter.mp3",
+  "local_sound_path": "sounds/chapter.mp3"
+}

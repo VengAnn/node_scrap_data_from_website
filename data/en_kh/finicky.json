@@ -1,0 +1,35 @@
+{
+  "word": "finicky",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "finicky eater",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28616.png",
+      "local_image_path": "images/28616.png"
+    },
+    {
+      "pos": "adj",
+      "example": "This job is too finicky for me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28617.png",
+      "local_image_path": "images/28617.png"
+    }
+  ],
+  "synonyms": [
+    "fastidious",
+    "fussy",
+    "picky",
+    "choosy",
+    "pernickety",
+    "particular",
+    "persnickety"
+  ],
+  "antonyms": [
+    "easygoing",
+    "sloppy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/finicky.mp3",
+  "local_sound_path": "sounds/finicky.mp3"
+}

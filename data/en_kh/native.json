@@ -1,0 +1,58 @@
+{
+  "word": "native",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55051.png",
+      "local_image_path": "images/55051.png"
+    },
+    {
+      "pos": "adj",
+      "example": "native beauty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55052.png",
+      "local_image_path": "images/55052.png"
+    },
+    {
+      "pos": "n",
+      "example": "native of France",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55053.png",
+      "local_image_path": "images/55053.png"
+    },
+    {
+      "pos": "n",
+      "example": "hostile native",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55054.png",
+      "local_image_path": "images/55054.png"
+    }
+  ],
+  "synonyms": [
+    "innate",
+    "natural",
+    "inborn",
+    "instinctive",
+    "inherent",
+    "inhabitant",
+    "resident",
+    "local",
+    "national",
+    "citizen",
+    "subject",
+    "aboriginal"
+  ],
+  "antonyms": [
+    "foreigner",
+    "foreign",
+    "learned",
+    "learnt"
+  ],
+  "similar_words": [
+    "native-born",
+    "natively",
+    "nativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/native.mp3",
+  "local_sound_path": "sounds/native.mp3"
+}

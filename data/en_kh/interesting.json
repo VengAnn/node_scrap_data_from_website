@@ -1,0 +1,36 @@
+{
+  "word": "interesting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41203.png",
+      "local_image_path": "images/41203.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122716.png",
+      "local_image_path": "images/122716.png"
+    }
+  ],
+  "synonyms": [
+    "attractive",
+    "appealing",
+    "exciting",
+    "fascinating",
+    "remarkable",
+    "drawing"
+  ],
+  "antonyms": [
+    "boring"
+  ],
+  "similar_words": [
+    "interestingly",
+    "interestingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interesting.mp3",
+  "local_sound_path": "sounds/interesting.mp3"
+}

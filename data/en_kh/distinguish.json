@@ -1,0 +1,39 @@
+{
+  "word": "distinguish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "between A and B)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22294.png",
+      "local_image_path": "images/22294.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22295.png",
+      "local_image_path": "images/22295.png"
+    }
+  ],
+  "synonyms": [
+    "characterize",
+    "mark",
+    "classify",
+    "discern",
+    "see",
+    "recognize",
+    "perceive",
+    "notice",
+    "observe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "distinguishable",
+    "distinguishably",
+    "distinguished",
+    "distinguishing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distinguish.mp3",
+  "local_sound_path": "sounds/distinguish.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "expediency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "expediency of the plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26764.png",
+      "local_image_path": "images/26764.png"
+    },
+    {
+      "pos": "n",
+      "example": "political expendiency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26765.png",
+      "local_image_path": "images/26765.png"
+    }
+  ],
+  "synonyms": [
+    "fitness",
+    "appropriateness",
+    "advisability",
+    "convenience"
+  ],
+  "antonyms": [
+    "unsuitability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expediency.mp3",
+  "local_sound_path": "sounds/expediency.mp3"
+}

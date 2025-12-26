@@ -1,0 +1,63 @@
+{
+  "word": "myth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "legendary myth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111398.png",
+      "local_image_path": "images/111398.png"
+    },
+    {
+      "pos": "n",
+      "example": "explode a myth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111399.png",
+      "local_image_path": "images/111399.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124448.png",
+      "local_image_path": "images/124448.png"
+    }
+  ],
+  "synonyms": [
+    "falsehood",
+    "fiction",
+    "illusion",
+    "invention",
+    "fabrication",
+    "untruth",
+    "figment",
+    "creation"
+  ],
+  "antonyms": [
+    "fact"
+  ],
+  "similar_words": [
+    "mythic",
+    "mythical",
+    "mythically",
+    "mythicize",
+    "mythographer",
+    "mythography",
+    "mythoi",
+    "mythologic",
+    "mythological",
+    "mythologically",
+    "mythologist",
+    "mythologize",
+    "mythology",
+    "mythomaker",
+    "mythomania",
+    "mythopeic",
+    "mythopoeia",
+    "mythopoeic",
+    "mythopoesis",
+    "mythopoetic",
+    "mythos"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/myth.mp3",
+  "local_sound_path": "sounds/myth.mp3"
+}

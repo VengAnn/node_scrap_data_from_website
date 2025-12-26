@@ -1,0 +1,38 @@
+{
+  "word": "blister",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "his feet are tender and blister easily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9573.png",
+      "local_image_path": "images/9573.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9571.png",
+      "local_image_path": "images/9571.png"
+    },
+    {
+      "pos": "tv",
+      "example": "if your shoes are too tight, you may get blisters on your feet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9572.png",
+      "local_image_path": "images/9572.png"
+    }
+  ],
+  "synonyms": [
+    "erupt",
+    "bubble",
+    "suppurate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blister pack",
+    "blistering",
+    "blistery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blister.mp3",
+  "local_sound_path": "sounds/blister.mp3"
+}

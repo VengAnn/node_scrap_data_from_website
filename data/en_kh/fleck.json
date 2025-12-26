@@ -1,0 +1,40 @@
+{
+  "word": "fleck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28994.png",
+      "local_image_path": "images/28994.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28995.png",
+      "local_image_path": "images/28995.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28996.png",
+      "local_image_path": "images/28996.png"
+    }
+  ],
+  "synonyms": [
+    "speck",
+    "spot",
+    "speckle",
+    "dot",
+    "flyspeck",
+    "splash",
+    "streak",
+    "mark",
+    "freckle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fleck.mp3",
+  "local_sound_path": "sounds/fleck.mp3"
+}

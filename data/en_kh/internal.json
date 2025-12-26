@@ -1,0 +1,40 @@
+{
+  "word": "internal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "internal orange",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41392.png",
+      "local_image_path": "images/41392.png"
+    },
+    {
+      "pos": "adj",
+      "example": "internal affairs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41393.png",
+      "local_image_path": "images/41393.png"
+    }
+  ],
+  "synonyms": [
+    "domestic",
+    "home",
+    "intramural"
+  ],
+  "antonyms": [
+    "external"
+  ],
+  "similar_words": [
+    "internal control",
+    "internal flight",
+    "internal medicine",
+    "internal tourism",
+    "internal waters",
+    "internality",
+    "internalization",
+    "internalize",
+    "internally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/internal.mp3",
+  "local_sound_path": "sounds/internal.mp3"
+}

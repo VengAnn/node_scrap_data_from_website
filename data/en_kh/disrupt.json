@@ -1,0 +1,29 @@
+{
+  "word": "disrupt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Fog disrupted traffic.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22154.png",
+      "local_image_path": "images/22154.png"
+    }
+  ],
+  "synonyms": [
+    "disturb",
+    "upset",
+    "interrupt",
+    "dislocate",
+    "disorder",
+    "unsettle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "disruption",
+    "disruptive",
+    "disruptively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disrupt.mp3",
+  "local_sound_path": "sounds/disrupt.mp3"
+}

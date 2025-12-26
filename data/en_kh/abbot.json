@@ -1,0 +1,28 @@
+{
+  "word": "abbot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1345.png",
+      "local_image_path": "images/1345.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112982.png",
+      "local_image_path": "images/112982.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "abbot ship",
+    "abbotcy",
+    "abbotship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abbot.mp3",
+  "local_sound_path": "sounds/abbot.mp3"
+}

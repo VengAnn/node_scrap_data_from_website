@@ -1,0 +1,42 @@
+{
+  "word": "luxurious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "luxurious hotel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48242.png",
+      "local_image_path": "images/48242.png"
+    },
+    {
+      "pos": "adj",
+      "example": "luxurious life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48243.png",
+      "local_image_path": "images/48243.png"
+    }
+  ],
+  "synonyms": [
+    "lavish",
+    "lush",
+    "plush",
+    "sumptuous",
+    "opulent",
+    "splendid",
+    "grand",
+    "magnificent",
+    "swish",
+    "extravagant"
+  ],
+  "antonyms": [
+    "unpleasant",
+    "meager",
+    "uncomfortable"
+  ],
+  "similar_words": [
+    "luxuriously",
+    "luxuriousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/luxurious.mp3",
+  "local_sound_path": "sounds/luxurious.mp3"
+}

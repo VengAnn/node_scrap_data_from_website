@@ -1,0 +1,61 @@
+{
+  "word": "steal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84504.png",
+      "local_image_path": "images/84504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84505.png",
+      "local_image_path": "images/84505.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Someone has stolen my watch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84501.png",
+      "local_image_path": "images/84501.png"
+    },
+    {
+      "pos": "tv",
+      "example": "steal a nap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84502.png",
+      "local_image_path": "images/84502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He stole into the room.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84503.png",
+      "local_image_path": "images/84503.png"
+    }
+  ],
+  "synonyms": [
+    "bargain",
+    "creep",
+    "sneak",
+    "slip",
+    "slink",
+    "tiptoe",
+    "slope"
+  ],
+  "antonyms": [
+    "return",
+    "rip-off"
+  ],
+  "similar_words": [
+    "stealer",
+    "stealing",
+    "stealingly",
+    "stealth",
+    "stealth tax",
+    "stealthunder",
+    "stealthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/steal.mp3",
+  "local_sound_path": "sounds/steal.mp3"
+}

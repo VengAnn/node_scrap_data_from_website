@@ -1,0 +1,25 @@
+{
+  "word": "acidity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "acidity of wine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2049.png",
+      "local_image_path": "images/2049.png"
+    }
+  ],
+  "synonyms": [
+    "sharpness",
+    "tartness",
+    "sourness",
+    "bitterness"
+  ],
+  "antonyms": [
+    "sweetness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acidity.mp3",
+  "local_sound_path": "sounds/acidity.mp3"
+}

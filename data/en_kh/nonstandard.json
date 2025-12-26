@@ -1,0 +1,38 @@
+{
+  "word": "nonstandard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56206.png",
+      "local_image_path": "images/56206.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124715.png",
+      "local_image_path": "images/124715.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124716.png",
+      "local_image_path": "images/124716.png"
+    }
+  ],
+  "synonyms": [
+    "substandard",
+    "irregular",
+    "abnormal",
+    "atypical",
+    "unusual"
+  ],
+  "antonyms": [
+    "standard"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nonstandard.mp3",
+  "local_sound_path": "sounds/nonstandard.mp3"
+}

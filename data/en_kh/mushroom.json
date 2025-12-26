@@ -1,0 +1,41 @@
+{
+  "word": "mushroom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "clouds mushroom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111161.png",
+      "local_image_path": "images/111161.png"
+    },
+    {
+      "pos": "iv",
+      "example": "troubles mushroom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111162.png",
+      "local_image_path": "images/111162.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111160.png",
+      "local_image_path": "images/111160.png"
+    }
+  ],
+  "synonyms": [
+    "burgeon",
+    "swell",
+    "expand",
+    "flourish",
+    "thrive",
+    "proliferate",
+    "grow",
+    "increase"
+  ],
+  "antonyms": [
+    "decline"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mushroom.mp3",
+  "local_sound_path": "sounds/mushroom.mp3"
+}

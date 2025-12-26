@@ -1,0 +1,96 @@
+{
+  "word": "plain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "plain meaning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63774.png",
+      "local_image_path": "images/63774.png"
+    },
+    {
+      "pos": "adj",
+      "example": "plain cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63775.png",
+      "local_image_path": "images/63775.png"
+    },
+    {
+      "pos": "adj",
+      "example": "plain talk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63776.png",
+      "local_image_path": "images/63776.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63777.png",
+      "local_image_path": "images/63777.png"
+    },
+    {
+      "pos": "adj",
+      "example": "plain people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63778.png",
+      "local_image_path": "images/63778.png"
+    },
+    {
+      "pos": "adj",
+      "example": "plain woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63779.png",
+      "local_image_path": "images/63779.png"
+    },
+    {
+      "pos": "adj",
+      "example": "plain country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63780.png",
+      "local_image_path": "images/63780.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63781.png",
+      "local_image_path": "images/63781.png"
+    }
+  ],
+  "synonyms": [
+    "ugly",
+    "homely",
+    "unattractive",
+    "ordinary",
+    "tableland",
+    "prairie",
+    "plateau",
+    "upland",
+    "mesa"
+  ],
+  "antonyms": [
+    "elaborate",
+    "ambiguous",
+    "striking",
+    "obscure",
+    "evasive",
+    "pretty",
+    "lowland"
+  ],
+  "similar_words": [
+    "plain dealer",
+    "plain error rule",
+    "plain hearted",
+    "plain speaking",
+    "plain-dealing",
+    "plain-laid",
+    "plain-spoken",
+    "plain-spokenness",
+    "plaining",
+    "plainly",
+    "plainness",
+    "plainsman",
+    "plaint",
+    "plaintiff",
+    "plaintive",
+    "plaintively",
+    "plaintiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plain.mp3",
+  "local_sound_path": "sounds/plain.mp3"
+}

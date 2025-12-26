@@ -1,0 +1,65 @@
+{
+  "word": "depression",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20684.png",
+      "local_image_path": "images/20684.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental depression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20685.png",
+      "local_image_path": "images/20685.png"
+    },
+    {
+      "pos": "n",
+      "example": "economic depression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20686.png",
+      "local_image_path": "images/20686.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118080.png",
+      "local_image_path": "images/118080.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118081.png",
+      "local_image_path": "images/118081.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118082.png",
+      "local_image_path": "images/118082.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132233.png",
+      "local_image_path": "images/132233.png"
+    }
+  ],
+  "synonyms": [
+    "hollow",
+    "dip",
+    "dent",
+    "impression",
+    "dimple",
+    "indent"
+  ],
+  "antonyms": [
+    "happiness",
+    "recovery",
+    "hump"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/depression.mp3",
+  "local_sound_path": "sounds/depression.mp3"
+}

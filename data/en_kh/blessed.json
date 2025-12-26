@@ -1,0 +1,40 @@
+{
+  "word": "blessed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "blessed moment of blessed calm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9527.png",
+      "local_image_path": "images/9527.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115203.png",
+      "local_image_path": "images/115203.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115204.png",
+      "local_image_path": "images/115204.png"
+    }
+  ],
+  "synonyms": [
+    "holy",
+    "sacred",
+    "sanctified",
+    "hallowed",
+    "backed"
+  ],
+  "antonyms": [
+    "profane",
+    "unfortunate",
+    "cursed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blessed.mp3",
+  "local_sound_path": "sounds/blessed.mp3"
+}

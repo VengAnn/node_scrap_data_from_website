@@ -1,0 +1,36 @@
+{
+  "word": "cramp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "muscle cramp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18371.png",
+      "local_image_path": "images/18371.png"
+    },
+    {
+      "pos": "n",
+      "example": "stomach cramp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18372.png",
+      "local_image_path": "images/18372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "small offices cramp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18373.png",
+      "local_image_path": "images/18373.png"
+    }
+  ],
+  "synonyms": [
+    "restrict",
+    "hamper",
+    "limit",
+    "constrict",
+    "constrain"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cramp.mp3",
+  "local_sound_path": "sounds/cramp.mp3"
+}

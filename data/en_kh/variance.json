@@ -1,0 +1,45 @@
+{
+  "word": "variance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "variance between two stories",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97266.png",
+      "local_image_path": "images/97266.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129674.png",
+      "local_image_path": "images/129674.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129675.png",
+      "local_image_path": "images/129675.png"
+    }
+  ],
+  "synonyms": [
+    "discrepancy",
+    "inconsistency",
+    "difference",
+    "disagreement",
+    "dissent",
+    "variation",
+    "conflict",
+    "clash",
+    "divergence",
+    "disparity",
+    "dispute"
+  ],
+  "antonyms": [
+    "consistency",
+    "agreement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/variance.mp3",
+  "local_sound_path": "sounds/variance.mp3"
+}

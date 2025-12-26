@@ -1,0 +1,35 @@
+{
+  "word": "disunite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22364.png",
+      "local_image_path": "images/22364.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22363.png",
+      "local_image_path": "images/22363.png"
+    }
+  ],
+  "synonyms": [
+    "cut",
+    "split",
+    "separate",
+    "undo",
+    "dissolve",
+    "break",
+    "divide",
+    "sever"
+  ],
+  "antonyms": [
+    "unite"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disunite.mp3",
+  "local_sound_path": "sounds/disunite.mp3"
+}

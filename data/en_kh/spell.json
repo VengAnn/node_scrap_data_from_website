@@ -1,0 +1,60 @@
+{
+  "word": "spell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83265.png",
+      "local_image_path": "images/83265.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a spell at the wheel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83266.png",
+      "local_image_path": "images/83266.png"
+    },
+    {
+      "pos": "tv",
+      "example": "How do you spell your name?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83264.png",
+      "local_image_path": "images/83264.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83267.png",
+      "local_image_path": "images/83267.png"
+    }
+  ],
+  "synonyms": [
+    "bout",
+    "period",
+    "interlude",
+    "stretch",
+    "session",
+    "time",
+    "turn",
+    "mean",
+    "bring",
+    "predict",
+    "imply",
+    "presage",
+    "suggest",
+    "indicate",
+    "signify",
+    "denote",
+    "connote"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "spellbound",
+    "speller",
+    "spelling",
+    "spelling-book",
+    "spelling-charm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spell.mp3",
+  "local_sound_path": "sounds/spell.mp3"
+}

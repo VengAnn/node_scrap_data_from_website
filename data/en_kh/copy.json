@@ -1,0 +1,59 @@
+{
+  "word": "copy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17665.png",
+      "local_image_path": "images/17665.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please you help me copy this book for me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17664.png",
+      "local_image_path": "images/17664.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130214.png",
+      "local_image_path": "images/130214.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130215.png",
+      "local_image_path": "images/130215.png"
+    }
+  ],
+  "synonyms": [
+    "text",
+    "reproduce",
+    "duplicate",
+    "clone",
+    "fake",
+    "counterfeit",
+    "replicate",
+    "photocopy"
+  ],
+  "antonyms": [
+    "original",
+    "originate"
+  ],
+  "similar_words": [
+    "copy book",
+    "copy-cat",
+    "copy-desk",
+    "copy-edit",
+    "copy-writer",
+    "copyist",
+    "copyleft",
+    "copyright",
+    "copyrightable",
+    "copyrighter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/copy.mp3",
+  "local_sound_path": "sounds/copy.mp3"
+}

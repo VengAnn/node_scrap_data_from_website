@@ -1,0 +1,58 @@
+{
+  "word": "descend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20789.png",
+      "local_image_path": "images/20789.png"
+    },
+    {
+      "pos": "iv",
+      "example": "airplanes descend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20790.png",
+      "local_image_path": "images/20790.png"
+    },
+    {
+      "pos": "iv",
+      "example": "descend upon the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20791.png",
+      "local_image_path": "images/20791.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118101.png",
+      "local_image_path": "images/118101.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20792.png",
+      "local_image_path": "images/20792.png"
+    }
+  ],
+  "synonyms": [
+    "stoop",
+    "sink",
+    "resort",
+    "fall",
+    "decline"
+  ],
+  "antonyms": [
+    "ascend",
+    "rise",
+    "leave"
+  ],
+  "similar_words": [
+    "descendant",
+    "descended from",
+    "descender",
+    "descendible",
+    "descending"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/descend.mp3",
+  "local_sound_path": "sounds/descend.mp3"
+}

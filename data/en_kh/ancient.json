@@ -1,0 +1,34 @@
+{
+  "word": "ancient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ancient time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4168.png",
+      "local_image_path": "images/4168.png"
+    }
+  ],
+  "synonyms": [
+    "antiquated",
+    "old-fashioned",
+    "archaic",
+    "obsolete",
+    "outdated",
+    "dated",
+    "prehistoric",
+    "antediluvian"
+  ],
+  "antonyms": [
+    "contemporary",
+    "modern",
+    "up-to-date"
+  ],
+  "similar_words": [
+    "anciently",
+    "ancientness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ancient.mp3",
+  "local_sound_path": "sounds/ancient.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "dissatisfaction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22158.png",
+      "local_image_path": "images/22158.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118603.png",
+      "local_image_path": "images/118603.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118604.png",
+      "local_image_path": "images/118604.png"
+    }
+  ],
+  "synonyms": [
+    "displeasure",
+    "discontent",
+    "disappointment",
+    "unhappiness",
+    "frustration"
+  ],
+  "antonyms": [
+    "satisfaction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissatisfaction.mp3",
+  "local_sound_path": "sounds/dissatisfaction.mp3"
+}

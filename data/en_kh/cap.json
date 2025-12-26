@@ -1,0 +1,55 @@
+{
+  "word": "cap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bottle cap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12766.png",
+      "local_image_path": "images/12766.png"
+    },
+    {
+      "pos": "tv",
+      "example": "don't forget capping the bottle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12767.png",
+      "local_image_path": "images/12767.png"
+    }
+  ],
+  "synonyms": [
+    "top",
+    "coat",
+    "cover",
+    "crown",
+    "limit",
+    "regulate",
+    "control",
+    "restrain",
+    "restrict",
+    "check"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cap gun",
+    "cap-a pie",
+    "capability",
+    "capable",
+    "capableness",
+    "capably",
+    "capacious",
+    "capaciously",
+    "capaciousness",
+    "capacitance",
+    "capacitate",
+    "capacitation",
+    "capacitive",
+    "capacitively",
+    "capacitor",
+    "capacity",
+    "caparison",
+    "cape",
+    "Cape Coloured"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cap.mp3",
+  "local_sound_path": "sounds/cap.mp3"
+}

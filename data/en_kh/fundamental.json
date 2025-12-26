@@ -1,0 +1,55 @@
+{
+  "word": "fundamental",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30637.png",
+      "local_image_path": "images/30637.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fundamental principle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30638.png",
+      "local_image_path": "images/30638.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fundamental change",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30639.png",
+      "local_image_path": "images/30639.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30640.png",
+      "local_image_path": "images/30640.png"
+    }
+  ],
+  "synonyms": [
+    "important",
+    "essential",
+    "vital",
+    "ultimate",
+    "major",
+    "necessary",
+    "axiom",
+    "tenet",
+    "stipulation"
+  ],
+  "antonyms": [
+    "secondary",
+    "superfluous"
+  ],
+  "similar_words": [
+    "fundamental education",
+    "fundamental research",
+    "fundamental right",
+    "fundamentalism",
+    "fundamentalist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fundamental.mp3",
+  "local_sound_path": "sounds/fundamental.mp3"
+}

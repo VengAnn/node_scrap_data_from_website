@@ -1,0 +1,28 @@
+{
+  "word": "bisection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9175.png",
+      "local_image_path": "images/9175.png"
+    }
+  ],
+  "synonyms": [
+    "splitting",
+    "dissection",
+    "division",
+    "parting"
+  ],
+  "antonyms": [
+    "union"
+  ],
+  "similar_words": [
+    "bisectional",
+    "bisectionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bisection.mp3",
+  "local_sound_path": "sounds/bisection.mp3"
+}

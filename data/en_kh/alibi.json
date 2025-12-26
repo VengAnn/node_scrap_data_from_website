@@ -1,0 +1,42 @@
+{
+  "word": "alibi",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3359.png",
+      "local_image_path": "images/3359.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3358.png",
+      "local_image_path": "images/3358.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113512.png",
+      "local_image_path": "images/113512.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113513.png",
+      "local_image_path": "images/113513.png"
+    }
+  ],
+  "synonyms": [
+    "explanation",
+    "excuse",
+    "defense",
+    "reason",
+    "account"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alibi.mp3",
+  "local_sound_path": "sounds/alibi.mp3"
+}

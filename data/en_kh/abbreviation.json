@@ -1,0 +1,46 @@
+{
+  "word": "abbreviation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1351.png",
+      "local_image_path": "images/1351.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111874.png",
+      "local_image_path": "images/111874.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112983.png",
+      "local_image_path": "images/112983.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112984.png",
+      "local_image_path": "images/112984.png"
+    }
+  ],
+  "synonyms": [
+    "contraction",
+    "ellipsis",
+    "acronym",
+    "shortening",
+    "condensation",
+    "abridgement",
+    "truncation",
+    "curtailment",
+    "reduction"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abbreviation.mp3",
+  "local_sound_path": "sounds/abbreviation.mp3"
+}

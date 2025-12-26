@@ -1,0 +1,40 @@
+{
+  "word": "derangement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20727.png",
+      "local_image_path": "images/20727.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118085.png",
+      "local_image_path": "images/118085.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118086.png",
+      "local_image_path": "images/118086.png"
+    }
+  ],
+  "synonyms": [
+    "disorder",
+    "confusion",
+    "muddle",
+    "upset",
+    "disorganization",
+    "mess"
+  ],
+  "antonyms": [
+    "sanity",
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/derangement.mp3",
+  "local_sound_path": "sounds/derangement.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "translate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The poems don't translate well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91061.png",
+      "local_image_path": "images/91061.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91062.png",
+      "local_image_path": "images/91062.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91063.png",
+      "local_image_path": "images/91063.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132356.png",
+      "local_image_path": "images/132356.png"
+    }
+  ],
+  "synonyms": [
+    "convert",
+    "transform",
+    "turn",
+    "change"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/translate.mp3",
+  "local_sound_path": "sounds/translate.mp3"
+}

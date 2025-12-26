@@ -1,0 +1,40 @@
+{
+  "word": "skeptic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80671.png",
+      "local_image_path": "images/80671.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a skeptic in everything",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80670.png",
+      "local_image_path": "images/80670.png"
+    },
+    {
+      "pos": "n",
+      "example": "religious skeptic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80672.png",
+      "local_image_path": "images/80672.png"
+    }
+  ],
+  "synonyms": [
+    "cynic",
+    "disbeliever",
+    "doubter"
+  ],
+  "antonyms": [
+    "believer"
+  ],
+  "similar_words": [
+    "skeptical",
+    "skepticism",
+    "skepticize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skeptic.mp3",
+  "local_sound_path": "sounds/skeptic.mp3"
+}

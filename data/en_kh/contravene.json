@@ -1,0 +1,40 @@
+{
+  "word": "contravene",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Her action contravene the rules",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17388.png",
+      "local_image_path": "images/17388.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117482.png",
+      "local_image_path": "images/117482.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117483.png",
+      "local_image_path": "images/117483.png"
+    }
+  ],
+  "synonyms": [
+    "break",
+    "flout",
+    "breach",
+    "disobey",
+    "disregard",
+    "infringe",
+    "violate"
+  ],
+  "antonyms": [
+    "observe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contravene.mp3",
+  "local_sound_path": "sounds/contravene.mp3"
+}

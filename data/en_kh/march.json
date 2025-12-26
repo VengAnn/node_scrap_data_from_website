@@ -1,0 +1,81 @@
+{
+  "word": "march",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106210.png",
+      "local_image_path": "images/106210.png"
+    },
+    {
+      "pos": "iv",
+      "example": "soldiers march",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106211.png",
+      "local_image_path": "images/106211.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123785.png",
+      "local_image_path": "images/123785.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123786.png",
+      "local_image_path": "images/123786.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106213.png",
+      "local_image_path": "images/106213.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106214.png",
+      "local_image_path": "images/106214.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106215.png",
+      "local_image_path": "images/106215.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106212.png",
+      "local_image_path": "images/106212.png"
+    }
+  ],
+  "synonyms": [
+    "advance",
+    "progression",
+    "development",
+    "evolution",
+    "walk",
+    "stride",
+    "tramp",
+    "strut",
+    "stalk",
+    "swagger"
+  ],
+  "antonyms": [
+    "crawl"
+  ],
+  "similar_words": [
+    "march stone",
+    "marcher",
+    "marching orders",
+    "marchioness",
+    "marchland",
+    "marchman",
+    "marchpane"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/march.mp3",
+  "local_sound_path": "sounds/march.mp3"
+}

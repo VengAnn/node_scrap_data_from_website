@@ -1,0 +1,57 @@
+{
+  "word": "expense",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The expense of a good education is great.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26784.png",
+      "local_image_path": "images/26784.png"
+    },
+    {
+      "pos": "n",
+      "example": "reimburse expense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26785.png",
+      "local_image_path": "images/26785.png"
+    },
+    {
+      "pos": "n",
+      "example": "business expense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26786.png",
+      "local_image_path": "images/26786.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119692.png",
+      "local_image_path": "images/119692.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119693.png",
+      "local_image_path": "images/119693.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119694.png",
+      "local_image_path": "images/119694.png"
+    }
+  ],
+  "synonyms": [
+    "sacrifice",
+    "cost",
+    "detriment",
+    "deprivation",
+    "disadvantage",
+    "loss"
+  ],
+  "antonyms": [
+    "income"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expense.mp3",
+  "local_sound_path": "sounds/expense.mp3"
+}

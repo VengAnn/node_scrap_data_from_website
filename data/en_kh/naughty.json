@@ -1,0 +1,45 @@
+{
+  "word": "naughty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "naughty child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55091.png",
+      "local_image_path": "images/55091.png"
+    },
+    {
+      "pos": "adj",
+      "example": "naughty word",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55092.png",
+      "local_image_path": "images/55092.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55093.png",
+      "local_image_path": "images/55093.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124502.png",
+      "local_image_path": "images/124502.png"
+    }
+  ],
+  "synonyms": [
+    "disobedient",
+    "bad",
+    "wicked",
+    "wayward",
+    "mischievous",
+    "impish"
+  ],
+  "antonyms": [
+    "good"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/naughty.mp3",
+  "local_sound_path": "sounds/naughty.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "consultation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17144.png",
+      "local_image_path": "images/17144.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131406.png",
+      "local_image_path": "images/131406.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131407.png",
+      "local_image_path": "images/131407.png"
+    }
+  ],
+  "synonyms": [
+    "discussion",
+    "talk",
+    "session",
+    "conference",
+    "meeting",
+    "sounding",
+    "soundings"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consultation.mp3",
+  "local_sound_path": "sounds/consultation.mp3"
+}

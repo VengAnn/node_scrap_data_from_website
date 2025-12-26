@@ -1,0 +1,46 @@
+{
+  "word": "curiosity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "intellectual curiosity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19162.png",
+      "local_image_path": "images/19162.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19163.png",
+      "local_image_path": "images/19163.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19164.png",
+      "local_image_path": "images/19164.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132464.png",
+      "local_image_path": "images/132464.png"
+    }
+  ],
+  "synonyms": [
+    "oddity",
+    "curio",
+    "rarity",
+    "novelty",
+    "marvel",
+    "wonder",
+    "phenomenon"
+  ],
+  "antonyms": [
+    "apathy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curiosity.mp3",
+  "local_sound_path": "sounds/curiosity.mp3"
+}

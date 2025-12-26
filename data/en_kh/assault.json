@@ -1,0 +1,73 @@
+{
+  "word": "assault",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "physical assault",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5857.png",
+      "local_image_path": "images/5857.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112739.png",
+      "local_image_path": "images/112739.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112740.png",
+      "local_image_path": "images/112740.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112741.png",
+      "local_image_path": "images/112741.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112742.png",
+      "local_image_path": "images/112742.png"
+    },
+    {
+      "pos": "tv",
+      "example": "robbers assault them",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5858.png",
+      "local_image_path": "images/5858.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114124.png",
+      "local_image_path": "images/114124.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114125.png",
+      "local_image_path": "images/114125.png"
+    }
+  ],
+  "synonyms": [
+    "offensive",
+    "attack",
+    "onslaught",
+    "mug",
+    "assail",
+    "jump",
+    "strike",
+    "hit"
+  ],
+  "antonyms": [
+    "defense",
+    "retreat",
+    "defend"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assault.mp3",
+  "local_sound_path": "sounds/assault.mp3"
+}

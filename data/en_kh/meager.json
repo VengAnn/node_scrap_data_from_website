@@ -1,0 +1,49 @@
+{
+  "word": "meager",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107013.png",
+      "local_image_path": "images/107013.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107076.png",
+      "local_image_path": "images/107076.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130493.png",
+      "local_image_path": "images/130493.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130494.png",
+      "local_image_path": "images/130494.png"
+    }
+  ],
+  "synonyms": [
+    "scanty",
+    "insufficient",
+    "inadequate",
+    "paltry",
+    "skimpy",
+    "small",
+    "miserable",
+    "measly",
+    "derisory",
+    "mean"
+  ],
+  "antonyms": [
+    "plentiful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meager.mp3",
+  "local_sound_path": "sounds/meager.mp3"
+}

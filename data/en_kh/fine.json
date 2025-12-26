@@ -1,0 +1,63 @@
+{
+  "word": "fine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fine job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28594.png",
+      "local_image_path": "images/28594.png"
+    },
+    {
+      "pos": "adj",
+      "example": "That's fine.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28595.png",
+      "local_image_path": "images/28595.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fine sand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28596.png",
+      "local_image_path": "images/28596.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28598.png",
+      "local_image_path": "images/28598.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was fined $100 for driving his car.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28599.png",
+      "local_image_path": "images/28599.png"
+    }
+  ],
+  "synonyms": [
+    "penalize",
+    "punish",
+    "charge",
+    "levy"
+  ],
+  "antonyms": [
+    "unwell",
+    "poor",
+    "dull",
+    "unsatisfactory",
+    "considerable",
+    "thick",
+    "heavy",
+    "solid",
+    "coarse"
+  ],
+  "similar_words": [
+    "fine art",
+    "fineness",
+    "finery",
+    "finesse",
+    "finest"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fine.mp3",
+  "local_sound_path": "sounds/fine.mp3"
+}

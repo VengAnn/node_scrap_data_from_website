@@ -1,0 +1,52 @@
+{
+  "word": "frightened",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word frighten",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111736.png",
+      "local_image_path": "images/111736.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120464.png",
+      "local_image_path": "images/120464.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120465.png",
+      "local_image_path": "images/120465.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120466.png",
+      "local_image_path": "images/120466.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120467.png",
+      "local_image_path": "images/120467.png"
+    }
+  ],
+  "synonyms": [
+    "scared",
+    "terrified",
+    "alarmed",
+    "anxious",
+    "upset",
+    "worried",
+    "panicky"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frightened.mp3",
+  "local_sound_path": "sounds/frightened.mp3"
+}

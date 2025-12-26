@@ -1,0 +1,30 @@
+{
+  "word": "excellent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26378.png",
+      "local_image_path": "images/26378.png"
+    }
+  ],
+  "synonyms": [
+    "outstanding",
+    "brilliant",
+    "exceptional",
+    "first-rate",
+    "admirable",
+    "superb",
+    "tremendous"
+  ],
+  "antonyms": [
+    "poor"
+  ],
+  "similar_words": [
+    "excellently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excellent.mp3",
+  "local_sound_path": "sounds/excellent.mp3"
+}

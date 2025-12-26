@@ -1,0 +1,68 @@
+{
+  "word": "resist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "resist the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72734.png",
+      "local_image_path": "images/72734.png"
+    },
+    {
+      "pos": "tv",
+      "example": "resist arrest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72735.png",
+      "local_image_path": "images/72735.png"
+    },
+    {
+      "pos": "tv",
+      "example": "resist disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72736.png",
+      "local_image_path": "images/72736.png"
+    },
+    {
+      "pos": "tv",
+      "example": "resist temptation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72737.png",
+      "local_image_path": "images/72737.png"
+    },
+    {
+      "pos": "tv",
+      "example": "resist to the death",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72738.png",
+      "local_image_path": "images/72738.png"
+    }
+  ],
+  "synonyms": [
+    "avoid",
+    "refuse",
+    "withstand",
+    "forbear"
+  ],
+  "antonyms": [
+    "accept",
+    "surrender",
+    "succumb"
+  ],
+  "similar_words": [
+    "resistance",
+    "resistant",
+    "resister",
+    "resistful",
+    "resistibility",
+    "resistible",
+    "resistibly",
+    "resisting",
+    "resistive",
+    "resistively",
+    "resistiveness",
+    "resistivity",
+    "resistless",
+    "resistlessly",
+    "resistlessness",
+    "resistor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resist.mp3",
+  "local_sound_path": "sounds/resist.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "undignified",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94171.png",
+      "local_image_path": "images/94171.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129046.png",
+      "local_image_path": "images/129046.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129047.png",
+      "local_image_path": "images/129047.png"
+    }
+  ],
+  "synonyms": [
+    "unseemly",
+    "unbecoming",
+    "indecorous",
+    "improper",
+    "shameful",
+    "inappropriate"
+  ],
+  "antonyms": [
+    "dignified"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/undignified.mp3",
+  "local_sound_path": "sounds/undignified.mp3"
+}

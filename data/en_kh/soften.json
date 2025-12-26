@@ -1,0 +1,47 @@
+{
+  "word": "soften",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82417.png",
+      "local_image_path": "images/82417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "soften ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82415.png",
+      "local_image_path": "images/82415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "soften one's voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82416.png",
+      "local_image_path": "images/82416.png"
+    }
+  ],
+  "synonyms": [
+    "moderate",
+    "relax",
+    "temper",
+    "assuage",
+    "allay",
+    "alleviate",
+    "lessen",
+    "reduce",
+    "diminish",
+    "mitigate"
+  ],
+  "antonyms": [
+    "harden",
+    "exacerbate"
+  ],
+  "similar_words": [
+    "softener",
+    "softening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soften.mp3",
+  "local_sound_path": "sounds/soften.mp3"
+}

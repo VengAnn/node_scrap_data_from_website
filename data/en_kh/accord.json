@@ -1,0 +1,86 @@
+{
+  "word": "accord",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "accord and satisfaction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1883.png",
+      "local_image_path": "images/1883.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113137.png",
+      "local_image_path": "images/113137.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113138.png",
+      "local_image_path": "images/113138.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113139.png",
+      "local_image_path": "images/113139.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113140.png",
+      "local_image_path": "images/113140.png"
+    },
+    {
+      "pos": "n",
+      "example": "in accord with (sb/sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1881.png",
+      "local_image_path": "images/1881.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1882.png",
+      "local_image_path": "images/1882.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113141.png",
+      "local_image_path": "images/113141.png"
+    }
+  ],
+  "synonyms": [
+    "treaty",
+    "agreement",
+    "settlement",
+    "pact",
+    "deal",
+    "agree",
+    "concur",
+    "fit",
+    "match",
+    "correspond"
+  ],
+  "antonyms": [
+    "clash"
+  ],
+  "similar_words": [
+    "accord and satisfaction",
+    "accordable",
+    "accordance",
+    "accordant",
+    "accordantly",
+    "accorder",
+    "according",
+    "according as",
+    "according to",
+    "accordingly",
+    "accordion",
+    "accordionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accord.mp3",
+  "local_sound_path": "sounds/accord.mp3"
+}

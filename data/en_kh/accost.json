@@ -1,0 +1,35 @@
+{
+  "word": "accost",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1895.png",
+      "local_image_path": "images/1895.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111955.png",
+      "local_image_path": "images/111955.png"
+    }
+  ],
+  "synonyms": [
+    "approach",
+    "stop",
+    "waylay",
+    "confront",
+    "buttonhole",
+    "detain",
+    "hound"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "accostable",
+    "accostably"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accost.mp3",
+  "local_sound_path": "sounds/accost.mp3"
+}

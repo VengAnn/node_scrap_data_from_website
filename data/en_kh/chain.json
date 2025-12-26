@@ -1,0 +1,42 @@
+{
+  "word": "chain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "iron chain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13710.png",
+      "local_image_path": "images/13710.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you should chain your dog.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13711.png",
+      "local_image_path": "images/13711.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "franchise",
+    "series",
+    "bind",
+    "manacle",
+    "shackle",
+    "restrain",
+    "immobilize",
+    "attach",
+    "connect"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chain gang",
+    "chain store",
+    "chain-saw",
+    "chain-stitch",
+    "chainsmoke",
+    "chainsmoker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chain.mp3",
+  "local_sound_path": "sounds/chain.mp3"
+}

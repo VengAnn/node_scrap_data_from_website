@@ -1,0 +1,50 @@
+{
+  "word": "apparel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5024.png",
+      "local_image_path": "images/5024.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5025.png",
+      "local_image_path": "images/5025.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113844.png",
+      "local_image_path": "images/113844.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113845.png",
+      "local_image_path": "images/113845.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113846.png",
+      "local_image_path": "images/113846.png"
+    }
+  ],
+  "synonyms": [
+    "attire",
+    "clothing",
+    "clothes",
+    "garb",
+    "wear",
+    "kit",
+    "gear"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apparel.mp3",
+  "local_sound_path": "sounds/apparel.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "filament",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28475.png",
+      "local_image_path": "images/28475.png"
+    }
+  ],
+  "synonyms": [
+    "thread",
+    "strand",
+    "string",
+    "fiber",
+    "yarn",
+    "wool",
+    "wire"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "filamentary",
+    "filamentous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/filament.mp3",
+  "local_sound_path": "sounds/filament.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "barter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7606.png",
+      "local_image_path": "images/7606.png"
+    },
+    {
+      "pos": "v",
+      "example": "barter goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7605.png",
+      "local_image_path": "images/7605.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114641.png",
+      "local_image_path": "images/114641.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114642.png",
+      "local_image_path": "images/114642.png"
+    }
+  ],
+  "synonyms": [
+    "exchange",
+    "trade",
+    "switch",
+    "swap",
+    "negotiate",
+    "bargain",
+    "haggle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barter.mp3",
+  "local_sound_path": "sounds/barter.mp3"
+}

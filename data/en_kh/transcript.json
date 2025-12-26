@@ -1,0 +1,28 @@
+{
+  "word": "transcript",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90942.png",
+      "local_image_path": "images/90942.png"
+    }
+  ],
+  "synonyms": [
+    "record",
+    "transcription",
+    "copy",
+    "text"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "transcription",
+    "transcriptional",
+    "transcriptionally",
+    "transcriptive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transcript.mp3",
+  "local_sound_path": "sounds/transcript.mp3"
+}

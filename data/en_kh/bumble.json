@@ -1,0 +1,32 @@
+{
+  "word": "bumble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11816.png",
+      "local_image_path": "images/11816.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11817.png",
+      "local_image_path": "images/11817.png"
+    }
+  ],
+  "synonyms": [
+    "stumble",
+    "lumber",
+    "hesitate",
+    "blunder",
+    "stagger",
+    "lurch",
+    "shamble"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bumble.mp3",
+  "local_sound_path": "sounds/bumble.mp3"
+}

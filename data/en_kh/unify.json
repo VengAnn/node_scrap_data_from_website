@@ -1,0 +1,46 @@
+{
+  "word": "unify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94527.png",
+      "local_image_path": "images/94527.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94528.png",
+      "local_image_path": "images/94528.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94525.png",
+      "local_image_path": "images/94525.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94526.png",
+      "local_image_path": "images/94526.png"
+    }
+  ],
+  "synonyms": [
+    "unite",
+    "join",
+    "amalgamate",
+    "merge",
+    "combine",
+    "coalesce",
+    "fuse"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unify.mp3",
+  "local_sound_path": "sounds/unify.mp3"
+}

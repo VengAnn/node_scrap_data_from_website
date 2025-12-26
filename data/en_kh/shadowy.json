@@ -1,0 +1,40 @@
+{
+  "word": "shadowy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "shadowy street",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78664.png",
+      "local_image_path": "images/78664.png"
+    },
+    {
+      "pos": "adj",
+      "example": "shadowy presence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78665.png",
+      "local_image_path": "images/78665.png"
+    }
+  ],
+  "synonyms": [
+    "ghostly",
+    "spectral",
+    "ethereal",
+    "sinister",
+    "mysterious",
+    "eerie",
+    "dim",
+    "dark",
+    "murky",
+    "gloomy",
+    "shady"
+  ],
+  "antonyms": [
+    "distinct",
+    "bright",
+    "material"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shadowy.mp3",
+  "local_sound_path": "sounds/shadowy.mp3"
+}

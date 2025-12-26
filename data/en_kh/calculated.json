@@ -1,0 +1,49 @@
+{
+  "word": "calculated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12380.png",
+      "local_image_path": "images/12380.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115838.png",
+      "local_image_path": "images/115838.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115839.png",
+      "local_image_path": "images/115839.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115840.png",
+      "local_image_path": "images/115840.png"
+    }
+  ],
+  "synonyms": [
+    "intended",
+    "planned",
+    "considered",
+    "premeditated",
+    "deliberate",
+    "analyzed",
+    "determined"
+  ],
+  "antonyms": [
+    "ingenuous",
+    "spontaneous"
+  ],
+  "similar_words": [
+    "calculatedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calculated.mp3",
+  "local_sound_path": "sounds/calculated.mp3"
+}

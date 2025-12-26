@@ -1,0 +1,45 @@
+{
+  "word": "heroic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "heroic soldiers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34876.png",
+      "local_image_path": "images/34876.png"
+    },
+    {
+      "pos": "adj",
+      "example": "heroic effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34877.png",
+      "local_image_path": "images/34877.png"
+    },
+    {
+      "pos": "adj",
+      "example": "heroic tale",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34878.png",
+      "local_image_path": "images/34878.png"
+    }
+  ],
+  "synonyms": [
+    "daring",
+    "gallant",
+    "stout",
+    "valiant",
+    "brave",
+    "laudable",
+    "epic",
+    "superhuman",
+    "courageous",
+    "intrepid",
+    "fearless"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "heroical",
+    "heroically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heroic.mp3",
+  "local_sound_path": "sounds/heroic.mp3"
+}

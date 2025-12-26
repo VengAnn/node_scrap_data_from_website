@@ -1,0 +1,52 @@
+{
+  "word": "tell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88051.png",
+      "local_image_path": "images/88051.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88052.png",
+      "local_image_path": "images/88052.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will tell you this main news.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88050.png",
+      "local_image_path": "images/88050.png"
+    }
+  ],
+  "synonyms": [
+    "snitch",
+    "blab",
+    "tattle",
+    "gossip",
+    "sneak",
+    "grass",
+    "split"
+  ],
+  "antonyms": [
+    "confuse"
+  ],
+  "similar_words": [
+    "tell-truth",
+    "teller",
+    "telling",
+    "tellingly",
+    "telltale",
+    "tellurian",
+    "telluric",
+    "tellurion",
+    "tellurium",
+    "tellurometer",
+    "telly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tell.mp3",
+  "local_sound_path": "sounds/tell.mp3"
+}

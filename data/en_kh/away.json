@@ -1,0 +1,55 @@
+{
+  "word": "away",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6774.png",
+      "local_image_path": "images/6774.png"
+    },
+    {
+      "pos": "adv",
+      "example": "my father is away from home now",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6773.png",
+      "local_image_path": "images/6773.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114327.png",
+      "local_image_path": "images/114327.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114328.png",
+      "local_image_path": "images/114328.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114329.png",
+      "local_image_path": "images/114329.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114330.png",
+      "local_image_path": "images/114330.png"
+    }
+  ],
+  "synonyms": [
+    "absent",
+    "gone",
+    "left",
+    "missing"
+  ],
+  "antonyms": [
+    "present"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/away.mp3",
+  "local_sound_path": "sounds/away.mp3"
+}

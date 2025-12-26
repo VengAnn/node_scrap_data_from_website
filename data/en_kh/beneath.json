@@ -1,0 +1,32 @@
+{
+  "word": "beneath",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8264.png",
+      "local_image_path": "images/8264.png"
+    },
+    {
+      "pos": "prep",
+      "example": "beneath the table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8263.png",
+      "local_image_path": "images/8263.png"
+    }
+  ],
+  "synonyms": [
+    "less than",
+    "below",
+    "under",
+    "underneath"
+  ],
+  "antonyms": [
+    "above",
+    "over"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beneath.mp3",
+  "local_sound_path": "sounds/beneath.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "damn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19559.png",
+      "local_image_path": "images/19559.png"
+    },
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19554.png",
+      "local_image_path": "images/19554.png"
+    },
+    {
+      "pos": "n",
+      "example": "use a damn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19557.png",
+      "local_image_path": "images/19557.png"
+    },
+    {
+      "pos": "n",
+      "example": "don't give a damn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19558.png",
+      "local_image_path": "images/19558.png"
+    },
+    {
+      "pos": "tv",
+      "example": "damn s.o. in anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19555.png",
+      "local_image_path": "images/19555.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19556.png",
+      "local_image_path": "images/19556.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "damnable",
+    "damnably",
+    "damnation",
+    "damned",
+    "damning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/damn.mp3",
+  "local_sound_path": "sounds/damn.mp3"
+}

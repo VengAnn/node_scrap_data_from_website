@@ -1,0 +1,50 @@
+{
+  "word": "affected",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2702.png",
+      "local_image_path": "images/2702.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112202.png",
+      "local_image_path": "images/112202.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112203.png",
+      "local_image_path": "images/112203.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112204.png",
+      "local_image_path": "images/112204.png"
+    }
+  ],
+  "synonyms": [
+    "exaggerated",
+    "pretentious",
+    "precious",
+    "artificial",
+    "unnatural",
+    "involved",
+    "shaped",
+    "concerned"
+  ],
+  "antonyms": [
+    "natural"
+  ],
+  "similar_words": [
+    "affectedly",
+    "affectedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affected.mp3",
+  "local_sound_path": "sounds/affected.mp3"
+}

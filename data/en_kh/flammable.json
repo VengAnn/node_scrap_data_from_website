@@ -1,0 +1,25 @@
+{
+  "word": "flammable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28878.png",
+      "local_image_path": "images/28878.png"
+    }
+  ],
+  "synonyms": [
+    "inflammable",
+    "combustible",
+    "incendiary",
+    "igneous"
+  ],
+  "antonyms": [
+    "fireproof"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flammable.mp3",
+  "local_sound_path": "sounds/flammable.mp3"
+}

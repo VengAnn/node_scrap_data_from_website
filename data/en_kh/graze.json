@@ -1,0 +1,42 @@
+{
+  "word": "graze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32754.png",
+      "local_image_path": "images/32754.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32757.png",
+      "local_image_path": "images/32757.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32755.png",
+      "local_image_path": "images/32755.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I fell and grazed my knee.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32756.png",
+      "local_image_path": "images/32756.png"
+    }
+  ],
+  "synonyms": [
+    "glance",
+    "brush",
+    "skim",
+    "sweep",
+    "touch"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/graze.mp3",
+  "local_sound_path": "sounds/graze.mp3"
+}

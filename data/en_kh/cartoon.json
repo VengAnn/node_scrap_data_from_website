@@ -1,0 +1,37 @@
+{
+  "word": "cartoon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13132.png",
+      "local_image_path": "images/13132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116018.png",
+      "local_image_path": "images/116018.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116019.png",
+      "local_image_path": "images/116019.png"
+    }
+  ],
+  "synonyms": [
+    "animation",
+    "drawing",
+    "caricature",
+    "picture",
+    "sketch",
+    "comic strip"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cartoon.mp3",
+  "local_sound_path": "sounds/cartoon.mp3"
+}

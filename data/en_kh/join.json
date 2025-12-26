@@ -1,0 +1,92 @@
+{
+  "word": "join",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43137.png",
+      "local_image_path": "images/43137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43138.png",
+      "local_image_path": "images/43138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123129.png",
+      "local_image_path": "images/123129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "join two ends",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43131.png",
+      "local_image_path": "images/43131.png"
+    },
+    {
+      "pos": "tv",
+      "example": "join the army",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43132.png",
+      "local_image_path": "images/43132.png"
+    },
+    {
+      "pos": "tv",
+      "example": "join the firm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43133.png",
+      "local_image_path": "images/43133.png"
+    },
+    {
+      "pos": "tv",
+      "example": "join up with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43134.png",
+      "local_image_path": "images/43134.png"
+    },
+    {
+      "pos": "tv",
+      "example": "join sb in (doing sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43135.png",
+      "local_image_path": "images/43135.png"
+    },
+    {
+      "pos": "tv",
+      "example": "join forces",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43136.png",
+      "local_image_path": "images/43136.png"
+    }
+  ],
+  "synonyms": [
+    "reach",
+    "meet",
+    "touch"
+  ],
+  "antonyms": [
+    "separate",
+    "leave",
+    "disengage"
+  ],
+  "similar_words": [
+    "joinder",
+    "joinder of issue",
+    "joinder of parties",
+    "joined-up",
+    "joiner",
+    "joinery",
+    "joining",
+    "joiningly",
+    "joint",
+    "joint and several",
+    "joint declaration",
+    "joint discussions",
+    "joint liability",
+    "joint party",
+    "joint resolution",
+    "joint stock bank",
+    "joint stock company"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/join.mp3",
+  "local_sound_path": "sounds/join.mp3"
+}

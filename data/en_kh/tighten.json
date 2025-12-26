@@ -1,0 +1,44 @@
+{
+  "word": "tighten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "ropes tighten when wet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89433.png",
+      "local_image_path": "images/89433.png"
+    },
+    {
+      "pos": "iv",
+      "example": "markets tighten",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89434.png",
+      "local_image_path": "images/89434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tighten a rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89431.png",
+      "local_image_path": "images/89431.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tighten a screw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89432.png",
+      "local_image_path": "images/89432.png"
+    }
+  ],
+  "synonyms": [
+    "stretch",
+    "pull",
+    "straighten",
+    "smooth"
+  ],
+  "antonyms": [
+    "loosen",
+    "relax"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tighten.mp3",
+  "local_sound_path": "sounds/tighten.mp3"
+}

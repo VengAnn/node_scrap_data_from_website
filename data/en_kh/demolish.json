@@ -1,0 +1,40 @@
+{
+  "word": "demolish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "demolish a building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20440.png",
+      "local_image_path": "images/20440.png"
+    },
+    {
+      "pos": "tv",
+      "example": "demolish the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20441.png",
+      "local_image_path": "images/20441.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She demolished two whole pies.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20442.png",
+      "local_image_path": "images/20442.png"
+    }
+  ],
+  "synonyms": [
+    "disprove",
+    "dismantle",
+    "undermine",
+    "end"
+  ],
+  "antonyms": [
+    "build",
+    "preserve",
+    "support",
+    "nibble"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demolish.mp3",
+  "local_sound_path": "sounds/demolish.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "disobey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "disobey parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21997.png",
+      "local_image_path": "images/21997.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118551.png",
+      "local_image_path": "images/118551.png"
+    }
+  ],
+  "synonyms": [
+    "defy",
+    "contravene",
+    "violate",
+    "flout",
+    "challenge"
+  ],
+  "antonyms": [
+    "obey"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disobey.mp3",
+  "local_sound_path": "sounds/disobey.mp3"
+}

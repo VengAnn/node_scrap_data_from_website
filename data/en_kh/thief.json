@@ -1,0 +1,25 @@
+{
+  "word": "thief",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88928.png",
+      "local_image_path": "images/88928.png"
+    }
+  ],
+  "synonyms": [
+    "robber",
+    "burglar",
+    "shoplifter",
+    "pickpocket",
+    "bandit",
+    "crook"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thief.mp3",
+  "local_sound_path": "sounds/thief.mp3"
+}

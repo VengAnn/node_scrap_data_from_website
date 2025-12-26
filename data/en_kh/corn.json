@@ -1,0 +1,63 @@
+{
+  "word": "corn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ear of corn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17730.png",
+      "local_image_path": "images/17730.png"
+    },
+    {
+      "pos": "n",
+      "example": "a corn of barley",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17731.png",
+      "local_image_path": "images/17731.png"
+    },
+    {
+      "pos": "n",
+      "example": "a corn on the foot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17732.png",
+      "local_image_path": "images/17732.png"
+    },
+    {
+      "pos": "tv",
+      "example": "corn meat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17733.png",
+      "local_image_path": "images/17733.png"
+    }
+  ],
+  "synonyms": [
+    "callus",
+    "bump",
+    "lump"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "corn sugar",
+    "corn syrup",
+    "corn-beef",
+    "corn-cob",
+    "corn-fed",
+    "corncrib",
+    "cornea",
+    "corneal",
+    "corneal transplant",
+    "corned",
+    "cornelian",
+    "corneous",
+    "corner",
+    "cornerstone",
+    "cornet",
+    "cornflakes",
+    "cornflour",
+    "cornhusk",
+    "cornice",
+    "corniculate",
+    "cornification",
+    "cornmeal"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corn.mp3",
+  "local_sound_path": "sounds/corn.mp3"
+}

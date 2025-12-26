@@ -1,0 +1,52 @@
+{
+  "word": "disagree",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "We disagreed a future plans.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21565.png",
+      "local_image_path": "images/21565.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21566.png",
+      "local_image_path": "images/21566.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118359.png",
+      "local_image_path": "images/118359.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118360.png",
+      "local_image_path": "images/118360.png"
+    }
+  ],
+  "synonyms": [
+    "argue",
+    "quarrel",
+    "wrangle",
+    "dispute",
+    "bicker",
+    "clash",
+    "row",
+    "fight"
+  ],
+  "antonyms": [
+    "agree"
+  ],
+  "similar_words": [
+    "disagreeable",
+    "disagreeableness",
+    "disagreeably",
+    "disagreement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disagree.mp3",
+  "local_sound_path": "sounds/disagree.mp3"
+}

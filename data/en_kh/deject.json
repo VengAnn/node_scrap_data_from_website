@@ -1,0 +1,27 @@
+{
+  "word": "deject",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20281.png",
+      "local_image_path": "images/20281.png"
+    }
+  ],
+  "synonyms": [
+    "discourage",
+    "dishearten",
+    "depress",
+    "demoralize",
+    "disparage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dejected",
+    "dejection"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deject.mp3",
+  "local_sound_path": "sounds/deject.mp3"
+}

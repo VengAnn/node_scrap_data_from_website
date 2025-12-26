@@ -1,0 +1,47 @@
+{
+  "word": "disadvantageous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21551.png",
+      "local_image_path": "images/21551.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118350.png",
+      "local_image_path": "images/118350.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118351.png",
+      "local_image_path": "images/118351.png"
+    }
+  ],
+  "synonyms": [
+    "detrimental",
+    "damaging",
+    "hurtful",
+    "harmful",
+    "injurious",
+    "prejudicial",
+    "unfavorable",
+    "inconvenient",
+    "troublesome",
+    "difficult",
+    "unhelpful"
+  ],
+  "antonyms": [
+    "advantageous"
+  ],
+  "similar_words": [
+    "disadvantageously",
+    "disadvantageousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disadvantageous.mp3",
+  "local_sound_path": "sounds/disadvantageous.mp3"
+}

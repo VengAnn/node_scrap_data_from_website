@@ -1,0 +1,39 @@
+{
+  "word": "bearable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7873.png",
+      "local_image_path": "images/7873.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114723.png",
+      "local_image_path": "images/114723.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114724.png",
+      "local_image_path": "images/114724.png"
+    }
+  ],
+  "synonyms": [
+    "manageable",
+    "tolerable",
+    "endurable",
+    "acceptable",
+    "sufferable",
+    "supportable"
+  ],
+  "antonyms": [
+    "unbearable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bearable.mp3",
+  "local_sound_path": "sounds/bearable.mp3"
+}

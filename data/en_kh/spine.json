@@ -1,0 +1,34 @@
+{
+  "word": "spine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "spine of an animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83387.png",
+      "local_image_path": "images/83387.png"
+    },
+    {
+      "pos": "n",
+      "example": "Bush has sharp spines",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83388.png",
+      "local_image_path": "images/83388.png"
+    }
+  ],
+  "synonyms": [
+    "bristle",
+    "needle",
+    "spike",
+    "thorn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "spined",
+    "spinel",
+    "spineless",
+    "spinescent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spine.mp3",
+  "local_sound_path": "sounds/spine.mp3"
+}

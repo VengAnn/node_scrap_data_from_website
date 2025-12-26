@@ -1,0 +1,52 @@
+{
+  "word": "bequeath",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8337.png",
+      "local_image_path": "images/8337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8336.png",
+      "local_image_path": "images/8336.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114931.png",
+      "local_image_path": "images/114931.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114932.png",
+      "local_image_path": "images/114932.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114933.png",
+      "local_image_path": "images/114933.png"
+    }
+  ],
+  "synonyms": [
+    "leave",
+    "give",
+    "bestow",
+    "donate",
+    "will"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bequeathal",
+    "bequeather",
+    "bequeathment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bequeath.mp3",
+  "local_sound_path": "sounds/bequeath.mp3"
+}

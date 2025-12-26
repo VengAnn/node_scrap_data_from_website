@@ -1,0 +1,79 @@
+{
+  "word": "splash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "liquids splash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83495.png",
+      "local_image_path": "images/83495.png"
+    },
+    {
+      "pos": "iv",
+      "example": "children splash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83496.png",
+      "local_image_path": "images/83496.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83497.png",
+      "local_image_path": "images/83497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83498.png",
+      "local_image_path": "images/83498.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83499.png",
+      "local_image_path": "images/83499.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83500.png",
+      "local_image_path": "images/83500.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83501.png",
+      "local_image_path": "images/83501.png"
+    },
+    {
+      "pos": "tv",
+      "example": "splash water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83493.png",
+      "local_image_path": "images/83493.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83494.png",
+      "local_image_path": "images/83494.png"
+    }
+  ],
+  "synonyms": [
+    "plaster",
+    "display",
+    "broadcast",
+    "publicize"
+  ],
+  "antonyms": [
+    "glide",
+    "dab"
+  ],
+  "similar_words": [
+    "splash out",
+    "splash-board",
+    "splasher",
+    "splashy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/splash.mp3",
+  "local_sound_path": "sounds/splash.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "burglar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the burglar got into the house through the bedroom window",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11918.png",
+      "local_image_path": "images/11918.png"
+    }
+  ],
+  "synonyms": [
+    "thief",
+    "robber",
+    "intruder",
+    "housebreaker",
+    "criminal"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "burglarious",
+    "burglariously",
+    "burglarize",
+    "burglarproof",
+    "burglary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burglar.mp3",
+  "local_sound_path": "sounds/burglar.mp3"
+}

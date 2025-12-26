@@ -1,0 +1,101 @@
+{
+  "word": "well",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I'm not well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99720.png",
+      "local_image_path": "images/99720.png"
+    },
+    {
+      "pos": "adv",
+      "example": "He write well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99719.png",
+      "local_image_path": "images/99719.png"
+    },
+    {
+      "pos": "interj",
+      "example": "Well, what are you doing?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99721.png",
+      "local_image_path": "images/99721.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99725.png",
+      "local_image_path": "images/99725.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99722.png",
+      "local_image_path": "images/99722.png"
+    },
+    {
+      "pos": "n",
+      "example": "oil well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99723.png",
+      "local_image_path": "images/99723.png"
+    },
+    {
+      "pos": "n",
+      "example": "stair well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99724.png",
+      "local_image_path": "images/99724.png"
+    }
+  ],
+  "synonyms": [
+    "brim",
+    "form",
+    "surge",
+    "rise",
+    "grow",
+    "swell",
+    "intensify",
+    "increase"
+  ],
+  "antonyms": [
+    "unwell",
+    "badly",
+    "poorly",
+    "ill",
+    "unsatisfactory",
+    "slightly",
+    "unfairly",
+    "partially",
+    "improperly",
+    "subside"
+  ],
+  "similar_words": [
+    "well chosen",
+    "well conditioned",
+    "well-acquainted",
+    "well-advised",
+    "well-affecetd",
+    "well-balanced",
+    "well-behaved",
+    "well-being",
+    "well-beloved",
+    "well-born",
+    "well-bred",
+    "well-bucket",
+    "well-built",
+    "well-connected",
+    "well-content",
+    "well-contented",
+    "well-defined",
+    "well-deserver",
+    "well-deserving",
+    "well-disposed",
+    "well-doer",
+    "well-doing",
+    "well-done",
+    "well-dressed",
+    "well-educated",
+    "well-favoured"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/well.mp3",
+  "local_sound_path": "sounds/well.mp3"
+}

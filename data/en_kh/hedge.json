@@ -1,0 +1,53 @@
+{
+  "word": "hedge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34432.png",
+      "local_image_path": "images/34432.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34433.png",
+      "local_image_path": "images/34433.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34434.png",
+      "local_image_path": "images/34434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34435.png",
+      "local_image_path": "images/34435.png"
+    }
+  ],
+  "synonyms": [
+    "enclose",
+    "protect",
+    "encircle",
+    "barricade",
+    "ring",
+    "fence",
+    "surround"
+  ],
+  "antonyms": [
+    "confront",
+    "expose"
+  ],
+  "similar_words": [
+    "hedge-school",
+    "hedgehog",
+    "hedgehop",
+    "hedgeless",
+    "hedgerow"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hedge.mp3",
+  "local_sound_path": "sounds/hedge.mp3"
+}

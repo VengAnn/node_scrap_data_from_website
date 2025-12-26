@@ -1,0 +1,31 @@
+{
+  "word": "cancerous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12608.png",
+      "local_image_path": "images/12608.png"
+    }
+  ],
+  "synonyms": [
+    "harmful",
+    "pernicious",
+    "malign",
+    "malignant",
+    "noxious",
+    "damaging",
+    "deleterious",
+    "destructive",
+    "cankerous"
+  ],
+  "antonyms": [
+    "benign",
+    "beneficent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cancerous.mp3",
+  "local_sound_path": "sounds/cancerous.mp3"
+}

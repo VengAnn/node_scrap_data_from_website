@@ -1,0 +1,37 @@
+{
+  "word": "liberty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "They give their children a great deal of liberty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46220.png",
+      "local_image_path": "images/46220.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46221.png",
+      "local_image_path": "images/46221.png"
+    }
+  ],
+  "synonyms": [
+    "right",
+    "freedom",
+    "authorization",
+    "authority",
+    "permission",
+    "independence",
+    "autonomy",
+    "emancipation",
+    "liberation"
+  ],
+  "antonyms": [
+    "suppression",
+    "captivity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liberty.mp3",
+  "local_sound_path": "sounds/liberty.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "pair",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "pair off",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59340.png",
+      "local_image_path": "images/59340.png"
+    },
+    {
+      "pos": "n",
+      "example": "pairs of shoes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59336.png",
+      "local_image_path": "images/59336.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59337.png",
+      "local_image_path": "images/59337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59338.png",
+      "local_image_path": "images/59338.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pair shoes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59339.png",
+      "local_image_path": "images/59339.png"
+    }
+  ],
+  "synonyms": [
+    "team up",
+    "combine"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "pair of compass",
+    "pair of virginals",
+    "paired",
+    "pairing-season",
+    "pairwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pair.mp3",
+  "local_sound_path": "sounds/pair.mp3"
+}

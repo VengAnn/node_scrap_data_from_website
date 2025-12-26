@@ -1,0 +1,51 @@
+{
+  "word": "chase",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13900.png",
+      "local_image_path": "images/13900.png"
+    },
+    {
+      "pos": "tv",
+      "example": "chase (after) sb/sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13898.png",
+      "local_image_path": "images/13898.png"
+    },
+    {
+      "pos": "tv",
+      "example": "chase (after) sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13899.png",
+      "local_image_path": "images/13899.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13901.png",
+      "local_image_path": "images/13901.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116222.png",
+      "local_image_path": "images/116222.png"
+    }
+  ],
+  "synonyms": [
+    "pursuit",
+    "hunt",
+    "game",
+    "pursue",
+    "hound",
+    "follow",
+    "trail",
+    "track"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chase.mp3",
+  "local_sound_path": "sounds/chase.mp3"
+}

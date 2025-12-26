@@ -1,0 +1,38 @@
+{
+  "word": "ammunition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3905.png",
+      "local_image_path": "images/3905.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112464.png",
+      "local_image_path": "images/112464.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112465.png",
+      "local_image_path": "images/112465.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112466.png",
+      "local_image_path": "images/112466.png"
+    }
+  ],
+  "synonyms": [
+    "ammo"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ammunition.mp3",
+  "local_sound_path": "sounds/ammunition.mp3"
+}

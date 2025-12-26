@@ -1,0 +1,74 @@
+{
+  "word": "polish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64748.png",
+      "local_image_path": "images/64748.png"
+    },
+    {
+      "pos": "n",
+      "example": "shoe polish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64749.png",
+      "local_image_path": "images/64749.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64743.png",
+      "local_image_path": "images/64743.png"
+    },
+    {
+      "pos": "tv",
+      "example": "polish a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64744.png",
+      "local_image_path": "images/64744.png"
+    },
+    {
+      "pos": "tv",
+      "example": "polish shoes black",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64745.png",
+      "local_image_path": "images/64745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "polish a speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64746.png",
+      "local_image_path": "images/64746.png"
+    },
+    {
+      "pos": "tv",
+      "example": "polish gem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64747.png",
+      "local_image_path": "images/64747.png"
+    }
+  ],
+  "synonyms": [
+    "improve",
+    "enhance",
+    "refine",
+    "perfect",
+    "hone",
+    "shine",
+    "buff",
+    "rub",
+    "clean",
+    "dust",
+    "sparkle",
+    "furbish"
+  ],
+  "antonyms": [
+    "tarnish",
+    "dullness"
+  ],
+  "similar_words": [
+    "polished",
+    "polisher",
+    "polishing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/polish.mp3",
+  "local_sound_path": "sounds/polish.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "word": "poison",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64632.png",
+      "local_image_path": "images/64632.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125679.png",
+      "local_image_path": "images/125679.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125680.png",
+      "local_image_path": "images/125680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64631.png",
+      "local_image_path": "images/64631.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125681.png",
+      "local_image_path": "images/125681.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125682.png",
+      "local_image_path": "images/125682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125683.png",
+      "local_image_path": "images/125683.png"
+    }
+  ],
+  "synonyms": [
+    "pollute",
+    "taint",
+    "corrupt",
+    "contaminate",
+    "adulterate",
+    "spoil",
+    "dirty",
+    "sully",
+    "debase",
+    "turn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "poison gas",
+    "poison-ivy",
+    "poisoner",
+    "poisoning",
+    "poisonous",
+    "poisonous tree",
+    "poisonously",
+    "poisonousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poison.mp3",
+  "local_sound_path": "sounds/poison.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "chaotic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13815.png",
+      "local_image_path": "images/13815.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116158.png",
+      "local_image_path": "images/116158.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116159.png",
+      "local_image_path": "images/116159.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116160.png",
+      "local_image_path": "images/116160.png"
+    }
+  ],
+  "synonyms": [
+    "muddled",
+    "confused",
+    "messy",
+    "untidy",
+    "hectic",
+    "frenzied",
+    "unruly",
+    "anarchic",
+    "tumultuous"
+  ],
+  "antonyms": [
+    "orderly"
+  ],
+  "similar_words": [
+    "chaotically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chaotic.mp3",
+  "local_sound_path": "sounds/chaotic.mp3"
+}

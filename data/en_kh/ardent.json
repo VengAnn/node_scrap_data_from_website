@@ -1,0 +1,51 @@
+{
+  "word": "ardent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ardent flame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5393.png",
+      "local_image_path": "images/5393.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113959.png",
+      "local_image_path": "images/113959.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113960.png",
+      "local_image_path": "images/113960.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113961.png",
+      "local_image_path": "images/113961.png"
+    }
+  ],
+  "synonyms": [
+    "passionate",
+    "enthusiastic",
+    "keen",
+    "fervent",
+    "zealous",
+    "eager",
+    "devoted",
+    "fiery",
+    "fervid"
+  ],
+  "antonyms": [
+    "dispassionate"
+  ],
+  "similar_words": [
+    "ardently",
+    "ardentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ardent.mp3",
+  "local_sound_path": "sounds/ardent.mp3"
+}

@@ -1,0 +1,77 @@
+{
+  "word": "kid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43831.png",
+      "local_image_path": "images/43831.png"
+    },
+    {
+      "pos": "n",
+      "example": "goat kid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43828.png",
+      "local_image_path": "images/43828.png"
+    },
+    {
+      "pos": "n",
+      "example": "mischlevous kid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43829.png",
+      "local_image_path": "images/43829.png"
+    },
+    {
+      "pos": "n",
+      "example": "made of kid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43830.png",
+      "local_image_path": "images/43830.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43835.png",
+      "local_image_path": "images/43835.png"
+    }
+  ],
+  "synonyms": [
+    "tease",
+    "joke",
+    "rib",
+    "mock",
+    "ridicule",
+    "fool",
+    "trick",
+    "delude",
+    "hoodwink",
+    "con",
+    "mislead",
+    "deceive",
+    "bamboozle"
+  ],
+  "antonyms": [
+    "adult"
+  ],
+  "similar_words": [
+    "kid stuff",
+    "kid-glove",
+    "kidder",
+    "kiddicott",
+    "kidding",
+    "kiddingly",
+    "kiddish",
+    "kiddo",
+    "kiddy",
+    "kidnap",
+    "kidnapper",
+    "kidnapping",
+    "kidney",
+    "kidney stone",
+    "kidskin",
+    "kidsman",
+    "kidult",
+    "kidvid"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/kid.mp3",
+  "local_sound_path": "sounds/kid.mp3"
+}

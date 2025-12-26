@@ -1,0 +1,53 @@
+{
+  "word": "hack",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33448.png",
+      "local_image_path": "images/33448.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a hack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33449.png",
+      "local_image_path": "images/33449.png"
+    },
+    {
+      "pos": "tv",
+      "example": "After killing his enemy, the savage hacked the body of pieces.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33447.png",
+      "local_image_path": "images/33447.png"
+    }
+  ],
+  "synonyms": [
+    "cut",
+    "chop",
+    "slash",
+    "lacerate",
+    "scythe",
+    "hew",
+    "slice",
+    "cope",
+    "manage",
+    "succeed",
+    "survive"
+  ],
+  "antonyms": [
+    "specialist",
+    "splice"
+  ],
+  "similar_words": [
+    "hacking cough",
+    "hackle",
+    "hackly",
+    "hackman",
+    "hackney",
+    "hackneyed",
+    "hacksaw"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hack.mp3",
+  "local_sound_path": "sounds/hack.mp3"
+}

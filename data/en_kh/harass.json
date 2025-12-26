@@ -1,0 +1,42 @@
+{
+  "word": "harass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Political dissidents complained of being harassed by the police.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33821.png",
+      "local_image_path": "images/33821.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33822.png",
+      "local_image_path": "images/33822.png"
+    }
+  ],
+  "synonyms": [
+    "annoy",
+    "pester",
+    "bother",
+    "pursue",
+    "stalk",
+    "hassle",
+    "worry",
+    "tease",
+    "badger",
+    "hound",
+    "bully",
+    "trouble",
+    "stress",
+    "harry"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "harasser",
+    "harassment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harass.mp3",
+  "local_sound_path": "sounds/harass.mp3"
+}

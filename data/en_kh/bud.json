@@ -1,0 +1,56 @@
+{
+  "word": "bud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the tree are budding realy this year",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11649.png",
+      "local_image_path": "images/11649.png"
+    },
+    {
+      "pos": "n",
+      "example": "flower bud",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11648.png",
+      "local_image_path": "images/11648.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11651.png",
+      "local_image_path": "images/11651.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11650.png",
+      "local_image_path": "images/11650.png"
+    }
+  ],
+  "synonyms": [
+    "blossom",
+    "flower",
+    "grow",
+    "bloom",
+    "flourish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "Buddha",
+    "Buddhism",
+    "Buddhist",
+    "Buddhistic",
+    "budding",
+    "buddy",
+    "budge",
+    "budgerigar",
+    "budgerow",
+    "budget",
+    "budget account",
+    "budgetary",
+    "budgie"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bud.mp3",
+  "local_sound_path": "sounds/bud.mp3"
+}

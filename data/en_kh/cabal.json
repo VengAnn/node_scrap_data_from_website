@@ -1,0 +1,57 @@
+{
+  "word": "cabal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12171.png",
+      "local_image_path": "images/12171.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12170.png",
+      "local_image_path": "images/12170.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115776.png",
+      "local_image_path": "images/115776.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115777.png",
+      "local_image_path": "images/115777.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "unit",
+    "sect",
+    "faction",
+    "section",
+    "plot",
+    "scheme",
+    "conspiracy",
+    "artifice",
+    "connivance",
+    "collusion"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cabala",
+    "cabalism",
+    "cabalist",
+    "cabalistic",
+    "cabalistical",
+    "cabalistically",
+    "caballero",
+    "caballine"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cabal.mp3",
+  "local_sound_path": "sounds/cabal.mp3"
+}

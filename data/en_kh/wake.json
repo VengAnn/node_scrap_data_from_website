@@ -1,0 +1,75 @@
+{
+  "word": "wake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "What time do you usually wake (up) in the morning?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98864.png",
+      "local_image_path": "images/98864.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98865.png",
+      "local_image_path": "images/98865.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98866.png",
+      "local_image_path": "images/98866.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98868.png",
+      "local_image_path": "images/98868.png"
+    },
+    {
+      "pos": "n",
+      "example": "wake of the boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98869.png",
+      "local_image_path": "images/98869.png"
+    },
+    {
+      "pos": "n",
+      "example": "in the wake of the war",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98870.png",
+      "local_image_path": "images/98870.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98867.png",
+      "local_image_path": "images/98867.png"
+    }
+  ],
+  "synonyms": [
+    "arouse",
+    "stir",
+    "awaken",
+    "rouse",
+    "kindle",
+    "challenge"
+  ],
+  "antonyms": [
+    "stifle"
+  ],
+  "similar_words": [
+    "wake-up call",
+    "wakeful",
+    "wakefully",
+    "wakefulness",
+    "wakeless",
+    "wakeman",
+    "waken",
+    "wakener",
+    "wakening",
+    "waker",
+    "wakerife"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wake.mp3",
+  "local_sound_path": "sounds/wake.mp3"
+}

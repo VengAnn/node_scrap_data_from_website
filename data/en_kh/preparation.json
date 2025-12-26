@@ -1,0 +1,47 @@
+{
+  "word": "preparation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "preparation of a dish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66414.png",
+      "local_image_path": "images/66414.png"
+    },
+    {
+      "pos": "n",
+      "example": "medicinal preparation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66415.png",
+      "local_image_path": "images/66415.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125919.png",
+      "local_image_path": "images/125919.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125920.png",
+      "local_image_path": "images/125920.png"
+    }
+  ],
+  "synonyms": [
+    "training",
+    "grounding",
+    "homework",
+    "research",
+    "groundwork",
+    "planning",
+    "provision",
+    "arrangement",
+    "formulation",
+    "organization"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/preparation.mp3",
+  "local_sound_path": "sounds/preparation.mp3"
+}

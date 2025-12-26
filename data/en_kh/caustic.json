@@ -1,0 +1,73 @@
+{
+  "word": "caustic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "caustic solution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13430.png",
+      "local_image_path": "images/13430.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116080.png",
+      "local_image_path": "images/116080.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116081.png",
+      "local_image_path": "images/116081.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116082.png",
+      "local_image_path": "images/116082.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116083.png",
+      "local_image_path": "images/116083.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116084.png",
+      "local_image_path": "images/116084.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13431.png",
+      "local_image_path": "images/13431.png"
+    }
+  ],
+  "synonyms": [
+    "corrosive",
+    "acid",
+    "acidic",
+    "scathing",
+    "cutting",
+    "biting",
+    "sarcastic",
+    "mordant",
+    "acerbic",
+    "sharp",
+    "unkind",
+    "astringent",
+    "razor-sharp"
+  ],
+  "antonyms": [
+    "mild",
+    "gentle"
+  ],
+  "similar_words": [
+    "caustically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caustic.mp3",
+  "local_sound_path": "sounds/caustic.mp3"
+}

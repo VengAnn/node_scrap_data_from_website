@@ -1,0 +1,46 @@
+{
+  "word": "affection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "every mother feels affection for her children",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2707.png",
+      "local_image_path": "images/2707.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112123.png",
+      "local_image_path": "images/112123.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112124.png",
+      "local_image_path": "images/112124.png"
+    }
+  ],
+  "synonyms": [
+    "love",
+    "liking",
+    "fondness",
+    "warmth",
+    "friendliness",
+    "care",
+    "regard"
+  ],
+  "antonyms": [
+    "dislike"
+  ],
+  "similar_words": [
+    "affectional",
+    "affectionally",
+    "affectionate",
+    "affectionately",
+    "affectionateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affection.mp3",
+  "local_sound_path": "sounds/affection.mp3"
+}

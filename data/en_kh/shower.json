@@ -1,0 +1,58 @@
+{
+  "word": "shower",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79551.png",
+      "local_image_path": "images/79551.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a shower",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79547.png",
+      "local_image_path": "images/79547.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shower him with gifts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79548.png",
+      "local_image_path": "images/79548.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79549.png",
+      "local_image_path": "images/79549.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79550.png",
+      "local_image_path": "images/79550.png"
+    }
+  ],
+  "synonyms": [
+    "overwhelm",
+    "deluge",
+    "bombard",
+    "wash",
+    "bathe",
+    "rinse",
+    "bath"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shower party",
+    "shower-bath",
+    "shower-cloud",
+    "showeriness",
+    "showering",
+    "showerproof",
+    "showery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shower.mp3",
+  "local_sound_path": "sounds/shower.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "within",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100647.png",
+      "local_image_path": "images/100647.png"
+    },
+    {
+      "pos": "prep",
+      "example": "Live within one's income.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100645.png",
+      "local_image_path": "images/100645.png"
+    },
+    {
+      "pos": "prep",
+      "example": "within the walls",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100646.png",
+      "local_image_path": "images/100646.png"
+    }
+  ],
+  "synonyms": [
+    "inside",
+    "in"
+  ],
+  "antonyms": [
+    "outside"
+  ],
+  "similar_words": [
+    "within door",
+    "within side"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/within.mp3",
+  "local_sound_path": "sounds/within.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "sever",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "sever a hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78500.png",
+      "local_image_path": "images/78500.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sever relations",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78501.png",
+      "local_image_path": "images/78501.png"
+    }
+  ],
+  "synonyms": [
+    "lop off",
+    "amputate",
+    "remove"
+  ],
+  "antonyms": [
+    "unite",
+    "attach"
+  ],
+  "similar_words": [
+    "severable",
+    "several",
+    "severality",
+    "severalize",
+    "severally",
+    "severalty",
+    "severance",
+    "severance pay",
+    "severance-pay",
+    "severe",
+    "severely",
+    "severeness",
+    "severity",
+    "severy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sever.mp3",
+  "local_sound_path": "sounds/sever.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "word": "speech",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83218.png",
+      "local_image_path": "images/83218.png"
+    },
+    {
+      "pos": "n",
+      "example": "power of speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83219.png",
+      "local_image_path": "images/83219.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83220.png",
+      "local_image_path": "images/83220.png"
+    },
+    {
+      "pos": "n",
+      "example": "speech of a given region",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83221.png",
+      "local_image_path": "images/83221.png"
+    },
+    {
+      "pos": "n",
+      "example": "forgot his speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83222.png",
+      "local_image_path": "images/83222.png"
+    }
+  ],
+  "synonyms": [
+    "lecture",
+    "oration",
+    "sermon",
+    "talk",
+    "homily",
+    "discourse",
+    "address"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "speech organs",
+    "speech-maker",
+    "speech-making",
+    "speechful",
+    "speechification",
+    "speechifier",
+    "speechify",
+    "speechifying",
+    "speeching",
+    "speechless",
+    "speechlessly",
+    "speechlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/speech.mp3",
+  "local_sound_path": "sounds/speech.mp3"
+}

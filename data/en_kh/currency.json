@@ -1,0 +1,45 @@
+{
+  "word": "currency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "monetary currency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19181.png",
+      "local_image_path": "images/19181.png"
+    },
+    {
+      "pos": "n",
+      "example": "currency of news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19182.png",
+      "local_image_path": "images/19182.png"
+    },
+    {
+      "pos": "n",
+      "example": "currency of a fashion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19183.png",
+      "local_image_path": "images/19183.png"
+    },
+    {
+      "pos": "n",
+      "example": "currency note",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19184.png",
+      "local_image_path": "images/19184.png"
+    }
+  ],
+  "synonyms": [
+    "prevalence",
+    "frequency",
+    "popularity",
+    "vogue",
+    "circulation",
+    "commonness",
+    "acceptance",
+    "predominance"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/currency.mp3",
+  "local_sound_path": "sounds/currency.mp3"
+}

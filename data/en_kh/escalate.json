@@ -1,0 +1,36 @@
+{
+  "word": "escalate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25821.png",
+      "local_image_path": "images/25821.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25822.png",
+      "local_image_path": "images/25822.png"
+    }
+  ],
+  "synonyms": [
+    "worsen",
+    "intensify",
+    "heighten",
+    "accelerate",
+    "rise",
+    "soar",
+    "rocket",
+    "spiral"
+  ],
+  "antonyms": [
+    "plummet",
+    "improve"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/escalate.mp3",
+  "local_sound_path": "sounds/escalate.mp3"
+}

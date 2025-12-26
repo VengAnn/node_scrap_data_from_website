@@ -1,0 +1,57 @@
+{
+  "word": "veil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "veil one's feelings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97421.png",
+      "local_image_path": "images/97421.png"
+    },
+    {
+      "pos": "n",
+      "example": "She raised her veil.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97417.png",
+      "local_image_path": "images/97417.png"
+    },
+    {
+      "pos": "n",
+      "example": "veil of smoke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97418.png",
+      "local_image_path": "images/97418.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97419.png",
+      "local_image_path": "images/97419.png"
+    },
+    {
+      "pos": "tv",
+      "example": "veil her face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97420.png",
+      "local_image_path": "images/97420.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "conceal",
+    "hide",
+    "mask",
+    "cloak",
+    "shroud",
+    "envelop",
+    "obscure"
+  ],
+  "antonyms": [
+    "reveal"
+  ],
+  "similar_words": [
+    "veiled",
+    "veiling",
+    "veilless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/veil.mp3",
+  "local_sound_path": "sounds/veil.mp3"
+}

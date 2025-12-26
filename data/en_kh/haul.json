@@ -1,0 +1,73 @@
+{
+  "word": "haul",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "winds haul",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34052.png",
+      "local_image_path": "images/34052.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34053.png",
+      "local_image_path": "images/34053.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34054.png",
+      "local_image_path": "images/34054.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34055.png",
+      "local_image_path": "images/34055.png"
+    },
+    {
+      "pos": "n",
+      "example": "bandit's haul",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34056.png",
+      "local_image_path": "images/34056.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They hauled the boat up the beach.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34049.png",
+      "local_image_path": "images/34049.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34050.png",
+      "local_image_path": "images/34050.png"
+    },
+    {
+      "pos": "tv",
+      "example": "haul sb over the coals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34051.png",
+      "local_image_path": "images/34051.png"
+    }
+  ],
+  "synonyms": [
+    "tow",
+    "drag",
+    "pull",
+    "lug",
+    "heave",
+    "tug"
+  ],
+  "antonyms": [
+    "shove"
+  ],
+  "similar_words": [
+    "haulage",
+    "haulier",
+    "haulm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/haul.mp3",
+  "local_sound_path": "sounds/haul.mp3"
+}

@@ -1,0 +1,93 @@
+{
+  "word": "post",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "fence post",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65404.png",
+      "local_image_path": "images/65404.png"
+    },
+    {
+      "pos": "n",
+      "example": "diplomatic post",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65406.png",
+      "local_image_path": "images/65406.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65407.png",
+      "local_image_path": "images/65407.png"
+    },
+    {
+      "pos": "n",
+      "example": "Will you take this letter to the post?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65409.png",
+      "local_image_path": "images/65409.png"
+    },
+    {
+      "pos": "tv",
+      "example": "post a notice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65405.png",
+      "local_image_path": "images/65405.png"
+    },
+    {
+      "pos": "tv",
+      "example": "post a sentry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65408.png",
+      "local_image_path": "images/65408.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Will you post this letter for me?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65410.png",
+      "local_image_path": "images/65410.png"
+    }
+  ],
+  "synonyms": [
+    "pole",
+    "column",
+    "stake",
+    "marker",
+    "pillar",
+    "display",
+    "announce",
+    "advertise",
+    "publish",
+    "declare",
+    "publicize"
+  ],
+  "antonyms": [
+    "receive"
+  ],
+  "similar_words": [
+    "post bag",
+    "post box",
+    "post card",
+    "post cart",
+    "post chaise",
+    "post day",
+    "post diluvial",
+    "post facto",
+    "post fix",
+    "post free",
+    "post haste",
+    "post holder",
+    "post meridiem",
+    "post natus",
+    "post nuptial",
+    "post obit",
+    "post office",
+    "post office box",
+    "post road",
+    "post scribe",
+    "post scriptal",
+    "post town",
+    "post-bellum",
+    "post-date"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/post.mp3",
+  "local_sound_path": "sounds/post.mp3"
+}

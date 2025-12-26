@@ -1,0 +1,43 @@
+{
+  "word": "cream",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18458.png",
+      "local_image_path": "images/18458.png"
+    },
+    {
+      "pos": "n",
+      "example": "pure cream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18456.png",
+      "local_image_path": "images/18456.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cream milk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18457.png",
+      "local_image_path": "images/18457.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "thrash",
+    "hammer",
+    "clobber",
+    "demolish"
+  ],
+  "antonyms": [
+    "dregs"
+  ],
+  "similar_words": [
+    "cream puff",
+    "creamer",
+    "creamery",
+    "creamy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cream.mp3",
+  "local_sound_path": "sounds/cream.mp3"
+}

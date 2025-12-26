@@ -1,0 +1,30 @@
+{
+  "word": "liking",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I've always had a liking for the sea.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46563.png",
+      "local_image_path": "images/46563.png"
+    }
+  ],
+  "synonyms": [
+    "taste",
+    "fondness",
+    "partiality",
+    "love",
+    "penchant",
+    "predilection",
+    "weakness",
+    "adoring",
+    "loving"
+  ],
+  "antonyms": [
+    "dislike"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liking.mp3",
+  "local_sound_path": "sounds/liking.mp3"
+}

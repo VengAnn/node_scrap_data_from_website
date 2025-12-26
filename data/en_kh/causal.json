@@ -1,0 +1,34 @@
+{
+  "word": "causal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13416.png",
+      "local_image_path": "images/13416.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116070.png",
+      "local_image_path": "images/116070.png"
+    }
+  ],
+  "synonyms": [
+    "fundamental",
+    "underlying",
+    "contributory",
+    "pivotal",
+    "instrumental",
+    "causative"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "causality",
+    "causally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/causal.mp3",
+  "local_sound_path": "sounds/causal.mp3"
+}

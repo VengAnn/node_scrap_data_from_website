@@ -1,0 +1,44 @@
+{
+  "word": "inclement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38399.png",
+      "local_image_path": "images/38399.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inclement judge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38400.png",
+      "local_image_path": "images/38400.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inclement weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38401.png",
+      "local_image_path": "images/38401.png"
+    }
+  ],
+  "synonyms": [
+    "stormy",
+    "rainy",
+    "windy",
+    "foul",
+    "rough",
+    "bad",
+    "severe",
+    "squally",
+    "intemperate",
+    "extreme",
+    "harsh"
+  ],
+  "antonyms": [
+    "pleasant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inclement.mp3",
+  "local_sound_path": "sounds/inclement.mp3"
+}

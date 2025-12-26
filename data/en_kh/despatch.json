@@ -1,0 +1,62 @@
+{
+  "word": "despatch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20889.png",
+      "local_image_path": "images/20889.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118133.png",
+      "local_image_path": "images/118133.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118134.png",
+      "local_image_path": "images/118134.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118135.png",
+      "local_image_path": "images/118135.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20888.png",
+      "local_image_path": "images/20888.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118136.png",
+      "local_image_path": "images/118136.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118137.png",
+      "local_image_path": "images/118137.png"
+    }
+  ],
+  "synonyms": [
+    "kill",
+    "murder",
+    "assassinate",
+    "slay",
+    "slaughter"
+  ],
+  "antonyms": [
+    "keep"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/despatch.mp3",
+  "local_sound_path": "sounds/despatch.mp3"
+}

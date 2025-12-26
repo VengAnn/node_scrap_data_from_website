@@ -1,0 +1,57 @@
+{
+  "word": "interrupt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "interrupt one's father",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41528.png",
+      "local_image_path": "images/41528.png"
+    },
+    {
+      "pos": "tv",
+      "example": "interrupt a speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41529.png",
+      "local_image_path": "images/41529.png"
+    },
+    {
+      "pos": "tv",
+      "example": "interrupt one's work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41530.png",
+      "local_image_path": "images/41530.png"
+    },
+    {
+      "pos": "tv",
+      "example": "interrupt the flow of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41531.png",
+      "local_image_path": "images/41531.png"
+    }
+  ],
+  "synonyms": [
+    "interject",
+    "disturb",
+    "intrude",
+    "interpose",
+    "disrupt",
+    "stop",
+    "suspend",
+    "discontinue",
+    "disconnect"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "interrupted",
+    "interruptedly",
+    "interruptedness",
+    "interrupter",
+    "interrupting",
+    "interruptingly",
+    "interruption",
+    "interruptive",
+    "interruptively",
+    "interruptor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interrupt.mp3",
+  "local_sound_path": "sounds/interrupt.mp3"
+}

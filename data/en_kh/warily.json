@@ -1,0 +1,33 @@
+{
+  "word": "warily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99071.png",
+      "local_image_path": "images/99071.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99166.png",
+      "local_image_path": "images/99166.png"
+    }
+  ],
+  "synonyms": [
+    "cautiously",
+    "carefully",
+    "circumspectly",
+    "cagily",
+    "guardedly",
+    "thoughtfully"
+  ],
+  "antonyms": [
+    "thoughtlessly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/warily.mp3",
+  "local_sound_path": "sounds/warily.mp3"
+}

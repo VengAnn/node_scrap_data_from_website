@@ -1,0 +1,29 @@
+{
+  "word": "chimney",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14201.png",
+      "local_image_path": "images/14201.png"
+    }
+  ],
+  "synonyms": [
+    "flue",
+    "vent",
+    "pipe",
+    "smokestack",
+    "funnel",
+    "conduit",
+    "stack"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chimney-piece",
+    "chimney-sweep"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chimney.mp3",
+  "local_sound_path": "sounds/chimney.mp3"
+}

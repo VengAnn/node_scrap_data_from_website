@@ -1,0 +1,44 @@
+{
+  "word": "indoor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39221.png",
+      "local_image_path": "images/39221.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122249.png",
+      "local_image_path": "images/122249.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122250.png",
+      "local_image_path": "images/122250.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122251.png",
+      "local_image_path": "images/122251.png"
+    }
+  ],
+  "synonyms": [
+    "inside",
+    "interior",
+    "covered",
+    "enclosed",
+    "internal"
+  ],
+  "antonyms": [
+    "outdoor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indoor.mp3",
+  "local_sound_path": "sounds/indoor.mp3"
+}

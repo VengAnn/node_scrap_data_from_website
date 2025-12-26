@@ -1,0 +1,55 @@
+{
+  "word": "local",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47242.png",
+      "local_image_path": "images/47242.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123620.png",
+      "local_image_path": "images/123620.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123621.png",
+      "local_image_path": "images/123621.png"
+    },
+    {
+      "pos": "n",
+      "example": "local administration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47243.png",
+      "local_image_path": "images/47243.png"
+    }
+  ],
+  "synonyms": [
+    "resident",
+    "inhabitant",
+    "citizen",
+    "native"
+  ],
+  "antonyms": [
+    "general",
+    "national",
+    "foreign",
+    "stranger",
+    "universal"
+  ],
+  "similar_words": [
+    "locale",
+    "localism",
+    "locality",
+    "localization",
+    "localize",
+    "localizer",
+    "locally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/local.mp3",
+  "local_sound_path": "sounds/local.mp3"
+}

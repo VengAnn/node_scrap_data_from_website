@@ -1,0 +1,82 @@
+{
+  "word": "patch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She sewed a patch onto the knee of trousers.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60572.png",
+      "local_image_path": "images/60572.png"
+    },
+    {
+      "pos": "n",
+      "example": "eye patch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60573.png",
+      "local_image_path": "images/60573.png"
+    },
+    {
+      "pos": "n",
+      "example": "infantry patch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60574.png",
+      "local_image_path": "images/60574.png"
+    },
+    {
+      "pos": "n",
+      "example": "tomato patch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60575.png",
+      "local_image_path": "images/60575.png"
+    },
+    {
+      "pos": "n",
+      "example": "patch of blue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60576.png",
+      "local_image_path": "images/60576.png"
+    },
+    {
+      "pos": "tv",
+      "example": "patch pants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60577.png",
+      "local_image_path": "images/60577.png"
+    },
+    {
+      "pos": "tv",
+      "example": "patch up (an old house)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60578.png",
+      "local_image_path": "images/60578.png"
+    },
+    {
+      "pos": "tv",
+      "example": "patch up a quarrel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60579.png",
+      "local_image_path": "images/60579.png"
+    }
+  ],
+  "synonyms": [
+    "insignia",
+    "badge",
+    "award",
+    "letter",
+    "decoration",
+    "repair",
+    "cover",
+    "mend",
+    "strengthen",
+    "reinforce",
+    "fix"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "patchable",
+    "patcher",
+    "patchery",
+    "patchily",
+    "patchiness",
+    "patching",
+    "patchouli",
+    "patchwork",
+    "patchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/patch.mp3",
+  "local_sound_path": "sounds/patch.mp3"
+}

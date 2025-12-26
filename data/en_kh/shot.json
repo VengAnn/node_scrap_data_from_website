@@ -1,0 +1,55 @@
+{
+  "word": "shot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hear a shot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79477.png",
+      "local_image_path": "images/79477.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79478.png",
+      "local_image_path": "images/79478.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79479.png",
+      "local_image_path": "images/79479.png"
+    },
+    {
+      "pos": "n",
+      "example": "shot of penicillin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79480.png",
+      "local_image_path": "images/79480.png"
+    }
+  ],
+  "synonyms": [
+    "measure",
+    "drink",
+    "glass",
+    "pointed",
+    "cast",
+    "scored"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shot hole",
+    "shot put",
+    "shot putter",
+    "shoten",
+    "shotfier",
+    "shotgun",
+    "shotgun wedding",
+    "shotted",
+    "shotten",
+    "shotting",
+    "shotty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shot.mp3",
+  "local_sound_path": "sounds/shot.mp3"
+}

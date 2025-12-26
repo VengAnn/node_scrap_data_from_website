@@ -1,0 +1,40 @@
+{
+  "word": "crystallize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "salts crystallize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18943.png",
+      "local_image_path": "images/18943.png"
+    },
+    {
+      "pos": "iv",
+      "example": "plans crystallize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18944.png",
+      "local_image_path": "images/18944.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18945.png",
+      "local_image_path": "images/18945.png"
+    }
+  ],
+  "synonyms": [
+    "form",
+    "gel",
+    "set",
+    "grow",
+    "mature",
+    "develop",
+    "manifest"
+  ],
+  "antonyms": [
+    "disintegrate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crystallize.mp3",
+  "local_sound_path": "sounds/crystallize.mp3"
+}

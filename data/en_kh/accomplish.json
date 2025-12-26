@@ -1,0 +1,30 @@
+{
+  "word": "accomplish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "accomplish a mission",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1876.png",
+      "local_image_path": "images/1876.png"
+    }
+  ],
+  "synonyms": [
+    "achieve",
+    "complete",
+    "do",
+    "finish",
+    "realize",
+    "undertake"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "accomplishable",
+    "accomplished",
+    "accomplisher",
+    "accomplishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accomplish.mp3",
+  "local_sound_path": "sounds/accomplish.mp3"
+}

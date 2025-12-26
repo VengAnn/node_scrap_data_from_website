@@ -1,0 +1,62 @@
+{
+  "word": "jolt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43206.png",
+      "local_image_path": "images/43206.png"
+    },
+    {
+      "pos": "n",
+      "example": "This news was a jolt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43207.png",
+      "local_image_path": "images/43207.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43208.png",
+      "local_image_path": "images/43208.png"
+    },
+    {
+      "pos": "v",
+      "example": "The old car jolted passengers badly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43204.png",
+      "local_image_path": "images/43204.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43205.png",
+      "local_image_path": "images/43205.png"
+    }
+  ],
+  "synonyms": [
+    "shock",
+    "surprise",
+    "bombshell",
+    "blow",
+    "shake",
+    "jerk",
+    "bump",
+    "joggle",
+    "nudge",
+    "push",
+    "shove",
+    "lurch",
+    "quake"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jolter",
+    "jolterhead",
+    "joltily",
+    "joltiness",
+    "jolty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jolt.mp3",
+  "local_sound_path": "sounds/jolt.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "daily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "daily newspaper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19502.png",
+      "local_image_path": "images/19502.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I bathe daily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19503.png",
+      "local_image_path": "images/19503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19504.png",
+      "local_image_path": "images/19504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117670.png",
+      "local_image_path": "images/117670.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/daily.mp3",
+  "local_sound_path": "sounds/daily.mp3"
+}

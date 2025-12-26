@@ -1,0 +1,38 @@
+{
+  "word": "forest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29776.png",
+      "local_image_path": "images/29776.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29777.png",
+      "local_image_path": "images/29777.png"
+    }
+  ],
+  "synonyms": [
+    "afforest",
+    "reforest",
+    "plant"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "forest ranger",
+    "forestal",
+    "forestall",
+    "forestation",
+    "forester",
+    "forestial",
+    "forestland",
+    "forestration",
+    "forestry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forest.mp3",
+  "local_sound_path": "sounds/forest.mp3"
+}

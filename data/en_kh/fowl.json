@@ -1,0 +1,32 @@
+{
+  "word": "fowl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30030.png",
+      "local_image_path": "images/30030.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30029.png",
+      "local_image_path": "images/30029.png"
+    }
+  ],
+  "synonyms": [
+    "chicken",
+    "hen",
+    "rooster",
+    "pullet",
+    "capon",
+    "chick",
+    "poultry"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fowl.mp3",
+  "local_sound_path": "sounds/fowl.mp3"
+}

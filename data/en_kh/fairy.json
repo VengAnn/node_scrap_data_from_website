@@ -1,0 +1,44 @@
+{
+  "word": "fairy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "good fairy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27429.png",
+      "local_image_path": "images/27429.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27430.png",
+      "local_image_path": "images/27430.png"
+    }
+  ],
+  "synonyms": [
+    "elf",
+    "imp",
+    "pixie",
+    "leprechaun",
+    "gnome",
+    "goblin",
+    "pixy",
+    "brownie",
+    "sprite",
+    "fay",
+    "genie",
+    "jinni"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fairy-light",
+    "fairy-story",
+    "fairy-tale",
+    "fairy-tell",
+    "fairyhood",
+    "fairyland"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fairy.mp3",
+  "local_sound_path": "sounds/fairy.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "inside",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "inside work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40528.png",
+      "local_image_path": "images/40528.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inside information",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40529.png",
+      "local_image_path": "images/40529.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I go inside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40526.png",
+      "local_image_path": "images/40526.png"
+    },
+    {
+      "pos": "n",
+      "example": "the inside of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40527.png",
+      "local_image_path": "images/40527.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40525.png",
+      "local_image_path": "images/40525.png"
+    }
+  ],
+  "synonyms": [
+    "within",
+    "in"
+  ],
+  "antonyms": [
+    "outside",
+    "outer"
+  ],
+  "similar_words": [
+    "inside man",
+    "insident",
+    "insider",
+    "insider trading"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inside.mp3",
+  "local_sound_path": "sounds/inside.mp3"
+}

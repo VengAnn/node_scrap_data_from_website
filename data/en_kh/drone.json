@@ -1,0 +1,60 @@
+{
+  "word": "drone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "An aircaft droned over head.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23197.png",
+      "local_image_path": "images/23197.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118802.png",
+      "local_image_path": "images/118802.png"
+    },
+    {
+      "pos": "n",
+      "example": "honeybee drone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23194.png",
+      "local_image_path": "images/23194.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23195.png",
+      "local_image_path": "images/23195.png"
+    },
+    {
+      "pos": "n",
+      "example": "control a drone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23196.png",
+      "local_image_path": "images/23196.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23199.png",
+      "local_image_path": "images/23199.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23198.png",
+      "local_image_path": "images/23198.png"
+    }
+  ],
+  "synonyms": [
+    "hum",
+    "buzz",
+    "whine",
+    "whirr",
+    "murmur"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drone.mp3",
+  "local_sound_path": "sounds/drone.mp3"
+}

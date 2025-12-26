@@ -1,0 +1,54 @@
+{
+  "word": "deceit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19922.png",
+      "local_image_path": "images/19922.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117828.png",
+      "local_image_path": "images/117828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117829.png",
+      "local_image_path": "images/117829.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117830.png",
+      "local_image_path": "images/117830.png"
+    }
+  ],
+  "synonyms": [
+    "dishonesty",
+    "treachery",
+    "deceitfulness",
+    "deception",
+    "trickery",
+    "sham",
+    "pretense",
+    "cheating",
+    "duplicity",
+    "guile",
+    "fraud"
+  ],
+  "antonyms": [
+    "honesty"
+  ],
+  "similar_words": [
+    "deceitful",
+    "deceitfully",
+    "deceitfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deceit.mp3",
+  "local_sound_path": "sounds/deceit.mp3"
+}

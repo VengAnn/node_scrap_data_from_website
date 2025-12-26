@@ -1,0 +1,49 @@
+{
+  "word": "declaim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19984.png",
+      "local_image_path": "images/19984.png"
+    },
+    {
+      "pos": "tv",
+      "example": "declaim in the town",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19982.png",
+      "local_image_path": "images/19982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "declaim his poetry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19983.png",
+      "local_image_path": "images/19983.png"
+    }
+  ],
+  "synonyms": [
+    "declare",
+    "pronounce",
+    "trumpet",
+    "announce",
+    "assert",
+    "state",
+    "orate",
+    "proclaim",
+    "utter",
+    "sermonize",
+    "pontificate",
+    "deliver",
+    "speak",
+    "recite"
+  ],
+  "antonyms": [
+    "mutter"
+  ],
+  "similar_words": [
+    "declaimer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/declaim.mp3",
+  "local_sound_path": "sounds/declaim.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "word": "soil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "soil one's honor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82441.png",
+      "local_image_path": "images/82441.png"
+    },
+    {
+      "pos": "iv",
+      "example": "soil easily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82442.png",
+      "local_image_path": "images/82442.png"
+    },
+    {
+      "pos": "n",
+      "example": "fertile soil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82439.png",
+      "local_image_path": "images/82439.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82443.png",
+      "local_image_path": "images/82443.png"
+    },
+    {
+      "pos": "tv",
+      "example": "soil one's clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82440.png",
+      "local_image_path": "images/82440.png"
+    }
+  ],
+  "synonyms": [
+    "territory",
+    "land",
+    "country",
+    "ground",
+    "dirty",
+    "foul",
+    "sully",
+    "muddy",
+    "stain"
+  ],
+  "antonyms": [
+    "cleanse"
+  ],
+  "similar_words": [
+    "soilage",
+    "soiliness",
+    "soilure",
+    "soily"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soil.mp3",
+  "local_sound_path": "sounds/soil.mp3"
+}

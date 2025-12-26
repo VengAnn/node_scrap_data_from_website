@@ -1,0 +1,50 @@
+{
+  "word": "pleased",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pleased to meet you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64070.png",
+      "local_image_path": "images/64070.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125606.png",
+      "local_image_path": "images/125606.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125607.png",
+      "local_image_path": "images/125607.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125608.png",
+      "local_image_path": "images/125608.png"
+    }
+  ],
+  "synonyms": [
+    "satisfied",
+    "happy",
+    "content",
+    "delighted",
+    "contented",
+    "thrilled",
+    "preferred",
+    "chose",
+    "chosen",
+    "wanted"
+  ],
+  "antonyms": [
+    "unhappy",
+    "displeased"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pleased.mp3",
+  "local_sound_path": "sounds/pleased.mp3"
+}

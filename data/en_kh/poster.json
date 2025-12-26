@@ -1,0 +1,56 @@
+{
+  "word": "poster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65438.png",
+      "local_image_path": "images/65438.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65439.png",
+      "local_image_path": "images/65439.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65440.png",
+      "local_image_path": "images/65440.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65441.png",
+      "local_image_path": "images/65441.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125762.png",
+      "local_image_path": "images/125762.png"
+    }
+  ],
+  "synonyms": [
+    "placard",
+    "advertisement",
+    "picture",
+    "notice",
+    "bill",
+    "announcement"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "posterestante",
+    "posterior",
+    "posteriority",
+    "posteriorly",
+    "posterity",
+    "postern"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poster.mp3",
+  "local_sound_path": "sounds/poster.mp3"
+}

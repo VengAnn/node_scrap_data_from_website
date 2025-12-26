@@ -1,0 +1,45 @@
+{
+  "word": "roughness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74290.png",
+      "local_image_path": "images/74290.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127208.png",
+      "local_image_path": "images/127208.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127209.png",
+      "local_image_path": "images/127209.png"
+    }
+  ],
+  "synonyms": [
+    "vagueness",
+    "sketchiness",
+    "ambiguity",
+    "inexactness",
+    "haziness",
+    "imprecision"
+  ],
+  "antonyms": [
+    "smoothness",
+    "gentleness",
+    "exactness",
+    "healthiness",
+    "calmness",
+    "refinement",
+    "quietness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/roughness.mp3",
+  "local_sound_path": "sounds/roughness.mp3"
+}

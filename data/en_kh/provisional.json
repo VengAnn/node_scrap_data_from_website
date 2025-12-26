@@ -1,0 +1,43 @@
+{
+  "word": "provisional",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "provisional government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68257.png",
+      "local_image_path": "images/68257.png"
+    },
+    {
+      "pos": "adj",
+      "example": "provisional on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68258.png",
+      "local_image_path": "images/68258.png"
+    }
+  ],
+  "synonyms": [
+    "draft",
+    "outline",
+    "sample",
+    "temporary",
+    "interim",
+    "conditional",
+    "makeshift",
+    "short-term",
+    "impermanent",
+    "draught",
+    "rough"
+  ],
+  "antonyms": [
+    "permanent",
+    "final"
+  ],
+  "similar_words": [
+    "provisional remedy",
+    "provisionally",
+    "provisionalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/provisional.mp3",
+  "local_sound_path": "sounds/provisional.mp3"
+}

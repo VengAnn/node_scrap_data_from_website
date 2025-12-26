@@ -1,0 +1,38 @@
+{
+  "word": "chant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "victory chant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13805.png",
+      "local_image_path": "images/13805.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13806.png",
+      "local_image_path": "images/13806.png"
+    }
+  ],
+  "synonyms": [
+    "sing",
+    "recite",
+    "intone",
+    "repeat",
+    "vocalize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chantage",
+    "chanter",
+    "chanterelle",
+    "chanteuse",
+    "chantey",
+    "chanticleer",
+    "chantry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chant.mp3",
+  "local_sound_path": "sounds/chant.mp3"
+}

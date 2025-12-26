@@ -1,0 +1,51 @@
+{
+  "word": "delegate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20299.png",
+      "local_image_path": "images/20299.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131951.png",
+      "local_image_path": "images/131951.png"
+    },
+    {
+      "pos": "tv",
+      "example": "delegate power",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20297.png",
+      "local_image_path": "images/20297.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I delegate him to go instead.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20298.png",
+      "local_image_path": "images/20298.png"
+    }
+  ],
+  "synonyms": [
+    "representative",
+    "agent",
+    "envoy",
+    "ambassador",
+    "deputy",
+    "emissary",
+    "designate",
+    "appoint",
+    "authorize",
+    "elect",
+    "choose",
+    "detail"
+  ],
+  "antonyms": [
+    "retain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delegate.mp3",
+  "local_sound_path": "sounds/delegate.mp3"
+}

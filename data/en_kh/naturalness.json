@@ -1,0 +1,31 @@
+{
+  "word": "naturalness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55069.png",
+      "local_image_path": "images/55069.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55079.png",
+      "local_image_path": "images/55079.png"
+    }
+  ],
+  "synonyms": [
+    "unaffectedness",
+    "spontaneity",
+    "artlessness",
+    "sincerity"
+  ],
+  "antonyms": [
+    "affectedness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/naturalness.mp3",
+  "local_sound_path": "sounds/naturalness.mp3"
+}

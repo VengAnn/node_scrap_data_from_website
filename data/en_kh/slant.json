@@ -1,0 +1,73 @@
+{
+  "word": "slant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "floor slants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80965.png",
+      "local_image_path": "images/80965.png"
+    },
+    {
+      "pos": "n",
+      "example": "slant of a floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80966.png",
+      "local_image_path": "images/80966.png"
+    },
+    {
+      "pos": "n",
+      "example": "slant of an article",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80967.png",
+      "local_image_path": "images/80967.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80961.png",
+      "local_image_path": "images/80961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slant a floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80962.png",
+      "local_image_path": "images/80962.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slant an upright",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80963.png",
+      "local_image_path": "images/80963.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slant the news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80964.png",
+      "local_image_path": "images/80964.png"
+    }
+  ],
+  "synonyms": [
+    "viewpoint",
+    "angle",
+    "take",
+    "attitude",
+    "perspective",
+    "incline",
+    "lean",
+    "slope",
+    "tilt",
+    "skew",
+    "list"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slanting",
+    "slantingly",
+    "slantingness",
+    "slantly",
+    "slantways",
+    "slantwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slant.mp3",
+  "local_sound_path": "sounds/slant.mp3"
+}

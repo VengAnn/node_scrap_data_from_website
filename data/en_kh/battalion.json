@@ -1,0 +1,36 @@
+{
+  "word": "battalion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7761.png",
+      "local_image_path": "images/7761.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7762.png",
+      "local_image_path": "images/7762.png"
+    }
+  ],
+  "synonyms": [
+    "horde",
+    "throng",
+    "crowd",
+    "mass",
+    "mob",
+    "division",
+    "brigade",
+    "company",
+    "regiment",
+    "troop",
+    "contingent"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/battalion.mp3",
+  "local_sound_path": "sounds/battalion.mp3"
+}

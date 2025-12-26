@@ -1,0 +1,70 @@
+{
+  "word": "prop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67747.png",
+      "local_image_path": "images/67747.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is the prop of his parents in their old age.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67748.png",
+      "local_image_path": "images/67748.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prop up a roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67745.png",
+      "local_image_path": "images/67745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prop one's feet against a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67746.png",
+      "local_image_path": "images/67746.png"
+    }
+  ],
+  "synonyms": [
+    "sustain",
+    "support",
+    "buttress",
+    "bolster",
+    "uphold",
+    "buoy",
+    "brace"
+  ],
+  "antonyms": [
+    "destabilize"
+  ],
+  "similar_words": [
+    "propaedentics",
+    "propagability",
+    "propagable",
+    "propagand",
+    "propaganda",
+    "propagandism",
+    "propagandist",
+    "propagandistic",
+    "propagandistically",
+    "propagandize",
+    "propagate",
+    "propagation",
+    "propagative",
+    "propagator",
+    "propane",
+    "propel",
+    "propellent",
+    "propeller",
+    "propend",
+    "propendent",
+    "propense",
+    "propension",
+    "propensity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prop.mp3",
+  "local_sound_path": "sounds/prop.mp3"
+}

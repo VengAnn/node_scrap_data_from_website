@@ -1,0 +1,35 @@
+{
+  "word": "ding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21434.png",
+      "local_image_path": "images/21434.png"
+    }
+  ],
+  "synonyms": [
+    "ring",
+    "chime",
+    "dingle",
+    "cling",
+    "chink",
+    "jingle",
+    "ping"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ding-dong",
+    "dingey",
+    "dinghy",
+    "dingily",
+    "dinginess",
+    "dingle",
+    "dingo",
+    "dingy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ding.mp3",
+  "local_sound_path": "sounds/ding.mp3"
+}

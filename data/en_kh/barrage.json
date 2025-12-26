@@ -1,0 +1,56 @@
+{
+  "word": "barrage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "barrage of questions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7570.png",
+      "local_image_path": "images/7570.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114619.png",
+      "local_image_path": "images/114619.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114620.png",
+      "local_image_path": "images/114620.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114621.png",
+      "local_image_path": "images/114621.png"
+    },
+    {
+      "pos": "tv",
+      "example": "barrage a stream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7571.png",
+      "local_image_path": "images/7571.png"
+    }
+  ],
+  "synonyms": [
+    "dam",
+    "dike",
+    "bank",
+    "onslaught",
+    "hail",
+    "torrent",
+    "stream",
+    "storm",
+    "flood",
+    "salvo",
+    "outpouring"
+  ],
+  "antonyms": [
+    "trickle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barrage.mp3",
+  "local_sound_path": "sounds/barrage.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "enactment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24721.png",
+      "local_image_path": "images/24721.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119107.png",
+      "local_image_path": "images/119107.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119108.png",
+      "local_image_path": "images/119108.png"
+    }
+  ],
+  "synonyms": [
+    "passing",
+    "ratification",
+    "endorsement",
+    "authorization",
+    "legislation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enactment.mp3",
+  "local_sound_path": "sounds/enactment.mp3"
+}

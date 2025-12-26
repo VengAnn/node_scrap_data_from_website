@@ -1,0 +1,34 @@
+{
+  "word": "afoot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "there was mischief afoot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2790.png",
+      "local_image_path": "images/2790.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113390.png",
+      "local_image_path": "images/113390.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2789.png",
+      "local_image_path": "images/2789.png"
+    }
+  ],
+  "synonyms": [
+    "happening",
+    "up",
+    "stirring"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/afoot.mp3",
+  "local_sound_path": "sounds/afoot.mp3"
+}

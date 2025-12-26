@@ -1,0 +1,30 @@
+{
+  "word": "bony",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bony fish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10120.png",
+      "local_image_path": "images/10120.png"
+    }
+  ],
+  "synonyms": [
+    "skinny",
+    "scrawny",
+    "lanky",
+    "lean",
+    "thin",
+    "emaciated",
+    "skeletal",
+    "gaunt",
+    "underweight"
+  ],
+  "antonyms": [
+    "plump"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bony.mp3",
+  "local_sound_path": "sounds/bony.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "cradle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The mother rocked the bady to sleep in its cradle.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18346.png",
+      "local_image_path": "images/18346.png"
+    },
+    {
+      "pos": "n",
+      "example": "cradle of civilization",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18347.png",
+      "local_image_path": "images/18347.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18348.png",
+      "local_image_path": "images/18348.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131417.png",
+      "local_image_path": "images/131417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131418.png",
+      "local_image_path": "images/131418.png"
+    }
+  ],
+  "synonyms": [
+    "hold",
+    "embrace",
+    "support",
+    "cuddle",
+    "clasp",
+    "rock"
+  ],
+  "antonyms": [
+    "drop"
+  ],
+  "similar_words": [
+    "cradle cap",
+    "cradle-song"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cradle.mp3",
+  "local_sound_path": "sounds/cradle.mp3"
+}

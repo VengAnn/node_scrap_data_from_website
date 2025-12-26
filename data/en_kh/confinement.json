@@ -1,0 +1,45 @@
+{
+  "word": "confinement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "confinement of criminals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16684.png",
+      "local_image_path": "images/16684.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117189.png",
+      "local_image_path": "images/117189.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117190.png",
+      "local_image_path": "images/117190.png"
+    }
+  ],
+  "synonyms": [
+    "imprisonment",
+    "incarceration",
+    "internment",
+    "detention",
+    "captivity",
+    "limitation",
+    "scope",
+    "restriction",
+    "restraint",
+    "limit",
+    "boundary",
+    "bounds"
+  ],
+  "antonyms": [
+    "freedom"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confinement.mp3",
+  "local_sound_path": "sounds/confinement.mp3"
+}

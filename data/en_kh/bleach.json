@@ -1,0 +1,44 @@
+{
+  "word": "bleach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9474.png",
+      "local_image_path": "images/9474.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9475.png",
+      "local_image_path": "images/9475.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9473.png",
+      "local_image_path": "images/9473.png"
+    }
+  ],
+  "synonyms": [
+    "lighten",
+    "peroxide",
+    "blanch",
+    "whiten",
+    "decolorize",
+    "blench"
+  ],
+  "antonyms": [
+    "dye"
+  ],
+  "similar_words": [
+    "bleach powder",
+    "bleacher",
+    "bleachers",
+    "bleaching"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bleach.mp3",
+  "local_sound_path": "sounds/bleach.mp3"
+}

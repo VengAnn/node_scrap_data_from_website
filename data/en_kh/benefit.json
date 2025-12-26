@@ -1,0 +1,49 @@
+{
+  "word": "benefit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the money is to be used for the benefit of the poor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8288.png",
+      "local_image_path": "images/8288.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132473.png",
+      "local_image_path": "images/132473.png"
+    },
+    {
+      "pos": "tv",
+      "example": "benefit of prescription",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8289.png",
+      "local_image_path": "images/8289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114913.png",
+      "local_image_path": "images/114913.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114914.png",
+      "local_image_path": "images/114914.png"
+    }
+  ],
+  "synonyms": [
+    "gain",
+    "profit"
+  ],
+  "antonyms": [
+    "detriment",
+    "suffer",
+    "harm"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/benefit.mp3",
+  "local_sound_path": "sounds/benefit.mp3"
+}

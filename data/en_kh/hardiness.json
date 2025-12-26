@@ -1,0 +1,42 @@
+{
+  "word": "hardiness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hardiness of plants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33873.png",
+      "local_image_path": "images/33873.png"
+    },
+    {
+      "pos": "n",
+      "example": "hardiness of the troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33874.png",
+      "local_image_path": "images/33874.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33889.png",
+      "local_image_path": "images/33889.png"
+    }
+  ],
+  "synonyms": [
+    "hardihood",
+    "resoluteness",
+    "self-assurance",
+    "toughness",
+    "stamina",
+    "durability",
+    "robustness",
+    "resilience",
+    "endurance"
+  ],
+  "antonyms": [
+    "frailty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hardiness.mp3",
+  "local_sound_path": "sounds/hardiness.mp3"
+}

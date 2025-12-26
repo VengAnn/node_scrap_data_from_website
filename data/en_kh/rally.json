@@ -1,0 +1,110 @@
+{
+  "word": "rally",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rally to the cause",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70051.png",
+      "local_image_path": "images/70051.png"
+    },
+    {
+      "pos": "iv",
+      "example": "patient will rally",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70052.png",
+      "local_image_path": "images/70052.png"
+    },
+    {
+      "pos": "iv",
+      "example": "stock price rally",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70053.png",
+      "local_image_path": "images/70053.png"
+    },
+    {
+      "pos": "n",
+      "example": "hold a rally",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70054.png",
+      "local_image_path": "images/70054.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70055.png",
+      "local_image_path": "images/70055.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70056.png",
+      "local_image_path": "images/70056.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70046.png",
+      "local_image_path": "images/70046.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rally an army",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70047.png",
+      "local_image_path": "images/70047.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70048.png",
+      "local_image_path": "images/70048.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70049.png",
+      "local_image_path": "images/70049.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70050.png",
+      "local_image_path": "images/70050.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70057.png",
+      "local_image_path": "images/70057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126440.png",
+      "local_image_path": "images/126440.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126441.png",
+      "local_image_path": "images/126441.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126442.png",
+      "local_image_path": "images/126442.png"
+    }
+  ],
+  "synonyms": [
+    "recover",
+    "improve",
+    "revive",
+    "recuperate"
+  ],
+  "antonyms": [
+    "disperse",
+    "decline"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rally.mp3",
+  "local_sound_path": "sounds/rally.mp3"
+}

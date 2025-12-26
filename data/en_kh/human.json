@@ -1,0 +1,59 @@
+{
+  "word": "human",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36266.png",
+      "local_image_path": "images/36266.png"
+    },
+    {
+      "pos": "adj",
+      "example": "His cruelty suggests that he is less than human.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36267.png",
+      "local_image_path": "images/36267.png"
+    },
+    {
+      "pos": "n",
+      "example": "human right",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36268.png",
+      "local_image_path": "images/36268.png"
+    }
+  ],
+  "synonyms": [
+    "person",
+    "being",
+    "human being",
+    "individual",
+    "creature",
+    "soul"
+  ],
+  "antonyms": [
+    "animal"
+  ],
+  "similar_words": [
+    "human being",
+    "human biology",
+    "human endowment",
+    "human resource",
+    "human right",
+    "humane",
+    "humanely",
+    "humaneness",
+    "humaniform",
+    "humanify",
+    "humanism",
+    "humanist",
+    "humanistic",
+    "humanistically",
+    "humanitarian",
+    "humanitarian aid",
+    "humanitarian assistance",
+    "humanitarian group",
+    "humanitarianism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/human.mp3",
+  "local_sound_path": "sounds/human.mp3"
+}

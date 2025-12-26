@@ -1,0 +1,39 @@
+{
+  "word": "defectively",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20135.png",
+      "local_image_path": "images/20135.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117881.png",
+      "local_image_path": "images/117881.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117882.png",
+      "local_image_path": "images/117882.png"
+    }
+  ],
+  "synonyms": [
+    "badly",
+    "poorly",
+    "imperfectly",
+    "unreliably",
+    "unsatisfactorily",
+    "inadequately"
+  ],
+  "antonyms": [
+    "perfectly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defectively.mp3",
+  "local_sound_path": "sounds/defectively.mp3"
+}

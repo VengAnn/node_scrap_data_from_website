@@ -1,0 +1,51 @@
+{
+  "word": "rugged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rugged terrain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74574.png",
+      "local_image_path": "images/74574.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rugged soldier",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74575.png",
+      "local_image_path": "images/74575.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rugged vehicle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74576.png",
+      "local_image_path": "images/74576.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rugged life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74577.png",
+      "local_image_path": "images/74577.png"
+    }
+  ],
+  "synonyms": [
+    "strong",
+    "hardy",
+    "tough",
+    "robust",
+    "well-built",
+    "sturdy",
+    "resilient"
+  ],
+  "antonyms": [
+    "weak",
+    "easy",
+    "flimsy"
+  ],
+  "similar_words": [
+    "ruggedly",
+    "ruggedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rugged.mp3",
+  "local_sound_path": "sounds/rugged.mp3"
+}

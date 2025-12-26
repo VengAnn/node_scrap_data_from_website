@@ -1,0 +1,33 @@
+{
+  "word": "manager",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He is my manager.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105760.png",
+      "local_image_path": "images/105760.png"
+    }
+  ],
+  "synonyms": [
+    "boss",
+    "director",
+    "executive",
+    "administrator",
+    "supervisor",
+    "leader",
+    "chief",
+    "superior"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "manageress",
+    "managerial",
+    "managerially",
+    "managership",
+    "managery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/manager.mp3",
+  "local_sound_path": "sounds/manager.mp3"
+}

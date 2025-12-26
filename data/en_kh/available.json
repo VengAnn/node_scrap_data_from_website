@@ -1,0 +1,48 @@
+{
+  "word": "available",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "available candidate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6659.png",
+      "local_image_path": "images/6659.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112910.png",
+      "local_image_path": "images/112910.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112911.png",
+      "local_image_path": "images/112911.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112912.png",
+      "local_image_path": "images/112912.png"
+    }
+  ],
+  "synonyms": [
+    "obtainable",
+    "accessible",
+    "existing",
+    "vacant",
+    "open",
+    "untaken",
+    "free"
+  ],
+  "antonyms": [
+    "unavailable"
+  ],
+  "similar_words": [
+    "availableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/available.mp3",
+  "local_sound_path": "sounds/available.mp3"
+}

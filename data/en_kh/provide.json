@@ -1,0 +1,83 @@
+{
+  "word": "provide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "provide for (a family)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68225.png",
+      "local_image_path": "images/68225.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Go will provide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68226.png",
+      "local_image_path": "images/68226.png"
+    },
+    {
+      "pos": "Lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68224.png",
+      "local_image_path": "images/68224.png"
+    },
+    {
+      "pos": "tv",
+      "example": "provide the food for him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68222.png",
+      "local_image_path": "images/68222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68223.png",
+      "local_image_path": "images/68223.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126177.png",
+      "local_image_path": "images/126177.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126178.png",
+      "local_image_path": "images/126178.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126179.png",
+      "local_image_path": "images/126179.png"
+    }
+  ],
+  "synonyms": [
+    "give",
+    "offer",
+    "supply",
+    "present",
+    "afford",
+    "grant",
+    "impart",
+    "bestow",
+    "endow",
+    "furnish"
+  ],
+  "antonyms": [
+    "withhold",
+    "withdraw",
+    "neglect"
+  ],
+  "similar_words": [
+    "provided",
+    "providence",
+    "provident",
+    "providential",
+    "providentially",
+    "providently",
+    "provider"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/provide.mp3",
+  "local_sound_path": "sounds/provide.mp3"
+}

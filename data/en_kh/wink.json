@@ -1,0 +1,66 @@
+{
+  "word": "wink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "She winked at me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100478.png",
+      "local_image_path": "images/100478.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100479.png",
+      "local_image_path": "images/100479.png"
+    },
+    {
+      "pos": "iv",
+      "example": "winked at his faults",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100480.png",
+      "local_image_path": "images/100480.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100481.png",
+      "local_image_path": "images/100481.png"
+    },
+    {
+      "pos": "n",
+      "example": "give her a wink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100482.png",
+      "local_image_path": "images/100482.png"
+    },
+    {
+      "pos": "n",
+      "example": "be there in a wink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100483.png",
+      "local_image_path": "images/100483.png"
+    },
+    {
+      "pos": "n",
+      "example": "didn't sleep a wink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100484.png",
+      "local_image_path": "images/100484.png"
+    }
+  ],
+  "synonyms": [
+    "flash",
+    "twinkle",
+    "sparkle",
+    "glitter",
+    "glint",
+    "shine"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "winker",
+    "winking",
+    "winkle",
+    "winkler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wink.mp3",
+  "local_sound_path": "sounds/wink.mp3"
+}

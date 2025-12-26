@@ -1,0 +1,39 @@
+{
+  "word": "brook",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "he cannot brook being interfered with you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11464.png",
+      "local_image_path": "images/11464.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11463.png",
+      "local_image_path": "images/11463.png"
+    }
+  ],
+  "synonyms": [
+    "tolerate",
+    "allow",
+    "accept",
+    "countenance",
+    "suffer",
+    "sanction"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brooked",
+    "brooket",
+    "brookie",
+    "brooklet",
+    "brooklime",
+    "brookside",
+    "brooky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brook.mp3",
+  "local_sound_path": "sounds/brook.mp3"
+}

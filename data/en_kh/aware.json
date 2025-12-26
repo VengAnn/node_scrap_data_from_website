@@ -1,0 +1,51 @@
+{
+  "word": "aware",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6767.png",
+      "local_image_path": "images/6767.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114324.png",
+      "local_image_path": "images/114324.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114325.png",
+      "local_image_path": "images/114325.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114326.png",
+      "local_image_path": "images/114326.png"
+    }
+  ],
+  "synonyms": [
+    "sensitive",
+    "conscious",
+    "interested",
+    "concerned",
+    "informed",
+    "experienced",
+    "knowledgeable",
+    "discerning",
+    "perceptive"
+  ],
+  "antonyms": [
+    "unconscious",
+    "unconcerned",
+    "unaware",
+    "ignorant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aware.mp3",
+  "local_sound_path": "sounds/aware.mp3"
+}

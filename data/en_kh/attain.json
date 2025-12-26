@@ -1,0 +1,35 @@
+{
+  "word": "attain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6235.png",
+      "local_image_path": "images/6235.png"
+    }
+  ],
+  "synonyms": [
+    "reach",
+    "achieve",
+    "accomplish",
+    "conquer",
+    "get",
+    "manage",
+    "make",
+    "realize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "attainability",
+    "attainable",
+    "attainableness",
+    "attainder",
+    "attainment",
+    "attaint",
+    "attaintment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attain.mp3",
+  "local_sound_path": "sounds/attain.mp3"
+}

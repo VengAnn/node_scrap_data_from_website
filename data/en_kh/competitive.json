@@ -1,0 +1,46 @@
+{
+  "word": "competitive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "competitive nature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16222.png",
+      "local_image_path": "images/16222.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116872.png",
+      "local_image_path": "images/116872.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116873.png",
+      "local_image_path": "images/116873.png"
+    }
+  ],
+  "synonyms": [
+    "reasonable",
+    "economical",
+    "good",
+    "inexpensive",
+    "cheap",
+    "viable",
+    "likely",
+    "live",
+    "useful"
+  ],
+  "antonyms": [
+    "passive",
+    "expensive"
+  ],
+  "similar_words": [
+    "competitively",
+    "competitiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/competitive.mp3",
+  "local_sound_path": "sounds/competitive.mp3"
+}

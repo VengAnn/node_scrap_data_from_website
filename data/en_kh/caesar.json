@@ -1,0 +1,31 @@
+{
+  "word": "Caesar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12303.png",
+      "local_image_path": "images/12303.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12304.png",
+      "local_image_path": "images/12304.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115813.png",
+      "local_image_path": "images/115813.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "caesarean",
+    "caesarean section"
+  ],
+  "sound": null
+}

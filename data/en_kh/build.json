@@ -1,0 +1,50 @@
+{
+  "word": "build",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He has a big build.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11725.png",
+      "local_image_path": "images/11725.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will build a house soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11724.png",
+      "local_image_path": "images/11724.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112077.png",
+      "local_image_path": "images/112077.png"
+    }
+  ],
+  "synonyms": [
+    "shape",
+    "size",
+    "figure",
+    "body",
+    "physique",
+    "develop",
+    "create",
+    "make",
+    "form",
+    "foster",
+    "encourage",
+    "join",
+    "assemble",
+    "build up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "build up",
+    "build-up",
+    "builder",
+    "building"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/build.mp3",
+  "local_sound_path": "sounds/build.mp3"
+}

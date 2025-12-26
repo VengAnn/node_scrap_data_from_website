@@ -1,0 +1,33 @@
+{
+  "word": "humility",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36334.png",
+      "local_image_path": "images/36334.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121269.png",
+      "local_image_path": "images/121269.png"
+    }
+  ],
+  "synonyms": [
+    "humbleness",
+    "modesty",
+    "meekness",
+    "self-effacement",
+    "unpretentiousness",
+    "shyness"
+  ],
+  "antonyms": [
+    "arrogance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/humility.mp3",
+  "local_sound_path": "sounds/humility.mp3"
+}

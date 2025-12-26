@@ -1,0 +1,54 @@
+{
+  "word": "reply",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I will reply to your letter soon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72366.png",
+      "local_image_path": "images/72366.png"
+    },
+    {
+      "pos": "iv",
+      "example": "reply for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72367.png",
+      "local_image_path": "images/72367.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72368.png",
+      "local_image_path": "images/72368.png"
+    },
+    {
+      "pos": "n",
+      "example": "write a reply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72370.png",
+      "local_image_path": "images/72370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72369.png",
+      "local_image_path": "images/72369.png"
+    }
+  ],
+  "synonyms": [
+    "answer",
+    "response",
+    "retort",
+    "rejoinder",
+    "riposte",
+    "comeback",
+    "reaction",
+    "respond",
+    "react",
+    "rejoin",
+    "counter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reply.mp3",
+  "local_sound_path": "sounds/reply.mp3"
+}

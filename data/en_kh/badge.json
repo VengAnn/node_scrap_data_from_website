@@ -1,0 +1,47 @@
+{
+  "word": "badge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "badge of office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7045.png",
+      "local_image_path": "images/7045.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114431.png",
+      "local_image_path": "images/114431.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114432.png",
+      "local_image_path": "images/114432.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114433.png",
+      "local_image_path": "images/114433.png"
+    }
+  ],
+  "synonyms": [
+    "insignia",
+    "emblem",
+    "symbol",
+    "coat of arms",
+    "brooch",
+    "button",
+    "pin",
+    "clasp"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "badger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/badge.mp3",
+  "local_sound_path": "sounds/badge.mp3"
+}

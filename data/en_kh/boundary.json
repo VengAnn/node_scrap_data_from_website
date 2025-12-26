@@ -1,0 +1,32 @@
+{
+  "word": "boundary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10366.png",
+      "local_image_path": "images/10366.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131045.png",
+      "local_image_path": "images/131045.png"
+    }
+  ],
+  "synonyms": [
+    "border",
+    "frontier",
+    "edge",
+    "limit",
+    "margin",
+    "periphery",
+    "borderline"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boundary.mp3",
+  "local_sound_path": "sounds/boundary.mp3"
+}

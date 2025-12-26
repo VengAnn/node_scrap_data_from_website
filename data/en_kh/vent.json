@@ -1,0 +1,84 @@
+{
+  "word": "vent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "air vent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97537.png",
+      "local_image_path": "images/97537.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97538.png",
+      "local_image_path": "images/97538.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97539.png",
+      "local_image_path": "images/97539.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97540.png",
+      "local_image_path": "images/97540.png"
+    },
+    {
+      "pos": "tv",
+      "example": "vent one's anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97541.png",
+      "local_image_path": "images/97541.png"
+    }
+  ],
+  "synonyms": [
+    "opening",
+    "outlet",
+    "aperture",
+    "escape",
+    "exhaust",
+    "chimney",
+    "flue",
+    "hole",
+    "gap",
+    "expel",
+    "voice",
+    "emit",
+    "utter",
+    "declare",
+    "express"
+  ],
+  "antonyms": [
+    "block",
+    "suppress"
+  ],
+  "similar_words": [
+    "vent-hole",
+    "ventage",
+    "ventail",
+    "venter",
+    "ventiduct",
+    "ventilate",
+    "ventilation",
+    "ventilator",
+    "ventilatory",
+    "ventose",
+    "ventosity",
+    "ventrad",
+    "ventral",
+    "ventrally",
+    "ventricle",
+    "ventricles",
+    "ventricose",
+    "ventricoseness",
+    "ventricosity",
+    "ventricous",
+    "ventricular",
+    "ventriloquism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vent.mp3",
+  "local_sound_path": "sounds/vent.mp3"
+}

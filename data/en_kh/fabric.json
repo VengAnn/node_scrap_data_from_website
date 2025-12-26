@@ -1,0 +1,46 @@
+{
+  "word": "fabric",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "woolen fabric",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27247.png",
+      "local_image_path": "images/27247.png"
+    },
+    {
+      "pos": "n",
+      "example": "fabric of society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27248.png",
+      "local_image_path": "images/27248.png"
+    }
+  ],
+  "synonyms": [
+    "structure",
+    "foundation",
+    "basics",
+    "framework",
+    "composition",
+    "constitution",
+    "brickwork",
+    "masonry",
+    "superstructure",
+    "material",
+    "facing",
+    "cladding",
+    "tiling",
+    "roofing"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fabricability",
+    "fabricable",
+    "fabricant",
+    "fabricate",
+    "fabrication",
+    "fabricator"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fabric.mp3",
+  "local_sound_path": "sounds/fabric.mp3"
+}

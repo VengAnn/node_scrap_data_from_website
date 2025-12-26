@@ -1,0 +1,34 @@
+{
+  "word": "habitat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33429.png",
+      "local_image_path": "images/33429.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131787.png",
+      "local_image_path": "images/131787.png"
+    }
+  ],
+  "synonyms": [
+    "home",
+    "locale",
+    "environment",
+    "surroundings",
+    "territory",
+    "habitation",
+    "haunt"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "habitation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/habitat.mp3",
+  "local_sound_path": "sounds/habitat.mp3"
+}

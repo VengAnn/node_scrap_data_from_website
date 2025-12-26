@@ -1,0 +1,27 @@
+{
+  "word": "participant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60307.png",
+      "local_image_path": "images/60307.png"
+    }
+  ],
+  "synonyms": [
+    "member",
+    "contributor",
+    "contestant",
+    "applicant",
+    "partaker",
+    "accomplice"
+  ],
+  "antonyms": [
+    "observer"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/participant.mp3",
+  "local_sound_path": "sounds/participant.mp3"
+}

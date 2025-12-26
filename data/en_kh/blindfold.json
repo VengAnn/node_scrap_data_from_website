@@ -1,0 +1,36 @@
+{
+  "word": "blindfold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, adj",
+      "example": "I could do that blindfold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9554.png",
+      "local_image_path": "images/9554.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9553.png",
+      "local_image_path": "images/9553.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9552.png",
+      "local_image_path": "images/9552.png"
+    }
+  ],
+  "synonyms": [
+    "bandage",
+    "cloth",
+    "covering",
+    "scarf",
+    "band"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blindfold.mp3",
+  "local_sound_path": "sounds/blindfold.mp3"
+}

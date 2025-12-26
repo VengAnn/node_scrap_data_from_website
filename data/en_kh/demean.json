@@ -1,0 +1,48 @@
+{
+  "word": "demean",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20399.png",
+      "local_image_path": "images/20399.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117998.png",
+      "local_image_path": "images/117998.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117999.png",
+      "local_image_path": "images/117999.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118000.png",
+      "local_image_path": "images/118000.png"
+    }
+  ],
+  "synonyms": [
+    "degrade",
+    "debase",
+    "humiliate",
+    "disgrace",
+    "humble",
+    "lower"
+  ],
+  "antonyms": [
+    "uplift"
+  ],
+  "similar_words": [
+    "demeaning",
+    "demeanour"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demean.mp3",
+  "local_sound_path": "sounds/demean.mp3"
+}

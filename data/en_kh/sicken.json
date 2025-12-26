@@ -1,0 +1,33 @@
+{
+  "word": "sicken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79758.png",
+      "local_image_path": "images/79758.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79757.png",
+      "local_image_path": "images/79757.png"
+    }
+  ],
+  "synonyms": [
+    "nauseate",
+    "repel",
+    "shock",
+    "disgust",
+    "revolt",
+    "repulse"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sickening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sicken.mp3",
+  "local_sound_path": "sounds/sicken.mp3"
+}

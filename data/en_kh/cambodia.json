@@ -1,0 +1,30 @@
+{
+  "word": "Cambodia",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12527.png",
+      "local_image_path": "images/12527.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115878.png",
+      "local_image_path": "images/115878.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115879.png",
+      "local_image_path": "images/115879.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "Cambodian"
+  ],
+  "sound": null
+}

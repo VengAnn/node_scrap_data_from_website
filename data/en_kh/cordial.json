@@ -1,0 +1,58 @@
+{
+  "word": "cordial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17703.png",
+      "local_image_path": "images/17703.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117592.png",
+      "local_image_path": "images/117592.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117593.png",
+      "local_image_path": "images/117593.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117594.png",
+      "local_image_path": "images/117594.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17706.png",
+      "local_image_path": "images/17706.png"
+    }
+  ],
+  "synonyms": [
+    "pleasant",
+    "affable",
+    "genial",
+    "friendly",
+    "warm",
+    "amiable",
+    "jovial",
+    "convivial",
+    "affectionate"
+  ],
+  "antonyms": [
+    "frosty",
+    "unfriendly"
+  ],
+  "similar_words": [
+    "cordiality",
+    "cordially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cordial.mp3",
+  "local_sound_path": "sounds/cordial.mp3"
+}

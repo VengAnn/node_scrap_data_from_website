@@ -1,0 +1,40 @@
+{
+  "word": "flicker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "All lights flickered for a momen.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29059.png",
+      "local_image_path": "images/29059.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29060.png",
+      "local_image_path": "images/29060.png"
+    }
+  ],
+  "synonyms": [
+    "glimmer",
+    "drop",
+    "trace",
+    "spark",
+    "sparkle",
+    "twinkle",
+    "glint",
+    "flash",
+    "waver",
+    "sputter",
+    "gutter",
+    "shimmer",
+    "blink"
+  ],
+  "antonyms": [
+    "beam"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flicker.mp3",
+  "local_sound_path": "sounds/flicker.mp3"
+}

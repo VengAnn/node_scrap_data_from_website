@@ -1,0 +1,59 @@
+{
+  "word": "beautiful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "what beautiful flower!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7921.png",
+      "local_image_path": "images/7921.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114760.png",
+      "local_image_path": "images/114760.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114761.png",
+      "local_image_path": "images/114761.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114762.png",
+      "local_image_path": "images/114762.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114763.png",
+      "local_image_path": "images/114763.png"
+    }
+  ],
+  "synonyms": [
+    "lovely",
+    "picturesque",
+    "scenic",
+    "delightful",
+    "charming",
+    "wonderful",
+    "exquisite",
+    "pleasing",
+    "superb",
+    "magnificent"
+  ],
+  "antonyms": [
+    "ugly",
+    "unattractive"
+  ],
+  "similar_words": [
+    "beautifully",
+    "beautifulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beautiful.mp3",
+  "local_sound_path": "sounds/beautiful.mp3"
+}

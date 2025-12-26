@@ -1,0 +1,58 @@
+{
+  "word": "drag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "drag one's feet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22960.png",
+      "local_image_path": "images/22960.png"
+    },
+    {
+      "pos": "idm",
+      "example": "it's a draft",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22962.png",
+      "local_image_path": "images/22962.png"
+    },
+    {
+      "pos": "n",
+      "example": "river drag",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22961.png",
+      "local_image_path": "images/22961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drag a log",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22959.png",
+      "local_image_path": "images/22959.png"
+    }
+  ],
+  "synonyms": [
+    "crawl",
+    "creep",
+    "puff",
+    "inhale",
+    "draw"
+  ],
+  "antonyms": [
+    "push",
+    "pleasure",
+    "fly"
+  ],
+  "similar_words": [
+    "drag out",
+    "draggle",
+    "draggled",
+    "dragoman",
+    "dragon",
+    "dragon-tree",
+    "dragoness",
+    "dragonet",
+    "dragonify",
+    "dragonish",
+    "dragoon"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drag.mp3",
+  "local_sound_path": "sounds/drag.mp3"
+}

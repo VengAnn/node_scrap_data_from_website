@@ -1,0 +1,63 @@
+{
+  "word": "stage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mount the stage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84048.png",
+      "local_image_path": "images/84048.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84049.png",
+      "local_image_path": "images/84049.png"
+    },
+    {
+      "pos": "n",
+      "example": "stage of a project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84050.png",
+      "local_image_path": "images/84050.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stage a revolt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84051.png",
+      "local_image_path": "images/84051.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stage a play",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84052.png",
+      "local_image_path": "images/84052.png"
+    }
+  ],
+  "synonyms": [
+    "play",
+    "act",
+    "perform",
+    "present",
+    "show",
+    "do"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stage direction",
+    "stage director",
+    "stage door",
+    "stage fright",
+    "stage player",
+    "stage struch",
+    "stage-manage",
+    "stage-manager",
+    "stage-show",
+    "stagecraft",
+    "stageflation",
+    "stagemad",
+    "stager"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stage.mp3",
+  "local_sound_path": "sounds/stage.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "seminar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78048.png",
+      "local_image_path": "images/78048.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127631.png",
+      "local_image_path": "images/127631.png"
+    }
+  ],
+  "synonyms": [
+    "class",
+    "tutorial",
+    "colloquium",
+    "talk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "seminarist",
+    "seminary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/seminar.mp3",
+  "local_sound_path": "sounds/seminar.mp3"
+}

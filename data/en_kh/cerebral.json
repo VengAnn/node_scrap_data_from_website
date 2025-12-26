@@ -1,0 +1,52 @@
+{
+  "word": "cerebral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cerebral palsy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13635.png",
+      "local_image_path": "images/13635.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116110.png",
+      "local_image_path": "images/116110.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116111.png",
+      "local_image_path": "images/116111.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116112.png",
+      "local_image_path": "images/116112.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116113.png",
+      "local_image_path": "images/116113.png"
+    }
+  ],
+  "synonyms": [
+    "intellectual",
+    "rational",
+    "brainy",
+    "clever",
+    "highbrow",
+    "logical",
+    "analytical"
+  ],
+  "antonyms": [
+    "intuitive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cerebral.mp3",
+  "local_sound_path": "sounds/cerebral.mp3"
+}

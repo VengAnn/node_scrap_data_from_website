@@ -1,0 +1,57 @@
+{
+  "word": "chaste",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13909.png",
+      "local_image_path": "images/13909.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116226.png",
+      "local_image_path": "images/116226.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116227.png",
+      "local_image_path": "images/116227.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13910.png",
+      "local_image_path": "images/13910.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116228.png",
+      "local_image_path": "images/116228.png"
+    }
+  ],
+  "synonyms": [
+    "pure",
+    "innocent",
+    "virtuous",
+    "unblemished",
+    "unsullied",
+    "spotless",
+    "faithful"
+  ],
+  "antonyms": [
+    "impure"
+  ],
+  "similar_words": [
+    "chastely",
+    "chasten",
+    "chastener",
+    "chasteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chaste.mp3",
+  "local_sound_path": "sounds/chaste.mp3"
+}

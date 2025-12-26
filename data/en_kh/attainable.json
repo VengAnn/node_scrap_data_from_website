@@ -1,0 +1,40 @@
+{
+  "word": "attainable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6236.png",
+      "local_image_path": "images/6236.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114214.png",
+      "local_image_path": "images/114214.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114215.png",
+      "local_image_path": "images/114215.png"
+    }
+  ],
+  "synonyms": [
+    "possible",
+    "achievable",
+    "realistic",
+    "reasonable",
+    "manageable"
+  ],
+  "antonyms": [
+    "unattainable"
+  ],
+  "similar_words": [
+    "attainableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attainable.mp3",
+  "local_sound_path": "sounds/attainable.mp3"
+}

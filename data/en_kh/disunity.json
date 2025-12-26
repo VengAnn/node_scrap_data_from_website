@@ -1,0 +1,40 @@
+{
+  "word": "disunity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "There should be no disunity within our party.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22365.png",
+      "local_image_path": "images/22365.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118685.png",
+      "local_image_path": "images/118685.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118686.png",
+      "local_image_path": "images/118686.png"
+    }
+  ],
+  "synonyms": [
+    "disagreement",
+    "discord",
+    "divergence",
+    "dissent",
+    "conflict",
+    "dispute",
+    "division"
+  ],
+  "antonyms": [
+    "unity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disunity.mp3",
+  "local_sound_path": "sounds/disunity.mp3"
+}

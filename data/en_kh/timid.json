@@ -1,0 +1,46 @@
+{
+  "word": "timid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "timid girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89565.png",
+      "local_image_path": "images/89565.png"
+    },
+    {
+      "pos": "adj",
+      "example": "timid fighter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89566.png",
+      "local_image_path": "images/89566.png"
+    }
+  ],
+  "synonyms": [
+    "nervous",
+    "shy",
+    "fearful",
+    "timorous",
+    "coy",
+    "retiring",
+    "hesitant",
+    "apprehensive",
+    "diffident",
+    "faint-hearted",
+    "tentative",
+    "bashful",
+    "reticent",
+    "cowardly",
+    "frightened"
+  ],
+  "antonyms": [
+    "bold"
+  ],
+  "similar_words": [
+    "timidity",
+    "timidly",
+    "timidness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/timid.mp3",
+  "local_sound_path": "sounds/timid.mp3"
+}

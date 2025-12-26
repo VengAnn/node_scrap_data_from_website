@@ -1,0 +1,33 @@
+{
+  "word": "greed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32801.png",
+      "local_image_path": "images/32801.png"
+    }
+  ],
+  "synonyms": [
+    "stinginess",
+    "miserliness",
+    "greediness",
+    "selfishness",
+    "meanness"
+  ],
+  "antonyms": [
+    "moderation",
+    "generosity"
+  ],
+  "similar_words": [
+    "greedhead",
+    "greedily",
+    "greediness",
+    "greedy",
+    "greedy-guts"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/greed.mp3",
+  "local_sound_path": "sounds/greed.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "cue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19002.png",
+      "local_image_path": "images/19002.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131029.png",
+      "local_image_path": "images/131029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19003.png",
+      "local_image_path": "images/19003.png"
+    }
+  ],
+  "synonyms": [
+    "prompt",
+    "signal",
+    "sign",
+    "indication",
+    "reminder",
+    "nod",
+    "show",
+    "indicate",
+    "remind"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cue.mp3",
+  "local_sound_path": "sounds/cue.mp3"
+}

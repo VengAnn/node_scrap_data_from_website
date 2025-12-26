@@ -1,0 +1,32 @@
+{
+  "word": "average",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "average salary",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6686.png",
+      "local_image_path": "images/6686.png"
+    },
+    {
+      "pos": "n",
+      "example": "find the average",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6685.png",
+      "local_image_path": "images/6685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "average the figures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6687.png",
+      "local_image_path": "images/6687.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "extraordinary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/average.mp3",
+  "local_sound_path": "sounds/average.mp3"
+}

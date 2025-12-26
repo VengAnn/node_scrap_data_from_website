@@ -1,0 +1,27 @@
+{
+  "word": "oblivion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "banished to oblivion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56915.png",
+      "local_image_path": "images/56915.png"
+    }
+  ],
+  "synonyms": [
+    "nothingness",
+    "void",
+    "obscurity",
+    "extinction",
+    "silence"
+  ],
+  "antonyms": [
+    "awareness",
+    "existence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oblivion.mp3",
+  "local_sound_path": "sounds/oblivion.mp3"
+}

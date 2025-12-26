@@ -1,0 +1,50 @@
+{
+  "word": "crooked",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cooked road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18700.png",
+      "local_image_path": "images/18700.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18701.png",
+      "local_image_path": "images/18701.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131018.png",
+      "local_image_path": "images/131018.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131019.png",
+      "local_image_path": "images/131019.png"
+    }
+  ],
+  "synonyms": [
+    "questionable",
+    "underhanded",
+    "unlawful",
+    "uneven",
+    "jagged",
+    "zigzag",
+    "oblique"
+  ],
+  "antonyms": [
+    "straight",
+    "honest"
+  ],
+  "similar_words": [
+    "crookedly",
+    "crookedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crooked.mp3",
+  "local_sound_path": "sounds/crooked.mp3"
+}

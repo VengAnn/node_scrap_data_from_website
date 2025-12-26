@@ -1,0 +1,40 @@
+{
+  "word": "depreciate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20660.png",
+      "local_image_path": "images/20660.png"
+    },
+    {
+      "pos": "tv",
+      "example": "depreciate currency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20661.png",
+      "local_image_path": "images/20661.png"
+    },
+    {
+      "pos": "tv",
+      "example": "depreciate his contribution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20662.png",
+      "local_image_path": "images/20662.png"
+    }
+  ],
+  "synonyms": [
+    "devalue",
+    "deflate",
+    "reduce",
+    "decline",
+    "downgrade",
+    "lessen"
+  ],
+  "antonyms": [
+    "appreciate",
+    "commend"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/depreciate.mp3",
+  "local_sound_path": "sounds/depreciate.mp3"
+}

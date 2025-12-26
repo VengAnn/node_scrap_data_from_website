@@ -1,0 +1,28 @@
+{
+  "word": "embroidery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "fine embroidery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24520.png",
+      "local_image_path": "images/24520.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24521.png",
+      "local_image_path": "images/24521.png"
+    }
+  ],
+  "synonyms": [
+    "sewing",
+    "needlework",
+    "sampler"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embroidery.mp3",
+  "local_sound_path": "sounds/embroidery.mp3"
+}

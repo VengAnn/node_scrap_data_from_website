@@ -1,0 +1,34 @@
+{
+  "word": "oppose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57814.png",
+      "local_image_path": "images/57814.png"
+    }
+  ],
+  "synonyms": [
+    "contradict",
+    "dispute",
+    "dissent",
+    "differ",
+    "resist",
+    "combat",
+    "contest",
+    "fight",
+    "counter"
+  ],
+  "antonyms": [
+    "favor",
+    "support"
+  ],
+  "similar_words": [
+    "opposed",
+    "opposer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oppose.mp3",
+  "local_sound_path": "sounds/oppose.mp3"
+}

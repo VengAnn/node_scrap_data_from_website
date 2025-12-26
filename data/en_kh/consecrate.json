@@ -1,0 +1,26 @@
+{
+  "word": "consecrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "consecrate a shire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16945.png",
+      "local_image_path": "images/16945.png"
+    }
+  ],
+  "synonyms": [
+    "sanctify",
+    "bless",
+    "hallow",
+    "dedicate",
+    "devote"
+  ],
+  "antonyms": [
+    "desecrate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consecrate.mp3",
+  "local_sound_path": "sounds/consecrate.mp3"
+}

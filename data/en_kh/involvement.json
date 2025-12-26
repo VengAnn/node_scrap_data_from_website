@@ -1,0 +1,41 @@
+{
+  "word": "involvement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42097.png",
+      "local_image_path": "images/42097.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42102.png",
+      "local_image_path": "images/42102.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122926.png",
+      "local_image_path": "images/122926.png"
+    }
+  ],
+  "synonyms": [
+    "attachment",
+    "concern",
+    "interest",
+    "commitment",
+    "enthusiasm",
+    "connection",
+    "preoccupation",
+    "engagement"
+  ],
+  "antonyms": [
+    "detachment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/involvement.mp3",
+  "local_sound_path": "sounds/involvement.mp3"
+}

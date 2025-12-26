@@ -1,0 +1,35 @@
+{
+  "word": "buttonhole",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12102.png",
+      "local_image_path": "images/12102.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12103.png",
+      "local_image_path": "images/12103.png"
+    }
+  ],
+  "synonyms": [
+    "accost",
+    "corner",
+    "waylay",
+    "grab",
+    "confront",
+    "intercept",
+    "ambush"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "buttonhole stitch",
+    "buttonholer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buttonhole.mp3",
+  "local_sound_path": "sounds/buttonhole.mp3"
+}

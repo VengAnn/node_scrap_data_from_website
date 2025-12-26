@@ -1,0 +1,46 @@
+{
+  "word": "intangible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "intangible assets",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40923.png",
+      "local_image_path": "images/40923.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122668.png",
+      "local_image_path": "images/122668.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122669.png",
+      "local_image_path": "images/122669.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40924.png",
+      "local_image_path": "images/40924.png"
+    }
+  ],
+  "synonyms": [
+    "insubstantial",
+    "elusive",
+    "vague",
+    "ethereal",
+    "subtle",
+    "indefinable",
+    "indescribable"
+  ],
+  "antonyms": [
+    "concrete"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intangible.mp3",
+  "local_sound_path": "sounds/intangible.mp3"
+}

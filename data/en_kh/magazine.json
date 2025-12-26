@@ -1,0 +1,38 @@
+{
+  "word": "magazine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105203.png",
+      "local_image_path": "images/105203.png"
+    },
+    {
+      "pos": "n",
+      "example": "powder magazine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105204.png",
+      "local_image_path": "images/105204.png"
+    },
+    {
+      "pos": "n",
+      "example": "cartridge magazine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105205.png",
+      "local_image_path": "images/105205.png"
+    }
+  ],
+  "synonyms": [
+    "arsenal",
+    "storeroom",
+    "storehouse",
+    "depot",
+    "repository",
+    "ordnance",
+    "stockpile"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/magazine.mp3",
+  "local_sound_path": "sounds/magazine.mp3"
+}

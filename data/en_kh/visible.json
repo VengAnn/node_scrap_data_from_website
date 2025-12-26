@@ -1,0 +1,33 @@
+{
+  "word": "visible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98248.png",
+      "local_image_path": "images/98248.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98249.png",
+      "local_image_path": "images/98249.png"
+    }
+  ],
+  "synonyms": [
+    "noticeable",
+    "observable",
+    "perceptible",
+    "evident",
+    "discernible",
+    "obvious"
+  ],
+  "antonyms": [
+    "invisible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/visible.mp3",
+  "local_sound_path": "sounds/visible.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "rogue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rogue elephant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73993.png",
+      "local_image_path": "images/73993.png"
+    },
+    {
+      "pos": "n",
+      "example": "dishonest rogue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73992.png",
+      "local_image_path": "images/73992.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73994.png",
+      "local_image_path": "images/73994.png"
+    }
+  ],
+  "synonyms": [
+    "scoundrel",
+    "rascal",
+    "reprobate",
+    "cad",
+    "scalawag",
+    "scallywag"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rogue.mp3",
+  "local_sound_path": "sounds/rogue.mp3"
+}

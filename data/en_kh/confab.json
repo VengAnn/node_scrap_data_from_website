@@ -1,0 +1,34 @@
+{
+  "word": "confab",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16616.png",
+      "local_image_path": "images/16616.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117152.png",
+      "local_image_path": "images/117152.png"
+    }
+  ],
+  "synonyms": [
+    "conference",
+    "meeting",
+    "discussion",
+    "huddle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "confabulate",
+    "confabulation",
+    "confabulator",
+    "confabulatory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confab.mp3",
+  "local_sound_path": "sounds/confab.mp3"
+}

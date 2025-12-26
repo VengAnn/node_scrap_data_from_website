@@ -1,0 +1,63 @@
+{
+  "word": "left",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "left hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45661.png",
+      "local_image_path": "images/45661.png"
+    },
+    {
+      "pos": "n",
+      "example": "toward the left",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45662.png",
+      "local_image_path": "images/45662.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45663.png",
+      "local_image_path": "images/45663.png"
+    },
+    {
+      "pos": "n",
+      "example": "the left",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45664.png",
+      "local_image_path": "images/45664.png"
+    }
+  ],
+  "synonyms": [
+    "absent",
+    "gone",
+    "missing"
+  ],
+  "antonyms": [
+    "present",
+    "right-hand",
+    "removed"
+  ],
+  "similar_words": [
+    "left hander",
+    "left handiness",
+    "left-bank",
+    "left-hand",
+    "left-hand drive",
+    "left-handed",
+    "left-handedly",
+    "left-handedness",
+    "left-lay",
+    "left-ments",
+    "left-most",
+    "left-wing",
+    "left-winger",
+    "lefter",
+    "leftism",
+    "leftist",
+    "leftover",
+    "lefty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/left.mp3",
+  "local_sound_path": "sounds/left.mp3"
+}

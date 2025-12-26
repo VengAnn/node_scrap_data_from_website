@@ -1,0 +1,82 @@
+{
+  "word": "argue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "they argued with each other about the best place for a holiday",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5445.png",
+      "local_image_path": "images/5445.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112683.png",
+      "local_image_path": "images/112683.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112684.png",
+      "local_image_path": "images/112684.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112685.png",
+      "local_image_path": "images/112685.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112686.png",
+      "local_image_path": "images/112686.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112687.png",
+      "local_image_path": "images/112687.png"
+    },
+    {
+      "pos": "tv",
+      "example": "argue the opposite",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5446.png",
+      "local_image_path": "images/5446.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113976.png",
+      "local_image_path": "images/113976.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113977.png",
+      "local_image_path": "images/113977.png"
+    }
+  ],
+  "synonyms": [
+    "contend",
+    "claim",
+    "say",
+    "maintain",
+    "reason",
+    "quarrel",
+    "dispute",
+    "fight",
+    "disagree",
+    "row",
+    "bicker",
+    "squabble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "arguendo",
+    "arguer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/argue.mp3",
+  "local_sound_path": "sounds/argue.mp3"
+}

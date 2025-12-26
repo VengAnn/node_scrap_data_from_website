@@ -1,0 +1,35 @@
+{
+  "word": "animated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "animated conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4338.png",
+      "local_image_path": "images/4338.png"
+    }
+  ],
+  "synonyms": [
+    "lively",
+    "energetic",
+    "vigorous",
+    "active",
+    "vibrant",
+    "vivacious",
+    "dynamic",
+    "enthusiastic",
+    "excited",
+    "sparkling",
+    "spirited",
+    "stimulated"
+  ],
+  "antonyms": [
+    "lifeless"
+  ],
+  "similar_words": [
+    "animatedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/animated.mp3",
+  "local_sound_path": "sounds/animated.mp3"
+}

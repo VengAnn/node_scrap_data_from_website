@@ -1,0 +1,41 @@
+{
+  "word": "appointment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "get an appointment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5119.png",
+      "local_image_path": "images/5119.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131341.png",
+      "local_image_path": "images/131341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131342.png",
+      "local_image_path": "images/131342.png"
+    }
+  ],
+  "synonyms": [
+    "job",
+    "post",
+    "position",
+    "opening",
+    "office",
+    "meeting",
+    "date",
+    "engagement",
+    "rendezvous",
+    "slot"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appointment.mp3",
+  "local_sound_path": "sounds/appointment.mp3"
+}

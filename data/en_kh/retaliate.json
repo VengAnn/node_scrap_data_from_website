@@ -1,0 +1,41 @@
+{
+  "word": "retaliate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Enemy will retaliate soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73043.png",
+      "local_image_path": "images/73043.png"
+    },
+    {
+      "pos": "iv",
+      "example": "retaliate in kind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73044.png",
+      "local_image_path": "images/73044.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retaliate a wrong",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73045.png",
+      "local_image_path": "images/73045.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retaliate my feeling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73046.png",
+      "local_image_path": "images/73046.png"
+    }
+  ],
+  "synonyms": [
+    "react"
+  ],
+  "antonyms": [
+    "accept",
+    "forgive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retaliate.mp3",
+  "local_sound_path": "sounds/retaliate.mp3"
+}

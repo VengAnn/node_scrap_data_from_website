@@ -1,0 +1,32 @@
+{
+  "word": "nugget",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "gold nugget",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56577.png",
+      "local_image_path": "images/56577.png"
+    },
+    {
+      "pos": "n",
+      "example": "nugget of information",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56578.png",
+      "local_image_path": "images/56578.png"
+    }
+  ],
+  "synonyms": [
+    "piece",
+    "bit",
+    "chunk",
+    "lump",
+    "hunk",
+    "wad",
+    "tidbit"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nugget.mp3",
+  "local_sound_path": "sounds/nugget.mp3"
+}

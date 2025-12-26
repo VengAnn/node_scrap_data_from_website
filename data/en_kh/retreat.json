@@ -1,0 +1,58 @@
+{
+  "word": "retreat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73162.png",
+      "local_image_path": "images/73162.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73160.png",
+      "local_image_path": "images/73160.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a retreat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73157.png",
+      "local_image_path": "images/73157.png"
+    },
+    {
+      "pos": "n",
+      "example": "stay at a quiet retreat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73158.png",
+      "local_image_path": "images/73158.png"
+    },
+    {
+      "pos": "n",
+      "example": "beat a retreat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73159.png",
+      "local_image_path": "images/73159.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73161.png",
+      "local_image_path": "images/73161.png"
+    }
+  ],
+  "synonyms": [
+    "departure",
+    "withdrawal",
+    "flight",
+    "recoil",
+    "withdraw",
+    "leave",
+    "flee"
+  ],
+  "antonyms": [
+    "advance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retreat.mp3",
+  "local_sound_path": "sounds/retreat.mp3"
+}

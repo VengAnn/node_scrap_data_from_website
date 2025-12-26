@@ -1,0 +1,86 @@
+{
+  "word": "trail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91580.png",
+      "local_image_path": "images/91580.png"
+    },
+    {
+      "pos": "iv",
+      "example": "trail along behind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90799.png",
+      "local_image_path": "images/90799.png"
+    },
+    {
+      "pos": "n",
+      "example": "mountain trail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90792.png",
+      "local_image_path": "images/90792.png"
+    },
+    {
+      "pos": "n",
+      "example": "trail of a bear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90793.png",
+      "local_image_path": "images/90793.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90794.png",
+      "local_image_path": "images/90794.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trail a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90795.png",
+      "local_image_path": "images/90795.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90796.png",
+      "local_image_path": "images/90796.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trail his coat in the dust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90797.png",
+      "local_image_path": "images/90797.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trail one's coat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90798.png",
+      "local_image_path": "images/90798.png"
+    }
+  ],
+  "synonyms": [
+    "drag",
+    "pull",
+    "draw",
+    "tow",
+    "dangle",
+    "haul",
+    "tug"
+  ],
+  "antonyms": [
+    "push",
+    "lead"
+  ],
+  "similar_words": [
+    "trail and error",
+    "trail balance",
+    "trail bike",
+    "trail breaker",
+    "trail-blazer",
+    "trail-blazing",
+    "trailer",
+    "trailerable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trail.mp3",
+  "local_sound_path": "sounds/trail.mp3"
+}

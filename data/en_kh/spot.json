@@ -1,0 +1,88 @@
+{
+  "word": "spot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "spot check",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83674.png",
+      "local_image_path": "images/83674.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83673.png",
+      "local_image_path": "images/83673.png"
+    },
+    {
+      "pos": "n",
+      "example": "black spot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83671.png",
+      "local_image_path": "images/83671.png"
+    },
+    {
+      "pos": "n",
+      "example": "spot on his honor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83672.png",
+      "local_image_path": "images/83672.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83675.png",
+      "local_image_path": "images/83675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spot one's clothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83676.png",
+      "local_image_path": "images/83676.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83677.png",
+      "local_image_path": "images/83677.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83678.png",
+      "local_image_path": "images/83678.png"
+    }
+  ],
+  "synonyms": [
+    "place",
+    "location",
+    "site",
+    "setting",
+    "corner",
+    "situation",
+    "position",
+    "point",
+    "stain",
+    "dirty",
+    "blemish",
+    "smudge",
+    "speck",
+    "sully"
+  ],
+  "antonyms": [
+    "miss",
+    "clean"
+  ],
+  "similar_words": [
+    "spot-on",
+    "spotless",
+    "spotlessly",
+    "spotlessness",
+    "spotlight",
+    "spotted",
+    "spotted owl",
+    "spotter",
+    "spotty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spot.mp3",
+  "local_sound_path": "sounds/spot.mp3"
+}

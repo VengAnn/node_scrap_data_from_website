@@ -1,0 +1,32 @@
+{
+  "word": "relaxed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71854.png",
+      "local_image_path": "images/71854.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126757.png",
+      "local_image_path": "images/126757.png"
+    }
+  ],
+  "synonyms": [
+    "lenient",
+    "laid-back",
+    "untroubled",
+    "casual"
+  ],
+  "antonyms": [
+    "tense",
+    "strict"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relaxed.mp3",
+  "local_sound_path": "sounds/relaxed.mp3"
+}

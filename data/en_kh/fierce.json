@@ -1,0 +1,50 @@
+{
+  "word": "fierce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fierce animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28410.png",
+      "local_image_path": "images/28410.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fierce storm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28411.png",
+      "local_image_path": "images/28411.png"
+    },
+    {
+      "pos": "adj",
+      "example": "fierce opposition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28412.png",
+      "local_image_path": "images/28412.png"
+    }
+  ],
+  "synonyms": [
+    "intense",
+    "violent",
+    "strong",
+    "powerful",
+    "turbulent",
+    "forceful",
+    "aggressive",
+    "ardent",
+    "profound",
+    "deep",
+    "passionate",
+    "defiant"
+  ],
+  "antonyms": [
+    "gentle",
+    "calm",
+    "mild"
+  ],
+  "similar_words": [
+    "fiercely",
+    "fierceness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fierce.mp3",
+  "local_sound_path": "sounds/fierce.mp3"
+}

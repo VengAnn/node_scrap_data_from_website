@@ -1,0 +1,32 @@
+{
+  "word": "freshness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "freshness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30273.png",
+      "local_image_path": "images/30273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30282.png",
+      "local_image_path": "images/30282.png"
+    }
+  ],
+  "synonyms": [
+    "juiciness",
+    "flavor",
+    "moistness"
+  ],
+  "antonyms": [
+    "mustiness",
+    "staleness",
+    "tiredness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/freshness.mp3",
+  "local_sound_path": "sounds/freshness.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "chick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "baby chick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14132.png",
+      "local_image_path": "images/14132.png"
+    }
+  ],
+  "synonyms": [
+    "chicken"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chickadee",
+    "chicken",
+    "chicken pox",
+    "chicken-feed",
+    "chicken-hearted",
+    "chicken-heartedness",
+    "chicken-livered",
+    "chickweed"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chick.mp3",
+  "local_sound_path": "sounds/chick.mp3"
+}

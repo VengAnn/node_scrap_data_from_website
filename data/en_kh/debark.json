@@ -1,0 +1,33 @@
+{
+  "word": "debark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19855.png",
+      "local_image_path": "images/19855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19854.png",
+      "local_image_path": "images/19854.png"
+    }
+  ],
+  "synonyms": [
+    "disembark",
+    "alight",
+    "land",
+    "arrive"
+  ],
+  "antonyms": [
+    "embark"
+  ],
+  "similar_words": [
+    "debarkation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debark.mp3",
+  "local_sound_path": "sounds/debark.mp3"
+}

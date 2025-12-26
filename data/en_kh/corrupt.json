@@ -1,0 +1,78 @@
+{
+  "word": "corrupt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "corrupt politician",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17871.png",
+      "local_image_path": "images/17871.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117624.png",
+      "local_image_path": "images/117624.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117625.png",
+      "local_image_path": "images/117625.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117626.png",
+      "local_image_path": "images/117626.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117627.png",
+      "local_image_path": "images/117627.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17873.png",
+      "local_image_path": "images/17873.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Young people whose morals have been corrupted",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17872.png",
+      "local_image_path": "images/17872.png"
+    }
+  ],
+  "synonyms": [
+    "alter",
+    "damage",
+    "distort",
+    "harm",
+    "debase",
+    "degrade",
+    "taint",
+    "pervert",
+    "warp",
+    "spoil",
+    "contaminate"
+  ],
+  "antonyms": [
+    "honest"
+  ],
+  "similar_words": [
+    "corruptibility",
+    "corruptible",
+    "corruptibly",
+    "corruption",
+    "corruptionist",
+    "corruptive",
+    "corruptive scandal",
+    "corruptly",
+    "corruptness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corrupt.mp3",
+  "local_sound_path": "sounds/corrupt.mp3"
+}

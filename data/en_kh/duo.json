@@ -1,0 +1,33 @@
+{
+  "word": "duo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23446.png",
+      "local_image_path": "images/23446.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23447.png",
+      "local_image_path": "images/23447.png"
+    }
+  ],
+  "synonyms": [
+    "pair",
+    "twosome",
+    "couple",
+    "duet"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "duodecuple",
+    "duodenum",
+    "duologue"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duo.mp3",
+  "local_sound_path": "sounds/duo.mp3"
+}

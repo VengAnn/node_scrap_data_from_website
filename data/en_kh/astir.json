@@ -1,0 +1,48 @@
+{
+  "word": "astir",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, adj",
+      "example": "astir with rumors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6024.png",
+      "local_image_path": "images/6024.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114176.png",
+      "local_image_path": "images/114176.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114177.png",
+      "local_image_path": "images/114177.png"
+    },
+    {
+      "pos": "adv, adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114178.png",
+      "local_image_path": "images/114178.png"
+    }
+  ],
+  "synonyms": [
+    "awake",
+    "up",
+    "active",
+    "alive",
+    "moving",
+    "stirring",
+    "live",
+    "busy"
+  ],
+  "antonyms": [
+    "inactive",
+    "asleep"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astir.mp3",
+  "local_sound_path": "sounds/astir.mp3"
+}

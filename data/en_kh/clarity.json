@@ -1,0 +1,39 @@
+{
+  "word": "clarity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "clarity of expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14814.png",
+      "local_image_path": "images/14814.png"
+    },
+    {
+      "pos": "n",
+      "example": "clarity of the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14815.png",
+      "local_image_path": "images/14815.png"
+    },
+    {
+      "pos": "n",
+      "example": "clarity of sound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14816.png",
+      "local_image_path": "images/14816.png"
+    }
+  ],
+  "synonyms": [
+    "clearness",
+    "lucidity",
+    "simplicity",
+    "precision",
+    "intelligibility",
+    "transparency"
+  ],
+  "antonyms": [
+    "ambiguity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clarity.mp3",
+  "local_sound_path": "sounds/clarity.mp3"
+}

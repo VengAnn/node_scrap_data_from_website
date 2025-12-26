@@ -1,0 +1,50 @@
+{
+  "word": "administrative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "administrative law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2447.png",
+      "local_image_path": "images/2447.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113280.png",
+      "local_image_path": "images/113280.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113281.png",
+      "local_image_path": "images/113281.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132286.png",
+      "local_image_path": "images/132286.png"
+    }
+  ],
+  "synonyms": [
+    "managerial",
+    "organizational",
+    "clerical",
+    "secretarial",
+    "executive",
+    "governmental"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "administrative account",
+    "administrative agency",
+    "administrative discretion",
+    "administrative hearing",
+    "administrative proceeding",
+    "administratively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/administrative.mp3",
+  "local_sound_path": "sounds/administrative.mp3"
+}

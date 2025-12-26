@@ -1,0 +1,68 @@
+{
+  "word": "savor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "savor of illegality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111520.png",
+      "local_image_path": "images/111520.png"
+    },
+    {
+      "pos": "n",
+      "example": "savor of salt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111519.png",
+      "local_image_path": "images/111519.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111521.png",
+      "local_image_path": "images/111521.png"
+    },
+    {
+      "pos": "tv",
+      "example": "savour food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111522.png",
+      "local_image_path": "images/111522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This speech savors of wisdom.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111523.png",
+      "local_image_path": "images/111523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127455.png",
+      "local_image_path": "images/127455.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127456.png",
+      "local_image_path": "images/127456.png"
+    }
+  ],
+  "synonyms": [
+    "taste",
+    "smell",
+    "flavor",
+    "aroma",
+    "tang",
+    "bouquet",
+    "relish",
+    "enjoy",
+    "appreciate",
+    "value"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "savorous",
+    "savory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/savor.mp3",
+  "local_sound_path": "sounds/savor.mp3"
+}

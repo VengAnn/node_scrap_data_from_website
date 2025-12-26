@@ -1,0 +1,56 @@
+{
+  "word": "inactive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38084.png",
+      "local_image_path": "images/38084.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121814.png",
+      "local_image_path": "images/121814.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121815.png",
+      "local_image_path": "images/121815.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121816.png",
+      "local_image_path": "images/121816.png"
+    }
+  ],
+  "synonyms": [
+    "sedentary",
+    "lazy",
+    "slothful",
+    "indolent",
+    "sluggish",
+    "dormant",
+    "idle",
+    "reserve",
+    "unused",
+    "inoperative",
+    "static"
+  ],
+  "antonyms": [
+    "moving",
+    "active",
+    "energetic",
+    "working"
+  ],
+  "similar_words": [
+    "inactively",
+    "inactiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inactive.mp3",
+  "local_sound_path": "sounds/inactive.mp3"
+}

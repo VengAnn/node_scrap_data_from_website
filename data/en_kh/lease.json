@@ -1,0 +1,45 @@
+{
+  "word": "lease",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45539.png",
+      "local_image_path": "images/45539.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45540.png",
+      "local_image_path": "images/45540.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123435.png",
+      "local_image_path": "images/123435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123436.png",
+      "local_image_path": "images/123436.png"
+    }
+  ],
+  "synonyms": [
+    "rent",
+    "let",
+    "charter",
+    "hire"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "lease-hold",
+    "leaseholder",
+    "leaser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lease.mp3",
+  "local_sound_path": "sounds/lease.mp3"
+}

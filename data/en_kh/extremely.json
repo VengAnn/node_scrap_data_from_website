@@ -1,0 +1,35 @@
+{
+  "word": "extremely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27143.png",
+      "local_image_path": "images/27143.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132463.png",
+      "local_image_path": "images/132463.png"
+    }
+  ],
+  "synonyms": [
+    "very",
+    "tremendously",
+    "enormously",
+    "awfully",
+    "really",
+    "particularly",
+    "exceptionally",
+    "exceedingly"
+  ],
+  "antonyms": [
+    "somewhat"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extremely.mp3",
+  "local_sound_path": "sounds/extremely.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "enunciation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25386.png",
+      "local_image_path": "images/25386.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25387.png",
+      "local_image_path": "images/25387.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119298.png",
+      "local_image_path": "images/119298.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119299.png",
+      "local_image_path": "images/119299.png"
+    }
+  ],
+  "synonyms": [
+    "accent",
+    "diction",
+    "articulation",
+    "elocution",
+    "pronunciation",
+    "speech"
+  ],
+  "antonyms": [
+    "suppression"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enunciation.mp3",
+  "local_sound_path": "sounds/enunciation.mp3"
+}

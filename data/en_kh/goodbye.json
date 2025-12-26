@@ -1,0 +1,35 @@
+{
+  "word": "goodbye",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32290.png",
+      "local_image_path": "images/32290.png"
+    }
+  ],
+  "synonyms": [
+    "farewell",
+    "valediction",
+    "send-off",
+    "adieu",
+    "leave-taking",
+    "separation",
+    "going",
+    "departure",
+    "parting"
+  ],
+  "antonyms": [
+    "hello",
+    "hallo",
+    "halloo",
+    "hullo",
+    "reunion",
+    "greeting"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/goodbye.mp3",
+  "local_sound_path": "sounds/goodbye.mp3"
+}

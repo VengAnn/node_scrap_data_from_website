@@ -1,0 +1,39 @@
+{
+  "word": "banner",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "banner of victory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7356.png",
+      "local_image_path": "images/7356.png"
+    }
+  ],
+  "synonyms": [
+    "excellent",
+    "exceptional",
+    "notable",
+    "outstanding",
+    "sign",
+    "poster",
+    "flag",
+    "standard",
+    "placard",
+    "streamer",
+    "hanging"
+  ],
+  "antonyms": [
+    "lousy"
+  ],
+  "similar_words": [
+    "banner headline",
+    "bannerer",
+    "banneret",
+    "bannerette",
+    "bannerman",
+    "bannerol"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banner.mp3",
+  "local_sound_path": "sounds/banner.mp3"
+}

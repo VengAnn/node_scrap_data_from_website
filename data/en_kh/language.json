@@ -1,0 +1,24 @@
+{
+  "word": "language",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "use bad language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44817.png",
+      "local_image_path": "images/44817.png"
+    }
+  ],
+  "synonyms": [
+    "writing",
+    "prose",
+    "poetry",
+    "style",
+    "expression"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/language.mp3",
+  "local_sound_path": "sounds/language.mp3"
+}

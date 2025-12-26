@@ -1,0 +1,46 @@
+{
+  "word": "passing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "passing time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60465.png",
+      "local_image_path": "images/60465.png"
+    },
+    {
+      "pos": "adj",
+      "example": "passing grade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60466.png",
+      "local_image_path": "images/60466.png"
+    },
+    {
+      "pos": "adj",
+      "example": "passing mention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60467.png",
+      "local_image_path": "images/60467.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60468.png",
+      "local_image_path": "images/60468.png"
+    }
+  ],
+  "synonyms": [
+    "death",
+    "dying",
+    "demise",
+    "end",
+    "departure",
+    "approving"
+  ],
+  "antonyms": [
+    "permanent",
+    "failing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/passing.mp3",
+  "local_sound_path": "sounds/passing.mp3"
+}

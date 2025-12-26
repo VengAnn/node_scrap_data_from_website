@@ -1,0 +1,48 @@
+{
+  "word": "subservient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85853.png",
+      "local_image_path": "images/85853.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subservient demeanor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85854.png",
+      "local_image_path": "images/85854.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subservient to our aims",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85855.png",
+      "local_image_path": "images/85855.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subservient to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85856.png",
+      "local_image_path": "images/85856.png"
+    }
+  ],
+  "synonyms": [
+    "submissive",
+    "obedient",
+    "compliant",
+    "acquiescent",
+    "docile",
+    "deferential",
+    "passive",
+    "meek",
+    "servile"
+  ],
+  "antonyms": [
+    "assertive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subservient.mp3",
+  "local_sound_path": "sounds/subservient.mp3"
+}

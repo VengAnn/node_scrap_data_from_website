@@ -1,0 +1,29 @@
+{
+  "word": "covered",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word cover",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111745.png",
+      "local_image_path": "images/111745.png"
+    }
+  ],
+  "synonyms": [
+    "enclosed",
+    "roofed",
+    "sheltered",
+    "included",
+    "involved",
+    "take in"
+  ],
+  "antonyms": [
+    "exposed",
+    "revealed",
+    "uncovered"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/covered.mp3",
+  "local_sound_path": "sounds/covered.mp3"
+}

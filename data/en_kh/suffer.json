@@ -1,0 +1,47 @@
+{
+  "word": "suffer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "cause to suffer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86070.png",
+      "local_image_path": "images/86070.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His business suffered while he was ill.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86066.png",
+      "local_image_path": "images/86066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suffer hardship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86067.png",
+      "local_image_path": "images/86067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suffer him to come",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86068.png",
+      "local_image_path": "images/86068.png"
+    },
+    {
+      "pos": "tv",
+      "example": "How can you suffer such insolence?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86069.png",
+      "local_image_path": "images/86069.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "sufferable",
+    "sufferance",
+    "sufferer",
+    "suffering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suffer.mp3",
+  "local_sound_path": "sounds/suffer.mp3"
+}

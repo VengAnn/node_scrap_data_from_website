@@ -1,0 +1,42 @@
+{
+  "word": "morality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "teach morality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110399.png",
+      "local_image_path": "images/110399.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110400.png",
+      "local_image_path": "images/110400.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110401.png",
+      "local_image_path": "images/110401.png"
+    }
+  ],
+  "synonyms": [
+    "goodness",
+    "decency",
+    "probity",
+    "honesty",
+    "integrity",
+    "honor",
+    "virtue",
+    "godliness",
+    "saintliness"
+  ],
+  "antonyms": [
+    "wickedness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/morality.mp3",
+  "local_sound_path": "sounds/morality.mp3"
+}

@@ -1,0 +1,23 @@
+{
+  "word": "alpine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "alpine vegetation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3638.png",
+      "local_image_path": "images/3638.png"
+    }
+  ],
+  "synonyms": [
+    "mountainous",
+    "mountain",
+    "hilly",
+    "high"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alpine.mp3",
+  "local_sound_path": "sounds/alpine.mp3"
+}

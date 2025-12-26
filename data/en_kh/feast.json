@@ -1,0 +1,40 @@
+{
+  "word": "feast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27922.png",
+      "local_image_path": "images/27922.png"
+    },
+    {
+      "pos": "n",
+      "example": "religious feast",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27921.png",
+      "local_image_path": "images/27921.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They feasted their guests with delicacies.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27923.png",
+      "local_image_path": "images/27923.png"
+    }
+  ],
+  "synonyms": [
+    "delight",
+    "treat",
+    "indulgence",
+    "gorge",
+    "eat",
+    "devour",
+    "indulge"
+  ],
+  "antonyms": [
+    "fast"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/feast.mp3",
+  "local_sound_path": "sounds/feast.mp3"
+}

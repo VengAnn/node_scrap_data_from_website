@@ -1,0 +1,33 @@
+{
+  "word": "devastation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21065.png",
+      "local_image_path": "images/21065.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118211.png",
+      "local_image_path": "images/118211.png"
+    }
+  ],
+  "synonyms": [
+    "destruction",
+    "damage",
+    "ruin",
+    "desolation",
+    "waste",
+    "wreckage"
+  ],
+  "antonyms": [
+    "preservation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devastation.mp3",
+  "local_sound_path": "sounds/devastation.mp3"
+}

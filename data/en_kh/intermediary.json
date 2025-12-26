@@ -1,0 +1,69 @@
+{
+  "word": "intermediary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41336.png",
+      "local_image_path": "images/41336.png"
+    },
+    {
+      "pos": "adj",
+      "example": "intermediary step",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41337.png",
+      "local_image_path": "images/41337.png"
+    },
+    {
+      "pos": "adj",
+      "example": "intermediary agent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41338.png",
+      "local_image_path": "images/41338.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41339.png",
+      "local_image_path": "images/41339.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122737.png",
+      "local_image_path": "images/122737.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122738.png",
+      "local_image_path": "images/122738.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122739.png",
+      "local_image_path": "images/122739.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122740.png",
+      "local_image_path": "images/122740.png"
+    }
+  ],
+  "synonyms": [
+    "go-between",
+    "mediator",
+    "liaison",
+    "agent",
+    "intercessor",
+    "arbitrator",
+    "negotiator",
+    "intermediate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intermediary.mp3",
+  "local_sound_path": "sounds/intermediary.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "frizzy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30374.png",
+      "local_image_path": "images/30374.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120479.png",
+      "local_image_path": "images/120479.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120480.png",
+      "local_image_path": "images/120480.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120481.png",
+      "local_image_path": "images/120481.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120482.png",
+      "local_image_path": "images/120482.png"
+    }
+  ],
+  "synonyms": [
+    "wiry",
+    "curly",
+    "kinky"
+  ],
+  "antonyms": [
+    "straight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frizzy.mp3",
+  "local_sound_path": "sounds/frizzy.mp3"
+}

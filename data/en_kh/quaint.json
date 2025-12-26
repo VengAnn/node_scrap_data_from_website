@@ -1,0 +1,40 @@
+{
+  "word": "quaint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "quaint house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69357.png",
+      "local_image_path": "images/69357.png"
+    },
+    {
+      "pos": "adj",
+      "example": "quaint customs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69358.png",
+      "local_image_path": "images/69358.png"
+    }
+  ],
+  "synonyms": [
+    "strange",
+    "peculiar",
+    "odd",
+    "curious",
+    "bizarre",
+    "weird",
+    "extraordinary",
+    "unusual"
+  ],
+  "antonyms": [
+    "modern",
+    "normal",
+    "ordinary"
+  ],
+  "similar_words": [
+    "quaintly",
+    "quaintness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quaint.mp3",
+  "local_sound_path": "sounds/quaint.mp3"
+}

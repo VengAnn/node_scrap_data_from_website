@@ -1,0 +1,42 @@
+{
+  "word": "remission",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "reminision of taxes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72047.png",
+      "local_image_path": "images/72047.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130726.png",
+      "local_image_path": "images/130726.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130727.png",
+      "local_image_path": "images/130727.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130728.png",
+      "local_image_path": "images/130728.png"
+    }
+  ],
+  "synonyms": [
+    "reduction",
+    "decrease",
+    "diminution",
+    "cutback",
+    "retardation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remission.mp3",
+  "local_sound_path": "sounds/remission.mp3"
+}

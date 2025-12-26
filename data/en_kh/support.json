@@ -1,0 +1,103 @@
+{
+  "word": "support",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden support",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86491.png",
+      "local_image_path": "images/86491.png"
+    },
+    {
+      "pos": "n",
+      "example": "financial support",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86492.png",
+      "local_image_path": "images/86492.png"
+    },
+    {
+      "pos": "n",
+      "example": "moral support",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86493.png",
+      "local_image_path": "images/86493.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86485.png",
+      "local_image_path": "images/86485.png"
+    },
+    {
+      "pos": "tv",
+      "example": "support a floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86486.png",
+      "local_image_path": "images/86486.png"
+    },
+    {
+      "pos": "tv",
+      "example": "support a family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86487.png",
+      "local_image_path": "images/86487.png"
+    },
+    {
+      "pos": "tv",
+      "example": "support a motion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86488.png",
+      "local_image_path": "images/86488.png"
+    },
+    {
+      "pos": "tv",
+      "example": "support a weight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86489.png",
+      "local_image_path": "images/86489.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86490.png",
+      "local_image_path": "images/86490.png"
+    }
+  ],
+  "synonyms": [
+    "confirmation",
+    "verification",
+    "corroboration",
+    "proof",
+    "authentication",
+    "substantiation",
+    "endorsement",
+    "back",
+    "encourage",
+    "help",
+    "assist",
+    "aid",
+    "defend",
+    "champion",
+    "sponsor",
+    "espouse",
+    "comfort",
+    "carry",
+    "strengthen"
+  ],
+  "antonyms": [
+    "oppose",
+    "opposition",
+    "neglect",
+    "undermine",
+    "abandonment",
+    "denial",
+    "weakness",
+    "weaken",
+    "deny",
+    "abandon"
+  ],
+  "similar_words": [
+    "supportable",
+    "supporter",
+    "supporting",
+    "supportive",
+    "supportless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/support.mp3",
+  "local_sound_path": "sounds/support.mp3"
+}

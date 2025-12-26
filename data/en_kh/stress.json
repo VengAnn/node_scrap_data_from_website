@@ -1,0 +1,70 @@
+{
+  "word": "stress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "lay stress on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85347.png",
+      "local_image_path": "images/85347.png"
+    },
+    {
+      "pos": "n",
+      "example": "primary stress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85348.png",
+      "local_image_path": "images/85348.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85349.png",
+      "local_image_path": "images/85349.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132057.png",
+      "local_image_path": "images/132057.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132058.png",
+      "local_image_path": "images/132058.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stress a fact",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85344.png",
+      "local_image_path": "images/85344.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stress a syllable",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85345.png",
+      "local_image_path": "images/85345.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stress materials",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85346.png",
+      "local_image_path": "images/85346.png"
+    }
+  ],
+  "synonyms": [
+    "emphasize",
+    "underline",
+    "underscore",
+    "accentuate",
+    "highlight"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stress mark",
+    "stressful",
+    "stressless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stress.mp3",
+  "local_sound_path": "sounds/stress.mp3"
+}

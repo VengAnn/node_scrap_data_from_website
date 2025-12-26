@@ -1,0 +1,91 @@
+{
+  "word": "shade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78636.png",
+      "local_image_path": "images/78636.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78635.png",
+      "local_image_path": "images/78635.png"
+    },
+    {
+      "pos": "n",
+      "example": "cool shade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78626.png",
+      "local_image_path": "images/78626.png"
+    },
+    {
+      "pos": "n",
+      "example": "two shade of blue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78627.png",
+      "local_image_path": "images/78627.png"
+    },
+    {
+      "pos": "n",
+      "example": "not a shade of difference",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78628.png",
+      "local_image_path": "images/78628.png"
+    },
+    {
+      "pos": "n",
+      "example": "window shade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78629.png",
+      "local_image_path": "images/78629.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78630.png",
+      "local_image_path": "images/78630.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shade the yard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78631.png",
+      "local_image_path": "images/78631.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shade the eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78632.png",
+      "local_image_path": "images/78632.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shade it with blue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78633.png",
+      "local_image_path": "images/78633.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shade the price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78634.png",
+      "local_image_path": "images/78634.png"
+    }
+  ],
+  "synonyms": [
+    "hatch",
+    "color"
+  ],
+  "antonyms": [
+    "light",
+    "expose",
+    "brighten"
+  ],
+  "similar_words": [
+    "shade-grown",
+    "shade-loving",
+    "shade-requiring",
+    "shade-tree",
+    "shadeless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shade.mp3",
+  "local_sound_path": "sounds/shade.mp3"
+}

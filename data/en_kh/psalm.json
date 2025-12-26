@@ -1,0 +1,37 @@
+{
+  "word": "psalm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68367.png",
+      "local_image_path": "images/68367.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68368.png",
+      "local_image_path": "images/68368.png"
+    }
+  ],
+  "synonyms": [
+    "hymn",
+    "poem",
+    "canticle",
+    "prayer",
+    "song"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "psalmist",
+    "psalmodic",
+    "psalmodist",
+    "psalmodize",
+    "psalmody",
+    "psalmograph"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/psalm.mp3",
+  "local_sound_path": "sounds/psalm.mp3"
+}

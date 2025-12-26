@@ -1,0 +1,67 @@
+{
+  "word": "smash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81643.png",
+      "local_image_path": "images/81643.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81644.png",
+      "local_image_path": "images/81644.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81645.png",
+      "local_image_path": "images/81645.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smash the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81640.png",
+      "local_image_path": "images/81640.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81641.png",
+      "local_image_path": "images/81641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81642.png",
+      "local_image_path": "images/81642.png"
+    }
+  ],
+  "synonyms": [
+    "crash",
+    "accident",
+    "collision",
+    "shatter",
+    "break",
+    "demolish",
+    "destroy",
+    "crush"
+  ],
+  "antonyms": [
+    "repair"
+  ],
+  "similar_words": [
+    "smash and grab",
+    "smash-hit",
+    "smash-up",
+    "smashed",
+    "smasher",
+    "smashing",
+    "smashingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/smash.mp3",
+  "local_sound_path": "sounds/smash.mp3"
+}

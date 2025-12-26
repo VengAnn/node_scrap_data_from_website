@@ -1,0 +1,36 @@
+{
+  "word": "stupor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85640.png",
+      "local_image_path": "images/85640.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85639.png",
+      "local_image_path": "images/85639.png"
+    }
+  ],
+  "synonyms": [
+    "trance",
+    "coma",
+    "daze",
+    "dream",
+    "shock",
+    "stupefaction",
+    "numbness",
+    "paralysis"
+  ],
+  "antonyms": [
+    "activeness",
+    "consciousness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stupor.mp3",
+  "local_sound_path": "sounds/stupor.mp3"
+}

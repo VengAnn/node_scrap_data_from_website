@@ -1,0 +1,42 @@
+{
+  "word": "orb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57911.png",
+      "local_image_path": "images/57911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57912.png",
+      "local_image_path": "images/57912.png"
+    }
+  ],
+  "synonyms": [
+    "globe",
+    "sphere",
+    "planet",
+    "ball",
+    "round",
+    "circle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "orb-like",
+    "orbed",
+    "orbicular",
+    "orbicularity",
+    "orbicularly",
+    "orbiculate",
+    "orbiculately",
+    "orbit",
+    "orbital",
+    "orbitsl"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/orb.mp3",
+  "local_sound_path": "sounds/orb.mp3"
+}

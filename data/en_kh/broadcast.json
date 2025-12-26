@@ -1,0 +1,57 @@
+{
+  "word": "broadcast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "is there any thing good in the broadcast program?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11256.png",
+      "local_image_path": "images/11256.png"
+    },
+    {
+      "pos": "tv",
+      "example": "broadcast a radio program",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11254.png",
+      "local_image_path": "images/11254.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11255.png",
+      "local_image_path": "images/11255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131112.png",
+      "local_image_path": "images/131112.png"
+    }
+  ],
+  "synonyms": [
+    "transmission",
+    "program",
+    "show",
+    "recording",
+    "film",
+    "announcement",
+    "transmit",
+    "air",
+    "shown",
+    "televise",
+    "screen",
+    "screened",
+    "relay",
+    "rerun"
+  ],
+  "antonyms": [
+    "withhold",
+    "withheld"
+  ],
+  "similar_words": [
+    "broadcaster",
+    "broadcasting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/broadcast.mp3",
+  "local_sound_path": "sounds/broadcast.mp3"
+}

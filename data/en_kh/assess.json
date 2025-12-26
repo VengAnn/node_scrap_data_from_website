@@ -1,0 +1,69 @@
+{
+  "word": "assess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "assess the situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5896.png",
+      "local_image_path": "images/5896.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112749.png",
+      "local_image_path": "images/112749.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112750.png",
+      "local_image_path": "images/112750.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112751.png",
+      "local_image_path": "images/112751.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112752.png",
+      "local_image_path": "images/112752.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112753.png",
+      "local_image_path": "images/112753.png"
+    }
+  ],
+  "synonyms": [
+    "measure",
+    "consider",
+    "gauge",
+    "calculate",
+    "tax",
+    "charge",
+    "review",
+    "levy",
+    "evaluate",
+    "fine",
+    "judge",
+    "appraise",
+    "value",
+    "rate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "assessable",
+    "assession",
+    "assessment",
+    "assessor",
+    "assessorial"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assess.mp3",
+  "local_sound_path": "sounds/assess.mp3"
+}

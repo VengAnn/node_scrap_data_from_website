@@ -1,0 +1,41 @@
+{
+  "word": "worthless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "worthless car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101046.png",
+      "local_image_path": "images/101046.png"
+    },
+    {
+      "pos": "adj",
+      "example": "worthless project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101047.png",
+      "local_image_path": "images/101047.png"
+    },
+    {
+      "pos": "adj",
+      "example": "worthless tramp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101048.png",
+      "local_image_path": "images/101048.png"
+    }
+  ],
+  "synonyms": [
+    "empty",
+    "hollow",
+    "meaningless",
+    "futile",
+    "pointless"
+  ],
+  "antonyms": [
+    "valuable"
+  ],
+  "similar_words": [
+    "worthlessly",
+    "worthlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/worthless.mp3",
+  "local_sound_path": "sounds/worthless.mp3"
+}

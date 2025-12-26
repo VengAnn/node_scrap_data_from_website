@@ -1,0 +1,38 @@
+{
+  "word": "crisis",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "diplomatic crisis",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18628.png",
+      "local_image_path": "images/18628.png"
+    },
+    {
+      "pos": "n",
+      "example": "crisis of a play",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18629.png",
+      "local_image_path": "images/18629.png"
+    },
+    {
+      "pos": "n",
+      "example": "crisis of a disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18630.png",
+      "local_image_path": "images/18630.png"
+    }
+  ],
+  "synonyms": [
+    "disaster",
+    "catastrophe",
+    "emergency",
+    "calamity",
+    "predicament",
+    "head",
+    "watershed"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crisis.mp3",
+  "local_sound_path": "sounds/crisis.mp3"
+}

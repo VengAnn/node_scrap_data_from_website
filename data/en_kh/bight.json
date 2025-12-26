@@ -1,0 +1,37 @@
+{
+  "word": "bight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8836.png",
+      "local_image_path": "images/8836.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115061.png",
+      "local_image_path": "images/115061.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115062.png",
+      "local_image_path": "images/115062.png"
+    }
+  ],
+  "synonyms": [
+    "gulf",
+    "bay",
+    "inlet",
+    "sound",
+    "cove",
+    "harbor"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bight.mp3",
+  "local_sound_path": "sounds/bight.mp3"
+}

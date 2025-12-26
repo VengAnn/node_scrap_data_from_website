@@ -1,0 +1,51 @@
+{
+  "word": "curl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "hairs curl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19172.png",
+      "local_image_path": "images/19172.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19173.png",
+      "local_image_path": "images/19173.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She has curled (up) her hair.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19170.png",
+      "local_image_path": "images/19170.png"
+    },
+    {
+      "pos": "tv",
+      "example": "curl the fingers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19171.png",
+      "local_image_path": "images/19171.png"
+    }
+  ],
+  "synonyms": [
+    "coil",
+    "twist",
+    "whorl",
+    "ringlet",
+    "wave",
+    "swirl",
+    "spiral",
+    "twirl",
+    "curve"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "curler",
+    "curlew",
+    "curliron",
+    "curly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curl.mp3",
+  "local_sound_path": "sounds/curl.mp3"
+}

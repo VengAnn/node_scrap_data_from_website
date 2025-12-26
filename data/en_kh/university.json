@@ -1,0 +1,29 @@
+{
+  "word": "university",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94658.png",
+      "local_image_path": "images/94658.png"
+    }
+  ],
+  "synonyms": [
+    "college",
+    "campus",
+    "academia",
+    "academy",
+    "school",
+    "academe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "university life",
+    "university professor",
+    "university teaching"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/university.mp3",
+  "local_sound_path": "sounds/university.mp3"
+}

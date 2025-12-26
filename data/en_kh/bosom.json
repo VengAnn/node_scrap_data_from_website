@@ -1,0 +1,46 @@
+{
+  "word": "bosom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10267.png",
+      "local_image_path": "images/10267.png"
+    },
+    {
+      "pos": "n",
+      "example": "cover the bosom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10266.png",
+      "local_image_path": "images/10266.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130016.png",
+      "local_image_path": "images/130016.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130017.png",
+      "local_image_path": "images/130017.png"
+    }
+  ],
+  "synonyms": [
+    "heart",
+    "center",
+    "midst",
+    "embrace",
+    "security",
+    "haven",
+    "arms"
+  ],
+  "antonyms": [
+    "distant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bosom.mp3",
+  "local_sound_path": "sounds/bosom.mp3"
+}

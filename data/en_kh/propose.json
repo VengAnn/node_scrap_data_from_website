@@ -1,0 +1,64 @@
+{
+  "word": "propose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67857.png",
+      "local_image_path": "images/67857.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I propose Mr Smith for chairman.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67858.png",
+      "local_image_path": "images/67858.png"
+    },
+    {
+      "pos": "iv",
+      "example": "propose to a girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67859.png",
+      "local_image_path": "images/67859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67853.png",
+      "local_image_path": "images/67853.png"
+    },
+    {
+      "pos": "tv",
+      "example": "propose a plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67854.png",
+      "local_image_path": "images/67854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "we propose leaving at noon.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67855.png",
+      "local_image_path": "images/67855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67856.png",
+      "local_image_path": "images/67856.png"
+    }
+  ],
+  "synonyms": [
+    "intend",
+    "plan",
+    "aim",
+    "mean",
+    "insinuate",
+    "purport"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "proposed",
+    "proposer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/propose.mp3",
+  "local_sound_path": "sounds/propose.mp3"
+}

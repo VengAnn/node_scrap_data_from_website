@@ -1,0 +1,101 @@
+{
+  "word": "go",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "be full of go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32124.png",
+      "local_image_path": "images/32124.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a go at it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32125.png",
+      "local_image_path": "images/32125.png"
+    },
+    {
+      "pos": "v",
+      "example": "I will go to Phnom Penh tomorrow.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32120.png",
+      "local_image_path": "images/32120.png"
+    },
+    {
+      "pos": "v",
+      "example": "go ahead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32121.png",
+      "local_image_path": "images/32121.png"
+    },
+    {
+      "pos": "v",
+      "example": "(like to) go out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32122.png",
+      "local_image_path": "images/32122.png"
+    },
+    {
+      "pos": "v",
+      "example": "go for a walk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32123.png",
+      "local_image_path": "images/32123.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120692.png",
+      "local_image_path": "images/120692.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120693.png",
+      "local_image_path": "images/120693.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120694.png",
+      "local_image_path": "images/120694.png"
+    }
+  ],
+  "synonyms": [
+    "try",
+    "attempt",
+    "turn",
+    "chance",
+    "shot",
+    "stab",
+    "become",
+    "get",
+    "grow"
+  ],
+  "antonyms": [
+    "come",
+    "stop",
+    "lethargy",
+    "live"
+  ],
+  "similar_words": [
+    "go-ahead",
+    "go-between",
+    "go-by",
+    "go-cart",
+    "go-getter",
+    "go-kart",
+    "goabean",
+    "goad",
+    "goal",
+    "goalkeeper",
+    "goalkick",
+    "goalless",
+    "goanna",
+    "goat",
+    "goat-antelope",
+    "goat-herd",
+    "goatee",
+    "goatish",
+    "goatling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/go.mp3",
+  "local_sound_path": "sounds/go.mp3"
+}

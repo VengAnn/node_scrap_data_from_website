@@ -1,0 +1,45 @@
+{
+  "word": "comical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15923.png",
+      "local_image_path": "images/15923.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15924.png",
+      "local_image_path": "images/15924.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116754.png",
+      "local_image_path": "images/116754.png"
+    }
+  ],
+  "synonyms": [
+    "amusing",
+    "humorous",
+    "funny",
+    "laughable",
+    "comic",
+    "droll",
+    "hilarious",
+    "sidesplitting",
+    "wacky"
+  ],
+  "antonyms": [
+    "tragic"
+  ],
+  "similar_words": [
+    "comically",
+    "comicalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comical.mp3",
+  "local_sound_path": "sounds/comical.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "excavator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26366.png",
+      "local_image_path": "images/26366.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119553.png",
+      "local_image_path": "images/119553.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119554.png",
+      "local_image_path": "images/119554.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119555.png",
+      "local_image_path": "images/119555.png"
+    }
+  ],
+  "synonyms": [
+    "digger",
+    "bulldozer",
+    "crawler",
+    "shovel"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excavator.mp3",
+  "local_sound_path": "sounds/excavator.mp3"
+}

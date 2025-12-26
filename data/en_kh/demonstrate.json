@@ -1,0 +1,57 @@
+{
+  "word": "demonstrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Thousands demonstrated against the price increase.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20463.png",
+      "local_image_path": "images/20463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can you demonstrate what she said?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20461.png",
+      "local_image_path": "images/20461.png"
+    },
+    {
+      "pos": "tv",
+      "example": "demonstrate one's sincerity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20462.png",
+      "local_image_path": "images/20462.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118011.png",
+      "local_image_path": "images/118011.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118012.png",
+      "local_image_path": "images/118012.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118013.png",
+      "local_image_path": "images/118013.png"
+    }
+  ],
+  "synonyms": [
+    "protest",
+    "march",
+    "rally",
+    "lobby",
+    "parade",
+    "support"
+  ],
+  "antonyms": [
+    "conceal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demonstrate.mp3",
+  "local_sound_path": "sounds/demonstrate.mp3"
+}

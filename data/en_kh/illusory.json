@@ -1,0 +1,40 @@
+{
+  "word": "illusory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37322.png",
+      "local_image_path": "images/37322.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121453.png",
+      "local_image_path": "images/121453.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121454.png",
+      "local_image_path": "images/121454.png"
+    }
+  ],
+  "synonyms": [
+    "deceptive",
+    "false",
+    "illusive",
+    "misleading",
+    "erroneous",
+    "unreal",
+    "sham"
+  ],
+  "antonyms": [
+    "real"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/illusory.mp3",
+  "local_sound_path": "sounds/illusory.mp3"
+}

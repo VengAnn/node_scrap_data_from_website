@@ -1,0 +1,56 @@
+{
+  "word": "paint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "red paint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59318.png",
+      "local_image_path": "images/59318.png"
+    },
+    {
+      "pos": "tv",
+      "example": "paint a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59319.png",
+      "local_image_path": "images/59319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "paint a picture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59320.png",
+      "local_image_path": "images/59320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "paint a sore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59321.png",
+      "local_image_path": "images/59321.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "coat",
+    "smother",
+    "dip",
+    "smear",
+    "spread"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "paint box",
+    "paint-can",
+    "paint-work",
+    "paintable",
+    "paintbrush",
+    "painted",
+    "painter",
+    "painterliness",
+    "painterly",
+    "painting",
+    "paintless",
+    "paintress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/paint.mp3",
+  "local_sound_path": "sounds/paint.mp3"
+}

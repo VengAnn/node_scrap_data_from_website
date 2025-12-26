@@ -1,0 +1,31 @@
+{
+  "word": "wager",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98787.png",
+      "local_image_path": "images/98787.png"
+    },
+    {
+      "pos": "v",
+      "example": "I will wager with you",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98788.png",
+      "local_image_path": "images/98788.png"
+    }
+  ],
+  "synonyms": [
+    "stake",
+    "gamble",
+    "bet",
+    "put",
+    "risk",
+    "venture"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wager.mp3",
+  "local_sound_path": "sounds/wager.mp3"
+}

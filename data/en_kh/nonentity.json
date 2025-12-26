@@ -1,0 +1,25 @@
+{
+  "word": "nonentity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56099.png",
+      "local_image_path": "images/56099.png"
+    }
+  ],
+  "synonyms": [
+    "nobody",
+    "unknown",
+    "mediocrity",
+    "nothing"
+  ],
+  "antonyms": [
+    "somebody"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nonentity.mp3",
+  "local_sound_path": "sounds/nonentity.mp3"
+}

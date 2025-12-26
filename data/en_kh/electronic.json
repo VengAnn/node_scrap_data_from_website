@@ -1,0 +1,32 @@
+{
+  "word": "electronic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "electronic mail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24232.png",
+      "local_image_path": "images/24232.png"
+    }
+  ],
+  "synonyms": [
+    "electric",
+    "electrical",
+    "automatic"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "electronic banking",
+    "electronic cash",
+    "electronic money",
+    "electronic organiser",
+    "electronic payment system",
+    "electronic publishing",
+    "electronic ticketing",
+    "electronically",
+    "electronics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/electronic.mp3",
+  "local_sound_path": "sounds/electronic.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "residue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72696.png",
+      "local_image_path": "images/72696.png"
+    },
+    {
+      "pos": "n",
+      "example": "residue of funds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72697.png",
+      "local_image_path": "images/72697.png"
+    },
+    {
+      "pos": "n",
+      "example": "chemical residue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72698.png",
+      "local_image_path": "images/72698.png"
+    }
+  ],
+  "synonyms": [
+    "remains",
+    "remainder",
+    "rest",
+    "deposit",
+    "scum",
+    "dregs",
+    "filtrate",
+    "excess",
+    "lees"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/residue.mp3",
+  "local_sound_path": "sounds/residue.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "assassinate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5854.png",
+      "local_image_path": "images/5854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114122.png",
+      "local_image_path": "images/114122.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114123.png",
+      "local_image_path": "images/114123.png"
+    }
+  ],
+  "synonyms": [
+    "kill",
+    "murder",
+    "slay",
+    "shoot",
+    "gun down",
+    "eliminate",
+    "liquidate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assassinate.mp3",
+  "local_sound_path": "sounds/assassinate.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "deteriorate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20992.png",
+      "local_image_path": "images/20992.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118188.png",
+      "local_image_path": "images/118188.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The descussion deteriorated into a bitter qaurrel.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20993.png",
+      "local_image_path": "images/20993.png"
+    }
+  ],
+  "synonyms": [
+    "worsen",
+    "decline",
+    "depreciate",
+    "weaken",
+    "wane",
+    "fail",
+    "fade"
+  ],
+  "antonyms": [
+    "improve"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deteriorate.mp3",
+  "local_sound_path": "sounds/deteriorate.mp3"
+}

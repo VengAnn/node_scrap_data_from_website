@@ -1,0 +1,34 @@
+{
+  "word": "academy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "academy of arts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1759.png",
+      "local_image_path": "images/1759.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113109.png",
+      "local_image_path": "images/113109.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113110.png",
+      "local_image_path": "images/113110.png"
+    }
+  ],
+  "synonyms": [
+    "school",
+    "college",
+    "conservatory"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/academy.mp3",
+  "local_sound_path": "sounds/academy.mp3"
+}

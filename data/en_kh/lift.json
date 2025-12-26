@@ -1,0 +1,98 @@
+{
+  "word": "lift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46407.png",
+      "local_image_path": "images/46407.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46408.png",
+      "local_image_path": "images/46408.png"
+    },
+    {
+      "pos": "n",
+      "example": "lift of the hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46409.png",
+      "local_image_path": "images/46409.png"
+    },
+    {
+      "pos": "n",
+      "example": "lift for their spirits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46410.png",
+      "local_image_path": "images/46410.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46411.png",
+      "local_image_path": "images/46411.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lift a rock/ a foot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46400.png",
+      "local_image_path": "images/46400.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46401.png",
+      "local_image_path": "images/46401.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lift the head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46402.png",
+      "local_image_path": "images/46402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lift the spirits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46403.png",
+      "local_image_path": "images/46403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46404.png",
+      "local_image_path": "images/46404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46405.png",
+      "local_image_path": "images/46405.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46406.png",
+      "local_image_path": "images/46406.png"
+    }
+  ],
+  "synonyms": [
+    "lighten",
+    "raise",
+    "brighten",
+    "elate",
+    "uplift"
+  ],
+  "antonyms": [
+    "impose"
+  ],
+  "similar_words": [
+    "lift off",
+    "liftable",
+    "liftboy",
+    "lifter",
+    "lifting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lift.mp3",
+  "local_sound_path": "sounds/lift.mp3"
+}

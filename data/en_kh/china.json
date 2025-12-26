@@ -1,0 +1,28 @@
+{
+  "word": "China",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I live in Chana",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14208.png",
+      "local_image_path": "images/14208.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14209.png",
+      "local_image_path": "images/14209.png"
+    }
+  ],
+  "synonyms": [
+    "porcelain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "china rose",
+    "Chinaman",
+    "chinaware"
+  ],
+  "sound": null
+}

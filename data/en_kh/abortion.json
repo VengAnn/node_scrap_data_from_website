@@ -1,0 +1,33 @@
+{
+  "word": "abortion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "abortion of a plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1517.png",
+      "local_image_path": "images/1517.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111839.png",
+      "local_image_path": "images/111839.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113037.png",
+      "local_image_path": "images/113037.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "abortional",
+    "abortionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abortion.mp3",
+  "local_sound_path": "sounds/abortion.mp3"
+}

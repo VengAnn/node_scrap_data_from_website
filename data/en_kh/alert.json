@@ -1,0 +1,59 @@
+{
+  "word": "alert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "alert driver",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3300.png",
+      "local_image_path": "images/3300.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113500.png",
+      "local_image_path": "images/113500.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113501.png",
+      "local_image_path": "images/113501.png"
+    },
+    {
+      "pos": "n",
+      "example": "put the troops on alert",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3302.png",
+      "local_image_path": "images/3302.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113502.png",
+      "local_image_path": "images/113502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "alert sb to sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3301.png",
+      "local_image_path": "images/3301.png"
+    }
+  ],
+  "synonyms": [
+    "warn",
+    "forewarn",
+    "notify",
+    "tell",
+    "inform"
+  ],
+  "antonyms": [
+    "unprepared"
+  ],
+  "similar_words": [
+    "alertly",
+    "alertness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alert.mp3",
+  "local_sound_path": "sounds/alert.mp3"
+}

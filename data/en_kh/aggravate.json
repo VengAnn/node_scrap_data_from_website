@@ -1,0 +1,50 @@
+{
+  "word": "aggravate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "aggravate the situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2918.png",
+      "local_image_path": "images/2918.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112296.png",
+      "local_image_path": "images/112296.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2919.png",
+      "local_image_path": "images/2919.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113417.png",
+      "local_image_path": "images/113417.png"
+    }
+  ],
+  "synonyms": [
+    "annoy",
+    "irritate",
+    "exasperate",
+    "provoke",
+    "pester",
+    "frustrate",
+    "ignite",
+    "vex"
+  ],
+  "antonyms": [
+    "alleviate",
+    "soothe"
+  ],
+  "similar_words": [
+    "aggravated assault"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aggravate.mp3",
+  "local_sound_path": "sounds/aggravate.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "aptitude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5215.png",
+      "local_image_path": "images/5215.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113920.png",
+      "local_image_path": "images/113920.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113921.png",
+      "local_image_path": "images/113921.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113922.png",
+      "local_image_path": "images/113922.png"
+    }
+  ],
+  "synonyms": [
+    "ability",
+    "skill",
+    "talent",
+    "gift",
+    "capacity",
+    "fitness",
+    "propensity"
+  ],
+  "antonyms": [
+    "inability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aptitude.mp3",
+  "local_sound_path": "sounds/aptitude.mp3"
+}

@@ -1,0 +1,80 @@
+{
+  "word": "sing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80313.png",
+      "local_image_path": "images/80313.png"
+    },
+    {
+      "pos": "iv",
+      "example": "birds sing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80314.png",
+      "local_image_path": "images/80314.png"
+    },
+    {
+      "pos": "n",
+      "example": "hold a sing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80315.png",
+      "local_image_path": "images/80315.png"
+    },
+    {
+      "pos": "n",
+      "example": "radio has a sing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80316.png",
+      "local_image_path": "images/80316.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sing a song",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80311.png",
+      "local_image_path": "images/80311.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80312.png",
+      "local_image_path": "images/80312.png"
+    }
+  ],
+  "synonyms": [
+    "resonate",
+    "buzz",
+    "hum",
+    "purr",
+    "vibrate",
+    "reverberate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "singable",
+    "Singapore",
+    "singe",
+    "singer",
+    "singeress",
+    "singing",
+    "singing frog",
+    "singing woman",
+    "singing-master",
+    "single",
+    "single bar",
+    "single sit",
+    "single supplement",
+    "single-acting",
+    "single-barrelled",
+    "single-blade",
+    "single-block",
+    "single-breasted",
+    "single-cable",
+    "single-capstan",
+    "single-celled",
+    "single-channel",
+    "single-circuit",
+    "single-coloured"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sing.mp3",
+  "local_sound_path": "sounds/sing.mp3"
+}

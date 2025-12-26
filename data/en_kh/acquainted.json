@@ -1,0 +1,32 @@
+{
+  "word": "acquainted",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I have often heard of Mr. Salat but I'm not acquainted with him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2126.png",
+      "local_image_path": "images/2126.png"
+    },
+    {
+      "pos": "adj",
+      "example": "acquainted with the case",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2130.png",
+      "local_image_path": "images/2130.png"
+    }
+  ],
+  "synonyms": [
+    "familiar",
+    "aware",
+    "informed",
+    "told",
+    "accustomed"
+  ],
+  "antonyms": [
+    "unfamiliar"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acquainted.mp3",
+  "local_sound_path": "sounds/acquainted.mp3"
+}

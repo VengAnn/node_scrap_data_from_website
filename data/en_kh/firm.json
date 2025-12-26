@@ -1,0 +1,74 @@
+{
+  "word": "firm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The baby is not very firm on its legs yet.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28680.png",
+      "local_image_path": "images/28680.png"
+    },
+    {
+      "pos": "adj",
+      "example": "firm voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28681.png",
+      "local_image_path": "images/28681.png"
+    },
+    {
+      "pos": "adj",
+      "example": "firm bracket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28682.png",
+      "local_image_path": "images/28682.png"
+    },
+    {
+      "pos": "adv",
+      "example": "stand firm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28684.png",
+      "local_image_path": "images/28684.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120167.png",
+      "local_image_path": "images/120167.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28687.png",
+      "local_image_path": "images/28687.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28683.png",
+      "local_image_path": "images/28683.png"
+    }
+  ],
+  "synonyms": [
+    "set",
+    "harden",
+    "stiffen",
+    "solidify",
+    "compress",
+    "tamp",
+    "compact"
+  ],
+  "antonyms": [
+    "soft",
+    "uncertain",
+    "unstable",
+    "irresolute",
+    "unsure",
+    "soften",
+    "instable"
+  ],
+  "similar_words": [
+    "firmament",
+    "firmly",
+    "firmness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/firm.mp3",
+  "local_sound_path": "sounds/firm.mp3"
+}

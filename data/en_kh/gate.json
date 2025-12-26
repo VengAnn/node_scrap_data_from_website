@@ -1,0 +1,49 @@
+{
+  "word": "gate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden gate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31191.png",
+      "local_image_path": "images/31191.png"
+    },
+    {
+      "pos": "n",
+      "example": "gate of the city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31192.png",
+      "local_image_path": "images/31192.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31193.png",
+      "local_image_path": "images/31193.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31194.png",
+      "local_image_path": "images/31194.png"
+    }
+  ],
+  "synonyms": [
+    "take",
+    "proceeds",
+    "revenue",
+    "takings"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "gate money",
+    "gate-crasher",
+    "gate-keeper",
+    "gate-post",
+    "gatehouse",
+    "gateless",
+    "gateway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gate.mp3",
+  "local_sound_path": "sounds/gate.mp3"
+}

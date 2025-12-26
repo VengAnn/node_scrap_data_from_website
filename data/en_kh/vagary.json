@@ -1,0 +1,36 @@
+{
+  "word": "vagary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a vagary of his imagination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97062.png",
+      "local_image_path": "images/97062.png"
+    },
+    {
+      "pos": "n",
+      "example": "the vagary of life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97063.png",
+      "local_image_path": "images/97063.png"
+    }
+  ],
+  "synonyms": [
+    "whim",
+    "fancy",
+    "notion",
+    "mood",
+    "quirk",
+    "whimsy",
+    "caprice",
+    "impulse",
+    "fad"
+  ],
+  "antonyms": [
+    "choice"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vagary.mp3",
+  "local_sound_path": "sounds/vagary.mp3"
+}

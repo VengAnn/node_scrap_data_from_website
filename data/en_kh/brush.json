@@ -1,0 +1,82 @@
+{
+  "word": "brush",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "brush up on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11556.png",
+      "local_image_path": "images/11556.png"
+    },
+    {
+      "pos": "n",
+      "example": "artist's brush",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11553.png",
+      "local_image_path": "images/11553.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11554.png",
+      "local_image_path": "images/11554.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115722.png",
+      "local_image_path": "images/115722.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115723.png",
+      "local_image_path": "images/115723.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115724.png",
+      "local_image_path": "images/115724.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115725.png",
+      "local_image_path": "images/115725.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130031.png",
+      "local_image_path": "images/130031.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he is brushing his horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11555.png",
+      "local_image_path": "images/11555.png"
+    }
+  ],
+  "synonyms": [
+    "touch",
+    "graze",
+    "scrape",
+    "sweep",
+    "stroke",
+    "skim",
+    "contact"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brush fire",
+    "brush up",
+    "brush-off",
+    "brushed",
+    "brushwood",
+    "brushwork",
+    "brushy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brush.mp3",
+  "local_sound_path": "sounds/brush.mp3"
+}

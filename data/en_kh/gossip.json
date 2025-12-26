@@ -1,0 +1,48 @@
+{
+  "word": "gossip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32390.png",
+      "local_image_path": "images/32390.png"
+    },
+    {
+      "pos": "n",
+      "example": "spread gossip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32387.png",
+      "local_image_path": "images/32387.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32388.png",
+      "local_image_path": "images/32388.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32389.png",
+      "local_image_path": "images/32389.png"
+    }
+  ],
+  "synonyms": [
+    "chat",
+    "talk",
+    "natter",
+    "blather",
+    "chatter",
+    "converse"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "gossiper",
+    "gossipmonger",
+    "gossipry",
+    "gossipy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gossip.mp3",
+  "local_sound_path": "sounds/gossip.mp3"
+}

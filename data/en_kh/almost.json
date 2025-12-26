@@ -1,0 +1,27 @@
+{
+  "word": "almost",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "almost dead",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3586.png",
+      "local_image_path": "images/3586.png"
+    }
+  ],
+  "synonyms": [
+    "nearly",
+    "virtually",
+    "practically",
+    "approximately",
+    "roughly",
+    "about"
+  ],
+  "antonyms": [
+    "exactly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/almost.mp3",
+  "local_sound_path": "sounds/almost.mp3"
+}

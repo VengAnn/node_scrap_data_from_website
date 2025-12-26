@@ -1,0 +1,32 @@
+{
+  "word": "custody",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "When his parents died, he was place in the custody of his aunt.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19265.png",
+      "local_image_path": "images/19265.png"
+    },
+    {
+      "pos": "n",
+      "example": "in the custody of the police",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19266.png",
+      "local_image_path": "images/19266.png"
+    }
+  ],
+  "synonyms": [
+    "detention",
+    "arrest",
+    "confinement",
+    "imprisonment",
+    "incarceration"
+  ],
+  "antonyms": [
+    "liberty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/custody.mp3",
+  "local_sound_path": "sounds/custody.mp3"
+}

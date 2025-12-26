@@ -1,0 +1,28 @@
+{
+  "word": "singing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80323.png",
+      "local_image_path": "images/80323.png"
+    }
+  ],
+  "synonyms": [
+    "live",
+    "playing",
+    "humming"
+  ],
+  "antonyms": [
+    "instrumental"
+  ],
+  "similar_words": [
+    "singing frog",
+    "singing woman",
+    "singing-master"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/singing.mp3",
+  "local_sound_path": "sounds/singing.mp3"
+}

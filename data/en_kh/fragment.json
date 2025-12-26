@@ -1,0 +1,48 @@
+{
+  "word": "fragment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "fragment of rock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30061.png",
+      "local_image_path": "images/30061.png"
+    },
+    {
+      "pos": "n",
+      "example": "fragment of a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30062.png",
+      "local_image_path": "images/30062.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30063.png",
+      "local_image_path": "images/30063.png"
+    }
+  ],
+  "synonyms": [
+    "break",
+    "divide",
+    "disintegrate",
+    "shatter",
+    "split",
+    "crumble",
+    "destroy"
+  ],
+  "antonyms": [
+    "whole",
+    "fuse"
+  ],
+  "similar_words": [
+    "fragmental",
+    "fragmentarily",
+    "fragmentariness",
+    "fragmentary",
+    "fragmentation",
+    "fragmentize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fragment.mp3",
+  "local_sound_path": "sounds/fragment.mp3"
+}

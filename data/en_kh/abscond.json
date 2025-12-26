@@ -1,0 +1,24 @@
+{
+  "word": "abscond",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "he absconds from the country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1597.png",
+      "local_image_path": "images/1597.png"
+    }
+  ],
+  "synonyms": [
+    "escape",
+    "flee"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "abscondence",
+    "absconder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abscond.mp3",
+  "local_sound_path": "sounds/abscond.mp3"
+}

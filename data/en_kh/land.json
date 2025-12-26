@@ -1,0 +1,110 @@
+{
+  "word": "land",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44710.png",
+      "local_image_path": "images/44710.png"
+    },
+    {
+      "pos": "iv",
+      "example": "planes land",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44711.png",
+      "local_image_path": "images/44711.png"
+    },
+    {
+      "pos": "iv",
+      "example": "How did you land here?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44712.png",
+      "local_image_path": "images/44712.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44706.png",
+      "local_image_path": "images/44706.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44707.png",
+      "local_image_path": "images/44707.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44708.png",
+      "local_image_path": "images/44708.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44709.png",
+      "local_image_path": "images/44709.png"
+    },
+    {
+      "pos": "tv",
+      "example": "land a plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44713.png",
+      "local_image_path": "images/44713.png"
+    },
+    {
+      "pos": "tv",
+      "example": "land a job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44714.png",
+      "local_image_path": "images/44714.png"
+    }
+  ],
+  "synonyms": [
+    "terrestrial",
+    "acquire",
+    "get",
+    "catch",
+    "win",
+    "secure",
+    "gain",
+    "obtain",
+    "annex",
+    "procure"
+  ],
+  "antonyms": [
+    "sea",
+    "lose",
+    "aquatic"
+  ],
+  "similar_words": [
+    "land bank",
+    "land breds",
+    "land breeze",
+    "land certificate",
+    "land holder",
+    "land measures",
+    "land mere",
+    "land mine",
+    "land office",
+    "land operator",
+    "land power",
+    "land revenue",
+    "land tax",
+    "land-poor",
+    "land-slip",
+    "landau",
+    "landaulet",
+    "landbroker",
+    "landed",
+    "lander",
+    "landfall",
+    "landfast",
+    "landfill",
+    "landflood",
+    "landfolk",
+    "landforce",
+    "landgate",
+    "landgavel"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/land.mp3",
+  "local_sound_path": "sounds/land.mp3"
+}

@@ -1,0 +1,90 @@
+{
+  "word": "plump",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64339.png",
+      "local_image_path": "images/64339.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64347.png",
+      "local_image_path": "images/64347.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64346.png",
+      "local_image_path": "images/64346.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64348.png",
+      "local_image_path": "images/64348.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64345.png",
+      "local_image_path": "images/64345.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64342.png",
+      "local_image_path": "images/64342.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64343.png",
+      "local_image_path": "images/64343.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64344.png",
+      "local_image_path": "images/64344.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125641.png",
+      "local_image_path": "images/125641.png"
+    }
+  ],
+  "synonyms": [
+    "fat",
+    "fleshy",
+    "overweight",
+    "round",
+    "flabby",
+    "chubby",
+    "stout",
+    "obese",
+    "drop",
+    "flop",
+    "fall",
+    "collapse",
+    "stand up"
+  ],
+  "antonyms": [
+    "slim",
+    "slender"
+  ],
+  "similar_words": [
+    "plumper",
+    "plumpish",
+    "plumpishly",
+    "plumply",
+    "plumpness",
+    "plumpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plump.mp3",
+  "local_sound_path": "sounds/plump.mp3"
+}

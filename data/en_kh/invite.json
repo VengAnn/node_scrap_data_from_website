@@ -1,0 +1,86 @@
+{
+  "word": "invite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I will invite some of my friends.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42067.png",
+      "local_image_path": "images/42067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She should invite some donation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42068.png",
+      "local_image_path": "images/42068.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42069.png",
+      "local_image_path": "images/42069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122917.png",
+      "local_image_path": "images/122917.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122918.png",
+      "local_image_path": "images/122918.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122919.png",
+      "local_image_path": "images/122919.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122920.png",
+      "local_image_path": "images/122920.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122921.png",
+      "local_image_path": "images/122921.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122922.png",
+      "local_image_path": "images/122922.png"
+    }
+  ],
+  "synonyms": [
+    "invitation",
+    "request",
+    "call",
+    "summons",
+    "tempt",
+    "encourage",
+    "attract",
+    "provoke",
+    "induce",
+    "incite",
+    "lure",
+    "welcome"
+  ],
+  "antonyms": [
+    "blackball",
+    "forbid"
+  ],
+  "similar_words": [
+    "invitee",
+    "invitement",
+    "inviter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/invite.mp3",
+  "local_sound_path": "sounds/invite.mp3"
+}

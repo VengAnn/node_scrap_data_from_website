@@ -1,0 +1,49 @@
+{
+  "word": "planetary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63835.png",
+      "local_image_path": "images/63835.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63836.png",
+      "local_image_path": "images/63836.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125583.png",
+      "local_image_path": "images/125583.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125584.png",
+      "local_image_path": "images/125584.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125585.png",
+      "local_image_path": "images/125585.png"
+    }
+  ],
+  "synonyms": [
+    "terrestrial",
+    "earthly",
+    "environmental",
+    "global",
+    "universal",
+    "world"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/planetary.mp3",
+  "local_sound_path": "sounds/planetary.mp3"
+}

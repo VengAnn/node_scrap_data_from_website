@@ -1,0 +1,48 @@
+{
+  "word": "search",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "search for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77460.png",
+      "local_image_path": "images/77460.png"
+    },
+    {
+      "pos": "n",
+      "example": "conduct a search",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77461.png",
+      "local_image_path": "images/77461.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The police searched the city for the thief.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77459.png",
+      "local_image_path": "images/77459.png"
+    }
+  ],
+  "synonyms": [
+    "hunt",
+    "exploration",
+    "examination",
+    "pursuit",
+    "quest",
+    "examine",
+    "rifle",
+    "comb",
+    "investigate",
+    "explore",
+    "rummage",
+    "seek"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "searcher",
+    "searching",
+    "searchingly",
+    "searchlight"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/search.mp3",
+  "local_sound_path": "sounds/search.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "cheers",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "inter",
+      "example": "​​​ហហហ",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14028.png",
+      "local_image_path": "images/14028.png"
+    },
+    {
+      "pos": "inter",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130984.png",
+      "local_image_path": "images/130984.png"
+    }
+  ],
+  "synonyms": [
+    "applause",
+    "cheering",
+    "ovation",
+    "roar"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cheers.mp3",
+  "local_sound_path": "sounds/cheers.mp3"
+}

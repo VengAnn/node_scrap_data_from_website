@@ -1,0 +1,40 @@
+{
+  "word": "venomous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "venomous fangs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97531.png",
+      "local_image_path": "images/97531.png"
+    },
+    {
+      "pos": "fig",
+      "example": "venomous attack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97532.png",
+      "local_image_path": "images/97532.png"
+    }
+  ],
+  "synonyms": [
+    "malicious",
+    "spiteful",
+    "virulent",
+    "rancorous",
+    "vituperative",
+    "malevolent",
+    "cruel",
+    "bitter"
+  ],
+  "antonyms": [
+    "harmless",
+    "loving",
+    "anodyne"
+  ],
+  "similar_words": [
+    "venomously",
+    "venomousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/venomous.mp3",
+  "local_sound_path": "sounds/venomous.mp3"
+}

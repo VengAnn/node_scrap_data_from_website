@@ -1,0 +1,61 @@
+{
+  "word": "pardon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60086.png",
+      "local_image_path": "images/60086.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60084.png",
+      "local_image_path": "images/60084.png"
+    },
+    {
+      "pos": "n",
+      "example": "grant a pardon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60085.png",
+      "local_image_path": "images/60085.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60081.png",
+      "local_image_path": "images/60081.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pardon a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60082.png",
+      "local_image_path": "images/60082.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pardon his faults",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60083.png",
+      "local_image_path": "images/60083.png"
+    }
+  ],
+  "synonyms": [
+    "excuse",
+    "forgive",
+    "overlook",
+    "ignore"
+  ],
+  "antonyms": [
+    "condemn",
+    "resent"
+  ],
+  "similar_words": [
+    "pardonable",
+    "pardonableness",
+    "pardonably",
+    "pardoner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pardon.mp3",
+  "local_sound_path": "sounds/pardon.mp3"
+}

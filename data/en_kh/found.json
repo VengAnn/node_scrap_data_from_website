@@ -1,0 +1,54 @@
+{
+  "word": "found",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word find",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29987.png",
+      "local_image_path": "images/29987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "found a college",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29984.png",
+      "local_image_path": "images/29984.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29985.png",
+      "local_image_path": "images/29985.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29986.png",
+      "local_image_path": "images/29986.png"
+    }
+  ],
+  "synonyms": [
+    "establish",
+    "originate",
+    "create",
+    "start",
+    "institute",
+    "initiate",
+    "learned",
+    "learnt"
+  ],
+  "antonyms": [
+    "close",
+    "lost"
+  ],
+  "similar_words": [
+    "foundation",
+    "founder",
+    "foundling",
+    "foundling hospital",
+    "foundry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/found.mp3",
+  "local_sound_path": "sounds/found.mp3"
+}

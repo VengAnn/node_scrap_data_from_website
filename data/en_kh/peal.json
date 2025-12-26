@@ -1,0 +1,51 @@
+{
+  "word": "peal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bells peal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60937.png",
+      "local_image_path": "images/60937.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60938.png",
+      "local_image_path": "images/60938.png"
+    },
+    {
+      "pos": "n",
+      "example": "peal of a bell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60939.png",
+      "local_image_path": "images/60939.png"
+    },
+    {
+      "pos": "n",
+      "example": "a peal of thunder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60940.png",
+      "local_image_path": "images/60940.png"
+    },
+    {
+      "pos": "tv",
+      "example": "peal the bells",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60936.png",
+      "local_image_path": "images/60936.png"
+    }
+  ],
+  "synonyms": [
+    "ring",
+    "toll",
+    "clang",
+    "sound",
+    "resonate",
+    "boom",
+    "bong",
+    "knell"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/peal.mp3",
+  "local_sound_path": "sounds/peal.mp3"
+}

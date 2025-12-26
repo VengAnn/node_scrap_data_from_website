@@ -1,0 +1,59 @@
+{
+  "word": "win",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "win a war",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100363.png",
+      "local_image_path": "images/100363.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100364.png",
+      "local_image_path": "images/100364.png"
+    }
+  ],
+  "synonyms": [
+    "gain",
+    "earn",
+    "secure",
+    "attain",
+    "collect",
+    "accomplish",
+    "acquire",
+    "succeed",
+    "triumph",
+    "prevail"
+  ],
+  "antonyms": [
+    "lose",
+    "defeat"
+  ],
+  "similar_words": [
+    "win approval",
+    "win back",
+    "wince",
+    "wincey",
+    "winceyette",
+    "winch",
+    "wind",
+    "wind down",
+    "wind off",
+    "wind shaken",
+    "wind-bound",
+    "wind-driven",
+    "wind-flower",
+    "wind-gauge",
+    "wind-instrument",
+    "wind-jammer",
+    "wind-rose",
+    "wind-screen",
+    "wind-shake",
+    "wind-tight"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/win.mp3",
+  "local_sound_path": "sounds/win.mp3"
+}

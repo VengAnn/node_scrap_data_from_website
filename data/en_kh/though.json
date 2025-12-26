@@ -1,0 +1,46 @@
+{
+  "word": "though",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "He said he would come, he didn't, although.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89039.png",
+      "local_image_path": "images/89039.png"
+    },
+    {
+      "pos": "conj",
+      "example": "Though they are so poor, they have enough to eat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89037.png",
+      "local_image_path": "images/89037.png"
+    },
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89038.png",
+      "local_image_path": "images/89038.png"
+    }
+  ],
+  "synonyms": [
+    "however",
+    "nevertheless",
+    "nonetheless",
+    "still",
+    "although",
+    "while"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "thought",
+    "thought-provoking",
+    "thoughtful",
+    "thoughtfully",
+    "thoughtfulness",
+    "thoughtless",
+    "thoughtlessly",
+    "thoughtlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/though.mp3",
+  "local_sound_path": "sounds/though.mp3"
+}

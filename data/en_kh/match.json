@@ -1,0 +1,95 @@
+{
+  "word": "match",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Shoes don't match",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106693.png",
+      "local_image_path": "images/106693.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106685.png",
+      "local_image_path": "images/106685.png"
+    },
+    {
+      "pos": "n",
+      "example": "wrestling match",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106686.png",
+      "local_image_path": "images/106686.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106687.png",
+      "local_image_path": "images/106687.png"
+    },
+    {
+      "pos": "n",
+      "example": "match between two colors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106688.png",
+      "local_image_path": "images/106688.png"
+    },
+    {
+      "pos": "n",
+      "example": "marital match",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106689.png",
+      "local_image_path": "images/106689.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106690.png",
+      "local_image_path": "images/106690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "match colors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106691.png",
+      "local_image_path": "images/106691.png"
+    },
+    {
+      "pos": "tv",
+      "example": "match a boy and a girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106692.png",
+      "local_image_path": "images/106692.png"
+    }
+  ],
+  "synonyms": [
+    "correspond",
+    "tally",
+    "fit",
+    "equal",
+    "meet",
+    "attain",
+    "reach"
+  ],
+  "antonyms": [
+    "clash",
+    "differ"
+  ],
+  "similar_words": [
+    "match-stick",
+    "match-wood",
+    "matchable",
+    "matchableness",
+    "matchably",
+    "matchbook",
+    "matchbox",
+    "matchcoat",
+    "matcher",
+    "matchet",
+    "matchless",
+    "matchlessly",
+    "matchlessness",
+    "matchlock",
+    "matchmaker",
+    "matchmaking",
+    "matchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/match.mp3",
+  "local_sound_path": "sounds/match.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "liquor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46908.png",
+      "local_image_path": "images/46908.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46909.png",
+      "local_image_path": "images/46909.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123573.png",
+      "local_image_path": "images/123573.png"
+    }
+  ],
+  "synonyms": [
+    "liquid",
+    "fluid",
+    "juice",
+    "solution"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "liquorer",
+    "liquorice",
+    "liquorish",
+    "liquorist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liquor.mp3",
+  "local_sound_path": "sounds/liquor.mp3"
+}

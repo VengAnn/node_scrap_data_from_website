@@ -1,0 +1,79 @@
+{
+  "word": "blue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "blue sky",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9778.png",
+      "local_image_path": "images/9778.png"
+    },
+    {
+      "pos": "adj",
+      "example": "he feels blue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131268.png",
+      "local_image_path": "images/131268.png"
+    },
+    {
+      "pos": "n",
+      "example": "I like the blue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9779.png",
+      "local_image_path": "images/9779.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9780.png",
+      "local_image_path": "images/9780.png"
+    }
+  ],
+  "synonyms": [
+    "depressed",
+    "down",
+    "sad",
+    "low",
+    "dejected",
+    "melancholy",
+    "unhappy",
+    "desolate",
+    "wretched",
+    "downcast"
+  ],
+  "antonyms": [
+    "happy"
+  ],
+  "similar_words": [
+    "blue baby",
+    "blue bird",
+    "blue black",
+    "blue blood",
+    "blue blooded",
+    "blue bonnet",
+    "blue book",
+    "blue devils",
+    "blue fox",
+    "blue grouse",
+    "blue gum",
+    "blue jacket",
+    "blue ribbon",
+    "blue ribbon jury",
+    "blue sky laws",
+    "blue tooth",
+    "blue-bell",
+    "blue-collar",
+    "blue-nose",
+    "blue-pencil",
+    "blue-peter",
+    "blue-plate",
+    "blueberry",
+    "bluebottle",
+    "bluecoat",
+    "bluefly",
+    "bluegill",
+    "bluegrass",
+    "bluehead"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blue.mp3",
+  "local_sound_path": "sounds/blue.mp3"
+}

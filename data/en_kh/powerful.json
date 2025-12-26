@@ -1,0 +1,48 @@
+{
+  "word": "powerful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "powerful machine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65744.png",
+      "local_image_path": "images/65744.png"
+    },
+    {
+      "pos": "adj",
+      "example": "powerful official",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65745.png",
+      "local_image_path": "images/65745.png"
+    },
+    {
+      "pos": "adj",
+      "example": "powerful speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65746.png",
+      "local_image_path": "images/65746.png"
+    }
+  ],
+  "synonyms": [
+    "able",
+    "athletic",
+    "good",
+    "strong",
+    "energetic",
+    "vigorous",
+    "impressive"
+  ],
+  "antonyms": [
+    "insignificant",
+    "weak",
+    "faint",
+    "powerless",
+    "impotent",
+    "unimpressive"
+  ],
+  "similar_words": [
+    "powerfully",
+    "powerfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/powerful.mp3",
+  "local_sound_path": "sounds/powerful.mp3"
+}

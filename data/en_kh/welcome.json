@@ -1,0 +1,50 @@
+{
+  "word": "welcome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "You are welcomed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99696.png",
+      "local_image_path": "images/99696.png"
+    },
+    {
+      "pos": "n",
+      "example": "We received a warm welcome.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99698.png",
+      "local_image_path": "images/99698.png"
+    },
+    {
+      "pos": "tv",
+      "example": "welcome the guests",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99697.png",
+      "local_image_path": "images/99697.png"
+    }
+  ],
+  "synonyms": [
+    "longed-for",
+    "refreshing",
+    "delightful",
+    "pleasing",
+    "pleasant",
+    "acceptable",
+    "accept",
+    "appreciate",
+    "embrace"
+  ],
+  "antonyms": [
+    "unwelcome",
+    "untimely",
+    "farewell",
+    "snub",
+    "reject"
+  ],
+  "similar_words": [
+    "welcomely",
+    "welcomeness",
+    "welcomer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/welcome.mp3",
+  "local_sound_path": "sounds/welcome.mp3"
+}

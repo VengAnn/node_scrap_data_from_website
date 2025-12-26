@@ -1,0 +1,49 @@
+{
+  "word": "aimless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3089.png",
+      "local_image_path": "images/3089.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113467.png",
+      "local_image_path": "images/113467.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113468.png",
+      "local_image_path": "images/113468.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113469.png",
+      "local_image_path": "images/113469.png"
+    }
+  ],
+  "synonyms": [
+    "pointless",
+    "meaningless",
+    "useless",
+    "worthless",
+    "purposeless",
+    "directionless",
+    "uselessness"
+  ],
+  "antonyms": [
+    "purposeful"
+  ],
+  "similar_words": [
+    "aimlessly",
+    "aimlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aimless.mp3",
+  "local_sound_path": "sounds/aimless.mp3"
+}

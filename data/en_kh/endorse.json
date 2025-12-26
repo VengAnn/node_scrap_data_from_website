@@ -1,0 +1,45 @@
+{
+  "word": "endorse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I'm afraid I can't endorse your opinion of the government's \n\nrecord.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24918.png",
+      "local_image_path": "images/24918.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24919.png",
+      "local_image_path": "images/24919.png"
+    },
+    {
+      "pos": "tv",
+      "example": "endorse a check",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24920.png",
+      "local_image_path": "images/24920.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "sanction",
+    "approve",
+    "back",
+    "advocate",
+    "favor",
+    "ratify"
+  ],
+  "antonyms": [
+    "reject",
+    "denounce"
+  ],
+  "similar_words": [
+    "endorsee",
+    "endorsement",
+    "endorser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endorse.mp3",
+  "local_sound_path": "sounds/endorse.mp3"
+}

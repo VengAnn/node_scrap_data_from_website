@@ -1,0 +1,63 @@
+{
+  "word": "doctor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "medical doctor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22530.png",
+      "local_image_path": "images/22530.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118715.png",
+      "local_image_path": "images/118715.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118716.png",
+      "local_image_path": "images/118716.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118717.png",
+      "local_image_path": "images/118717.png"
+    },
+    {
+      "pos": "tv",
+      "example": "doctor a patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22531.png",
+      "local_image_path": "images/22531.png"
+    },
+    {
+      "pos": "tv",
+      "example": "doctor the evidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22532.png",
+      "local_image_path": "images/22532.png"
+    }
+  ],
+  "synonyms": [
+    "physician",
+    "surgeon",
+    "modify",
+    "adjust",
+    "amend",
+    "rework",
+    "fix",
+    "falsify",
+    "change",
+    "alter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "doctoral",
+    "doctorate",
+    "doctorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doctor.mp3",
+  "local_sound_path": "sounds/doctor.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "alive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "who's the greatest writer alive?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3398.png",
+      "local_image_path": "images/3398.png"
+    }
+  ],
+  "synonyms": [
+    "thriving",
+    "active",
+    "successful",
+    "blooming",
+    "booming",
+    "lively",
+    "energetic",
+    "busy",
+    "perky",
+    "vibrant",
+    "vivacious",
+    "animated"
+  ],
+  "antonyms": [
+    "dead",
+    "inactive",
+    "failing",
+    "quiet",
+    "unaware"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alive.mp3",
+  "local_sound_path": "sounds/alive.mp3"
+}

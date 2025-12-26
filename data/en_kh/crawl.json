@@ -1,0 +1,35 @@
+{
+  "word": "crawl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "A baby crawls before it can walk.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18438.png",
+      "local_image_path": "images/18438.png"
+    },
+    {
+      "pos": "n",
+      "example": "crawl of a snake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18439.png",
+      "local_image_path": "images/18439.png"
+    }
+  ],
+  "synonyms": [
+    "apologize",
+    "grovel",
+    "flatter",
+    "creep"
+  ],
+  "antonyms": [
+    "speed",
+    "alienate"
+  ],
+  "similar_words": [
+    "crawler",
+    "crawly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crawl.mp3",
+  "local_sound_path": "sounds/crawl.mp3"
+}

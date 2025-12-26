@@ -1,0 +1,49 @@
+{
+  "word": "height",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "height of a building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34480.png",
+      "local_image_path": "images/34480.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34481.png",
+      "local_image_path": "images/34481.png"
+    },
+    {
+      "pos": "n",
+      "example": "at the height of his career",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34482.png",
+      "local_image_path": "images/34482.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34483.png",
+      "local_image_path": "images/34483.png"
+    }
+  ],
+  "synonyms": [
+    "pinnacle",
+    "summit",
+    "peak",
+    "top",
+    "apex",
+    "acme",
+    "zenith"
+  ],
+  "antonyms": [
+    "depth",
+    "nadir"
+  ],
+  "similar_words": [
+    "heighten"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/height.mp3",
+  "local_sound_path": "sounds/height.mp3"
+}

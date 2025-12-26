@@ -1,0 +1,67 @@
+{
+  "word": "awkward",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "awkward gesture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6798.png",
+      "local_image_path": "images/6798.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112951.png",
+      "local_image_path": "images/112951.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112952.png",
+      "local_image_path": "images/112952.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112953.png",
+      "local_image_path": "images/112953.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112954.png",
+      "local_image_path": "images/112954.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112955.png",
+      "local_image_path": "images/112955.png"
+    }
+  ],
+  "synonyms": [
+    "tricky",
+    "problematic",
+    "difficult",
+    "knotty",
+    "thorny",
+    "complex",
+    "embarrassing"
+  ],
+  "antonyms": [
+    "relaxed",
+    "graceful",
+    "compact",
+    "straightforward",
+    "cooperative",
+    "comfortable"
+  ],
+  "similar_words": [
+    "awkwardish",
+    "awkwardly",
+    "awkwardness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/awkward.mp3",
+  "local_sound_path": "sounds/awkward.mp3"
+}

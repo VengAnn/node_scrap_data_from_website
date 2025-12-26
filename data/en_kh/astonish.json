@@ -1,0 +1,50 @@
+{
+  "word": "astonish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6029.png",
+      "local_image_path": "images/6029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112815.png",
+      "local_image_path": "images/112815.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112816.png",
+      "local_image_path": "images/112816.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112817.png",
+      "local_image_path": "images/112817.png"
+    }
+  ],
+  "synonyms": [
+    "surprise",
+    "amaze",
+    "astound",
+    "dumbfound",
+    "flabbergast",
+    "overwhelm",
+    "daze",
+    "shock"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "astonished",
+    "astonishing",
+    "astonishingly",
+    "astonishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astonish.mp3",
+  "local_sound_path": "sounds/astonish.mp3"
+}

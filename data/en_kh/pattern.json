@@ -1,0 +1,48 @@
+{
+  "word": "pattern",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "facts don't pattern",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60742.png",
+      "local_image_path": "images/60742.png"
+    },
+    {
+      "pos": "n",
+      "example": "dress pattern",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60740.png",
+      "local_image_path": "images/60740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pattern one's conduct after",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60741.png",
+      "local_image_path": "images/60741.png"
+    }
+  ],
+  "synonyms": [
+    "configuration",
+    "design",
+    "arrangement",
+    "relationship",
+    "model",
+    "copy",
+    "imitate",
+    "plan",
+    "prefigure",
+    "derive"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pattern shop",
+    "pattern-book",
+    "pattern-drawer",
+    "pattern-maker",
+    "patterner",
+    "patternsonize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pattern.mp3",
+  "local_sound_path": "sounds/pattern.mp3"
+}

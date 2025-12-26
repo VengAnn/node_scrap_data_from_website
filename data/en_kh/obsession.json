@@ -1,0 +1,35 @@
+{
+  "word": "obsession",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56981.png",
+      "local_image_path": "images/56981.png"
+    },
+    {
+      "pos": "n",
+      "example": "obsession with death",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56982.png",
+      "local_image_path": "images/56982.png"
+    }
+  ],
+  "synonyms": [
+    "mania",
+    "fascination",
+    "fixation",
+    "passion",
+    "thing",
+    "preoccupation"
+  ],
+  "antonyms": [
+    "indifference"
+  ],
+  "similar_words": [
+    "obsessional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obsession.mp3",
+  "local_sound_path": "sounds/obsession.mp3"
+}

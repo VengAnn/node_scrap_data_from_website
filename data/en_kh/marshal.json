@@ -1,0 +1,57 @@
+{
+  "word": "marshal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "military marshal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106453.png",
+      "local_image_path": "images/106453.png"
+    },
+    {
+      "pos": "n",
+      "example": "federal marshal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106454.png",
+      "local_image_path": "images/106454.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106455.png",
+      "local_image_path": "images/106455.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106456.png",
+      "local_image_path": "images/106456.png"
+    },
+    {
+      "pos": "tv",
+      "example": "marshal aid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106457.png",
+      "local_image_path": "images/106457.png"
+    }
+  ],
+  "synonyms": [
+    "assemble",
+    "organize",
+    "position",
+    "collect",
+    "group",
+    "shepherd"
+  ],
+  "antonyms": [
+    "dismiss",
+    "muddle",
+    "disperse"
+  ],
+  "similar_words": [
+    "marshalate",
+    "marshalcy",
+    "marshaless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/marshal.mp3",
+  "local_sound_path": "sounds/marshal.mp3"
+}

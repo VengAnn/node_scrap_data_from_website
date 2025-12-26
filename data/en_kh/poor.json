@@ -1,0 +1,63 @@
+{
+  "word": "poor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "poor family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65118.png",
+      "local_image_path": "images/65118.png"
+    },
+    {
+      "pos": "adj",
+      "example": "poor health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65119.png",
+      "local_image_path": "images/65119.png"
+    },
+    {
+      "pos": "adj",
+      "example": "poor at math",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65120.png",
+      "local_image_path": "images/65120.png"
+    }
+  ],
+  "synonyms": [
+    "humble",
+    "insignificant",
+    "lowly",
+    "modest",
+    "weak",
+    "inadequate",
+    "feeble",
+    "meager",
+    "bad",
+    "inferior",
+    "scanty",
+    "deficient",
+    "mediocre"
+  ],
+  "antonyms": [
+    "privileged",
+    "rich",
+    "strong",
+    "noble",
+    "superior"
+  ],
+  "similar_words": [
+    "poor box",
+    "poor house",
+    "poor-law",
+    "poor-mouth",
+    "poor-rate",
+    "poor-will",
+    "poorish",
+    "poorishness",
+    "poorly",
+    "poorness",
+    "poorspirited",
+    "poortith"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poor.mp3",
+  "local_sound_path": "sounds/poor.mp3"
+}

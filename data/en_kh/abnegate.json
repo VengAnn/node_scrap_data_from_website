@@ -1,0 +1,49 @@
+{
+  "word": "abnegate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1470.png",
+      "local_image_path": "images/1470.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111849.png",
+      "local_image_path": "images/111849.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113023.png",
+      "local_image_path": "images/113023.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113024.png",
+      "local_image_path": "images/113024.png"
+    }
+  ],
+  "synonyms": [
+    "renounce",
+    "reject",
+    "forswear",
+    "disavow",
+    "deny",
+    "repudiate",
+    "abjure",
+    "shun",
+    "refrain",
+    "abstain"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abnegate.mp3",
+  "local_sound_path": "sounds/abnegate.mp3"
+}

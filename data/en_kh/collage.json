@@ -1,0 +1,38 @@
+{
+  "word": "collage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15648.png",
+      "local_image_path": "images/15648.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130118.png",
+      "local_image_path": "images/130118.png"
+    }
+  ],
+  "synonyms": [
+    "patchwork",
+    "collection",
+    "hodgepodge",
+    "clutter",
+    "combination",
+    "assortment",
+    "medley",
+    "mixture",
+    "hotchpotch"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "collagen",
+    "collagenic",
+    "collagenous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/collage.mp3",
+  "local_sound_path": "sounds/collage.mp3"
+}

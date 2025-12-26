@@ -1,0 +1,36 @@
+{
+  "word": "appraisal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "low appraisal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5133.png",
+      "local_image_path": "images/5133.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112624.png",
+      "local_image_path": "images/112624.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112625.png",
+      "local_image_path": "images/112625.png"
+    }
+  ],
+  "synonyms": [
+    "assessment",
+    "evaluation",
+    "judgment",
+    "review",
+    "consideration"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appraisal.mp3",
+  "local_sound_path": "sounds/appraisal.mp3"
+}

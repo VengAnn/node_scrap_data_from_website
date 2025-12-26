@@ -1,0 +1,51 @@
+{
+  "word": "category",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13340.png",
+      "local_image_path": "images/13340.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116051.png",
+      "local_image_path": "images/116051.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116052.png",
+      "local_image_path": "images/116052.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116053.png",
+      "local_image_path": "images/116053.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116054.png",
+      "local_image_path": "images/116054.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "class",
+    "sort",
+    "grouping",
+    "type",
+    "kind",
+    "set",
+    "classification"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/category.mp3",
+  "local_sound_path": "sounds/category.mp3"
+}

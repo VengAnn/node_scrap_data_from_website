@@ -1,0 +1,58 @@
+{
+  "word": "seal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "put his seal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77413.png",
+      "local_image_path": "images/77413.png"
+    },
+    {
+      "pos": "n",
+      "example": "seal of a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77414.png",
+      "local_image_path": "images/77414.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77417.png",
+      "local_image_path": "images/77417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "seal a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77415.png",
+      "local_image_path": "images/77415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "seal a document",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77416.png",
+      "local_image_path": "images/77416.png"
+    }
+  ],
+  "synonyms": [
+    "clinch",
+    "settle",
+    "finalize",
+    "close",
+    "confirm",
+    "guarantee"
+  ],
+  "antonyms": [
+    "open"
+  ],
+  "similar_words": [
+    "sealant",
+    "sealed tender",
+    "sealer",
+    "sealily",
+    "sealing wax",
+    "sealskin"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/seal.mp3",
+  "local_sound_path": "sounds/seal.mp3"
+}

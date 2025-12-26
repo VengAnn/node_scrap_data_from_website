@@ -1,0 +1,39 @@
+{
+  "word": "injurious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40114.png",
+      "local_image_path": "images/40114.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122438.png",
+      "local_image_path": "images/122438.png"
+    }
+  ],
+  "synonyms": [
+    "harmful",
+    "damaging",
+    "adverse",
+    "detrimental",
+    "deleterious",
+    "ruinous",
+    "distressing"
+  ],
+  "antonyms": [
+    "harmless",
+    "beneficial"
+  ],
+  "similar_words": [
+    "injurious results",
+    "injuriously",
+    "injuriousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/injurious.mp3",
+  "local_sound_path": "sounds/injurious.mp3"
+}

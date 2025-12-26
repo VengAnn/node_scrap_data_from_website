@@ -1,0 +1,69 @@
+{
+  "word": "coil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15574.png",
+      "local_image_path": "images/15574.png"
+    },
+    {
+      "pos": "n",
+      "example": "electrical coil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15575.png",
+      "local_image_path": "images/15575.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116639.png",
+      "local_image_path": "images/116639.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116640.png",
+      "local_image_path": "images/116640.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116641.png",
+      "local_image_path": "images/116641.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116642.png",
+      "local_image_path": "images/116642.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116643.png",
+      "local_image_path": "images/116643.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the snake coiled (itself) round the branch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15573.png",
+      "local_image_path": "images/15573.png"
+    }
+  ],
+  "synonyms": [
+    "curl",
+    "loop",
+    "spiral",
+    "wind",
+    "twist",
+    "twirl",
+    "convolute",
+    "twine"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coil.mp3",
+  "local_sound_path": "sounds/coil.mp3"
+}

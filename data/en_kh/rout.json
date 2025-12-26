@@ -1,0 +1,88 @@
+{
+  "word": "rout",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74370.png",
+      "local_image_path": "images/74370.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74371.png",
+      "local_image_path": "images/74371.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74368.png",
+      "local_image_path": "images/74368.png"
+    },
+    {
+      "pos": "n",
+      "example": "put sb to rout",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74369.png",
+      "local_image_path": "images/74369.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74365.png",
+      "local_image_path": "images/74365.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rout the evil spirits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74366.png",
+      "local_image_path": "images/74366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rout out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74367.png",
+      "local_image_path": "images/74367.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127217.png",
+      "local_image_path": "images/127217.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "retreat",
+    "flight",
+    "surrender",
+    "collapse",
+    "disarray",
+    "overpower",
+    "overwhelm",
+    "beat",
+    "overthrow",
+    "crush",
+    "trounce",
+    "smash"
+  ],
+  "antonyms": [
+    "advance",
+    "victory",
+    "retreat"
+  ],
+  "similar_words": [
+    "route",
+    "router",
+    "routine",
+    "routinely",
+    "routinism",
+    "routinist",
+    "routinization",
+    "routinize",
+    "routous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rout.mp3",
+  "local_sound_path": "sounds/rout.mp3"
+}

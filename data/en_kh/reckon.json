@@ -1,0 +1,69 @@
+{
+  "word": "reckon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "reckon on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70817.png",
+      "local_image_path": "images/70817.png"
+    },
+    {
+      "pos": "iv",
+      "example": "reckon with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70818.png",
+      "local_image_path": "images/70818.png"
+    },
+    {
+      "pos": "iv",
+      "example": "reckon upon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70819.png",
+      "local_image_path": "images/70819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reckon the cost",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70814.png",
+      "local_image_path": "images/70814.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reckon him a genius",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70815.png",
+      "local_image_path": "images/70815.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I reckon he'll go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70816.png",
+      "local_image_path": "images/70816.png"
+    }
+  ],
+  "synonyms": [
+    "calculate",
+    "total",
+    "count",
+    "number",
+    "think",
+    "consider",
+    "imagine",
+    "suppose",
+    "feel",
+    "deem",
+    "guess",
+    "surmise",
+    "account",
+    "regard",
+    "view"
+  ],
+  "antonyms": [
+    "know"
+  ],
+  "similar_words": [
+    "reckoner",
+    "reckoning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reckon.mp3",
+  "local_sound_path": "sounds/reckon.mp3"
+}

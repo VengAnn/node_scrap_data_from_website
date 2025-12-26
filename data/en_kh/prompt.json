@@ -1,0 +1,69 @@
+{
+  "word": "prompt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "prompt reply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67669.png",
+      "local_image_path": "images/67669.png"
+    },
+    {
+      "pos": "adj",
+      "example": "prompt person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67670.png",
+      "local_image_path": "images/67670.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67671.png",
+      "local_image_path": "images/67671.png"
+    },
+    {
+      "pos": "n",
+      "example": "give him a prompt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67673.png",
+      "local_image_path": "images/67673.png"
+    },
+    {
+      "pos": "n",
+      "example": "serve as a prompt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67674.png",
+      "local_image_path": "images/67674.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prompt him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67672.png",
+      "local_image_path": "images/67672.png"
+    }
+  ],
+  "synonyms": [
+    "induce",
+    "effect",
+    "occasion",
+    "trigger",
+    "stimulate",
+    "encourage",
+    "provoke",
+    "prevail",
+    "persuade"
+  ],
+  "antonyms": [
+    "late",
+    "slow",
+    "prevent"
+  ],
+  "similar_words": [
+    "prompter",
+    "prompting",
+    "promptitude",
+    "promptly",
+    "promptness",
+    "promptuary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prompt.mp3",
+  "local_sound_path": "sounds/prompt.mp3"
+}

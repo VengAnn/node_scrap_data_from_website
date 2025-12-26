@@ -1,0 +1,57 @@
+{
+  "word": "horrid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "horrid sight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35971.png",
+      "local_image_path": "images/35971.png"
+    },
+    {
+      "pos": "adj",
+      "example": "horrid child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35972.png",
+      "local_image_path": "images/35972.png"
+    }
+  ],
+  "synonyms": [
+    "unpleasant",
+    "unkind",
+    "nasty",
+    "offensive",
+    "revolting",
+    "disgusting",
+    "vile",
+    "ghastly",
+    "beastly",
+    "horrible",
+    "dreadful",
+    "terrible",
+    "hideous",
+    "unspeakable",
+    "appalling",
+    "callous",
+    "mean",
+    "rotten",
+    "despicable",
+    "awful",
+    "hateful",
+    "loathsome",
+    "repellent",
+    "shocking",
+    "horrific",
+    "frightful"
+  ],
+  "antonyms": [
+    "pleasant",
+    "pleasing"
+  ],
+  "similar_words": [
+    "horridly",
+    "horridness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/horrid.mp3",
+  "local_sound_path": "sounds/horrid.mp3"
+}

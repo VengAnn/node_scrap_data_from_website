@@ -1,0 +1,39 @@
+{
+  "word": "rascal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70265.png",
+      "local_image_path": "images/70265.png"
+    },
+    {
+      "pos": "n",
+      "example": "The man is a rascal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70266.png",
+      "local_image_path": "images/70266.png"
+    }
+  ],
+  "synonyms": [
+    "rogue",
+    "mischief",
+    "scoundrel",
+    "scalawag",
+    "tease",
+    "joker",
+    "prankster",
+    "trickster",
+    "jester",
+    "puck",
+    "imp"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rascality",
+    "rascally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rascal.mp3",
+  "local_sound_path": "sounds/rascal.mp3"
+}

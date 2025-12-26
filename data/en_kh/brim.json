@@ -1,0 +1,44 @@
+{
+  "word": "brim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11157.png",
+      "local_image_path": "images/11157.png"
+    },
+    {
+      "pos": "n",
+      "example": "brim of a cup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11156.png",
+      "local_image_path": "images/11156.png"
+    }
+  ],
+  "synonyms": [
+    "edge",
+    "rim",
+    "lip",
+    "top",
+    "bristle",
+    "teem",
+    "overflow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "brimborion",
+    "brimful",
+    "brimfully",
+    "briming",
+    "brimmed",
+    "brimmer",
+    "brimming",
+    "brimmingly",
+    "brimse",
+    "brimstone",
+    "brimstony"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brim.mp3",
+  "local_sound_path": "sounds/brim.mp3"
+}

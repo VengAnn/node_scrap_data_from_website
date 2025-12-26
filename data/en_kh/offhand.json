@@ -1,0 +1,56 @@
+{
+  "word": "offhand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57309.png",
+      "local_image_path": "images/57309.png"
+    },
+    {
+      "pos": "adj",
+      "example": "offhand estimate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57310.png",
+      "local_image_path": "images/57310.png"
+    },
+    {
+      "pos": "adj",
+      "example": "offhand manner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57311.png",
+      "local_image_path": "images/57311.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57312.png",
+      "local_image_path": "images/57312.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57313.png",
+      "local_image_path": "images/57313.png"
+    }
+  ],
+  "synonyms": [
+    "careless",
+    "inattentive",
+    "neglectful",
+    "negligent",
+    "thoughtless",
+    "heedless"
+  ],
+  "antonyms": [
+    "polite",
+    "conscientious",
+    "premeditated",
+    "serious"
+  ],
+  "similar_words": [
+    "offhandedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/offhand.mp3",
+  "local_sound_path": "sounds/offhand.mp3"
+}

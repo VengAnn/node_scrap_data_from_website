@@ -1,0 +1,59 @@
+{
+  "word": "indulge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "indulge in",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39278.png",
+      "local_image_path": "images/39278.png"
+    },
+    {
+      "pos": "tv",
+      "example": "indulge in sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39274.png",
+      "local_image_path": "images/39274.png"
+    },
+    {
+      "pos": "tv",
+      "example": "indulge a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39275.png",
+      "local_image_path": "images/39275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "indulge his whims",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39276.png",
+      "local_image_path": "images/39276.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39277.png",
+      "local_image_path": "images/39277.png"
+    }
+  ],
+  "synonyms": [
+    "spoil",
+    "treat",
+    "pamper",
+    "cosset",
+    "coddle",
+    "pander",
+    "humor"
+  ],
+  "antonyms": [
+    "deny"
+  ],
+  "similar_words": [
+    "indulgence",
+    "indulgency",
+    "indulgent",
+    "indulgently",
+    "indulgentness",
+    "indulger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indulge.mp3",
+  "local_sound_path": "sounds/indulge.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "dovetail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22875.png",
+      "local_image_path": "images/22875.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118760.png",
+      "local_image_path": "images/118760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22871.png",
+      "local_image_path": "images/22871.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dovetail a joint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22872.png",
+      "local_image_path": "images/22872.png"
+    },
+    {
+      "pos": "tv",
+      "example": "My plans dovetail nicely with her.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22873.png",
+      "local_image_path": "images/22873.png"
+    },
+    {
+      "pos": "tv",
+      "example": "boards",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22874.png",
+      "local_image_path": "images/22874.png"
+    }
+  ],
+  "synonyms": [
+    "merge",
+    "unite"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dovetail.mp3",
+  "local_sound_path": "sounds/dovetail.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "outdoor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58316.png",
+      "local_image_path": "images/58316.png"
+    }
+  ],
+  "synonyms": [
+    "outside",
+    "open-air",
+    "out-of-doors",
+    "alfresco"
+  ],
+  "antonyms": [
+    "indoor"
+  ],
+  "similar_words": [
+    "outdoors"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outdoor.mp3",
+  "local_sound_path": "sounds/outdoor.mp3"
+}

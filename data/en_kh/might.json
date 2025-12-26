@@ -1,0 +1,43 @@
+{
+  "word": "might",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "auxV.",
+      "example": "I might go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108617.png",
+      "local_image_path": "images/108617.png"
+    },
+    {
+      "pos": "n",
+      "example": "We fear the military might of the enemy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108615.png",
+      "local_image_path": "images/108615.png"
+    },
+    {
+      "pos": "n",
+      "example": "Might is right",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108616.png",
+      "local_image_path": "images/108616.png"
+    }
+  ],
+  "synonyms": [
+    "strength",
+    "power",
+    "force",
+    "capacity",
+    "may",
+    "could"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mightily",
+    "mightiness",
+    "mightless",
+    "mightly",
+    "mighty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/might.mp3",
+  "local_sound_path": "sounds/might.mp3"
+}

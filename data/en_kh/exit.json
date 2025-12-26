@@ -1,0 +1,36 @@
+{
+  "word": "exit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "This is the exit.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101887.png",
+      "local_image_path": "images/101887.png"
+    },
+    {
+      "pos": "v",
+      "example": "We must exit now.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101888.png",
+      "local_image_path": "images/101888.png"
+    }
+  ],
+  "synonyms": [
+    "departure",
+    "exodus",
+    "depart",
+    "leave",
+    "go",
+    "withdraw",
+    "escape"
+  ],
+  "antonyms": [
+    "entrance",
+    "enter",
+    "arrival"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exit.mp3",
+  "local_sound_path": "sounds/exit.mp3"
+}

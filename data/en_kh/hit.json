@@ -1,0 +1,109 @@
+{
+  "word": "hit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "get a hit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35404.png",
+      "local_image_path": "images/35404.png"
+    },
+    {
+      "pos": "n",
+      "example": "play was a hit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35405.png",
+      "local_image_path": "images/35405.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hit a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35397.png",
+      "local_image_path": "images/35397.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hit with a switch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35398.png",
+      "local_image_path": "images/35398.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hit a gong",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35399.png",
+      "local_image_path": "images/35399.png"
+    },
+    {
+      "pos": "tv",
+      "example": "head hits the windshield",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35400.png",
+      "local_image_path": "images/35400.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hit another car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35401.png",
+      "local_image_path": "images/35401.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hail hits the ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35402.png",
+      "local_image_path": "images/35402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hit the right answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35403.png",
+      "local_image_path": "images/35403.png"
+    }
+  ],
+  "synonyms": [
+    "knock",
+    "stroke",
+    "blow",
+    "clash",
+    "shot",
+    "smack",
+    "slap",
+    "bump",
+    "cuff",
+    "rap",
+    "punch",
+    "thump",
+    "affect",
+    "affected",
+    "afflict",
+    "afflicted",
+    "destroy",
+    "damage",
+    "damaged",
+    "hurt",
+    "attack",
+    "disadvantage"
+  ],
+  "antonyms": [
+    "flop"
+  ],
+  "similar_words": [
+    "hit and miss",
+    "hit-and-run",
+    "hit-or-miss",
+    "hitch",
+    "hitch-hike",
+    "hitch-hiker",
+    "hitching post",
+    "Hitelerism",
+    "hither",
+    "hithermost",
+    "hitherto",
+    "hitherward",
+    "hitherwards",
+    "Hitlerian",
+    "hitlist",
+    "hitman",
+    "hitter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hit.mp3",
+  "local_sound_path": "sounds/hit.mp3"
+}

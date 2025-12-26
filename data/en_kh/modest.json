@@ -1,0 +1,65 @@
+{
+  "word": "modest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109862.png",
+      "local_image_path": "images/109862.png"
+    },
+    {
+      "pos": "adj",
+      "example": "modest man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109863.png",
+      "local_image_path": "images/109863.png"
+    },
+    {
+      "pos": "adj",
+      "example": "modest income",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109864.png",
+      "local_image_path": "images/109864.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130538.png",
+      "local_image_path": "images/130538.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130539.png",
+      "local_image_path": "images/130539.png"
+    }
+  ],
+  "synonyms": [
+    "moderate",
+    "reasonable",
+    "self-effacing",
+    "unassuming",
+    "unpretentious",
+    "diffident",
+    "humble",
+    "reserved",
+    "meek",
+    "reticent",
+    "unpresumptuous",
+    "discreet"
+  ],
+  "antonyms": [
+    "arrogant",
+    "flashy",
+    "excessive",
+    "overbearing",
+    "showy"
+  ],
+  "similar_words": [
+    "modestly",
+    "modesty",
+    "modesty-piece"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/modest.mp3",
+  "local_sound_path": "sounds/modest.mp3"
+}

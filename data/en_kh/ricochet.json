@@ -1,0 +1,30 @@
+{
+  "word": "ricochet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73560.png",
+      "local_image_path": "images/73560.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73561.png",
+      "local_image_path": "images/73561.png"
+    }
+  ],
+  "synonyms": [
+    "recoil",
+    "rebound",
+    "reflect",
+    "reverberate",
+    "echo"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ricochet.mp3",
+  "local_sound_path": "sounds/ricochet.mp3"
+}

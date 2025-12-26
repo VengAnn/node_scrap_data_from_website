@@ -1,0 +1,57 @@
+{
+  "word": "frolic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30395.png",
+      "local_image_path": "images/30395.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30394.png",
+      "local_image_path": "images/30394.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120485.png",
+      "local_image_path": "images/120485.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120486.png",
+      "local_image_path": "images/120486.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120487.png",
+      "local_image_path": "images/120487.png"
+    }
+  ],
+  "synonyms": [
+    "play",
+    "skip",
+    "leap",
+    "cavort",
+    "gambol",
+    "frisk",
+    "romp",
+    "dance",
+    "unbend"
+  ],
+  "antonyms": [
+    "bore",
+    "plod"
+  ],
+  "similar_words": [
+    "frolicsome"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frolic.mp3",
+  "local_sound_path": "sounds/frolic.mp3"
+}

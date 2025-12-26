@@ -1,0 +1,45 @@
+{
+  "word": "orbit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57920.png",
+      "local_image_path": "images/57920.png"
+    },
+    {
+      "pos": "n",
+      "example": "orbit of the earth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57921.png",
+      "local_image_path": "images/57921.png"
+    },
+    {
+      "pos": "n",
+      "example": "orbit of an atom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57922.png",
+      "local_image_path": "images/57922.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57923.png",
+      "local_image_path": "images/57923.png"
+    }
+  ],
+  "synonyms": [
+    "circle",
+    "circumnavigate",
+    "loop",
+    "encircle",
+    "revolve"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "orbital",
+    "orbitsl"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/orbit.mp3",
+  "local_sound_path": "sounds/orbit.mp3"
+}

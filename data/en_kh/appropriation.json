@@ -1,0 +1,39 @@
+{
+  "word": "appropriation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "large appropriation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5177.png",
+      "local_image_path": "images/5177.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112653.png",
+      "local_image_path": "images/112653.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112654.png",
+      "local_image_path": "images/112654.png"
+    }
+  ],
+  "synonyms": [
+    "misappropriation",
+    "misuse",
+    "fraud",
+    "stealing",
+    "cheating",
+    "requisition",
+    "occupation",
+    "seizure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appropriation.mp3",
+  "local_sound_path": "sounds/appropriation.mp3"
+}

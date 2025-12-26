@@ -1,0 +1,46 @@
+{
+  "word": "decrease",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20049.png",
+      "local_image_path": "images/20049.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20051.png",
+      "local_image_path": "images/20051.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20050.png",
+      "local_image_path": "images/20050.png"
+    }
+  ],
+  "synonyms": [
+    "reduction",
+    "cut",
+    "diminution",
+    "decline",
+    "shrinkage",
+    "fall",
+    "drop",
+    "reduce",
+    "diminish",
+    "lessen",
+    "dwindle",
+    "shrink",
+    "subside"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decrease.mp3",
+  "local_sound_path": "sounds/decrease.mp3"
+}

@@ -1,0 +1,77 @@
+{
+  "word": "draft",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "draft animals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22952.png",
+      "local_image_path": "images/22952.png"
+    },
+    {
+      "pos": "n",
+      "example": "draft of a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22947.png",
+      "local_image_path": "images/22947.png"
+    },
+    {
+      "pos": "n",
+      "example": "draft of wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22948.png",
+      "local_image_path": "images/22948.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22949.png",
+      "local_image_path": "images/22949.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118769.png",
+      "local_image_path": "images/118769.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118770.png",
+      "local_image_path": "images/118770.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draft a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22950.png",
+      "local_image_path": "images/22950.png"
+    },
+    {
+      "pos": "tv",
+      "example": "draft soldiers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22951.png",
+      "local_image_path": "images/22951.png"
+    }
+  ],
+  "synonyms": [
+    "conscription",
+    "prepare",
+    "outline",
+    "write",
+    "plan",
+    "design",
+    "compose"
+  ],
+  "antonyms": [
+    "discharge"
+  ],
+  "similar_words": [
+    "draft of resolution",
+    "draft proposal",
+    "draft resolution",
+    "draftee",
+    "draftsman",
+    "drafty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/draft.mp3",
+  "local_sound_path": "sounds/draft.mp3"
+}

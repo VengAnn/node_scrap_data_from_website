@@ -1,0 +1,28 @@
+{
+  "word": "hullabaloo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What a hullaballo!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36257.png",
+      "local_image_path": "images/36257.png"
+    }
+  ],
+  "synonyms": [
+    "noise",
+    "racket",
+    "hubbub",
+    "din",
+    "uproar",
+    "clamor",
+    "tumult"
+  ],
+  "antonyms": [
+    "silence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hullabaloo.mp3",
+  "local_sound_path": "sounds/hullabaloo.mp3"
+}

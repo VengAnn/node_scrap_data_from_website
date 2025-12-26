@@ -1,0 +1,54 @@
+{
+  "word": "performance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "theatrical performance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61693.png",
+      "local_image_path": "images/61693.png"
+    },
+    {
+      "pos": "n",
+      "example": "performance of one's duties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61694.png",
+      "local_image_path": "images/61694.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61695.png",
+      "local_image_path": "images/61695.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61696.png",
+      "local_image_path": "images/61696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125354.png",
+      "local_image_path": "images/125354.png"
+    }
+  ],
+  "synonyms": [
+    "implementation",
+    "execution",
+    "operation",
+    "running",
+    "working",
+    "feat",
+    "deed",
+    "act",
+    "accomplishment",
+    "occurrence",
+    "thing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/performance.mp3",
+  "local_sound_path": "sounds/performance.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "word": "complex",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "complex argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16258.png",
+      "local_image_path": "images/16258.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116899.png",
+      "local_image_path": "images/116899.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116900.png",
+      "local_image_path": "images/116900.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116901.png",
+      "local_image_path": "images/116901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16259.png",
+      "local_image_path": "images/16259.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116902.png",
+      "local_image_path": "images/116902.png"
+    }
+  ],
+  "synonyms": [
+    "hang-up",
+    "fixation",
+    "psychosis",
+    "neurosis",
+    "phobia",
+    "obsession"
+  ],
+  "antonyms": [
+    "simple"
+  ],
+  "similar_words": [
+    "complexion",
+    "complexional",
+    "complexioned",
+    "complexity",
+    "complexly",
+    "complexness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/complex.mp3",
+  "local_sound_path": "sounds/complex.mp3"
+}

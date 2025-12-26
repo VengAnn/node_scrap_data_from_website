@@ -1,0 +1,54 @@
+{
+  "word": "pioneer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63454.png",
+      "local_image_path": "images/63454.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125549.png",
+      "local_image_path": "images/125549.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63452.png",
+      "local_image_path": "images/63452.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63453.png",
+      "local_image_path": "images/63453.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125550.png",
+      "local_image_path": "images/125550.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125551.png",
+      "local_image_path": "images/125551.png"
+    }
+  ],
+  "synonyms": [
+    "found",
+    "forge",
+    "initiate",
+    "establish",
+    "prepare"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pioneer.mp3",
+  "local_sound_path": "sounds/pioneer.mp3"
+}

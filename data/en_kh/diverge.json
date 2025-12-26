@@ -1,0 +1,42 @@
+{
+  "word": "diverge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22413.png",
+      "local_image_path": "images/22413.png"
+    },
+    {
+      "pos": "iv",
+      "example": "roads diverge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22414.png",
+      "local_image_path": "images/22414.png"
+    },
+    {
+      "pos": "iv",
+      "example": "opinions diverge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22415.png",
+      "local_image_path": "images/22415.png"
+    }
+  ],
+  "synonyms": [
+    "digress",
+    "ramble",
+    "stray",
+    "deviate"
+  ],
+  "antonyms": [
+    "converge",
+    "concur"
+  ],
+  "similar_words": [
+    "divergence",
+    "divergency",
+    "divergent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diverge.mp3",
+  "local_sound_path": "sounds/diverge.mp3"
+}

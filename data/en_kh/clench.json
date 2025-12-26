@@ -1,0 +1,45 @@
+{
+  "word": "clench",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14965.png",
+      "local_image_path": "images/14965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clench the teeth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14966.png",
+      "local_image_path": "images/14966.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116463.png",
+      "local_image_path": "images/116463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116464.png",
+      "local_image_path": "images/116464.png"
+    }
+  ],
+  "synonyms": [
+    "compress",
+    "grit",
+    "tighten",
+    "clasp",
+    "scrunch",
+    "clamp"
+  ],
+  "antonyms": [
+    "relax"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clench.mp3",
+  "local_sound_path": "sounds/clench.mp3"
+}

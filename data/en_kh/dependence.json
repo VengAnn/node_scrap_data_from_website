@@ -1,0 +1,44 @@
+{
+  "word": "dependence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20596.png",
+      "local_image_path": "images/20596.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118047.png",
+      "local_image_path": "images/118047.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118048.png",
+      "local_image_path": "images/118048.png"
+    }
+  ],
+  "synonyms": [
+    "addiction",
+    "dependency",
+    "reliance",
+    "need",
+    "craving",
+    "habit",
+    "trust",
+    "confidence",
+    "belief",
+    "hope",
+    "faith"
+  ],
+  "antonyms": [
+    "independence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dependence.mp3",
+  "local_sound_path": "sounds/dependence.mp3"
+}

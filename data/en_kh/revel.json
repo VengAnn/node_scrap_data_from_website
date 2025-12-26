@@ -1,0 +1,42 @@
+{
+  "word": "revel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "revel in his misfortune",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73267.png",
+      "local_image_path": "images/73267.png"
+    },
+    {
+      "pos": "iv",
+      "example": "revel through out the night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73268.png",
+      "local_image_path": "images/73268.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73269.png",
+      "local_image_path": "images/73269.png"
+    }
+  ],
+  "synonyms": [
+    "drink",
+    "party",
+    "groove",
+    "gather",
+    "celebrate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "revelation",
+    "revelatory",
+    "reveler",
+    "reveller",
+    "revelry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/revel.mp3",
+  "local_sound_path": "sounds/revel.mp3"
+}

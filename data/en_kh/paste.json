@@ -1,0 +1,96 @@
+{
+  "word": "paste",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bottle of paste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60502.png",
+      "local_image_path": "images/60502.png"
+    },
+    {
+      "pos": "n",
+      "example": "tooth paste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60503.png",
+      "local_image_path": "images/60503.png"
+    },
+    {
+      "pos": "n",
+      "example": "tomato paste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60504.png",
+      "local_image_path": "images/60504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60508.png",
+      "local_image_path": "images/60508.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125218.png",
+      "local_image_path": "images/125218.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125219.png",
+      "local_image_path": "images/125219.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125220.png",
+      "local_image_path": "images/125220.png"
+    },
+    {
+      "pos": "tv",
+      "example": "paste them together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60505.png",
+      "local_image_path": "images/60505.png"
+    },
+    {
+      "pos": "tv",
+      "example": "paste tomatoes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60506.png",
+      "local_image_path": "images/60506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60507.png",
+      "local_image_path": "images/60507.png"
+    }
+  ],
+  "synonyms": [
+    "cream",
+    "substance",
+    "goo",
+    "slime",
+    "stick",
+    "glue",
+    "fix",
+    "insert",
+    "attach",
+    "arrange",
+    "gum",
+    "bond"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "paste-up",
+    "pasteboard",
+    "pastel",
+    "pastelist",
+    "pastellist",
+    "paster",
+    "pasteurism",
+    "pasteurization",
+    "pasteurize",
+    "pasteurizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/paste.mp3",
+  "local_sound_path": "sounds/paste.mp3"
+}

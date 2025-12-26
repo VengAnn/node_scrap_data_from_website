@@ -1,0 +1,106 @@
+{
+  "word": "moderate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109829.png",
+      "local_image_path": "images/109829.png"
+    },
+    {
+      "pos": "adj",
+      "example": "moderate price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109830.png",
+      "local_image_path": "images/109830.png"
+    },
+    {
+      "pos": "adj",
+      "example": "moderate temperature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109831.png",
+      "local_image_path": "images/109831.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109832.png",
+      "local_image_path": "images/109832.png"
+    },
+    {
+      "pos": "adj",
+      "example": "moderate politician",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109833.png",
+      "local_image_path": "images/109833.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109834.png",
+      "local_image_path": "images/109834.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130534.png",
+      "local_image_path": "images/130534.png"
+    },
+    {
+      "pos": "iv",
+      "example": "storm will moderate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109838.png",
+      "local_image_path": "images/109838.png"
+    },
+    {
+      "pos": "iv",
+      "example": "moderate at a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109839.png",
+      "local_image_path": "images/109839.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109835.png",
+      "local_image_path": "images/109835.png"
+    },
+    {
+      "pos": "tv",
+      "example": "moderate one's speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109836.png",
+      "local_image_path": "images/109836.png"
+    },
+    {
+      "pos": "tv",
+      "example": "moderate a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109837.png",
+      "local_image_path": "images/109837.png"
+    }
+  ],
+  "synonyms": [
+    "arbitrate",
+    "mediate",
+    "referee",
+    "control",
+    "facilitate",
+    "umpire",
+    "orchestrate",
+    "regulate",
+    "direct",
+    "manage",
+    "conduct"
+  ],
+  "antonyms": [
+    "extreme",
+    "intensify",
+    "excessive",
+    "extraordinary",
+    "significant"
+  ],
+  "similar_words": [
+    "moderately",
+    "moderateness",
+    "moderateness of weather"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/moderate.mp3",
+  "local_sound_path": "sounds/moderate.mp3"
+}

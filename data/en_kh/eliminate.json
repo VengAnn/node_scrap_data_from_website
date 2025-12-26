@@ -1,0 +1,44 @@
+{
+  "word": "eliminate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "eliminate body waste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24312.png",
+      "local_image_path": "images/24312.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The police have eliminated two suspects.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24313.png",
+      "local_image_path": "images/24313.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24314.png",
+      "local_image_path": "images/24314.png"
+    }
+  ],
+  "synonyms": [
+    "eradicate",
+    "abolish",
+    "remove",
+    "reduce",
+    "purge",
+    "destroy",
+    "kill",
+    "exterminate",
+    "liquidate",
+    "waste"
+  ],
+  "antonyms": [
+    "retain",
+    "preserve"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eliminate.mp3",
+  "local_sound_path": "sounds/eliminate.mp3"
+}

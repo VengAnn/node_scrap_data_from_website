@@ -1,0 +1,40 @@
+{
+  "word": "bike",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8862.png",
+      "local_image_path": "images/8862.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8861.png",
+      "local_image_path": "images/8861.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8860.png",
+      "local_image_path": "images/8860.png"
+    }
+  ],
+  "synonyms": [
+    "motorcycle",
+    "bicycle",
+    "cycle",
+    "tandem",
+    "pushbike",
+    "trail bike"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "biker",
+    "bikeway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bike.mp3",
+  "local_sound_path": "sounds/bike.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "word": "stuffy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stuffy room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85588.png",
+      "local_image_path": "images/85588.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85589.png",
+      "local_image_path": "images/85589.png"
+    },
+    {
+      "pos": "adj",
+      "example": "feeling stuffy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85590.png",
+      "local_image_path": "images/85590.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85591.png",
+      "local_image_path": "images/85591.png"
+    }
+  ],
+  "synonyms": [
+    "conventional",
+    "formal",
+    "conservative",
+    "conformist",
+    "square",
+    "hidebound",
+    "old-fashioned",
+    "prim"
+  ],
+  "antonyms": [
+    "airy",
+    "relaxed",
+    "fresh",
+    "informal",
+    "clear"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stuffy.mp3",
+  "local_sound_path": "sounds/stuffy.mp3"
+}

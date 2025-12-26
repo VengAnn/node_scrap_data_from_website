@@ -1,0 +1,28 @@
+{
+  "word": "adolescence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2487.png",
+      "local_image_path": "images/2487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2486.png",
+      "local_image_path": "images/2486.png"
+    }
+  ],
+  "synonyms": [
+    "teens",
+    "youth",
+    "puberty"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adolescence.mp3",
+  "local_sound_path": "sounds/adolescence.mp3"
+}

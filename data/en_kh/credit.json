@@ -1,0 +1,73 @@
+{
+  "word": "credit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18488.png",
+      "local_image_path": "images/18488.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18489.png",
+      "local_image_path": "images/18489.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18490.png",
+      "local_image_path": "images/18490.png"
+    },
+    {
+      "pos": "tv",
+      "example": "credit his success to hardwork",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18495.png",
+      "local_image_path": "images/18495.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to credit $5.00 to his account",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18496.png",
+      "local_image_path": "images/18496.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I can barely credit what she said",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18497.png",
+      "local_image_path": "images/18497.png"
+    }
+  ],
+  "synonyms": [
+    "believe",
+    "accept",
+    "trust",
+    "acknowledge",
+    "recognize",
+    "acclaim",
+    "praise",
+    "attribute"
+  ],
+  "antonyms": [
+    "blame",
+    "disbelief",
+    "disbelieve"
+  ],
+  "similar_words": [
+    "credit slip",
+    "credit solvency",
+    "credit status",
+    "credit terms",
+    "creditable",
+    "creditably",
+    "creditor",
+    "creditor's bill",
+    "creditor's suit",
+    "creditworthiness",
+    "creditworthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/credit.mp3",
+  "local_sound_path": "sounds/credit.mp3"
+}

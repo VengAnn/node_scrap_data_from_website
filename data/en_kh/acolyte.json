@@ -1,0 +1,38 @@
+{
+  "word": "acolyte",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2098.png",
+      "local_image_path": "images/2098.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113186.png",
+      "local_image_path": "images/113186.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113187.png",
+      "local_image_path": "images/113187.png"
+    }
+  ],
+  "synonyms": [
+    "follower",
+    "devotee",
+    "disciple",
+    "adherent",
+    "supporter",
+    "admirer",
+    "enthusiast"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acolyte.mp3",
+  "local_sound_path": "sounds/acolyte.mp3"
+}

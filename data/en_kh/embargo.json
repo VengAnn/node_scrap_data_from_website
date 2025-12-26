@@ -1,0 +1,46 @@
+{
+  "word": "embargo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24418.png",
+      "local_image_path": "images/24418.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24419.png",
+      "local_image_path": "images/24419.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24420.png",
+      "local_image_path": "images/24420.png"
+    }
+  ],
+  "synonyms": [
+    "stop",
+    "ban",
+    "restrict",
+    "prohibit",
+    "bar",
+    "block",
+    "impede",
+    "confiscate",
+    "sequestrate",
+    "seize",
+    "expropriate",
+    "snatch"
+  ],
+  "antonyms": [
+    "permission",
+    "permit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embargo.mp3",
+  "local_sound_path": "sounds/embargo.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "roar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "lions roar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73883.png",
+      "local_image_path": "images/73883.png"
+    },
+    {
+      "pos": "n",
+      "example": "roar of a lion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73885.png",
+      "local_image_path": "images/73885.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73884.png",
+      "local_image_path": "images/73884.png"
+    }
+  ],
+  "synonyms": [
+    "snarl",
+    "howl",
+    "growl",
+    "bellow",
+    "yell",
+    "wail",
+    "call",
+    "shout",
+    "holler",
+    "cry",
+    "bark",
+    "rumble",
+    "yap"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [
+    "roarer",
+    "roaring"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/roar.mp3",
+  "local_sound_path": "sounds/roar.mp3"
+}

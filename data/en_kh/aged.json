@@ -1,0 +1,47 @@
+{
+  "word": "aged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2873.png",
+      "local_image_path": "images/2873.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113407.png",
+      "local_image_path": "images/113407.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113408.png",
+      "local_image_path": "images/113408.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113409.png",
+      "local_image_path": "images/113409.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2874.png",
+      "local_image_path": "images/2874.png"
+    }
+  ],
+  "synonyms": [
+    "old",
+    "elderly"
+  ],
+  "antonyms": [
+    "young"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aged.mp3",
+  "local_sound_path": "sounds/aged.mp3"
+}

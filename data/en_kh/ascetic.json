@@ -1,0 +1,40 @@
+{
+  "word": "ascetic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5732.png",
+      "local_image_path": "images/5732.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5733.png",
+      "local_image_path": "images/5733.png"
+    }
+  ],
+  "synonyms": [
+    "austere",
+    "abstinent",
+    "frugal",
+    "abstemious",
+    "severe",
+    "abstainer",
+    "celibate",
+    "puritan",
+    "penitent"
+  ],
+  "antonyms": [
+    "hedonistic",
+    "hedonist"
+  ],
+  "similar_words": [
+    "ascetically",
+    "asceticism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ascetic.mp3",
+  "local_sound_path": "sounds/ascetic.mp3"
+}

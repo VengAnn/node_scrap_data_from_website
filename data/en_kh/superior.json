@@ -1,0 +1,57 @@
+{
+  "word": "superior",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "superior officer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86401.png",
+      "local_image_path": "images/86401.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86402.png",
+      "local_image_path": "images/86402.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86403.png",
+      "local_image_path": "images/86403.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86404.png",
+      "local_image_path": "images/86404.png"
+    }
+  ],
+  "synonyms": [
+    "boss",
+    "manager",
+    "chief",
+    "elder",
+    "better",
+    "senior",
+    "director",
+    "supervisor",
+    "leader",
+    "higher-up",
+    "commander"
+  ],
+  "antonyms": [
+    "inferior",
+    "self-effacing",
+    "second-rate",
+    "humble",
+    "lower"
+  ],
+  "similar_words": [
+    "superiority",
+    "superiorly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/superior.mp3",
+  "local_sound_path": "sounds/superior.mp3"
+}

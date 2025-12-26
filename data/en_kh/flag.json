@@ -1,0 +1,87 @@
+{
+  "word": "flag",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Some plants flag hot, dry weather.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28831.png",
+      "local_image_path": "images/28831.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28828.png",
+      "local_image_path": "images/28828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28832.png",
+      "local_image_path": "images/28832.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flag the train",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28829.png",
+      "local_image_path": "images/28829.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28830.png",
+      "local_image_path": "images/28830.png"
+    }
+  ],
+  "synonyms": [
+    "mark",
+    "highlight",
+    "identify",
+    "label",
+    "select",
+    "wilt",
+    "weaken",
+    "wane",
+    "fade",
+    "tire",
+    "weary",
+    "slump",
+    "decline",
+    "droop",
+    "fail",
+    "abate",
+    "dwindle",
+    "diminish",
+    "ebb",
+    "pall",
+    "sag",
+    "languish",
+    "fall"
+  ],
+  "antonyms": [
+    "rally"
+  ],
+  "similar_words": [
+    "flag carrier",
+    "flag of convenience",
+    "flag-man",
+    "flagellaria",
+    "flagellate",
+    "flagellation",
+    "flagelliform",
+    "flagitate",
+    "flagitious",
+    "flagitiously",
+    "flagitiousness",
+    "flagon",
+    "flagpole",
+    "flagrant",
+    "flagrant delicto",
+    "flagship",
+    "flagstaff",
+    "flagstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flag.mp3",
+  "local_sound_path": "sounds/flag.mp3"
+}

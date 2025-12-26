@@ -1,0 +1,37 @@
+{
+  "word": "coincidence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "striking coincidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15581.png",
+      "local_image_path": "images/15581.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116650.png",
+      "local_image_path": "images/116650.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116651.png",
+      "local_image_path": "images/116651.png"
+    }
+  ],
+  "synonyms": [
+    "concurrence",
+    "correspondence",
+    "correlation",
+    "agreement",
+    "relationship",
+    "link"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coincidence.mp3",
+  "local_sound_path": "sounds/coincidence.mp3"
+}

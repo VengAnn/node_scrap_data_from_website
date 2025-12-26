@@ -1,0 +1,75 @@
+{
+  "word": "compound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "compound substance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16312.png",
+      "local_image_path": "images/16312.png"
+    },
+    {
+      "pos": "n",
+      "example": "chemical compound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16313.png",
+      "local_image_path": "images/16313.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16317.png",
+      "local_image_path": "images/16317.png"
+    },
+    {
+      "pos": "tv",
+      "example": "compound two elements",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16314.png",
+      "local_image_path": "images/16314.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116933.png",
+      "local_image_path": "images/116933.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116934.png",
+      "local_image_path": "images/116934.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116935.png",
+      "local_image_path": "images/116935.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116936.png",
+      "local_image_path": "images/116936.png"
+    }
+  ],
+  "synonyms": [
+    "multiple",
+    "complex",
+    "composite",
+    "multifaceted",
+    "multifarious",
+    "mix",
+    "mixture",
+    "amalgam",
+    "combination"
+  ],
+  "antonyms": [
+    "simple"
+  ],
+  "similar_words": [
+    "compoundable",
+    "compounder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compound.mp3",
+  "local_sound_path": "sounds/compound.mp3"
+}

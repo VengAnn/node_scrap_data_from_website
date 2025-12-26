@@ -1,0 +1,54 @@
+{
+  "word": "whine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "children whine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100015.png",
+      "local_image_path": "images/100015.png"
+    },
+    {
+      "pos": "iv",
+      "example": "alarms whine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100016.png",
+      "local_image_path": "images/100016.png"
+    },
+    {
+      "pos": "n",
+      "example": "whine of a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100017.png",
+      "local_image_path": "images/100017.png"
+    },
+    {
+      "pos": "n",
+      "example": "whine of a saw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100018.png",
+      "local_image_path": "images/100018.png"
+    }
+  ],
+  "synonyms": [
+    "drone",
+    "hum",
+    "buzz",
+    "scream",
+    "complain",
+    "moan",
+    "bleat",
+    "whimper",
+    "bellyache",
+    "gripe",
+    "grumble",
+    "kvetch",
+    "cry",
+    "wail",
+    "plead"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whine.mp3",
+  "local_sound_path": "sounds/whine.mp3"
+}

@@ -1,0 +1,94 @@
+{
+  "word": "home",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "home office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35641.png",
+      "local_image_path": "images/35641.png"
+    },
+    {
+      "pos": "adv",
+      "example": "go home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35644.png",
+      "local_image_path": "images/35644.png"
+    },
+    {
+      "pos": "iv",
+      "example": "pigeons home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35645.png",
+      "local_image_path": "images/35645.png"
+    },
+    {
+      "pos": "n",
+      "example": "I will buy a home this year.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35637.png",
+      "local_image_path": "images/35637.png"
+    },
+    {
+      "pos": "n",
+      "example": "home of Schlitz beer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35638.png",
+      "local_image_path": "images/35638.png"
+    },
+    {
+      "pos": "n",
+      "example": "at home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35639.png",
+      "local_image_path": "images/35639.png"
+    },
+    {
+      "pos": "n",
+      "example": "Where is his home?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35640.png",
+      "local_image_path": "images/35640.png"
+    }
+  ],
+  "synonyms": [
+    "institution",
+    "residence",
+    "homeland",
+    "hometown",
+    "birthplace",
+    "fatherland",
+    "motherland",
+    "mother country"
+  ],
+  "antonyms": [
+    "out",
+    "foreign",
+    "industrial"
+  ],
+  "similar_words": [
+    "home country",
+    "home economics",
+    "home health aide",
+    "home office",
+    "home owner",
+    "home page",
+    "home rule",
+    "home steading",
+    "home thrust",
+    "home-born",
+    "home-coming",
+    "home-made",
+    "Home-rule",
+    "homebody",
+    "homebound",
+    "homebred",
+    "homebrew",
+    "homebrewed",
+    "homebuyer",
+    "homegirl",
+    "homegrown",
+    "homeland",
+    "homeless",
+    "homelessness",
+    "homeliness",
+    "homely"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/home.mp3",
+  "local_sound_path": "sounds/home.mp3"
+}

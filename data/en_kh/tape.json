@@ -1,0 +1,77 @@
+{
+  "word": "tape",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "adhesive tape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87521.png",
+      "local_image_path": "images/87521.png"
+    },
+    {
+      "pos": "n",
+      "example": "recording tape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87522.png",
+      "local_image_path": "images/87522.png"
+    },
+    {
+      "pos": "n",
+      "example": "measuring tape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87523.png",
+      "local_image_path": "images/87523.png"
+    },
+    {
+      "pos": "n",
+      "example": "make tape of the conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87524.png",
+      "local_image_path": "images/87524.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87525.png",
+      "local_image_path": "images/87525.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tape sticks together",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87526.png",
+      "local_image_path": "images/87526.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87527.png",
+      "local_image_path": "images/87527.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tape music",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87528.png",
+      "local_image_path": "images/87528.png"
+    }
+  ],
+  "synonyms": [
+    "tape measure",
+    "record",
+    "tape-record"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tape deck",
+    "tape line",
+    "tape measure",
+    "tape player",
+    "tape recorder",
+    "tape recording",
+    "tape-record",
+    "taper",
+    "tapering",
+    "tapestried",
+    "tapestry",
+    "tapeworm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tape.mp3",
+  "local_sound_path": "sounds/tape.mp3"
+}

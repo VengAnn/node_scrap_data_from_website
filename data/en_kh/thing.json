@@ -1,0 +1,52 @@
+{
+  "word": "thing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88950.png",
+      "local_image_path": "images/88950.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88951.png",
+      "local_image_path": "images/88951.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88952.png",
+      "local_image_path": "images/88952.png"
+    }
+  ],
+  "synonyms": [
+    "device",
+    "mechanism",
+    "gadget",
+    "machine",
+    "contraption",
+    "event",
+    "incident",
+    "occurrence",
+    "phenomenon",
+    "matter",
+    "affair",
+    "business"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "thingamabob",
+    "thingamajig",
+    "thingan",
+    "thingkingcap",
+    "thingumabob",
+    "thingumajig",
+    "thingumbob",
+    "thingummy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thing.mp3",
+  "local_sound_path": "sounds/thing.mp3"
+}

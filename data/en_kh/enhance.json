@@ -1,0 +1,34 @@
+{
+  "word": "enhance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "enhance one's reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25074.png",
+      "local_image_path": "images/25074.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enhance the value",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25075.png",
+      "local_image_path": "images/25075.png"
+    }
+  ],
+  "synonyms": [
+    "improve",
+    "augment",
+    "develop",
+    "increase",
+    "boost",
+    "enrich",
+    "heighten"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "enhancement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enhance.mp3",
+  "local_sound_path": "sounds/enhance.mp3"
+}

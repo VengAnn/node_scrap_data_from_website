@@ -1,0 +1,32 @@
+{
+  "word": "bigotry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8845.png",
+      "local_image_path": "images/8845.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115066.png",
+      "local_image_path": "images/115066.png"
+    }
+  ],
+  "synonyms": [
+    "prejudice",
+    "racism",
+    "intolerance",
+    "bias",
+    "chauvinism"
+  ],
+  "antonyms": [
+    "fairness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bigotry.mp3",
+  "local_sound_path": "sounds/bigotry.mp3"
+}

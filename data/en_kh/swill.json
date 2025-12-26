@@ -1,0 +1,34 @@
+{
+  "word": "swill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86860.png",
+      "local_image_path": "images/86860.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86861.png",
+      "local_image_path": "images/86861.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86862.png",
+      "local_image_path": "images/86862.png"
+    }
+  ],
+  "synonyms": [
+    "swig",
+    "guzzle",
+    "quaff"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swill.mp3",
+  "local_sound_path": "sounds/swill.mp3"
+}

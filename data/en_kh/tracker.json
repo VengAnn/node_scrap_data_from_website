@@ -1,0 +1,35 @@
+{
+  "word": "tracker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90647.png",
+      "local_image_path": "images/90647.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90648.png",
+      "local_image_path": "images/90648.png"
+    }
+  ],
+  "synonyms": [
+    "follower",
+    "chaser",
+    "hunter",
+    "trailer",
+    "tail",
+    "shadow",
+    "pursuer",
+    "private investigator",
+    "private eye",
+    "bounty hunter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tracker.mp3",
+  "local_sound_path": "sounds/tracker.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "cajole",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "she was cajoled into accepting a new contact",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12336.png",
+      "local_image_path": "images/12336.png"
+    },
+    {
+      "pos": "v",
+      "example": "the confession had to be cajoled out of him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12337.png",
+      "local_image_path": "images/12337.png"
+    }
+  ],
+  "synonyms": [
+    "coax",
+    "persuade",
+    "wheedle",
+    "entice",
+    "sweet-talk",
+    "inveigle",
+    "flatter"
+  ],
+  "antonyms": [
+    "compel"
+  ],
+  "similar_words": [
+    "cajoler",
+    "cajolery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cajole.mp3",
+  "local_sound_path": "sounds/cajole.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "word": "borrower",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10259.png",
+      "local_image_path": "images/10259.png"
+    }
+  ],
+  "synonyms": [
+    "debtor",
+    "mortgagor",
+    "insolvent",
+    "defaulter",
+    "pledger"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/borrower.mp3",
+  "local_sound_path": "sounds/borrower.mp3"
+}

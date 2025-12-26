@@ -1,0 +1,26 @@
+{
+  "word": "madness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105168.png",
+      "local_image_path": "images/105168.png"
+    }
+  ],
+  "synonyms": [
+    "folly",
+    "foolishness",
+    "stupidity",
+    "idiocy",
+    "foolhardiness"
+  ],
+  "antonyms": [
+    "sanity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/madness.mp3",
+  "local_sound_path": "sounds/madness.mp3"
+}

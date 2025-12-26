@@ -1,0 +1,54 @@
+{
+  "word": "advert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2586.png",
+      "local_image_path": "images/2586.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112014.png",
+      "local_image_path": "images/112014.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113337.png",
+      "local_image_path": "images/113337.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2585.png",
+      "local_image_path": "images/2585.png"
+    }
+  ],
+  "synonyms": [
+    "advertisement",
+    "ad",
+    "announcement",
+    "poster",
+    "billboard",
+    "commercial",
+    "flier",
+    "flyer",
+    "trailer",
+    "hoarding"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "advertise",
+    "advertised tour",
+    "advertisement",
+    "advertiser",
+    "advertising",
+    "advertorial"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advert.mp3",
+  "local_sound_path": "sounds/advert.mp3"
+}

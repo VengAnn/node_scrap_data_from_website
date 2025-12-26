@@ -1,0 +1,81 @@
+{
+  "word": "resort",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "resort to violence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72807.png",
+      "local_image_path": "images/72807.png"
+    },
+    {
+      "pos": "iv",
+      "example": "resort to the beach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72808.png",
+      "local_image_path": "images/72808.png"
+    },
+    {
+      "pos": "n",
+      "example": "summer resort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72809.png",
+      "local_image_path": "images/72809.png"
+    },
+    {
+      "pos": "n",
+      "example": "last resort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72810.png",
+      "local_image_path": "images/72810.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72806.png",
+      "local_image_path": "images/72806.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126970.png",
+      "local_image_path": "images/126970.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126971.png",
+      "local_image_path": "images/126971.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126972.png",
+      "local_image_path": "images/126972.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126973.png",
+      "local_image_path": "images/126973.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126974.png",
+      "local_image_path": "images/126974.png"
+    }
+  ],
+  "synonyms": [
+    "option",
+    "alternative",
+    "remedy",
+    "choice",
+    "route",
+    "recourse",
+    "possibility",
+    "help"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resort.mp3",
+  "local_sound_path": "sounds/resort.mp3"
+}

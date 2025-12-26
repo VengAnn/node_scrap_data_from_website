@@ -1,0 +1,45 @@
+{
+  "word": "baptize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7393.png",
+      "local_image_path": "images/7393.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114556.png",
+      "local_image_path": "images/114556.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114557.png",
+      "local_image_path": "images/114557.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114558.png",
+      "local_image_path": "images/114558.png"
+    }
+  ],
+  "synonyms": [
+    "name",
+    "describe",
+    "identify",
+    "entitle",
+    "label",
+    "term",
+    "dub",
+    "christen"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baptize.mp3",
+  "local_sound_path": "sounds/baptize.mp3"
+}

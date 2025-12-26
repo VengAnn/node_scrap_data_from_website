@@ -1,0 +1,40 @@
+{
+  "word": "scoff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76829.png",
+      "local_image_path": "images/76829.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76828.png",
+      "local_image_path": "images/76828.png"
+    }
+  ],
+  "synonyms": [
+    "mock",
+    "ridicule",
+    "jeer",
+    "sneer",
+    "eat",
+    "guzzle",
+    "gobble",
+    "bolt",
+    "wolf"
+  ],
+  "antonyms": [
+    "praise",
+    "nibble"
+  ],
+  "similar_words": [
+    "scoffer",
+    "scoffingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scoff.mp3",
+  "local_sound_path": "sounds/scoff.mp3"
+}

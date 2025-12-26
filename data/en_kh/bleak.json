@@ -1,0 +1,47 @@
+{
+  "word": "bleak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bleak landscape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9480.png",
+      "local_image_path": "images/9480.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115186.png",
+      "local_image_path": "images/115186.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115187.png",
+      "local_image_path": "images/115187.png"
+    }
+  ],
+  "synonyms": [
+    "cold",
+    "harsh",
+    "wintry",
+    "cheerless",
+    "miserable",
+    "bitter",
+    "chilling",
+    "biting"
+  ],
+  "antonyms": [
+    "cheerful",
+    "promising",
+    "warm",
+    "friendly"
+  ],
+  "similar_words": [
+    "bleakly",
+    "bleakness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bleak.mp3",
+  "local_sound_path": "sounds/bleak.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "package",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59164.png",
+      "local_image_path": "images/59164.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59165.png",
+      "local_image_path": "images/59165.png"
+    }
+  ],
+  "synonyms": [
+    "wrap",
+    "embalm",
+    "envelope",
+    "enclose"
+  ],
+  "antonyms": [
+    "unwrap"
+  ],
+  "similar_words": [
+    "package deal",
+    "package mortgage",
+    "package tour"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/package.mp3",
+  "local_sound_path": "sounds/package.mp3"
+}

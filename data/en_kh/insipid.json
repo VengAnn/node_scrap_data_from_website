@@ -1,0 +1,32 @@
+{
+  "word": "insipid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "insipid food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40571.png",
+      "local_image_path": "images/40571.png"
+    }
+  ],
+  "synonyms": [
+    "bland",
+    "tasteless",
+    "unappetizing",
+    "flavorless",
+    "watery",
+    "weak",
+    "wishy-washy"
+  ],
+  "antonyms": [
+    "exciting",
+    "tasty"
+  ],
+  "similar_words": [
+    "insipidity",
+    "insipidly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/insipid.mp3",
+  "local_sound_path": "sounds/insipid.mp3"
+}

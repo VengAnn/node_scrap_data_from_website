@@ -1,0 +1,32 @@
+{
+  "word": "aliment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3382.png",
+      "local_image_path": "images/3382.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3383.png",
+      "local_image_path": "images/3383.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "alimental",
+    "alimentally",
+    "alimentary",
+    "alimentary canal",
+    "alimentary-canal",
+    "alimentation",
+    "alimentative"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aliment.mp3",
+  "local_sound_path": "sounds/aliment.mp3"
+}

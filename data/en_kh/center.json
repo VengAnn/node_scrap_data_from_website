@@ -1,0 +1,52 @@
+{
+  "word": "center",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "center point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13571.png",
+      "local_image_path": "images/13571.png"
+    },
+    {
+      "pos": "n",
+      "example": "trade center",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13569.png",
+      "local_image_path": "images/13569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13570.png",
+      "local_image_path": "images/13570.png"
+    }
+  ],
+  "synonyms": [
+    "focus",
+    "concentrate",
+    "fix",
+    "pinpoint",
+    "highlight",
+    "spotlight",
+    "middle",
+    "hub",
+    "heart",
+    "core",
+    "midpoint",
+    "interior",
+    "inside",
+    "axis"
+  ],
+  "antonyms": [
+    "edge",
+    "periphery",
+    "scatter",
+    "extreme",
+    "coating",
+    "ignore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/center.mp3",
+  "local_sound_path": "sounds/center.mp3"
+}

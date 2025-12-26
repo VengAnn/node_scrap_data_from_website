@@ -1,0 +1,81 @@
+{
+  "word": "sheep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78984.png",
+      "local_image_path": "images/78984.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78981.png",
+      "local_image_path": "images/78981.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78982.png",
+      "local_image_path": "images/78982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78983.png",
+      "local_image_path": "images/78983.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78985.png",
+      "local_image_path": "images/78985.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127752.png",
+      "local_image_path": "images/127752.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127753.png",
+      "local_image_path": "images/127753.png"
+    }
+  ],
+  "synonyms": [
+    "traditionalist",
+    "follower"
+  ],
+  "antonyms": [
+    "rebel",
+    "individualist"
+  ],
+  "similar_words": [
+    "sheep-bitter",
+    "sheep-cote",
+    "sheep-dip",
+    "sheep-dog",
+    "sheep-faced",
+    "sheep-farmer",
+    "sheep-hook",
+    "sheep-master",
+    "sheep-run",
+    "sheep-shearer",
+    "sheep-shearing",
+    "sheepfold",
+    "sheepish",
+    "sheepishly",
+    "sheepishness",
+    "sheepman",
+    "sheepshank",
+    "sheepskin",
+    "sheepwalk",
+    "sheepyard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sheep.mp3",
+  "local_sound_path": "sounds/sheep.mp3"
+}

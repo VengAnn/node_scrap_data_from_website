@@ -1,0 +1,40 @@
+{
+  "word": "bonny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10111.png",
+      "local_image_path": "images/10111.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115368.png",
+      "local_image_path": "images/115368.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115369.png",
+      "local_image_path": "images/115369.png"
+    }
+  ],
+  "synonyms": [
+    "good-looking",
+    "lovely",
+    "pretty",
+    "handsome",
+    "attractive",
+    "appealing",
+    "healthy"
+  ],
+  "antonyms": [
+    "unattractive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bonny.mp3",
+  "local_sound_path": "sounds/bonny.mp3"
+}

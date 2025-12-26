@@ -1,0 +1,43 @@
+{
+  "word": "podgy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "podgy man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64529.png",
+      "local_image_path": "images/64529.png"
+    },
+    {
+      "pos": "adj",
+      "example": "podgy fingers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64530.png",
+      "local_image_path": "images/64530.png"
+    }
+  ],
+  "synonyms": [
+    "fat",
+    "fleshy",
+    "overweight",
+    "round",
+    "flabby",
+    "chubby",
+    "stout",
+    "obese",
+    "stubby",
+    "heavy",
+    "portly",
+    "stocky",
+    "pudgy",
+    "plump",
+    "chunky"
+  ],
+  "antonyms": [
+    "slim",
+    "thin"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/podgy.mp3",
+  "local_sound_path": "sounds/podgy.mp3"
+}

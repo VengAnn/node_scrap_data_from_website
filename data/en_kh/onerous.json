@@ -1,0 +1,42 @@
+{
+  "word": "onerous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57606.png",
+      "local_image_path": "images/57606.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124913.png",
+      "local_image_path": "images/124913.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124914.png",
+      "local_image_path": "images/124914.png"
+    }
+  ],
+  "synonyms": [
+    "burdensome",
+    "arduous",
+    "heavy",
+    "difficult",
+    "tiring",
+    "tedious"
+  ],
+  "antonyms": [
+    "easy"
+  ],
+  "similar_words": [
+    "onerously",
+    "onerousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/onerous.mp3",
+  "local_sound_path": "sounds/onerous.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "sewage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78525.png",
+      "local_image_path": "images/78525.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78526.png",
+      "local_image_path": "images/78526.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127690.png",
+      "local_image_path": "images/127690.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78524.png",
+      "local_image_path": "images/78524.png"
+    }
+  ],
+  "synonyms": [
+    "manure",
+    "dirt",
+    "mess"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sewage-farm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sewage.mp3",
+  "local_sound_path": "sounds/sewage.mp3"
+}

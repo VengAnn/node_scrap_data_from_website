@@ -1,0 +1,37 @@
+{
+  "word": "parachute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59885.png",
+      "local_image_path": "images/59885.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59884.png",
+      "local_image_path": "images/59884.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59886.png",
+      "local_image_path": "images/59886.png"
+    }
+  ],
+  "synonyms": [
+    "jump",
+    "descend",
+    "drop",
+    "fall",
+    "plummet",
+    "dive"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/parachute.mp3",
+  "local_sound_path": "sounds/parachute.mp3"
+}

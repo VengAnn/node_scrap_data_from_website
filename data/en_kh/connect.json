@@ -1,0 +1,72 @@
+{
+  "word": "connect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the wires connect under the floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16881.png",
+      "local_image_path": "images/16881.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the two towns are connected by a railway",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16880.png",
+      "local_image_path": "images/16880.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130191.png",
+      "local_image_path": "images/130191.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130192.png",
+      "local_image_path": "images/130192.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130193.png",
+      "local_image_path": "images/130193.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130194.png",
+      "local_image_path": "images/130194.png"
+    }
+  ],
+  "synonyms": [
+    "link",
+    "tie",
+    "associate",
+    "relate",
+    "click",
+    "bond"
+  ],
+  "antonyms": [
+    "disconnect",
+    "separate"
+  ],
+  "similar_words": [
+    "connectable",
+    "connectedly",
+    "connectedness",
+    "connecter",
+    "connectible",
+    "connecting flight",
+    "connecting room",
+    "connection",
+    "connectional",
+    "connective",
+    "connectively",
+    "connectivity",
+    "connector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/connect.mp3",
+  "local_sound_path": "sounds/connect.mp3"
+}

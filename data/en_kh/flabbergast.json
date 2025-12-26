@@ -1,0 +1,40 @@
+{
+  "word": "flabbergast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28817.png",
+      "local_image_path": "images/28817.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120197.png",
+      "local_image_path": "images/120197.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120198.png",
+      "local_image_path": "images/120198.png"
+    }
+  ],
+  "synonyms": [
+    "stun",
+    "astonish",
+    "flummox",
+    "surprise",
+    "dumbfound",
+    "amaze",
+    "astound",
+    "shock",
+    "stagger"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flabbergast.mp3",
+  "local_sound_path": "sounds/flabbergast.mp3"
+}

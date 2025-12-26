@@ -1,0 +1,58 @@
+{
+  "word": "buzz",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12126.png",
+      "local_image_path": "images/12126.png"
+    },
+    {
+      "pos": "n",
+      "example": "there's a buzz going round that the boss has resigned",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12124.png",
+      "local_image_path": "images/12124.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12125.png",
+      "local_image_path": "images/12125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131060.png",
+      "local_image_path": "images/131060.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12127.png",
+      "local_image_path": "images/12127.png"
+    }
+  ],
+  "synonyms": [
+    "thrill",
+    "high",
+    "kick",
+    "hum",
+    "drone",
+    "murmur",
+    "whine",
+    "whirr",
+    "hiss"
+  ],
+  "antonyms": [
+    "silence"
+  ],
+  "similar_words": [
+    "buzz session",
+    "buzzard",
+    "buzzer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buzz.mp3",
+  "local_sound_path": "sounds/buzz.mp3"
+}

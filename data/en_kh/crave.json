@@ -1,0 +1,36 @@
+{
+  "word": "crave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18432.png",
+      "local_image_path": "images/18432.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131020.png",
+      "local_image_path": "images/131020.png"
+    }
+  ],
+  "synonyms": [
+    "beg",
+    "pray",
+    "request",
+    "implore",
+    "entreat",
+    "beseech",
+    "ask",
+    "sue"
+  ],
+  "antonyms": [
+    "dislike",
+    "reject"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crave.mp3",
+  "local_sound_path": "sounds/crave.mp3"
+}

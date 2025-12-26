@@ -1,0 +1,38 @@
+{
+  "word": "fearfully",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27907.png",
+      "local_image_path": "images/27907.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119982.png",
+      "local_image_path": "images/119982.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119983.png",
+      "local_image_path": "images/119983.png"
+    }
+  ],
+  "synonyms": [
+    "nervously",
+    "timidly",
+    "uneasily",
+    "apprehensively",
+    "anxiously"
+  ],
+  "antonyms": [
+    "fearlessly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fearfully.mp3",
+  "local_sound_path": "sounds/fearfully.mp3"
+}

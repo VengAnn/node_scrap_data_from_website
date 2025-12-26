@@ -1,0 +1,35 @@
+{
+  "word": "unconscious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "unconscious patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93785.png",
+      "local_image_path": "images/93785.png"
+    },
+    {
+      "pos": "adj",
+      "example": "unconscious mistake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93786.png",
+      "local_image_path": "images/93786.png"
+    }
+  ],
+  "synonyms": [
+    "ego",
+    "self",
+    "psyche"
+  ],
+  "antonyms": [
+    "awake",
+    "aware",
+    "deliberate"
+  ],
+  "similar_words": [
+    "unconsciously",
+    "unconsciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unconscious.mp3",
+  "local_sound_path": "sounds/unconscious.mp3"
+}

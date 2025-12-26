@@ -1,0 +1,30 @@
+{
+  "word": "celebrity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13488.png",
+      "local_image_path": "images/13488.png"
+    }
+  ],
+  "synonyms": [
+    "fame",
+    "notoriety",
+    "renown",
+    "prominence",
+    "stardom",
+    "recognition",
+    "acclaim",
+    "popularity"
+  ],
+  "antonyms": [
+    "nobody",
+    "obscurity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/celebrity.mp3",
+  "local_sound_path": "sounds/celebrity.mp3"
+}

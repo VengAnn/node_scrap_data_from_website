@@ -1,0 +1,50 @@
+{
+  "word": "agreement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "planket agreement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3033.png",
+      "local_image_path": "images/3033.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113461.png",
+      "local_image_path": "images/113461.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113462.png",
+      "local_image_path": "images/113462.png"
+    }
+  ],
+  "synonyms": [
+    "contract",
+    "arrangement",
+    "covenant",
+    "treaty",
+    "promise",
+    "pact",
+    "settlement",
+    "bargain",
+    "understanding",
+    "deal",
+    "accord",
+    "concord",
+    "conformity",
+    "harmony",
+    "union",
+    "concurrence",
+    "consonance"
+  ],
+  "antonyms": [
+    "disagreement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agreement.mp3",
+  "local_sound_path": "sounds/agreement.mp3"
+}

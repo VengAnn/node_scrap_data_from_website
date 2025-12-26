@@ -1,0 +1,40 @@
+{
+  "word": "cushion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sofa cushion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19245.png",
+      "local_image_path": "images/19245.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19247.png",
+      "local_image_path": "images/19247.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cushion a chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19246.png",
+      "local_image_path": "images/19246.png"
+    }
+  ],
+  "synonyms": [
+    "protect",
+    "shield",
+    "pad",
+    "guard",
+    "support",
+    "bolster"
+  ],
+  "antonyms": [
+    "exacerbate",
+    "expose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cushion.mp3",
+  "local_sound_path": "sounds/cushion.mp3"
+}

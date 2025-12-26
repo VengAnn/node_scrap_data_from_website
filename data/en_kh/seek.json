@@ -1,0 +1,50 @@
+{
+  "word": "seek",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I will seek a new house next month.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77692.png",
+      "local_image_path": "images/77692.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I shall seek my doctor's advice.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77693.png",
+      "local_image_path": "images/77693.png"
+    },
+    {
+      "pos": "tv",
+      "example": "seek to convince him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77694.png",
+      "local_image_path": "images/77694.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77695.png",
+      "local_image_path": "images/77695.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77696.png",
+      "local_image_path": "images/77696.png"
+    }
+  ],
+  "synonyms": [
+    "request",
+    "get",
+    "take",
+    "obtain"
+  ],
+  "antonyms": [
+    "find",
+    "achieve"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/seek.mp3",
+  "local_sound_path": "sounds/seek.mp3"
+}

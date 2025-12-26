@@ -1,0 +1,34 @@
+{
+  "word": "airlock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3152.png",
+      "local_image_path": "images/3152.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112341.png",
+      "local_image_path": "images/112341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112342.png",
+      "local_image_path": "images/112342.png"
+    }
+  ],
+  "synonyms": [
+    "blockage",
+    "obstruction",
+    "occlusion",
+    "block",
+    "obstacle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null
+}

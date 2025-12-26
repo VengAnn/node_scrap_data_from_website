@@ -1,0 +1,44 @@
+{
+  "word": "problem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "problem child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67189.png",
+      "local_image_path": "images/67189.png"
+    },
+    {
+      "pos": "n",
+      "example": "personal problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67188.png",
+      "local_image_path": "images/67188.png"
+    }
+  ],
+  "synonyms": [
+    "difficult",
+    "problematic",
+    "tricky",
+    "unruly",
+    "delinquent",
+    "difficulty",
+    "trouble",
+    "crisis",
+    "dilemma",
+    "predicament",
+    "quandary"
+  ],
+  "antonyms": [
+    "easy"
+  ],
+  "similar_words": [
+    "problematic",
+    "problematical",
+    "problematically",
+    "problematist",
+    "problemist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/problem.mp3",
+  "local_sound_path": "sounds/problem.mp3"
+}

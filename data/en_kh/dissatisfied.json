@@ -1,0 +1,39 @@
+{
+  "word": "dissatisfied",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I'm thoroughly dissatisfied with your work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22160.png",
+      "local_image_path": "images/22160.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118605.png",
+      "local_image_path": "images/118605.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118606.png",
+      "local_image_path": "images/118606.png"
+    }
+  ],
+  "synonyms": [
+    "disgruntled",
+    "displeased",
+    "discontented",
+    "disappointed",
+    "unhappy",
+    "peeved"
+  ],
+  "antonyms": [
+    "satisfied"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissatisfied.mp3",
+  "local_sound_path": "sounds/dissatisfied.mp3"
+}

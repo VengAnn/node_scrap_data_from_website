@@ -1,0 +1,60 @@
+{
+  "word": "persistent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "persistent suitor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61993.png",
+      "local_image_path": "images/61993.png"
+    },
+    {
+      "pos": "adj",
+      "example": "persistent disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61994.png",
+      "local_image_path": "images/61994.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131307.png",
+      "local_image_path": "images/131307.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132077.png",
+      "local_image_path": "images/132077.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132078.png",
+      "local_image_path": "images/132078.png"
+    }
+  ],
+  "synonyms": [
+    "lasting",
+    "remaining",
+    "enduring",
+    "permanent",
+    "unshakable",
+    "continual",
+    "unrelenting",
+    "incessant",
+    "constant",
+    "relentless",
+    "importunate",
+    "determined",
+    "pushy"
+  ],
+  "antonyms": [
+    "feeble",
+    "fleeting",
+    "irresolute"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/persistent.mp3",
+  "local_sound_path": "sounds/persistent.mp3"
+}

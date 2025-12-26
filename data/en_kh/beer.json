@@ -1,0 +1,48 @@
+{
+  "word": "beer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8043.png",
+      "local_image_path": "images/8043.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114814.png",
+      "local_image_path": "images/114814.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114815.png",
+      "local_image_path": "images/114815.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114816.png",
+      "local_image_path": "images/114816.png"
+    }
+  ],
+  "synonyms": [
+    "cocktail",
+    "alcoholic drink",
+    "nip",
+    "tipple",
+    "snifter",
+    "pint",
+    "half"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beeregar",
+    "beermat",
+    "beery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beer.mp3",
+  "local_sound_path": "sounds/beer.mp3"
+}

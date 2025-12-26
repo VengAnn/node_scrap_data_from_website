@@ -1,0 +1,50 @@
+{
+  "word": "novice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Buddhist novice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56488.png",
+      "local_image_path": "images/56488.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56489.png",
+      "local_image_path": "images/56489.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124755.png",
+      "local_image_path": "images/124755.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124756.png",
+      "local_image_path": "images/124756.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124757.png",
+      "local_image_path": "images/124757.png"
+    }
+  ],
+  "synonyms": [
+    "beginner",
+    "learner",
+    "trainee",
+    "apprentice",
+    "greenhorn",
+    "neophyte",
+    "rookie"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/novice.mp3",
+  "local_sound_path": "sounds/novice.mp3"
+}

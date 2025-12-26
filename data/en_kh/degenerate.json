@@ -1,0 +1,60 @@
+{
+  "word": "degenerate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20253.png",
+      "local_image_path": "images/20253.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20252.png",
+      "local_image_path": "images/20252.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117930.png",
+      "local_image_path": "images/117930.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117931.png",
+      "local_image_path": "images/117931.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20254.png",
+      "local_image_path": "images/20254.png"
+    }
+  ],
+  "synonyms": [
+    "reprobate",
+    "miscreant",
+    "deteriorate",
+    "disintegrate",
+    "worsen",
+    "collapse",
+    "relapse",
+    "sink",
+    "slip",
+    "fall",
+    "reduce"
+  ],
+  "antonyms": [
+    "improve",
+    "moral"
+  ],
+  "similar_words": [
+    "degenerately",
+    "degenerateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/degenerate.mp3",
+  "local_sound_path": "sounds/degenerate.mp3"
+}

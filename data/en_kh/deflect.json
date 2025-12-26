@@ -1,0 +1,40 @@
+{
+  "word": "deflect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20206.png",
+      "local_image_path": "images/20206.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20205.png",
+      "local_image_path": "images/20205.png"
+    }
+  ],
+  "synonyms": [
+    "bounce",
+    "glance",
+    "ricochet",
+    "rebound",
+    "repel",
+    "redirect",
+    "avert",
+    "prevent"
+  ],
+  "antonyms": [
+    "attract"
+  ],
+  "similar_words": [
+    "deflectable",
+    "deflection",
+    "deflective",
+    "deflector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deflect.mp3",
+  "local_sound_path": "sounds/deflect.mp3"
+}

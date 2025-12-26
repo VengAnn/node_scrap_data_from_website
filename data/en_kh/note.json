@@ -1,0 +1,80 @@
+{
+  "word": "note",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "write him a note",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56387.png",
+      "local_image_path": "images/56387.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a note of the date",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56388.png",
+      "local_image_path": "images/56388.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56389.png",
+      "local_image_path": "images/56389.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56390.png",
+      "local_image_path": "images/56390.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56391.png",
+      "local_image_path": "images/56391.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56392.png",
+      "local_image_path": "images/56392.png"
+    }
+  ],
+  "synonyms": [
+    "tone",
+    "edge",
+    "tinge",
+    "shade",
+    "hint",
+    "suggestion",
+    "record",
+    "log",
+    "write",
+    "document",
+    "note down",
+    "write down"
+  ],
+  "antonyms": [
+    "disregard"
+  ],
+  "similar_words": [
+    "note down",
+    "note of hand",
+    "note pad",
+    "note-forger",
+    "notebook",
+    "notecase",
+    "noted",
+    "notedly",
+    "noteless",
+    "notelet",
+    "noteness",
+    "notepaper",
+    "noter",
+    "noteworthily",
+    "noteworthiness",
+    "noteworthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/note.mp3",
+  "local_sound_path": "sounds/note.mp3"
+}

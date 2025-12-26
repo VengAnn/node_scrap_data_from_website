@@ -1,0 +1,60 @@
+{
+  "word": "vagabond",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97055.png",
+      "local_image_path": "images/97055.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97056.png",
+      "local_image_path": "images/97056.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97054.png",
+      "local_image_path": "images/97054.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129644.png",
+      "local_image_path": "images/129644.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129645.png",
+      "local_image_path": "images/129645.png"
+    }
+  ],
+  "synonyms": [
+    "vagrant",
+    "tramp",
+    "drifter",
+    "beggar",
+    "hobo",
+    "traveller",
+    "wanderer",
+    "gypsy",
+    "nomad"
+  ],
+  "antonyms": [
+    "resident"
+  ],
+  "similar_words": [
+    "vagabondage",
+    "vagabondish",
+    "vagabondism",
+    "vagabondize",
+    "vagabondry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vagabond.mp3",
+  "local_sound_path": "sounds/vagabond.mp3"
+}

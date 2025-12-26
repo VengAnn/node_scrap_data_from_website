@@ -1,0 +1,50 @@
+{
+  "word": "athletic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "athletic compitition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6150.png",
+      "local_image_path": "images/6150.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112842.png",
+      "local_image_path": "images/112842.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112843.png",
+      "local_image_path": "images/112843.png"
+    }
+  ],
+  "synonyms": [
+    "fit",
+    "sporty",
+    "healthy",
+    "physical",
+    "agile",
+    "nimble",
+    "muscular",
+    "vigorous",
+    "energetic",
+    "strong",
+    "powerful",
+    "lithe",
+    "active"
+  ],
+  "antonyms": [
+    "unfit"
+  ],
+  "similar_words": [
+    "athletically",
+    "athleticism",
+    "athletics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/athletic.mp3",
+  "local_sound_path": "sounds/athletic.mp3"
+}

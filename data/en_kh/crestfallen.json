@@ -1,0 +1,38 @@
+{
+  "word": "crestfallen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18556.png",
+      "local_image_path": "images/18556.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131009.png",
+      "local_image_path": "images/131009.png"
+    }
+  ],
+  "synonyms": [
+    "dejected",
+    "disappointed",
+    "down",
+    "depressed",
+    "sad",
+    "disconsolate",
+    "discouraged",
+    "downcast"
+  ],
+  "antonyms": [
+    "cheerful"
+  ],
+  "similar_words": [
+    "crestfallenly",
+    "crestfallenness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crestfallen.mp3",
+  "local_sound_path": "sounds/crestfallen.mp3"
+}

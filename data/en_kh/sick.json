@@ -1,0 +1,59 @@
+{
+  "word": "sick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sick child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79751.png",
+      "local_image_path": "images/79751.png"
+    },
+    {
+      "pos": "n",
+      "example": "the sick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79752.png",
+      "local_image_path": "images/79752.png"
+    }
+  ],
+  "synonyms": [
+    "nauseous",
+    "dizzy",
+    "queasy",
+    "vomit",
+    "bile",
+    "puke",
+    "barf"
+  ],
+  "antonyms": [
+    "well"
+  ],
+  "similar_words": [
+    "sick passim",
+    "sick-bay",
+    "sick-bed",
+    "sick-call",
+    "sick-flag",
+    "sick-leave",
+    "sick-list",
+    "sick-nurse",
+    "sick-out",
+    "sick-pay",
+    "sicken",
+    "sickening",
+    "sicker",
+    "sickheadache",
+    "sickish",
+    "sickishly",
+    "sickishness",
+    "sickle",
+    "sickle-feather",
+    "sickle-man",
+    "sickler",
+    "sickless",
+    "sickliness",
+    "sickly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sick.mp3",
+  "local_sound_path": "sounds/sick.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "baa",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6866.png",
+      "local_image_path": "images/6866.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6867.png",
+      "local_image_path": "images/6867.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "Baa-lamb",
+    "baaskap"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baa.mp3",
+  "local_sound_path": "sounds/baa.mp3"
+}

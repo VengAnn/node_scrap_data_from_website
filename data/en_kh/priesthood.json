@@ -1,0 +1,36 @@
+{
+  "word": "priesthood",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "enter the priesthood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66895.png",
+      "local_image_path": "images/66895.png"
+    },
+    {
+      "pos": "n",
+      "example": "decision of the priesthood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66896.png",
+      "local_image_path": "images/66896.png"
+    },
+    {
+      "pos": "n",
+      "example": "confer priesthood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66897.png",
+      "local_image_path": "images/66897.png"
+    }
+  ],
+  "synonyms": [
+    "clergy",
+    "ministry",
+    "cloth"
+  ],
+  "antonyms": [
+    "laity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/priesthood.mp3",
+  "local_sound_path": "sounds/priesthood.mp3"
+}

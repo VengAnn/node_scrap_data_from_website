@@ -1,0 +1,40 @@
+{
+  "word": "gravity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "gravity of the crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32736.png",
+      "local_image_path": "images/32736.png"
+    },
+    {
+      "pos": "n",
+      "example": "gravity of his expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32737.png",
+      "local_image_path": "images/32737.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32738.png",
+      "local_image_path": "images/32738.png"
+    }
+  ],
+  "synonyms": [
+    "solemnity",
+    "grimness",
+    "dignity",
+    "earnestness",
+    "thoughtfulness",
+    "somberness"
+  ],
+  "antonyms": [
+    "insignificance",
+    "cheerfulness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gravity.mp3",
+  "local_sound_path": "sounds/gravity.mp3"
+}

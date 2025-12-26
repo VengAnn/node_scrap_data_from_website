@@ -1,0 +1,57 @@
+{
+  "word": "daunt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19720.png",
+      "local_image_path": "images/19720.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117723.png",
+      "local_image_path": "images/117723.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117724.png",
+      "local_image_path": "images/117724.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117725.png",
+      "local_image_path": "images/117725.png"
+    }
+  ],
+  "synonyms": [
+    "deter",
+    "discourage",
+    "intimidate",
+    "scare",
+    "frighten",
+    "overwhelm",
+    "dishearten",
+    "overawe",
+    "unnerve",
+    "unman",
+    "dismay",
+    "faze",
+    "subdue"
+  ],
+  "antonyms": [
+    "encourage"
+  ],
+  "similar_words": [
+    "daunting",
+    "dauntless",
+    "dauntlessly",
+    "dauntlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/daunt.mp3",
+  "local_sound_path": "sounds/daunt.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "irritation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the irritation of his parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42406.png",
+      "local_image_path": "images/42406.png"
+    },
+    {
+      "pos": "n",
+      "example": "a minor irritation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42407.png",
+      "local_image_path": "images/42407.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a skin irritation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42408.png",
+      "local_image_path": "images/42408.png"
+    }
+  ],
+  "synonyms": [
+    "inflammation",
+    "soreness",
+    "tenderness",
+    "itchiness",
+    "prickliness",
+    "pain",
+    "rash"
+  ],
+  "antonyms": [
+    "calmness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/irritation.mp3",
+  "local_sound_path": "sounds/irritation.mp3"
+}

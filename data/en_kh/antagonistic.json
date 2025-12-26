@@ -1,0 +1,38 @@
+{
+  "word": "antagonistic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "antagonistic idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4503.png",
+      "local_image_path": "images/4503.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112555.png",
+      "local_image_path": "images/112555.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112556.png",
+      "local_image_path": "images/112556.png"
+    }
+  ],
+  "synonyms": [
+    "aggressive",
+    "hostile",
+    "opposed",
+    "unfriendly",
+    "incompatible"
+  ],
+  "antonyms": [
+    "friendly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/antagonistic.mp3",
+  "local_sound_path": "sounds/antagonistic.mp3"
+}

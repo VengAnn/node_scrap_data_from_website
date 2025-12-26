@@ -1,0 +1,44 @@
+{
+  "word": "advance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2549.png",
+      "local_image_path": "images/2549.png"
+    },
+    {
+      "pos": "tv",
+      "example": "advance payment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2548.png",
+      "local_image_path": "images/2548.png"
+    }
+  ],
+  "synonyms": [
+    "progress",
+    "momentum",
+    "onslaught",
+    "improve",
+    "develop",
+    "enhance",
+    "increase",
+    "expand",
+    "spread",
+    "further",
+    "build up"
+  ],
+  "antonyms": [
+    "retreat",
+    "regress",
+    "decline"
+  ],
+  "similar_words": [
+    "advanced",
+    "advancement",
+    "advancer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/advance.mp3",
+  "local_sound_path": "sounds/advance.mp3"
+}

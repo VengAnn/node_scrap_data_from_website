@@ -1,0 +1,48 @@
+{
+  "word": "suppose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I suppose you will come.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86501.png",
+      "local_image_path": "images/86501.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suppose a situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86502.png",
+      "local_image_path": "images/86502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86503.png",
+      "local_image_path": "images/86503.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was supposed to come",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86504.png",
+      "local_image_path": "images/86504.png"
+    }
+  ],
+  "synonyms": [
+    "imagine",
+    "pretend",
+    "consider",
+    "theorize",
+    "hypothesize",
+    "postulate",
+    "predicate",
+    "posit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "supposed",
+    "supposedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suppose.mp3",
+  "local_sound_path": "sounds/suppose.mp3"
+}

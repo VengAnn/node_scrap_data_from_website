@@ -1,0 +1,37 @@
+{
+  "word": "inaudible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38190.png",
+      "local_image_path": "images/38190.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121886.png",
+      "local_image_path": "images/121886.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121887.png",
+      "local_image_path": "images/121887.png"
+    }
+  ],
+  "synonyms": [
+    "muffled",
+    "indistinct",
+    "low"
+  ],
+  "antonyms": [
+    "audible",
+    "perceptible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inaudible.mp3",
+  "local_sound_path": "sounds/inaudible.mp3"
+}

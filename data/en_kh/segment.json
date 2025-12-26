@@ -1,0 +1,55 @@
+{
+  "word": "segment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77726.png",
+      "local_image_path": "images/77726.png"
+    },
+    {
+      "pos": "n",
+      "example": "segment of rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77723.png",
+      "local_image_path": "images/77723.png"
+    },
+    {
+      "pos": "n",
+      "example": "segment of a circle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77724.png",
+      "local_image_path": "images/77724.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77725.png",
+      "local_image_path": "images/77725.png"
+    }
+  ],
+  "synonyms": [
+    "section",
+    "part",
+    "piece",
+    "slice",
+    "sector",
+    "division",
+    "subdivision",
+    "fragment",
+    "portion",
+    "bit",
+    "wedge"
+  ],
+  "antonyms": [
+    "whole"
+  ],
+  "similar_words": [
+    "segmental",
+    "segmentary",
+    "segmentation",
+    "segmenting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/segment.mp3",
+  "local_sound_path": "sounds/segment.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "egotistic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24050.png",
+      "local_image_path": "images/24050.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118939.png",
+      "local_image_path": "images/118939.png"
+    }
+  ],
+  "synonyms": [
+    "egocentric",
+    "narcissistic",
+    "selfish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "egotistical",
+    "egotistically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/egotistic.mp3",
+  "local_sound_path": "sounds/egotistic.mp3"
+}

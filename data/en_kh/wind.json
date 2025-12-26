@@ -1,0 +1,102 @@
+{
+  "word": "wind",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Roads wind through the valley.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100380.png",
+      "local_image_path": "images/100380.png"
+    },
+    {
+      "pos": "n",
+      "example": "strong wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100373.png",
+      "local_image_path": "images/100373.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100374.png",
+      "local_image_path": "images/100374.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100375.png",
+      "local_image_path": "images/100375.png"
+    },
+    {
+      "pos": "sl",
+      "example": "He's really wound up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100379.png",
+      "local_image_path": "images/100379.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100376.png",
+      "local_image_path": "images/100376.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wind a watch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100377.png",
+      "local_image_path": "images/100377.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wind thread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100378.png",
+      "local_image_path": "images/100378.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130938.png",
+      "local_image_path": "images/130938.png"
+    }
+  ],
+  "synonyms": [
+    "snake",
+    "meander",
+    "bend",
+    "curve",
+    "twist"
+  ],
+  "antonyms": [
+    "unwind"
+  ],
+  "similar_words": [
+    "wind down",
+    "wind off",
+    "wind shaken",
+    "wind-bound",
+    "wind-driven",
+    "wind-flower",
+    "wind-gauge",
+    "wind-instrument",
+    "wind-jammer",
+    "wind-rose",
+    "wind-screen",
+    "wind-shake",
+    "wind-tight",
+    "windbag",
+    "windbreaker",
+    "winded",
+    "winder",
+    "windfale",
+    "windfall",
+    "windfallen",
+    "windhold",
+    "windily",
+    "windiness",
+    "winding",
+    "winding-sheet",
+    "winding-up",
+    "windingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wind.mp3",
+  "local_sound_path": "sounds/wind.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "caretaker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "caretaker government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12993.png",
+      "local_image_path": "images/12993.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12992.png",
+      "local_image_path": "images/12992.png"
+    }
+  ],
+  "synonyms": [
+    "concierge",
+    "warden",
+    "porter",
+    "custodian"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/caretaker.mp3",
+  "local_sound_path": "sounds/caretaker.mp3"
+}

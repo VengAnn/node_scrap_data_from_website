@@ -1,0 +1,49 @@
+{
+  "word": "address",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "opening address",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2331.png",
+      "local_image_path": "images/2331.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Mr Sok will address the meeting tomorrow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2332.png",
+      "local_image_path": "images/2332.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113236.png",
+      "local_image_path": "images/113236.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113237.png",
+      "local_image_path": "images/113237.png"
+    }
+  ],
+  "synonyms": [
+    "direct",
+    "forward",
+    "deliver",
+    "dispatch",
+    "refer"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "addressable",
+    "addressee",
+    "addresser",
+    "addressograph"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/address.mp3",
+  "local_sound_path": "sounds/address.mp3"
+}

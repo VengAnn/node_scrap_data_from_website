@@ -1,0 +1,32 @@
+{
+  "word": "apart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "a class apart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4868.png",
+      "local_image_path": "images/4868.png"
+    },
+    {
+      "pos": "adv",
+      "example": "the new boy was standing apart from his classmates",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4867.png",
+      "local_image_path": "images/4867.png"
+    }
+  ],
+  "synonyms": [
+    "separately",
+    "distant"
+  ],
+  "antonyms": [
+    "together"
+  ],
+  "similar_words": [
+    "apartheid",
+    "apartment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apart.mp3",
+  "local_sound_path": "sounds/apart.mp3"
+}

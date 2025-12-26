@@ -1,0 +1,93 @@
+{
+  "word": "tail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tail wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87256.png",
+      "local_image_path": "images/87256.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87260.png",
+      "local_image_path": "images/87260.png"
+    },
+    {
+      "pos": "n",
+      "example": "horse's tail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87253.png",
+      "local_image_path": "images/87253.png"
+    },
+    {
+      "pos": "n",
+      "example": "tail of the line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87254.png",
+      "local_image_path": "images/87254.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87259.png",
+      "local_image_path": "images/87259.png"
+    },
+    {
+      "pos": "sl",
+      "example": "put a tail on a suspect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87255.png",
+      "local_image_path": "images/87255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tail a suspect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87257.png",
+      "local_image_path": "images/87257.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tail a kite",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87258.png",
+      "local_image_path": "images/87258.png"
+    }
+  ],
+  "synonyms": [
+    "follow",
+    "track",
+    "trail",
+    "shadow",
+    "stalk",
+    "pursue",
+    "chase"
+  ],
+  "antonyms": [
+    "head",
+    "lead"
+  ],
+  "similar_words": [
+    "tail back",
+    "tail beam",
+    "tail coat",
+    "tail lamp",
+    "tail-end",
+    "tail-heavy",
+    "tail-light",
+    "tail-tip",
+    "tail-wind",
+    "tailboard",
+    "tailbone",
+    "tailed",
+    "tailgate",
+    "taille",
+    "tailless",
+    "tailor",
+    "tailor's chalk",
+    "tailor-bird",
+    "tailor-made",
+    "tailor-made holiday",
+    "tailored"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tail.mp3",
+  "local_sound_path": "sounds/tail.mp3"
+}

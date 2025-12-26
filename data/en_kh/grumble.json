@@ -1,0 +1,35 @@
+{
+  "word": "grumble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Why grumble at me about your own stupid mistakes?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33128.png",
+      "local_image_path": "images/33128.png"
+    },
+    {
+      "pos": "n",
+      "example": "I don't want to hear another grumble from you.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33129.png",
+      "local_image_path": "images/33129.png"
+    }
+  ],
+  "synonyms": [
+    "complaint",
+    "moan",
+    "grouse",
+    "protest",
+    "gripe",
+    "objection",
+    "complain",
+    "object",
+    "mutter",
+    "bellyache"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grumble.mp3",
+  "local_sound_path": "sounds/grumble.mp3"
+}

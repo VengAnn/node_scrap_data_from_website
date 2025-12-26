@@ -1,0 +1,58 @@
+{
+  "word": "sterile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84671.png",
+      "local_image_path": "images/84671.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sterile bandage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84672.png",
+      "local_image_path": "images/84672.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sterile man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84673.png",
+      "local_image_path": "images/84673.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sterile woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84674.png",
+      "local_image_path": "images/84674.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sterile ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84675.png",
+      "local_image_path": "images/84675.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84676.png",
+      "local_image_path": "images/84676.png"
+    }
+  ],
+  "synonyms": [
+    "barren",
+    "childless",
+    "unfruitful",
+    "fruitless",
+    "unproductive",
+    "infertile",
+    "bare"
+  ],
+  "antonyms": [
+    "dirty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sterile.mp3",
+  "local_sound_path": "sounds/sterile.mp3"
+}

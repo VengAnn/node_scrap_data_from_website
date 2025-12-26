@@ -1,0 +1,40 @@
+{
+  "word": "mesmerize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108007.png",
+      "local_image_path": "images/108007.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123937.png",
+      "local_image_path": "images/123937.png"
+    }
+  ],
+  "synonyms": [
+    "hypnotize",
+    "captivate",
+    "enthrall",
+    "entrance",
+    "charm",
+    "fascinate",
+    "absorb",
+    "rivet",
+    "excite",
+    "thrill"
+  ],
+  "antonyms": [
+    "bore"
+  ],
+  "similar_words": [
+    "mesmerizee",
+    "mesmerizer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mesmerize.mp3",
+  "local_sound_path": "sounds/mesmerize.mp3"
+}

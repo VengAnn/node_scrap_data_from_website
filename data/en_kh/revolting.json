@@ -1,0 +1,49 @@
+{
+  "word": "revolting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "revolting atrocities",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73401.png",
+      "local_image_path": "images/73401.png"
+    },
+    {
+      "pos": "adj",
+      "example": "His feet smell revolting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73402.png",
+      "local_image_path": "images/73402.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127102.png",
+      "local_image_path": "images/127102.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127103.png",
+      "local_image_path": "images/127103.png"
+    }
+  ],
+  "synonyms": [
+    "disgusting",
+    "repellent",
+    "repulsive",
+    "sickening",
+    "nauseating",
+    "horrible",
+    "horrendous",
+    "awful",
+    "dreadful",
+    "horrid"
+  ],
+  "antonyms": [
+    "appealing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/revolting.mp3",
+  "local_sound_path": "sounds/revolting.mp3"
+}

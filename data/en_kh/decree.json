@@ -1,0 +1,44 @@
+{
+  "word": "decree",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20053.png",
+      "local_image_path": "images/20053.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131639.png",
+      "local_image_path": "images/131639.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20054.png",
+      "local_image_path": "images/20054.png"
+    }
+  ],
+  "synonyms": [
+    "command",
+    "rule",
+    "pronounce",
+    "announce",
+    "dictate",
+    "declare",
+    "direct",
+    "order",
+    "authorize",
+    "proclaim"
+  ],
+  "antonyms": [
+    "request",
+    "persuade"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decree.mp3",
+  "local_sound_path": "sounds/decree.mp3"
+}

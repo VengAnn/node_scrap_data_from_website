@@ -1,0 +1,47 @@
+{
+  "word": "improvement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "patient shows improvement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37990.png",
+      "local_image_path": "images/37990.png"
+    },
+    {
+      "pos": "n",
+      "example": "This copy is an improvement.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37991.png",
+      "local_image_path": "images/37991.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121770.png",
+      "local_image_path": "images/121770.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121771.png",
+      "local_image_path": "images/121771.png"
+    }
+  ],
+  "synonyms": [
+    "recovery",
+    "recuperation",
+    "progress",
+    "upturn",
+    "convalescence",
+    "restitution",
+    "advance"
+  ],
+  "antonyms": [
+    "deterioration",
+    "decline"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/improvement.mp3",
+  "local_sound_path": "sounds/improvement.mp3"
+}

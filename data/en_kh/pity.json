@@ -1,0 +1,31 @@
+{
+  "word": "pity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63678.png",
+      "local_image_path": "images/63678.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63679.png",
+      "local_image_path": "images/63679.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "luck",
+    "pitilessness",
+    "blame"
+  ],
+  "similar_words": [
+    "pitying",
+    "pityriasis"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pity.mp3",
+  "local_sound_path": "sounds/pity.mp3"
+}

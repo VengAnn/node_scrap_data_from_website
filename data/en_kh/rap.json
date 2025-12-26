@@ -1,0 +1,107 @@
+{
+  "word": "rap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rap on the table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70184.png",
+      "local_image_path": "images/70184.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70188.png",
+      "local_image_path": "images/70188.png"
+    },
+    {
+      "pos": "n",
+      "example": "I heard a rap on the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70185.png",
+      "local_image_path": "images/70185.png"
+    },
+    {
+      "pos": "n",
+      "example": "I don't a rap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70187.png",
+      "local_image_path": "images/70187.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70189.png",
+      "local_image_path": "images/70189.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rap his head",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70180.png",
+      "local_image_path": "images/70180.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rap sth out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70181.png",
+      "local_image_path": "images/70181.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rap an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70182.png",
+      "local_image_path": "images/70182.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70183.png",
+      "local_image_path": "images/70183.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70186.png",
+      "local_image_path": "images/70186.png"
+    }
+  ],
+  "synonyms": [
+    "knock",
+    "crack",
+    "tap",
+    "hit",
+    "smack",
+    "strike",
+    "thwack",
+    "thump",
+    "drum"
+  ],
+  "antonyms": [
+    "caress"
+  ],
+  "similar_words": [
+    "rap sheet",
+    "rapacious",
+    "rapaciously",
+    "rapaciousness",
+    "rapacity",
+    "rape",
+    "rape oil",
+    "raper",
+    "rapeseed",
+    "raphe",
+    "raphia",
+    "rapid",
+    "rapid-fire",
+    "rapidity",
+    "rapidly",
+    "rapier",
+    "rapierthrust",
+    "rapine",
+    "rapist",
+    "rapparee",
+    "rappee",
+    "rappel"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rap.mp3",
+  "local_sound_path": "sounds/rap.mp3"
+}

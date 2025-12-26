@@ -1,0 +1,71 @@
+{
+  "word": "gallant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30878.png",
+      "local_image_path": "images/30878.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30879.png",
+      "local_image_path": "images/30879.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gallant suitor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30880.png",
+      "local_image_path": "images/30880.png"
+    },
+    {
+      "pos": "n",
+      "example": "war gallant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30881.png",
+      "local_image_path": "images/30881.png"
+    },
+    {
+      "pos": "n",
+      "example": "social gallant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30882.png",
+      "local_image_path": "images/30882.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120555.png",
+      "local_image_path": "images/120555.png"
+    }
+  ],
+  "synonyms": [
+    "chivalrous",
+    "courteous",
+    "polite",
+    "gentlemanly",
+    "thoughtful",
+    "suave",
+    "brave",
+    "courageous",
+    "heroic",
+    "valiant",
+    "dauntless",
+    "fearless",
+    "intrepid",
+    "noble",
+    "spirited",
+    "bold"
+  ],
+  "antonyms": [
+    "cowardly",
+    "rude"
+  ],
+  "similar_words": [
+    "gallantly",
+    "gallantry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gallant.mp3",
+  "local_sound_path": "sounds/gallant.mp3"
+}

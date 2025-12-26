@@ -1,0 +1,28 @@
+{
+  "word": "deceased",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19920.png",
+      "local_image_path": "images/19920.png"
+    }
+  ],
+  "synonyms": [
+    "dead",
+    "late",
+    "departed",
+    "cadaver",
+    "corpse",
+    "body",
+    "decedent"
+  ],
+  "antonyms": [
+    "alive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deceased.mp3",
+  "local_sound_path": "sounds/deceased.mp3"
+}

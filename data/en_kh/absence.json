@@ -1,0 +1,47 @@
+{
+  "word": "absence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "in the absence of proof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1603.png",
+      "local_image_path": "images/1603.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111805.png",
+      "local_image_path": "images/111805.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113055.png",
+      "local_image_path": "images/113055.png"
+    },
+    {
+      "pos": "n",
+      "example": "during his absence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1602.png",
+      "local_image_path": "images/1602.png"
+    }
+  ],
+  "synonyms": [
+    "lack",
+    "nonexistence",
+    "deficiency",
+    "want",
+    "dearth",
+    "privation"
+  ],
+  "antonyms": [
+    "presence",
+    "supply",
+    "surplus"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absence.mp3",
+  "local_sound_path": "sounds/absence.mp3"
+}

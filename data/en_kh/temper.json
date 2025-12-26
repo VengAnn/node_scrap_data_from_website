@@ -1,0 +1,70 @@
+{
+  "word": "temper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "in a good temper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88077.png",
+      "local_image_path": "images/88077.png"
+    },
+    {
+      "pos": "n",
+      "example": "get into a temper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88078.png",
+      "local_image_path": "images/88078.png"
+    },
+    {
+      "pos": "tv",
+      "example": "temper steel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88079.png",
+      "local_image_path": "images/88079.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88080.png",
+      "local_image_path": "images/88080.png"
+    },
+    {
+      "pos": "tv",
+      "example": "temper one's criticism with kindness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88081.png",
+      "local_image_path": "images/88081.png"
+    }
+  ],
+  "synonyms": [
+    "moderate",
+    "mitigate",
+    "alleviate",
+    "lighten",
+    "assuage",
+    "lessen",
+    "soothe",
+    "calm",
+    "soften",
+    "palliate"
+  ],
+  "antonyms": [
+    "equanimity",
+    "intensify"
+  ],
+  "similar_words": [
+    "tempera",
+    "temperability",
+    "temperable",
+    "temperament",
+    "temperamental",
+    "temperamentally",
+    "temperance",
+    "temperate",
+    "temperately",
+    "temperateness",
+    "temperature",
+    "tempered",
+    "temperedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/temper.mp3",
+  "local_sound_path": "sounds/temper.mp3"
+}

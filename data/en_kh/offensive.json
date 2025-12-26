@@ -1,0 +1,57 @@
+{
+  "word": "offensive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57288.png",
+      "local_image_path": "images/57288.png"
+    },
+    {
+      "pos": "adj",
+      "example": "offensive remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57289.png",
+      "local_image_path": "images/57289.png"
+    },
+    {
+      "pos": "adj",
+      "example": "offensive warfare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57290.png",
+      "local_image_path": "images/57290.png"
+    },
+    {
+      "pos": "n",
+      "example": "take the offensive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57291.png",
+      "local_image_path": "images/57291.png"
+    }
+  ],
+  "synonyms": [
+    "aggressive",
+    "violent",
+    "assault",
+    "attack",
+    "onslaught",
+    "incursion",
+    "storming",
+    "blitz",
+    "raid",
+    "charge"
+  ],
+  "antonyms": [
+    "nice",
+    "courteous",
+    "peaceful",
+    "agreeable",
+    "retreat"
+  ],
+  "similar_words": [
+    "offensive smell",
+    "offensively",
+    "offensiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/offensive.mp3",
+  "local_sound_path": "sounds/offensive.mp3"
+}

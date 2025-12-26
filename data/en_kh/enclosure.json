@@ -1,0 +1,35 @@
+{
+  "word": "enclosure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "enclosure of aporch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24800.png",
+      "local_image_path": "images/24800.png"
+    },
+    {
+      "pos": "n",
+      "example": "add an enclosure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24801.png",
+      "local_image_path": "images/24801.png"
+    }
+  ],
+  "synonyms": [
+    "inclusion",
+    "attachment",
+    "field",
+    "arena",
+    "stockade",
+    "pen",
+    "corral",
+    "paddock",
+    "compound",
+    "area"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enclosure.mp3",
+  "local_sound_path": "sounds/enclosure.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "plummet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64332.png",
+      "local_image_path": "images/64332.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64333.png",
+      "local_image_path": "images/64333.png"
+    }
+  ],
+  "synonyms": [
+    "fall",
+    "plunge",
+    "drop",
+    "dive",
+    "tumble",
+    "nose-dive",
+    "crash"
+  ],
+  "antonyms": [
+    "climb"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plummet.mp3",
+  "local_sound_path": "sounds/plummet.mp3"
+}

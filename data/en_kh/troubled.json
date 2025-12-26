@@ -1,0 +1,35 @@
+{
+  "word": "troubled",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92045.png",
+      "local_image_path": "images/92045.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128508.png",
+      "local_image_path": "images/128508.png"
+    }
+  ],
+  "synonyms": [
+    "difficult",
+    "unsettled",
+    "problematic",
+    "tricky",
+    "unfortunate",
+    "awkward",
+    "bothered"
+  ],
+  "antonyms": [
+    "calm",
+    "easy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/troubled.mp3",
+  "local_sound_path": "sounds/troubled.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "holler",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35596.png",
+      "local_image_path": "images/35596.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35595.png",
+      "local_image_path": "images/35595.png"
+    }
+  ],
+  "synonyms": [
+    "yell",
+    "shout",
+    "scream",
+    "shriek",
+    "howl",
+    "call",
+    "bellow",
+    "bawl"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/holler.mp3",
+  "local_sound_path": "sounds/holler.mp3"
+}

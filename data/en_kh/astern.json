@@ -1,0 +1,25 @@
+{
+  "word": "astern",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "go astern",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6008.png",
+      "local_image_path": "images/6008.png"
+    }
+  ],
+  "synonyms": [
+    "backward",
+    "backwards"
+  ],
+  "antonyms": [
+    "fore",
+    "forward",
+    "ahead"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astern.mp3",
+  "local_sound_path": "sounds/astern.mp3"
+}

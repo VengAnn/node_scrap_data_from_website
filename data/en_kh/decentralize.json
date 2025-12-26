@@ -1,0 +1,31 @@
+{
+  "word": "decentralize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19941.png",
+      "local_image_path": "images/19941.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117833.png",
+      "local_image_path": "images/117833.png"
+    }
+  ],
+  "synonyms": [
+    "disperse",
+    "distribute",
+    "devolve",
+    "reorganize"
+  ],
+  "antonyms": [
+    "centralize"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decentralize.mp3",
+  "local_sound_path": "sounds/decentralize.mp3"
+}

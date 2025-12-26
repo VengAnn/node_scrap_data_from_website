@@ -1,0 +1,43 @@
+{
+  "word": "downfall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "downfall of a politician",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22896.png",
+      "local_image_path": "images/22896.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22897.png",
+      "local_image_path": "images/22897.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22898.png",
+      "local_image_path": "images/22898.png"
+    }
+  ],
+  "synonyms": [
+    "ruin",
+    "collapse",
+    "disgrace",
+    "fall",
+    "defeat",
+    "end",
+    "demise",
+    "breakdown",
+    "failure"
+  ],
+  "antonyms": [
+    "rise",
+    "success"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/downfall.mp3",
+  "local_sound_path": "sounds/downfall.mp3"
+}

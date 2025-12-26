@@ -1,0 +1,56 @@
+{
+  "word": "partial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60290.png",
+      "local_image_path": "images/60290.png"
+    },
+    {
+      "pos": "adj",
+      "example": "partial blindness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60291.png",
+      "local_image_path": "images/60291.png"
+    },
+    {
+      "pos": "adj",
+      "example": "partial (toward sb/sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60292.png",
+      "local_image_path": "images/60292.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60293.png",
+      "local_image_path": "images/60293.png"
+    }
+  ],
+  "synonyms": [
+    "biased",
+    "unfair",
+    "one-sided",
+    "inequitable",
+    "narrow-minded",
+    "subjective",
+    "preferential"
+  ],
+  "antonyms": [
+    "complete",
+    "fair",
+    "impartial"
+  ],
+  "similar_words": [
+    "partial breach",
+    "partial incapacity",
+    "partialism",
+    "partialist",
+    "partiality",
+    "partialize",
+    "partially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/partial.mp3",
+  "local_sound_path": "sounds/partial.mp3"
+}

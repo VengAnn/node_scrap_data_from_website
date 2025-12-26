@@ -1,0 +1,40 @@
+{
+  "word": "indifference",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39041.png",
+      "local_image_path": "images/39041.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122162.png",
+      "local_image_path": "images/122162.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122163.png",
+      "local_image_path": "images/122163.png"
+    }
+  ],
+  "synonyms": [
+    "unresponsiveness",
+    "apathy",
+    "unconcern",
+    "coldness",
+    "coolness",
+    "disinterest"
+  ],
+  "antonyms": [
+    "concern",
+    "importance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indifference.mp3",
+  "local_sound_path": "sounds/indifference.mp3"
+}

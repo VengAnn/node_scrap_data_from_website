@@ -1,0 +1,43 @@
+{
+  "word": "slander",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80948.png",
+      "local_image_path": "images/80948.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80947.png",
+      "local_image_path": "images/80947.png"
+    }
+  ],
+  "synonyms": [
+    "slur",
+    "insult",
+    "defamation",
+    "libel",
+    "smear",
+    "calumny",
+    "slight",
+    "malign",
+    "disparage",
+    "vilify",
+    "defame"
+  ],
+  "antonyms": [
+    "compliment"
+  ],
+  "similar_words": [
+    "slanderer",
+    "slanderous",
+    "slanderously",
+    "slanderousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slander.mp3",
+  "local_sound_path": "sounds/slander.mp3"
+}

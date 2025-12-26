@@ -1,0 +1,38 @@
+{
+  "word": "hesitate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "She replied without hesitating.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34907.png",
+      "local_image_path": "images/34907.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121071.png",
+      "local_image_path": "images/121071.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121072.png",
+      "local_image_path": "images/121072.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121073.png",
+      "local_image_path": "images/121073.png"
+    }
+  ],
+  "synonyms": [
+    "scruple"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hesitate.mp3",
+  "local_sound_path": "sounds/hesitate.mp3"
+}

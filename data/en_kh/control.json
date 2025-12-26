@@ -1,0 +1,57 @@
+{
+  "word": "control",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he has no control over his emotion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17417.png",
+      "local_image_path": "images/17417.png"
+    },
+    {
+      "pos": "n",
+      "example": "control of one's passions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17418.png",
+      "local_image_path": "images/17418.png"
+    },
+    {
+      "pos": "tv",
+      "example": "control a horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17414.png",
+      "local_image_path": "images/17414.png"
+    },
+    {
+      "pos": "tv",
+      "example": "control a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17415.png",
+      "local_image_path": "images/17415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "control desires",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17416.png",
+      "local_image_path": "images/17416.png"
+    }
+  ],
+  "synonyms": [
+    "check",
+    "inspection",
+    "regulation",
+    "monitor",
+    "regulate",
+    "inspect",
+    "limit",
+    "restrict",
+    "oversee"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "controllable",
+    "controlled substance",
+    "controller",
+    "controllership"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/control.mp3",
+  "local_sound_path": "sounds/control.mp3"
+}

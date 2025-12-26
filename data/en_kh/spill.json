@@ -1,0 +1,75 @@
+{
+  "word": "spill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83364.png",
+      "local_image_path": "images/83364.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83365.png",
+      "local_image_path": "images/83365.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83366.png",
+      "local_image_path": "images/83366.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130822.png",
+      "local_image_path": "images/130822.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spill water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83361.png",
+      "local_image_path": "images/83361.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spill blood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83362.png",
+      "local_image_path": "images/83362.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83363.png",
+      "local_image_path": "images/83363.png"
+    }
+  ],
+  "synonyms": [
+    "leak",
+    "slick",
+    "escape",
+    "discharge",
+    "overflow",
+    "overrun",
+    "fall",
+    "drop",
+    "drip",
+    "trickle",
+    "dribble",
+    "slop",
+    "spatter"
+  ],
+  "antonyms": [
+    "absorb"
+  ],
+  "similar_words": [
+    "spill over",
+    "spillage",
+    "spiller",
+    "spillway"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spill.mp3",
+  "local_sound_path": "sounds/spill.mp3"
+}

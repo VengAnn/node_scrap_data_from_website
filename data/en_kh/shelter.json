@@ -1,0 +1,71 @@
+{
+  "word": "shelter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79067.png",
+      "local_image_path": "images/79067.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79064.png",
+      "local_image_path": "images/79064.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shelter a criminals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79065.png",
+      "local_image_path": "images/79065.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79066.png",
+      "local_image_path": "images/79066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127760.png",
+      "local_image_path": "images/127760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127761.png",
+      "local_image_path": "images/127761.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127762.png",
+      "local_image_path": "images/127762.png"
+    }
+  ],
+  "synonyms": [
+    "housing",
+    "lodging",
+    "accommodation",
+    "protect",
+    "shield",
+    "cover",
+    "defend",
+    "harbor",
+    "take in"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shelter tent",
+    "shelter-trenches",
+    "shelterbelt",
+    "sheltered",
+    "shelterer",
+    "shelterless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shelter.mp3",
+  "local_sound_path": "sounds/shelter.mp3"
+}

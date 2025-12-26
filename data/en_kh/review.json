@@ -1,0 +1,55 @@
+{
+  "word": "review",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73342.png",
+      "local_image_path": "images/73342.png"
+    },
+    {
+      "pos": "n",
+      "example": "literary review",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73337.png",
+      "local_image_path": "images/73337.png"
+    },
+    {
+      "pos": "n",
+      "example": "book review",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73338.png",
+      "local_image_path": "images/73338.png"
+    },
+    {
+      "pos": "n",
+      "example": "a review of the situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73339.png",
+      "local_image_path": "images/73339.png"
+    },
+    {
+      "pos": "n",
+      "example": "lession review",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73340.png",
+      "local_image_path": "images/73340.png"
+    },
+    {
+      "pos": "tv",
+      "example": "review the lesson",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73341.png",
+      "local_image_path": "images/73341.png"
+    }
+  ],
+  "synonyms": [
+    "reconsideration",
+    "check",
+    "reconsider"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "reviewable",
+    "reviewer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/review.mp3",
+  "local_sound_path": "sounds/review.mp3"
+}

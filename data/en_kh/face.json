@@ -1,0 +1,93 @@
+{
+  "word": "face",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "face value",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27274.png",
+      "local_image_path": "images/27274.png"
+    },
+    {
+      "pos": "iv",
+      "example": "face toward the east",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27273.png",
+      "local_image_path": "images/27273.png"
+    },
+    {
+      "pos": "n",
+      "example": "get out of my face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27265.png",
+      "local_image_path": "images/27265.png"
+    },
+    {
+      "pos": "n",
+      "example": "human face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27266.png",
+      "local_image_path": "images/27266.png"
+    },
+    {
+      "pos": "n",
+      "example": "sad face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27267.png",
+      "local_image_path": "images/27267.png"
+    },
+    {
+      "pos": "n",
+      "example": "cut diamond has many faces",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27268.png",
+      "local_image_path": "images/27268.png"
+    },
+    {
+      "pos": "tv",
+      "example": "face the light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27269.png",
+      "local_image_path": "images/27269.png"
+    },
+    {
+      "pos": "tv",
+      "example": "face it withwood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27270.png",
+      "local_image_path": "images/27270.png"
+    },
+    {
+      "pos": "tv",
+      "example": "face the facts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27271.png",
+      "local_image_path": "images/27271.png"
+    },
+    {
+      "pos": "tv",
+      "example": "face it toward me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27272.png",
+      "local_image_path": "images/27272.png"
+    }
+  ],
+  "synonyms": [
+    "side",
+    "surface",
+    "aspect",
+    "elevation",
+    "look"
+  ],
+  "antonyms": [
+    "avoid",
+    "deny",
+    "back"
+  ],
+  "similar_words": [
+    "face value",
+    "face-lift",
+    "faceable",
+    "faceless",
+    "facet",
+    "facete",
+    "facetiae",
+    "facetime",
+    "facetious",
+    "facetiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/face.mp3",
+  "local_sound_path": "sounds/face.mp3"
+}

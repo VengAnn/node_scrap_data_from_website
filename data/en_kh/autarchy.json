@@ -1,0 +1,38 @@
+{
+  "word": "autarchy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6496.png",
+      "local_image_path": "images/6496.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112901.png",
+      "local_image_path": "images/112901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112902.png",
+      "local_image_path": "images/112902.png"
+    }
+  ],
+  "synonyms": [
+    "autocracy",
+    "despotism",
+    "absolutism",
+    "tyranny",
+    "dictatorship"
+  ],
+  "antonyms": [
+    "democracy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/autarchy.mp3",
+  "local_sound_path": "sounds/autarchy.mp3"
+}

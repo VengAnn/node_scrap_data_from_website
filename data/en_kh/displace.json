@@ -1,0 +1,41 @@
+{
+  "word": "displace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22062.png",
+      "local_image_path": "images/22062.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22063.png",
+      "local_image_path": "images/22063.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118570.png",
+      "local_image_path": "images/118570.png"
+    }
+  ],
+  "synonyms": [
+    "oust",
+    "supplant",
+    "replace",
+    "supersede",
+    "succeed",
+    "depose"
+  ],
+  "antonyms": [
+    "restore"
+  ],
+  "similar_words": [
+    "displacement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/displace.mp3",
+  "local_sound_path": "sounds/displace.mp3"
+}

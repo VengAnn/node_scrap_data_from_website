@@ -1,0 +1,34 @@
+{
+  "word": "parity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60150.png",
+      "local_image_path": "images/60150.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60151.png",
+      "local_image_path": "images/60151.png"
+    }
+  ],
+  "synonyms": [
+    "equivalence",
+    "equality",
+    "par",
+    "uniformity",
+    "similarity",
+    "correspondence"
+  ],
+  "antonyms": [
+    "dissimilarity",
+    "disparity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/parity.mp3",
+  "local_sound_path": "sounds/parity.mp3"
+}

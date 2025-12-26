@@ -1,0 +1,38 @@
+{
+  "word": "validation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97128.png",
+      "local_image_path": "images/97128.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129656.png",
+      "local_image_path": "images/129656.png"
+    }
+  ],
+  "synonyms": [
+    "corroboration",
+    "legalization",
+    "justification",
+    "rationale",
+    "substantiation",
+    "support",
+    "confirmation",
+    "authorization",
+    "endorsement",
+    "ratification",
+    "certification"
+  ],
+  "antonyms": [
+    "invalidation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/validation.mp3",
+  "local_sound_path": "sounds/validation.mp3"
+}

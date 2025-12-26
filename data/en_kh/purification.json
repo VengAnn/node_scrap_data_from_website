@@ -1,0 +1,28 @@
+{
+  "word": "purification",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "purification of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68987.png",
+      "local_image_path": "images/68987.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68988.png",
+      "local_image_path": "images/68988.png"
+    }
+  ],
+  "synonyms": [
+    "decontamination",
+    "distillation",
+    "refinement"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/purification.mp3",
+  "local_sound_path": "sounds/purification.mp3"
+}

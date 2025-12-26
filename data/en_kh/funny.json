@@ -1,0 +1,35 @@
+{
+  "word": "funny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "funny play",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30675.png",
+      "local_image_path": "images/30675.png"
+    },
+    {
+      "pos": "adj",
+      "example": "funny incident",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30676.png",
+      "local_image_path": "images/30676.png"
+    }
+  ],
+  "synonyms": [
+    "joke",
+    "pun",
+    "witticism",
+    "gag",
+    "jest",
+    "bon mot"
+  ],
+  "antonyms": [
+    "serious",
+    "boring",
+    "normal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/funny.mp3",
+  "local_sound_path": "sounds/funny.mp3"
+}

@@ -1,0 +1,75 @@
+{
+  "word": "train",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90814.png",
+      "local_image_path": "images/90814.png"
+    },
+    {
+      "pos": "n",
+      "example": "He missed the train.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90810.png",
+      "local_image_path": "images/90810.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90811.png",
+      "local_image_path": "images/90811.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90812.png",
+      "local_image_path": "images/90812.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was trained to be a lawyer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90813.png",
+      "local_image_path": "images/90813.png"
+    }
+  ],
+  "synonyms": [
+    "aim",
+    "direct",
+    "focus",
+    "point"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "train ferry",
+    "train levy",
+    "train officer",
+    "train set",
+    "train unit",
+    "train-oil",
+    "train-spotter",
+    "train-spotting",
+    "trainability",
+    "trainable",
+    "trainband",
+    "trainbearer",
+    "traineau",
+    "trained",
+    "trainee",
+    "traineeship",
+    "trainer",
+    "training",
+    "training school",
+    "training-college",
+    "training-day",
+    "training-ground",
+    "training-ship-vessel",
+    "trainload",
+    "trainman",
+    "trainmaster",
+    "traintree"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/train.mp3",
+  "local_sound_path": "sounds/train.mp3"
+}

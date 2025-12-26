@@ -1,0 +1,53 @@
+{
+  "word": "faithful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She was always faithful to her husband.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27443.png",
+      "local_image_path": "images/27443.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27444.png",
+      "local_image_path": "images/27444.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27445.png",
+      "local_image_path": "images/27445.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27446.png",
+      "local_image_path": "images/27446.png"
+    }
+  ],
+  "synonyms": [
+    "loyal",
+    "devoted",
+    "trusty",
+    "trustworthy",
+    "stanch",
+    "dependable",
+    "reliable",
+    "true",
+    "constant",
+    "staunch"
+  ],
+  "antonyms": [
+    "unrealistic",
+    "faithless"
+  ],
+  "similar_words": [
+    "faithfully",
+    "faithfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/faithful.mp3",
+  "local_sound_path": "sounds/faithful.mp3"
+}

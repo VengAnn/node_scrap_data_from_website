@@ -1,0 +1,48 @@
+{
+  "word": "dexterous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She's very dexterous with the knitting needles.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21134.png",
+      "local_image_path": "images/21134.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130243.png",
+      "local_image_path": "images/130243.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130244.png",
+      "local_image_path": "images/130244.png"
+    }
+  ],
+  "synonyms": [
+    "skillful",
+    "adroit",
+    "clever",
+    "expert",
+    "ingenious",
+    "able",
+    "adept",
+    "efficient",
+    "sharp",
+    "acute",
+    "resourceful"
+  ],
+  "antonyms": [
+    "clumsy",
+    "inept"
+  ],
+  "similar_words": [
+    "dexterously",
+    "dexterousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dexterous.mp3",
+  "local_sound_path": "sounds/dexterous.mp3"
+}

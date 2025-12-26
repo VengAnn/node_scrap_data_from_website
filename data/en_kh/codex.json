@@ -1,0 +1,28 @@
+{
+  "word": "codex",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15439.png",
+      "local_image_path": "images/15439.png"
+    }
+  ],
+  "synonyms": [
+    "manuscript",
+    "scroll",
+    "papyrus",
+    "palimpsest",
+    "parchment",
+    "text",
+    "book",
+    "volume",
+    "collection"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/codex.mp3",
+  "local_sound_path": "sounds/codex.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "hamper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33673.png",
+      "local_image_path": "images/33673.png"
+    },
+    {
+      "pos": "tv",
+      "example": "A big heavy overcoat hampers you when you try to run.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33672.png",
+      "local_image_path": "images/33672.png"
+    }
+  ],
+  "synonyms": [
+    "hinder",
+    "obstruct",
+    "impede",
+    "fetter",
+    "shackle",
+    "encumber",
+    "debilitate"
+  ],
+  "antonyms": [
+    "facilitate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hamper.mp3",
+  "local_sound_path": "sounds/hamper.mp3"
+}

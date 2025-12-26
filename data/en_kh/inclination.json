@@ -1,0 +1,45 @@
+{
+  "word": "inclination",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38405.png",
+      "local_image_path": "images/38405.png"
+    },
+    {
+      "pos": "n",
+      "example": "degree of inclination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38406.png",
+      "local_image_path": "images/38406.png"
+    },
+    {
+      "pos": "n",
+      "example": "angle of inclination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38407.png",
+      "local_image_path": "images/38407.png"
+    },
+    {
+      "pos": "n",
+      "example": "The car has an inclination to stall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38408.png",
+      "local_image_path": "images/38408.png"
+    }
+  ],
+  "synonyms": [
+    "slope",
+    "slant",
+    "incline",
+    "gradient",
+    "pitch",
+    "steepness"
+  ],
+  "antonyms": [
+    "antipathy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inclination.mp3",
+  "local_sound_path": "sounds/inclination.mp3"
+}

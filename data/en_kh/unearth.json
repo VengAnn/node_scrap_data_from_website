@@ -1,0 +1,45 @@
+{
+  "word": "unearth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94223.png",
+      "local_image_path": "images/94223.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The dog ha unearth some bones.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94224.png",
+      "local_image_path": "images/94224.png"
+    },
+    {
+      "pos": "tv",
+      "example": "unearth information",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94225.png",
+      "local_image_path": "images/94225.png"
+    }
+  ],
+  "synonyms": [
+    "exhume",
+    "disinter",
+    "uncover",
+    "discover",
+    "find",
+    "expose",
+    "reveal",
+    "disclose"
+  ],
+  "antonyms": [
+    "bury"
+  ],
+  "similar_words": [
+    "unearthed",
+    "unearthliness",
+    "unearthly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unearth.mp3",
+  "local_sound_path": "sounds/unearth.mp3"
+}

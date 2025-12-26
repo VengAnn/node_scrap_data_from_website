@@ -1,0 +1,48 @@
+{
+  "word": "stupid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stupid man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85633.png",
+      "local_image_path": "images/85633.png"
+    }
+  ],
+  "synonyms": [
+    "unwise",
+    "foolish",
+    "silly",
+    "daft",
+    "ill-advised",
+    "imprudent",
+    "injudicious",
+    "ludicrous",
+    "ridiculous",
+    "laughable",
+    "unintelligent",
+    "dim",
+    "thick",
+    "dense",
+    "slow",
+    "dull",
+    "brainless",
+    "dimwitted",
+    "obtuse",
+    "witless"
+  ],
+  "antonyms": [
+    "clever",
+    "sensible",
+    "wise",
+    "intelligent"
+  ],
+  "similar_words": [
+    "stupidity",
+    "stupidly",
+    "stupidness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stupid.mp3",
+  "local_sound_path": "sounds/stupid.mp3"
+}

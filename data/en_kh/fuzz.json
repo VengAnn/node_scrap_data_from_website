@@ -1,0 +1,26 @@
+{
+  "word": "fuzz",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "peach fuzz",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30787.png",
+      "local_image_path": "images/30787.png"
+    }
+  ],
+  "synonyms": [
+    "blur",
+    "cloud",
+    "haze"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fuzzily",
+    "fuzziness",
+    "fuzzy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fuzz.mp3",
+  "local_sound_path": "sounds/fuzz.mp3"
+}

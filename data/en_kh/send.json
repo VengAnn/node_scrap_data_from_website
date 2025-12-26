@@ -1,0 +1,37 @@
+{
+  "word": "send",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "do you send my money?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78075.png",
+      "local_image_path": "images/78075.png"
+    }
+  ],
+  "synonyms": [
+    "mail",
+    "transmit",
+    "dispatch",
+    "forward",
+    "convey",
+    "remit",
+    "project",
+    "broadcast",
+    "disseminate",
+    "emit"
+  ],
+  "antonyms": [
+    "receive",
+    "bring"
+  ],
+  "similar_words": [
+    "send-off",
+    "sendal",
+    "sender",
+    "sending-off"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/send.mp3",
+  "local_sound_path": "sounds/send.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "agenda",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2887.png",
+      "local_image_path": "images/2887.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112288.png",
+      "local_image_path": "images/112288.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112289.png",
+      "local_image_path": "images/112289.png"
+    }
+  ],
+  "synonyms": [
+    "program",
+    "schedule",
+    "plan",
+    "outline",
+    "schema",
+    "memo",
+    "itinerary"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agenda.mp3",
+  "local_sound_path": "sounds/agenda.mp3"
+}

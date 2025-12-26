@@ -1,0 +1,31 @@
+{
+  "word": "actualize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2257.png",
+      "local_image_path": "images/2257.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2256.png",
+      "local_image_path": "images/2256.png"
+    }
+  ],
+  "synonyms": [
+    "objectify",
+    "realize",
+    "represent",
+    "portray",
+    "reify",
+    "symbolize"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/actualize.mp3",
+  "local_sound_path": "sounds/actualize.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "ready",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dinner is ready",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70493.png",
+      "local_image_path": "images/70493.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131964.png",
+      "local_image_path": "images/131964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70494.png",
+      "local_image_path": "images/70494.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131965.png",
+      "local_image_path": "images/131965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131966.png",
+      "local_image_path": "images/131966.png"
+    }
+  ],
+  "synonyms": [
+    "prepare",
+    "set",
+    "arrange",
+    "prime",
+    "organize",
+    "equip"
+  ],
+  "antonyms": [
+    "unwilling",
+    "unprepared",
+    "unlikely",
+    "slow",
+    "dull"
+  ],
+  "similar_words": [
+    "ready-made"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ready.mp3",
+  "local_sound_path": "sounds/ready.mp3"
+}

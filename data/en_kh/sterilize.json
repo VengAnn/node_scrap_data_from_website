@@ -1,0 +1,30 @@
+{
+  "word": "sterilize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "sterilize instruments",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84680.png",
+      "local_image_path": "images/84680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sterilize a man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84681.png",
+      "local_image_path": "images/84681.png"
+    }
+  ],
+  "synonyms": [
+    "neuter",
+    "spay",
+    "geld"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sterilized"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sterilize.mp3",
+  "local_sound_path": "sounds/sterilize.mp3"
+}

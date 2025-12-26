@@ -1,0 +1,47 @@
+{
+  "word": "controller",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17421.png",
+      "local_image_path": "images/17421.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17422.png",
+      "local_image_path": "images/17422.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117504.png",
+      "local_image_path": "images/117504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117505.png",
+      "local_image_path": "images/117505.png"
+    }
+  ],
+  "synonyms": [
+    "manager",
+    "organizer",
+    "regulator",
+    "director",
+    "checker",
+    "switch",
+    "control",
+    "device",
+    "governor",
+    "rheostat"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/controller.mp3",
+  "local_sound_path": "sounds/controller.mp3"
+}

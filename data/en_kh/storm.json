@@ -1,0 +1,70 @@
+{
+  "word": "storm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "storm door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85071.png",
+      "local_image_path": "images/85071.png"
+    },
+    {
+      "pos": "iv",
+      "example": "storm violently",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85068.png",
+      "local_image_path": "images/85068.png"
+    },
+    {
+      "pos": "iv",
+      "example": "storm with anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85069.png",
+      "local_image_path": "images/85069.png"
+    },
+    {
+      "pos": "n",
+      "example": "heavy storm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85066.png",
+      "local_image_path": "images/85066.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85067.png",
+      "local_image_path": "images/85067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85070.png",
+      "local_image_path": "images/85070.png"
+    }
+  ],
+  "synonyms": [
+    "stamp",
+    "stomp",
+    "stalk",
+    "flounce",
+    "march"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "storm beaten",
+    "storm boun",
+    "storm lantern",
+    "storm troops",
+    "storm-area",
+    "storm-belt",
+    "storm-menacing",
+    "storm-signal",
+    "stormable",
+    "stormcloud",
+    "stormer",
+    "stormful",
+    "storming",
+    "stormless",
+    "stormy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/storm.mp3",
+  "local_sound_path": "sounds/storm.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "blitz",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "there was a big blitz in the city last night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9585.png",
+      "local_image_path": "images/9585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9586.png",
+      "local_image_path": "images/9586.png"
+    }
+  ],
+  "synonyms": [
+    "bombard",
+    "bomb",
+    "blast",
+    "barrage",
+    "target",
+    "saturate",
+    "overwhelm",
+    "attack",
+    "hit",
+    "assault"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blitz.mp3",
+  "local_sound_path": "sounds/blitz.mp3"
+}

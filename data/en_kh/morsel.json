@@ -1,0 +1,28 @@
+{
+  "word": "morsel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "morsel (of sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110509.png",
+      "local_image_path": "images/110509.png"
+    }
+  ],
+  "synonyms": [
+    "scrap",
+    "crumb",
+    "bit",
+    "piece",
+    "fragment",
+    "speck",
+    "tidbit"
+  ],
+  "antonyms": [
+    "chunk"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/morsel.mp3",
+  "local_sound_path": "sounds/morsel.mp3"
+}

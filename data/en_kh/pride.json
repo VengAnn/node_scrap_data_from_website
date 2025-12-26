@@ -1,0 +1,60 @@
+{
+  "word": "pride",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66875.png",
+      "local_image_path": "images/66875.png"
+    },
+    {
+      "pos": "n",
+      "example": "empty pride",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66876.png",
+      "local_image_path": "images/66876.png"
+    },
+    {
+      "pos": "n",
+      "example": "pride in one's work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66877.png",
+      "local_image_path": "images/66877.png"
+    },
+    {
+      "pos": "n",
+      "example": "the pride of his family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66878.png",
+      "local_image_path": "images/66878.png"
+    },
+    {
+      "pos": "n",
+      "example": "the pride of the litter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66879.png",
+      "local_image_path": "images/66879.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66880.png",
+      "local_image_path": "images/66880.png"
+    }
+  ],
+  "synonyms": [
+    "self-respect",
+    "dignity",
+    "self-esteem",
+    "honor"
+  ],
+  "antonyms": [
+    "humility"
+  ],
+  "similar_words": [
+    "prideful",
+    "pridefully",
+    "pridefulness",
+    "prideless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pride.mp3",
+  "local_sound_path": "sounds/pride.mp3"
+}

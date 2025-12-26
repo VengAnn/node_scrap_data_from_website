@@ -1,0 +1,39 @@
+{
+  "word": "uneven",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94279.png",
+      "local_image_path": "images/94279.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94280.png",
+      "local_image_path": "images/94280.png"
+    }
+  ],
+  "synonyms": [
+    "one-sided",
+    "unfair",
+    "disproportionate",
+    "unbalanced"
+  ],
+  "antonyms": [
+    "level",
+    "equal",
+    "fair"
+  ],
+  "similar_words": [
+    "unevenly",
+    "unevenness",
+    "uneventful",
+    "uneventfully",
+    "uneventfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uneven.mp3",
+  "local_sound_path": "sounds/uneven.mp3"
+}

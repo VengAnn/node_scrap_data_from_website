@@ -1,0 +1,39 @@
+{
+  "word": "opponent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57802.png",
+      "local_image_path": "images/57802.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57800.png",
+      "local_image_path": "images/57800.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57801.png",
+      "local_image_path": "images/57801.png"
+    }
+  ],
+  "synonyms": [
+    "adversary",
+    "enemy",
+    "foe",
+    "rival",
+    "challenger",
+    "antagonist"
+  ],
+  "antonyms": [
+    "ally"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/opponent.mp3",
+  "local_sound_path": "sounds/opponent.mp3"
+}

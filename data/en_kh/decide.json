@@ -1,0 +1,40 @@
+{
+  "word": "decide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19948.png",
+      "local_image_path": "images/19948.png"
+    },
+    {
+      "pos": "tv",
+      "example": "decide a case",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19949.png",
+      "local_image_path": "images/19949.png"
+    }
+  ],
+  "synonyms": [
+    "settle",
+    "determine",
+    "conclude",
+    "resolve",
+    "influence",
+    "finish",
+    "end",
+    "decree",
+    "rule"
+  ],
+  "antonyms": [
+    "waver",
+    "prevaricate"
+  ],
+  "similar_words": [
+    "decided",
+    "decidedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decide.mp3",
+  "local_sound_path": "sounds/decide.mp3"
+}

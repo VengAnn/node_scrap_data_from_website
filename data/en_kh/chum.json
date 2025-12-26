@@ -1,0 +1,40 @@
+{
+  "word": "chum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14471.png",
+      "local_image_path": "images/14471.png"
+    },
+    {
+      "pos": "tv",
+      "example": "chum with her so long",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14472.png",
+      "local_image_path": "images/14472.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116318.png",
+      "local_image_path": "images/116318.png"
+    }
+  ],
+  "synonyms": [
+    "fish",
+    "lure"
+  ],
+  "antonyms": [
+    "stranger"
+  ],
+  "similar_words": [
+    "chummily",
+    "chumminess",
+    "chummy",
+    "chump"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chum.mp3",
+  "local_sound_path": "sounds/chum.mp3"
+}

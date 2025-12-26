@@ -1,0 +1,104 @@
+{
+  "word": "stick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84734.png",
+      "local_image_path": "images/84734.png"
+    },
+    {
+      "pos": "n",
+      "example": "wooden stick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84724.png",
+      "local_image_path": "images/84724.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84725.png",
+      "local_image_path": "images/84725.png"
+    },
+    {
+      "pos": "n",
+      "example": "stick of candy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84726.png",
+      "local_image_path": "images/84726.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84727.png",
+      "local_image_path": "images/84727.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84728.png",
+      "local_image_path": "images/84728.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stick him with a pin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84729.png",
+      "local_image_path": "images/84729.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stick a finger in the hole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84730.png",
+      "local_image_path": "images/84730.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stick a pig",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84731.png",
+      "local_image_path": "images/84731.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stick a stamp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84732.png",
+      "local_image_path": "images/84732.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84733.png",
+      "local_image_path": "images/84733.png"
+    }
+  ],
+  "synonyms": [
+    "stab",
+    "spear",
+    "pierce",
+    "spike",
+    "jab",
+    "gore",
+    "poke",
+    "push",
+    "put",
+    "thrust",
+    "shove"
+  ],
+  "antonyms": [
+    "withdraw"
+  ],
+  "similar_words": [
+    "stick leback",
+    "stick-laying",
+    "stick-up",
+    "sticker",
+    "stickily",
+    "stickiness",
+    "sticking",
+    "sticklac",
+    "stickle",
+    "stickler",
+    "sticky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stick.mp3",
+  "local_sound_path": "sounds/stick.mp3"
+}

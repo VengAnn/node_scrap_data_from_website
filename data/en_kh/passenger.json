@@ -1,0 +1,29 @@
+{
+  "word": "passenger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "standing passenger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60448.png",
+      "local_image_path": "images/60448.png"
+    }
+  ],
+  "synonyms": [
+    "customer",
+    "fare",
+    "commuter",
+    "traveller"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "passenger service",
+    "passenger ship",
+    "passenger trafic",
+    "passenger train",
+    "passenger-car"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/passenger.mp3",
+  "local_sound_path": "sounds/passenger.mp3"
+}

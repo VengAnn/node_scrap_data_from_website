@@ -1,0 +1,44 @@
+{
+  "word": "engross",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25066.png",
+      "local_image_path": "images/25066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to be engrossed in",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25067.png",
+      "local_image_path": "images/25067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25068.png",
+      "local_image_path": "images/25068.png"
+    }
+  ],
+  "synonyms": [
+    "absorb",
+    "occupy",
+    "involve",
+    "hold",
+    "engage",
+    "captivate",
+    "enthrall",
+    "mesmerize"
+  ],
+  "antonyms": [
+    "bore"
+  ],
+  "similar_words": [
+    "engrosser",
+    "engrossment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/engross.mp3",
+  "local_sound_path": "sounds/engross.mp3"
+}

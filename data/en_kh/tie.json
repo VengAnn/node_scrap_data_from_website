@@ -1,0 +1,81 @@
+{
+  "word": "tie",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make a tie here",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89384.png",
+      "local_image_path": "images/89384.png"
+    },
+    {
+      "pos": "n",
+      "example": "kingship tie",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89385.png",
+      "local_image_path": "images/89385.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89386.png",
+      "local_image_path": "images/89386.png"
+    },
+    {
+      "pos": "n",
+      "example": "wear a tie",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89387.png",
+      "local_image_path": "images/89387.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89388.png",
+      "local_image_path": "images/89388.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tie the score",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89381.png",
+      "local_image_path": "images/89381.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tie a knot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89382.png",
+      "local_image_path": "images/89382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89383.png",
+      "local_image_path": "images/89383.png"
+    }
+  ],
+  "synonyms": [
+    "draw"
+  ],
+  "antonyms": [
+    "untie"
+  ],
+  "similar_words": [
+    "tie beam",
+    "tie tack",
+    "tie-break",
+    "tie-dye",
+    "tie-in",
+    "tie-pin",
+    "tie-string",
+    "tie-up",
+    "tieback",
+    "tied",
+    "tied house",
+    "tier",
+    "tierce",
+    "tiercel",
+    "tiered",
+    "tiertable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tie.mp3",
+  "local_sound_path": "sounds/tie.mp3"
+}

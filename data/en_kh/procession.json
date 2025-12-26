@@ -1,0 +1,39 @@
+{
+  "word": "procession",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67227.png",
+      "local_image_path": "images/67227.png"
+    },
+    {
+      "pos": "n",
+      "example": "military procession",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67228.png",
+      "local_image_path": "images/67228.png"
+    }
+  ],
+  "synonyms": [
+    "sequence",
+    "succession",
+    "string",
+    "series",
+    "line",
+    "chain",
+    "row"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "procession-day",
+    "processional",
+    "processionary",
+    "processioner",
+    "processionist",
+    "processionize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/procession.mp3",
+  "local_sound_path": "sounds/procession.mp3"
+}

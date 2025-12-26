@@ -1,0 +1,56 @@
+{
+  "word": "plague",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63762.png",
+      "local_image_path": "images/63762.png"
+    },
+    {
+      "pos": "n",
+      "example": "plague of fires",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63763.png",
+      "local_image_path": "images/63763.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63764.png",
+      "local_image_path": "images/63764.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disasters plague them",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63765.png",
+      "local_image_path": "images/63765.png"
+    }
+  ],
+  "synonyms": [
+    "pester",
+    "badger",
+    "bother",
+    "harass",
+    "trouble",
+    "beleaguer",
+    "dog",
+    "agitate",
+    "vex",
+    "upset",
+    "perturb",
+    "annoy",
+    "afflict"
+  ],
+  "antonyms": [
+    "blessing",
+    "bless"
+  ],
+  "similar_words": [
+    "plaguer",
+    "plaguesome"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plague.mp3",
+  "local_sound_path": "sounds/plague.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "blad",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9338.png",
+      "local_image_path": "images/9338.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9339.png",
+      "local_image_path": "images/9339.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bladder",
+    "bladder control",
+    "bladder infection",
+    "bladder-wort",
+    "bladdered",
+    "blade",
+    "blader"
+  ],
+  "sound": null
+}

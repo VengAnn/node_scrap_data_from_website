@@ -1,0 +1,53 @@
+{
+  "word": "leading",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45433.png",
+      "local_image_path": "images/45433.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45434.png",
+      "local_image_path": "images/45434.png"
+    },
+    {
+      "pos": "adj",
+      "example": "leading man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45435.png",
+      "local_image_path": "images/45435.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45436.png",
+      "local_image_path": "images/45436.png"
+    }
+  ],
+  "synonyms": [
+    "foremost",
+    "important",
+    "principal",
+    "chief",
+    "top",
+    "primary"
+  ],
+  "antonyms": [
+    "secondary",
+    "following"
+  ],
+  "similar_words": [
+    "leading article",
+    "leading candidate",
+    "leading lady",
+    "leading light",
+    "leading question",
+    "leading role"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leading.mp3",
+  "local_sound_path": "sounds/leading.mp3"
+}

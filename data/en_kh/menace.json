@@ -1,0 +1,57 @@
+{
+  "word": "menace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107651.png",
+      "local_image_path": "images/107651.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107652.png",
+      "local_image_path": "images/107652.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107653.png",
+      "local_image_path": "images/107653.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123885.png",
+      "local_image_path": "images/123885.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Your vicious dog is menacing my cat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107650.png",
+      "local_image_path": "images/107650.png"
+    }
+  ],
+  "synonyms": [
+    "threaten",
+    "intimidate",
+    "terrorize",
+    "frighten",
+    "alarm",
+    "scare",
+    "bully"
+  ],
+  "antonyms": [
+    "help",
+    "reassurance",
+    "reassure"
+  ],
+  "similar_words": [
+    "menacely",
+    "menacer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/menace.mp3",
+  "local_sound_path": "sounds/menace.mp3"
+}

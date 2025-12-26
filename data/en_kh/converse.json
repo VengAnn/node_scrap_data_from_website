@@ -1,0 +1,44 @@
+{
+  "word": "converse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17482.png",
+      "local_image_path": "images/17482.png"
+    },
+    {
+      "pos": "iv",
+      "example": "she sat conversing with the president.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17481.png",
+      "local_image_path": "images/17481.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17483.png",
+      "local_image_path": "images/17483.png"
+    }
+  ],
+  "synonyms": [
+    "opposite",
+    "contrary",
+    "reverse",
+    "talk",
+    "speak",
+    "communicate",
+    "chat",
+    "discuss",
+    "natter"
+  ],
+  "antonyms": [
+    "same"
+  ],
+  "similar_words": [
+    "conversely"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/converse.mp3",
+  "local_sound_path": "sounds/converse.mp3"
+}

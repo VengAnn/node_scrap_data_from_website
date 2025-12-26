@@ -1,0 +1,51 @@
+{
+  "word": "trunk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tree trunk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92160.png",
+      "local_image_path": "images/92160.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92161.png",
+      "local_image_path": "images/92161.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92162.png",
+      "local_image_path": "images/92162.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92163.png",
+      "local_image_path": "images/92163.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92164.png",
+      "local_image_path": "images/92164.png"
+    }
+  ],
+  "synonyms": [
+    "torso",
+    "body",
+    "chest"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "trunk-call",
+    "trunk-fish",
+    "trunk-line",
+    "trunk-road"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trunk.mp3",
+  "local_sound_path": "sounds/trunk.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "resound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72811.png",
+      "local_image_path": "images/72811.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72812.png",
+      "local_image_path": "images/72812.png"
+    },
+    {
+      "pos": "tv",
+      "example": "resound the cheer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72813.png",
+      "local_image_path": "images/72813.png"
+    }
+  ],
+  "synonyms": [
+    "echo",
+    "resonate",
+    "boom",
+    "ring",
+    "reverberate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "resounding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resound.mp3",
+  "local_sound_path": "sounds/resound.mp3"
+}

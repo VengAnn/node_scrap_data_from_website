@@ -1,0 +1,30 @@
+{
+  "word": "wedding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99597.png",
+      "local_image_path": "images/99597.png"
+    }
+  ],
+  "synonyms": [
+    "bridal",
+    "marriage",
+    "nuptial"
+  ],
+  "antonyms": [
+    "divorce"
+  ],
+  "similar_words": [
+    "wedding gown",
+    "wedding present",
+    "wedding-breakfast",
+    "wedding-cake",
+    "wedding-ring"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wedding.mp3",
+  "local_sound_path": "sounds/wedding.mp3"
+}

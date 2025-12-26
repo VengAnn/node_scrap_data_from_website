@@ -1,0 +1,36 @@
+{
+  "word": "width",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100270.png",
+      "local_image_path": "images/100270.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100271.png",
+      "local_image_path": "images/100271.png"
+    }
+  ],
+  "synonyms": [
+    "breadth",
+    "thickness",
+    "size",
+    "girth",
+    "measurement"
+  ],
+  "antonyms": [
+    "length"
+  ],
+  "similar_words": [
+    "widthless",
+    "widthways",
+    "widthwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/width.mp3",
+  "local_sound_path": "sounds/width.mp3"
+}

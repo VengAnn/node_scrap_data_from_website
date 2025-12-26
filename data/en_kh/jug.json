@@ -1,0 +1,64 @@
+{
+  "word": "jug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43373.png",
+      "local_image_path": "images/43373.png"
+    },
+    {
+      "pos": "n",
+      "example": "water jug",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43374.png",
+      "local_image_path": "images/43374.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43375.png",
+      "local_image_path": "images/43375.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43376.png",
+      "local_image_path": "images/43376.png"
+    }
+  ],
+  "synonyms": [
+    "pitcher",
+    "flagon",
+    "carafe",
+    "container",
+    "vessel",
+    "ewer",
+    "crock"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jug-handle",
+    "jugal",
+    "jugate",
+    "jugation",
+    "jugful",
+    "juggernaut",
+    "juggins",
+    "juggiss",
+    "juggle",
+    "jugglement",
+    "juggler",
+    "jugglery",
+    "juggling",
+    "jugglingly",
+    "jughead",
+    "jugular",
+    "jugular vein",
+    "jugulate",
+    "jugulum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jug.mp3",
+  "local_sound_path": "sounds/jug.mp3"
+}

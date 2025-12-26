@@ -1,0 +1,39 @@
+{
+  "word": "grueling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33117.png",
+      "local_image_path": "images/33117.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120825.png",
+      "local_image_path": "images/120825.png"
+    }
+  ],
+  "synonyms": [
+    "demanding",
+    "taxing",
+    "hard",
+    "difficult",
+    "tough",
+    "arduous",
+    "backbreaking",
+    "rough",
+    "harsh",
+    "severe",
+    "harrowing",
+    "nerve-racking"
+  ],
+  "antonyms": [
+    "easy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grueling.mp3",
+  "local_sound_path": "sounds/grueling.mp3"
+}

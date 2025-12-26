@@ -1,0 +1,40 @@
+{
+  "word": "forceful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "forceful argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29651.png",
+      "local_image_path": "images/29651.png"
+    },
+    {
+      "pos": "adj",
+      "example": "forceful personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29652.png",
+      "local_image_path": "images/29652.png"
+    }
+  ],
+  "synonyms": [
+    "persuasive",
+    "convincing",
+    "compelling",
+    "valid",
+    "powerful",
+    "influential",
+    "weighty",
+    "cogent",
+    "vehement"
+  ],
+  "antonyms": [
+    "weak",
+    "unconvincing"
+  ],
+  "similar_words": [
+    "forcefully",
+    "forcefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forceful.mp3",
+  "local_sound_path": "sounds/forceful.mp3"
+}

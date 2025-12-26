@@ -1,0 +1,57 @@
+{
+  "word": "wedge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "woodcutter's wedge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99603.png",
+      "local_image_path": "images/99603.png"
+    },
+    {
+      "pos": "n",
+      "example": "wedge of pie",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99604.png",
+      "local_image_path": "images/99604.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wedge two boards apart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99605.png",
+      "local_image_path": "images/99605.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wedge a note in the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99606.png",
+      "local_image_path": "images/99606.png"
+    }
+  ],
+  "synonyms": [
+    "slice",
+    "piece",
+    "chunk",
+    "block",
+    "section",
+    "segment",
+    "sliver",
+    "hunk",
+    "cram",
+    "pack",
+    "squeeze",
+    "jam",
+    "ram",
+    "stuff",
+    "push",
+    "thrust",
+    "force",
+    "chock"
+  ],
+  "antonyms": [
+    "dislodge"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wedge.mp3",
+  "local_sound_path": "sounds/wedge.mp3"
+}

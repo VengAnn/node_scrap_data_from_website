@@ -1,0 +1,31 @@
+{
+  "word": "abreast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "abreast of development",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1560.png",
+      "local_image_path": "images/1560.png"
+    },
+    {
+      "pos": "adv",
+      "example": "the boys are walking three abreast",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1559.png",
+      "local_image_path": "images/1559.png"
+    }
+  ],
+  "synonyms": [
+    "side by side",
+    "shoulder to shoulder",
+    "alongside",
+    "beside",
+    "level",
+    "next to"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abreast.mp3",
+  "local_sound_path": "sounds/abreast.mp3"
+}

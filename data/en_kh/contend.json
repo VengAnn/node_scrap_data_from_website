@@ -1,0 +1,37 @@
+{
+  "word": "contend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "several teams are contending for the prize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17225.png",
+      "local_image_path": "images/17225.png"
+    },
+    {
+      "pos": "iv",
+      "example": "she's had a lot of problems to contend with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17226.png",
+      "local_image_path": "images/17226.png"
+    },
+    {
+      "pos": "tv",
+      "example": "contend that",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17227.png",
+      "local_image_path": "images/17227.png"
+    }
+  ],
+  "synonyms": [
+    "argue",
+    "assert",
+    "insist",
+    "maintain",
+    "state",
+    "declare"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contend.mp3",
+  "local_sound_path": "sounds/contend.mp3"
+}

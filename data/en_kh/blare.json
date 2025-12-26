@@ -1,0 +1,36 @@
+{
+  "word": "blare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9393.png",
+      "local_image_path": "images/9393.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9395.png",
+      "local_image_path": "images/9395.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9394.png",
+      "local_image_path": "images/9394.png"
+    }
+  ],
+  "synonyms": [
+    "blast",
+    "boom",
+    "resound",
+    "shout",
+    "shriek"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blare.mp3",
+  "local_sound_path": "sounds/blare.mp3"
+}

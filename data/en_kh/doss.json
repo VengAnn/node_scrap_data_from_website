@@ -1,0 +1,33 @@
+{
+  "word": "doss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "doss down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22785.png",
+      "local_image_path": "images/22785.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130271.png",
+      "local_image_path": "images/130271.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130272.png",
+      "local_image_path": "images/130272.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "dossal",
+    "dossier"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doss.mp3",
+  "local_sound_path": "sounds/doss.mp3"
+}

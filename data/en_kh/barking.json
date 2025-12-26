@@ -1,0 +1,33 @@
+{
+  "word": "barking",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7505.png",
+      "local_image_path": "images/7505.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114603.png",
+      "local_image_path": "images/114603.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114604.png",
+      "local_image_path": "images/114604.png"
+    }
+  ],
+  "synonyms": [
+    "shouting",
+    "roaring"
+  ],
+  "antonyms": [
+    "whispering"
+  ],
+  "similar_words": [],
+  "sound": null
+}

@@ -1,0 +1,47 @@
+{
+  "word": "withdraw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100630.png",
+      "local_image_path": "images/100630.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Our troops had to withdraw.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100629.png",
+      "local_image_path": "images/100629.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131087.png",
+      "local_image_path": "images/131087.png"
+    }
+  ],
+  "synonyms": [
+    "leave",
+    "depart",
+    "vacate",
+    "abandon",
+    "retire",
+    "retreat"
+  ],
+  "antonyms": [
+    "remain",
+    "insert",
+    "confirm"
+  ],
+  "similar_words": [
+    "withdrawable",
+    "withdrawal",
+    "withdrawer",
+    "withdrawing",
+    "withdrawn"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/withdraw.mp3",
+  "local_sound_path": "sounds/withdraw.mp3"
+}

@@ -1,0 +1,93 @@
+{
+  "word": "put",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "put to sea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69136.png",
+      "local_image_path": "images/69136.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I put money here",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69131.png",
+      "local_image_path": "images/69131.png"
+    },
+    {
+      "pos": "tv",
+      "example": "put salt on it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69132.png",
+      "local_image_path": "images/69132.png"
+    },
+    {
+      "pos": "tv",
+      "example": "put butter on it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69133.png",
+      "local_image_path": "images/69133.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69134.png",
+      "local_image_path": "images/69134.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69135.png",
+      "local_image_path": "images/69135.png"
+    }
+  ],
+  "synonyms": [
+    "place",
+    "set",
+    "lay",
+    "position",
+    "situate",
+    "locate",
+    "plant",
+    "deposit",
+    "leave",
+    "plunk",
+    "laid",
+    "situated",
+    "located",
+    "left"
+  ],
+  "antonyms": [
+    "remove",
+    "removed"
+  ],
+  "similar_words": [
+    "put-down",
+    "put-on",
+    "put-out",
+    "put-put",
+    "putamen",
+    "putaminous",
+    "putative",
+    "putatively",
+    "puteal",
+    "putid",
+    "putidity",
+    "putlog",
+    "putoff",
+    "putredinous",
+    "putrefaction",
+    "putrefactive",
+    "putrefiable",
+    "putrefy",
+    "putrescence",
+    "putrescent",
+    "putrescibility",
+    "putrescible",
+    "putrid",
+    "putridity",
+    "putridly",
+    "putridness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/put.mp3",
+  "local_sound_path": "sounds/put.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "tissue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89735.png",
+      "local_image_path": "images/89735.png"
+    },
+    {
+      "pos": "n",
+      "example": "muscle tissue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89736.png",
+      "local_image_path": "images/89736.png"
+    },
+    {
+      "pos": "n",
+      "example": "tissue paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89737.png",
+      "local_image_path": "images/89737.png"
+    },
+    {
+      "pos": "n",
+      "example": "tissue of lies",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89738.png",
+      "local_image_path": "images/89738.png"
+    }
+  ],
+  "synonyms": [
+    "handkerchief",
+    "bandanna"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tissue.mp3",
+  "local_sound_path": "sounds/tissue.mp3"
+}

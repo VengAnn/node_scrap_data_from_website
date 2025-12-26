@@ -1,0 +1,58 @@
+{
+  "word": "represent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "This painting represents a hunting scene.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72414.png",
+      "local_image_path": "images/72414.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His writing represents life in French.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72415.png",
+      "local_image_path": "images/72415.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72416.png",
+      "local_image_path": "images/72416.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He represented himself as an expert.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72417.png",
+      "local_image_path": "images/72417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Phonetic signs represent sounds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72418.png",
+      "local_image_path": "images/72418.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "misrepresent"
+  ],
+  "similar_words": [
+    "representability",
+    "representable",
+    "representant",
+    "representation",
+    "representational",
+    "representationalism",
+    "representative",
+    "representative election",
+    "representative government",
+    "representative mandate",
+    "representatively",
+    "representativeness",
+    "representer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/represent.mp3",
+  "local_sound_path": "sounds/represent.mp3"
+}

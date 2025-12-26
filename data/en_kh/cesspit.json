@@ -1,0 +1,38 @@
+{
+  "word": "cesspit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13688.png",
+      "local_image_path": "images/13688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116134.png",
+      "local_image_path": "images/116134.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116135.png",
+      "local_image_path": "images/116135.png"
+    }
+  ],
+  "synonyms": [
+    "drain",
+    "cesspool",
+    "gutter",
+    "culvert",
+    "tank",
+    "pit",
+    "sewer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cesspit.mp3",
+  "local_sound_path": "sounds/cesspit.mp3"
+}

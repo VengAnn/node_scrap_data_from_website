@@ -1,0 +1,35 @@
+{
+  "word": "classy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "classy car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14849.png",
+      "local_image_path": "images/14849.png"
+    },
+    {
+      "pos": "adj",
+      "example": "classy hotel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14850.png",
+      "local_image_path": "images/14850.png"
+    }
+  ],
+  "synonyms": [
+    "elegant",
+    "stylish",
+    "chic",
+    "fashionable",
+    "tasteful",
+    "refined",
+    "exclusive",
+    "sophisticated"
+  ],
+  "antonyms": [
+    "tacky"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/classy.mp3",
+  "local_sound_path": "sounds/classy.mp3"
+}

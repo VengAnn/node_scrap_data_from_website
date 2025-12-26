@@ -1,0 +1,36 @@
+{
+  "word": "cynic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19398.png",
+      "local_image_path": "images/19398.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131157.png",
+      "local_image_path": "images/131157.png"
+    }
+  ],
+  "synonyms": [
+    "pessimist",
+    "skeptic",
+    "detractor",
+    "doubter",
+    "misanthropist",
+    "scoffer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cynical",
+    "cynically",
+    "cynicalness",
+    "cynicism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cynic.mp3",
+  "local_sound_path": "sounds/cynic.mp3"
+}

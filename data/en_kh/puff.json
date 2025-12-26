@@ -1,0 +1,88 @@
+{
+  "word": "puff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "puff with fatigue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68667.png",
+      "local_image_path": "images/68667.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68668.png",
+      "local_image_path": "images/68668.png"
+    },
+    {
+      "pos": "n",
+      "example": "puff of wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68660.png",
+      "local_image_path": "images/68660.png"
+    },
+    {
+      "pos": "n",
+      "example": "take a puff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68661.png",
+      "local_image_path": "images/68661.png"
+    },
+    {
+      "pos": "n",
+      "example": "powder puff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68662.png",
+      "local_image_path": "images/68662.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68663.png",
+      "local_image_path": "images/68663.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68664.png",
+      "local_image_path": "images/68664.png"
+    },
+    {
+      "pos": "tv",
+      "example": "puff out a light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68665.png",
+      "local_image_path": "images/68665.png"
+    },
+    {
+      "pos": "tv",
+      "example": "puff the cheeks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68666.png",
+      "local_image_path": "images/68666.png"
+    }
+  ],
+  "synonyms": [
+    "praise",
+    "recommendation",
+    "advertisement",
+    "publicity",
+    "blow",
+    "exhale",
+    "breathe"
+  ],
+  "antonyms": [
+    "inhale"
+  ],
+  "similar_words": [
+    "puffbird",
+    "puffbox",
+    "puffed",
+    "puffed-up",
+    "puffer",
+    "puffery",
+    "puffily",
+    "puffin",
+    "puffing",
+    "puffipness",
+    "puffy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/puff.mp3",
+  "local_sound_path": "sounds/puff.mp3"
+}

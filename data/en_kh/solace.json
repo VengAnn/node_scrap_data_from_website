@@ -1,0 +1,38 @@
+{
+  "word": "solace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82459.png",
+      "local_image_path": "images/82459.png"
+    },
+    {
+      "pos": "n",
+      "example": "find solace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82457.png",
+      "local_image_path": "images/82457.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a solace to her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82458.png",
+      "local_image_path": "images/82458.png"
+    }
+  ],
+  "synonyms": [
+    "comfort",
+    "consolation",
+    "support",
+    "relief",
+    "help"
+  ],
+  "antonyms": [
+    "aggravation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/solace.mp3",
+  "local_sound_path": "sounds/solace.mp3"
+}

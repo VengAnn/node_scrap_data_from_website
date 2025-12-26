@@ -1,0 +1,53 @@
+{
+  "word": "overcome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58642.png",
+      "local_image_path": "images/58642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overcome the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58639.png",
+      "local_image_path": "images/58639.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overcome difficulties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58640.png",
+      "local_image_path": "images/58640.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overcome by fumes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58641.png",
+      "local_image_path": "images/58641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125069.png",
+      "local_image_path": "images/125069.png"
+    }
+  ],
+  "synonyms": [
+    "overwhelm",
+    "overpower",
+    "affect",
+    "permeate",
+    "affected"
+  ],
+  "antonyms": [
+    "unimpressed",
+    "yield",
+    "lose",
+    "lost"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overcome.mp3",
+  "local_sound_path": "sounds/overcome.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "pursue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Police pursue him everyday",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69070.png",
+      "local_image_path": "images/69070.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69071.png",
+      "local_image_path": "images/69071.png"
+    }
+  ],
+  "synonyms": [
+    "practice"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pursuer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pursue.mp3",
+  "local_sound_path": "sounds/pursue.mp3"
+}

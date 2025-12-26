@@ -1,0 +1,59 @@
+{
+  "word": "racket",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "loud racket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69791.png",
+      "local_image_path": "images/69791.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69792.png",
+      "local_image_path": "images/69792.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69793.png",
+      "local_image_path": "images/69793.png"
+    },
+    {
+      "pos": "n",
+      "example": "illegal racket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69794.png",
+      "local_image_path": "images/69794.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69796.png",
+      "local_image_path": "images/69796.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69795.png",
+      "local_image_path": "images/69795.png"
+    }
+  ],
+  "synonyms": [
+    "swindle",
+    "fiddle",
+    "con",
+    "scam",
+    "fraud",
+    "scheme"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "racketeer",
+    "racketeering",
+    "rackety"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/racket.mp3",
+  "local_sound_path": "sounds/racket.mp3"
+}

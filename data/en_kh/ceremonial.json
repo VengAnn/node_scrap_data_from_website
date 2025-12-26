@@ -1,0 +1,47 @@
+{
+  "word": "ceremonial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ceremonial dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13645.png",
+      "local_image_path": "images/13645.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13646.png",
+      "local_image_path": "images/13646.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116114.png",
+      "local_image_path": "images/116114.png"
+    }
+  ],
+  "synonyms": [
+    "ritual",
+    "traditional",
+    "formal",
+    "official",
+    "state",
+    "rite",
+    "ceremony",
+    "pomp",
+    "pageantry",
+    "formality"
+  ],
+  "antonyms": [
+    "informal"
+  ],
+  "similar_words": [
+    "ceremonialism",
+    "ceremonialist",
+    "ceremonially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ceremonial.mp3",
+  "local_sound_path": "sounds/ceremonial.mp3"
+}

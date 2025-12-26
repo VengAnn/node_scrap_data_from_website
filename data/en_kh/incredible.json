@@ -1,0 +1,44 @@
+{
+  "word": "incredible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38735.png",
+      "local_image_path": "images/38735.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122070.png",
+      "local_image_path": "images/122070.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122071.png",
+      "local_image_path": "images/122071.png"
+    }
+  ],
+  "synonyms": [
+    "unbelievable",
+    "tremendous",
+    "prodigious",
+    "enormous",
+    "huge",
+    "phenomenal",
+    "excellent",
+    "superb"
+  ],
+  "antonyms": [
+    "credible",
+    "unremarkable",
+    "believable",
+    "mediocre"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incredible.mp3",
+  "local_sound_path": "sounds/incredible.mp3"
+}

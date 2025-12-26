@@ -1,0 +1,35 @@
+{
+  "word": "yen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101503.png",
+      "local_image_path": "images/101503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101501.png",
+      "local_image_path": "images/101501.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101502.png",
+      "local_image_path": "images/101502.png"
+    }
+  ],
+  "synonyms": [
+    "urge",
+    "desire",
+    "wish",
+    "longing",
+    "yearning",
+    "craving"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null
+}

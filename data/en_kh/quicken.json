@@ -1,0 +1,51 @@
+{
+  "word": "quicken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69562.png",
+      "local_image_path": "images/69562.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hopes quicken",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69563.png",
+      "local_image_path": "images/69563.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We quickened our pace.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69560.png",
+      "local_image_path": "images/69560.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69561.png",
+      "local_image_path": "images/69561.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126370.png",
+      "local_image_path": "images/126370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126371.png",
+      "local_image_path": "images/126371.png"
+    }
+  ],
+  "synonyms": [
+    "accelerate",
+    "hasten"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quicken.mp3",
+  "local_sound_path": "sounds/quicken.mp3"
+}

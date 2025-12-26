@@ -1,0 +1,32 @@
+{
+  "word": "squawk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83923.png",
+      "local_image_path": "images/83923.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83922.png",
+      "local_image_path": "images/83922.png"
+    }
+  ],
+  "synonyms": [
+    "protest",
+    "complaint",
+    "grumble",
+    "moan",
+    "complain",
+    "whine",
+    "wail"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/squawk.mp3",
+  "local_sound_path": "sounds/squawk.mp3"
+}

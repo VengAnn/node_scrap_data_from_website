@@ -1,0 +1,27 @@
+{
+  "word": "fraction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30046.png",
+      "local_image_path": "images/30046.png"
+    }
+  ],
+  "synonyms": [
+    "little"
+  ],
+  "antonyms": [
+    "whole"
+  ],
+  "similar_words": [
+    "fractional",
+    "fractionate",
+    "fractionization",
+    "fractionize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fraction.mp3",
+  "local_sound_path": "sounds/fraction.mp3"
+}

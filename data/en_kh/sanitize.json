@@ -1,0 +1,31 @@
+{
+  "word": "sanitize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75725.png",
+      "local_image_path": "images/75725.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sanitize my report",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75726.png",
+      "local_image_path": "images/75726.png"
+    }
+  ],
+  "synonyms": [
+    "disinfect",
+    "clean",
+    "wash",
+    "cleanse"
+  ],
+  "antonyms": [
+    "contaminate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sanitize.mp3",
+  "local_sound_path": "sounds/sanitize.mp3"
+}

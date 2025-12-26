@@ -1,0 +1,31 @@
+{
+  "word": "dye",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "She bought some blue dye yesterday.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23546.png",
+      "local_image_path": "images/23546.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23547.png",
+      "local_image_path": "images/23547.png"
+    }
+  ],
+  "synonyms": [
+    "color",
+    "stain",
+    "tint"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dyed-in-the wool",
+    "dyer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dye.mp3",
+  "local_sound_path": "sounds/dye.mp3"
+}

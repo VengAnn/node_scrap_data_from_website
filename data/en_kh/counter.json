@@ -1,0 +1,90 @@
+{
+  "word": "counter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "counter direction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18049.png",
+      "local_image_path": "images/18049.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18048.png",
+      "local_image_path": "images/18048.png"
+    },
+    {
+      "pos": "n",
+      "example": "sit at the counter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18047.png",
+      "local_image_path": "images/18047.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18052.png",
+      "local_image_path": "images/18052.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18050.png",
+      "local_image_path": "images/18050.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The minister countered his critics with a strong speech defending his policies.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18051.png",
+      "local_image_path": "images/18051.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130216.png",
+      "local_image_path": "images/130216.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130217.png",
+      "local_image_path": "images/130217.png"
+    }
+  ],
+  "synonyms": [
+    "counteract",
+    "offset",
+    "respond",
+    "frustrate",
+    "thwart",
+    "neutralize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "counter attraction",
+    "counter jumper",
+    "counter march",
+    "counter offer",
+    "counter productive",
+    "counter revolutionary",
+    "counter word",
+    "counter-espionage",
+    "counter-irritant",
+    "counteract",
+    "counteraction",
+    "counteractive",
+    "counteractively",
+    "counterattack",
+    "counterbalance",
+    "counterbid",
+    "counterblast",
+    "counterchange",
+    "countercharge",
+    "countercheck",
+    "counterclaim",
+    "counterclockwise"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/counter.mp3",
+  "local_sound_path": "sounds/counter.mp3"
+}

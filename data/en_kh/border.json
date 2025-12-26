@@ -1,0 +1,49 @@
+{
+  "word": "border",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "border of a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10230.png",
+      "local_image_path": "images/10230.png"
+    },
+    {
+      "pos": "tv",
+      "example": "my land borders (on) yours",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10231.png",
+      "local_image_path": "images/10231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115404.png",
+      "local_image_path": "images/115404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115405.png",
+      "local_image_path": "images/115405.png"
+    }
+  ],
+  "synonyms": [
+    "touch",
+    "adjoin",
+    "abut",
+    "conjoin",
+    "fringe",
+    "skirt"
+  ],
+  "antonyms": [
+    "center"
+  ],
+  "similar_words": [
+    "borderer",
+    "borderland",
+    "borderline"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/border.mp3",
+  "local_sound_path": "sounds/border.mp3"
+}

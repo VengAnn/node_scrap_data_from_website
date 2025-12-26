@@ -1,0 +1,63 @@
+{
+  "word": "yield",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101535.png",
+      "local_image_path": "images/101535.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101536.png",
+      "local_image_path": "images/101536.png"
+    },
+    {
+      "pos": "tv",
+      "example": "yield a good profit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101532.png",
+      "local_image_path": "images/101532.png"
+    },
+    {
+      "pos": "tv",
+      "example": "yield to pressure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101533.png",
+      "local_image_path": "images/101533.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101534.png",
+      "local_image_path": "images/101534.png"
+    }
+  ],
+  "synonyms": [
+    "profit",
+    "earnings",
+    "income",
+    "revenue",
+    "acquiesce",
+    "capitulate",
+    "defer",
+    "surrender",
+    "succumb",
+    "cede",
+    "accede"
+  ],
+  "antonyms": [
+    "resist",
+    "keep"
+  ],
+  "similar_words": [
+    "yield-capacity",
+    "yielder",
+    "yielding",
+    "yieldingly",
+    "yieldingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yield.mp3",
+  "local_sound_path": "sounds/yield.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "divulge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22491.png",
+      "local_image_path": "images/22491.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130258.png",
+      "local_image_path": "images/130258.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130259.png",
+      "local_image_path": "images/130259.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130260.png",
+      "local_image_path": "images/130260.png"
+    }
+  ],
+  "synonyms": [
+    "reveal",
+    "tell",
+    "disclose"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "divulgence",
+    "divulger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divulge.mp3",
+  "local_sound_path": "sounds/divulge.mp3"
+}

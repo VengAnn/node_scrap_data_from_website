@@ -1,0 +1,27 @@
+{
+  "word": "bathrobe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7716.png",
+      "local_image_path": "images/7716.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7733.png",
+      "local_image_path": "images/7733.png"
+    }
+  ],
+  "synonyms": [
+    "wrap",
+    "robe"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bathrobe.mp3",
+  "local_sound_path": "sounds/bathrobe.mp3"
+}

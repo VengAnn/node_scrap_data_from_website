@@ -1,0 +1,79 @@
+{
+  "word": "stump",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85607.png",
+      "local_image_path": "images/85607.png"
+    },
+    {
+      "pos": "iv",
+      "example": "to stump up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85608.png",
+      "local_image_path": "images/85608.png"
+    },
+    {
+      "pos": "n",
+      "example": "tree stump",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85601.png",
+      "local_image_path": "images/85601.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85602.png",
+      "local_image_path": "images/85602.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stump a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85603.png",
+      "local_image_path": "images/85603.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stump one's toe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85604.png",
+      "local_image_path": "images/85604.png"
+    },
+    {
+      "pos": "tv",
+      "example": "stump the state",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85605.png",
+      "local_image_path": "images/85605.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85606.png",
+      "local_image_path": "images/85606.png"
+    }
+  ],
+  "synonyms": [
+    "puzzle",
+    "perplex",
+    "baffle",
+    "mystify",
+    "nonplus",
+    "bewilder",
+    "flummox",
+    "confound",
+    "confuse",
+    "bamboozle",
+    "dumbfound",
+    "stymie"
+  ],
+  "antonyms": [
+    "enlighten"
+  ],
+  "similar_words": [
+    "stumped",
+    "stumper",
+    "stumpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stump.mp3",
+  "local_sound_path": "sounds/stump.mp3"
+}

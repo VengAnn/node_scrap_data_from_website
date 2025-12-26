@@ -1,0 +1,42 @@
+{
+  "word": "document",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "to refuse document",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22543.png",
+      "local_image_path": "images/22543.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22544.png",
+      "local_image_path": "images/22544.png"
+    }
+  ],
+  "synonyms": [
+    "record",
+    "detail",
+    "write down",
+    "verify",
+    "authenticate",
+    "support"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "documental",
+    "documentalist",
+    "documentary",
+    "documentary bill",
+    "documentary collection",
+    "documentary credit",
+    "documentary draft",
+    "documentary evidence",
+    "documentation",
+    "documentize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/document.mp3",
+  "local_sound_path": "sounds/document.mp3"
+}

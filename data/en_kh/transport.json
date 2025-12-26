@@ -1,0 +1,62 @@
+{
+  "word": "transport",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The transport of troops by air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91177.png",
+      "local_image_path": "images/91177.png"
+    },
+    {
+      "pos": "n",
+      "example": "transport of the moment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91178.png",
+      "local_image_path": "images/91178.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91174.png",
+      "local_image_path": "images/91174.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91175.png",
+      "local_image_path": "images/91175.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Songs transport her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91176.png",
+      "local_image_path": "images/91176.png"
+    }
+  ],
+  "synonyms": [
+    "delight",
+    "enrapture",
+    "thrill",
+    "elate"
+  ],
+  "antonyms": [
+    "misery",
+    "depress"
+  ],
+  "similar_words": [
+    "transport-vessel",
+    "transportability",
+    "transportable",
+    "transportal",
+    "transportation",
+    "transported",
+    "transporter",
+    "transporting",
+    "transportive",
+    "transportment",
+    "transportship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transport.mp3",
+  "local_sound_path": "sounds/transport.mp3"
+}

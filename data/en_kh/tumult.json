@@ -1,0 +1,56 @@
+{
+  "word": "tumult",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tumult of the crowd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92361.png",
+      "local_image_path": "images/92361.png"
+    },
+    {
+      "pos": "n",
+      "example": "mind was in a tumult",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92362.png",
+      "local_image_path": "images/92362.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92363.png",
+      "local_image_path": "images/92363.png"
+    }
+  ],
+  "synonyms": [
+    "uproar",
+    "commotion",
+    "clamor",
+    "hubbub",
+    "hullabaloo",
+    "din",
+    "turmoil",
+    "furor",
+    "mayhem",
+    "confusion",
+    "chaos",
+    "disorder",
+    "turbulence",
+    "upheaval"
+  ],
+  "antonyms": [
+    "peace"
+  ],
+  "similar_words": [
+    "tumultuarily",
+    "tumultuariness",
+    "tumultuary",
+    "tumultuate",
+    "tumultuation",
+    "tumultuous",
+    "tumultuously",
+    "tumultuousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tumult.mp3",
+  "local_sound_path": "sounds/tumult.mp3"
+}

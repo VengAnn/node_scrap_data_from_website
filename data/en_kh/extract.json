@@ -1,0 +1,93 @@
+{
+  "word": "extract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27083.png",
+      "local_image_path": "images/27083.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extract a tooth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27084.png",
+      "local_image_path": "images/27084.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extract minerals",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27085.png",
+      "local_image_path": "images/27085.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extract the truth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27086.png",
+      "local_image_path": "images/27086.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119762.png",
+      "local_image_path": "images/119762.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119763.png",
+      "local_image_path": "images/119763.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119764.png",
+      "local_image_path": "images/119764.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119765.png",
+      "local_image_path": "images/119765.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119766.png",
+      "local_image_path": "images/119766.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119767.png",
+      "local_image_path": "images/119767.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119768.png",
+      "local_image_path": "images/119768.png"
+    }
+  ],
+  "synonyms": [
+    "extort",
+    "obtain",
+    "get",
+    "wring",
+    "drag",
+    "force",
+    "wrest"
+  ],
+  "antonyms": [
+    "source"
+  ],
+  "similar_words": [
+    "extractable",
+    "extraction",
+    "extractive",
+    "extractor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extract.mp3",
+  "local_sound_path": "sounds/extract.mp3"
+}

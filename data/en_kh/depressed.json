@@ -1,0 +1,43 @@
+{
+  "word": "depressed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20679.png",
+      "local_image_path": "images/20679.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131284.png",
+      "local_image_path": "images/131284.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131285.png",
+      "local_image_path": "images/131285.png"
+    }
+  ],
+  "synonyms": [
+    "deprived",
+    "poor",
+    "neglected",
+    "derelict",
+    "seedy"
+  ],
+  "antonyms": [
+    "happy",
+    "salubrious",
+    "affluent"
+  ],
+  "similar_words": [
+    "depressed area",
+    "depressed market"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/depressed.mp3",
+  "local_sound_path": "sounds/depressed.mp3"
+}

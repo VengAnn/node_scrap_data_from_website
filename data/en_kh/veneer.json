@@ -1,0 +1,42 @@
+{
+  "word": "veneer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "oak veneer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97486.png",
+      "local_image_path": "images/97486.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97487.png",
+      "local_image_path": "images/97487.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97488.png",
+      "local_image_path": "images/97488.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130932.png",
+      "local_image_path": "images/130932.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "conceal",
+    "finish",
+    "face",
+    "plate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/veneer.mp3",
+  "local_sound_path": "sounds/veneer.mp3"
+}

@@ -1,0 +1,56 @@
+{
+  "word": "upgrade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96720.png",
+      "local_image_path": "images/96720.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129614.png",
+      "local_image_path": "images/129614.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129615.png",
+      "local_image_path": "images/129615.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129616.png",
+      "local_image_path": "images/129616.png"
+    }
+  ],
+  "synonyms": [
+    "improvement",
+    "promotion",
+    "advance",
+    "advancement",
+    "raise",
+    "improve",
+    "update",
+    "renew",
+    "modernize",
+    "renovate",
+    "enhance",
+    "transform",
+    "convert",
+    "develop",
+    "reconstruct"
+  ],
+  "antonyms": [
+    "downgrade",
+    "demotion",
+    "demote"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/upgrade.mp3",
+  "local_sound_path": "sounds/upgrade.mp3"
+}

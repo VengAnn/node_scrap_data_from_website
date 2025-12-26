@@ -1,0 +1,31 @@
+{
+  "word": "hopeful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The future does not seem very hopeful.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35908.png",
+      "local_image_path": "images/35908.png"
+    }
+  ],
+  "synonyms": [
+    "contender",
+    "aspirant",
+    "candidate",
+    "applicant",
+    "seeker"
+  ],
+  "antonyms": [
+    "pessimistic",
+    "hopeless",
+    "discouraging"
+  ],
+  "similar_words": [
+    "hopefully",
+    "hopefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hopeful.mp3",
+  "local_sound_path": "sounds/hopeful.mp3"
+}

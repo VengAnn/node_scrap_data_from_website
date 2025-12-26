@@ -1,0 +1,46 @@
+{
+  "word": "incurable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "incurable diseases",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38819.png",
+      "local_image_path": "images/38819.png"
+    },
+    {
+      "pos": "adj",
+      "example": "incurable habits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38820.png",
+      "local_image_path": "images/38820.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38821.png",
+      "local_image_path": "images/38821.png"
+    }
+  ],
+  "synonyms": [
+    "eternal",
+    "irredeemable",
+    "incorrigible",
+    "hopeless",
+    "undying",
+    "inveterate",
+    "terminal",
+    "fatal",
+    "deadly",
+    "permanent",
+    "inoperable",
+    "untreatable",
+    "grave"
+  ],
+  "antonyms": [
+    "redeemable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incurable.mp3",
+  "local_sound_path": "sounds/incurable.mp3"
+}

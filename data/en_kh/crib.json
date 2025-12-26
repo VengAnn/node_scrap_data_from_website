@@ -1,0 +1,46 @@
+{
+  "word": "crib",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "In the exam, I cribbed (an answer) from the girl next to me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18573.png",
+      "local_image_path": "images/18573.png"
+    },
+    {
+      "pos": "n",
+      "example": "corn crib",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18570.png",
+      "local_image_path": "images/18570.png"
+    },
+    {
+      "pos": "sl",
+      "example": "crib food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18572.png",
+      "local_image_path": "images/18572.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18571.png",
+      "local_image_path": "images/18571.png"
+    }
+  ],
+  "synonyms": [
+    "cheat",
+    "copy",
+    "plagiarize",
+    "steal",
+    "borrow",
+    "pilfer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "crib death",
+    "cribriform"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crib.mp3",
+  "local_sound_path": "sounds/crib.mp3"
+}

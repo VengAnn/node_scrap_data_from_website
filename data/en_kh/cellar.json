@@ -1,0 +1,35 @@
+{
+  "word": "cellar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "storage cellar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13500.png",
+      "local_image_path": "images/13500.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116102.png",
+      "local_image_path": "images/116102.png"
+    }
+  ],
+  "synonyms": [
+    "basement",
+    "vault",
+    "crypt"
+  ],
+  "antonyms": [
+    "attic"
+  ],
+  "similar_words": [
+    "cellarage",
+    "cellarer",
+    "cellaret",
+    "cellarette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cellar.mp3",
+  "local_sound_path": "sounds/cellar.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "word": "tin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89589.png",
+      "local_image_path": "images/89589.png"
+    },
+    {
+      "pos": "n",
+      "example": "made of tin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89587.png",
+      "local_image_path": "images/89587.png"
+    },
+    {
+      "pos": "n",
+      "example": "tin of sardines",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89588.png",
+      "local_image_path": "images/89588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tin a roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89590.png",
+      "local_image_path": "images/89590.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tin beans",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89591.png",
+      "local_image_path": "images/89591.png"
+    }
+  ],
+  "synonyms": [
+    "container",
+    "can",
+    "flask",
+    "cylinder",
+    "canister"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tin tack",
+    "tin-can",
+    "tin-mine",
+    "tin-opener",
+    "tin-plate",
+    "tin-plated",
+    "tin-whistle",
+    "tincal",
+    "tinct",
+    "tinctorial",
+    "tinctorially",
+    "tincture",
+    "tind",
+    "tinder",
+    "tinder-box",
+    "tine",
+    "tinea",
+    "tinea capitis",
+    "tineal",
+    "tined"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tin.mp3",
+  "local_sound_path": "sounds/tin.mp3"
+}

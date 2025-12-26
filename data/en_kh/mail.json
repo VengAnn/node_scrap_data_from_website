@@ -1,0 +1,81 @@
+{
+  "word": "mail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105364.png",
+      "local_image_path": "images/105364.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105365.png",
+      "local_image_path": "images/105365.png"
+    },
+    {
+      "pos": "n",
+      "example": "receive mail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105366.png",
+      "local_image_path": "images/105366.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105369.png",
+      "local_image_path": "images/105369.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105371.png",
+      "local_image_path": "images/105371.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105367.png",
+      "local_image_path": "images/105367.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105370.png",
+      "local_image_path": "images/105370.png"
+    }
+  ],
+  "synonyms": [
+    "post",
+    "send",
+    "dispatch",
+    "transmit",
+    "e-mail",
+    "email"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mail call",
+    "mail carrier",
+    "mail drop",
+    "mail fraud",
+    "mail order",
+    "mail-order",
+    "mailability",
+    "mailable",
+    "mailbag",
+    "mailbox",
+    "mailbox rule",
+    "mailed",
+    "mailer",
+    "mailguard",
+    "mailie",
+    "mailing",
+    "maillot",
+    "mailman",
+    "mailplane"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mail.mp3",
+  "local_sound_path": "sounds/mail.mp3"
+}

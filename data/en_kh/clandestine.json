@@ -1,0 +1,50 @@
+{
+  "word": "clandestine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14780.png",
+      "local_image_path": "images/14780.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116409.png",
+      "local_image_path": "images/116409.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116410.png",
+      "local_image_path": "images/116410.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116411.png",
+      "local_image_path": "images/116411.png"
+    }
+  ],
+  "synonyms": [
+    "secret",
+    "underground",
+    "covert",
+    "stealthy",
+    "furtive",
+    "undercover",
+    "surreptitious",
+    "illegal"
+  ],
+  "antonyms": [
+    "open"
+  ],
+  "similar_words": [
+    "clandestinely",
+    "clandestineness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clandestine.mp3",
+  "local_sound_path": "sounds/clandestine.mp3"
+}

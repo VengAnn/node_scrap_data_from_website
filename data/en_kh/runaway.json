@@ -1,0 +1,41 @@
+{
+  "word": "runaway",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "runaway child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74671.png",
+      "local_image_path": "images/74671.png"
+    },
+    {
+      "pos": "adj",
+      "example": "runaway inflation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74672.png",
+      "local_image_path": "images/74672.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127259.png",
+      "local_image_path": "images/127259.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74673.png",
+      "local_image_path": "images/74673.png"
+    }
+  ],
+  "synonyms": [
+    "fugitive",
+    "escapee",
+    "absentee",
+    "absconder"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/runaway.mp3",
+  "local_sound_path": "sounds/runaway.mp3"
+}

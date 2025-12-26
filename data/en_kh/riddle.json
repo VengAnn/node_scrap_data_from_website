@@ -1,0 +1,63 @@
+{
+  "word": "riddle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ask a riddle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73566.png",
+      "local_image_path": "images/73566.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73567.png",
+      "local_image_path": "images/73567.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73568.png",
+      "local_image_path": "images/73568.png"
+    },
+    {
+      "pos": "tv",
+      "example": "riddle a target",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73569.png",
+      "local_image_path": "images/73569.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Government riddles with corruption",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73570.png",
+      "local_image_path": "images/73570.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127120.png",
+      "local_image_path": "images/127120.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127121.png",
+      "local_image_path": "images/127121.png"
+    }
+  ],
+  "synonyms": [
+    "pierce",
+    "perforate",
+    "puncture",
+    "pepper",
+    "sift",
+    "screen",
+    "sieve",
+    "separate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/riddle.mp3",
+  "local_sound_path": "sounds/riddle.mp3"
+}

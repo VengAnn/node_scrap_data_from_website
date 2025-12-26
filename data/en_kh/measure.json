@@ -1,0 +1,75 @@
+{
+  "word": "measure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take the measure of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107089.png",
+      "local_image_path": "images/107089.png"
+    },
+    {
+      "pos": "n",
+      "example": "disciplinary measure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107090.png",
+      "local_image_path": "images/107090.png"
+    },
+    {
+      "pos": "n",
+      "example": "wooden measure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107091.png",
+      "local_image_path": "images/107091.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107092.png",
+      "local_image_path": "images/107092.png"
+    },
+    {
+      "pos": "tv",
+      "example": "measure his character",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107093.png",
+      "local_image_path": "images/107093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "planks measure one meter in length",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107094.png",
+      "local_image_path": "images/107094.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107095.png",
+      "local_image_path": "images/107095.png"
+    }
+  ],
+  "synonyms": [
+    "amount",
+    "degree",
+    "quantity",
+    "gauge",
+    "gage",
+    "calculate",
+    "compute",
+    "determine",
+    "assess",
+    "quantify",
+    "evaluate",
+    "appraise",
+    "rate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "measured",
+    "measureless",
+    "measurelessly",
+    "measurelessness",
+    "measurement",
+    "measurer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/measure.mp3",
+  "local_sound_path": "sounds/measure.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "abrasion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1552.png",
+      "local_image_path": "images/1552.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111834.png",
+      "local_image_path": "images/111834.png"
+    },
+    {
+      "pos": "phr",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132135.png",
+      "local_image_path": "images/132135.png"
+    }
+  ],
+  "synonyms": [
+    "scrape",
+    "scratch",
+    "scuff",
+    "graze",
+    "cut"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abrasion.mp3",
+  "local_sound_path": "sounds/abrasion.mp3"
+}

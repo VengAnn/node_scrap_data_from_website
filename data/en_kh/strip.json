@@ -1,0 +1,91 @@
+{
+  "word": "strip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85452.png",
+      "local_image_path": "images/85452.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85453.png",
+      "local_image_path": "images/85453.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85454.png",
+      "local_image_path": "images/85454.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85455.png",
+      "local_image_path": "images/85455.png"
+    },
+    {
+      "pos": "n",
+      "example": "strip of cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85456.png",
+      "local_image_path": "images/85456.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strip leaves off a branch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85448.png",
+      "local_image_path": "images/85448.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strip him of his rights",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85449.png",
+      "local_image_path": "images/85449.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strip gears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85450.png",
+      "local_image_path": "images/85450.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strip off one's clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85451.png",
+      "local_image_path": "images/85451.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85457.png",
+      "local_image_path": "images/85457.png"
+    }
+  ],
+  "synonyms": [
+    "undress",
+    "disrobe",
+    "deprive",
+    "divest",
+    "deny",
+    "rid"
+  ],
+  "antonyms": [
+    "dress",
+    "furnish"
+  ],
+  "similar_words": [
+    "strip cartoon",
+    "stripe",
+    "striped",
+    "stripling",
+    "stripor",
+    "stripper",
+    "striptease",
+    "stripy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strip.mp3",
+  "local_sound_path": "sounds/strip.mp3"
+}

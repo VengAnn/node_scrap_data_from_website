@@ -1,0 +1,33 @@
+{
+  "word": "cuckoo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18982.png",
+      "local_image_path": "images/18982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18981.png",
+      "local_image_path": "images/18981.png"
+    }
+  ],
+  "synonyms": [
+    "eccentric",
+    "strange",
+    "weird",
+    "unusual",
+    "bizarre",
+    "unconventional"
+  ],
+  "antonyms": [
+    "ordinary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cuckoo.mp3",
+  "local_sound_path": "sounds/cuckoo.mp3"
+}

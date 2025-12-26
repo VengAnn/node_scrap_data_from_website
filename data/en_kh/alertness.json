@@ -1,0 +1,39 @@
+{
+  "word": "alertness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3304.png",
+      "local_image_path": "images/3304.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113503.png",
+      "local_image_path": "images/113503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113504.png",
+      "local_image_path": "images/113504.png"
+    }
+  ],
+  "synonyms": [
+    "attentiveness",
+    "watchfulness",
+    "awareness",
+    "preparedness",
+    "vigilance",
+    "readiness"
+  ],
+  "antonyms": [
+    "inattentiveness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alertness.mp3",
+  "local_sound_path": "sounds/alertness.mp3"
+}

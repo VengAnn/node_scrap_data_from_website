@@ -1,0 +1,48 @@
+{
+  "word": "intermediate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41341.png",
+      "local_image_path": "images/41341.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122741.png",
+      "local_image_path": "images/122741.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122742.png",
+      "local_image_path": "images/122742.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41342.png",
+      "local_image_path": "images/41342.png"
+    }
+  ],
+  "synonyms": [
+    "middle",
+    "midway",
+    "in-between",
+    "transitional",
+    "halfway",
+    "intermediary"
+  ],
+  "antonyms": [
+    "extreme"
+  ],
+  "similar_words": [
+    "intermediately",
+    "intermediateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intermediate.mp3",
+  "local_sound_path": "sounds/intermediate.mp3"
+}

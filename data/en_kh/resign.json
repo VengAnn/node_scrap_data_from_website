@@ -1,0 +1,56 @@
+{
+  "word": "resign",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72701.png",
+      "local_image_path": "images/72701.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I resign my children to your care.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72702.png",
+      "local_image_path": "images/72702.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72703.png",
+      "local_image_path": "images/72703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Why did you resign your job?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72704.png",
+      "local_image_path": "images/72704.png"
+    },
+    {
+      "pos": "tv",
+      "example": "resign oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72705.png",
+      "local_image_path": "images/72705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "resign oneself to sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72706.png",
+      "local_image_path": "images/72706.png"
+    }
+  ],
+  "synonyms": [
+    "leave",
+    "quit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "resignation",
+    "resigned",
+    "resignedly",
+    "resignedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resign.mp3",
+  "local_sound_path": "sounds/resign.mp3"
+}

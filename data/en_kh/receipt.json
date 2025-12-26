@@ -1,0 +1,53 @@
+{
+  "word": "receipt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70707.png",
+      "local_image_path": "images/70707.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70708.png",
+      "local_image_path": "images/70708.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70709.png",
+      "local_image_path": "images/70709.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70710.png",
+      "local_image_path": "images/70710.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70711.png",
+      "local_image_path": "images/70711.png"
+    }
+  ],
+  "synonyms": [
+    "acknowledgment",
+    "note",
+    "slip",
+    "tab",
+    "voucher",
+    "acknowledgement",
+    "chit"
+  ],
+  "antonyms": [
+    "dispatch",
+    "invoice"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/receipt.mp3",
+  "local_sound_path": "sounds/receipt.mp3"
+}

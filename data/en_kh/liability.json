@@ -1,0 +1,37 @@
+{
+  "word": "liability",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "legal liability",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46140.png",
+      "local_image_path": "images/46140.png"
+    },
+    {
+      "pos": "n",
+      "example": "a political liability",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46141.png",
+      "local_image_path": "images/46141.png"
+    },
+    {
+      "pos": "n",
+      "example": "financial liability",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46142.png",
+      "local_image_path": "images/46142.png"
+    }
+  ],
+  "synonyms": [
+    "danger",
+    "problem",
+    "burden",
+    "millstone",
+    "jinx",
+    "disadvantage"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liability.mp3",
+  "local_sound_path": "sounds/liability.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "utter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She's an utter stranger to me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96978.png",
+      "local_image_path": "images/96978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96974.png",
+      "local_image_path": "images/96974.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The last words he uttered.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96975.png",
+      "local_image_path": "images/96975.png"
+    }
+  ],
+  "synonyms": [
+    "say",
+    "express",
+    "state",
+    "pronounce",
+    "voice",
+    "speak",
+    "articulate",
+    "emit"
+  ],
+  "antonyms": [
+    "partial"
+  ],
+  "similar_words": [
+    "utterable",
+    "utterance",
+    "utterer",
+    "utterest",
+    "utterless",
+    "utterly",
+    "uttermost"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/utter.mp3",
+  "local_sound_path": "sounds/utter.mp3"
+}

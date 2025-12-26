@@ -1,0 +1,35 @@
+{
+  "word": "medication",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "under medication",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107216.png",
+      "local_image_path": "images/107216.png"
+    },
+    {
+      "pos": "n",
+      "example": "strong medication",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107217.png",
+      "local_image_path": "images/107217.png"
+    }
+  ],
+  "synonyms": [
+    "medicine",
+    "drug",
+    "prescription",
+    "pill",
+    "tablet",
+    "capsule",
+    "suppository",
+    "treatment",
+    "dose",
+    "remedy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/medication.mp3",
+  "local_sound_path": "sounds/medication.mp3"
+}

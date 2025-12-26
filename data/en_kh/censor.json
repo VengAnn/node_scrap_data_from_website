@@ -1,0 +1,44 @@
+{
+  "word": "censor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13543.png",
+      "local_image_path": "images/13543.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13544.png",
+      "local_image_path": "images/13544.png"
+    }
+  ],
+  "synonyms": [
+    "edit",
+    "cut",
+    "expurgate",
+    "bowdlerize",
+    "stifle",
+    "gag",
+    "repress",
+    "remove",
+    "amend",
+    "blue-pencil",
+    "suppress",
+    "control"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "censorial",
+    "censorious",
+    "censoriously",
+    "censoriousness",
+    "censorship",
+    "censorware"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/censor.mp3",
+  "local_sound_path": "sounds/censor.mp3"
+}

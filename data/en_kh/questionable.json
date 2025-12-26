@@ -1,0 +1,45 @@
+{
+  "word": "questionable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69533.png",
+      "local_image_path": "images/69533.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126367.png",
+      "local_image_path": "images/126367.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126368.png",
+      "local_image_path": "images/126368.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126369.png",
+      "local_image_path": "images/126369.png"
+    }
+  ],
+  "synonyms": [
+    "dubious",
+    "doubtful",
+    "uncertain",
+    "moot",
+    "problematic",
+    "debatable"
+  ],
+  "antonyms": [
+    "indisputable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/questionable.mp3",
+  "local_sound_path": "sounds/questionable.mp3"
+}

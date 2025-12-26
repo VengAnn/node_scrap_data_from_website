@@ -1,0 +1,41 @@
+{
+  "word": "dome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22654.png",
+      "local_image_path": "images/22654.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22655.png",
+      "local_image_path": "images/22655.png"
+    }
+  ],
+  "synonyms": [
+    "arena",
+    "auditorium",
+    "ground",
+    "pitch",
+    "field",
+    "ring"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "domestic",
+    "domestic animal",
+    "domestic economy",
+    "domestic trade",
+    "domestically",
+    "domesticate",
+    "domestication",
+    "domesticity",
+    "domesticize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dome.mp3",
+  "local_sound_path": "sounds/dome.mp3"
+}

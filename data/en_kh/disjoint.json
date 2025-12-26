@@ -1,0 +1,40 @@
+{
+  "word": "disjoint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21956.png",
+      "local_image_path": "images/21956.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118527.png",
+      "local_image_path": "images/118527.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118528.png",
+      "local_image_path": "images/118528.png"
+    }
+  ],
+  "synonyms": [
+    "displace",
+    "dislodge"
+  ],
+  "antonyms": [
+    "replace",
+    "join",
+    "retain"
+  ],
+  "similar_words": [
+    "disjointed",
+    "disjointedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disjoint.mp3",
+  "local_sound_path": "sounds/disjoint.mp3"
+}

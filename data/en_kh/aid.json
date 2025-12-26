@@ -1,0 +1,43 @@
+{
+  "word": "aid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "economic aid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3072.png",
+      "local_image_path": "images/3072.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3071.png",
+      "local_image_path": "images/3071.png"
+    }
+  ],
+  "synonyms": [
+    "assistance",
+    "help",
+    "support",
+    "relief",
+    "encouragement",
+    "service",
+    "utility",
+    "promote",
+    "encourage",
+    "further",
+    "advance",
+    "foster",
+    "bolster"
+  ],
+  "antonyms": [
+    "thwart"
+  ],
+  "similar_words": [
+    "aid-de-camp",
+    "AIDS"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aid.mp3",
+  "local_sound_path": "sounds/aid.mp3"
+}

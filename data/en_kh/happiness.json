@@ -1,0 +1,31 @@
+{
+  "word": "happiness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33808.png",
+      "local_image_path": "images/33808.png"
+    }
+  ],
+  "synonyms": [
+    "contentment",
+    "pleasure",
+    "gladness",
+    "cheerfulness",
+    "joy",
+    "glee",
+    "bliss",
+    "delight",
+    "exhilaration",
+    "ecstasy"
+  ],
+  "antonyms": [
+    "sadness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/happiness.mp3",
+  "local_sound_path": "sounds/happiness.mp3"
+}

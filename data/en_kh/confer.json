@@ -1,0 +1,49 @@
+{
+  "word": "confer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "she withrew to confer with her aduisers before announcing a decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16634.png",
+      "local_image_path": "images/16634.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16635.png",
+      "local_image_path": "images/16635.png"
+    }
+  ],
+  "synonyms": [
+    "talk",
+    "discuss",
+    "deliberate",
+    "consult",
+    "award",
+    "bestow",
+    "present",
+    "grant",
+    "give"
+  ],
+  "antonyms": [
+    "retrieve",
+    "withhold"
+  ],
+  "similar_words": [
+    "conferable",
+    "conferal",
+    "conferee",
+    "conference",
+    "conference call",
+    "conferencing",
+    "conferential",
+    "conferer",
+    "conferment",
+    "conferva",
+    "confervoid"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confer.mp3",
+  "local_sound_path": "sounds/confer.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "overthrow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "overthrow of the regime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58963.png",
+      "local_image_path": "images/58963.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overthrow a regime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58962.png",
+      "local_image_path": "images/58962.png"
+    }
+  ],
+  "synonyms": [
+    "conquer",
+    "defeat",
+    "oust",
+    "depose",
+    "topple",
+    "dethrone"
+  ],
+  "antonyms": [
+    "victory",
+    "uphold"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overthrow.mp3",
+  "local_sound_path": "sounds/overthrow.mp3"
+}

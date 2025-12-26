@@ -1,0 +1,33 @@
+{
+  "word": "attic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6283.png",
+      "local_image_path": "images/6283.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114244.png",
+      "local_image_path": "images/114244.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114245.png",
+      "local_image_path": "images/114245.png"
+    }
+  ],
+  "synonyms": [
+    "loft",
+    "garret"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/attic.mp3",
+  "local_sound_path": "sounds/attic.mp3"
+}

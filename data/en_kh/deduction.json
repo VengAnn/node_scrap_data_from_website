@@ -1,0 +1,39 @@
+{
+  "word": "deduction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20084.png",
+      "local_image_path": "images/20084.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117867.png",
+      "local_image_path": "images/117867.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117868.png",
+      "local_image_path": "images/117868.png"
+    }
+  ],
+  "synonyms": [
+    "subtraction",
+    "removal",
+    "withdrawal",
+    "abstraction",
+    "contribution",
+    "payment"
+  ],
+  "antonyms": [
+    "addition"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deduction.mp3",
+  "local_sound_path": "sounds/deduction.mp3"
+}

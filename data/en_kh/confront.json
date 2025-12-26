@@ -1,0 +1,45 @@
+{
+  "word": "confront",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "they confronted the prisoner with his accusers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16739.png",
+      "local_image_path": "images/16739.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117210.png",
+      "local_image_path": "images/117210.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117211.png",
+      "local_image_path": "images/117211.png"
+    }
+  ],
+  "synonyms": [
+    "challenge",
+    "threaten",
+    "defy",
+    "tackle",
+    "meet",
+    "face",
+    "encounter",
+    "handle"
+  ],
+  "antonyms": [
+    "avoid"
+  ],
+  "similar_words": [
+    "confrontation",
+    "confrontational",
+    "confronter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confront.mp3",
+  "local_sound_path": "sounds/confront.mp3"
+}

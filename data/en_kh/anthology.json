@@ -1,0 +1,42 @@
+{
+  "word": "anthology",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4556.png",
+      "local_image_path": "images/4556.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113771.png",
+      "local_image_path": "images/113771.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113772.png",
+      "local_image_path": "images/113772.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113773.png",
+      "local_image_path": "images/113773.png"
+    }
+  ],
+  "synonyms": [
+    "collection",
+    "compilation",
+    "album",
+    "omnibus",
+    "compendium"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anthology.mp3",
+  "local_sound_path": "sounds/anthology.mp3"
+}

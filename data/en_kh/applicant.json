@@ -1,0 +1,31 @@
+{
+  "word": "applicant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "applicant elector",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5100.png",
+      "local_image_path": "images/5100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112120.png",
+      "local_image_path": "images/112120.png"
+    }
+  ],
+  "synonyms": [
+    "candidate",
+    "interviewee",
+    "claimant",
+    "hopeful",
+    "aspirant",
+    "contender"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/applicant.mp3",
+  "local_sound_path": "sounds/applicant.mp3"
+}

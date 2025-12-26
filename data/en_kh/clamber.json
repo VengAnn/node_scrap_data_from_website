@@ -1,0 +1,30 @@
+{
+  "word": "clamber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14765.png",
+      "local_image_path": "images/14765.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14764.png",
+      "local_image_path": "images/14764.png"
+    }
+  ],
+  "synonyms": [
+    "climb",
+    "scramble",
+    "scale",
+    "mount",
+    "crawl"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clamber.mp3",
+  "local_sound_path": "sounds/clamber.mp3"
+}

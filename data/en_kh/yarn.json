@@ -1,0 +1,44 @@
+{
+  "word": "yarn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wool yarn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101404.png",
+      "local_image_path": "images/101404.png"
+    },
+    {
+      "pos": "n",
+      "example": "unbelievable yarn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101405.png",
+      "local_image_path": "images/101405.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101406.png",
+      "local_image_path": "images/101406.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129947.png",
+      "local_image_path": "images/129947.png"
+    }
+  ],
+  "synonyms": [
+    "story",
+    "tale",
+    "anecdote",
+    "joke",
+    "thread",
+    "fiber",
+    "wool"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yarn.mp3",
+  "local_sound_path": "sounds/yarn.mp3"
+}

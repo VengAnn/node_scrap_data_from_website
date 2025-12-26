@@ -1,0 +1,50 @@
+{
+  "word": "cater",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13345.png",
+      "local_image_path": "images/13345.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116056.png",
+      "local_image_path": "images/116056.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116057.png",
+      "local_image_path": "images/116057.png"
+    }
+  ],
+  "synonyms": [
+    "provide",
+    "supply",
+    "outfit",
+    "furnish",
+    "accommodate",
+    "gratify",
+    "satisfy",
+    "tailor",
+    "serve",
+    "offer",
+    "organize"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cater-cornered",
+    "cateran",
+    "catercousin",
+    "caterer",
+    "catering",
+    "caterpillar",
+    "caterwaul"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cater.mp3",
+  "local_sound_path": "sounds/cater.mp3"
+}

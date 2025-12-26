@@ -1,0 +1,37 @@
+{
+  "word": "authority",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He is a great authority on phonetics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6520.png",
+      "local_image_path": "images/6520.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112127.png",
+      "local_image_path": "images/112127.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112128.png",
+      "local_image_path": "images/112128.png"
+    }
+  ],
+  "synonyms": [
+    "citation",
+    "source",
+    "evidence"
+  ],
+  "antonyms": [
+    "powerlessness",
+    "insecurity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authority.mp3",
+  "local_sound_path": "sounds/authority.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "coup",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "political coup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18149.png",
+      "local_image_path": "images/18149.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18794.png",
+      "local_image_path": "images/18794.png"
+    }
+  ],
+  "synonyms": [
+    "achievement",
+    "accomplishment",
+    "triumph",
+    "feat",
+    "success"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coup d'etat",
+    "coup d'oeil",
+    "coup de grace",
+    "coup de main",
+    "coup de theatre",
+    "coupe",
+    "couple",
+    "couplet",
+    "coupling",
+    "coupon",
+    "coupon passenger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coup.mp3",
+  "local_sound_path": "sounds/coup.mp3"
+}

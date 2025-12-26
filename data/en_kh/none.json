@@ -1,0 +1,47 @@
+{
+  "word": "none",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "none too large",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56089.png",
+      "local_image_path": "images/56089.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56090.png",
+      "local_image_path": "images/56090.png"
+    },
+    {
+      "pos": "pron",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56088.png",
+      "local_image_path": "images/56088.png"
+    }
+  ],
+  "synonyms": [
+    "nobody",
+    "nothing"
+  ],
+  "antonyms": [
+    "some"
+  ],
+  "similar_words": [
+    "none-so-pretty",
+    "none-sparing",
+    "noneducable",
+    "nonego",
+    "nonenjoyment",
+    "nonentity",
+    "nonesuch",
+    "nonetheless",
+    "nonevent",
+    "nonexistence",
+    "nonexistent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/none.mp3",
+  "local_sound_path": "sounds/none.mp3"
+}

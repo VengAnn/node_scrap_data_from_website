@@ -1,0 +1,63 @@
+{
+  "word": "chatter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "chatter (a way)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13931.png",
+      "local_image_path": "images/13931.png"
+    },
+    {
+      "pos": "iv",
+      "example": "monkey chatters",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13932.png",
+      "local_image_path": "images/13932.png"
+    },
+    {
+      "pos": "iv",
+      "example": "chatter (away/on) (about sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13933.png",
+      "local_image_path": "images/13933.png"
+    },
+    {
+      "pos": "iv",
+      "example": "children chatter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13934.png",
+      "local_image_path": "images/13934.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13935.png",
+      "local_image_path": "images/13935.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13936.png",
+      "local_image_path": "images/13936.png"
+    },
+    {
+      "pos": "n",
+      "example": "chatter of birds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13937.png",
+      "local_image_path": "images/13937.png"
+    }
+  ],
+  "synonyms": [
+    "talk",
+    "gossip",
+    "babble",
+    "prattle",
+    "rant"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chatterbox",
+    "chatterer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chatter.mp3",
+  "local_sound_path": "sounds/chatter.mp3"
+}

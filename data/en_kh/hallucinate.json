@@ -1,0 +1,33 @@
+{
+  "word": "hallucinate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33617.png",
+      "local_image_path": "images/33617.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131310.png",
+      "local_image_path": "images/131310.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131311.png",
+      "local_image_path": "images/131311.png"
+    }
+  ],
+  "synonyms": [
+    "fantasize",
+    "imagine"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hallucinate.mp3",
+  "local_sound_path": "sounds/hallucinate.mp3"
+}

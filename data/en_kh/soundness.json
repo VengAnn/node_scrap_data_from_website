@@ -1,0 +1,36 @@
+{
+  "word": "soundness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82878.png",
+      "local_image_path": "images/82878.png"
+    }
+  ],
+  "synonyms": [
+    "reliability",
+    "security",
+    "accuracy",
+    "dependability",
+    "wholeness",
+    "completeness",
+    "health",
+    "healthiness",
+    "fitness",
+    "intactness",
+    "sturdiness",
+    "robustness",
+    "strength"
+  ],
+  "antonyms": [
+    "unreliability",
+    "superficiality",
+    "infirmity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soundness.mp3",
+  "local_sound_path": "sounds/soundness.mp3"
+}

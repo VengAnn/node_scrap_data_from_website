@@ -1,0 +1,38 @@
+{
+  "word": "clod",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "clod of earth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15091.png",
+      "local_image_path": "images/15091.png"
+    },
+    {
+      "pos": "n",
+      "example": "stupid clod",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15092.png",
+      "local_image_path": "images/15092.png"
+    }
+  ],
+  "synonyms": [
+    "lump",
+    "chunk",
+    "clump",
+    "wad",
+    "hunk",
+    "glob"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clodder",
+    "cloddish",
+    "cloddishly",
+    "cloddishness",
+    "cloddy",
+    "clodhopper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clod.mp3",
+  "local_sound_path": "sounds/clod.mp3"
+}

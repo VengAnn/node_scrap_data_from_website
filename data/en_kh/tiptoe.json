@@ -1,0 +1,34 @@
+{
+  "word": "tiptoe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "on tiptoe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89707.png",
+      "local_image_path": "images/89707.png"
+    },
+    {
+      "pos": "v",
+      "example": "She tiptoed to the bedside of the sleeping child.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89706.png",
+      "local_image_path": "images/89706.png"
+    }
+  ],
+  "synonyms": [
+    "creep",
+    "sneak",
+    "steal",
+    "skulk",
+    "glide",
+    "slink",
+    "tread"
+  ],
+  "antonyms": [
+    "stamp"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tiptoe.mp3",
+  "local_sound_path": "sounds/tiptoe.mp3"
+}

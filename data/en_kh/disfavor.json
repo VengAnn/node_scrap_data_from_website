@@ -1,0 +1,38 @@
+{
+  "word": "disfavor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21844.png",
+      "local_image_path": "images/21844.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118469.png",
+      "local_image_path": "images/118469.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21846.png",
+      "local_image_path": "images/21846.png"
+    }
+  ],
+  "synonyms": [
+    "disservice",
+    "unkindness",
+    "abuse",
+    "ill-treatment"
+  ],
+  "antonyms": [
+    "approval",
+    "favor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disfavor.mp3",
+  "local_sound_path": "sounds/disfavor.mp3"
+}

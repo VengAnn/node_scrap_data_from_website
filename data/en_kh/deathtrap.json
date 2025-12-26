@@ -1,0 +1,28 @@
+{
+  "word": "deathtrap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19849.png",
+      "local_image_path": "images/19849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117795.png",
+      "local_image_path": "images/117795.png"
+    }
+  ],
+  "synonyms": [
+    "hazard",
+    "minefield",
+    "pitfall"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deathtrap.mp3",
+  "local_sound_path": "sounds/deathtrap.mp3"
+}

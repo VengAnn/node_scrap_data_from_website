@@ -1,0 +1,47 @@
+{
+  "word": "duff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23361.png",
+      "local_image_path": "images/23361.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118818.png",
+      "local_image_path": "images/118818.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118819.png",
+      "local_image_path": "images/118819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23362.png",
+      "local_image_path": "images/23362.png"
+    }
+  ],
+  "synonyms": [
+    "useless",
+    "worthless",
+    "ineffective",
+    "broken"
+  ],
+  "antonyms": [
+    "excellent"
+  ],
+  "similar_words": [
+    "duffer",
+    "duffing",
+    "duffle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duff.mp3",
+  "local_sound_path": "sounds/duff.mp3"
+}

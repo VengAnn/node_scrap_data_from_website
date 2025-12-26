@@ -1,0 +1,44 @@
+{
+  "word": "disturbance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22350.png",
+      "local_image_path": "images/22350.png"
+    },
+    {
+      "pos": "n",
+      "example": "create a disturbance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22351.png",
+      "local_image_path": "images/22351.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental disturbance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22352.png",
+      "local_image_path": "images/22352.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118681.png",
+      "local_image_path": "images/118681.png"
+    }
+  ],
+  "synonyms": [
+    "annoyance",
+    "interruption",
+    "intrusion",
+    "bother",
+    "disruption",
+    "irritation",
+    "distraction"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disturbance.mp3",
+  "local_sound_path": "sounds/disturbance.mp3"
+}

@@ -1,0 +1,55 @@
+{
+  "word": "chicken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14135.png",
+      "local_image_path": "images/14135.png"
+    },
+    {
+      "pos": "iv (sl)",
+      "example": "chicken out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14136.png",
+      "local_image_path": "images/14136.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14134.png",
+      "local_image_path": "images/14134.png"
+    }
+  ],
+  "synonyms": [
+    "cowardly",
+    "frightened",
+    "scared",
+    "reluctant",
+    "fearful",
+    "apprehensive",
+    "jumpy",
+    "afraid",
+    "hesitant",
+    "fowl",
+    "hen",
+    "rooster",
+    "pullet",
+    "capon",
+    "chick",
+    "poultry"
+  ],
+  "antonyms": [
+    "brave"
+  ],
+  "similar_words": [
+    "chicken pox",
+    "chicken-feed",
+    "chicken-hearted",
+    "chicken-heartedness",
+    "chicken-livered"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chicken.mp3",
+  "local_sound_path": "sounds/chicken.mp3"
+}

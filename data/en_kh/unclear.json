@@ -1,0 +1,57 @@
+{
+  "word": "unclear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93615.png",
+      "local_image_path": "images/93615.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128854.png",
+      "local_image_path": "images/128854.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128855.png",
+      "local_image_path": "images/128855.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128856.png",
+      "local_image_path": "images/128856.png"
+    }
+  ],
+  "synonyms": [
+    "indistinct",
+    "uncertain",
+    "undecided",
+    "blurred",
+    "indistinguishable",
+    "vague",
+    "imprecise",
+    "ambiguous",
+    "doubtful",
+    "hazy",
+    "indeterminate",
+    "unsure"
+  ],
+  "antonyms": [
+    "certain",
+    "clear",
+    "definite"
+  ],
+  "similar_words": [
+    "uncleared",
+    "unclearly",
+    "unclearness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unclear.mp3",
+  "local_sound_path": "sounds/unclear.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "distressed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22321.png",
+      "local_image_path": "images/22321.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132484.png",
+      "local_image_path": "images/132484.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132485.png",
+      "local_image_path": "images/132485.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132486.png",
+      "local_image_path": "images/132486.png"
+    }
+  ],
+  "synonyms": [
+    "suffering",
+    "anguished",
+    "upset",
+    "troubled",
+    "bothered",
+    "afflicted",
+    "worried"
+  ],
+  "antonyms": [
+    "content"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/distressed.mp3",
+  "local_sound_path": "sounds/distressed.mp3"
+}

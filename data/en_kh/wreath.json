@@ -1,0 +1,33 @@
+{
+  "word": "wreath",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101108.png",
+      "local_image_path": "images/101108.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130964.png",
+      "local_image_path": "images/130964.png"
+    }
+  ],
+  "synonyms": [
+    "garland",
+    "circlet",
+    "laurel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wreathe",
+    "wreathless",
+    "wreathlet",
+    "wreathy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wreath.mp3",
+  "local_sound_path": "sounds/wreath.mp3"
+}

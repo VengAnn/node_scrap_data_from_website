@@ -1,0 +1,38 @@
+{
+  "word": "damper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19578.png",
+      "local_image_path": "images/19578.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117687.png",
+      "local_image_path": "images/117687.png"
+    }
+  ],
+  "synonyms": [
+    "constraint",
+    "curb",
+    "check",
+    "discouragement",
+    "restraint",
+    "deterrent",
+    "limitation",
+    "indifferent",
+    "insipid",
+    "enthusiastic"
+  ],
+  "antonyms": [
+    "incentive",
+    "spur"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/damper.mp3",
+  "local_sound_path": "sounds/damper.mp3"
+}

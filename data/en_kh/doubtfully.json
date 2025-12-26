@@ -1,0 +1,37 @@
+{
+  "word": "doubtfully",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22849.png",
+      "local_image_path": "images/22849.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118757.png",
+      "local_image_path": "images/118757.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118758.png",
+      "local_image_path": "images/118758.png"
+    }
+  ],
+  "synonyms": [
+    "uncertainly",
+    "hesitantly",
+    "distrustfully",
+    "apprehensively"
+  ],
+  "antonyms": [
+    "confidently"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doubtfully.mp3",
+  "local_sound_path": "sounds/doubtfully.mp3"
+}

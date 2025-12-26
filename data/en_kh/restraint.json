@@ -1,0 +1,45 @@
+{
+  "word": "restraint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "use restraint in dealing with insurrection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72957.png",
+      "local_image_path": "images/72957.png"
+    },
+    {
+      "pos": "n",
+      "example": "no restraint on his action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72958.png",
+      "local_image_path": "images/72958.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127006.png",
+      "local_image_path": "images/127006.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127007.png",
+      "local_image_path": "images/127007.png"
+    }
+  ],
+  "synonyms": [
+    "captivity",
+    "arrest",
+    "imprisonment",
+    "confinement",
+    "detention"
+  ],
+  "antonyms": [
+    "self-indulgence",
+    "freedom"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restraint.mp3",
+  "local_sound_path": "sounds/restraint.mp3"
+}

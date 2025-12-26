@@ -1,0 +1,38 @@
+{
+  "word": "intruder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41870.png",
+      "local_image_path": "images/41870.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122852.png",
+      "local_image_path": "images/122852.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122853.png",
+      "local_image_path": "images/122853.png"
+    }
+  ],
+  "synonyms": [
+    "interloper",
+    "impostor",
+    "burglar",
+    "prowler",
+    "trespasser",
+    "stalker",
+    "invader"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intruder.mp3",
+  "local_sound_path": "sounds/intruder.mp3"
+}

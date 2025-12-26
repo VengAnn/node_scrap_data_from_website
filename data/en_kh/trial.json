@@ -1,0 +1,78 @@
+{
+  "word": "trial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The judge conducted four trials in one day.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91576.png",
+      "local_image_path": "images/91576.png"
+    },
+    {
+      "pos": "n",
+      "example": "give it a trial",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91577.png",
+      "local_image_path": "images/91577.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91578.png",
+      "local_image_path": "images/91578.png"
+    },
+    {
+      "pos": "n",
+      "example": "That child is a trial to his parents.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91579.png",
+      "local_image_path": "images/91579.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128472.png",
+      "local_image_path": "images/128472.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128473.png",
+      "local_image_path": "images/128473.png"
+    }
+  ],
+  "synonyms": [
+    "experimental",
+    "probationary",
+    "pilot",
+    "provisional",
+    "test",
+    "sample",
+    "ordeal",
+    "hardship",
+    "pain",
+    "suffering",
+    "trouble",
+    "misery",
+    "distress",
+    "burden",
+    "worry",
+    "difficulty",
+    "anxiety",
+    "tribulation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "trial court",
+    "trial denovo",
+    "trial jury",
+    "trial period",
+    "trial run",
+    "trial sample",
+    "trial-balloon",
+    "trial-trip",
+    "triality",
+    "trialogue"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trial.mp3",
+  "local_sound_path": "sounds/trial.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "opposite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57821.png",
+      "local_image_path": "images/57821.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57817.png",
+      "local_image_path": "images/57817.png"
+    },
+    {
+      "pos": "n",
+      "example": "opposite meaning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57818.png",
+      "local_image_path": "images/57818.png"
+    },
+    {
+      "pos": "n",
+      "example": "opposite side",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57819.png",
+      "local_image_path": "images/57819.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57820.png",
+      "local_image_path": "images/57820.png"
+    }
+  ],
+  "synonyms": [
+    "contrary",
+    "reverse",
+    "converse",
+    "facing"
+  ],
+  "antonyms": [
+    "parallel",
+    "adjacent",
+    "beside"
+  ],
+  "similar_words": [
+    "oppositely",
+    "oppositeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/opposite.mp3",
+  "local_sound_path": "sounds/opposite.mp3"
+}

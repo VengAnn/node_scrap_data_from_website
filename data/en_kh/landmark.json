@@ -1,0 +1,46 @@
+{
+  "word": "landmark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The temple on the hilltop is a well-known landmark.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44767.png",
+      "local_image_path": "images/44767.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44768.png",
+      "local_image_path": "images/44768.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44769.png",
+      "local_image_path": "images/44769.png"
+    }
+  ],
+  "synonyms": [
+    "milestone",
+    "breakthrough",
+    "momentous",
+    "revolutionary",
+    "innovative",
+    "innovatory",
+    "radical",
+    "historic",
+    "significant",
+    "marker",
+    "sight",
+    "attraction",
+    "sign",
+    "pointer",
+    "cairn"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/landmark.mp3",
+  "local_sound_path": "sounds/landmark.mp3"
+}

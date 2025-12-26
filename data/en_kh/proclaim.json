@@ -1,0 +1,30 @@
+{
+  "word": "proclaim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67241.png",
+      "local_image_path": "images/67241.png"
+    }
+  ],
+  "synonyms": [
+    "announce",
+    "declare",
+    "state",
+    "decree",
+    "assert",
+    "broadcast",
+    "pronounce"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "proclaimation",
+    "proclaimatory",
+    "proclaimer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/proclaim.mp3",
+  "local_sound_path": "sounds/proclaim.mp3"
+}

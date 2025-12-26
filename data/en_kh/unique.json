@@ -1,0 +1,51 @@
+{
+  "word": "unique",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "unique example",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94599.png",
+      "local_image_path": "images/94599.png"
+    },
+    {
+      "pos": "adj",
+      "example": "unique experience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94600.png",
+      "local_image_path": "images/94600.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94601.png",
+      "local_image_path": "images/94601.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132587.png",
+      "local_image_path": "images/132587.png"
+    }
+  ],
+  "synonyms": [
+    "sole",
+    "single",
+    "exclusive",
+    "exceptional",
+    "inimitable",
+    "distinctive",
+    "matchless",
+    "irreplaceable",
+    "rare"
+  ],
+  "antonyms": [
+    "common"
+  ],
+  "similar_words": [
+    "uniquely",
+    "uniqueness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unique.mp3",
+  "local_sound_path": "sounds/unique.mp3"
+}

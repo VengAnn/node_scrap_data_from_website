@@ -1,0 +1,36 @@
+{
+  "word": "bereave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Mr. Samith was bereaved of his wife since \n\n1970",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8348.png",
+      "local_image_path": "images/8348.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114939.png",
+      "local_image_path": "images/114939.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114940.png",
+      "local_image_path": "images/114940.png"
+    }
+  ],
+  "synonyms": [
+    "orphan",
+    "leave"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bereaved",
+    "bereavement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bereave.mp3",
+  "local_sound_path": "sounds/bereave.mp3"
+}

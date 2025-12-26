@@ -1,0 +1,58 @@
+{
+  "word": "people",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "People of Cambodia",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61494.png",
+      "local_image_path": "images/61494.png"
+    },
+    {
+      "pos": "n",
+      "example": "visit her people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61495.png",
+      "local_image_path": "images/61495.png"
+    },
+    {
+      "pos": "n",
+      "example": "man of the people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61496.png",
+      "local_image_path": "images/61496.png"
+    },
+    {
+      "pos": "n",
+      "example": "people will talk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61497.png",
+      "local_image_path": "images/61497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125311.png",
+      "local_image_path": "images/125311.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125312.png",
+      "local_image_path": "images/125312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125313.png",
+      "local_image_path": "images/125313.png"
+    }
+  ],
+  "synonyms": [
+    "populate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "peoples"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/people.mp3",
+  "local_sound_path": "sounds/people.mp3"
+}

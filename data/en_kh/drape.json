@@ -1,0 +1,49 @@
+{
+  "word": "drape",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23010.png",
+      "local_image_path": "images/23010.png"
+    },
+    {
+      "pos": "n",
+      "example": "draper of the cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23011.png",
+      "local_image_path": "images/23011.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She draped her arms around the neck.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23008.png",
+      "local_image_path": "images/23008.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23009.png",
+      "local_image_path": "images/23009.png"
+    }
+  ],
+  "synonyms": [
+    "swathe",
+    "dress",
+    "wrap",
+    "cover",
+    "clothe",
+    "adorn",
+    "decorate",
+    "arrange",
+    "array"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "draper",
+    "drapery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drape.mp3",
+  "local_sound_path": "sounds/drape.mp3"
+}

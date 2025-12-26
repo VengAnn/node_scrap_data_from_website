@@ -1,0 +1,43 @@
+{
+  "word": "swamp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "swamp with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86726.png",
+      "local_image_path": "images/86726.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86724.png",
+      "local_image_path": "images/86724.png"
+    },
+    {
+      "pos": "tv",
+      "example": "A big wave swamped the boat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86725.png",
+      "local_image_path": "images/86725.png"
+    }
+  ],
+  "synonyms": [
+    "overwhelm",
+    "inundate",
+    "flood",
+    "drown",
+    "overload",
+    "submerge",
+    "engulf",
+    "deluge",
+    "drench",
+    "sink"
+  ],
+  "antonyms": [
+    "drain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swamp.mp3",
+  "local_sound_path": "sounds/swamp.mp3"
+}

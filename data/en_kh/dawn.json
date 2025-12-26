@@ -1,0 +1,52 @@
+{
+  "word": "dawn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "(day) dawned",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19734.png",
+      "local_image_path": "images/19734.png"
+    },
+    {
+      "pos": "n",
+      "example": "at dawn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19732.png",
+      "local_image_path": "images/19732.png"
+    },
+    {
+      "pos": "n",
+      "example": "dawn of civilization",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19733.png",
+      "local_image_path": "images/19733.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117736.png",
+      "local_image_path": "images/117736.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117737.png",
+      "local_image_path": "images/117737.png"
+    }
+  ],
+  "synonyms": [
+    "begin",
+    "start",
+    "emerge",
+    "originate",
+    "occur",
+    "strike"
+  ],
+  "antonyms": [
+    "dusk",
+    "end"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dawn.mp3",
+  "local_sound_path": "sounds/dawn.mp3"
+}

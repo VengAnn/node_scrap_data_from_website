@@ -1,0 +1,42 @@
+{
+  "word": "amen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3838.png",
+      "local_image_path": "images/3838.png"
+    },
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3839.png",
+      "local_image_path": "images/3839.png"
+    }
+  ],
+  "synonyms": [
+    "agreed",
+    "yes",
+    "indeed"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "amenable",
+    "amenably",
+    "amend",
+    "amendatory",
+    "amendment",
+    "amends",
+    "amene",
+    "amenity",
+    "amenorrhea",
+    "amenorrhoea",
+    "ament",
+    "amental",
+    "amentia"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amen.mp3",
+  "local_sound_path": "sounds/amen.mp3"
+}

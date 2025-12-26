@@ -1,0 +1,33 @@
+{
+  "word": "somnolent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "somnolent student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82665.png",
+      "local_image_path": "images/82665.png"
+    },
+    {
+      "pos": "adj",
+      "example": "somnolent day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82666.png",
+      "local_image_path": "images/82666.png"
+    }
+  ],
+  "synonyms": [
+    "sleepy",
+    "drowsy",
+    "dozy",
+    "torpid",
+    "lethargic",
+    "wide awake"
+  ],
+  "antonyms": [
+    "wide awake"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/somnolent.mp3",
+  "local_sound_path": "sounds/somnolent.mp3"
+}

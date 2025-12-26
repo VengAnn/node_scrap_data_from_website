@@ -1,0 +1,51 @@
+{
+  "word": "position",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "position of troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65348.png",
+      "local_image_path": "images/65348.png"
+    },
+    {
+      "pos": "n",
+      "example": "What is your position?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65349.png",
+      "local_image_path": "images/65349.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65350.png",
+      "local_image_path": "images/65350.png"
+    }
+  ],
+  "synonyms": [
+    "opinion",
+    "take",
+    "stance",
+    "view",
+    "perception",
+    "side",
+    "attitude",
+    "thinking",
+    "outlook",
+    "standpoint",
+    "put",
+    "place",
+    "locate",
+    "stand",
+    "sit",
+    "set",
+    "arrange"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "positional",
+    "positioner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/position.mp3",
+  "local_sound_path": "sounds/position.mp3"
+}

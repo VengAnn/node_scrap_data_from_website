@@ -1,0 +1,26 @@
+{
+  "word": "woof",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100847.png",
+      "local_image_path": "images/100847.png"
+    }
+  ],
+  "synonyms": [
+    "yap",
+    "bark",
+    "bay",
+    "yelp",
+    "howl",
+    "cry",
+    "wail"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/woof.mp3",
+  "local_sound_path": "sounds/woof.mp3"
+}

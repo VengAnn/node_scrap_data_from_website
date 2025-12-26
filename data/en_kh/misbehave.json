@@ -1,0 +1,28 @@
+{
+  "word": "misbehave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109054.png",
+      "local_image_path": "images/109054.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124104.png",
+      "local_image_path": "images/124104.png"
+    }
+  ],
+  "synonyms": [
+    "disobey"
+  ],
+  "antonyms": [
+    "behave"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/misbehave.mp3",
+  "local_sound_path": "sounds/misbehave.mp3"
+}

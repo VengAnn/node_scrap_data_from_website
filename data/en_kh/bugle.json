@@ -1,0 +1,37 @@
+{
+  "word": "bugle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11717.png",
+      "local_image_path": "images/11717.png"
+    },
+    {
+      "pos": "n",
+      "example": "military bugle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11716.png",
+      "local_image_path": "images/11716.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11718.png",
+      "local_image_path": "images/11718.png"
+    }
+  ],
+  "synonyms": [
+    "announce",
+    "trumpet",
+    "herald"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bugle-horn",
+    "bugler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bugle.mp3",
+  "local_sound_path": "sounds/bugle.mp3"
+}

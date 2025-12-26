@@ -1,0 +1,37 @@
+{
+  "word": "sedate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77623.png",
+      "local_image_path": "images/77623.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77624.png",
+      "local_image_path": "images/77624.png"
+    }
+  ],
+  "synonyms": [
+    "staid",
+    "unexciting",
+    "dull",
+    "slow-moving",
+    "slow",
+    "anesthetize",
+    "anaesthetize",
+    "tranquilize"
+  ],
+  "antonyms": [
+    "boisterous",
+    "exciting",
+    "revive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sedate.mp3",
+  "local_sound_path": "sounds/sedate.mp3"
+}

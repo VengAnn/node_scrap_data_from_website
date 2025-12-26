@@ -1,0 +1,68 @@
+{
+  "word": "saddle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "saddle him with duties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75007.png",
+      "local_image_path": "images/75007.png"
+    },
+    {
+      "pos": "n",
+      "example": "horse saddle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75003.png",
+      "local_image_path": "images/75003.png"
+    },
+    {
+      "pos": "n",
+      "example": "saddle of mutton",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75004.png",
+      "local_image_path": "images/75004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "saddle a horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75005.png",
+      "local_image_path": "images/75005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75006.png",
+      "local_image_path": "images/75006.png"
+    }
+  ],
+  "synonyms": [
+    "burden",
+    "lumber",
+    "encumber",
+    "load"
+  ],
+  "antonyms": [
+    "relieve"
+  ],
+  "similar_words": [
+    "saddle leather",
+    "saddle seat",
+    "saddle shoe",
+    "saddle sore",
+    "saddle-bag",
+    "saddle-blanket",
+    "saddle-bow",
+    "saddle-cloth",
+    "saddle-girth",
+    "saddle-horse",
+    "saddle-pin",
+    "saddle-roof",
+    "saddle-shape",
+    "saddle-soap",
+    "saddle-tree",
+    "saddleback",
+    "saddler",
+    "saddlery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/saddle.mp3",
+  "local_sound_path": "sounds/saddle.mp3"
+}

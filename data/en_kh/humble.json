@@ -1,0 +1,61 @@
+{
+  "word": "humble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36300.png",
+      "local_image_path": "images/36300.png"
+    },
+    {
+      "pos": "adj",
+      "example": "humble scholar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36301.png",
+      "local_image_path": "images/36301.png"
+    },
+    {
+      "pos": "adj",
+      "example": "humble origins",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36302.png",
+      "local_image_path": "images/36302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "humanize the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36303.png",
+      "local_image_path": "images/36303.png"
+    },
+    {
+      "pos": "tv",
+      "example": "humanize oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36304.png",
+      "local_image_path": "images/36304.png"
+    }
+  ],
+  "synonyms": [
+    "humiliate",
+    "debase",
+    "degrade",
+    "abase",
+    "demean",
+    "lower",
+    "reduce"
+  ],
+  "antonyms": [
+    "arrogant",
+    "privileged",
+    "exalt",
+    "brazen",
+    "glorify"
+  ],
+  "similar_words": [
+    "humble pie",
+    "humble-bee",
+    "humbleness",
+    "humbler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/humble.mp3",
+  "local_sound_path": "sounds/humble.mp3"
+}

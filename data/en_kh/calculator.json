@@ -1,0 +1,33 @@
+{
+  "word": "calculator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12386.png",
+      "local_image_path": "images/12386.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115848.png",
+      "local_image_path": "images/115848.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115849.png",
+      "local_image_path": "images/115849.png"
+    }
+  ],
+  "synonyms": [
+    "adder",
+    "computer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calculator.mp3",
+  "local_sound_path": "sounds/calculator.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "legacy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45691.png",
+      "local_image_path": "images/45691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45692.png",
+      "local_image_path": "images/45692.png"
+    },
+    {
+      "pos": "n",
+      "example": "cultural legacy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45693.png",
+      "local_image_path": "images/45693.png"
+    }
+  ],
+  "synonyms": [
+    "inheritance",
+    "bequest",
+    "heritage",
+    "relic",
+    "hangover",
+    "vestige",
+    "remnant",
+    "remainder",
+    "residue",
+    "leftover",
+    "remains"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/legacy.mp3",
+  "local_sound_path": "sounds/legacy.mp3"
+}

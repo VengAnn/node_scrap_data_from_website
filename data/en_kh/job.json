@@ -1,0 +1,72 @@
+{
+  "word": "job",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "do a good job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43067.png",
+      "local_image_path": "images/43067.png"
+    },
+    {
+      "pos": "n",
+      "example": "He has a job as a teacher.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43068.png",
+      "local_image_path": "images/43068.png"
+    },
+    {
+      "pos": "tv",
+      "example": "job merchandise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43069.png",
+      "local_image_path": "images/43069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43070.png",
+      "local_image_path": "images/43070.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43071.png",
+      "local_image_path": "images/43071.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43072.png",
+      "local_image_path": "images/43072.png"
+    }
+  ],
+  "synonyms": [
+    "task",
+    "duty",
+    "responsibility",
+    "chore",
+    "activity",
+    "mission",
+    "charge",
+    "affair",
+    "assignment"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "job lock",
+    "job seeker",
+    "job sharing",
+    "job's-tears",
+    "job-hop",
+    "job-hopping",
+    "job-seeker's allowance",
+    "jobber",
+    "jobbery",
+    "jobholder",
+    "jobirn",
+    "jobless",
+    "joblessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/job.mp3",
+  "local_sound_path": "sounds/job.mp3"
+}

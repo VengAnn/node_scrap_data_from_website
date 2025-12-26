@@ -1,0 +1,49 @@
+{
+  "word": "die",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21266.png",
+      "local_image_path": "images/21266.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21267.png",
+      "local_image_path": "images/21267.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21265.png",
+      "local_image_path": "images/21265.png"
+    }
+  ],
+  "synonyms": [
+    "fail",
+    "crash",
+    "stop"
+  ],
+  "antonyms": [
+    "live",
+    "work",
+    "start"
+  ],
+  "similar_words": [
+    "died",
+    "dielectric",
+    "diesel",
+    "diet",
+    "dietary",
+    "dieter",
+    "dietetic",
+    "dietetics",
+    "dietician",
+    "dietitian"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/die.mp3",
+  "local_sound_path": "sounds/die.mp3"
+}

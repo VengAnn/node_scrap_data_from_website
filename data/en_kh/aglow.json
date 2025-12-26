@@ -1,0 +1,40 @@
+{
+  "word": "aglow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2981.png",
+      "local_image_path": "images/2981.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112314.png",
+      "local_image_path": "images/112314.png"
+    }
+  ],
+  "synonyms": [
+    "glowing",
+    "shining",
+    "radiant",
+    "rosy",
+    "warm",
+    "bright",
+    "afire",
+    "burning",
+    "aflame",
+    "incandescent",
+    "ruddy",
+    "luminous",
+    "agleam"
+  ],
+  "antonyms": [
+    "pale"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aglow.mp3",
+  "local_sound_path": "sounds/aglow.mp3"
+}

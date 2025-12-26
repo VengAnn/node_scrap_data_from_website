@@ -1,0 +1,111 @@
+{
+  "word": "even",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "even surface",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26180.png",
+      "local_image_path": "images/26180.png"
+    },
+    {
+      "pos": "adj",
+      "example": "even flow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26181.png",
+      "local_image_path": "images/26181.png"
+    },
+    {
+      "pos": "adj",
+      "example": "even score",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26182.png",
+      "local_image_path": "images/26182.png"
+    },
+    {
+      "pos": "adj",
+      "example": "She has a very temper.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26183.png",
+      "local_image_path": "images/26183.png"
+    },
+    {
+      "pos": "adj",
+      "example": "even number",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26184.png",
+      "local_image_path": "images/26184.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119487.png",
+      "local_image_path": "images/119487.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119488.png",
+      "local_image_path": "images/119488.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119489.png",
+      "local_image_path": "images/119489.png"
+    },
+    {
+      "pos": "adv",
+      "example": "even eager to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26185.png",
+      "local_image_path": "images/26185.png"
+    },
+    {
+      "pos": "tv",
+      "example": "even the ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26186.png",
+      "local_image_path": "images/26186.png"
+    }
+  ],
+  "synonyms": [
+    "equal",
+    "similar",
+    "level",
+    "drawn",
+    "dusk",
+    "nightfall",
+    "sunset",
+    "twilight",
+    "evening",
+    "sundown"
+  ],
+  "antonyms": [
+    "uneven",
+    "unequal"
+  ],
+  "similar_words": [
+    "even-headed",
+    "even-old",
+    "evendown",
+    "eveness",
+    "evening",
+    "evening paper",
+    "evening star",
+    "evening-dress",
+    "evenlong",
+    "evenly",
+    "evensong",
+    "event",
+    "eventerate",
+    "eventful",
+    "eventfully",
+    "eventfulness",
+    "eventide",
+    "eventilate",
+    "eventing",
+    "eventless",
+    "eventration",
+    "eventual",
+    "eventuality",
+    "eventually"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/even.mp3",
+  "local_sound_path": "sounds/even.mp3"
+}

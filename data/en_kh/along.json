@@ -1,0 +1,35 @@
+{
+  "word": "along",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "go along with me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3604.png",
+      "local_image_path": "images/3604.png"
+    },
+    {
+      "pos": "prep",
+      "example": "along the road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3603.png",
+      "local_image_path": "images/3603.png"
+    }
+  ],
+  "synonyms": [
+    "next to",
+    "beside",
+    "alongside",
+    "down"
+  ],
+  "antonyms": [
+    "endways"
+  ],
+  "similar_words": [
+    "alongshore",
+    "alongside",
+    "alongst"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/along.mp3",
+  "local_sound_path": "sounds/along.mp3"
+}

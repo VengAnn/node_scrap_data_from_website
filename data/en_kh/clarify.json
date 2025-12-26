@@ -1,0 +1,52 @@
+{
+  "word": "clarify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14807.png",
+      "local_image_path": "images/14807.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116420.png",
+      "local_image_path": "images/116420.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116421.png",
+      "local_image_path": "images/116421.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116422.png",
+      "local_image_path": "images/116422.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clarify the meaning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14806.png",
+      "local_image_path": "images/14806.png"
+    }
+  ],
+  "synonyms": [
+    "refine",
+    "purify",
+    "cleanse",
+    "filter",
+    "treat",
+    "process"
+  ],
+  "antonyms": [
+    "confuse",
+    "cloud"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clarify.mp3",
+  "local_sound_path": "sounds/clarify.mp3"
+}

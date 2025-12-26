@@ -1,0 +1,44 @@
+{
+  "word": "designer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20860.png",
+      "local_image_path": "images/20860.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118120.png",
+      "local_image_path": "images/118120.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118121.png",
+      "local_image_path": "images/118121.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131950.png",
+      "local_image_path": "images/131950.png"
+    }
+  ],
+  "synonyms": [
+    "creator",
+    "inventor",
+    "stylist",
+    "engineer",
+    "artist",
+    "originator",
+    "artiste"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/designer.mp3",
+  "local_sound_path": "sounds/designer.mp3"
+}

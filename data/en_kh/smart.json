@@ -1,0 +1,78 @@
+{
+  "word": "smart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "smart student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81626.png",
+      "local_image_path": "images/81626.png"
+    },
+    {
+      "pos": "adj",
+      "example": "smart punishment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81627.png",
+      "local_image_path": "images/81627.png"
+    },
+    {
+      "pos": "adj",
+      "example": "smart walk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81628.png",
+      "local_image_path": "images/81628.png"
+    },
+    {
+      "pos": "adj",
+      "example": "smart appearance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81629.png",
+      "local_image_path": "images/81629.png"
+    },
+    {
+      "pos": "adj",
+      "example": "smart reply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81630.png",
+      "local_image_path": "images/81630.png"
+    },
+    {
+      "pos": "iv",
+      "example": "wounds smart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81631.png",
+      "local_image_path": "images/81631.png"
+    },
+    {
+      "pos": "iv",
+      "example": "smart withslame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81632.png",
+      "local_image_path": "images/81632.png"
+    },
+    {
+      "pos": "n",
+      "example": "The smart of his wound kept him awake.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81633.png",
+      "local_image_path": "images/81633.png"
+    }
+  ],
+  "synonyms": [
+    "sting",
+    "burn",
+    "hurt",
+    "chafe",
+    "tingle",
+    "prickle"
+  ],
+  "antonyms": [
+    "shabby",
+    "thick",
+    "stupid"
+  ],
+  "similar_words": [
+    "smart-alec",
+    "smart-aleck",
+    "smart-alecky",
+    "smart-ass",
+    "smarten",
+    "smartness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/smart.mp3",
+  "local_sound_path": "sounds/smart.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "word": "bushel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "fill a bushel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11998.png",
+      "local_image_path": "images/11998.png"
+    }
+  ],
+  "synonyms": [
+    "load",
+    "lot",
+    "mass",
+    "mountain",
+    "heap",
+    "stack",
+    "ocean"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bushel.mp3",
+  "local_sound_path": "sounds/bushel.mp3"
+}

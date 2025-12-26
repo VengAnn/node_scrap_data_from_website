@@ -1,0 +1,49 @@
+{
+  "word": "affiliation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2723.png",
+      "local_image_path": "images/2723.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112236.png",
+      "local_image_path": "images/112236.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112237.png",
+      "local_image_path": "images/112237.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112238.png",
+      "local_image_path": "images/112238.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112239.png",
+      "local_image_path": "images/112239.png"
+    }
+  ],
+  "synonyms": [
+    "association",
+    "relationship",
+    "connection",
+    "attachment",
+    "membership",
+    "link"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/affiliation.mp3",
+  "local_sound_path": "sounds/affiliation.mp3"
+}

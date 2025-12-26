@@ -1,0 +1,52 @@
+{
+  "word": "rumble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74618.png",
+      "local_image_path": "images/74618.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74621.png",
+      "local_image_path": "images/74621.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74619.png",
+      "local_image_path": "images/74619.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74622.png",
+      "local_image_path": "images/74622.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74620.png",
+      "local_image_path": "images/74620.png"
+    }
+  ],
+  "synonyms": [
+    "grumble",
+    "thunder",
+    "crash",
+    "growl",
+    "roll",
+    "roar",
+    "reverberate",
+    "resound",
+    "boom"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rumble.mp3",
+  "local_sound_path": "sounds/rumble.mp3"
+}

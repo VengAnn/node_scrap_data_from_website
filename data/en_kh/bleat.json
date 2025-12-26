@@ -1,0 +1,34 @@
+{
+  "word": "bleat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9489.png",
+      "local_image_path": "images/9489.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9490.png",
+      "local_image_path": "images/9490.png"
+    }
+  ],
+  "synonyms": [
+    "moan",
+    "whine",
+    "complain",
+    "nag",
+    "bellyache",
+    "gripe",
+    "fuss",
+    "squawk",
+    "yammer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bleat.mp3",
+  "local_sound_path": "sounds/bleat.mp3"
+}

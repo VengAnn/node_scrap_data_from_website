@@ -1,0 +1,47 @@
+{
+  "word": "understand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "He didn’t understand what I said",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94092.png",
+      "local_image_path": "images/94092.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94093.png",
+      "local_image_path": "images/94093.png"
+    }
+  ],
+  "synonyms": [
+    "grasp",
+    "take in",
+    "twig",
+    "see",
+    "absorb",
+    "comprehend",
+    "appreciate",
+    "know",
+    "recognize",
+    "realize",
+    "apprehend",
+    "fathom",
+    "value",
+    "empathize",
+    "sympathize",
+    "identify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "understandability",
+    "understandable",
+    "understandably",
+    "understanding",
+    "understandingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/understand.mp3",
+  "local_sound_path": "sounds/understand.mp3"
+}

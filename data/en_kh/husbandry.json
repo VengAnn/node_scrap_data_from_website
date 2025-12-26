@@ -1,0 +1,28 @@
+{
+  "word": "husbandry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "husbandry of resources",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36478.png",
+      "local_image_path": "images/36478.png"
+    },
+    {
+      "pos": "n",
+      "example": "animal husbandry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36479.png",
+      "local_image_path": "images/36479.png"
+    }
+  ],
+  "synonyms": [
+    "farming",
+    "agriculture",
+    "gardening"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/husbandry.mp3",
+  "local_sound_path": "sounds/husbandry.mp3"
+}

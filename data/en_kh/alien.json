@@ -1,0 +1,40 @@
+{
+  "word": "alien",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "alien agent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3363.png",
+      "local_image_path": "images/3363.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3362.png",
+      "local_image_path": "images/3362.png"
+    }
+  ],
+  "synonyms": [
+    "Martian",
+    "foreigner",
+    "stranger",
+    "immigrant"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "alien act",
+    "alienability",
+    "alienable",
+    "alienage",
+    "alienate",
+    "alienation",
+    "alienee",
+    "alienism",
+    "alienist",
+    "alienor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alien.mp3",
+  "local_sound_path": "sounds/alien.mp3"
+}

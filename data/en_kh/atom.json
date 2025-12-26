@@ -1,0 +1,42 @@
+{
+  "word": "atom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6177.png",
+      "local_image_path": "images/6177.png"
+    }
+  ],
+  "synonyms": [
+    "particle",
+    "bit",
+    "iota",
+    "jot",
+    "molecule",
+    "fragment",
+    "grain",
+    "glimmer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "atom bomb",
+    "atomic",
+    "atomic number",
+    "atomic weight",
+    "atomically",
+    "atomicity",
+    "atomism",
+    "atomist",
+    "atomistic",
+    "atomistical",
+    "atomistically",
+    "atomize",
+    "atomizer",
+    "atomy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/atom.mp3",
+  "local_sound_path": "sounds/atom.mp3"
+}

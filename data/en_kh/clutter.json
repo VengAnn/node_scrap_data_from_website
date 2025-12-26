@@ -1,0 +1,48 @@
+{
+  "word": "clutter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "his room is always in a clutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15224.png",
+      "local_image_path": "images/15224.png"
+    },
+    {
+      "pos": "v",
+      "example": "don't clutter up my desk I've just tidied",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15223.png",
+      "local_image_path": "images/15223.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130090.png",
+      "local_image_path": "images/130090.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130091.png",
+      "local_image_path": "images/130091.png"
+    }
+  ],
+  "synonyms": [
+    "encumber",
+    "litter",
+    "strew",
+    "fill",
+    "cover",
+    "muddle",
+    "disarrange"
+  ],
+  "antonyms": [
+    "space",
+    "free",
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clutter.mp3",
+  "local_sound_path": "sounds/clutter.mp3"
+}

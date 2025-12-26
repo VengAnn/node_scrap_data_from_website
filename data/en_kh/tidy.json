@@ -1,0 +1,49 @@
+{
+  "word": "tidy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tidy room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89374.png",
+      "local_image_path": "images/89374.png"
+    },
+    {
+      "pos": "adj",
+      "example": "tidy housekeeper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89375.png",
+      "local_image_path": "images/89375.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89376.png",
+      "local_image_path": "images/89376.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tidy one's room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89377.png",
+      "local_image_path": "images/89377.png"
+    }
+  ],
+  "synonyms": [
+    "large",
+    "fair",
+    "considerable",
+    "reasonable",
+    "ample",
+    "neaten",
+    "straighten",
+    "arrange",
+    "organize"
+  ],
+  "antonyms": [
+    "untidy",
+    "small"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tidy.mp3",
+  "local_sound_path": "sounds/tidy.mp3"
+}

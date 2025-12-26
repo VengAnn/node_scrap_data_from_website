@@ -1,0 +1,50 @@
+{
+  "word": "fraud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "win by fraud",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30134.png",
+      "local_image_path": "images/30134.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30135.png",
+      "local_image_path": "images/30135.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30136.png",
+      "local_image_path": "images/30136.png"
+    }
+  ],
+  "synonyms": [
+    "impostor",
+    "charlatan",
+    "swindler",
+    "cheat",
+    "fake",
+    "sham",
+    "phony",
+    "imposter"
+  ],
+  "antonyms": [
+    "original",
+    "honesty"
+  ],
+  "similar_words": [
+    "fraud in fact",
+    "fraudsquad",
+    "fraudulence",
+    "fraudulent",
+    "fraudulent conveyance",
+    "fraudulent transfers",
+    "fraudulently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fraud.mp3",
+  "local_sound_path": "sounds/fraud.mp3"
+}

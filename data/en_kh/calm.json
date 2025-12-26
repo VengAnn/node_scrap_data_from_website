@@ -1,0 +1,67 @@
+{
+  "word": "calm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "the city is calm again after yesterday's riots",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12467.png",
+      "local_image_path": "images/12467.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115862.png",
+      "local_image_path": "images/115862.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115863.png",
+      "local_image_path": "images/115863.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115864.png",
+      "local_image_path": "images/115864.png"
+    },
+    {
+      "pos": "iv",
+      "example": "calm down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12470.png",
+      "local_image_path": "images/12470.png"
+    },
+    {
+      "pos": "n",
+      "example": "a short calm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12468.png",
+      "local_image_path": "images/12468.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12469.png",
+      "local_image_path": "images/12469.png"
+    }
+  ],
+  "synonyms": [
+    "pacify",
+    "soothe",
+    "appease",
+    "subside"
+  ],
+  "antonyms": [
+    "agitated",
+    "turbulence",
+    "excite"
+  ],
+  "similar_words": [
+    "calmative",
+    "calmly",
+    "calmness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calm.mp3",
+  "local_sound_path": "sounds/calm.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "rock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "River has a rock bottom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73922.png",
+      "local_image_path": "images/73922.png"
+    },
+    {
+      "pos": "idm",
+      "example": "on the rocks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73921.png",
+      "local_image_path": "images/73921.png"
+    },
+    {
+      "pos": "n",
+      "example": "mountain of rock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73919.png",
+      "local_image_path": "images/73919.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73924.png",
+      "local_image_path": "images/73924.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73920.png",
+      "local_image_path": "images/73920.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rock a candle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73923.png",
+      "local_image_path": "images/73923.png"
+    }
+  ],
+  "synonyms": [
+    "sway",
+    "swing",
+    "shake",
+    "pitch"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rock and rye",
+    "rock bottom",
+    "rock candy",
+    "rock garden",
+    "rock hound",
+    "rock lobster",
+    "rock maple",
+    "rock oil",
+    "rock salt",
+    "rock-and-roll",
+    "rock-bound",
+    "rock-ribbed",
+    "rockability",
+    "rockaway",
+    "rocker",
+    "rockery",
+    "rocket",
+    "rocket engine",
+    "rocket motor",
+    "rocketeer",
+    "rocketry",
+    "rocketsonde"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rock.mp3",
+  "local_sound_path": "sounds/rock.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "extinct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "extinct species",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27050.png",
+      "local_image_path": "images/27050.png"
+    },
+    {
+      "pos": "adj",
+      "example": "extinct volcano",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27051.png",
+      "local_image_path": "images/27051.png"
+    }
+  ],
+  "synonyms": [
+    "dead",
+    "nonexistent",
+    "inexistent",
+    "defunct"
+  ],
+  "antonyms": [
+    "living"
+  ],
+  "similar_words": [
+    "extinction",
+    "extinctive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extinct.mp3",
+  "local_sound_path": "sounds/extinct.mp3"
+}

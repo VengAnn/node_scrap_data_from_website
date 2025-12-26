@@ -1,0 +1,31 @@
+{
+  "word": "similar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "They are similar in shape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80202.png",
+      "local_image_path": "images/80202.png"
+    }
+  ],
+  "synonyms": [
+    "alike",
+    "like",
+    "comparable",
+    "parallel",
+    "analogous",
+    "related",
+    "akin"
+  ],
+  "antonyms": [
+    "dissimilar"
+  ],
+  "similar_words": [
+    "similarity",
+    "similarly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/similar.mp3",
+  "local_sound_path": "sounds/similar.mp3"
+}

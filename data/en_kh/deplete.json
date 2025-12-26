@@ -1,0 +1,50 @@
+{
+  "word": "deplete",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20611.png",
+      "local_image_path": "images/20611.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130233.png",
+      "local_image_path": "images/130233.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130234.png",
+      "local_image_path": "images/130234.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130235.png",
+      "local_image_path": "images/130235.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130236.png",
+      "local_image_path": "images/130236.png"
+    }
+  ],
+  "synonyms": [
+    "reduce",
+    "drain",
+    "exhaust",
+    "diminish",
+    "lessen"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deplete.mp3",
+  "local_sound_path": "sounds/deplete.mp3"
+}

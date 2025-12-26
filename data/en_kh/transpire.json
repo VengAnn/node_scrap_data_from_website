@@ -1,0 +1,45 @@
+{
+  "word": "transpire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91154.png",
+      "local_image_path": "images/91154.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91155.png",
+      "local_image_path": "images/91155.png"
+    },
+    {
+      "pos": "iv",
+      "example": "What transpired at the meeting?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91151.png",
+      "local_image_path": "images/91151.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91152.png",
+      "local_image_path": "images/91152.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91153.png",
+      "local_image_path": "images/91153.png"
+    }
+  ],
+  "synonyms": [
+    "happen",
+    "occur"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transpire.mp3",
+  "local_sound_path": "sounds/transpire.mp3"
+}

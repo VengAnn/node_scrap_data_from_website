@@ -1,0 +1,39 @@
+{
+  "word": "snitch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82090.png",
+      "local_image_path": "images/82090.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82091.png",
+      "local_image_path": "images/82091.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130818.png",
+      "local_image_path": "images/130818.png"
+    }
+  ],
+  "synonyms": [
+    "steal",
+    "pinch",
+    "swipe",
+    "lift",
+    "gossip",
+    "tattle",
+    "leak",
+    "sneak"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/snitch.mp3",
+  "local_sound_path": "sounds/snitch.mp3"
+}

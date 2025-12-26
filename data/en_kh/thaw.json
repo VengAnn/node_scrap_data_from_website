@@ -1,0 +1,40 @@
+{
+  "word": "thaw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88666.png",
+      "local_image_path": "images/88666.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88668.png",
+      "local_image_path": "images/88668.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88667.png",
+      "local_image_path": "images/88667.png"
+    }
+  ],
+  "synonyms": [
+    "melt",
+    "defrost",
+    "soften",
+    "liquefy"
+  ],
+  "antonyms": [
+    "freeze"
+  ],
+  "similar_words": [
+    "thawless",
+    "thawy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thaw.mp3",
+  "local_sound_path": "sounds/thaw.mp3"
+}

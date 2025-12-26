@@ -1,0 +1,44 @@
+{
+  "word": "chaos",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13814.png",
+      "local_image_path": "images/13814.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116156.png",
+      "local_image_path": "images/116156.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116157.png",
+      "local_image_path": "images/116157.png"
+    }
+  ],
+  "synonyms": [
+    "disorder",
+    "confusion",
+    "bedlam",
+    "anarchy",
+    "pandemonium",
+    "commotion",
+    "disarray",
+    "turmoil",
+    "madness",
+    "mess",
+    "unruliness"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chaos.mp3",
+  "local_sound_path": "sounds/chaos.mp3"
+}

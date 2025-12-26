@@ -1,0 +1,34 @@
+{
+  "word": "aviation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "study aviation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6704.png",
+      "local_image_path": "images/6704.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114316.png",
+      "local_image_path": "images/114316.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114317.png",
+      "local_image_path": "images/114317.png"
+    }
+  ],
+  "synonyms": [
+    "flying",
+    "flight",
+    "aeronautics"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aviation.mp3",
+  "local_sound_path": "sounds/aviation.mp3"
+}

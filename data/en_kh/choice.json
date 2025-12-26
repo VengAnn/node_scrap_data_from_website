@@ -1,0 +1,39 @@
+{
+  "word": "choice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14298.png",
+      "local_image_path": "images/14298.png"
+    },
+    {
+      "pos": "n",
+      "example": "this is my choice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14297.png",
+      "local_image_path": "images/14297.png"
+    }
+  ],
+  "synonyms": [
+    "variety",
+    "abundance",
+    "range",
+    "array",
+    "catalog",
+    "catalogue",
+    "wealth",
+    "diversity",
+    "span",
+    "amount",
+    "scale"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "choicely",
+    "choiceness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/choice.mp3",
+  "local_sound_path": "sounds/choice.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "catheter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13361.png",
+      "local_image_path": "images/13361.png"
+    }
+  ],
+  "synonyms": [
+    "tube",
+    "line",
+    "drip",
+    "drain",
+    "feed",
+    "pipe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "catheterise",
+    "catheterize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/catheter.mp3",
+  "local_sound_path": "sounds/catheter.mp3"
+}

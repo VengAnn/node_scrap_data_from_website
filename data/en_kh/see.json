@@ -1,0 +1,88 @@
+{
+  "word": "see",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77668.png",
+      "local_image_path": "images/77668.png"
+    },
+    {
+      "pos": "tv",
+      "example": "see an accident",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77662.png",
+      "local_image_path": "images/77662.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I see what you mean",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77663.png",
+      "local_image_path": "images/77663.png"
+    },
+    {
+      "pos": "tv",
+      "example": "see sb home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77664.png",
+      "local_image_path": "images/77664.png"
+    },
+    {
+      "pos": "tv",
+      "example": "see a doctor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77665.png",
+      "local_image_path": "images/77665.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Let me see what I ought to do next",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77666.png",
+      "local_image_path": "images/77666.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Mao said that Whatever happened",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77667.png",
+      "local_image_path": "images/77667.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127601.png",
+      "local_image_path": "images/127601.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127602.png",
+      "local_image_path": "images/127602.png"
+    }
+  ],
+  "synonyms": [
+    "escort",
+    "accompany",
+    "date"
+  ],
+  "antonyms": [
+    "misunderstand"
+  ],
+  "similar_words": [
+    "see money",
+    "see-saw",
+    "seed",
+    "seed-lip",
+    "seed-pearl",
+    "seed-time",
+    "seeder",
+    "seedily",
+    "seediness",
+    "seedless",
+    "seedling",
+    "seedness",
+    "seedsman",
+    "seedy",
+    "seeing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/see.mp3",
+  "local_sound_path": "sounds/see.mp3"
+}

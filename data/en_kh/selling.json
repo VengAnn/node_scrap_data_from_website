@@ -1,0 +1,27 @@
+{
+  "word": "selling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "How about the selling in your shop?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78001.png",
+      "local_image_path": "images/78001.png"
+    }
+  ],
+  "synonyms": [
+    "advertising",
+    "promotion",
+    "marketing",
+    "shifting",
+    "pushing",
+    "flogging"
+  ],
+  "antonyms": [
+    "buying"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/selling.mp3",
+  "local_sound_path": "sounds/selling.mp3"
+}

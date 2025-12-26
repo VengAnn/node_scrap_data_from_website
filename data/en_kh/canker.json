@@ -1,0 +1,57 @@
+{
+  "word": "canker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12657.png",
+      "local_image_path": "images/12657.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130044.png",
+      "local_image_path": "images/130044.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130045.png",
+      "local_image_path": "images/130045.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drug addiction is a dangerous canker in society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12658.png",
+      "local_image_path": "images/12658.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115916.png",
+      "local_image_path": "images/115916.png"
+    }
+  ],
+  "synonyms": [
+    "evil",
+    "cancer",
+    "scourge",
+    "blight",
+    "pest",
+    "plague",
+    "menace",
+    "bane",
+    "corruption",
+    "disease",
+    "malignance"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "canker sore",
+    "cankerous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/canker.mp3",
+  "local_sound_path": "sounds/canker.mp3"
+}

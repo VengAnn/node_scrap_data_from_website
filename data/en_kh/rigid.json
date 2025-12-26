@@ -1,0 +1,44 @@
+{
+  "word": "rigid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rigid post",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73664.png",
+      "local_image_path": "images/73664.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rigid opinions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73665.png",
+      "local_image_path": "images/73665.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rigid discipline",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73666.png",
+      "local_image_path": "images/73666.png"
+    }
+  ],
+  "synonyms": [
+    "severe",
+    "strict",
+    "inflexible",
+    "harsh",
+    "set",
+    "stern"
+  ],
+  "antonyms": [
+    "floppy",
+    "lax"
+  ],
+  "similar_words": [
+    "rigidity",
+    "rigidly",
+    "rigidness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rigid.mp3",
+  "local_sound_path": "sounds/rigid.mp3"
+}

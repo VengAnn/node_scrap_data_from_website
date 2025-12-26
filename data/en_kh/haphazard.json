@@ -1,0 +1,55 @@
+{
+  "word": "haphazard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Books pile on shelves in a haphazard fashion.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33794.png",
+      "local_image_path": "images/33794.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120924.png",
+      "local_image_path": "images/120924.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120925.png",
+      "local_image_path": "images/120925.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120926.png",
+      "local_image_path": "images/120926.png"
+    }
+  ],
+  "synonyms": [
+    "random",
+    "chaotic",
+    "slapdash",
+    "messy",
+    "hit and miss",
+    "indiscriminate",
+    "unsystematic",
+    "unselective",
+    "irregular",
+    "hit-or-miss",
+    "arbitrary",
+    "unplanned",
+    "careless"
+  ],
+  "antonyms": [
+    "systematic",
+    "organized"
+  ],
+  "similar_words": [
+    "haphazardly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/haphazard.mp3",
+  "local_sound_path": "sounds/haphazard.mp3"
+}

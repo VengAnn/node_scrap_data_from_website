@@ -1,0 +1,50 @@
+{
+  "word": "relinquish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "relinquish one's rights",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71938.png",
+      "local_image_path": "images/71938.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126781.png",
+      "local_image_path": "images/126781.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126782.png",
+      "local_image_path": "images/126782.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126783.png",
+      "local_image_path": "images/126783.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126784.png",
+      "local_image_path": "images/126784.png"
+    }
+  ],
+  "synonyms": [
+    "surrender",
+    "abandon",
+    "renounce",
+    "resign",
+    "turn down"
+  ],
+  "antonyms": [
+    "retain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relinquish.mp3",
+  "local_sound_path": "sounds/relinquish.mp3"
+}

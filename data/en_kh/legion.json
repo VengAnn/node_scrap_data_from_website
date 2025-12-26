@@ -1,0 +1,56 @@
+{
+  "word": "legion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45743.png",
+      "local_image_path": "images/45743.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45742.png",
+      "local_image_path": "images/45742.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130475.png",
+      "local_image_path": "images/130475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130476.png",
+      "local_image_path": "images/130476.png"
+    }
+  ],
+  "synonyms": [
+    "crowd",
+    "mass",
+    "host",
+    "multitude",
+    "band",
+    "throng",
+    "platoon",
+    "team",
+    "detachment",
+    "subdivision",
+    "unit",
+    "section",
+    "group",
+    "squad",
+    "gang"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "legionary",
+    "legioner",
+    "legionnaire"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/legion.mp3",
+  "local_sound_path": "sounds/legion.mp3"
+}

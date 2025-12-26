@@ -1,0 +1,50 @@
+{
+  "word": "skilled",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "skilled worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80727.png",
+      "local_image_path": "images/80727.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127941.png",
+      "local_image_path": "images/127941.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127942.png",
+      "local_image_path": "images/127942.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127943.png",
+      "local_image_path": "images/127943.png"
+    }
+  ],
+  "synonyms": [
+    "accomplished",
+    "expert",
+    "capable",
+    "able",
+    "trained",
+    "skillful",
+    "experienced",
+    "practiced",
+    "competent",
+    "proficient",
+    "consummate"
+  ],
+  "antonyms": [
+    "untrained"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skilled.mp3",
+  "local_sound_path": "sounds/skilled.mp3"
+}

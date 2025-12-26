@@ -1,0 +1,39 @@
+{
+  "word": "reproduction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72483.png",
+      "local_image_path": "images/72483.png"
+    },
+    {
+      "pos": "n",
+      "example": "reproduction of the species",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72484.png",
+      "local_image_path": "images/72484.png"
+    },
+    {
+      "pos": "n",
+      "example": "The painting is a reproduction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72485.png",
+      "local_image_path": "images/72485.png"
+    }
+  ],
+  "synonyms": [
+    "breeding",
+    "procreation",
+    "propagation",
+    "generation",
+    "multiplication"
+  ],
+  "antonyms": [
+    "original",
+    "genuine"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reproduction.mp3",
+  "local_sound_path": "sounds/reproduction.mp3"
+}

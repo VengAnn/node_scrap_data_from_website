@@ -1,0 +1,79 @@
+{
+  "word": "upset",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He's upset about it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96788.png",
+      "local_image_path": "images/96788.png"
+    },
+    {
+      "pos": "adj",
+      "example": "Chair is upset",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96789.png",
+      "local_image_path": "images/96789.png"
+    },
+    {
+      "pos": "adj",
+      "example": "Car is upset",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96790.png",
+      "local_image_path": "images/96790.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96787.png",
+      "local_image_path": "images/96787.png"
+    },
+    {
+      "pos": "n",
+      "example": "plans suffered an upset",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96791.png",
+      "local_image_path": "images/96791.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't upset the boat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96784.png",
+      "local_image_path": "images/96784.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The news upset him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96785.png",
+      "local_image_path": "images/96785.png"
+    },
+    {
+      "pos": "tv",
+      "example": "upset the incumbent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96786.png",
+      "local_image_path": "images/96786.png"
+    }
+  ],
+  "synonyms": [
+    "shake-up",
+    "disturb",
+    "reverse",
+    "change",
+    "reorder",
+    "disrupt",
+    "disorganize",
+    "spoil",
+    "unbalance",
+    "unbalanced"
+  ],
+  "antonyms": [
+    "please",
+    "arrange",
+    "composed",
+    "right",
+    "pleased",
+    "order",
+    "ordered"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/upset.mp3",
+  "local_sound_path": "sounds/upset.mp3"
+}

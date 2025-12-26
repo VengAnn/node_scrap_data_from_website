@@ -1,0 +1,62 @@
+{
+  "word": "rise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rise from a sitting position",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73777.png",
+      "local_image_path": "images/73777.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I always rise at 8 o'clock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73778.png",
+      "local_image_path": "images/73778.png"
+    },
+    {
+      "pos": "iv",
+      "example": "prices rise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73779.png",
+      "local_image_path": "images/73779.png"
+    },
+    {
+      "pos": "n",
+      "example": "the rise of tyranny",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73780.png",
+      "local_image_path": "images/73780.png"
+    }
+  ],
+  "synonyms": [
+    "hill",
+    "slope",
+    "incline",
+    "gradient",
+    "bank",
+    "mount",
+    "mound",
+    "knoll",
+    "rebel",
+    "revolt",
+    "mutiny",
+    "riot"
+  ],
+  "antonyms": [
+    "drop",
+    "decrease",
+    "fall",
+    "decline",
+    "retire",
+    "sit down",
+    "hollow",
+    "end",
+    "disappear"
+  ],
+  "similar_words": [
+    "risen",
+    "riser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rise.mp3",
+  "local_sound_path": "sounds/rise.mp3"
+}

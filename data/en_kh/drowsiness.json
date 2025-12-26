@@ -1,0 +1,31 @@
+{
+  "word": "drowsiness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23235.png",
+      "local_image_path": "images/23235.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118806.png",
+      "local_image_path": "images/118806.png"
+    }
+  ],
+  "synonyms": [
+    "sleepiness",
+    "lethargy",
+    "stupor",
+    "tiredness"
+  ],
+  "antonyms": [
+    "wakefulness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drowsiness.mp3",
+  "local_sound_path": "sounds/drowsiness.mp3"
+}

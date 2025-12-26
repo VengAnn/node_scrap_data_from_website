@@ -1,0 +1,45 @@
+{
+  "word": "greet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "greet a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32854.png",
+      "local_image_path": "images/32854.png"
+    },
+    {
+      "pos": "tv",
+      "example": "greet sb at the airport",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32855.png",
+      "local_image_path": "images/32855.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32856.png",
+      "local_image_path": "images/32856.png"
+    }
+  ],
+  "synonyms": [
+    "react to",
+    "receive",
+    "meet",
+    "reach",
+    "address",
+    "acknowledge",
+    "hail",
+    "salute",
+    "accost"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "greeter",
+    "greeting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/greet.mp3",
+  "local_sound_path": "sounds/greet.mp3"
+}

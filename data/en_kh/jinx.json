@@ -1,0 +1,36 @@
+{
+  "word": "jinx",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43050.png",
+      "local_image_path": "images/43050.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123123.png",
+      "local_image_path": "images/123123.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43051.png",
+      "local_image_path": "images/43051.png"
+    }
+  ],
+  "synonyms": [
+    "curse",
+    "plague",
+    "spell",
+    "misfortune",
+    "bugaboo"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jinx.mp3",
+  "local_sound_path": "sounds/jinx.mp3"
+}

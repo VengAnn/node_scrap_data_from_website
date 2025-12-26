@@ -1,0 +1,49 @@
+{
+  "word": "psychic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "phychic person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68454.png",
+      "local_image_path": "images/68454.png"
+    },
+    {
+      "pos": "adj",
+      "example": "phychic disorder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68455.png",
+      "local_image_path": "images/68455.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68456.png",
+      "local_image_path": "images/68456.png"
+    }
+  ],
+  "synonyms": [
+    "supernatural",
+    "spiritual",
+    "extrasensory",
+    "telepathic",
+    "intuitive",
+    "clairvoyant",
+    "spiritualist",
+    "soothsayer",
+    "sensitive",
+    "diviner",
+    "medium"
+  ],
+  "antonyms": [
+    "physical"
+  ],
+  "similar_words": [
+    "psychic energizer",
+    "psychical",
+    "psychically",
+    "psychicism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/psychic.mp3",
+  "local_sound_path": "sounds/psychic.mp3"
+}

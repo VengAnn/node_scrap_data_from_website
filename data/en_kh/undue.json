@@ -1,0 +1,32 @@
+{
+  "word": "undue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "undue haste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94209.png",
+      "local_image_path": "images/94209.png"
+    },
+    {
+      "pos": "adj",
+      "example": "Rent is undue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94210.png",
+      "local_image_path": "images/94210.png"
+    }
+  ],
+  "synonyms": [
+    "unwarranted",
+    "excessive",
+    "unnecessary",
+    "unjustified",
+    "unjustifiable",
+    "gratuitous",
+    "uncalled-for"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/undue.mp3",
+  "local_sound_path": "sounds/undue.mp3"
+}

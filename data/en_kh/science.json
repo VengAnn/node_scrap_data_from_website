@@ -1,0 +1,34 @@
+{
+  "word": "science",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "computer science",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76735.png",
+      "local_image_path": "images/76735.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76736.png",
+      "local_image_path": "images/76736.png"
+    }
+  ],
+  "synonyms": [
+    "discipline",
+    "knowledge",
+    "skill",
+    "art",
+    "learning",
+    "scholarship"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "science fiction",
+    "sciences"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/science.mp3",
+  "local_sound_path": "sounds/science.mp3"
+}

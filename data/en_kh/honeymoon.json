@@ -1,0 +1,34 @@
+{
+  "word": "honeymoon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "They will honeymoon at Boko",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35804.png",
+      "local_image_path": "images/35804.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35803.png",
+      "local_image_path": "images/35803.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121190.png",
+      "local_image_path": "images/121190.png"
+    }
+  ],
+  "synonyms": [
+    "wedding",
+    "nuptial",
+    "marriage"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/honeymoon.mp3",
+  "local_sound_path": "sounds/honeymoon.mp3"
+}

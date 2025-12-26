@@ -1,0 +1,44 @@
+{
+  "word": "listen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "listen to one's parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46933.png",
+      "local_image_path": "images/46933.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I never listen to what salemen tell me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46934.png",
+      "local_image_path": "images/46934.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130486.png",
+      "local_image_path": "images/130486.png"
+    }
+  ],
+  "synonyms": [
+    "eavesdrop",
+    "listen in",
+    "snoop",
+    "attend",
+    "heed"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "listen for",
+    "listen in",
+    "listen out",
+    "listener",
+    "listening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/listen.mp3",
+  "local_sound_path": "sounds/listen.mp3"
+}

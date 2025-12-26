@@ -1,0 +1,60 @@
+{
+  "word": "sanctum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75580.png",
+      "local_image_path": "images/75580.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75577.png",
+      "local_image_path": "images/75577.png"
+    },
+    {
+      "pos": "n",
+      "example": "sanctum sanctorum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75578.png",
+      "local_image_path": "images/75578.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75579.png",
+      "local_image_path": "images/75579.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127371.png",
+      "local_image_path": "images/127371.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127372.png",
+      "local_image_path": "images/127372.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127373.png",
+      "local_image_path": "images/127373.png"
+    }
+  ],
+  "synonyms": [
+    "study",
+    "workroom",
+    "office",
+    "chamber",
+    "hut"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sanctum.mp3",
+  "local_sound_path": "sounds/sanctum.mp3"
+}

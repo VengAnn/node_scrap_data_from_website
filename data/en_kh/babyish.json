@@ -1,0 +1,33 @@
+{
+  "word": "babyish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6903.png",
+      "local_image_path": "images/6903.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114377.png",
+      "local_image_path": "images/114377.png"
+    }
+  ],
+  "synonyms": [
+    "childish",
+    "infantile",
+    "immature",
+    "puerile",
+    "adolescent",
+    "naive"
+  ],
+  "antonyms": [
+    "mature"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/babyish.mp3",
+  "local_sound_path": "sounds/babyish.mp3"
+}

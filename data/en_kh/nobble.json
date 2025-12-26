@@ -1,0 +1,44 @@
+{
+  "word": "nobble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55901.png",
+      "local_image_path": "images/55901.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130582.png",
+      "local_image_path": "images/130582.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130583.png",
+      "local_image_path": "images/130583.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130584.png",
+      "local_image_path": "images/130584.png"
+    }
+  ],
+  "synonyms": [
+    "accost",
+    "waylay",
+    "buttonhole",
+    "confront",
+    "approach",
+    "detain",
+    "stop"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nobble.mp3",
+  "local_sound_path": "sounds/nobble.mp3"
+}

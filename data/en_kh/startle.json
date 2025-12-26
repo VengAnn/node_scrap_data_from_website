@@ -1,0 +1,30 @@
+{
+  "word": "startle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She was startled to see him looking sick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84355.png",
+      "local_image_path": "images/84355.png"
+    }
+  ],
+  "synonyms": [
+    "surprise",
+    "shock",
+    "alarm",
+    "frighten",
+    "amaze",
+    "scare",
+    "astound",
+    "astonish",
+    "disturb",
+    "disquiet",
+    "disconcert"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/startle.mp3",
+  "local_sound_path": "sounds/startle.mp3"
+}

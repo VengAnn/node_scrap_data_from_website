@@ -1,0 +1,36 @@
+{
+  "word": "drool",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23204.png",
+      "local_image_path": "images/23204.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23203.png",
+      "local_image_path": "images/23203.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131476.png",
+      "local_image_path": "images/131476.png"
+    }
+  ],
+  "synonyms": [
+    "dribble",
+    "salivate",
+    "slobber",
+    "slaver",
+    "drivel"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drool.mp3",
+  "local_sound_path": "sounds/drool.mp3"
+}

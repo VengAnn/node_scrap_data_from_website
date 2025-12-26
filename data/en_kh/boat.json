@@ -1,0 +1,55 @@
+{
+  "word": "boat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9888.png",
+      "local_image_path": "images/9888.png"
+    },
+    {
+      "pos": "iv",
+      "example": "go boating",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9889.png",
+      "local_image_path": "images/9889.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9887.png",
+      "local_image_path": "images/9887.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9886.png",
+      "local_image_path": "images/9886.png"
+    }
+  ],
+  "synonyms": [
+    "ship",
+    "vessel",
+    "yacht",
+    "liner",
+    "cruiser",
+    "dinghy",
+    "ferry",
+    "craft"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "boat-people",
+    "boat-woman",
+    "boater",
+    "boathouse",
+    "boating",
+    "boatman",
+    "boatmanship",
+    "boatswain",
+    "boattrain"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boat.mp3",
+  "local_sound_path": "sounds/boat.mp3"
+}

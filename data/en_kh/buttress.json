@@ -1,0 +1,30 @@
+{
+  "word": "buttress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12107.png",
+      "local_image_path": "images/12107.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you need more facts to buttress up your argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12108.png",
+      "local_image_path": "images/12108.png"
+    }
+  ],
+  "synonyms": [
+    "bolster",
+    "support",
+    "strengthen",
+    "prop",
+    "reinforce"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buttress.mp3",
+  "local_sound_path": "sounds/buttress.mp3"
+}

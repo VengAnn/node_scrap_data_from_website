@@ -1,0 +1,40 @@
+{
+  "word": "limited",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "limited monarchy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46644.png",
+      "local_image_path": "images/46644.png"
+    },
+    {
+      "pos": "adj",
+      "example": "limited supply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46645.png",
+      "local_image_path": "images/46645.png"
+    }
+  ],
+  "synonyms": [
+    "incomplete",
+    "imperfect",
+    "partial",
+    "inadequate",
+    "restricted",
+    "narrow",
+    "reduced",
+    "constrained"
+  ],
+  "antonyms": [
+    "boundless"
+  ],
+  "similar_words": [
+    "limited market",
+    "limited partner",
+    "limitedly",
+    "limitedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/limited.mp3",
+  "local_sound_path": "sounds/limited.mp3"
+}

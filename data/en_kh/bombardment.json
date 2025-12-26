@@ -1,0 +1,38 @@
+{
+  "word": "bombardment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10047.png",
+      "local_image_path": "images/10047.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10048.png",
+      "local_image_path": "images/10048.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115353.png",
+      "local_image_path": "images/115353.png"
+    }
+  ],
+  "synonyms": [
+    "barrage",
+    "shower",
+    "flood",
+    "onslaught",
+    "blitz",
+    "volley",
+    "hail"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bombardment.mp3",
+  "local_sound_path": "sounds/bombardment.mp3"
+}

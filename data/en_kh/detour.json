@@ -1,0 +1,35 @@
+{
+  "word": "detour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21033.png",
+      "local_image_path": "images/21033.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21032.png",
+      "local_image_path": "images/21032.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21034.png",
+      "local_image_path": "images/21034.png"
+    }
+  ],
+  "synonyms": [
+    "diversion",
+    "deviation",
+    "bypass",
+    "by-pass"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detour.mp3",
+  "local_sound_path": "sounds/detour.mp3"
+}

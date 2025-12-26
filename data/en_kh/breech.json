@@ -1,0 +1,38 @@
+{
+  "word": "breech",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10940.png",
+      "local_image_path": "images/10940.png"
+    },
+    {
+      "pos": "n",
+      "example": "breech birth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10941.png",
+      "local_image_path": "images/10941.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115589.png",
+      "local_image_path": "images/115589.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "breech block",
+    "breech cloth",
+    "breech presentation",
+    "breeches",
+    "breeching",
+    "breechloader",
+    "breechloading"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breech.mp3",
+  "local_sound_path": "sounds/breech.mp3"
+}

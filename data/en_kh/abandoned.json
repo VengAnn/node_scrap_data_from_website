@@ -1,0 +1,26 @@
+{
+  "word": "abandoned",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "abandoned property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1313.png",
+      "local_image_path": "images/1313.png"
+    }
+  ],
+  "synonyms": [
+    "deserted",
+    "forsaken",
+    "derelict",
+    "vacant",
+    "neglected"
+  ],
+  "antonyms": [
+    "kept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abandoned.mp3",
+  "local_sound_path": "sounds/abandoned.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "decision",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "judge's decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19966.png",
+      "local_image_path": "images/19966.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19967.png",
+      "local_image_path": "images/19967.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117840.png",
+      "local_image_path": "images/117840.png"
+    }
+  ],
+  "synonyms": [
+    "determination",
+    "resolve",
+    "firmness",
+    "certitude",
+    "surety",
+    "resolution",
+    "decisiveness"
+  ],
+  "antonyms": [
+    "indecision",
+    "uncertainty"
+  ],
+  "similar_words": [
+    "decision maker",
+    "decision making",
+    "decision making processes",
+    "decision on the merits"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decision.mp3",
+  "local_sound_path": "sounds/decision.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "dubiety",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23302.png",
+      "local_image_path": "images/23302.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23303.png",
+      "local_image_path": "images/23303.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118812.png",
+      "local_image_path": "images/118812.png"
+    }
+  ],
+  "synonyms": [
+    "doubtfulness",
+    "doubt",
+    "dubiousness",
+    "uncertainty",
+    "hesitancy",
+    "suspicion"
+  ],
+  "antonyms": [
+    "certitude"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dubiety.mp3",
+  "local_sound_path": "sounds/dubiety.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "killing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "killing substance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43872.png",
+      "local_image_path": "images/43872.png"
+    },
+    {
+      "pos": "adj",
+      "example": "killing pace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43873.png",
+      "local_image_path": "images/43873.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43871.png",
+      "local_image_path": "images/43871.png"
+    },
+    {
+      "pos": "n",
+      "example": "stop the killing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43870.png",
+      "local_image_path": "images/43870.png"
+    }
+  ],
+  "synonyms": [
+    "murder",
+    "assassination",
+    "butchery",
+    "slaughter",
+    "carnage",
+    "homicide",
+    "slaying"
+  ],
+  "antonyms": [
+    "reviving"
+  ],
+  "similar_words": [
+    "killing field",
+    "killingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/killing.mp3",
+  "local_sound_path": "sounds/killing.mp3"
+}

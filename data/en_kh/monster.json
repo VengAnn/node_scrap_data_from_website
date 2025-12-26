@@ -1,0 +1,47 @@
+{
+  "word": "monster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110277.png",
+      "local_image_path": "images/110277.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110278.png",
+      "local_image_path": "images/110278.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110279.png",
+      "local_image_path": "images/110279.png"
+    }
+  ],
+  "synonyms": [
+    "huge",
+    "enormous",
+    "giant",
+    "monstrous",
+    "gigantic",
+    "massive",
+    "mammoth",
+    "colossal",
+    "fiend",
+    "ogre",
+    "beast",
+    "brute",
+    "freak",
+    "monstrosity"
+  ],
+  "antonyms": [
+    "small"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/monster.mp3",
+  "local_sound_path": "sounds/monster.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "medicinal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107221.png",
+      "local_image_path": "images/107221.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107222.png",
+      "local_image_path": "images/107222.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123844.png",
+      "local_image_path": "images/123844.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123845.png",
+      "local_image_path": "images/123845.png"
+    }
+  ],
+  "synonyms": [
+    "therapeutic",
+    "medical",
+    "curative",
+    "remedial",
+    "healing",
+    "homeopathic",
+    "pharmaceutical",
+    "restorative",
+    "tonic"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/medicinal.mp3",
+  "local_sound_path": "sounds/medicinal.mp3"
+}

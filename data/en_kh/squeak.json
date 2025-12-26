@@ -1,0 +1,36 @@
+{
+  "word": "squeak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83926.png",
+      "local_image_path": "images/83926.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83927.png",
+      "local_image_path": "images/83927.png"
+    }
+  ],
+  "synonyms": [
+    "screech",
+    "squeal",
+    "whine",
+    "yelp",
+    "peep",
+    "shrill",
+    "pipe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "squeaker",
+    "squeaky",
+    "squeaky clean"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/squeak.mp3",
+  "local_sound_path": "sounds/squeak.mp3"
+}

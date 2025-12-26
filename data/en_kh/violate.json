@@ -1,0 +1,46 @@
+{
+  "word": "violate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "violate the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98120.png",
+      "local_image_path": "images/98120.png"
+    },
+    {
+      "pos": "tv",
+      "example": "violate one's privacy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98121.png",
+      "local_image_path": "images/98121.png"
+    },
+    {
+      "pos": "tv",
+      "example": "violate a temple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98122.png",
+      "local_image_path": "images/98122.png"
+    }
+  ],
+  "synonyms": [
+    "disturb",
+    "interrupt",
+    "ravage",
+    "desecrate",
+    "abuse",
+    "spoil",
+    "harm",
+    "damage",
+    "despoil",
+    "destroy",
+    "ruin",
+    "defile"
+  ],
+  "antonyms": [
+    "obey",
+    "respect"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/violate.mp3",
+  "local_sound_path": "sounds/violate.mp3"
+}

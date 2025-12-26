@@ -1,0 +1,40 @@
+{
+  "word": "convoluted",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17538.png",
+      "local_image_path": "images/17538.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117560.png",
+      "local_image_path": "images/117560.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117561.png",
+      "local_image_path": "images/117561.png"
+    }
+  ],
+  "synonyms": [
+    "complicated",
+    "long-winded",
+    "elaborate",
+    "complex",
+    "difficult",
+    "tortuous",
+    "intricate"
+  ],
+  "antonyms": [
+    "straightforward"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/convoluted.mp3",
+  "local_sound_path": "sounds/convoluted.mp3"
+}

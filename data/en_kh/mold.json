@@ -1,0 +1,68 @@
+{
+  "word": "mold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109962.png",
+      "local_image_path": "images/109962.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109957.png",
+      "local_image_path": "images/109957.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109961.png",
+      "local_image_path": "images/109961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mold a sculpture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109958.png",
+      "local_image_path": "images/109958.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mold butter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109959.png",
+      "local_image_path": "images/109959.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mold his thought",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109960.png",
+      "local_image_path": "images/109960.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109963.png",
+      "local_image_path": "images/109963.png"
+    }
+  ],
+  "synonyms": [
+    "shape",
+    "form",
+    "fashion",
+    "model",
+    "create",
+    "produce",
+    "make",
+    "construct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "molder",
+    "moldiness",
+    "molding",
+    "moldy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mold.mp3",
+  "local_sound_path": "sounds/mold.mp3"
+}

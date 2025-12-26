@@ -1,0 +1,36 @@
+{
+  "word": "differentiation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21292.png",
+      "local_image_path": "images/21292.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118288.png",
+      "local_image_path": "images/118288.png"
+    }
+  ],
+  "synonyms": [
+    "separation",
+    "demarcation",
+    "delineation",
+    "discrimination",
+    "segregation",
+    "isolation",
+    "distinction"
+  ],
+  "antonyms": [
+    "unity",
+    "similarity",
+    "assimilation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/differentiation.mp3",
+  "local_sound_path": "sounds/differentiation.mp3"
+}

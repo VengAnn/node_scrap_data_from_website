@@ -1,0 +1,35 @@
+{
+  "word": "crane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18374.png",
+      "local_image_path": "images/18374.png"
+    },
+    {
+      "pos": "n",
+      "example": "contruction crane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18375.png",
+      "local_image_path": "images/18375.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crane a load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18376.png",
+      "local_image_path": "images/18376.png"
+    }
+  ],
+  "synonyms": [
+    "hoist",
+    "derrick",
+    "winch",
+    "gantry"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crane.mp3",
+  "local_sound_path": "sounds/crane.mp3"
+}

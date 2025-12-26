@@ -1,0 +1,49 @@
+{
+  "word": "mutual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111289.png",
+      "local_image_path": "images/111289.png"
+    },
+    {
+      "pos": "adj",
+      "example": "mutual respect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111290.png",
+      "local_image_path": "images/111290.png"
+    },
+    {
+      "pos": "adj",
+      "example": "mutual interest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111291.png",
+      "local_image_path": "images/111291.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124433.png",
+      "local_image_path": "images/124433.png"
+    }
+  ],
+  "synonyms": [
+    "joint",
+    "common",
+    "communal",
+    "reciprocal",
+    "related"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mutualism",
+    "mutuality",
+    "mutualization",
+    "mutualize",
+    "mutually",
+    "mutualness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mutual.mp3",
+  "local_sound_path": "sounds/mutual.mp3"
+}

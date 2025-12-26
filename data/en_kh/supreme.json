@@ -1,0 +1,53 @@
+{
+  "word": "supreme",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86527.png",
+      "local_image_path": "images/86527.png"
+    },
+    {
+      "pos": "adj",
+      "example": "supreme authority",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86528.png",
+      "local_image_path": "images/86528.png"
+    },
+    {
+      "pos": "adj",
+      "example": "supreme confidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86529.png",
+      "local_image_path": "images/86529.png"
+    }
+  ],
+  "synonyms": [
+    "highest",
+    "best",
+    "ultimate",
+    "superlative",
+    "utmost",
+    "absolute",
+    "extreme",
+    "top",
+    "great",
+    "greatest",
+    "matchless",
+    "untouchable",
+    "unbeatable",
+    "unmatched",
+    "sovereign",
+    "dominant",
+    "uppermost",
+    "first",
+    "chief",
+    "topmost"
+  ],
+  "antonyms": [
+    "worst"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/supreme.mp3",
+  "local_sound_path": "sounds/supreme.mp3"
+}

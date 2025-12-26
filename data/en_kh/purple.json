@@ -1,0 +1,38 @@
+{
+  "word": "purple",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "purple dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69017.png",
+      "local_image_path": "images/69017.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69016.png",
+      "local_image_path": "images/69016.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69018.png",
+      "local_image_path": "images/69018.png"
+    }
+  ],
+  "synonyms": [
+    "mauve",
+    "lilac",
+    "lavender",
+    "violet",
+    "plum",
+    "wine",
+    "amethyst"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/purple.mp3",
+  "local_sound_path": "sounds/purple.mp3"
+}

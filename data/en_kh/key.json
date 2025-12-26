@@ -1,0 +1,74 @@
+{
+  "word": "key",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "key information",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43777.png",
+      "local_image_path": "images/43777.png"
+    },
+    {
+      "pos": "n",
+      "example": "car key",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43774.png",
+      "local_image_path": "images/43774.png"
+    },
+    {
+      "pos": "n",
+      "example": "key to success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43775.png",
+      "local_image_path": "images/43775.png"
+    },
+    {
+      "pos": "n",
+      "example": "type writer key",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43776.png",
+      "local_image_path": "images/43776.png"
+    },
+    {
+      "pos": "tv",
+      "example": "key so up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43778.png",
+      "local_image_path": "images/43778.png"
+    },
+    {
+      "pos": "tv",
+      "example": "key my project to his",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43779.png",
+      "local_image_path": "images/43779.png"
+    }
+  ],
+  "synonyms": [
+    "pitch",
+    "register",
+    "tone",
+    "scale",
+    "input",
+    "enter",
+    "keyboard",
+    "type",
+    "set"
+  ],
+  "antonyms": [
+    "minor",
+    "unimportant"
+  ],
+  "similar_words": [
+    "key player",
+    "key post",
+    "key role",
+    "key up",
+    "key-ring",
+    "keyboard",
+    "keyboarder",
+    "keyboarding",
+    "keyhole",
+    "keyman",
+    "keynote",
+    "keystone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/key.mp3",
+  "local_sound_path": "sounds/key.mp3"
+}

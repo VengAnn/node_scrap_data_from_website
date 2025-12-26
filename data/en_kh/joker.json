@@ -1,0 +1,41 @@
+{
+  "word": "joker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n (sl)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43181.png",
+      "local_image_path": "images/43181.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43180.png",
+      "local_image_path": "images/43180.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43182.png",
+      "local_image_path": "images/43182.png"
+    }
+  ],
+  "synonyms": [
+    "clown",
+    "fool",
+    "buffoon",
+    "comedian",
+    "comic",
+    "prankster",
+    "entertainer",
+    "wit",
+    "wag",
+    "jester"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/joker.mp3",
+  "local_sound_path": "sounds/joker.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "gripe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He keeps griping about having no money.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32958.png",
+      "local_image_path": "images/32958.png"
+    },
+    {
+      "pos": "n",
+      "example": "He likes to have a good gripe from time to time.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32959.png",
+      "local_image_path": "images/32959.png"
+    },
+    {
+      "pos": "n",
+      "example": "the gripes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32960.png",
+      "local_image_path": "images/32960.png"
+    },
+    {
+      "pos": "n",
+      "example": "gripe water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32961.png",
+      "local_image_path": "images/32961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gripe the bowels",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32956.png",
+      "local_image_path": "images/32956.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32957.png",
+      "local_image_path": "images/32957.png"
+    }
+  ],
+  "synonyms": [
+    "complain",
+    "moan",
+    "protest",
+    "grumble",
+    "objection",
+    "object"
+  ],
+  "antonyms": [
+    "compliment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gripe.mp3",
+  "local_sound_path": "sounds/gripe.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "word": "desperate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "desperate need",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20893.png",
+      "local_image_path": "images/20893.png"
+    },
+    {
+      "pos": "adj",
+      "example": "She wrote me a desperate letter.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20894.png",
+      "local_image_path": "images/20894.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20895.png",
+      "local_image_path": "images/20895.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20896.png",
+      "local_image_path": "images/20896.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118138.png",
+      "local_image_path": "images/118138.png"
+    }
+  ],
+  "synonyms": [
+    "serious",
+    "grave",
+    "extreme",
+    "critical",
+    "dire",
+    "acute"
+  ],
+  "antonyms": [
+    "calm",
+    "hopeful",
+    "safe",
+    "harmless",
+    "loath"
+  ],
+  "similar_words": [
+    "desperately",
+    "desperateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desperate.mp3",
+  "local_sound_path": "sounds/desperate.mp3"
+}

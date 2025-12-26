@@ -1,0 +1,49 @@
+{
+  "word": "indifferent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "indifferent to the plight of others",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39043.png",
+      "local_image_path": "images/39043.png"
+    },
+    {
+      "pos": "adj",
+      "example": "indifferent toward the choices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39044.png",
+      "local_image_path": "images/39044.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39045.png",
+      "local_image_path": "images/39045.png"
+    }
+  ],
+  "synonyms": [
+    "mediocre",
+    "undistinguished",
+    "so-so",
+    "middling",
+    "tolerable",
+    "fair",
+    "unexceptional",
+    "average",
+    "moderate",
+    "poor"
+  ],
+  "antonyms": [
+    "concerned",
+    "exceptional"
+  ],
+  "similar_words": [
+    "indifferentiated",
+    "indifferentism",
+    "indifferentist",
+    "indifferently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indifferent.mp3",
+  "local_sound_path": "sounds/indifferent.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "word": "worm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100990.png",
+      "local_image_path": "images/100990.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100989.png",
+      "local_image_path": "images/100989.png"
+    },
+    {
+      "pos": "n",
+      "example": "find a worm in one's apple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100988.png",
+      "local_image_path": "images/100988.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He wormed himself into her confidence.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100991.png",
+      "local_image_path": "images/100991.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100992.png",
+      "local_image_path": "images/100992.png"
+    }
+  ],
+  "synonyms": [
+    "larva",
+    "maggot",
+    "caterpillar"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "worm eater",
+    "worm-cast",
+    "worm-eaten",
+    "worm-eating",
+    "worm-gear",
+    "worm-hole",
+    "wormless",
+    "wormlike",
+    "wormling",
+    "wormwood",
+    "wormy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/worm.mp3",
+  "local_sound_path": "sounds/worm.mp3"
+}

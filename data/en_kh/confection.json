@@ -1,0 +1,44 @@
+{
+  "word": "confection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make a confection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16622.png",
+      "local_image_path": "images/16622.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117154.png",
+      "local_image_path": "images/117154.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117155.png",
+      "local_image_path": "images/117155.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117156.png",
+      "local_image_path": "images/117156.png"
+    }
+  ],
+  "synonyms": [
+    "sweet",
+    "confectionery",
+    "confectionary"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "confectionary",
+    "confectioner",
+    "confectionery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confection.mp3",
+  "local_sound_path": "sounds/confection.mp3"
+}

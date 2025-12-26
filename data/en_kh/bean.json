@@ -1,0 +1,34 @@
+{
+  "word": "bean",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "green bean",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7859.png",
+      "local_image_path": "images/7859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7860.png",
+      "local_image_path": "images/7860.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bean bligh",
+    "bean counter",
+    "bean curd",
+    "beanbag",
+    "beanfeast",
+    "beano",
+    "beanpole",
+    "beansprouts",
+    "beanstalk"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bean.mp3",
+  "local_sound_path": "sounds/bean.mp3"
+}

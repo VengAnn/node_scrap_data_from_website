@@ -1,0 +1,28 @@
+{
+  "word": "certain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13660.png",
+      "local_image_path": "images/13660.png"
+    }
+  ],
+  "synonyms": [
+    "some",
+    "several"
+  ],
+  "antonyms": [
+    "unsure",
+    "uncertain",
+    "all"
+  ],
+  "similar_words": [
+    "certainly",
+    "certainty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/certain.mp3",
+  "local_sound_path": "sounds/certain.mp3"
+}

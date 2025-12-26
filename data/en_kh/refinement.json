@@ -1,0 +1,44 @@
+{
+  "word": "refinement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71342.png",
+      "local_image_path": "images/71342.png"
+    },
+    {
+      "pos": "n",
+      "example": "a person of great refinement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71343.png",
+      "local_image_path": "images/71343.png"
+    },
+    {
+      "pos": "n",
+      "example": "refinement of technology",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71344.png",
+      "local_image_path": "images/71344.png"
+    }
+  ],
+  "synonyms": [
+    "sophistication",
+    "elegance",
+    "finesse",
+    "class",
+    "maturity",
+    "delicacy",
+    "subtlety",
+    "culture",
+    "style",
+    "taste",
+    "civility"
+  ],
+  "antonyms": [
+    "coarseness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/refinement.mp3",
+  "local_sound_path": "sounds/refinement.mp3"
+}

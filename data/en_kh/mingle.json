@@ -1,0 +1,81 @@
+{
+  "word": "mingle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The water of the two rivers mingled together to form one river.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108872.png",
+      "local_image_path": "images/108872.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108873.png",
+      "local_image_path": "images/108873.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108874.png",
+      "local_image_path": "images/108874.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124058.png",
+      "local_image_path": "images/124058.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124059.png",
+      "local_image_path": "images/124059.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124060.png",
+      "local_image_path": "images/124060.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124061.png",
+      "local_image_path": "images/124061.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mingle guests",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108875.png",
+      "local_image_path": "images/108875.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mingle joy with sadness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/108876.png",
+      "local_image_path": "images/108876.png"
+    }
+  ],
+  "synonyms": [
+    "socialize",
+    "circulate",
+    "associate",
+    "mix",
+    "blend",
+    "combine",
+    "fuse",
+    "merge",
+    "intermingle",
+    "join",
+    "unite",
+    "dilute"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mingle.mp3",
+  "local_sound_path": "sounds/mingle.mp3"
+}

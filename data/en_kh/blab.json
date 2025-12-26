@@ -1,0 +1,47 @@
+{
+  "word": "blab",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9251.png",
+      "local_image_path": "images/9251.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9252.png",
+      "local_image_path": "images/9252.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115131.png",
+      "local_image_path": "images/115131.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9253.png",
+      "local_image_path": "images/9253.png"
+    }
+  ],
+  "synonyms": [
+    "gossip",
+    "tattle",
+    "leak",
+    "sneak",
+    "snitch",
+    "tell"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blabber",
+    "blabbermouth",
+    "blabby"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blab.mp3",
+  "local_sound_path": "sounds/blab.mp3"
+}

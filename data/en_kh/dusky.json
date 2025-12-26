@@ -1,0 +1,30 @@
+{
+  "word": "dusky",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dusky complexion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23489.png",
+      "local_image_path": "images/23489.png"
+    }
+  ],
+  "synonyms": [
+    "shadowy",
+    "dark",
+    "darkish",
+    "gray",
+    "grayish",
+    "dim",
+    "hazy",
+    "grey",
+    "greyish"
+  ],
+  "antonyms": [
+    "bright"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dusky.mp3",
+  "local_sound_path": "sounds/dusky.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "prototype",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68132.png",
+      "local_image_path": "images/68132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68133.png",
+      "local_image_path": "images/68133.png"
+    }
+  ],
+  "synonyms": [
+    "example",
+    "sample",
+    "model",
+    "archetype",
+    "original",
+    "exemplar",
+    "pattern"
+  ],
+  "antonyms": [
+    "copy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prototype.mp3",
+  "local_sound_path": "sounds/prototype.mp3"
+}

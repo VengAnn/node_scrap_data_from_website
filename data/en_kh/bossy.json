@@ -1,0 +1,42 @@
+{
+  "word": "bossy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10279.png",
+      "local_image_path": "images/10279.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10283.png",
+      "local_image_path": "images/10283.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10284.png",
+      "local_image_path": "images/10284.png"
+    }
+  ],
+  "synonyms": [
+    "domineering",
+    "officious",
+    "dominant",
+    "interventionist",
+    "dictatorial",
+    "overbearing",
+    "authoritarian",
+    "authoritative"
+  ],
+  "antonyms": [
+    "submissive",
+    "meek"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bossy.mp3",
+  "local_sound_path": "sounds/bossy.mp3"
+}

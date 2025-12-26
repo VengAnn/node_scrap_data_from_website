@@ -1,0 +1,62 @@
+{
+  "word": "commission",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16012.png",
+      "local_image_path": "images/16012.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116788.png",
+      "local_image_path": "images/116788.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116789.png",
+      "local_image_path": "images/116789.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116790.png",
+      "local_image_path": "images/116790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16013.png",
+      "local_image_path": "images/16013.png"
+    }
+  ],
+  "synonyms": [
+    "order",
+    "command",
+    "directive",
+    "charge",
+    "contract",
+    "assignment",
+    "hire",
+    "appoint",
+    "authorize",
+    "assign"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "commission buyer",
+    "commission sale",
+    "commissionaire",
+    "commissional",
+    "commissioned",
+    "commissioner",
+    "commissioner general",
+    "commissionership"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/commission.mp3",
+  "local_sound_path": "sounds/commission.mp3"
+}

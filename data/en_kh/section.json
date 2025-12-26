@@ -1,0 +1,49 @@
+{
+  "word": "section",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "section of the country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77577.png",
+      "local_image_path": "images/77577.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77578.png",
+      "local_image_path": "images/77578.png"
+    },
+    {
+      "pos": "tv",
+      "example": "section the country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77579.png",
+      "local_image_path": "images/77579.png"
+    },
+    {
+      "pos": "tv",
+      "example": "section an apple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77580.png",
+      "local_image_path": "images/77580.png"
+    }
+  ],
+  "synonyms": [
+    "divide",
+    "partition",
+    "split",
+    "segment"
+  ],
+  "antonyms": [
+    "whole",
+    "combine"
+  ],
+  "similar_words": [
+    "sectional",
+    "sectionalism",
+    "sectionary",
+    "sectionize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/section.mp3",
+  "local_sound_path": "sounds/section.mp3"
+}

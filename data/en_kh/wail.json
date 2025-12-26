@@ -1,0 +1,34 @@
+{
+  "word": "wail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The sick child was wailing miserably.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98823.png",
+      "local_image_path": "images/98823.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98824.png",
+      "local_image_path": "images/98824.png"
+    }
+  ],
+  "synonyms": [
+    "complain",
+    "fuss",
+    "whine"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wailer",
+    "wailful",
+    "wailfully",
+    "wailing",
+    "wailingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wail.mp3",
+  "local_sound_path": "sounds/wail.mp3"
+}

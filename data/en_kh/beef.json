@@ -1,0 +1,54 @@
+{
+  "word": "beef",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8024.png",
+      "local_image_path": "images/8024.png"
+    },
+    {
+      "pos": "n",
+      "example": "raise beef",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8023.png",
+      "local_image_path": "images/8023.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8025.png",
+      "local_image_path": "images/8025.png"
+    }
+  ],
+  "synonyms": [
+    "complaint",
+    "grumble",
+    "moan",
+    "bellyache",
+    "grouse",
+    "gripe",
+    "complain",
+    "carp",
+    "chunter",
+    "whine"
+  ],
+  "antonyms": [
+    "rejoice",
+    "praise"
+  ],
+  "similar_words": [
+    "beef-tea",
+    "beefburger",
+    "beefcake",
+    "beefeater",
+    "beefed-up",
+    "beefiness",
+    "beefsteak",
+    "beefwood",
+    "beefy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beef.mp3",
+  "local_sound_path": "sounds/beef.mp3"
+}

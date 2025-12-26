@@ -1,0 +1,46 @@
+{
+  "word": "realize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "realize the danger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70525.png",
+      "local_image_path": "images/70525.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70526.png",
+      "local_image_path": "images/70526.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70527.png",
+      "local_image_path": "images/70527.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70528.png",
+      "local_image_path": "images/70528.png"
+    }
+  ],
+  "synonyms": [
+    "fulfill",
+    "achieve",
+    "accomplish",
+    "complete",
+    "reach",
+    "attain"
+  ],
+  "antonyms": [
+    "misunderstand",
+    "fail"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/realize.mp3",
+  "local_sound_path": "sounds/realize.mp3"
+}

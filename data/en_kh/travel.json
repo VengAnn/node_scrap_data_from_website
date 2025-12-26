@@ -1,0 +1,86 @@
+{
+  "word": "travel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Travel around the world",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91311.png",
+      "local_image_path": "images/91311.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91313.png",
+      "local_image_path": "images/91313.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91314.png",
+      "local_image_path": "images/91314.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91312.png",
+      "local_image_path": "images/91312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91316.png",
+      "local_image_path": "images/91316.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91317.png",
+      "local_image_path": "images/91317.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128441.png",
+      "local_image_path": "images/128441.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91315.png",
+      "local_image_path": "images/91315.png"
+    }
+  ],
+  "synonyms": [
+    "journey",
+    "tour",
+    "voyage",
+    "trek",
+    "go",
+    "move",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "travel agency",
+    "travel agent",
+    "travel allowance",
+    "travel bureau",
+    "travel company",
+    "travel sickness",
+    "travel trade",
+    "travel-sick",
+    "travelled",
+    "traveller",
+    "travelling",
+    "travelling companion",
+    "travelling exhibition",
+    "travelling expenses",
+    "travelling magazine",
+    "travelog",
+    "travelogue"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/travel.mp3",
+  "local_sound_path": "sounds/travel.mp3"
+}

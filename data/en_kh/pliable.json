@@ -1,0 +1,45 @@
+{
+  "word": "pliable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pliable material",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64185.png",
+      "local_image_path": "images/64185.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pliable mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64186.png",
+      "local_image_path": "images/64186.png"
+    }
+  ],
+  "synonyms": [
+    "adaptable",
+    "adjustable",
+    "flexible",
+    "pliant",
+    "agreeable",
+    "compliant",
+    "accommodating",
+    "meek",
+    "obedient",
+    "docile",
+    "yielding",
+    "biddable",
+    "suggestible",
+    "tractable",
+    "impressionable"
+  ],
+  "antonyms": [
+    "rigid",
+    "inflexible"
+  ],
+  "similar_words": [
+    "pliableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pliable.mp3",
+  "local_sound_path": "sounds/pliable.mp3"
+}

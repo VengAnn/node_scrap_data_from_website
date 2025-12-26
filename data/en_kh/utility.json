@@ -1,0 +1,53 @@
+{
+  "word": "utility",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96957.png",
+      "local_image_path": "images/96957.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96958.png",
+      "local_image_path": "images/96958.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96959.png",
+      "local_image_path": "images/96959.png"
+    }
+  ],
+  "synonyms": [
+    "usefulness",
+    "helpfulness",
+    "value",
+    "efficacy",
+    "effectiveness",
+    "convenience",
+    "service",
+    "function",
+    "advantage",
+    "benefit",
+    "practicality",
+    "efficiency",
+    "handiness",
+    "niftiness",
+    "functionality",
+    "worth"
+  ],
+  "antonyms": [
+    "uselessness",
+    "worthlessness"
+  ],
+  "similar_words": [
+    "utility company",
+    "utility van"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/utility.mp3",
+  "local_sound_path": "sounds/utility.mp3"
+}

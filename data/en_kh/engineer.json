@@ -1,0 +1,55 @@
+{
+  "word": "engineer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "electrical engineer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25027.png",
+      "local_image_path": "images/25027.png"
+    },
+    {
+      "pos": "n",
+      "example": "train engineer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25028.png",
+      "local_image_path": "images/25028.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25029.png",
+      "local_image_path": "images/25029.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130291.png",
+      "local_image_path": "images/130291.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25030.png",
+      "local_image_path": "images/25030.png"
+    }
+  ],
+  "synonyms": [
+    "wangle",
+    "foist",
+    "persuade",
+    "trick",
+    "wheedle",
+    "coax",
+    "contrive",
+    "get",
+    "obtain",
+    "fix",
+    "swing",
+    "finagle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/engineer.mp3",
+  "local_sound_path": "sounds/engineer.mp3"
+}

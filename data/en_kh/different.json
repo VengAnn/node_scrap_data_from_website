@@ -1,0 +1,57 @@
+{
+  "word": "different",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She is wearing a different dress every time I see her.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21284.png",
+      "local_image_path": "images/21284.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118283.png",
+      "local_image_path": "images/118283.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118284.png",
+      "local_image_path": "images/118284.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118285.png",
+      "local_image_path": "images/118285.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118286.png",
+      "local_image_path": "images/118286.png"
+    }
+  ],
+  "synonyms": [
+    "various",
+    "several",
+    "sundry",
+    "numerous",
+    "assorted",
+    "diverse"
+  ],
+  "antonyms": [
+    "similar",
+    "same"
+  ],
+  "similar_words": [
+    "differential",
+    "differentiate",
+    "differentiation",
+    "differently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/different.mp3",
+  "local_sound_path": "sounds/different.mp3"
+}

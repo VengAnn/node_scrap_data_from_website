@@ -1,0 +1,66 @@
+{
+  "word": "shape",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "plans shape up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78797.png",
+      "local_image_path": "images/78797.png"
+    },
+    {
+      "pos": "n",
+      "example": "shape of a vase",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78792.png",
+      "local_image_path": "images/78792.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78793.png",
+      "local_image_path": "images/78793.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shape a bowl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78794.png",
+      "local_image_path": "images/78794.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shape a reply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78795.png",
+      "local_image_path": "images/78795.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shape one's future",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78796.png",
+      "local_image_path": "images/78796.png"
+    }
+  ],
+  "synonyms": [
+    "mold",
+    "form",
+    "model",
+    "whittle",
+    "smooth",
+    "influence",
+    "affect",
+    "manipulate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shaped",
+    "shapeless",
+    "shapelessly",
+    "shapelessness",
+    "shapeliness",
+    "shapely",
+    "shapen",
+    "shaper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shape.mp3",
+  "local_sound_path": "sounds/shape.mp3"
+}

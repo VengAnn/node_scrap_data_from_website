@@ -1,0 +1,36 @@
+{
+  "word": "helpful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "helpful suggestion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34593.png",
+      "local_image_path": "images/34593.png"
+    },
+    {
+      "pos": "adj",
+      "example": "He's always very helpful to his mother.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34594.png",
+      "local_image_path": "images/34594.png"
+    }
+  ],
+  "synonyms": [
+    "useful",
+    "beneficial",
+    "advantageous",
+    "effective",
+    "valuable"
+  ],
+  "antonyms": [
+    "unhelpful",
+    "useless"
+  ],
+  "similar_words": [
+    "helpfully",
+    "helpfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/helpful.mp3",
+  "local_sound_path": "sounds/helpful.mp3"
+}

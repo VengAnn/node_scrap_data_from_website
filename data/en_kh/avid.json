@@ -1,0 +1,32 @@
+{
+  "word": "avid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "avid reader",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6708.png",
+      "local_image_path": "images/6708.png"
+    }
+  ],
+  "synonyms": [
+    "keen",
+    "enthusiastic",
+    "passionate",
+    "eager",
+    "devoted",
+    "ardent",
+    "fervent"
+  ],
+  "antonyms": [
+    "apathetic",
+    "indifferent"
+  ],
+  "similar_words": [
+    "avidity",
+    "avidly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avid.mp3",
+  "local_sound_path": "sounds/avid.mp3"
+}

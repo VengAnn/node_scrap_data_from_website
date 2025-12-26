@@ -1,0 +1,34 @@
+{
+  "word": "catering",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "who did the catering for your son's wedding?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13350.png",
+      "local_image_path": "images/13350.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116059.png",
+      "local_image_path": "images/116059.png"
+    }
+  ],
+  "synonyms": [
+    "cookery",
+    "cuisine",
+    "providing",
+    "accommodating",
+    "gratifying",
+    "satisfying",
+    "tailoring",
+    "serving",
+    "offering"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/catering.mp3",
+  "local_sound_path": "sounds/catering.mp3"
+}

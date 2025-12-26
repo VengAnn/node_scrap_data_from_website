@@ -1,0 +1,36 @@
+{
+  "word": "beginning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "at the beginning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8085.png",
+      "local_image_path": "images/8085.png"
+    }
+  ],
+  "synonyms": [
+    "start",
+    "commencement",
+    "opening",
+    "launch",
+    "foundation",
+    "establishment",
+    "creation",
+    "inauguration",
+    "initiation",
+    "activation",
+    "introduction",
+    "instigation",
+    "starting",
+    "launching"
+  ],
+  "antonyms": [
+    "end",
+    "ending"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beginning.mp3",
+  "local_sound_path": "sounds/beginning.mp3"
+}

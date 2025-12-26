@@ -1,0 +1,71 @@
+{
+  "word": "dock",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22522.png",
+      "local_image_path": "images/22522.png"
+    },
+    {
+      "pos": "n",
+      "example": "ship dock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22519.png",
+      "local_image_path": "images/22519.png"
+    },
+    {
+      "pos": "n",
+      "example": "prisoner's dock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22520.png",
+      "local_image_path": "images/22520.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22525.png",
+      "local_image_path": "images/22525.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22521.png",
+      "local_image_path": "images/22521.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dock a horse's tail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22523.png",
+      "local_image_path": "images/22523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They docked his salary.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22524.png",
+      "local_image_path": "images/22524.png"
+    }
+  ],
+  "synonyms": [
+    "cut",
+    "crop",
+    "stop",
+    "reduce",
+    "curtail",
+    "deduct",
+    "land",
+    "berth",
+    "moor",
+    "disembark"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [
+    "dockage",
+    "docket",
+    "dockyard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dock.mp3",
+  "local_sound_path": "sounds/dock.mp3"
+}

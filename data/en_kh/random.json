@@ -1,0 +1,34 @@
+{
+  "word": "random",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70132.png",
+      "local_image_path": "images/70132.png"
+    }
+  ],
+  "synonyms": [
+    "chance",
+    "accidental",
+    "haphazard",
+    "arbitrary",
+    "casual",
+    "unsystematic",
+    "hit and miss",
+    "indiscriminate",
+    "unplanned",
+    "unintentional"
+  ],
+  "antonyms": [
+    "deliberate"
+  ],
+  "similar_words": [
+    "randomization",
+    "randomize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/random.mp3",
+  "local_sound_path": "sounds/random.mp3"
+}

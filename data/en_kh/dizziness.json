@@ -1,0 +1,37 @@
+{
+  "word": "dizziness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22504.png",
+      "local_image_path": "images/22504.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131474.png",
+      "local_image_path": "images/131474.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131475.png",
+      "local_image_path": "images/131475.png"
+    }
+  ],
+  "synonyms": [
+    "faintness",
+    "giddiness",
+    "vertigo",
+    "shakiness",
+    "light-headedness",
+    "unsteadiness"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dizziness.mp3",
+  "local_sound_path": "sounds/dizziness.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "sketchy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sketchy description",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80684.png",
+      "local_image_path": "images/80684.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sketchy meal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80685.png",
+      "local_image_path": "images/80685.png"
+    }
+  ],
+  "synonyms": [
+    "vague",
+    "unclear",
+    "hazy",
+    "imprecise",
+    "rough",
+    "woolly",
+    "superficial"
+  ],
+  "antonyms": [
+    "detailed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sketchy.mp3",
+  "local_sound_path": "sounds/sketchy.mp3"
+}

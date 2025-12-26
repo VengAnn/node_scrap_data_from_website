@@ -1,0 +1,43 @@
+{
+  "word": "precursor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66085.png",
+      "local_image_path": "images/66085.png"
+    },
+    {
+      "pos": "n",
+      "example": "precursor of Shakespeare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66086.png",
+      "local_image_path": "images/66086.png"
+    },
+    {
+      "pos": "n",
+      "example": "precursor of famine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66087.png",
+      "local_image_path": "images/66087.png"
+    }
+  ],
+  "synonyms": [
+    "forerunner",
+    "ancestor",
+    "predecessor",
+    "antecedent",
+    "pioneer",
+    "herald",
+    "originator",
+    "sign",
+    "foundation",
+    "foretaste"
+  ],
+  "antonyms": [
+    "successor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/precursor.mp3",
+  "local_sound_path": "sounds/precursor.mp3"
+}

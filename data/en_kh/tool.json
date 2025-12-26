@@ -1,0 +1,61 @@
+{
+  "word": "tool",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "use him as a tool",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90077.png",
+      "local_image_path": "images/90077.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90075.png",
+      "local_image_path": "images/90075.png"
+    },
+    {
+      "pos": "n",
+      "example": "carpenter's tool",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90076.png",
+      "local_image_path": "images/90076.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90078.png",
+      "local_image_path": "images/90078.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90079.png",
+      "local_image_path": "images/90079.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tool up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90080.png",
+      "local_image_path": "images/90080.png"
+    }
+  ],
+  "synonyms": [
+    "instrument",
+    "implement",
+    "device",
+    "means",
+    "utensil",
+    "apparatus",
+    "contrivance",
+    "gismo"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "toolbox",
+    "tooling",
+    "toolmaker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tool.mp3",
+  "local_sound_path": "sounds/tool.mp3"
+}

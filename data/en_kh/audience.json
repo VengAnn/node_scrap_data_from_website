@@ -1,0 +1,36 @@
+{
+  "word": "audience",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "There was a large audience at the threatre",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6357.png",
+      "local_image_path": "images/6357.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112125.png",
+      "local_image_path": "images/112125.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112126.png",
+      "local_image_path": "images/112126.png"
+    }
+  ],
+  "synonyms": [
+    "meeting",
+    "interview",
+    "consultation",
+    "appointment",
+    "hearing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/audience.mp3",
+  "local_sound_path": "sounds/audience.mp3"
+}

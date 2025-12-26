@@ -1,0 +1,45 @@
+{
+  "word": "verification",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97654.png",
+      "local_image_path": "images/97654.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129716.png",
+      "local_image_path": "images/129716.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129717.png",
+      "local_image_path": "images/129717.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129718.png",
+      "local_image_path": "images/129718.png"
+    }
+  ],
+  "synonyms": [
+    "confirmation",
+    "corroboration",
+    "proof",
+    "substantiation",
+    "authentication",
+    "certification"
+  ],
+  "antonyms": [
+    "contradiction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/verification.mp3",
+  "local_sound_path": "sounds/verification.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "word": "amend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "the present constitution of our country must be amended",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3842.png",
+      "local_image_path": "images/3842.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113637.png",
+      "local_image_path": "images/113637.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113638.png",
+      "local_image_path": "images/113638.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113639.png",
+      "local_image_path": "images/113639.png"
+    }
+  ],
+  "synonyms": [
+    "alter",
+    "adjust",
+    "modify",
+    "revise",
+    "improve",
+    "change",
+    "correct"
+  ],
+  "antonyms": [
+    "worsen",
+    "maintain"
+  ],
+  "similar_words": [
+    "amendatory",
+    "amendment",
+    "amends"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amend.mp3",
+  "local_sound_path": "sounds/amend.mp3"
+}

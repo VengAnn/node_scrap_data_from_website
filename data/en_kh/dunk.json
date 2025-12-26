@@ -1,0 +1,31 @@
+{
+  "word": "dunk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23437.png",
+      "local_image_path": "images/23437.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23438.png",
+      "local_image_path": "images/23438.png"
+    }
+  ],
+  "synonyms": [
+    "dip",
+    "submerge",
+    "immerse",
+    "soak",
+    "steep",
+    "plunge"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dunk.mp3",
+  "local_sound_path": "sounds/dunk.mp3"
+}

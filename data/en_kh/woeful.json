@@ -1,0 +1,36 @@
+{
+  "word": "woeful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100706.png",
+      "local_image_path": "images/100706.png"
+    }
+  ],
+  "synonyms": [
+    "unhappy",
+    "doleful",
+    "sad",
+    "sorrowful",
+    "mournful",
+    "pathetic",
+    "pitiful",
+    "regrettable",
+    "bad",
+    "inadequate",
+    "deplorable"
+  ],
+  "antonyms": [
+    "cheerful",
+    "wonderful"
+  ],
+  "similar_words": [
+    "woefully",
+    "woefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/woeful.mp3",
+  "local_sound_path": "sounds/woeful.mp3"
+}

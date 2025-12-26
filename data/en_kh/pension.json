@@ -1,0 +1,44 @@
+{
+  "word": "pension",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "receive a pension",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61410.png",
+      "local_image_path": "images/61410.png"
+    },
+    {
+      "pos": "n",
+      "example": "stay in a pension",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61411.png",
+      "local_image_path": "images/61411.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61413.png",
+      "local_image_path": "images/61413.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61412.png",
+      "local_image_path": "images/61412.png"
+    }
+  ],
+  "synonyms": [
+    "inn",
+    "hostel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pensionable",
+    "pensionary",
+    "pensioner",
+    "pensionnaire"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pension.mp3",
+  "local_sound_path": "sounds/pension.mp3"
+}

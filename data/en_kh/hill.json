@@ -1,0 +1,67 @@
+{
+  "word": "hill",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "climb a hill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35213.png",
+      "local_image_path": "images/35213.png"
+    },
+    {
+      "pos": "n",
+      "example": "hill of ants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35214.png",
+      "local_image_path": "images/35214.png"
+    },
+    {
+      "pos": "n",
+      "example": "hill of potatoes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35215.png",
+      "local_image_path": "images/35215.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hill up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35216.png",
+      "local_image_path": "images/35216.png"
+    }
+  ],
+  "synonyms": [
+    "mount",
+    "knoll",
+    "mound",
+    "prominence",
+    "rise",
+    "tor",
+    "gradient",
+    "slope",
+    "incline",
+    "drop"
+  ],
+  "antonyms": [
+    "valley"
+  ],
+  "similar_words": [
+    "hill-altar",
+    "hill-ant",
+    "hill-country",
+    "hill-folk",
+    "hill-fort",
+    "hill-side",
+    "hillbilly",
+    "hillet",
+    "hilliness",
+    "hilling",
+    "hillman",
+    "hillo",
+    "hillock",
+    "hillocky",
+    "hillside",
+    "hilltop",
+    "hilly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hill.mp3",
+  "local_sound_path": "sounds/hill.mp3"
+}

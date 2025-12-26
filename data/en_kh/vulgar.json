@@ -1,0 +1,46 @@
+{
+  "word": "vulgar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "vulgar language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98683.png",
+      "local_image_path": "images/98683.png"
+    },
+    {
+      "pos": "adj",
+      "example": "vulgar Latin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98684.png",
+      "local_image_path": "images/98684.png"
+    }
+  ],
+  "synonyms": [
+    "tasteless",
+    "brash",
+    "brassy",
+    "common",
+    "outlandish",
+    "ostentatious"
+  ],
+  "antonyms": [
+    "clean",
+    "decent",
+    "polite",
+    "tasteful"
+  ],
+  "similar_words": [
+    "vulgarian",
+    "vulgarism",
+    "vulgariti",
+    "vulgarity",
+    "vulgarization",
+    "vulgarize",
+    "vulgarizer",
+    "vulgarly",
+    "vulgarness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vulgar.mp3",
+  "local_sound_path": "sounds/vulgar.mp3"
+}

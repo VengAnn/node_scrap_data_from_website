@@ -1,0 +1,47 @@
+{
+  "word": "besiege",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8398.png",
+      "local_image_path": "images/8398.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114950.png",
+      "local_image_path": "images/114950.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114951.png",
+      "local_image_path": "images/114951.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114952.png",
+      "local_image_path": "images/114952.png"
+    }
+  ],
+  "synonyms": [
+    "surround",
+    "siege",
+    "overwhelm",
+    "encircle",
+    "blockade"
+  ],
+  "antonyms": [
+    "defend"
+  ],
+  "similar_words": [
+    "besiegement",
+    "besieger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/besiege.mp3",
+  "local_sound_path": "sounds/besiege.mp3"
+}

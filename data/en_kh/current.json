@@ -1,0 +1,44 @@
+{
+  "word": "current",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "current event",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19185.png",
+      "local_image_path": "images/19185.png"
+    },
+    {
+      "pos": "adj",
+      "example": "current rumor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19186.png",
+      "local_image_path": "images/19186.png"
+    },
+    {
+      "pos": "n",
+      "example": "current of the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19187.png",
+      "local_image_path": "images/19187.png"
+    },
+    {
+      "pos": "n",
+      "example": "electric current",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19188.png",
+      "local_image_path": "images/19188.png"
+    }
+  ],
+  "synonyms": [
+    "flow",
+    "stream",
+    "undercurrent",
+    "tide",
+    "flux"
+  ],
+  "antonyms": [
+    "dated"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/current.mp3",
+  "local_sound_path": "sounds/current.mp3"
+}

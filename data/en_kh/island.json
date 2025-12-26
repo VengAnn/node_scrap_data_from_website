@@ -1,0 +1,38 @@
+{
+  "word": "island",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tropical island",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42430.png",
+      "local_image_path": "images/42430.png"
+    },
+    {
+      "pos": "n",
+      "example": "pedestrian island",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42431.png",
+      "local_image_path": "images/42431.png"
+    },
+    {
+      "pos": "n",
+      "example": "island of serenity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42432.png",
+      "local_image_path": "images/42432.png"
+    }
+  ],
+  "synonyms": [
+    "isle",
+    "atoll",
+    "key",
+    "landmass"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "island position",
+    "islander"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/island.mp3",
+  "local_sound_path": "sounds/island.mp3"
+}

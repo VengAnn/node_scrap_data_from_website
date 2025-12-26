@@ -1,0 +1,70 @@
+{
+  "word": "detail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "minor detail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20970.png",
+      "local_image_path": "images/20970.png"
+    },
+    {
+      "pos": "n",
+      "example": "prepare a detail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20971.png",
+      "local_image_path": "images/20971.png"
+    },
+    {
+      "pos": "n",
+      "example": "work detail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20972.png",
+      "local_image_path": "images/20972.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118173.png",
+      "local_image_path": "images/118173.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118174.png",
+      "local_image_path": "images/118174.png"
+    },
+    {
+      "pos": "tv",
+      "example": "detail a play",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20973.png",
+      "local_image_path": "images/20973.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118175.png",
+      "local_image_path": "images/118175.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118176.png",
+      "local_image_path": "images/118176.png"
+    }
+  ],
+  "synonyms": [
+    "delegate",
+    "assign",
+    "allocate",
+    "conscript",
+    "designate",
+    "order"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "detailed",
+    "detailed account"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detail.mp3",
+  "local_sound_path": "sounds/detail.mp3"
+}

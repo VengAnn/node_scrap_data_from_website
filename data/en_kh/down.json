@@ -1,0 +1,102 @@
+{
+  "word": "down",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "My book is down the table.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22884.png",
+      "local_image_path": "images/22884.png"
+    },
+    {
+      "pos": "adj",
+      "example": "the prices are down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22885.png",
+      "local_image_path": "images/22885.png"
+    },
+    {
+      "pos": "adj",
+      "example": "the plane is down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22886.png",
+      "local_image_path": "images/22886.png"
+    },
+    {
+      "pos": "adj",
+      "example": "feel down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22887.png",
+      "local_image_path": "images/22887.png"
+    },
+    {
+      "pos": "adv",
+      "example": "go down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22883.png",
+      "local_image_path": "images/22883.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22889.png",
+      "local_image_path": "images/22889.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22892.png",
+      "local_image_path": "images/22892.png"
+    },
+    {
+      "pos": "prep",
+      "example": "down the stairs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22888.png",
+      "local_image_path": "images/22888.png"
+    },
+    {
+      "pos": "tv",
+      "example": "down the goalpost",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22890.png",
+      "local_image_path": "images/22890.png"
+    },
+    {
+      "pos": "tv",
+      "example": "down medicine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22891.png",
+      "local_image_path": "images/22891.png"
+    }
+  ],
+  "synonyms": [
+    "consume",
+    "drink",
+    "eat",
+    "guzzle",
+    "swallow"
+  ],
+  "antonyms": [
+    "up",
+    "winning",
+    "happy",
+    "working"
+  ],
+  "similar_words": [
+    "down train",
+    "down-to-earth",
+    "downbeat",
+    "downcast",
+    "downfall",
+    "downgrade",
+    "downhearted",
+    "downhill",
+    "downland",
+    "download",
+    "downlooked",
+    "downmost",
+    "downpour",
+    "downright",
+    "downrush",
+    "downsable",
+    "downside",
+    "downstairs"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/down.mp3",
+  "local_sound_path": "sounds/down.mp3"
+}

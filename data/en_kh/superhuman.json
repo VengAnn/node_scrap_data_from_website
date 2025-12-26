@@ -1,0 +1,38 @@
+{
+  "word": "superhuman",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "superhuman phenomena",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86390.png",
+      "local_image_path": "images/86390.png"
+    },
+    {
+      "pos": "adj",
+      "example": "superhuman effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86391.png",
+      "local_image_path": "images/86391.png"
+    }
+  ],
+  "synonyms": [
+    "phenomenal",
+    "prodigious",
+    "staggering",
+    "heroic",
+    "exceptional",
+    "herculean",
+    "formidable",
+    "extraordinary",
+    "godlike",
+    "omnipotent",
+    "supreme"
+  ],
+  "antonyms": [
+    "normal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/superhuman.mp3",
+  "local_sound_path": "sounds/superhuman.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "bucket",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11623.png",
+      "local_image_path": "images/11623.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11621.png",
+      "local_image_path": "images/11621.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11622.png",
+      "local_image_path": "images/11622.png"
+    }
+  ],
+  "synonyms": [
+    "pail",
+    "container",
+    "vessel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bucket seat",
+    "bucket shop"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bucket.mp3",
+  "local_sound_path": "sounds/bucket.mp3"
+}

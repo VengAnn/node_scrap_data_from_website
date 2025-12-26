@@ -1,0 +1,32 @@
+{
+  "word": "thug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89237.png",
+      "local_image_path": "images/89237.png"
+    }
+  ],
+  "synonyms": [
+    "hooligan",
+    "gangster",
+    "mugger",
+    "brute",
+    "ruffian",
+    "heavy",
+    "criminal",
+    "hood",
+    "hoodlum",
+    "goon"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "thuggery",
+    "thuggish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thug.mp3",
+  "local_sound_path": "sounds/thug.mp3"
+}

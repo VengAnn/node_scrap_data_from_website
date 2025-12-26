@@ -1,0 +1,43 @@
+{
+  "word": "assurance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "(act) with assurance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5984.png",
+      "local_image_path": "images/5984.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114168.png",
+      "local_image_path": "images/114168.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114169.png",
+      "local_image_path": "images/114169.png"
+    }
+  ],
+  "synonyms": [
+    "self-confidence",
+    "self-possession",
+    "self-reliance",
+    "confidence",
+    "poise",
+    "self-assurance",
+    "cool",
+    "insurance",
+    "surety",
+    "policy"
+  ],
+  "antonyms": [
+    "timidity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assurance.mp3",
+  "local_sound_path": "sounds/assurance.mp3"
+}

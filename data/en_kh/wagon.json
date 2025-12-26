@@ -1,0 +1,44 @@
+{
+  "word": "wagon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "off the wagon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98815.png",
+      "local_image_path": "images/98815.png"
+    },
+    {
+      "pos": "idm",
+      "example": "on the wagon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98816.png",
+      "local_image_path": "images/98816.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98813.png",
+      "local_image_path": "images/98813.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98814.png",
+      "local_image_path": "images/98814.png"
+    }
+  ],
+  "synonyms": [
+    "carriage",
+    "car",
+    "truck",
+    "lorry"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wagon-lit",
+    "wagoner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wagon.mp3",
+  "local_sound_path": "sounds/wagon.mp3"
+}

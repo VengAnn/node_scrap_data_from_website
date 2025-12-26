@@ -1,0 +1,36 @@
+{
+  "word": "barrow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7602.png",
+      "local_image_path": "images/7602.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114639.png",
+      "local_image_path": "images/114639.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114640.png",
+      "local_image_path": "images/114640.png"
+    }
+  ],
+  "synonyms": [
+    "mound",
+    "tumulus",
+    "tomb",
+    "hill",
+    "swell"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barrow.mp3",
+  "local_sound_path": "sounds/barrow.mp3"
+}

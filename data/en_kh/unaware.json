@@ -1,0 +1,50 @@
+{
+  "word": "unaware",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93299.png",
+      "local_image_path": "images/93299.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93300.png",
+      "local_image_path": "images/93300.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93301.png",
+      "local_image_path": "images/93301.png"
+    }
+  ],
+  "synonyms": [
+    "ignorant",
+    "uninformed",
+    "oblivious",
+    "unconscious",
+    "unacquainted",
+    "naive",
+    "innocent",
+    "unsuspecting",
+    "unqualified",
+    "untrained",
+    "cold",
+    "unwary"
+  ],
+  "antonyms": [
+    "conscious",
+    "prepared"
+  ],
+  "similar_words": [
+    "unawarely",
+    "unawareness",
+    "unawares"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unaware.mp3",
+  "local_sound_path": "sounds/unaware.mp3"
+}

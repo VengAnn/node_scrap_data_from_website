@@ -1,0 +1,51 @@
+{
+  "word": "grab",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32434.png",
+      "local_image_path": "images/32434.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32435.png",
+      "local_image_path": "images/32435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grab a weapon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32432.png",
+      "local_image_path": "images/32432.png"
+    },
+    {
+      "pos": "tv",
+      "example": "grab territory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32433.png",
+      "local_image_path": "images/32433.png"
+    }
+  ],
+  "synonyms": [
+    "snatch",
+    "seize",
+    "take",
+    "remove",
+    "steal",
+    "capture",
+    "arrest",
+    "catch",
+    "nick"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "grabber",
+    "grabbiness",
+    "grabble",
+    "grabby"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grab.mp3",
+  "local_sound_path": "sounds/grab.mp3"
+}

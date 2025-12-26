@@ -1,0 +1,29 @@
+{
+  "word": "dumpy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dumpy man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23421.png",
+      "local_image_path": "images/23421.png"
+    }
+  ],
+  "synonyms": [
+    "squat",
+    "fat",
+    "stout",
+    "chubby",
+    "podgy",
+    "round",
+    "overweight",
+    "pudgy"
+  ],
+  "antonyms": [
+    "slender"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dumpy.mp3",
+  "local_sound_path": "sounds/dumpy.mp3"
+}

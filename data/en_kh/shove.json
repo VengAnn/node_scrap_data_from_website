@@ -1,0 +1,71 @@
+{
+  "word": "shove",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "don't shove",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79517.png",
+      "local_image_path": "images/79517.png"
+    },
+    {
+      "pos": "iv",
+      "example": "shove off",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79518.png",
+      "local_image_path": "images/79518.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79519.png",
+      "local_image_path": "images/79519.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79521.png",
+      "local_image_path": "images/79521.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shove the crowd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79520.png",
+      "local_image_path": "images/79520.png"
+    }
+  ],
+  "synonyms": [
+    "thrust",
+    "push",
+    "heave",
+    "put",
+    "throw",
+    "toss",
+    "chuck",
+    "slap",
+    "sling",
+    "bung"
+  ],
+  "antonyms": [
+    "pull",
+    "fling"
+  ],
+  "similar_words": [
+    "shove-halfpenny",
+    "shoved-bill",
+    "shoveful",
+    "shovel",
+    "shovel hat",
+    "shovel-board",
+    "shovel-nose",
+    "shovel-nosed",
+    "shoveler",
+    "shoveller",
+    "shovelling",
+    "shovelman",
+    "shover",
+    "shovetard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shove.mp3",
+  "local_sound_path": "sounds/shove.mp3"
+}

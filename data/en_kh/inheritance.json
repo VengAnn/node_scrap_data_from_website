@@ -1,0 +1,42 @@
+{
+  "word": "inheritance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "large inheritance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40010.png",
+      "local_image_path": "images/40010.png"
+    },
+    {
+      "pos": "n",
+      "example": "inheritance tax",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40011.png",
+      "local_image_path": "images/40011.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122404.png",
+      "local_image_path": "images/122404.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122405.png",
+      "local_image_path": "images/122405.png"
+    }
+  ],
+  "synonyms": [
+    "legacy",
+    "bequest",
+    "heritage",
+    "heirloom",
+    "tradition"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inheritance.mp3",
+  "local_sound_path": "sounds/inheritance.mp3"
+}

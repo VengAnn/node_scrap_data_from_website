@@ -1,0 +1,52 @@
+{
+  "word": "certificate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "birth certificate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13664.png",
+      "local_image_path": "images/13664.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116121.png",
+      "local_image_path": "images/116121.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116122.png",
+      "local_image_path": "images/116122.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116123.png",
+      "local_image_path": "images/116123.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13665.png",
+      "local_image_path": "images/13665.png"
+    }
+  ],
+  "synonyms": [
+    "diploma",
+    "credential",
+    "documentation",
+    "record",
+    "permit",
+    "license",
+    "document"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "certificated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/certificate.mp3",
+  "local_sound_path": "sounds/certificate.mp3"
+}

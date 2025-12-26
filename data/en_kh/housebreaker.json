@@ -1,0 +1,35 @@
+{
+  "word": "housebreaker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36134.png",
+      "local_image_path": "images/36134.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36135.png",
+      "local_image_path": "images/36135.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121236.png",
+      "local_image_path": "images/121236.png"
+    }
+  ],
+  "synonyms": [
+    "thief",
+    "robber",
+    "intruder",
+    "criminal"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/housebreaker.mp3",
+  "local_sound_path": "sounds/housebreaker.mp3"
+}

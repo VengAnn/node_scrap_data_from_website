@@ -1,0 +1,85 @@
+{
+  "word": "punch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wood punch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68831.png",
+      "local_image_path": "images/68831.png"
+    },
+    {
+      "pos": "n",
+      "example": "paper punch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68832.png",
+      "local_image_path": "images/68832.png"
+    },
+    {
+      "pos": "n",
+      "example": "punch of the fist",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68833.png",
+      "local_image_path": "images/68833.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68834.png",
+      "local_image_path": "images/68834.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68835.png",
+      "local_image_path": "images/68835.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68828.png",
+      "local_image_path": "images/68828.png"
+    },
+    {
+      "pos": "tv",
+      "example": "punch a hole through",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68829.png",
+      "local_image_path": "images/68829.png"
+    },
+    {
+      "pos": "tv",
+      "example": "punch sb with a finger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68830.png",
+      "local_image_path": "images/68830.png"
+    }
+  ],
+  "synonyms": [
+    "hit",
+    "beat",
+    "strike",
+    "pummel",
+    "thump",
+    "clout",
+    "cuff",
+    "pommel",
+    "smite",
+    "box",
+    "whack",
+    "clobber",
+    "sock"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "punch line",
+    "punch list",
+    "punch-drunk",
+    "punch-up",
+    "puncheon",
+    "puncher",
+    "punchily",
+    "punchiness",
+    "punching",
+    "punchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/punch.mp3",
+  "local_sound_path": "sounds/punch.mp3"
+}

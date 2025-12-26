@@ -1,0 +1,74 @@
+{
+  "word": "rain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69983.png",
+      "local_image_path": "images/69983.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69984.png",
+      "local_image_path": "images/69984.png"
+    },
+    {
+      "pos": "n",
+      "example": "insufficient train",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69982.png",
+      "local_image_path": "images/69982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rain blows",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69985.png",
+      "local_image_path": "images/69985.png"
+    }
+  ],
+  "synonyms": [
+    "volley",
+    "shower",
+    "hail",
+    "stream",
+    "torrent",
+    "flood",
+    "deluge",
+    "barrage",
+    "fall",
+    "sprinkle",
+    "drop"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rain check",
+    "rain date",
+    "rain forest",
+    "rain-pour",
+    "rain-wash",
+    "rainbow",
+    "rainbow grassshiopper",
+    "raincloud",
+    "raincost",
+    "raindrop",
+    "rainfall",
+    "rainguage",
+    "raininess",
+    "raining",
+    "rainless",
+    "rainmaker",
+    "rainmaking",
+    "rainproof",
+    "rainspout",
+    "rainsquall",
+    "rainstorm",
+    "rainwater",
+    "rainwear",
+    "rainy",
+    "rainy day"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rain.mp3",
+  "local_sound_path": "sounds/rain.mp3"
+}

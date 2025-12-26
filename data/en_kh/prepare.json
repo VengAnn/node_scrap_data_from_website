@@ -1,0 +1,60 @@
+{
+  "word": "prepare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "To prepare pupils for an examination",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66426.png",
+      "local_image_path": "images/66426.png"
+    },
+    {
+      "pos": "iv",
+      "example": "We are prepared to supply the goods you ask for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66427.png",
+      "local_image_path": "images/66427.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prepare a dish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66422.png",
+      "local_image_path": "images/66422.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prepare lessons",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66423.png",
+      "local_image_path": "images/66423.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prepare an excuse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66424.png",
+      "local_image_path": "images/66424.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prepare oneself for bad news",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66425.png",
+      "local_image_path": "images/66425.png"
+    }
+  ],
+  "synonyms": [
+    "make",
+    "cook",
+    "train",
+    "groom",
+    "coach",
+    "prime"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "prepared",
+    "preparedly",
+    "preparedness",
+    "preparer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prepare.mp3",
+  "local_sound_path": "sounds/prepare.mp3"
+}

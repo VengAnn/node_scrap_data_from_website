@@ -1,0 +1,67 @@
+{
+  "word": "mission",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109513.png",
+      "local_image_path": "images/109513.png"
+    },
+    {
+      "pos": "n",
+      "example": "send a mission",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109514.png",
+      "local_image_path": "images/109514.png"
+    },
+    {
+      "pos": "n",
+      "example": "My mission in life is to help poor people.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109515.png",
+      "local_image_path": "images/109515.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124158.png",
+      "local_image_path": "images/124158.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124159.png",
+      "local_image_path": "images/124159.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124160.png",
+      "local_image_path": "images/124160.png"
+    }
+  ],
+  "synonyms": [
+    "calling",
+    "vocation",
+    "purpose",
+    "goal",
+    "aim",
+    "objective",
+    "duty",
+    "delegation",
+    "deputation",
+    "legation",
+    "group",
+    "embassy"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mission statement",
+    "missionary",
+    "missionate",
+    "missioner",
+    "missionize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mission.mp3",
+  "local_sound_path": "sounds/mission.mp3"
+}

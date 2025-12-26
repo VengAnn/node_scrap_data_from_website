@@ -1,0 +1,43 @@
+{
+  "word": "canteen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12736.png",
+      "local_image_path": "images/12736.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115927.png",
+      "local_image_path": "images/115927.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115928.png",
+      "local_image_path": "images/115928.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115929.png",
+      "local_image_path": "images/115929.png"
+    }
+  ],
+  "synonyms": [
+    "refectory",
+    "cafeteria",
+    "buffet",
+    "restaurant",
+    "mess",
+    "mess hall"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/canteen.mp3",
+  "local_sound_path": "sounds/canteen.mp3"
+}

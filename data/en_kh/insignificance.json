@@ -1,0 +1,39 @@
+{
+  "word": "insignificance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40546.png",
+      "local_image_path": "images/40546.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122549.png",
+      "local_image_path": "images/122549.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122550.png",
+      "local_image_path": "images/122550.png"
+    }
+  ],
+  "synonyms": [
+    "unimportance",
+    "irrelevance",
+    "inconsequentiality",
+    "triviality",
+    "paltriness",
+    "pettiness"
+  ],
+  "antonyms": [
+    "significance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/insignificance.mp3",
+  "local_sound_path": "sounds/insignificance.mp3"
+}

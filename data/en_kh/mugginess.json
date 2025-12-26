@@ -1,0 +1,40 @@
+{
+  "word": "mugginess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110912.png",
+      "local_image_path": "images/110912.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124378.png",
+      "local_image_path": "images/124378.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124379.png",
+      "local_image_path": "images/124379.png"
+    }
+  ],
+  "synonyms": [
+    "humidity",
+    "closeness",
+    "clamminess",
+    "oppressiveness",
+    "warmth",
+    "moistness",
+    "dampness",
+    "heat",
+    "stickiness"
+  ],
+  "antonyms": [
+    "freshness"
+  ],
+  "similar_words": [],
+  "sound": null
+}

@@ -1,0 +1,43 @@
+{
+  "word": "pretend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "pretend to be",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66725.png",
+      "local_image_path": "images/66725.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66726.png",
+      "local_image_path": "images/66726.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66724.png",
+      "local_image_path": "images/66724.png"
+    }
+  ],
+  "synonyms": [
+    "feign",
+    "affect",
+    "profess",
+    "simulate",
+    "fake",
+    "imitate"
+  ],
+  "antonyms": [
+    "real"
+  ],
+  "similar_words": [
+    "pretendant",
+    "pretended",
+    "pretender"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pretend.mp3",
+  "local_sound_path": "sounds/pretend.mp3"
+}

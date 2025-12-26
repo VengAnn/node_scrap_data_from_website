@@ -1,0 +1,98 @@
+{
+  "word": "pull",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "car won't pull",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68722.png",
+      "local_image_path": "images/68722.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68723.png",
+      "local_image_path": "images/68723.png"
+    },
+    {
+      "pos": "n",
+      "example": "give it a pull",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68724.png",
+      "local_image_path": "images/68724.png"
+    },
+    {
+      "pos": "n",
+      "example": "car has no pull",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68725.png",
+      "local_image_path": "images/68725.png"
+    },
+    {
+      "pos": "n",
+      "example": "the pull of the rich",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68726.png",
+      "local_image_path": "images/68726.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68727.png",
+      "local_image_path": "images/68727.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68728.png",
+      "local_image_path": "images/68728.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pull a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68719.png",
+      "local_image_path": "images/68719.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pull a tooth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68720.png",
+      "local_image_path": "images/68720.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68721.png",
+      "local_image_path": "images/68721.png"
+    }
+  ],
+  "synonyms": [
+    "remove",
+    "extract",
+    "withdraw"
+  ],
+  "antonyms": [
+    "push"
+  ],
+  "similar_words": [
+    "pull strategy",
+    "pull-in",
+    "pull-on",
+    "pull-up",
+    "pullback",
+    "pullen",
+    "puller",
+    "pullet",
+    "pulley",
+    "pullicate",
+    "pulling",
+    "pullman-car",
+    "pullorum disease",
+    "pullout",
+    "pullover",
+    "pullulant",
+    "pullulate",
+    "pullulation",
+    "pullulative"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pull.mp3",
+  "local_sound_path": "sounds/pull.mp3"
+}

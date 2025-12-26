@@ -1,0 +1,35 @@
+{
+  "word": "disorganization",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22008.png",
+      "local_image_path": "images/22008.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118556.png",
+      "local_image_path": "images/118556.png"
+    }
+  ],
+  "synonyms": [
+    "incompetence",
+    "inadequacy",
+    "wastefulness",
+    "ineptitude",
+    "ineffectiveness",
+    "inefficiency",
+    "disorder"
+  ],
+  "antonyms": [
+    "efficiency",
+    "organization"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disorganization.mp3",
+  "local_sound_path": "sounds/disorganization.mp3"
+}

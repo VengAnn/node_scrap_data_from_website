@@ -1,0 +1,80 @@
+{
+  "word": "ask",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "ask not to be named",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5783.png",
+      "local_image_path": "images/5783.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Did he ask after me?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5782.png",
+      "local_image_path": "images/5782.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114077.png",
+      "local_image_path": "images/114077.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114078.png",
+      "local_image_path": "images/114078.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114079.png",
+      "local_image_path": "images/114079.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114080.png",
+      "local_image_path": "images/114080.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114081.png",
+      "local_image_path": "images/114081.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114082.png",
+      "local_image_path": "images/114082.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114083.png",
+      "local_image_path": "images/114083.png"
+    }
+  ],
+  "synonyms": [
+    "expect",
+    "demand",
+    "pose",
+    "put",
+    "raise",
+    "enquire"
+  ],
+  "antonyms": [
+    "answer"
+  ],
+  "similar_words": [
+    "askance",
+    "asker",
+    "askew",
+    "asking"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ask.mp3",
+  "local_sound_path": "sounds/ask.mp3"
+}

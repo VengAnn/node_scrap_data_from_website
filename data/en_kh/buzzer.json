@@ -1,0 +1,22 @@
+{
+  "word": "buzzer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12130.png",
+      "local_image_path": "images/12130.png"
+    }
+  ],
+  "synonyms": [
+    "signal",
+    "timer",
+    "bell"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buzzer.mp3",
+  "local_sound_path": "sounds/buzzer.mp3"
+}

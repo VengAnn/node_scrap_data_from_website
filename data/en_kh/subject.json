@@ -1,0 +1,87 @@
+{
+  "word": "subject",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85739.png",
+      "local_image_path": "images/85739.png"
+    },
+    {
+      "pos": "n",
+      "example": "subject of discussion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85733.png",
+      "local_image_path": "images/85733.png"
+    },
+    {
+      "pos": "n",
+      "example": "study a subject",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85734.png",
+      "local_image_path": "images/85734.png"
+    },
+    {
+      "pos": "n",
+      "example": "subject of investigation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85735.png",
+      "local_image_path": "images/85735.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85736.png",
+      "local_image_path": "images/85736.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85737.png",
+      "local_image_path": "images/85737.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85738.png",
+      "local_image_path": "images/85738.png"
+    },
+    {
+      "pos": "tv",
+      "example": "subject a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85740.png",
+      "local_image_path": "images/85740.png"
+    },
+    {
+      "pos": "tv",
+      "example": "subject metal to intense heat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85741.png",
+      "local_image_path": "images/85741.png"
+    },
+    {
+      "pos": "tv",
+      "example": "subject them to ridicule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85742.png",
+      "local_image_path": "images/85742.png"
+    }
+  ],
+  "synonyms": [
+    "specialty",
+    "expose",
+    "endanger",
+    "imperil"
+  ],
+  "antonyms": [
+    "sovereign"
+  ],
+  "similar_words": [
+    "subject centered",
+    "subject matter",
+    "subjection",
+    "subjective",
+    "subjectively",
+    "subjectivity",
+    "subjectless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subject.mp3",
+  "local_sound_path": "sounds/subject.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "conquest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16923.png",
+      "local_image_path": "images/16923.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117283.png",
+      "local_image_path": "images/117283.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117284.png",
+      "local_image_path": "images/117284.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117285.png",
+      "local_image_path": "images/117285.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117286.png",
+      "local_image_path": "images/117286.png"
+    }
+  ],
+  "synonyms": [
+    "victory",
+    "triumph",
+    "success",
+    "win"
+  ],
+  "antonyms": [
+    "surrender",
+    "defeat"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conquest.mp3",
+  "local_sound_path": "sounds/conquest.mp3"
+}

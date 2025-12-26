@@ -1,0 +1,34 @@
+{
+  "word": "flesh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "human flesh",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29021.png",
+      "local_image_path": "images/29021.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29022.png",
+      "local_image_path": "images/29022.png"
+    }
+  ],
+  "synonyms": [
+    "tissue",
+    "muscle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "flesh wound",
+    "flesh-pots",
+    "fleshless",
+    "fleshliness",
+    "fleshly",
+    "fleshy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flesh.mp3",
+  "local_sound_path": "sounds/flesh.mp3"
+}

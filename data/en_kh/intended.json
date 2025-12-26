@@ -1,0 +1,57 @@
+{
+  "word": "intended",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "intended effect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41009.png",
+      "local_image_path": "images/41009.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41010.png",
+      "local_image_path": "images/41010.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122683.png",
+      "local_image_path": "images/122683.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122684.png",
+      "local_image_path": "images/122684.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122685.png",
+      "local_image_path": "images/122685.png"
+    }
+  ],
+  "synonyms": [
+    "intentional",
+    "deliberate",
+    "premeditated",
+    "calculated",
+    "meant",
+    "proposed",
+    "planned",
+    "expected"
+  ],
+  "antonyms": [
+    "accidental"
+  ],
+  "similar_words": [
+    "intended wife",
+    "intendedly",
+    "intendedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intended.mp3",
+  "local_sound_path": "sounds/intended.mp3"
+}

@@ -1,0 +1,67 @@
+{
+  "word": "fear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27904.png",
+      "local_image_path": "images/27904.png"
+    },
+    {
+      "pos": "n",
+      "example": "fear of death",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27901.png",
+      "local_image_path": "images/27901.png"
+    },
+    {
+      "pos": "n",
+      "example": "hold no fears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27902.png",
+      "local_image_path": "images/27902.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119979.png",
+      "local_image_path": "images/119979.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119980.png",
+      "local_image_path": "images/119980.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119981.png",
+      "local_image_path": "images/119981.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fear death",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27903.png",
+      "local_image_path": "images/27903.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "assurance"
+  ],
+  "similar_words": [
+    "fearful",
+    "fearfully",
+    "fearfulness",
+    "fearless",
+    "fearlessly",
+    "fearlessness",
+    "fearnought",
+    "fearsome",
+    "fearsomely",
+    "fearsomeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fear.mp3",
+  "local_sound_path": "sounds/fear.mp3"
+}

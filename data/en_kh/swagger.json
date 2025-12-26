@@ -1,0 +1,44 @@
+{
+  "word": "swagger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86711.png",
+      "local_image_path": "images/86711.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86712.png",
+      "local_image_path": "images/86712.png"
+    }
+  ],
+  "synonyms": [
+    "boastfulness",
+    "arrogance",
+    "bluster",
+    "conceit",
+    "strut",
+    "parade",
+    "flounce",
+    "sweep",
+    "sway",
+    "prance",
+    "sashay",
+    "saunter"
+  ],
+  "antonyms": [
+    "shuffle",
+    "timidity",
+    "creep"
+  ],
+  "similar_words": [
+    "swaggerer",
+    "swaggering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swagger.mp3",
+  "local_sound_path": "sounds/swagger.mp3"
+}

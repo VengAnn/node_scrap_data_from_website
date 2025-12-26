@@ -1,0 +1,71 @@
+{
+  "word": "tea",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "drink tea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87772.png",
+      "local_image_path": "images/87772.png"
+    },
+    {
+      "pos": "n",
+      "example": "give a tea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87774.png",
+      "local_image_path": "images/87774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87775.png",
+      "local_image_path": "images/87775.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87773.png",
+      "local_image_path": "images/87773.png"
+    }
+  ],
+  "synonyms": [
+    "mealtime",
+    "feast",
+    "banquet",
+    "breakfast",
+    "brunch",
+    "lunch",
+    "dinner",
+    "supper"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tea dance",
+    "tea garden",
+    "tea party",
+    "tea plant",
+    "tea shop",
+    "tea strainer",
+    "tea table",
+    "tea taster",
+    "tea time",
+    "tea tray",
+    "tea wagon",
+    "tea-break",
+    "tea-caddy",
+    "tea-leaf",
+    "tea-saucer",
+    "teabag",
+    "teach",
+    "teach in",
+    "teachability",
+    "teachable",
+    "teachableness",
+    "teachably",
+    "teacher",
+    "teachership",
+    "teaching"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tea.mp3",
+  "local_sound_path": "sounds/tea.mp3"
+}

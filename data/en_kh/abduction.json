@@ -1,0 +1,41 @@
+{
+  "word": "abduction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1367.png",
+      "local_image_path": "images/1367.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111515.png",
+      "local_image_path": "images/111515.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131063.png",
+      "local_image_path": "images/131063.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131064.png",
+      "local_image_path": "images/131064.png"
+    }
+  ],
+  "synonyms": [
+    "kidnap",
+    "seizure",
+    "kidnapping",
+    "capture"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abduction.mp3",
+  "local_sound_path": "sounds/abduction.mp3"
+}

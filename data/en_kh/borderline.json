@@ -1,0 +1,46 @@
+{
+  "word": "borderline",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10235.png",
+      "local_image_path": "images/10235.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115408.png",
+      "local_image_path": "images/115408.png"
+    },
+    {
+      "pos": "n",
+      "example": "borderline between two countries",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10234.png",
+      "local_image_path": "images/10234.png"
+    }
+  ],
+  "synonyms": [
+    "average",
+    "mean",
+    "mediocre",
+    "norm",
+    "medium",
+    "intermediate",
+    "frontier",
+    "edge",
+    "limit",
+    "margin",
+    "periphery",
+    "border",
+    "boundary"
+  ],
+  "antonyms": [
+    "clear-cut"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/borderline.mp3",
+  "local_sound_path": "sounds/borderline.mp3"
+}

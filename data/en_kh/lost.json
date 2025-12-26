@@ -1,0 +1,33 @@
+{
+  "word": "lost",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lost book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47691.png",
+      "local_image_path": "images/47691.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lost in the woods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47692.png",
+      "local_image_path": "images/47692.png"
+    }
+  ],
+  "synonyms": [
+    "forlorn",
+    "vulnerable",
+    "abandoned",
+    "alone",
+    "aimless",
+    "helpless"
+  ],
+  "antonyms": [
+    "found"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lost.mp3",
+  "local_sound_path": "sounds/lost.mp3"
+}

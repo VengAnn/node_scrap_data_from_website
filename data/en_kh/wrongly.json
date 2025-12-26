@@ -1,0 +1,26 @@
+{
+  "word": "wrongly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101226.png",
+      "local_image_path": "images/101226.png"
+    }
+  ],
+  "synonyms": [
+    "unsuitably",
+    "improperly",
+    "inappropriately",
+    "incorrectly"
+  ],
+  "antonyms": [
+    "correctly",
+    "rightly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wrongly.mp3",
+  "local_sound_path": "sounds/wrongly.mp3"
+}

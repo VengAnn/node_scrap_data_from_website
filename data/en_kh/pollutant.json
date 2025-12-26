@@ -1,0 +1,30 @@
+{
+  "word": "pollutant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64823.png",
+      "local_image_path": "images/64823.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131617.png",
+      "local_image_path": "images/131617.png"
+    }
+  ],
+  "synonyms": [
+    "contaminant",
+    "impurity",
+    "toxin",
+    "poison",
+    "chemical"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pollutant.mp3",
+  "local_sound_path": "sounds/pollutant.mp3"
+}

@@ -1,0 +1,61 @@
+{
+  "word": "develop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "country will develop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21070.png",
+      "local_image_path": "images/21070.png"
+    },
+    {
+      "pos": "tv",
+      "example": "develop a plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21067.png",
+      "local_image_path": "images/21067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "develop a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21068.png",
+      "local_image_path": "images/21068.png"
+    },
+    {
+      "pos": "tv",
+      "example": "develop film",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21069.png",
+      "local_image_path": "images/21069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118212.png",
+      "local_image_path": "images/118212.png"
+    }
+  ],
+  "synonyms": [
+    "acquire",
+    "form",
+    "improve",
+    "polish"
+  ],
+  "antonyms": [
+    "contract",
+    "outline"
+  ],
+  "similar_words": [
+    "developed",
+    "developed country",
+    "developer",
+    "developing",
+    "development",
+    "development area",
+    "development project",
+    "development strategy",
+    "developmental",
+    "developmentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/develop.mp3",
+  "local_sound_path": "sounds/develop.mp3"
+}

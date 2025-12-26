@@ -1,0 +1,38 @@
+{
+  "word": "chaff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13701.png",
+      "local_image_path": "images/13701.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13703.png",
+      "local_image_path": "images/13703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13702.png",
+      "local_image_path": "images/13702.png"
+    }
+  ],
+  "synonyms": [
+    "tease",
+    "mock",
+    "josh",
+    "banter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chaffer",
+    "chaffinch"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chaff.mp3",
+  "local_sound_path": "sounds/chaff.mp3"
+}

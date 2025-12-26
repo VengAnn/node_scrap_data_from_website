@@ -1,0 +1,49 @@
+{
+  "word": "sift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79918.png",
+      "local_image_path": "images/79918.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sift evidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79914.png",
+      "local_image_path": "images/79914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sift sand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79915.png",
+      "local_image_path": "images/79915.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79916.png",
+      "local_image_path": "images/79916.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79917.png",
+      "local_image_path": "images/79917.png"
+    }
+  ],
+  "synonyms": [
+    "examine",
+    "select",
+    "sieve",
+    "filter",
+    "separate",
+    "strain"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sift.mp3",
+  "local_sound_path": "sounds/sift.mp3"
+}

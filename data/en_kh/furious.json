@@ -1,0 +1,40 @@
+{
+  "word": "furious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30684.png",
+      "local_image_path": "images/30684.png"
+    },
+    {
+      "pos": "adj",
+      "example": "furious parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30685.png",
+      "local_image_path": "images/30685.png"
+    },
+    {
+      "pos": "adj",
+      "example": "furious activity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30686.png",
+      "local_image_path": "images/30686.png"
+    }
+  ],
+  "synonyms": [
+    "angry",
+    "livid",
+    "mad",
+    "irate",
+    "upset"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [
+    "furiously"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/furious.mp3",
+  "local_sound_path": "sounds/furious.mp3"
+}

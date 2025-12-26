@@ -1,0 +1,33 @@
+{
+  "word": "artillery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "heavy artillery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5678.png",
+      "local_image_path": "images/5678.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112715.png",
+      "local_image_path": "images/112715.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112716.png",
+      "local_image_path": "images/112716.png"
+    }
+  ],
+  "synonyms": [
+    "weaponry",
+    "arms"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/artillery.mp3",
+  "local_sound_path": "sounds/artillery.mp3"
+}

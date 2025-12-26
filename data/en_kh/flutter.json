@@ -1,0 +1,69 @@
+{
+  "word": "flutter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wings flutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29351.png",
+      "local_image_path": "images/29351.png"
+    },
+    {
+      "pos": "iv",
+      "example": "heart flutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29352.png",
+      "local_image_path": "images/29352.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29354.png",
+      "local_image_path": "images/29354.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a flutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29355.png",
+      "local_image_path": "images/29355.png"
+    },
+    {
+      "pos": "n",
+      "example": "cause a flutter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29356.png",
+      "local_image_path": "images/29356.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120289.png",
+      "local_image_path": "images/120289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29353.png",
+      "local_image_path": "images/29353.png"
+    }
+  ],
+  "synonyms": [
+    "excitement",
+    "flurry",
+    "state",
+    "agitation",
+    "beat",
+    "flap",
+    "wave",
+    "tremble",
+    "quiver",
+    "waver",
+    "flicker",
+    "pulsate"
+  ],
+  "antonyms": [
+    "composure"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flutter.mp3",
+  "local_sound_path": "sounds/flutter.mp3"
+}

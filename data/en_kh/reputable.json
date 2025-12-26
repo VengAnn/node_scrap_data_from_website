@@ -1,0 +1,42 @@
+{
+  "word": "reputable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72539.png",
+      "local_image_path": "images/72539.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126920.png",
+      "local_image_path": "images/126920.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126921.png",
+      "local_image_path": "images/126921.png"
+    }
+  ],
+  "synonyms": [
+    "trustworthy",
+    "sound",
+    "upright",
+    "honest",
+    "decent",
+    "dependable",
+    "reliable",
+    "respectable",
+    "well-thought-of"
+  ],
+  "antonyms": [
+    "disreputable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reputable.mp3",
+  "local_sound_path": "sounds/reputable.mp3"
+}

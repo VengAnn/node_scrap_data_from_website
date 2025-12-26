@@ -1,0 +1,44 @@
+{
+  "word": "budge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "whell won't budge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11659.png",
+      "local_image_path": "images/11659.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He won't budge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11660.png",
+      "local_image_path": "images/11660.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I can't budge the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11661.png",
+      "local_image_path": "images/11661.png"
+    }
+  ],
+  "synonyms": [
+    "move",
+    "shift",
+    "dislodge",
+    "nudge",
+    "shunt",
+    "push",
+    "shove"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "budgerigar",
+    "budgerow",
+    "budget",
+    "budget account",
+    "budgetary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/budge.mp3",
+  "local_sound_path": "sounds/budge.mp3"
+}

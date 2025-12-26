@@ -1,0 +1,37 @@
+{
+  "word": "foresight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29773.png",
+      "local_image_path": "images/29773.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120342.png",
+      "local_image_path": "images/120342.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120343.png",
+      "local_image_path": "images/120343.png"
+    }
+  ],
+  "synonyms": [
+    "forethought",
+    "prudence",
+    "insight",
+    "prescience"
+  ],
+  "antonyms": [
+    "hindsight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foresight.mp3",
+  "local_sound_path": "sounds/foresight.mp3"
+}

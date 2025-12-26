@@ -1,0 +1,50 @@
+{
+  "word": "modernize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109858.png",
+      "local_image_path": "images/109858.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109859.png",
+      "local_image_path": "images/109859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "If the industry doesn't modernize it will not service.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109860.png",
+      "local_image_path": "images/109860.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124219.png",
+      "local_image_path": "images/124219.png"
+    }
+  ],
+  "synonyms": [
+    "update",
+    "revise",
+    "renew",
+    "renovate",
+    "change",
+    "modify",
+    "adapt",
+    "adjust",
+    "amend",
+    "transform",
+    "alter"
+  ],
+  "antonyms": [
+    "regress"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/modernize.mp3",
+  "local_sound_path": "sounds/modernize.mp3"
+}

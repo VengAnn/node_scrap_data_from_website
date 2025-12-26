@@ -1,0 +1,75 @@
+{
+  "word": "little",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "little house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47074.png",
+      "local_image_path": "images/47074.png"
+    },
+    {
+      "pos": "adj",
+      "example": "little hope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47075.png",
+      "local_image_path": "images/47075.png"
+    },
+    {
+      "pos": "adj",
+      "example": "little while",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47076.png",
+      "local_image_path": "images/47076.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47077.png",
+      "local_image_path": "images/47077.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47078.png",
+      "local_image_path": "images/47078.png"
+    },
+    {
+      "pos": "adv",
+      "example": "little by little",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47079.png",
+      "local_image_path": "images/47079.png"
+    },
+    {
+      "pos": "n",
+      "example": "I have very little time for reading.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47080.png",
+      "local_image_path": "images/47080.png"
+    }
+  ],
+  "synonyms": [
+    "insufficiently",
+    "inadequately",
+    "barely",
+    "hardly"
+  ],
+  "antonyms": [
+    "large",
+    "major",
+    "well",
+    "mound"
+  ],
+  "similar_words": [
+    "little bitty",
+    "little by little",
+    "little finger",
+    "little man",
+    "little people",
+    "little slam",
+    "little toe",
+    "little woman",
+    "little-go",
+    "littleness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/little.mp3",
+  "local_sound_path": "sounds/little.mp3"
+}

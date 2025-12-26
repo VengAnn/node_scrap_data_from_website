@@ -1,0 +1,47 @@
+{
+  "word": "church",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14484.png",
+      "local_image_path": "images/14484.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14482.png",
+      "local_image_path": "images/14482.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14483.png",
+      "local_image_path": "images/14483.png"
+    }
+  ],
+  "synonyms": [
+    "minster",
+    "cathedral",
+    "basilica"
+  ],
+  "antonyms": [
+    "secular"
+  ],
+  "similar_words": [
+    "churchgoer",
+    "churchgoing",
+    "churchliness",
+    "churchly",
+    "churchman",
+    "churchmanly",
+    "churchmanship",
+    "churchwarden",
+    "churchwoman",
+    "churchyard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/church.mp3",
+  "local_sound_path": "sounds/church.mp3"
+}

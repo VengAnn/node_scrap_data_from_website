@@ -1,0 +1,34 @@
+{
+  "word": "servant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "domestic servant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78356.png",
+      "local_image_path": "images/78356.png"
+    },
+    {
+      "pos": "n",
+      "example": "public servant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78357.png",
+      "local_image_path": "images/78357.png"
+    }
+  ],
+  "synonyms": [
+    "domestic",
+    "retainer",
+    "help"
+  ],
+  "antonyms": [
+    "employer"
+  ],
+  "similar_words": [
+    "servantless",
+    "servantry",
+    "servantship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/servant.mp3",
+  "local_sound_path": "sounds/servant.mp3"
+}

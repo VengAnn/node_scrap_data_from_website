@@ -1,0 +1,30 @@
+{
+  "word": "garland",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31066.png",
+      "local_image_path": "images/31066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31067.png",
+      "local_image_path": "images/31067.png"
+    }
+  ],
+  "synonyms": [
+    "wreath",
+    "swag",
+    "festoon",
+    "drape",
+    "chain"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/garland.mp3",
+  "local_sound_path": "sounds/garland.mp3"
+}

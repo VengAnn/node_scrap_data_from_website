@@ -1,0 +1,40 @@
+{
+  "word": "enticing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "An enticing smell came from the bakery.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25306.png",
+      "local_image_path": "images/25306.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119265.png",
+      "local_image_path": "images/119265.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119266.png",
+      "local_image_path": "images/119266.png"
+    }
+  ],
+  "synonyms": [
+    "attractive",
+    "inviting",
+    "appealing",
+    "tantalizing",
+    "beguiling",
+    "charming",
+    "fascinating"
+  ],
+  "antonyms": [
+    "uninviting"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enticing.mp3",
+  "local_sound_path": "sounds/enticing.mp3"
+}

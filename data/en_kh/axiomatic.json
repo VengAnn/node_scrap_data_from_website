@@ -1,0 +1,39 @@
+{
+  "word": "axiomatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6831.png",
+      "local_image_path": "images/6831.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112961.png",
+      "local_image_path": "images/112961.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112962.png",
+      "local_image_path": "images/112962.png"
+    }
+  ],
+  "synonyms": [
+    "self-evident",
+    "obvious",
+    "manifest",
+    "clear",
+    "accepted"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "axiomatical",
+    "axiomatically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/axiomatic.mp3",
+  "local_sound_path": "sounds/axiomatic.mp3"
+}

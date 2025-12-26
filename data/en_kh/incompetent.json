@@ -1,0 +1,51 @@
+{
+  "word": "incompetent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38521.png",
+      "local_image_path": "images/38521.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121989.png",
+      "local_image_path": "images/121989.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121990.png",
+      "local_image_path": "images/121990.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38522.png",
+      "local_image_path": "images/38522.png"
+    }
+  ],
+  "synonyms": [
+    "useless",
+    "inept",
+    "unskilled",
+    "ineffectual",
+    "hopeless",
+    "unapt",
+    "unable",
+    "incapable"
+  ],
+  "antonyms": [
+    "competent",
+    "able"
+  ],
+  "similar_words": [
+    "incompetent evidence",
+    "incompetently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incompetent.mp3",
+  "local_sound_path": "sounds/incompetent.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "covert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18236.png",
+      "local_image_path": "images/18236.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18237.png",
+      "local_image_path": "images/18237.png"
+    }
+  ],
+  "synonyms": [
+    "copse",
+    "wood",
+    "thicket",
+    "coppice",
+    "undergrowth"
+  ],
+  "antonyms": [
+    "open"
+  ],
+  "similar_words": [
+    "covertly",
+    "covertness",
+    "coverture"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/covert.mp3",
+  "local_sound_path": "sounds/covert.mp3"
+}

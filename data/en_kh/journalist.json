@@ -1,0 +1,29 @@
+{
+  "word": "journalist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43247.png",
+      "local_image_path": "images/43247.png"
+    }
+  ],
+  "synonyms": [
+    "reporter",
+    "correspondent",
+    "writer",
+    "columnist",
+    "commentator",
+    "broadcaster"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "journalist's privilege",
+    "journalistic",
+    "journalistically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/journalist.mp3",
+  "local_sound_path": "sounds/journalist.mp3"
+}

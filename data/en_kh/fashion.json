@@ -1,0 +1,52 @@
+{
+  "word": "fashion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the latest fashion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27717.png",
+      "local_image_path": "images/27717.png"
+    },
+    {
+      "pos": "n",
+      "example": "He walks in a peculiar fashion.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27718.png",
+      "local_image_path": "images/27718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27719.png",
+      "local_image_path": "images/27719.png"
+    }
+  ],
+  "synonyms": [
+    "shape",
+    "mold",
+    "form",
+    "make",
+    "fit",
+    "alter",
+    "transform",
+    "create",
+    "frame",
+    "devise",
+    "adapt",
+    "pattern",
+    "fabricate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fashion statement",
+    "fashionability",
+    "fashionable",
+    "fashionableness",
+    "fashionably",
+    "fashionista",
+    "fashionmonger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fashion.mp3",
+  "local_sound_path": "sounds/fashion.mp3"
+}

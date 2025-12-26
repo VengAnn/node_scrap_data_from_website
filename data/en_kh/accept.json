@@ -1,0 +1,55 @@
+{
+  "word": "accept",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "accept a gift",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1795.png",
+      "local_image_path": "images/1795.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111992.png",
+      "local_image_path": "images/111992.png"
+    }
+  ],
+  "synonyms": [
+    "undertake",
+    "acknowledge",
+    "assume",
+    "endure",
+    "tolerate",
+    "take",
+    "bow"
+  ],
+  "antonyms": [
+    "deny",
+    "turn down",
+    "refuse",
+    "reject"
+  ],
+  "similar_words": [
+    "acceptability",
+    "acceptable",
+    "acceptableness",
+    "acceptably",
+    "acceptance",
+    "acceptance certificate",
+    "acceptance commission",
+    "acceptance credit",
+    "acceptance house",
+    "acceptant",
+    "acceptation",
+    "accepted",
+    "accepter",
+    "acceptilation",
+    "accepting house",
+    "acception",
+    "acceptor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accept.mp3",
+  "local_sound_path": "sounds/accept.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "commerce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "foreign commerce",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15988.png",
+      "local_image_path": "images/15988.png"
+    }
+  ],
+  "synonyms": [
+    "trade",
+    "business",
+    "export",
+    "import",
+    "buying",
+    "selling",
+    "exchange",
+    "retail",
+    "wholesale",
+    "market"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/commerce.mp3",
+  "local_sound_path": "sounds/commerce.mp3"
+}

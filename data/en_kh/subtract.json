@@ -1,0 +1,21 @@
+{
+  "word": "subtract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "subtract 5 from 9",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111575.png",
+      "local_image_path": "images/111575.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "subtracted",
+    "subtraction"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subtract.mp3",
+  "local_sound_path": "sounds/subtract.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "crumb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18844.png",
+      "local_image_path": "images/18844.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18842.png",
+      "local_image_path": "images/18842.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crumb meat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18843.png",
+      "local_image_path": "images/18843.png"
+    }
+  ],
+  "synonyms": [
+    "morsel",
+    "scrap",
+    "tidbit",
+    "bit",
+    "speck",
+    "spot",
+    "fragment",
+    "iota"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "crumble",
+    "crumbly",
+    "crumbs"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crumb.mp3",
+  "local_sound_path": "sounds/crumb.mp3"
+}

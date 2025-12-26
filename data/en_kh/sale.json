@@ -1,0 +1,65 @@
+{
+  "word": "sale",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the sale of merchandise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75233.png",
+      "local_image_path": "images/75233.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75234.png",
+      "local_image_path": "images/75234.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75235.png",
+      "local_image_path": "images/75235.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75236.png",
+      "local_image_path": "images/75236.png"
+    }
+  ],
+  "synonyms": [
+    "transaction",
+    "deal",
+    "trade",
+    "vending",
+    "retailing",
+    "selling"
+  ],
+  "antonyms": [
+    "purchase"
+  ],
+  "similar_words": [
+    "sale in gross",
+    "sale talk",
+    "sale woman",
+    "sale-price",
+    "sale-room",
+    "saleability",
+    "saleable",
+    "salep",
+    "saleratus",
+    "sales check",
+    "sales clerk",
+    "sales tax",
+    "sales' lady",
+    "salesable",
+    "salesgirl",
+    "salesman",
+    "salesmanship",
+    "salespeople",
+    "salesperson"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sale.mp3",
+  "local_sound_path": "sounds/sale.mp3"
+}

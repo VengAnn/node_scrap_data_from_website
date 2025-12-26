@@ -1,0 +1,80 @@
+{
+  "word": "list",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46929.png",
+      "local_image_path": "images/46929.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46927.png",
+      "local_image_path": "images/46927.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46931.png",
+      "local_image_path": "images/46931.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46928.png",
+      "local_image_path": "images/46928.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The damaged vessel was listing badly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46930.png",
+      "local_image_path": "images/46930.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123574.png",
+      "local_image_path": "images/123574.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123575.png",
+      "local_image_path": "images/123575.png"
+    }
+  ],
+  "synonyms": [
+    "slant",
+    "tilt",
+    "incline",
+    "lean",
+    "record",
+    "catalog",
+    "catalogue",
+    "register",
+    "itemize",
+    "enumerate",
+    "inventory"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "list renting",
+    "listen",
+    "listen for",
+    "listen in",
+    "listen out",
+    "listener",
+    "listening",
+    "lister",
+    "listing",
+    "listless",
+    "listlessly",
+    "listlessness",
+    "listy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/list.mp3",
+  "local_sound_path": "sounds/list.mp3"
+}

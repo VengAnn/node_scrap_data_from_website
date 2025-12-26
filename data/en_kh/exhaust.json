@@ -1,0 +1,83 @@
+{
+  "word": "exhaust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "blace exhaust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26591.png",
+      "local_image_path": "images/26591.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26592.png",
+      "local_image_path": "images/26592.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119636.png",
+      "local_image_path": "images/119636.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26586.png",
+      "local_image_path": "images/26586.png"
+    },
+    {
+      "pos": "tv",
+      "example": "exhaust gas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26587.png",
+      "local_image_path": "images/26587.png"
+    },
+    {
+      "pos": "tv",
+      "example": "exhaust one's energy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26588.png",
+      "local_image_path": "images/26588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "exhaust every means",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26589.png",
+      "local_image_path": "images/26589.png"
+    },
+    {
+      "pos": "tv",
+      "example": "exhaust a worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26590.png",
+      "local_image_path": "images/26590.png"
+    }
+  ],
+  "synonyms": [
+    "use",
+    "finish",
+    "consume",
+    "drain",
+    "deplete",
+    "sap",
+    "tire",
+    "fatigue",
+    "weaken"
+  ],
+  "antonyms": [
+    "refresh",
+    "renew"
+  ],
+  "similar_words": [
+    "exhaust pipe",
+    "exhausted",
+    "exhaustibility",
+    "exhaustible",
+    "exhaustion",
+    "exhaustive",
+    "exhaustless",
+    "exhaustlessly",
+    "exhaustlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exhaust.mp3",
+  "local_sound_path": "sounds/exhaust.mp3"
+}

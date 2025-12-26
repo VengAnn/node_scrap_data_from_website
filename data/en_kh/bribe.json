@@ -1,0 +1,36 @@
+{
+  "word": "bribe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "It's no use offering a bribe to Mr. Sok",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11020.png",
+      "local_image_path": "images/11020.png"
+    },
+    {
+      "pos": "tv",
+      "example": "is it possible to escape punishment by bribing the judge?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11021.png",
+      "local_image_path": "images/11021.png"
+    }
+  ],
+  "synonyms": [
+    "induce",
+    "corrupt",
+    "entice",
+    "suborn",
+    "persuade"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bribeable",
+    "bribee",
+    "bribeless",
+    "briber",
+    "bribery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bribe.mp3",
+  "local_sound_path": "sounds/bribe.mp3"
+}

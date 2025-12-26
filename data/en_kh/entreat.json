@@ -1,0 +1,32 @@
+{
+  "word": "entreat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I entreat you to show mercy.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25340.png",
+      "local_image_path": "images/25340.png"
+    }
+  ],
+  "synonyms": [
+    "plead",
+    "implore",
+    "beg",
+    "pray",
+    "beseech",
+    "ask",
+    "request"
+  ],
+  "antonyms": [
+    "demand"
+  ],
+  "similar_words": [
+    "entreating",
+    "entreatingly",
+    "entreaty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entreat.mp3",
+  "local_sound_path": "sounds/entreat.mp3"
+}

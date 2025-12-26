@@ -1,0 +1,60 @@
+{
+  "word": "easy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "easy task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23718.png",
+      "local_image_path": "images/23718.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23719.png",
+      "local_image_path": "images/23719.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130278.png",
+      "local_image_path": "images/130278.png"
+    },
+    {
+      "pos": "adv",
+      "example": "to go easy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23720.png",
+      "local_image_path": "images/23720.png"
+    }
+  ],
+  "synonyms": [
+    "comfortable",
+    "relaxed",
+    "laid-back",
+    "calm",
+    "cool",
+    "tranquil",
+    "simple",
+    "straightforward",
+    "effortless",
+    "uncomplicated",
+    "unproblematic",
+    "painless"
+  ],
+  "antonyms": [
+    "difficult",
+    "hard",
+    "anxious",
+    "tense"
+  ],
+  "similar_words": [
+    "easy money",
+    "easy money policy",
+    "easy terms",
+    "easy-chair",
+    "easygoing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/easy.mp3",
+  "local_sound_path": "sounds/easy.mp3"
+}

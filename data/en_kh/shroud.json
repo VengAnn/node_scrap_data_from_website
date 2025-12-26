@@ -1,0 +1,63 @@
+{
+  "word": "shroud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79634.png",
+      "local_image_path": "images/79634.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79628.png",
+      "local_image_path": "images/79628.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79629.png",
+      "local_image_path": "images/79629.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79630.png",
+      "local_image_path": "images/79630.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79631.png",
+      "local_image_path": "images/79631.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79632.png",
+      "local_image_path": "images/79632.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79633.png",
+      "local_image_path": "images/79633.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "hide",
+    "cloak",
+    "blanket",
+    "veil",
+    "wrap",
+    "envelop",
+    "swathe"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shroud.mp3",
+  "local_sound_path": "sounds/shroud.mp3"
+}

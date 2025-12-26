@@ -1,0 +1,46 @@
+{
+  "word": "development",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "development of a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21076.png",
+      "local_image_path": "images/21076.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118214.png",
+      "local_image_path": "images/118214.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118215.png",
+      "local_image_path": "images/118215.png"
+    }
+  ],
+  "synonyms": [
+    "event",
+    "happening",
+    "occurrence",
+    "change",
+    "incident",
+    "stage"
+  ],
+  "antonyms": [
+    "decrease",
+    "stasis"
+  ],
+  "similar_words": [
+    "development area",
+    "development project",
+    "development strategy",
+    "developmental",
+    "developmentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/development.mp3",
+  "local_sound_path": "sounds/development.mp3"
+}

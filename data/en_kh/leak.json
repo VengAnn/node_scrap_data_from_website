@@ -1,0 +1,92 @@
+{
+  "word": "leak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "This boat leaks very badly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45470.png",
+      "local_image_path": "images/45470.png"
+    },
+    {
+      "pos": "iv",
+      "example": "leak out (of information)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45471.png",
+      "local_image_path": "images/45471.png"
+    },
+    {
+      "pos": "iv",
+      "example": "secrets leak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45472.png",
+      "local_image_path": "images/45472.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123414.png",
+      "local_image_path": "images/123414.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123415.png",
+      "local_image_path": "images/123415.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123416.png",
+      "local_image_path": "images/123416.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123417.png",
+      "local_image_path": "images/123417.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45475.png",
+      "local_image_path": "images/45475.png"
+    },
+    {
+      "pos": "n",
+      "example": "news leaks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45476.png",
+      "local_image_path": "images/45476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45473.png",
+      "local_image_path": "images/45473.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45474.png",
+      "local_image_path": "images/45474.png"
+    }
+  ],
+  "synonyms": [
+    "disclosure",
+    "betrayal",
+    "giveaway",
+    "revelation",
+    "disclose",
+    "reveal",
+    "betray",
+    "uncover"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "leakage",
+    "leaked",
+    "leaker",
+    "leaky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/leak.mp3",
+  "local_sound_path": "sounds/leak.mp3"
+}

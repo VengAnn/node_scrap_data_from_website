@@ -1,0 +1,64 @@
+{
+  "word": "ship",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "passenger ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79167.png",
+      "local_image_path": "images/79167.png"
+    },
+    {
+      "pos": "suf",
+      "example": "friendship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79169.png",
+      "local_image_path": "images/79169.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ship merchandise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79168.png",
+      "local_image_path": "images/79168.png"
+    }
+  ],
+  "synonyms": [
+    "send",
+    "transport",
+    "distribute",
+    "dispatch",
+    "convey"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ship money",
+    "ship off",
+    "ship rat",
+    "ship-biscuit",
+    "ship-boy",
+    "ship-canal",
+    "ship-captain",
+    "ship-chandler",
+    "ship-fever",
+    "ship-jack",
+    "ship-lift",
+    "ship-load",
+    "ship-of-war",
+    "shipboard",
+    "shipbuilder",
+    "shipbuilding",
+    "shipman",
+    "shipmaster",
+    "shipmate",
+    "shipment",
+    "shipment contract",
+    "shipowner",
+    "shipper",
+    "shipping",
+    "shipping articles",
+    "shipping clerk",
+    "shipping office"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ship.mp3",
+  "local_sound_path": "sounds/ship.mp3"
+}

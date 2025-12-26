@@ -1,0 +1,46 @@
+{
+  "word": "hate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34031.png",
+      "local_image_path": "images/34031.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120978.png",
+      "local_image_path": "images/120978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I hate fried food.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34030.png",
+      "local_image_path": "images/34030.png"
+    }
+  ],
+  "synonyms": [
+    "abhor",
+    "detest",
+    "loathe",
+    "dislike",
+    "despise"
+  ],
+  "antonyms": [
+    "love"
+  ],
+  "similar_words": [
+    "hate crime",
+    "hateable",
+    "hateful",
+    "hatefully",
+    "hatefulness",
+    "hatel",
+    "hater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hate.mp3",
+  "local_sound_path": "sounds/hate.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "pony",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ride a pony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65089.png",
+      "local_image_path": "images/65089.png"
+    },
+    {
+      "pos": "n",
+      "example": "classroom pony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65090.png",
+      "local_image_path": "images/65090.png"
+    },
+    {
+      "pos": "n",
+      "example": "pony of liquor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65091.png",
+      "local_image_path": "images/65091.png"
+    }
+  ],
+  "synonyms": [
+    "horse",
+    "colt",
+    "foal"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pony.mp3",
+  "local_sound_path": "sounds/pony.mp3"
+}

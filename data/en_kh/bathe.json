@@ -1,0 +1,43 @@
+{
+  "word": "bathe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bathe every night",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7719.png",
+      "local_image_path": "images/7719.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7720.png",
+      "local_image_path": "images/7720.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7718.png",
+      "local_image_path": "images/7718.png"
+    }
+  ],
+  "synonyms": [
+    "wash",
+    "cleanse",
+    "clean",
+    "immerse",
+    "rinse",
+    "soak",
+    "dip",
+    "swim",
+    "paddle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bathed",
+    "bather"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bathe.mp3",
+  "local_sound_path": "sounds/bathe.mp3"
+}

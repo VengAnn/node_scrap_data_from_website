@@ -1,0 +1,40 @@
+{
+  "word": "fatality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27767.png",
+      "local_image_path": "images/27767.png"
+    },
+    {
+      "pos": "n",
+      "example": "There have been ten swimming fatalities.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27768.png",
+      "local_image_path": "images/27768.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119939.png",
+      "local_image_path": "images/119939.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119940.png",
+      "local_image_path": "images/119940.png"
+    }
+  ],
+  "synonyms": [
+    "fate",
+    "casualty",
+    "death"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fatality.mp3",
+  "local_sound_path": "sounds/fatality.mp3"
+}

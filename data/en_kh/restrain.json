@@ -1,0 +1,80 @@
+{
+  "word": "restrain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72951.png",
+      "local_image_path": "images/72951.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72952.png",
+      "local_image_path": "images/72952.png"
+    },
+    {
+      "pos": "tv",
+      "example": "restrain one's enthusiasm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72953.png",
+      "local_image_path": "images/72953.png"
+    },
+    {
+      "pos": "tv",
+      "example": "restrain a horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72954.png",
+      "local_image_path": "images/72954.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127002.png",
+      "local_image_path": "images/127002.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127003.png",
+      "local_image_path": "images/127003.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127004.png",
+      "local_image_path": "images/127004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127005.png",
+      "local_image_path": "images/127005.png"
+    }
+  ],
+  "synonyms": [
+    "contain",
+    "curb",
+    "check",
+    "stem",
+    "control",
+    "restrict",
+    "limit",
+    "curtail",
+    "inhibit",
+    "retard"
+  ],
+  "antonyms": [
+    "free",
+    "release",
+    "encourage",
+    "liberate"
+  ],
+  "similar_words": [
+    "restrainable",
+    "restraining order",
+    "restraint"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restrain.mp3",
+  "local_sound_path": "sounds/restrain.mp3"
+}

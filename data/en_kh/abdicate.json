@@ -1,0 +1,31 @@
+{
+  "word": "abdicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1356.png",
+      "local_image_path": "images/1356.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1355.png",
+      "local_image_path": "images/1355.png"
+    }
+  ],
+  "synonyms": [
+    "renounce",
+    "relinquish",
+    "resign",
+    "abandon"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abdicate.mp3",
+  "local_sound_path": "sounds/abdicate.mp3"
+}

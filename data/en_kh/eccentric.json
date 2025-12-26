@@ -1,0 +1,32 @@
+{
+  "word": "eccentric",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "eccentric person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23761.png",
+      "local_image_path": "images/23761.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23762.png",
+      "local_image_path": "images/23762.png"
+    }
+  ],
+  "synonyms": [
+    "oddball",
+    "oddity"
+  ],
+  "antonyms": [
+    "conventional"
+  ],
+  "similar_words": [
+    "eccentrically",
+    "eccentricity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eccentric.mp3",
+  "local_sound_path": "sounds/eccentric.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "farther",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "China is farther",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27685.png",
+      "local_image_path": "images/27685.png"
+    },
+    {
+      "pos": "adv",
+      "example": "Go a title a little.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27686.png",
+      "local_image_path": "images/27686.png"
+    }
+  ],
+  "synonyms": [
+    "beyond",
+    "past",
+    "further",
+    "furthest",
+    "extreme",
+    "other",
+    "farthest"
+  ],
+  "antonyms": [
+    "within",
+    "nearer"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/farther.mp3",
+  "local_sound_path": "sounds/farther.mp3"
+}

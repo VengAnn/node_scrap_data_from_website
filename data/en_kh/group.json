@@ -1,0 +1,48 @@
+{
+  "word": "group",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33068.png",
+      "local_image_path": "images/33068.png"
+    },
+    {
+      "pos": "n",
+      "example": "Our group is meeting this week.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33066.png",
+      "local_image_path": "images/33066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The police grouped round the demonstrators.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33067.png",
+      "local_image_path": "images/33067.png"
+    }
+  ],
+  "synonyms": [
+    "assemble",
+    "congregate",
+    "convene",
+    "cluster",
+    "classify",
+    "categorize",
+    "arrange",
+    "sort",
+    "bracket",
+    "class"
+  ],
+  "antonyms": [
+    "individual",
+    "soloist",
+    "disperse"
+  ],
+  "similar_words": [
+    "grouper",
+    "grouping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/group.mp3",
+  "local_sound_path": "sounds/group.mp3"
+}

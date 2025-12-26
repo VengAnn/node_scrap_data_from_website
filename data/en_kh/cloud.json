@@ -1,0 +1,66 @@
+{
+  "word": "cloud",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15162.png",
+      "local_image_path": "images/15162.png"
+    },
+    {
+      "pos": "n",
+      "example": "there wasn't a cloud in the sky",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15160.png",
+      "local_image_path": "images/15160.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cloud the sky",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15161.png",
+      "local_image_path": "images/15161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116521.png",
+      "local_image_path": "images/116521.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116522.png",
+      "local_image_path": "images/116522.png"
+    }
+  ],
+  "synonyms": [
+    "puff",
+    "veil",
+    "screen",
+    "swirl",
+    "curl",
+    "patch",
+    "blur",
+    "obscure",
+    "shadow",
+    "confuse",
+    "overshadow",
+    "darken",
+    "dim",
+    "shade"
+  ],
+  "antonyms": [
+    "clarify"
+  ],
+  "similar_words": [
+    "cloud-bank",
+    "cloudburst",
+    "cloudily",
+    "cloudiness",
+    "cloudless",
+    "cloudy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloud.mp3",
+  "local_sound_path": "sounds/cloud.mp3"
+}

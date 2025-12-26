@@ -1,0 +1,58 @@
+{
+  "word": "fake",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27460.png",
+      "local_image_path": "images/27460.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27458.png",
+      "local_image_path": "images/27458.png"
+    },
+    {
+      "pos": "n",
+      "example": "document is a fake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27459.png",
+      "local_image_path": "images/27459.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fake a document",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27455.png",
+      "local_image_path": "images/27455.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fake illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27456.png",
+      "local_image_path": "images/27456.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fake a blow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27457.png",
+      "local_image_path": "images/27457.png"
+    }
+  ],
+  "synonyms": [
+    "simulate",
+    "feign",
+    "pretend",
+    "act",
+    "dissemble",
+    "dissimulate"
+  ],
+  "antonyms": [
+    "genuine",
+    "original"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fake.mp3",
+  "local_sound_path": "sounds/fake.mp3"
+}

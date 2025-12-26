@@ -1,0 +1,32 @@
+{
+  "word": "successor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "successor to the throne",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85994.png",
+      "local_image_path": "images/85994.png"
+    },
+    {
+      "pos": "n",
+      "example": "successor to the office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85995.png",
+      "local_image_path": "images/85995.png"
+    }
+  ],
+  "synonyms": [
+    "heir",
+    "descendant",
+    "inheritor",
+    "replacement",
+    "beneficiary"
+  ],
+  "antonyms": [
+    "predecessor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/successor.mp3",
+  "local_sound_path": "sounds/successor.mp3"
+}

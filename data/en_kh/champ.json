@@ -1,0 +1,48 @@
+{
+  "word": "champ",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13757.png",
+      "local_image_path": "images/13757.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13756.png",
+      "local_image_path": "images/13756.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116147.png",
+      "local_image_path": "images/116147.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116148.png",
+      "local_image_path": "images/116148.png"
+    }
+  ],
+  "synonyms": [
+    "champion",
+    "winner",
+    "victor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "champac",
+    "champagne",
+    "champaign",
+    "champerty",
+    "champine",
+    "champion",
+    "championship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/champ.mp3",
+  "local_sound_path": "sounds/champ.mp3"
+}

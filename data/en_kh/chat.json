@@ -1,0 +1,63 @@
+{
+  "word": "chat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13922.png",
+      "local_image_path": "images/13922.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116232.png",
+      "local_image_path": "images/116232.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13921.png",
+      "local_image_path": "images/13921.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116233.png",
+      "local_image_path": "images/116233.png"
+    }
+  ],
+  "synonyms": [
+    "conversation",
+    "heart-to-heart",
+    "talk",
+    "dialogue",
+    "discussion",
+    "converse",
+    "gossip",
+    "dialog",
+    "yak",
+    "jaw",
+    "natter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chat room",
+    "chat show",
+    "chateau",
+    "chatelain",
+    "chattel",
+    "chattel mortgage",
+    "chattel paper",
+    "chattels",
+    "chatter",
+    "chatterbox",
+    "chatterer",
+    "chattily",
+    "chattiness",
+    "chatty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chat.mp3",
+  "local_sound_path": "sounds/chat.mp3"
+}

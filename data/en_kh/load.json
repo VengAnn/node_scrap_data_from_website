@@ -1,0 +1,69 @@
+{
+  "word": "load",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47165.png",
+      "local_image_path": "images/47165.png"
+    },
+    {
+      "pos": "n",
+      "example": "heavy load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47160.png",
+      "local_image_path": "images/47160.png"
+    },
+    {
+      "pos": "n",
+      "example": "load of a gun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47161.png",
+      "local_image_path": "images/47161.png"
+    },
+    {
+      "pos": "n",
+      "example": "loads of people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47162.png",
+      "local_image_path": "images/47162.png"
+    },
+    {
+      "pos": "tv",
+      "example": "load a wagon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47163.png",
+      "local_image_path": "images/47163.png"
+    },
+    {
+      "pos": "tv",
+      "example": "load a gun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47164.png",
+      "local_image_path": "images/47164.png"
+    }
+  ],
+  "synonyms": [
+    "burden",
+    "encumber",
+    "overload",
+    "oppress",
+    "worry",
+    "overwhelm",
+    "crush",
+    "hamper"
+  ],
+  "antonyms": [
+    "unload",
+    "eject",
+    "alleviate"
+  ],
+  "similar_words": [
+    "load fund",
+    "loaded",
+    "loaden",
+    "loader",
+    "loading port",
+    "loadsome",
+    "loadstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/load.mp3",
+  "local_sound_path": "sounds/load.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "word": "reproduce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72478.png",
+      "local_image_path": "images/72478.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reproduce themselves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72474.png",
+      "local_image_path": "images/72474.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reproduce a painting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72475.png",
+      "local_image_path": "images/72475.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reproduce a pamphlet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72476.png",
+      "local_image_path": "images/72476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72477.png",
+      "local_image_path": "images/72477.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126904.png",
+      "local_image_path": "images/126904.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126905.png",
+      "local_image_path": "images/126905.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126906.png",
+      "local_image_path": "images/126906.png"
+    }
+  ],
+  "synonyms": [
+    "breed",
+    "procreate",
+    "produce"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reproduce.mp3",
+  "local_sound_path": "sounds/reproduce.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "delinquency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "juvenile delinquency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20339.png",
+      "local_image_path": "images/20339.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117971.png",
+      "local_image_path": "images/117971.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117972.png",
+      "local_image_path": "images/117972.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117973.png",
+      "local_image_path": "images/117973.png"
+    }
+  ],
+  "synonyms": [
+    "negligence",
+    "carelessness",
+    "recklessness",
+    "failure",
+    "irresponsibility",
+    "dereliction"
+  ],
+  "antonyms": [
+    "uprightness",
+    "carefulness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delinquency.mp3",
+  "local_sound_path": "sounds/delinquency.mp3"
+}

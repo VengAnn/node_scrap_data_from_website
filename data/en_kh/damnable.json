@@ -1,0 +1,30 @@
+{
+  "word": "damnable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "damnable crimes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19560.png",
+      "local_image_path": "images/19560.png"
+    },
+    {
+      "pos": "adj",
+      "example": "damnable behaviour",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19561.png",
+      "local_image_path": "images/19561.png"
+    },
+    {
+      "pos": "adj",
+      "example": "damnable weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19562.png",
+      "local_image_path": "images/19562.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/damnable.mp3",
+  "local_sound_path": "sounds/damnable.mp3"
+}

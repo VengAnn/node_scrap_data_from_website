@@ -1,0 +1,72 @@
+{
+  "word": "link",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "historical link",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46786.png",
+      "local_image_path": "images/46786.png"
+    },
+    {
+      "pos": "n",
+      "example": "chain link",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46787.png",
+      "local_image_path": "images/46787.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46788.png",
+      "local_image_path": "images/46788.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46790.png",
+      "local_image_path": "images/46790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46789.png",
+      "local_image_path": "images/46789.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123557.png",
+      "local_image_path": "images/123557.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123558.png",
+      "local_image_path": "images/123558.png"
+    }
+  ],
+  "synonyms": [
+    "connect",
+    "relate",
+    "associate",
+    "network",
+    "join",
+    "combine",
+    "couple",
+    "conjoin"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "linkage",
+    "linking",
+    "linkman",
+    "links",
+    "linksmith",
+    "linky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/link.mp3",
+  "local_sound_path": "sounds/link.mp3"
+}

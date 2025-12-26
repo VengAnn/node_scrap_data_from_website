@@ -1,0 +1,40 @@
+{
+  "word": "dynamo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23559.png",
+      "local_image_path": "images/23559.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23560.png",
+      "local_image_path": "images/23560.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118846.png",
+      "local_image_path": "images/118846.png"
+    }
+  ],
+  "synonyms": [
+    "go-getter",
+    "extrovert"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dynamoelectric",
+    "dynamoelectrical",
+    "dynamometer",
+    "dynamometric",
+    "dynamometrical",
+    "dynamometry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dynamo.mp3",
+  "local_sound_path": "sounds/dynamo.mp3"
+}

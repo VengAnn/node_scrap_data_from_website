@@ -1,0 +1,41 @@
+{
+  "word": "happily",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "laugh happily",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33806.png",
+      "local_image_path": "images/33806.png"
+    },
+    {
+      "pos": "adv",
+      "example": "Happily it turned out alright",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33807.png",
+      "local_image_path": "images/33807.png"
+    }
+  ],
+  "synonyms": [
+    "luckily",
+    "fortunately",
+    "favorably",
+    "opportunely",
+    "gladly",
+    "freely",
+    "willingly",
+    "voluntarily",
+    "unreservedly",
+    "thankfully",
+    "cheerfully",
+    "enthusiastically",
+    "eagerly"
+  ],
+  "antonyms": [
+    "sadly",
+    "unwillingly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/happily.mp3",
+  "local_sound_path": "sounds/happily.mp3"
+}

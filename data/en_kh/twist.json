@@ -1,0 +1,92 @@
+{
+  "word": "twist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bolts twist",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92692.png",
+      "local_image_path": "images/92692.png"
+    },
+    {
+      "pos": "iv",
+      "example": "roads twist",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92693.png",
+      "local_image_path": "images/92693.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92694.png",
+      "local_image_path": "images/92694.png"
+    },
+    {
+      "pos": "n",
+      "example": "twist of hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92695.png",
+      "local_image_path": "images/92695.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92696.png",
+      "local_image_path": "images/92696.png"
+    },
+    {
+      "pos": "n",
+      "example": "a new twist",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92697.png",
+      "local_image_path": "images/92697.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92687.png",
+      "local_image_path": "images/92687.png"
+    },
+    {
+      "pos": "tv",
+      "example": "twist a knob",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92688.png",
+      "local_image_path": "images/92688.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She twisted the girl's hair round her fingers to make it curly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92689.png",
+      "local_image_path": "images/92689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92690.png",
+      "local_image_path": "images/92690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "twist one's ankle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92691.png",
+      "local_image_path": "images/92691.png"
+    }
+  ],
+  "synonyms": [
+    "contort",
+    "grimace",
+    "crumple",
+    "writhe"
+  ],
+  "antonyms": [
+    "clarify"
+  ],
+  "similar_words": [
+    "twist drill",
+    "twistability",
+    "twistable",
+    "twisted",
+    "twister",
+    "twisty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twist.mp3",
+  "local_sound_path": "sounds/twist.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "word": "honor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "receive an honor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35818.png",
+      "local_image_path": "images/35818.png"
+    },
+    {
+      "pos": "n",
+      "example": "a man of honor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35819.png",
+      "local_image_path": "images/35819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "honor one's parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35820.png",
+      "local_image_path": "images/35820.png"
+    },
+    {
+      "pos": "tv",
+      "example": "honor a hero",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35821.png",
+      "local_image_path": "images/35821.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35822.png",
+      "local_image_path": "images/35822.png"
+    }
+  ],
+  "synonyms": [
+    "keep",
+    "respect"
+  ],
+  "antonyms": [
+    "dishonor",
+    "baseness",
+    "insult",
+    "break",
+    "scorn",
+    "disgrace",
+    "blot",
+    "disparage"
+  ],
+  "similar_words": [
+    "honorable",
+    "honorableness",
+    "honorably",
+    "honorarium",
+    "honorary",
+    "honorary service",
+    "honorce",
+    "honorific",
+    "honorifically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/honor.mp3",
+  "local_sound_path": "sounds/honor.mp3"
+}

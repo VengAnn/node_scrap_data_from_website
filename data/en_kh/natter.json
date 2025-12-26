@@ -1,0 +1,34 @@
+{
+  "word": "natter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He nattered about his work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55060.png",
+      "local_image_path": "images/55060.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55061.png",
+      "local_image_path": "images/55061.png"
+    }
+  ],
+  "synonyms": [
+    "chat",
+    "conversation",
+    "gossip",
+    "blether",
+    "talk",
+    "chatter",
+    "blather",
+    "jaw",
+    "prattle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/natter.mp3",
+  "local_sound_path": "sounds/natter.mp3"
+}

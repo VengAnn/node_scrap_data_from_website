@@ -1,0 +1,54 @@
+{
+  "word": "daze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "in a daze",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19763.png",
+      "local_image_path": "images/19763.png"
+    },
+    {
+      "pos": "idm",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117741.png",
+      "local_image_path": "images/117741.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19762.png",
+      "local_image_path": "images/19762.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19761.png",
+      "local_image_path": "images/19761.png"
+    }
+  ],
+  "synonyms": [
+    "haze",
+    "stupor",
+    "shock",
+    "stun",
+    "astonish",
+    "astound",
+    "surprise",
+    "bemuse",
+    "confound",
+    "bewilder",
+    "baffle",
+    "stupefy",
+    "stagger",
+    "confuse"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dazed",
+    "dazedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/daze.mp3",
+  "local_sound_path": "sounds/daze.mp3"
+}

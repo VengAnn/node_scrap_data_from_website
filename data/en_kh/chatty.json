@@ -1,0 +1,34 @@
+{
+  "word": "chatty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13940.png",
+      "local_image_path": "images/13940.png"
+    },
+    {
+      "pos": "adj",
+      "example": "chatty description",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13941.png",
+      "local_image_path": "images/13941.png"
+    }
+  ],
+  "synonyms": [
+    "informal",
+    "lively",
+    "friendly",
+    "casual",
+    "relaxed",
+    "personal"
+  ],
+  "antonyms": [
+    "quiet",
+    "formal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chatty.mp3",
+  "local_sound_path": "sounds/chatty.mp3"
+}

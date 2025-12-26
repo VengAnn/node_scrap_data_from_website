@@ -1,0 +1,51 @@
+{
+  "word": "tutor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92575.png",
+      "local_image_path": "images/92575.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128568.png",
+      "local_image_path": "images/128568.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92576.png",
+      "local_image_path": "images/92576.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92577.png",
+      "local_image_path": "images/92577.png"
+    }
+  ],
+  "synonyms": [
+    "teach",
+    "educate",
+    "instruct",
+    "coach",
+    "train",
+    "lecture",
+    "school"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tutoress",
+    "tutorial",
+    "tutorize",
+    "tutorly",
+    "tutorship",
+    "tutory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tutor.mp3",
+  "local_sound_path": "sounds/tutor.mp3"
+}

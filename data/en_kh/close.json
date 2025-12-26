@@ -1,0 +1,86 @@
+{
+  "word": "close",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "she is very close to her father",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15115.png",
+      "local_image_path": "images/15115.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130085.png",
+      "local_image_path": "images/130085.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130086.png",
+      "local_image_path": "images/130086.png"
+    },
+    {
+      "pos": "adv",
+      "example": "come close (to the house)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15116.png",
+      "local_image_path": "images/15116.png"
+    },
+    {
+      "pos": "iv",
+      "example": "the door closed quietly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15114.png",
+      "local_image_path": "images/15114.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please you close the door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15113.png",
+      "local_image_path": "images/15113.png"
+    }
+  ],
+  "synonyms": [
+    "oppressive",
+    "muggy",
+    "airless",
+    "sultry",
+    "heavy",
+    "sticky",
+    "block",
+    "bar",
+    "plug",
+    "obstruct",
+    "blockade"
+  ],
+  "antonyms": [
+    "open",
+    "distant",
+    "loose",
+    "start",
+    "lax",
+    "fresh",
+    "generous",
+    "unblock"
+  ],
+  "similar_words": [
+    "close call",
+    "close fitting",
+    "close shave",
+    "close-minded",
+    "close-mounthed",
+    "close-run",
+    "close-set",
+    "close-up",
+    "closed",
+    "closed-fisted",
+    "closely",
+    "closeness",
+    "closer",
+    "closet",
+    "closet drama",
+    "closet queen"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/close.mp3",
+  "local_sound_path": "sounds/close.mp3"
+}

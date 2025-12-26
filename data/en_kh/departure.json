@@ -1,0 +1,33 @@
+{
+  "word": "departure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "time of departure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20588.png",
+      "local_image_path": "images/20588.png"
+    },
+    {
+      "pos": "n",
+      "example": "departure from tradition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20589.png",
+      "local_image_path": "images/20589.png"
+    }
+  ],
+  "synonyms": [
+    "venture",
+    "project",
+    "enterprise",
+    "endeavor",
+    "undertaking"
+  ],
+  "antonyms": [
+    "arrival",
+    "conformity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/departure.mp3",
+  "local_sound_path": "sounds/departure.mp3"
+}

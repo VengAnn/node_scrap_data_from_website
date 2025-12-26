@@ -1,0 +1,47 @@
+{
+  "word": "grain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "price of grain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32506.png",
+      "local_image_path": "images/32506.png"
+    },
+    {
+      "pos": "n",
+      "example": "a grain of rice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32507.png",
+      "local_image_path": "images/32507.png"
+    },
+    {
+      "pos": "n",
+      "example": "cut across the grain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32508.png",
+      "local_image_path": "images/32508.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32509.png",
+      "local_image_path": "images/32509.png"
+    }
+  ],
+  "synonyms": [
+    "granule",
+    "particle",
+    "speck",
+    "crumb",
+    "morsel",
+    "pellet",
+    "piece"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "grained",
+    "grainy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grain.mp3",
+  "local_sound_path": "sounds/grain.mp3"
+}

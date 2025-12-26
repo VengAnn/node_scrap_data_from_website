@@ -1,0 +1,29 @@
+{
+  "word": "synonym",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87047.png",
+      "local_image_path": "images/87047.png"
+    }
+  ],
+  "synonyms": [
+    "substitute",
+    "replacement",
+    "alternative"
+  ],
+  "antonyms": [
+    "antonym"
+  ],
+  "similar_words": [
+    "synonymical",
+    "synonymize",
+    "synonymous",
+    "synonymy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/synonym.mp3",
+  "local_sound_path": "sounds/synonym.mp3"
+}

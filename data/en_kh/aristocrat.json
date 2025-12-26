@@ -1,0 +1,34 @@
+{
+  "word": "aristocrat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5474.png",
+      "local_image_path": "images/5474.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113996.png",
+      "local_image_path": "images/113996.png"
+    }
+  ],
+  "synonyms": [
+    "noble",
+    "lord",
+    "lady",
+    "peer",
+    "grandee",
+    "nob"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "aristocratic",
+    "aristocratically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aristocrat.mp3",
+  "local_sound_path": "sounds/aristocrat.mp3"
+}

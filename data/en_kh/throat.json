@@ -1,0 +1,32 @@
+{
+  "word": "throat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89164.png",
+      "local_image_path": "images/89164.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89165.png",
+      "local_image_path": "images/89165.png"
+    }
+  ],
+  "synonyms": [
+    "gullet",
+    "gorge",
+    "esophagus"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "throatily",
+    "throatiness",
+    "throaty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/throat.mp3",
+  "local_sound_path": "sounds/throat.mp3"
+}

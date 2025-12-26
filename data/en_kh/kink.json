@@ -1,0 +1,55 @@
+{
+  "word": "kink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43968.png",
+      "local_image_path": "images/43968.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43967.png",
+      "local_image_path": "images/43967.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43963.png",
+      "local_image_path": "images/43963.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43964.png",
+      "local_image_path": "images/43964.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43965.png",
+      "local_image_path": "images/43965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43966.png",
+      "local_image_path": "images/43966.png"
+    }
+  ],
+  "synonyms": [
+    "crick",
+    "pull",
+    "strain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "kinkajou",
+    "kinky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/kink.mp3",
+  "local_sound_path": "sounds/kink.mp3"
+}

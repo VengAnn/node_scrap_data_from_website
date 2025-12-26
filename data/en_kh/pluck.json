@@ -1,0 +1,73 @@
+{
+  "word": "pluck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "give it a pluck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64277.png",
+      "local_image_path": "images/64277.png"
+    },
+    {
+      "pos": "n",
+      "example": "has lots of pluck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64278.png",
+      "local_image_path": "images/64278.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64271.png",
+      "local_image_path": "images/64271.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pluck a guitar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64272.png",
+      "local_image_path": "images/64272.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64273.png",
+      "local_image_path": "images/64273.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pluck sb from sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64274.png",
+      "local_image_path": "images/64274.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64275.png",
+      "local_image_path": "images/64275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This child plucked at its mother's skirt.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64276.png",
+      "local_image_path": "images/64276.png"
+    }
+  ],
+  "synonyms": [
+    "pick",
+    "collect",
+    "gather",
+    "harvest"
+  ],
+  "antonyms": [
+    "cowardice"
+  ],
+  "similar_words": [
+    "plucked",
+    "pluckily",
+    "pluckiness",
+    "pluckless",
+    "plucky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pluck.mp3",
+  "local_sound_path": "sounds/pluck.mp3"
+}

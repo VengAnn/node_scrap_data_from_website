@@ -1,0 +1,32 @@
+{
+  "word": "democracy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20429.png",
+      "local_image_path": "images/20429.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118005.png",
+      "local_image_path": "images/118005.png"
+    }
+  ],
+  "synonyms": [
+    "equality",
+    "egalitarianism",
+    "consensus",
+    "republic"
+  ],
+  "antonyms": [
+    "dictatorship",
+    "inequality"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/democracy.mp3",
+  "local_sound_path": "sounds/democracy.mp3"
+}

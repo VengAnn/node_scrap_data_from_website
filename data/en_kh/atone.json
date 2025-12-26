@@ -1,0 +1,36 @@
+{
+  "word": "atone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6198.png",
+      "local_image_path": "images/6198.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112846.png",
+      "local_image_path": "images/112846.png"
+    }
+  ],
+  "synonyms": [
+    "agreed",
+    "compensate",
+    "redress",
+    "apologize",
+    "expiate",
+    "recompense",
+    "make up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "atoneable",
+    "atonement",
+    "atoner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/atone.mp3",
+  "local_sound_path": "sounds/atone.mp3"
+}

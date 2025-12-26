@@ -1,0 +1,40 @@
+{
+  "word": "teeter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87935.png",
+      "local_image_path": "images/87935.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87936.png",
+      "local_image_path": "images/87936.png"
+    }
+  ],
+  "synonyms": [
+    "totter",
+    "stagger",
+    "wobble",
+    "shake",
+    "dodder",
+    "waver",
+    "hover",
+    "reel",
+    "rock",
+    "sway",
+    "lurch",
+    "weave"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "teeter board",
+    "teeter-totter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/teeter.mp3",
+  "local_sound_path": "sounds/teeter.mp3"
+}

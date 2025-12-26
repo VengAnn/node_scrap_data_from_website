@@ -1,0 +1,45 @@
+{
+  "word": "duplicate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "duplicate key",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23463.png",
+      "local_image_path": "images/23463.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118828.png",
+      "local_image_path": "images/118828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23462.png",
+      "local_image_path": "images/23462.png"
+    },
+    {
+      "pos": "tv",
+      "example": "duplicate a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23461.png",
+      "local_image_path": "images/23461.png"
+    }
+  ],
+  "synonyms": [
+    "repeat",
+    "replicate",
+    "reproduce",
+    "copy",
+    "photocopy",
+    "clone"
+  ],
+  "antonyms": [
+    "original"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duplicate.mp3",
+  "local_sound_path": "sounds/duplicate.mp3"
+}

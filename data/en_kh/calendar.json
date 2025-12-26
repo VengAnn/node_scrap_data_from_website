@@ -1,0 +1,44 @@
+{
+  "word": "calendar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "do you have next year's calendar?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12391.png",
+      "local_image_path": "images/12391.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12393.png",
+      "local_image_path": "images/12393.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12392.png",
+      "local_image_path": "images/12392.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12394.png",
+      "local_image_path": "images/12394.png"
+    }
+  ],
+  "synonyms": [
+    "almanac",
+    "chart",
+    "agenda",
+    "schedule",
+    "logbook",
+    "diary",
+    "timetable"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calendar.mp3",
+  "local_sound_path": "sounds/calendar.mp3"
+}

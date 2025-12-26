@@ -1,0 +1,41 @@
+{
+  "word": "nearly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "It's nearly time to leave.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55149.png",
+      "local_image_path": "images/55149.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55150.png",
+      "local_image_path": "images/55150.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124511.png",
+      "local_image_path": "images/124511.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124512.png",
+      "local_image_path": "images/124512.png"
+    }
+  ],
+  "synonyms": [
+    "almost",
+    "near",
+    "virtually",
+    "practically"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nearly.mp3",
+  "local_sound_path": "sounds/nearly.mp3"
+}

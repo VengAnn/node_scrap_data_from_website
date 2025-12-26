@@ -1,0 +1,50 @@
+{
+  "word": "profane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "profane lauguage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67359.png",
+      "local_image_path": "images/67359.png"
+    },
+    {
+      "pos": "adj",
+      "example": "profane history",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67360.png",
+      "local_image_path": "images/67360.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67362.png",
+      "local_image_path": "images/67362.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67361.png",
+      "local_image_path": "images/67361.png"
+    }
+  ],
+  "synonyms": [
+    "blasphemous",
+    "irreverent",
+    "irreligious",
+    "disrespectful",
+    "wicked",
+    "sacrilegious"
+  ],
+  "antonyms": [
+    "pious",
+    "sacred"
+  ],
+  "similar_words": [
+    "profanely",
+    "profaneness",
+    "profaner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/profane.mp3",
+  "local_sound_path": "sounds/profane.mp3"
+}

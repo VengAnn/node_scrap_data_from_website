@@ -1,0 +1,65 @@
+{
+  "word": "libel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46169.png",
+      "local_image_path": "images/46169.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46170.png",
+      "local_image_path": "images/46170.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46171.png",
+      "local_image_path": "images/46171.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123487.png",
+      "local_image_path": "images/123487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123488.png",
+      "local_image_path": "images/123488.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46172.png",
+      "local_image_path": "images/46172.png"
+    }
+  ],
+  "synonyms": [
+    "defame",
+    "vilify",
+    "sully",
+    "tarnish",
+    "malign",
+    "slander"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "libelec",
+    "libelee",
+    "libeler",
+    "libelist",
+    "libellary",
+    "libellate",
+    "libellous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/libel.mp3",
+  "local_sound_path": "sounds/libel.mp3"
+}

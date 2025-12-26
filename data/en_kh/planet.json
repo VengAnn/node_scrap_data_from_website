@@ -1,0 +1,33 @@
+{
+  "word": "planet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63832.png",
+      "local_image_path": "images/63832.png"
+    }
+  ],
+  "synonyms": [
+    "earth",
+    "world",
+    "globe",
+    "sphere"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "planet-struck",
+    "planetarium",
+    "planetary",
+    "planetary life",
+    "planetoid",
+    "planetoidal",
+    "planetological",
+    "planetologist",
+    "planetology"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/planet.mp3",
+  "local_sound_path": "sounds/planet.mp3"
+}

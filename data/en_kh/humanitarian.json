@@ -1,0 +1,51 @@
+{
+  "word": "humanitarian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Many of Galsworthy's plays are humanitarian.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36281.png",
+      "local_image_path": "images/36281.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132122.png",
+      "local_image_path": "images/132122.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36282.png",
+      "local_image_path": "images/36282.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132123.png",
+      "local_image_path": "images/132123.png"
+    }
+  ],
+  "synonyms": [
+    "caring",
+    "kind",
+    "gentle",
+    "compassionate",
+    "kindly",
+    "civilized",
+    "charitable"
+  ],
+  "antonyms": [
+    "uncaring"
+  ],
+  "similar_words": [
+    "humanitarian aid",
+    "humanitarian assistance",
+    "humanitarian group",
+    "humanitarianism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/humanitarian.mp3",
+  "local_sound_path": "sounds/humanitarian.mp3"
+}

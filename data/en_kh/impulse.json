@@ -1,0 +1,40 @@
+{
+  "word": "impulse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38030.png",
+      "local_image_path": "images/38030.png"
+    },
+    {
+      "pos": "n",
+      "example": "electrical impulse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38031.png",
+      "local_image_path": "images/38031.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121794.png",
+      "local_image_path": "images/121794.png"
+    }
+  ],
+  "synonyms": [
+    "pulse",
+    "pulsation",
+    "signal",
+    "beat",
+    "thrust",
+    "tick",
+    "nerve"
+  ],
+  "antonyms": [
+    "aversion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impulse.mp3",
+  "local_sound_path": "sounds/impulse.mp3"
+}

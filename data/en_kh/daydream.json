@@ -1,0 +1,32 @@
+{
+  "word": "daydream",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19742.png",
+      "local_image_path": "images/19742.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19743.png",
+      "local_image_path": "images/19743.png"
+    }
+  ],
+  "synonyms": [
+    "dream",
+    "fantasize",
+    "muse",
+    "contemplate",
+    "imagine"
+  ],
+  "antonyms": [
+    "concentrate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/daydream.mp3",
+  "local_sound_path": "sounds/daydream.mp3"
+}

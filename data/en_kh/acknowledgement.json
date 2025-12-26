@@ -1,0 +1,43 @@
+{
+  "word": "acknowledgement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2080.png",
+      "local_image_path": "images/2080.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111767.png",
+      "local_image_path": "images/111767.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111768.png",
+      "local_image_path": "images/111768.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113184.png",
+      "local_image_path": "images/113184.png"
+    }
+  ],
+  "synonyms": [
+    "recognition",
+    "acceptance",
+    "admission",
+    "confession",
+    "appreciation",
+    "tribute"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acknowledgement.mp3",
+  "local_sound_path": "sounds/acknowledgement.mp3"
+}

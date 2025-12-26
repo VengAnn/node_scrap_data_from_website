@@ -1,0 +1,45 @@
+{
+  "word": "astronomical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6086.png",
+      "local_image_path": "images/6086.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114187.png",
+      "local_image_path": "images/114187.png"
+    }
+  ],
+  "synonyms": [
+    "astral",
+    "planetary",
+    "cosmological",
+    "astrophysical",
+    "lunar",
+    "stellar",
+    "solar",
+    "exorbitant",
+    "excessive",
+    "sky-high",
+    "huge",
+    "enormous",
+    "vast",
+    "immense",
+    "prodigious"
+  ],
+  "antonyms": [
+    "affordable",
+    "tiny"
+  ],
+  "similar_words": [
+    "astronomically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/astronomical.mp3",
+  "local_sound_path": "sounds/astronomical.mp3"
+}

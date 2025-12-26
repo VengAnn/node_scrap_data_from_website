@@ -1,0 +1,64 @@
+{
+  "word": "quick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "quick motion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69552.png",
+      "local_image_path": "images/69552.png"
+    },
+    {
+      "pos": "adj",
+      "example": "quick student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69553.png",
+      "local_image_path": "images/69553.png"
+    },
+    {
+      "pos": "adj",
+      "example": "quick money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69554.png",
+      "local_image_path": "images/69554.png"
+    }
+  ],
+  "synonyms": [
+    "lively",
+    "sprightly",
+    "vivacious",
+    "spry",
+    "nimble",
+    "agile",
+    "nifty"
+  ],
+  "antonyms": [
+    "slow",
+    "long",
+    "dim",
+    "sluggish",
+    "lasting"
+  ],
+  "similar_words": [
+    "quick time",
+    "quick-and-dirty",
+    "quick-eared",
+    "quick-eyed",
+    "quick-freeze",
+    "quick-seented",
+    "quick-set",
+    "quick-sighted",
+    "quick-tempered",
+    "quick-writted",
+    "quick-writtedly",
+    "quick-writtedness",
+    "quicken",
+    "quickie",
+    "quickly",
+    "quickness",
+    "quicksand",
+    "quicksilver",
+    "quickstep"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quick.mp3",
+  "local_sound_path": "sounds/quick.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "extend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27000.png",
+      "local_image_path": "images/27000.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27001.png",
+      "local_image_path": "images/27001.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extend a road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26994.png",
+      "local_image_path": "images/26994.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extend a rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26995.png",
+      "local_image_path": "images/26995.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extend one's arm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26996.png",
+      "local_image_path": "images/26996.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extend one's stay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26997.png",
+      "local_image_path": "images/26997.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extend one's property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26998.png",
+      "local_image_path": "images/26998.png"
+    },
+    {
+      "pos": "tv",
+      "example": "extend greetings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26999.png",
+      "local_image_path": "images/26999.png"
+    }
+  ],
+  "synonyms": [
+    "prolong",
+    "drag out",
+    "lengthen",
+    "continue",
+    "reach",
+    "stretch",
+    "go",
+    "run"
+  ],
+  "antonyms": [
+    "curtail",
+    "decrease",
+    "withdraw"
+  ],
+  "similar_words": [
+    "extendability",
+    "extendible"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extend.mp3",
+  "local_sound_path": "sounds/extend.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "hazard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Smoking is a serious health hazard.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34136.png",
+      "local_image_path": "images/34136.png"
+    },
+    {
+      "pos": "n",
+      "example": "golf hazard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34137.png",
+      "local_image_path": "images/34137.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34138.png",
+      "local_image_path": "images/34138.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hazard an opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34139.png",
+      "local_image_path": "images/34139.png"
+    }
+  ],
+  "synonyms": [
+    "risk",
+    "chance",
+    "gamble",
+    "venture",
+    "endanger",
+    "jeopardize",
+    "imperil"
+  ],
+  "antonyms": [
+    "security",
+    "protect",
+    "safeguard"
+  ],
+  "similar_words": [
+    "hazardous",
+    "hazardously",
+    "hazardousness",
+    "hazardry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hazard.mp3",
+  "local_sound_path": "sounds/hazard.mp3"
+}

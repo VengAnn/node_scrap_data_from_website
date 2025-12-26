@@ -1,0 +1,50 @@
+{
+  "word": "slender",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "slender girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81168.png",
+      "local_image_path": "images/81168.png"
+    },
+    {
+      "pos": "adj",
+      "example": "slender hope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81169.png",
+      "local_image_path": "images/81169.png"
+    },
+    {
+      "pos": "adj",
+      "example": "slender income",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81170.png",
+      "local_image_path": "images/81170.png"
+    },
+    {
+      "pos": "adj",
+      "example": "slender prospects",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81171.png",
+      "local_image_path": "images/81171.png"
+    }
+  ],
+  "synonyms": [
+    "small",
+    "slim",
+    "meager",
+    "slight",
+    "little"
+  ],
+  "antonyms": [
+    "fat",
+    "considerable"
+  ],
+  "similar_words": [
+    "slenderize",
+    "slenderly",
+    "slenderness",
+    "slendery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slender.mp3",
+  "local_sound_path": "sounds/slender.mp3"
+}

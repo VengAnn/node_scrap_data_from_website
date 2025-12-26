@@ -1,0 +1,38 @@
+{
+  "word": "craze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "violent craze",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18446.png",
+      "local_image_path": "images/18446.png"
+    },
+    {
+      "pos": "n",
+      "example": "popular craze",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18447.png",
+      "local_image_path": "images/18447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18445.png",
+      "local_image_path": "images/18445.png"
+    }
+  ],
+  "synonyms": [
+    "fad",
+    "trend",
+    "fashion",
+    "rage",
+    "enthusiasm",
+    "obsession",
+    "vogue"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/craze.mp3",
+  "local_sound_path": "sounds/craze.mp3"
+}

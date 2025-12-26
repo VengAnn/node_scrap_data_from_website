@@ -1,0 +1,29 @@
+{
+  "word": "anything",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "is it anything like mine?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4856.png",
+      "local_image_path": "images/4856.png"
+    },
+    {
+      "pos": "pron",
+      "example": "I don't see anything",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4855.png",
+      "local_image_path": "images/4855.png"
+    }
+  ],
+  "synonyms": [
+    "something",
+    "everything"
+  ],
+  "antonyms": [
+    "nothing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anything.mp3",
+  "local_sound_path": "sounds/anything.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "word": "team",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "management team",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87802.png",
+      "local_image_path": "images/87802.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87803.png",
+      "local_image_path": "images/87803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87804.png",
+      "local_image_path": "images/87804.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87805.png",
+      "local_image_path": "images/87805.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128091.png",
+      "local_image_path": "images/128091.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128092.png",
+      "local_image_path": "images/128092.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "band",
+    "panel",
+    "set",
+    "bunch",
+    "party",
+    "working party",
+    "squad",
+    "crew",
+    "gang",
+    "unit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "team play",
+    "team player",
+    "team up",
+    "team-spirit",
+    "teammate",
+    "teamster",
+    "teamwork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/team.mp3",
+  "local_sound_path": "sounds/team.mp3"
+}

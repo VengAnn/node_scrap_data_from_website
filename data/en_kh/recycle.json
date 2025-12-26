@@ -1,0 +1,48 @@
+{
+  "word": "recycle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71092.png",
+      "local_image_path": "images/71092.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71093.png",
+      "local_image_path": "images/71093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130709.png",
+      "local_image_path": "images/130709.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130710.png",
+      "local_image_path": "images/130710.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130711.png",
+      "local_image_path": "images/130711.png"
+    }
+  ],
+  "synonyms": [
+    "reprocess",
+    "salvage",
+    "reuse",
+    "recover",
+    "recondition"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recycle.mp3",
+  "local_sound_path": "sounds/recycle.mp3"
+}

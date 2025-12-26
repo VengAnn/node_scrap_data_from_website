@@ -1,0 +1,72 @@
+{
+  "word": "graft",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32502.png",
+      "local_image_path": "images/32502.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32498.png",
+      "local_image_path": "images/32498.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32499.png",
+      "local_image_path": "images/32499.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32500.png",
+      "local_image_path": "images/32500.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32501.png",
+      "local_image_path": "images/32501.png"
+    },
+    {
+      "pos": "tv",
+      "example": "graft fruit trees",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32496.png",
+      "local_image_path": "images/32496.png"
+    },
+    {
+      "pos": "tv",
+      "example": "graft skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32497.png",
+      "local_image_path": "images/32497.png"
+    }
+  ],
+  "synonyms": [
+    "implant",
+    "scion",
+    "slip",
+    "implantation",
+    "shoot",
+    "bud",
+    "splice",
+    "attach",
+    "join",
+    "fix",
+    "embed",
+    "imbed",
+    "insert",
+    "transplant"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "grafter",
+    "grafting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/graft.mp3",
+  "local_sound_path": "sounds/graft.mp3"
+}

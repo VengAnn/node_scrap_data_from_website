@@ -1,0 +1,24 @@
+{
+  "word": "berry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8372.png",
+      "local_image_path": "images/8372.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8371.png",
+      "local_image_path": "images/8371.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/berry.mp3",
+  "local_sound_path": "sounds/berry.mp3"
+}

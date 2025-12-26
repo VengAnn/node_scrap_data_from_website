@@ -1,0 +1,38 @@
+{
+  "word": "flotsam",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "flotation and jetsam",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29237.png",
+      "local_image_path": "images/29237.png"
+    },
+    {
+      "pos": "idm",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120269.png",
+      "local_image_path": "images/120269.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29236.png",
+      "local_image_path": "images/29236.png"
+    }
+  ],
+  "synonyms": [
+    "debris",
+    "refuse",
+    "driftwood",
+    "jetsam",
+    "wreckage",
+    "junk",
+    "waste"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flotsam.mp3",
+  "local_sound_path": "sounds/flotsam.mp3"
+}

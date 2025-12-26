@@ -1,0 +1,64 @@
+{
+  "word": "bolt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "bolt up right",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10032.png",
+      "local_image_path": "images/10032.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10033.png",
+      "local_image_path": "images/10033.png"
+    },
+    {
+      "pos": "n",
+      "example": "draw the bolt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10030.png",
+      "local_image_path": "images/10030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bolt all the doors and windows before you go to bed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10031.png",
+      "local_image_path": "images/10031.png"
+    },
+    {
+      "pos": "tv",
+      "example": "he bolts the food down",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10034.png",
+      "local_image_path": "images/10034.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131042.png",
+      "local_image_path": "images/131042.png"
+    }
+  ],
+  "synonyms": [
+    "gulp",
+    "gobble",
+    "guzzle",
+    "scarf",
+    "scoff",
+    "devour",
+    "down",
+    "wolf"
+  ],
+  "antonyms": [
+    "unlock",
+    "nibble"
+  ],
+  "similar_words": [
+    "bolter",
+    "boltrope",
+    "bolts of Heaven"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bolt.mp3",
+  "local_sound_path": "sounds/bolt.mp3"
+}

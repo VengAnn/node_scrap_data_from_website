@@ -1,0 +1,36 @@
+{
+  "word": "duel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23353.png",
+      "local_image_path": "images/23353.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23352.png",
+      "local_image_path": "images/23352.png"
+    }
+  ],
+  "synonyms": [
+    "fight",
+    "clash",
+    "battle",
+    "spar",
+    "contest",
+    "struggle",
+    "conflict"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dueler",
+    "duelist",
+    "duellist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/duel.mp3",
+  "local_sound_path": "sounds/duel.mp3"
+}

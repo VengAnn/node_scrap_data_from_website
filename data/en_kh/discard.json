@@ -1,0 +1,61 @@
+{
+  "word": "discard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21634.png",
+      "local_image_path": "images/21634.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21633.png",
+      "local_image_path": "images/21633.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118388.png",
+      "local_image_path": "images/118388.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118389.png",
+      "local_image_path": "images/118389.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118390.png",
+      "local_image_path": "images/118390.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118391.png",
+      "local_image_path": "images/118391.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118392.png",
+      "local_image_path": "images/118392.png"
+    }
+  ],
+  "synonyms": [
+    "abandon",
+    "remove",
+    "reject",
+    "shed"
+  ],
+  "antonyms": [
+    "keep"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discard.mp3",
+  "local_sound_path": "sounds/discard.mp3"
+}

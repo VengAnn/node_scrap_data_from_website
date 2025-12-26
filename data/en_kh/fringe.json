@@ -1,0 +1,52 @@
+{
+  "word": "fringe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fringe benefit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30341.png",
+      "local_image_path": "images/30341.png"
+    },
+    {
+      "pos": "n",
+      "example": "lace fringe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30338.png",
+      "local_image_path": "images/30338.png"
+    },
+    {
+      "pos": "n",
+      "example": "on the fringe of society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30339.png",
+      "local_image_path": "images/30339.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30340.png",
+      "local_image_path": "images/30340.png"
+    }
+  ],
+  "synonyms": [
+    "peripheral",
+    "extreme",
+    "radical",
+    "marginal",
+    "unconventional",
+    "periphery",
+    "edge",
+    "perimeter",
+    "border",
+    "limit",
+    "margin"
+  ],
+  "antonyms": [
+    "center",
+    "mainstream",
+    "central"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fringe.mp3",
+  "local_sound_path": "sounds/fringe.mp3"
+}

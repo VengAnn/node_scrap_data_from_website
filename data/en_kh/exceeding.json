@@ -1,0 +1,38 @@
+{
+  "word": "exceeding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26371.png",
+      "local_image_path": "images/26371.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119556.png",
+      "local_image_path": "images/119556.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119557.png",
+      "local_image_path": "images/119557.png"
+    }
+  ],
+  "synonyms": [
+    "beyond",
+    "above",
+    "surpassing",
+    "topping",
+    "beating"
+  ],
+  "antonyms": [
+    "below"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exceeding.mp3",
+  "local_sound_path": "sounds/exceeding.mp3"
+}

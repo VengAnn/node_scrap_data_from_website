@@ -1,0 +1,94 @@
+{
+  "word": "joint",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "joint effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43156.png",
+      "local_image_path": "images/43156.png"
+    },
+    {
+      "pos": "adj",
+      "example": "joint owners",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43157.png",
+      "local_image_path": "images/43157.png"
+    },
+    {
+      "pos": "n (sl)",
+      "example": "gambling joint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43151.png",
+      "local_image_path": "images/43151.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43149.png",
+      "local_image_path": "images/43149.png"
+    },
+    {
+      "pos": "n",
+      "example": "knee joint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43150.png",
+      "local_image_path": "images/43150.png"
+    },
+    {
+      "pos": "n",
+      "example": "a joint of beef",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43153.png",
+      "local_image_path": "images/43153.png"
+    },
+    {
+      "pos": "sl",
+      "example": "smoke a joint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43152.png",
+      "local_image_path": "images/43152.png"
+    },
+    {
+      "pos": "tv",
+      "example": "joint a pipe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43154.png",
+      "local_image_path": "images/43154.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43155.png",
+      "local_image_path": "images/43155.png"
+    }
+  ],
+  "synonyms": [
+    "place",
+    "establishment",
+    "locale",
+    "location",
+    "roast",
+    "dive",
+    "venue",
+    "hangout"
+  ],
+  "antonyms": [
+    "individual"
+  ],
+  "similar_words": [
+    "joint and several",
+    "joint declaration",
+    "joint discussions",
+    "joint liability",
+    "joint party",
+    "joint resolution",
+    "joint stock bank",
+    "joint stock company",
+    "joint tenancy",
+    "joint venture",
+    "joint venture enterprise",
+    "jointage",
+    "jointer",
+    "jointly",
+    "jointure",
+    "jointy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/joint.mp3",
+  "local_sound_path": "sounds/joint.mp3"
+}

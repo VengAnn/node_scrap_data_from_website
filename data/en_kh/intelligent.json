@@ -1,0 +1,43 @@
+{
+  "word": "intelligent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "intelligent student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40975.png",
+      "local_image_path": "images/40975.png"
+    }
+  ],
+  "synonyms": [
+    "clever",
+    "bright",
+    "smart",
+    "gifted",
+    "intellectual",
+    "sharp",
+    "quick",
+    "able",
+    "sensible",
+    "rational",
+    "wise",
+    "logical",
+    "perceptive",
+    "shrewd",
+    "judicious",
+    "cerebral"
+  ],
+  "antonyms": [
+    "stupid",
+    "irrational"
+  ],
+  "similar_words": [
+    "intelligential",
+    "intelligentiary",
+    "intelligently",
+    "intelligentsia"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intelligent.mp3",
+  "local_sound_path": "sounds/intelligent.mp3"
+}

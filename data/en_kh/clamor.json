@@ -1,0 +1,64 @@
+{
+  "word": "clamor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14772.png",
+      "local_image_path": "images/14772.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116397.png",
+      "local_image_path": "images/116397.png"
+    },
+    {
+      "pos": "n",
+      "example": "public clamor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14771.png",
+      "local_image_path": "images/14771.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116398.png",
+      "local_image_path": "images/116398.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116399.png",
+      "local_image_path": "images/116399.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116400.png",
+      "local_image_path": "images/116400.png"
+    }
+  ],
+  "synonyms": [
+    "uproar",
+    "din",
+    "commotion",
+    "racket",
+    "noise",
+    "shouting",
+    "outcry"
+  ],
+  "antonyms": [
+    "whisper",
+    "quiet"
+  ],
+  "similar_words": [
+    "clamorer",
+    "clamorous",
+    "clamorously",
+    "clamorousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clamor.mp3",
+  "local_sound_path": "sounds/clamor.mp3"
+}

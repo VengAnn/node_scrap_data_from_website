@@ -1,0 +1,68 @@
+{
+  "word": "prick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rashes prick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66860.png",
+      "local_image_path": "images/66860.png"
+    },
+    {
+      "pos": "n",
+      "example": "feel the prick of a needle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66861.png",
+      "local_image_path": "images/66861.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66856.png",
+      "local_image_path": "images/66856.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prick a balloon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66857.png",
+      "local_image_path": "images/66857.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prick one's concience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66858.png",
+      "local_image_path": "images/66858.png"
+    },
+    {
+      "pos": "tv",
+      "example": "prick up oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66859.png",
+      "local_image_path": "images/66859.png"
+    }
+  ],
+  "synonyms": [
+    "hole",
+    "puncture",
+    "perforation",
+    "pierce",
+    "stab",
+    "perforate",
+    "cut",
+    "lance",
+    "jab"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "prickeared",
+    "pricker",
+    "pricket",
+    "pricking",
+    "prickle",
+    "prickliness",
+    "pricklouse",
+    "prickly",
+    "pricky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prick.mp3",
+  "local_sound_path": "sounds/prick.mp3"
+}

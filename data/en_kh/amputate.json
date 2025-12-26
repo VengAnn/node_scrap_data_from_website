@@ -1,0 +1,36 @@
+{
+  "word": "amputate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "Surgeons had to amputate her left hand.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111625.png",
+      "local_image_path": "images/111625.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131324.png",
+      "local_image_path": "images/131324.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131325.png",
+      "local_image_path": "images/131325.png"
+    }
+  ],
+  "synonyms": [
+    "remove",
+    "sever",
+    "separate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "amputated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amputate.mp3",
+  "local_sound_path": "sounds/amputate.mp3"
+}

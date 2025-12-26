@@ -1,0 +1,56 @@
+{
+  "word": "modern",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "modern house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109848.png",
+      "local_image_path": "images/109848.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109849.png",
+      "local_image_path": "images/109849.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109850.png",
+      "local_image_path": "images/109850.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124215.png",
+      "local_image_path": "images/124215.png"
+    }
+  ],
+  "synonyms": [
+    "progressive",
+    "enlightened",
+    "forward-looking",
+    "advanced",
+    "novel"
+  ],
+  "antonyms": [
+    "old-fashioned",
+    "traditional",
+    "outdated"
+  ],
+  "similar_words": [
+    "modernism",
+    "modernist",
+    "modernistic",
+    "modernity",
+    "modernization",
+    "modernize",
+    "modernizer",
+    "modernly",
+    "modernness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/modern.mp3",
+  "local_sound_path": "sounds/modern.mp3"
+}

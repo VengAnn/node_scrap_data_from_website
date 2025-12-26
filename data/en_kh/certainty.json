@@ -1,0 +1,47 @@
+{
+  "word": "certainty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "death is a certainty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13662.png",
+      "local_image_path": "images/13662.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116115.png",
+      "local_image_path": "images/116115.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116116.png",
+      "local_image_path": "images/116116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116117.png",
+      "local_image_path": "images/116117.png"
+    }
+  ],
+  "synonyms": [
+    "confidence",
+    "conviction",
+    "faith",
+    "belief",
+    "assurance",
+    "firmness",
+    "sureness",
+    "certitude"
+  ],
+  "antonyms": [
+    "uncertainty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/certainty.mp3",
+  "local_sound_path": "sounds/certainty.mp3"
+}

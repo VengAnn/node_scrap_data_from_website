@@ -1,0 +1,44 @@
+{
+  "word": "cavalier",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13442.png",
+      "local_image_path": "images/13442.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13441.png",
+      "local_image_path": "images/13441.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116090.png",
+      "local_image_path": "images/116090.png"
+    }
+  ],
+  "synonyms": [
+    "offhand",
+    "inconsiderate",
+    "high-handed",
+    "arrogant",
+    "haughty",
+    "casual",
+    "careless",
+    "knight",
+    "caballero",
+    "adventurer"
+  ],
+  "antonyms": [
+    "considerate",
+    "polite"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cavalier.mp3",
+  "local_sound_path": "sounds/cavalier.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "aversion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "some boys have an aversion to hard study",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6695.png",
+      "local_image_path": "images/6695.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112915.png",
+      "local_image_path": "images/112915.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112916.png",
+      "local_image_path": "images/112916.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112917.png",
+      "local_image_path": "images/112917.png"
+    }
+  ],
+  "synonyms": [
+    "dislike",
+    "hatred",
+    "loathing",
+    "repugnance",
+    "distaste",
+    "hate",
+    "antipathy",
+    "abhorrence",
+    "detestation",
+    "repulsion",
+    "disgust"
+  ],
+  "antonyms": [
+    "liking"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aversion.mp3",
+  "local_sound_path": "sounds/aversion.mp3"
+}

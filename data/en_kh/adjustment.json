@@ -1,0 +1,45 @@
+{
+  "word": "adjustment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mechanical adjuster",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2424.png",
+      "local_image_path": "images/2424.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112063.png",
+      "local_image_path": "images/112063.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132147.png",
+      "local_image_path": "images/132147.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132148.png",
+      "local_image_path": "images/132148.png"
+    }
+  ],
+  "synonyms": [
+    "change",
+    "alteration",
+    "modification",
+    "tuning",
+    "regulation",
+    "correction",
+    "amendment",
+    "variation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adjustment.mp3",
+  "local_sound_path": "sounds/adjustment.mp3"
+}

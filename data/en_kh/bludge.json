@@ -1,0 +1,28 @@
+{
+  "word": "bludge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bludge on sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9772.png",
+      "local_image_path": "images/9772.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9773.png",
+      "local_image_path": "images/9773.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bludgeon",
+    "bludgeoneer",
+    "bludgeoner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bludge.mp3",
+  "local_sound_path": "sounds/bludge.mp3"
+}

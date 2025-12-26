@@ -1,0 +1,32 @@
+{
+  "word": "constituency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17076.png",
+      "local_image_path": "images/17076.png"
+    }
+  ],
+  "synonyms": [
+    "electorate",
+    "population",
+    "public",
+    "community",
+    "citizenry",
+    "district",
+    "area",
+    "borough",
+    "ward",
+    "region"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "constituency candidate",
+    "constituency seat"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/constituency.mp3",
+  "local_sound_path": "sounds/constituency.mp3"
+}

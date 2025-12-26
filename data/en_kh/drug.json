@@ -1,0 +1,39 @@
+{
+  "word": "drug",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23244.png",
+      "local_image_path": "images/23244.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23245.png",
+      "local_image_path": "images/23245.png"
+    }
+  ],
+  "synonyms": [
+    "medicine",
+    "treatment",
+    "preparation",
+    "remedy",
+    "prescription"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "drug (over-the-counter drug)",
+    "drug dealer",
+    "drug store",
+    "drug-store",
+    "drugger",
+    "druggery",
+    "drugget",
+    "druggist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drug.mp3",
+  "local_sound_path": "sounds/drug.mp3"
+}

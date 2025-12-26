@@ -1,0 +1,33 @@
+{
+  "word": "beck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7949.png",
+      "local_image_path": "images/7949.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7950.png",
+      "local_image_path": "images/7950.png"
+    }
+  ],
+  "synonyms": [
+    "brook",
+    "stream",
+    "rivulet",
+    "burn"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beckon",
+    "beckoner",
+    "beckoningly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beck.mp3",
+  "local_sound_path": "sounds/beck.mp3"
+}

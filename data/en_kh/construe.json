@@ -1,0 +1,30 @@
+{
+  "word": "construe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "construe a law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17130.png",
+      "local_image_path": "images/17130.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117391.png",
+      "local_image_path": "images/117391.png"
+    }
+  ],
+  "synonyms": [
+    "interpret",
+    "take",
+    "read",
+    "see",
+    "understand"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/construe.mp3",
+  "local_sound_path": "sounds/construe.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "enclosed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word enclose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111746.png",
+      "local_image_path": "images/111746.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119130.png",
+      "local_image_path": "images/119130.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119131.png",
+      "local_image_path": "images/119131.png"
+    }
+  ],
+  "synonyms": [
+    "included",
+    "attached",
+    "inserted"
+  ],
+  "antonyms": [
+    "open",
+    "exposed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enclosed.mp3",
+  "local_sound_path": "sounds/enclosed.mp3"
+}

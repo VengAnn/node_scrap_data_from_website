@@ -1,0 +1,43 @@
+{
+  "word": "anarchy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4120.png",
+      "local_image_path": "images/4120.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113696.png",
+      "local_image_path": "images/113696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113697.png",
+      "local_image_path": "images/113697.png"
+    }
+  ],
+  "synonyms": [
+    "disorder",
+    "chaos",
+    "lawlessness",
+    "anarchism",
+    "revolution",
+    "mayhem",
+    "rebellion",
+    "mobocracy",
+    "ochlocracy",
+    "riot"
+  ],
+  "antonyms": [
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anarchy.mp3",
+  "local_sound_path": "sounds/anarchy.mp3"
+}

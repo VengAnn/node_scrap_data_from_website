@@ -1,0 +1,46 @@
+{
+  "word": "measurement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "length measurement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107100.png",
+      "local_image_path": "images/107100.png"
+    },
+    {
+      "pos": "n",
+      "example": "volume measurement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107101.png",
+      "local_image_path": "images/107101.png"
+    },
+    {
+      "pos": "n",
+      "example": "surface measurement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107102.png",
+      "local_image_path": "images/107102.png"
+    }
+  ],
+  "synonyms": [
+    "dimension",
+    "size",
+    "extent",
+    "quantity",
+    "amount",
+    "capacity",
+    "height",
+    "depth",
+    "width",
+    "breadth",
+    "length",
+    "weight",
+    "volume",
+    "area",
+    "magnitude"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/measurement.mp3",
+  "local_sound_path": "sounds/measurement.mp3"
+}

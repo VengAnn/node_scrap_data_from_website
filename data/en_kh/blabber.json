@@ -1,0 +1,33 @@
+{
+  "word": "blabber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9255.png",
+      "local_image_path": "images/9255.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9256.png",
+      "local_image_path": "images/9256.png"
+    }
+  ],
+  "synonyms": [
+    "chatter",
+    "jabber",
+    "babble",
+    "waffle",
+    "chat",
+    "drivel",
+    "yammer",
+    "blather"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blabber.mp3",
+  "local_sound_path": "sounds/blabber.mp3"
+}

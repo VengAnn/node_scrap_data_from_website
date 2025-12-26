@@ -1,0 +1,29 @@
+{
+  "word": "equivocate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "don't equivocate with me, I don't like it.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25685.png",
+      "local_image_path": "images/25685.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119366.png",
+      "local_image_path": "images/119366.png"
+    }
+  ],
+  "synonyms": [
+    "prevaricate",
+    "fudge",
+    "vacillate",
+    "quibble"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equivocate.mp3",
+  "local_sound_path": "sounds/equivocate.mp3"
+}

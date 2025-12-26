@@ -1,0 +1,38 @@
+{
+  "word": "unfortunately",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94380.png",
+      "local_image_path": "images/94380.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129113.png",
+      "local_image_path": "images/129113.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129114.png",
+      "local_image_path": "images/129114.png"
+    }
+  ],
+  "synonyms": [
+    "unluckily",
+    "unhappily",
+    "sadly",
+    "alas"
+  ],
+  "antonyms": [
+    "fortunately",
+    "appropriately"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unfortunately.mp3",
+  "local_sound_path": "sounds/unfortunately.mp3"
+}

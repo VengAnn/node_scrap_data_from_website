@@ -1,0 +1,37 @@
+{
+  "word": "concealment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16401.png",
+      "local_image_path": "images/16401.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116987.png",
+      "local_image_path": "images/116987.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116988.png",
+      "local_image_path": "images/116988.png"
+    }
+  ],
+  "synonyms": [
+    "disguise",
+    "camouflage",
+    "suppression",
+    "cover-up"
+  ],
+  "antonyms": [
+    "revelation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concealment.mp3",
+  "local_sound_path": "sounds/concealment.mp3"
+}

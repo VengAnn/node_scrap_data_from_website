@@ -1,0 +1,45 @@
+{
+  "word": "analogous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4072.png",
+      "local_image_path": "images/4072.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113687.png",
+      "local_image_path": "images/113687.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113688.png",
+      "local_image_path": "images/113688.png"
+    }
+  ],
+  "synonyms": [
+    "similar",
+    "equivalent",
+    "parallel",
+    "corresponding",
+    "comparable",
+    "like",
+    "related",
+    "akin",
+    "consonant"
+  ],
+  "antonyms": [
+    "different"
+  ],
+  "similar_words": [
+    "analogously",
+    "analogousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/analogous.mp3",
+  "local_sound_path": "sounds/analogous.mp3"
+}

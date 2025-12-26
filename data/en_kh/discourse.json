@@ -1,0 +1,42 @@
+{
+  "word": "discourse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21744.png",
+      "local_image_path": "images/21744.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21743.png",
+      "local_image_path": "images/21743.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118440.png",
+      "local_image_path": "images/118440.png"
+    }
+  ],
+  "synonyms": [
+    "dissertation",
+    "treatise",
+    "homily",
+    "sermon",
+    "address",
+    "converse",
+    "discuss",
+    "debate",
+    "speak",
+    "talk",
+    "confer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discourse.mp3",
+  "local_sound_path": "sounds/discourse.mp3"
+}

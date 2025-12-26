@@ -1,0 +1,38 @@
+{
+  "word": "degeneration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "state of degeneration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20257.png",
+      "local_image_path": "images/20257.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117934.png",
+      "local_image_path": "images/117934.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117935.png",
+      "local_image_path": "images/117935.png"
+    }
+  ],
+  "synonyms": [
+    "deterioration",
+    "collapse",
+    "disintegration",
+    "erosion",
+    "relapse"
+  ],
+  "antonyms": [
+    "regeneration"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/degeneration.mp3",
+  "local_sound_path": "sounds/degeneration.mp3"
+}

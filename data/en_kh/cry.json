@@ -1,0 +1,76 @@
+{
+  "word": "cry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He cried because he had hurt his knee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18890.png",
+      "local_image_path": "images/18890.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18892.png",
+      "local_image_path": "images/18892.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cry the order",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18891.png",
+      "local_image_path": "images/18891.png"
+    }
+  ],
+  "synonyms": [
+    "call",
+    "shout",
+    "exclamation",
+    "yell",
+    "scream",
+    "shriek",
+    "yelp",
+    "bellow",
+    "snivel",
+    "exclaim",
+    "roar",
+    "holler"
+  ],
+  "antonyms": [
+    "laugh",
+    "whisper"
+  ],
+  "similar_words": [
+    "crybaby",
+    "crying",
+    "crymotherapy",
+    "cryo",
+    "cryobiological",
+    "cryobiologically",
+    "cryobiologist",
+    "cryobiology",
+    "cryogen",
+    "cryogenic",
+    "cryogenically",
+    "cryogenics",
+    "cryogeny",
+    "cryometer",
+    "cryonic",
+    "cryonics",
+    "cryophilic",
+    "cryophilous",
+    "cryoplankton",
+    "cryoprobe",
+    "cryoscope",
+    "cryoscopy",
+    "cryostat",
+    "cryosurgery",
+    "cryotherapy",
+    "crypt",
+    "cryptanalysis",
+    "cryptanalyst",
+    "cryptanalytic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cry.mp3",
+  "local_sound_path": "sounds/cry.mp3"
+}

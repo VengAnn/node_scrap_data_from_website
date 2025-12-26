@@ -1,0 +1,41 @@
+{
+  "word": "silt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80130.png",
+      "local_image_path": "images/80130.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80129.png",
+      "local_image_path": "images/80129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80131.png",
+      "local_image_path": "images/80131.png"
+    }
+  ],
+  "synonyms": [
+    "deposit",
+    "mud",
+    "sediment",
+    "sludge",
+    "residue"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "siltation",
+    "silted",
+    "silting",
+    "silty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/silt.mp3",
+  "local_sound_path": "sounds/silt.mp3"
+}

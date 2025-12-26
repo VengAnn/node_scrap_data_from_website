@@ -1,0 +1,39 @@
+{
+  "word": "inaccuracy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38076.png",
+      "local_image_path": "images/38076.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121807.png",
+      "local_image_path": "images/121807.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121808.png",
+      "local_image_path": "images/121808.png"
+    }
+  ],
+  "synonyms": [
+    "error",
+    "mistake",
+    "slip",
+    "flaw",
+    "blunder"
+  ],
+  "antonyms": [
+    "accuracy",
+    "precision"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inaccuracy.mp3",
+  "local_sound_path": "sounds/inaccuracy.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "bishopric",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9186.png",
+      "local_image_path": "images/9186.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115116.png",
+      "local_image_path": "images/115116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115117.png",
+      "local_image_path": "images/115117.png"
+    }
+  ],
+  "synonyms": [
+    "diocese",
+    "see",
+    "district",
+    "archdiocese"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bishopric.mp3",
+  "local_sound_path": "sounds/bishopric.mp3"
+}

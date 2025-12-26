@@ -1,0 +1,42 @@
+{
+  "word": "adoration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2503.png",
+      "local_image_path": "images/2503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112040.png",
+      "local_image_path": "images/112040.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113315.png",
+      "local_image_path": "images/113315.png"
+    }
+  ],
+  "synonyms": [
+    "worship",
+    "reverence",
+    "idolization",
+    "glorification",
+    "exaltation",
+    "veneration",
+    "devotion",
+    "honor"
+  ],
+  "antonyms": [
+    "detestation",
+    "hatred"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adoration.mp3",
+  "local_sound_path": "sounds/adoration.mp3"
+}

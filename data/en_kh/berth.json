@@ -1,0 +1,35 @@
+{
+  "word": "berth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8376.png",
+      "local_image_path": "images/8376.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8377.png",
+      "local_image_path": "images/8377.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131038.png",
+      "local_image_path": "images/131038.png"
+    }
+  ],
+  "synonyms": [
+    "land",
+    "moor",
+    "disembark",
+    "dock"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/berth.mp3",
+  "local_sound_path": "sounds/berth.mp3"
+}

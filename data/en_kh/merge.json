@@ -1,0 +1,54 @@
+{
+  "word": "merge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "We can merge our two small business into one large one.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107884.png",
+      "local_image_path": "images/107884.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107885.png",
+      "local_image_path": "images/107885.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130506.png",
+      "local_image_path": "images/130506.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107886.png",
+      "local_image_path": "images/107886.png"
+    }
+  ],
+  "synonyms": [
+    "combine",
+    "unite",
+    "join",
+    "amalgamate",
+    "fuse",
+    "blend",
+    "meld",
+    "blur",
+    "unify",
+    "mix",
+    "mingle",
+    "conflate"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "mergence",
+    "merger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/merge.mp3",
+  "local_sound_path": "sounds/merge.mp3"
+}

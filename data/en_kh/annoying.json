@@ -1,0 +1,44 @@
+{
+  "word": "annoying",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4406.png",
+      "local_image_path": "images/4406.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112529.png",
+      "local_image_path": "images/112529.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112530.png",
+      "local_image_path": "images/112530.png"
+    }
+  ],
+  "synonyms": [
+    "maddening",
+    "bothersome",
+    "exasperating",
+    "aggravating",
+    "trying",
+    "grating",
+    "displeasing",
+    "provoking",
+    "tick off"
+  ],
+  "antonyms": [
+    "pleasing"
+  ],
+  "similar_words": [
+    "annoyingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/annoying.mp3",
+  "local_sound_path": "sounds/annoying.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "adept",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2347.png",
+      "local_image_path": "images/2347.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2348.png",
+      "local_image_path": "images/2348.png"
+    }
+  ],
+  "synonyms": [
+    "skillful",
+    "skilled",
+    "expert",
+    "proficient",
+    "adroit",
+    "practiced",
+    "clever"
+  ],
+  "antonyms": [
+    "inept"
+  ],
+  "similar_words": [
+    "adeptly",
+    "adeptness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adept.mp3",
+  "local_sound_path": "sounds/adept.mp3"
+}

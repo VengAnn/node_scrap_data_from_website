@@ -1,0 +1,94 @@
+{
+  "word": "arm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "arm in arm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5489.png",
+      "local_image_path": "images/5489.png"
+    },
+    {
+      "pos": "n",
+      "example": "the arms of this shirt are too long",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5486.png",
+      "local_image_path": "images/5486.png"
+    },
+    {
+      "pos": "n",
+      "example": "provide arm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5487.png",
+      "local_image_path": "images/5487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114001.png",
+      "local_image_path": "images/114001.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114002.png",
+      "local_image_path": "images/114002.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114003.png",
+      "local_image_path": "images/114003.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114004.png",
+      "local_image_path": "images/114004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "arm the people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5488.png",
+      "local_image_path": "images/5488.png"
+    }
+  ],
+  "synonyms": [
+    "equip",
+    "furnish",
+    "provide",
+    "supply",
+    "prepare",
+    "ready"
+  ],
+  "antonyms": [
+    "disarm"
+  ],
+  "similar_words": [
+    "arm candy",
+    "arm-hole",
+    "arm-race",
+    "armada",
+    "armadillo",
+    "Armageddon",
+    "armament",
+    "armariol",
+    "armature",
+    "armchair",
+    "armed",
+    "armer",
+    "armet",
+    "armful",
+    "armhole",
+    "armiger",
+    "armill",
+    "armillary",
+    "arming",
+    "armipotence",
+    "armipotent",
+    "armistic",
+    "armistice",
+    "armless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arm.mp3",
+  "local_sound_path": "sounds/arm.mp3"
+}

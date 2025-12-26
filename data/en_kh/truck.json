@@ -1,0 +1,105 @@
+{
+  "word": "truck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "truck with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92092.png",
+      "local_image_path": "images/92092.png"
+    },
+    {
+      "pos": "n",
+      "example": "cattle truck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92086.png",
+      "local_image_path": "images/92086.png"
+    },
+    {
+      "pos": "n",
+      "example": "hand truck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92087.png",
+      "local_image_path": "images/92087.png"
+    },
+    {
+      "pos": "n",
+      "example": "truck farmer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92089.png",
+      "local_image_path": "images/92089.png"
+    },
+    {
+      "pos": "n",
+      "example": "you and all your truck",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92090.png",
+      "local_image_path": "images/92090.png"
+    },
+    {
+      "pos": "n",
+      "example": "have no truck with them",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92091.png",
+      "local_image_path": "images/92091.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92088.png",
+      "local_image_path": "images/92088.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92093.png",
+      "local_image_path": "images/92093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130874.png",
+      "local_image_path": "images/130874.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130875.png",
+      "local_image_path": "images/130875.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130876.png",
+      "local_image_path": "images/130876.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130877.png",
+      "local_image_path": "images/130877.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130878.png",
+      "local_image_path": "images/130878.png"
+    }
+  ],
+  "synonyms": [
+    "car",
+    "bus",
+    "van",
+    "automobile",
+    "lorry",
+    "wagon"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "truck system",
+    "trucker",
+    "trucking",
+    "truckle",
+    "truckle-bad",
+    "truckload",
+    "truckman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/truck.mp3",
+  "local_sound_path": "sounds/truck.mp3"
+}

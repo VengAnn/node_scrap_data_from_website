@@ -1,0 +1,53 @@
+{
+  "word": "deficiency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mental deficiency",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20172.png",
+      "local_image_path": "images/20172.png"
+    },
+    {
+      "pos": "n",
+      "example": "deficiency of funds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20173.png",
+      "local_image_path": "images/20173.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117906.png",
+      "local_image_path": "images/117906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117907.png",
+      "local_image_path": "images/117907.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117908.png",
+      "local_image_path": "images/117908.png"
+    }
+  ],
+  "synonyms": [
+    "fault",
+    "defect",
+    "flaw",
+    "imperfection",
+    "inadequacy",
+    "failing",
+    "weakness"
+  ],
+  "antonyms": [
+    "excess",
+    "perfection"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deficiency.mp3",
+  "local_sound_path": "sounds/deficiency.mp3"
+}

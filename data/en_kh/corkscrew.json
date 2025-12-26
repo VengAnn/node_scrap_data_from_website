@@ -1,0 +1,38 @@
+{
+  "word": "corkscrew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17727.png",
+      "local_image_path": "images/17727.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117599.png",
+      "local_image_path": "images/117599.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117600.png",
+      "local_image_path": "images/117600.png"
+    }
+  ],
+  "synonyms": [
+    "curved",
+    "spiral",
+    "coil",
+    "curl",
+    "twine"
+  ],
+  "antonyms": [
+    "straight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corkscrew.mp3",
+  "local_sound_path": "sounds/corkscrew.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "punish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The champion punished his opponent severely",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68880.png",
+      "local_image_path": "images/68880.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68881.png",
+      "local_image_path": "images/68881.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126255.png",
+      "local_image_path": "images/126255.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126256.png",
+      "local_image_path": "images/126256.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126257.png",
+      "local_image_path": "images/126257.png"
+    }
+  ],
+  "synonyms": [
+    "chastise",
+    "discipline",
+    "penalize",
+    "castigate",
+    "reprove",
+    "rebuke",
+    "reprimand",
+    "correct",
+    "admonish",
+    "chasten"
+  ],
+  "antonyms": [
+    "commend"
+  ],
+  "similar_words": [
+    "punishability",
+    "punishable",
+    "punishableness",
+    "punishably",
+    "punisher",
+    "punishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/punish.mp3",
+  "local_sound_path": "sounds/punish.mp3"
+}

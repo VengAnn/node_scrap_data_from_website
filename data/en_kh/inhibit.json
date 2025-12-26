@@ -1,0 +1,69 @@
+{
+  "word": "inhibit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40018.png",
+      "local_image_path": "images/40018.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122406.png",
+      "local_image_path": "images/122406.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122407.png",
+      "local_image_path": "images/122407.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122408.png",
+      "local_image_path": "images/122408.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122409.png",
+      "local_image_path": "images/122409.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122410.png",
+      "local_image_path": "images/122410.png"
+    }
+  ],
+  "synonyms": [
+    "stop",
+    "prevent",
+    "impede",
+    "obstruct",
+    "bar",
+    "deter",
+    "restrain",
+    "reduce",
+    "stall",
+    "hinder",
+    "hamper",
+    "slow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "inhibitable",
+    "inhibiter",
+    "inhibition",
+    "inhibitionist",
+    "inhibitive",
+    "inhibitor",
+    "inhibitory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inhibit.mp3",
+  "local_sound_path": "sounds/inhibit.mp3"
+}

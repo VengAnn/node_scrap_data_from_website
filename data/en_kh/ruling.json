@@ -1,0 +1,41 @@
+{
+  "word": "ruling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74611.png",
+      "local_image_path": "images/74611.png"
+    },
+    {
+      "pos": "n",
+      "example": "ruling government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74612.png",
+      "local_image_path": "images/74612.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130770.png",
+      "local_image_path": "images/130770.png"
+    }
+  ],
+  "synonyms": [
+    "decision",
+    "verdict",
+    "edict",
+    "judgment",
+    "declaration",
+    "decree",
+    "pronouncing"
+  ],
+  "antonyms": [
+    "subordinate",
+    "following"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ruling.mp3",
+  "local_sound_path": "sounds/ruling.mp3"
+}

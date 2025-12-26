@@ -1,0 +1,42 @@
+{
+  "word": "stationary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stationary desk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84429.png",
+      "local_image_path": "images/84429.png"
+    },
+    {
+      "pos": "adj",
+      "example": "stationary car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84430.png",
+      "local_image_path": "images/84430.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84431.png",
+      "local_image_path": "images/84431.png"
+    }
+  ],
+  "synonyms": [
+    "motionless",
+    "still",
+    "immobile",
+    "inactive",
+    "fixed",
+    "standing",
+    "static",
+    "inert",
+    "unmoving"
+  ],
+  "antonyms": [
+    "moving"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stationary.mp3",
+  "local_sound_path": "sounds/stationary.mp3"
+}

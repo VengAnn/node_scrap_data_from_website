@@ -1,0 +1,43 @@
+{
+  "word": "matter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "this work matters to me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106840.png",
+      "local_image_path": "images/106840.png"
+    },
+    {
+      "pos": "n",
+      "example": "mind over matter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106837.png",
+      "local_image_path": "images/106837.png"
+    },
+    {
+      "pos": "n",
+      "example": "discuss a matter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106838.png",
+      "local_image_path": "images/106838.png"
+    },
+    {
+      "pos": "n",
+      "example": "It is your matter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106839.png",
+      "local_image_path": "images/106839.png"
+    }
+  ],
+  "synonyms": [
+    "count",
+    "signify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "matter of course",
+    "matter-of-fact",
+    "mattery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/matter.mp3",
+  "local_sound_path": "sounds/matter.mp3"
+}

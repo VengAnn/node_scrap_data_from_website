@@ -1,0 +1,32 @@
+{
+  "word": "solar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "solar energy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82467.png",
+      "local_image_path": "images/82467.png"
+    }
+  ],
+  "synonyms": [
+    "astral",
+    "planetary",
+    "cosmological",
+    "astrophysical",
+    "lunar",
+    "stellar"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "solar eclipse",
+    "solar system",
+    "solar-plexus",
+    "solarium",
+    "solarize",
+    "solary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/solar.mp3",
+  "local_sound_path": "sounds/solar.mp3"
+}

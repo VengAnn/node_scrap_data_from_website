@@ -1,0 +1,35 @@
+{
+  "word": "shameful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "shameful conduct",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78762.png",
+      "local_image_path": "images/78762.png"
+    },
+    {
+      "pos": "adj",
+      "example": "shameful waste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78763.png",
+      "local_image_path": "images/78763.png"
+    }
+  ],
+  "synonyms": [
+    "disgraceful",
+    "reprehensible",
+    "discreditable",
+    "shocking",
+    "appalling"
+  ],
+  "antonyms": [
+    "honorable"
+  ],
+  "similar_words": [
+    "shamefully",
+    "shamefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shameful.mp3",
+  "local_sound_path": "sounds/shameful.mp3"
+}

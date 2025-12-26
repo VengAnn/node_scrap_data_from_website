@@ -1,0 +1,31 @@
+{
+  "word": "bonkers",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10105.png",
+      "local_image_path": "images/10105.png"
+    }
+  ],
+  "synonyms": [
+    "crazy",
+    "mad",
+    "daft",
+    "silly",
+    "nuts",
+    "loopy",
+    "berserk",
+    "barmy",
+    "irrational"
+  ],
+  "antonyms": [
+    "sane",
+    "rational"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bonkers.mp3",
+  "local_sound_path": "sounds/bonkers.mp3"
+}

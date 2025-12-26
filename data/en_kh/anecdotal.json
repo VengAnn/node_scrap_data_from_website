@@ -1,0 +1,28 @@
+{
+  "word": "anecdotal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4207.png",
+      "local_image_path": "images/4207.png"
+    }
+  ],
+  "synonyms": [
+    "subjective",
+    "unreliable",
+    "untrustworthy",
+    "undependable",
+    "sketchy",
+    "circumstantial",
+    "hearsay"
+  ],
+  "antonyms": [
+    "objective"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anecdotal.mp3",
+  "local_sound_path": "sounds/anecdotal.mp3"
+}

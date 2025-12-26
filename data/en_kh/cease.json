@@ -1,0 +1,43 @@
+{
+  "word": "cease",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13467.png",
+      "local_image_path": "images/13467.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13469.png",
+      "local_image_path": "images/13469.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the officer ordered his men to cease fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13468.png",
+      "local_image_path": "images/13468.png"
+    }
+  ],
+  "synonyms": [
+    "stop",
+    "finish",
+    "end",
+    "conclude",
+    "terminate"
+  ],
+  "antonyms": [
+    "commence",
+    "start"
+  ],
+  "similar_words": [
+    "cease-fire",
+    "ceaseless",
+    "ceaselessly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cease.mp3",
+  "local_sound_path": "sounds/cease.mp3"
+}

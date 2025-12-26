@@ -1,0 +1,33 @@
+{
+  "word": "patriot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60694.png",
+      "local_image_path": "images/60694.png"
+    }
+  ],
+  "synonyms": [
+    "loyalist",
+    "nationalist",
+    "partisan",
+    "compatriot",
+    "jingoist",
+    "xenophobe",
+    "chauvinist"
+  ],
+  "antonyms": [
+    "turncoat"
+  ],
+  "similar_words": [
+    "patriotess",
+    "patriotic",
+    "patriotically",
+    "patriotism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/patriot.mp3",
+  "local_sound_path": "sounds/patriot.mp3"
+}

@@ -1,0 +1,78 @@
+{
+  "word": "blaze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "blaze with something",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9458.png",
+      "local_image_path": "images/9458.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115180.png",
+      "local_image_path": "images/115180.png"
+    },
+    {
+      "pos": "n",
+      "example": "destroyed in the blaze",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9457.png",
+      "local_image_path": "images/9457.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9460.png",
+      "local_image_path": "images/9460.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115181.png",
+      "local_image_path": "images/115181.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115182.png",
+      "local_image_path": "images/115182.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9459.png",
+      "local_image_path": "images/9459.png"
+    },
+    {
+      "pos": "tv",
+      "example": "the news was soon blazed abroad",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9461.png",
+      "local_image_path": "images/9461.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115183.png",
+      "local_image_path": "images/115183.png"
+    }
+  ],
+  "synonyms": [
+    "glare",
+    "glow",
+    "flash",
+    "brightness",
+    "intensity",
+    "instigate",
+    "initiate",
+    "pioneer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blazer",
+    "blazes"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blaze.mp3",
+  "local_sound_path": "sounds/blaze.mp3"
+}

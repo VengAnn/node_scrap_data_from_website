@@ -1,0 +1,52 @@
+{
+  "word": "misty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109619.png",
+      "local_image_path": "images/109619.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109620.png",
+      "local_image_path": "images/109620.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124185.png",
+      "local_image_path": "images/124185.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124186.png",
+      "local_image_path": "images/124186.png"
+    }
+  ],
+  "synonyms": [
+    "hazy",
+    "foggy",
+    "murky",
+    "cloudy",
+    "steamy",
+    "indistinct",
+    "vague",
+    "obscure",
+    "dim",
+    "opaque",
+    "unclear",
+    "fuzzy",
+    "nebulous"
+  ],
+  "antonyms": [
+    "clear"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/misty.mp3",
+  "local_sound_path": "sounds/misty.mp3"
+}

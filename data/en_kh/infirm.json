@@ -1,0 +1,50 @@
+{
+  "word": "infirm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39686.png",
+      "local_image_path": "images/39686.png"
+    },
+    {
+      "pos": "adj",
+      "example": "physically infirm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39687.png",
+      "local_image_path": "images/39687.png"
+    },
+    {
+      "pos": "adj",
+      "example": "infirm of purpose",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39688.png",
+      "local_image_path": "images/39688.png"
+    }
+  ],
+  "synonyms": [
+    "unwell",
+    "sick",
+    "ill",
+    "frail",
+    "ailing",
+    "weak",
+    "feeble",
+    "sickly"
+  ],
+  "antonyms": [
+    "healthy"
+  ],
+  "similar_words": [
+    "infirmarer",
+    "infirmarian",
+    "infirmary",
+    "infirmation",
+    "infirmative",
+    "infirmity",
+    "infirmly",
+    "infirmness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infirm.mp3",
+  "local_sound_path": "sounds/infirm.mp3"
+}

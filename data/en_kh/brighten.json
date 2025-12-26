@@ -1,0 +1,31 @@
+{
+  "word": "brighten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the sky is brightening",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11137.png",
+      "local_image_path": "images/11137.png"
+    },
+    {
+      "pos": "tv",
+      "example": "what can you do to brighten the lives of the poor?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11138.png",
+      "local_image_path": "images/11138.png"
+    }
+  ],
+  "synonyms": [
+    "improve",
+    "enhance"
+  ],
+  "antonyms": [
+    "darken"
+  ],
+  "similar_words": [
+    "brightener"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brighten.mp3",
+  "local_sound_path": "sounds/brighten.mp3"
+}

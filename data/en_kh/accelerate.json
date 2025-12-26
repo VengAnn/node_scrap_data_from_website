@@ -1,0 +1,29 @@
+{
+  "word": "accelerate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1781.png",
+      "local_image_path": "images/1781.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1780.png",
+      "local_image_path": "images/1780.png"
+    }
+  ],
+  "synonyms": [
+    "hurry",
+    "hasten",
+    "quicken",
+    "rush"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accelerate.mp3",
+  "local_sound_path": "sounds/accelerate.mp3"
+}

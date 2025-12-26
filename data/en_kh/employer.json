@@ -1,0 +1,31 @@
+{
+  "word": "employer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24653.png",
+      "local_image_path": "images/24653.png"
+    }
+  ],
+  "synonyms": [
+    "boss",
+    "company",
+    "manager",
+    "owner",
+    "proprietor",
+    "firm",
+    "business",
+    "establishment",
+    "organization",
+    "outfit"
+  ],
+  "antonyms": [
+    "employee"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/employer.mp3",
+  "local_sound_path": "sounds/employer.mp3"
+}

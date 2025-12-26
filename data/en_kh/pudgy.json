@@ -1,0 +1,39 @@
+{
+  "word": "pudgy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pudgy fingers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68645.png",
+      "local_image_path": "images/68645.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pudgy child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68646.png",
+      "local_image_path": "images/68646.png"
+    }
+  ],
+  "synonyms": [
+    "chubby",
+    "plump",
+    "fat",
+    "chunky",
+    "fleshy",
+    "overweight",
+    "round",
+    "flabby",
+    "stout",
+    "obese",
+    "podgy"
+  ],
+  "antonyms": [
+    "thin",
+    "slim"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pudgy.mp3",
+  "local_sound_path": "sounds/pudgy.mp3"
+}

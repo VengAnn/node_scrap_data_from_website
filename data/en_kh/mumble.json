@@ -1,0 +1,30 @@
+{
+  "word": "mumble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111037.png",
+      "local_image_path": "images/111037.png"
+    },
+    {
+      "pos": "v",
+      "example": "What are you mumbling about?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111036.png",
+      "local_image_path": "images/111036.png"
+    }
+  ],
+  "synonyms": [
+    "mutter",
+    "murmur",
+    "burble"
+  ],
+  "antonyms": [
+    "enunciate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mumble.mp3",
+  "local_sound_path": "sounds/mumble.mp3"
+}

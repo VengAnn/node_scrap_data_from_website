@@ -1,0 +1,38 @@
+{
+  "word": "depose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "depose a king",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20636.png",
+      "local_image_path": "images/20636.png"
+    },
+    {
+      "pos": "tv",
+      "example": "depose a statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20637.png",
+      "local_image_path": "images/20637.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118060.png",
+      "local_image_path": "images/118060.png"
+    }
+  ],
+  "synonyms": [
+    "overthrow",
+    "oust",
+    "topple",
+    "remove",
+    "unseat"
+  ],
+  "antonyms": [
+    "install"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/depose.mp3",
+  "local_sound_path": "sounds/depose.mp3"
+}

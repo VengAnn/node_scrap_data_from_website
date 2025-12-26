@@ -1,0 +1,59 @@
+{
+  "word": "responsive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72879.png",
+      "local_image_path": "images/72879.png"
+    },
+    {
+      "pos": "adj",
+      "example": "responsive to their needs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72880.png",
+      "local_image_path": "images/72880.png"
+    },
+    {
+      "pos": "adj",
+      "example": "responsive to treatment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72881.png",
+      "local_image_path": "images/72881.png"
+    },
+    {
+      "pos": "adj",
+      "example": "responsive motor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72882.png",
+      "local_image_path": "images/72882.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126981.png",
+      "local_image_path": "images/126981.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126982.png",
+      "local_image_path": "images/126982.png"
+    }
+  ],
+  "synonyms": [
+    "receptive",
+    "open",
+    "approachable",
+    "reactive",
+    "alert"
+  ],
+  "antonyms": [
+    "sluggish"
+  ],
+  "similar_words": [
+    "responsively",
+    "responsiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/responsive.mp3",
+  "local_sound_path": "sounds/responsive.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "alongside",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "come alongside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3606.png",
+      "local_image_path": "images/3606.png"
+    },
+    {
+      "pos": "prep",
+      "example": "alongside the dock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3607.png",
+      "local_image_path": "images/3607.png"
+    }
+  ],
+  "synonyms": [
+    "together with",
+    "beside",
+    "along",
+    "near",
+    "next to"
+  ],
+  "antonyms": [
+    "alone"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alongside.mp3",
+  "local_sound_path": "sounds/alongside.mp3"
+}

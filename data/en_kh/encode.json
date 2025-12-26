@@ -1,0 +1,30 @@
+{
+  "word": "encode",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24802.png",
+      "local_image_path": "images/24802.png"
+    }
+  ],
+  "synonyms": [
+    "program",
+    "instruct",
+    "train",
+    "predetermine",
+    "code",
+    "determine",
+    "decide",
+    "fix",
+    "set"
+  ],
+  "antonyms": [
+    "decode"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encode.mp3",
+  "local_sound_path": "sounds/encode.mp3"
+}

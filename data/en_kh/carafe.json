@@ -1,0 +1,29 @@
+{
+  "word": "carafe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12886.png",
+      "local_image_path": "images/12886.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130980.png",
+      "local_image_path": "images/130980.png"
+    }
+  ],
+  "synonyms": [
+    "flask",
+    "decanter",
+    "jug",
+    "bottle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carafe.mp3",
+  "local_sound_path": "sounds/carafe.mp3"
+}

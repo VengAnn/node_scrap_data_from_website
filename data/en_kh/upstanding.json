@@ -1,0 +1,43 @@
+{
+  "word": "upstanding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "upstanding timber",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96806.png",
+      "local_image_path": "images/96806.png"
+    },
+    {
+      "pos": "fig",
+      "example": "upstanding citizen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96807.png",
+      "local_image_path": "images/96807.png"
+    }
+  ],
+  "synonyms": [
+    "honorable",
+    "honest",
+    "decent",
+    "respectable",
+    "virtuous",
+    "trustworthy",
+    "good",
+    "moral",
+    "strong",
+    "sturdy",
+    "hardy",
+    "resilient",
+    "tough",
+    "vigorous"
+  ],
+  "antonyms": [
+    "prone",
+    "degenerate",
+    "weak"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/upstanding.mp3",
+  "local_sound_path": "sounds/upstanding.mp3"
+}

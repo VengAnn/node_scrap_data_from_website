@@ -1,0 +1,62 @@
+{
+  "word": "objective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "objective criticism",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56859.png",
+      "local_image_path": "images/56859.png"
+    },
+    {
+      "pos": "adj",
+      "example": "objective art",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56860.png",
+      "local_image_path": "images/56860.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132408.png",
+      "local_image_path": "images/132408.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56858.png",
+      "local_image_path": "images/56858.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132407.png",
+      "local_image_path": "images/132407.png"
+    }
+  ],
+  "synonyms": [
+    "real",
+    "factual",
+    "actual",
+    "tangible",
+    "object",
+    "purpose",
+    "aim",
+    "point",
+    "idea",
+    "goal",
+    "intention",
+    "intent",
+    "reason"
+  ],
+  "antonyms": [
+    "subjective"
+  ],
+  "similar_words": [
+    "objectively",
+    "objectiveness",
+    "objectives"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/objective.mp3",
+  "local_sound_path": "sounds/objective.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "amplify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3985.png",
+      "local_image_path": "images/3985.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113667.png",
+      "local_image_path": "images/113667.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113668.png",
+      "local_image_path": "images/113668.png"
+    }
+  ],
+  "synonyms": [
+    "elaborate",
+    "expand",
+    "clarify",
+    "develop",
+    "augment"
+  ],
+  "antonyms": [
+    "reduce",
+    "abbreviate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amplify.mp3",
+  "local_sound_path": "sounds/amplify.mp3"
+}

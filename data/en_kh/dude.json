@@ -1,0 +1,32 @@
+{
+  "word": "dude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23338.png",
+      "local_image_path": "images/23338.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23339.png",
+      "local_image_path": "images/23339.png"
+    }
+  ],
+  "synonyms": [
+    "guy",
+    "fellow",
+    "man",
+    "dandy",
+    "fop",
+    "swell",
+    "hipster"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dude.mp3",
+  "local_sound_path": "sounds/dude.mp3"
+}

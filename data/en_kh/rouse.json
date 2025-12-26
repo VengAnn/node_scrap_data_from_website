@@ -1,0 +1,60 @@
+{
+  "word": "rouse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74358.png",
+      "local_image_path": "images/74358.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74354.png",
+      "local_image_path": "images/74354.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74355.png",
+      "local_image_path": "images/74355.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rouse sb to action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74356.png",
+      "local_image_path": "images/74356.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74357.png",
+      "local_image_path": "images/74357.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127215.png",
+      "local_image_path": "images/127215.png"
+    }
+  ],
+  "synonyms": [
+    "stir",
+    "provoke",
+    "revive",
+    "incite",
+    "move",
+    "awaken",
+    "disturb",
+    "arouse",
+    "galvanize"
+  ],
+  "antonyms": [
+    "lull"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rouse.mp3",
+  "local_sound_path": "sounds/rouse.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "diphthong",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21469.png",
+      "local_image_path": "images/21469.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118338.png",
+      "local_image_path": "images/118338.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118339.png",
+      "local_image_path": "images/118339.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "diphthongization",
+    "diphthongize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diphthong.mp3",
+  "local_sound_path": "sounds/diphthong.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "propriety",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "moral propriety",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67882.png",
+      "local_image_path": "images/67882.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67883.png",
+      "local_image_path": "images/67883.png"
+    },
+    {
+      "pos": "n",
+      "example": "propriety to the situation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67884.png",
+      "local_image_path": "images/67884.png"
+    }
+  ],
+  "synonyms": [
+    "correctness",
+    "aptness",
+    "appropriateness",
+    "decency"
+  ],
+  "antonyms": [
+    "impropriety"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/propriety.mp3",
+  "local_sound_path": "sounds/propriety.mp3"
+}

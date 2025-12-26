@@ -1,0 +1,31 @@
+{
+  "word": "canine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "canine characteristic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12655.png",
+      "local_image_path": "images/12655.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12654.png",
+      "local_image_path": "images/12654.png"
+    }
+  ],
+  "synonyms": [
+    "dog",
+    "pooch",
+    "mongrel",
+    "bow-wow",
+    "cur",
+    "hound"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/canine.mp3",
+  "local_sound_path": "sounds/canine.mp3"
+}

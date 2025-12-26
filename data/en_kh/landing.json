@@ -1,0 +1,42 @@
+{
+  "word": "landing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ferry landing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44742.png",
+      "local_image_path": "images/44742.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44743.png",
+      "local_image_path": "images/44743.png"
+    }
+  ],
+  "synonyms": [
+    "hallway",
+    "corridor",
+    "hall",
+    "getting",
+    "catching",
+    "winning"
+  ],
+  "antonyms": [
+    "losing"
+  ],
+  "similar_words": [
+    "landing card",
+    "landing charges",
+    "landing field",
+    "landing place",
+    "landing stage",
+    "landing trip",
+    "landing-net",
+    "landing-party"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/landing.mp3",
+  "local_sound_path": "sounds/landing.mp3"
+}

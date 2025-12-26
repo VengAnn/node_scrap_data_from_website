@@ -1,0 +1,64 @@
+{
+  "word": "dispatch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dispatch note",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22031.png",
+      "local_image_path": "images/22031.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118559.png",
+      "local_image_path": "images/118559.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118560.png",
+      "local_image_path": "images/118560.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22028.png",
+      "local_image_path": "images/22028.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dispatch business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22029.png",
+      "local_image_path": "images/22029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dispatch the victim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22030.png",
+      "local_image_path": "images/22030.png"
+    }
+  ],
+  "synonyms": [
+    "kill",
+    "murder",
+    "assassinate",
+    "slay",
+    "slaughter"
+  ],
+  "antonyms": [
+    "keep"
+  ],
+  "similar_words": [
+    "dispatch charges",
+    "dispatch department",
+    "dispatch free",
+    "dispatch money",
+    "dispatch station",
+    "dispatcher",
+    "dispatching office"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dispatch.mp3",
+  "local_sound_path": "sounds/dispatch.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "cooperate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "the two schools are cooperating on the project.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17583.png",
+      "local_image_path": "images/17583.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17584.png",
+      "local_image_path": "images/17584.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117579.png",
+      "local_image_path": "images/117579.png"
+    }
+  ],
+  "synonyms": [
+    "collaborate",
+    "liaise",
+    "oblige",
+    "accommodate",
+    "help",
+    "aid",
+    "assist"
+  ],
+  "antonyms": [
+    "hinder"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cooperate.mp3",
+  "local_sound_path": "sounds/cooperate.mp3"
+}

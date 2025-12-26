@@ -1,0 +1,61 @@
+{
+  "word": "influence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39769.png",
+      "local_image_path": "images/39769.png"
+    },
+    {
+      "pos": "n",
+      "example": "man of great influence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39770.png",
+      "local_image_path": "images/39770.png"
+    },
+    {
+      "pos": "n",
+      "example": "destructive influence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39771.png",
+      "local_image_path": "images/39771.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122368.png",
+      "local_image_path": "images/122368.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122369.png",
+      "local_image_path": "images/122369.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122370.png",
+      "local_image_path": "images/122370.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39772.png",
+      "local_image_path": "images/39772.png"
+    }
+  ],
+  "synonyms": [
+    "affect",
+    "change",
+    "inspire",
+    "shape",
+    "motivate",
+    "guide"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/influence.mp3",
+  "local_sound_path": "sounds/influence.mp3"
+}

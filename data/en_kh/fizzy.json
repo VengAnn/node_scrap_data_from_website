@@ -1,0 +1,33 @@
+{
+  "word": "fizzy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fizzy lemonade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28814.png",
+      "local_image_path": "images/28814.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120196.png",
+      "local_image_path": "images/120196.png"
+    }
+  ],
+  "synonyms": [
+    "effervescent",
+    "sparkling",
+    "bubbly",
+    "carbonated",
+    "foamy",
+    "frothy"
+  ],
+  "antonyms": [
+    "still"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fizzy.mp3",
+  "local_sound_path": "sounds/fizzy.mp3"
+}

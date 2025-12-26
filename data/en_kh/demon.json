@@ -1,0 +1,48 @@
+{
+  "word": "demon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20446.png",
+      "local_image_path": "images/20446.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20447.png",
+      "local_image_path": "images/20447.png"
+    }
+  ],
+  "synonyms": [
+    "fiend",
+    "devil",
+    "imp",
+    "sprite",
+    "monster"
+  ],
+  "antonyms": [
+    "angel"
+  ],
+  "similar_words": [
+    "demonetization",
+    "demonetize",
+    "demoniac",
+    "demoniacal",
+    "demonic",
+    "demonifuge",
+    "demonize",
+    "demonologist",
+    "demonology",
+    "demonstrability",
+    "demonstrable",
+    "demonstrably",
+    "demonstrate",
+    "demonstration",
+    "demonstrative"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demon.mp3",
+  "local_sound_path": "sounds/demon.mp3"
+}

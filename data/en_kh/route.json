@@ -1,0 +1,34 @@
+{
+  "word": "route",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "air route",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74372.png",
+      "local_image_path": "images/74372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74373.png",
+      "local_image_path": "images/74373.png"
+    }
+  ],
+  "synonyms": [
+    "direct",
+    "send",
+    "forward",
+    "transmit",
+    "move",
+    "channel",
+    "guide"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "router"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/route.mp3",
+  "local_sound_path": "sounds/route.mp3"
+}

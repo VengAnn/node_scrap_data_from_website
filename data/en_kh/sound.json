@@ -1,0 +1,112 @@
+{
+  "word": "sound",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "sound mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82874.png",
+      "local_image_path": "images/82874.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sound body",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82875.png",
+      "local_image_path": "images/82875.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sound reasoning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82876.png",
+      "local_image_path": "images/82876.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82870.png",
+      "local_image_path": "images/82870.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The plan doesn't sound very reasonable.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82871.png",
+      "local_image_path": "images/82871.png"
+    },
+    {
+      "pos": "iv",
+      "example": "whales sound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82880.png",
+      "local_image_path": "images/82880.png"
+    },
+    {
+      "pos": "n",
+      "example": "hear a sound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82869.png",
+      "local_image_path": "images/82869.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82881.png",
+      "local_image_path": "images/82881.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82882.png",
+      "local_image_path": "images/82882.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82883.png",
+      "local_image_path": "images/82883.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82872.png",
+      "local_image_path": "images/82872.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sound the bell",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82873.png",
+      "local_image_path": "images/82873.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sound the river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82879.png",
+      "local_image_path": "images/82879.png"
+    }
+  ],
+  "synonyms": [
+    "test",
+    "measure",
+    "fathom"
+  ],
+  "antonyms": [
+    "silence",
+    "unsound",
+    "infirm",
+    "damaged",
+    "superficial"
+  ],
+  "similar_words": [
+    "sound-box",
+    "sound-film",
+    "soundable",
+    "sounder",
+    "sounding",
+    "soundings",
+    "soundless",
+    "soundlessly",
+    "soundly",
+    "soundness",
+    "soundproof"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sound.mp3",
+  "local_sound_path": "sounds/sound.mp3"
+}

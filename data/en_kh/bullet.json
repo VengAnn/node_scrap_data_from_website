@@ -1,0 +1,33 @@
+{
+  "word": "bullet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "he was killed by a single bullet in the heart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11773.png",
+      "local_image_path": "images/11773.png"
+    }
+  ],
+  "synonyms": [
+    "projectile",
+    "shot",
+    "pellet",
+    "slug",
+    "shell",
+    "cartridge",
+    "buckshot",
+    "ball",
+    "round"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bullet train",
+    "bulletin",
+    "bulletin board",
+    "bulletproof"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bullet.mp3",
+  "local_sound_path": "sounds/bullet.mp3"
+}

@@ -1,0 +1,101 @@
+{
+  "word": "block",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "(printing) block letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9602.png",
+      "local_image_path": "images/9602.png"
+    },
+    {
+      "pos": "n",
+      "example": "the butcher cut up his meat on a large block of wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9600.png",
+      "local_image_path": "images/9600.png"
+    },
+    {
+      "pos": "tv",
+      "example": "block the road",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9601.png",
+      "local_image_path": "images/9601.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115231.png",
+      "local_image_path": "images/115231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115232.png",
+      "local_image_path": "images/115232.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115233.png",
+      "local_image_path": "images/115233.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115234.png",
+      "local_image_path": "images/115234.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115235.png",
+      "local_image_path": "images/115235.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115236.png",
+      "local_image_path": "images/115236.png"
+    }
+  ],
+  "synonyms": [
+    "obstruct",
+    "impede",
+    "hinder",
+    "jam",
+    "prevent",
+    "oppose",
+    "stop",
+    "blockade",
+    "bar",
+    "check",
+    "deter",
+    "frustrate",
+    "thwart"
+  ],
+  "antonyms": [
+    "encourage"
+  ],
+  "similar_words": [
+    "block and tackle",
+    "block head",
+    "block letter",
+    "block plan",
+    "block printing",
+    "block signal",
+    "block system",
+    "blockade",
+    "blockade-runner",
+    "blockade-running",
+    "blockader",
+    "blockage",
+    "blockbuster",
+    "blockbustering",
+    "blockbusting",
+    "blocke",
+    "blockhouse",
+    "blockish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/block.mp3",
+  "local_sound_path": "sounds/block.mp3"
+}

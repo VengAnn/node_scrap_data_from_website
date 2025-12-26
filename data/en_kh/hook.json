@@ -1,0 +1,78 @@
+{
+  "word": "hook",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35865.png",
+      "local_image_path": "images/35865.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35859.png",
+      "local_image_path": "images/35859.png"
+    },
+    {
+      "pos": "n",
+      "example": "left hook",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35860.png",
+      "local_image_path": "images/35860.png"
+    },
+    {
+      "pos": "sl",
+      "example": "hook an apple",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35864.png",
+      "local_image_path": "images/35864.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35861.png",
+      "local_image_path": "images/35861.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hook fish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35862.png",
+      "local_image_path": "images/35862.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hook arms",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35863.png",
+      "local_image_path": "images/35863.png"
+    }
+  ],
+  "synonyms": [
+    "fastener",
+    "clasp",
+    "clip",
+    "catch",
+    "popper",
+    "fastening",
+    "fasten",
+    "attach",
+    "secure",
+    "join",
+    "tie",
+    "button",
+    "couple",
+    "fix"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hook-nose",
+    "hook-up",
+    "hooked",
+    "hooker",
+    "hooklet",
+    "hookworm",
+    "hookworm disease",
+    "hooky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hook.mp3",
+  "local_sound_path": "sounds/hook.mp3"
+}

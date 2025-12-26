@@ -1,0 +1,50 @@
+{
+  "word": "remedy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "find a remedy to the problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72004.png",
+      "local_image_path": "images/72004.png"
+    },
+    {
+      "pos": "n",
+      "example": "folk remedy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72005.png",
+      "local_image_path": "images/72005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72006.png",
+      "local_image_path": "images/72006.png"
+    },
+    {
+      "pos": "tv",
+      "example": "remedy an illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72007.png",
+      "local_image_path": "images/72007.png"
+    },
+    {
+      "pos": "tv",
+      "example": "remedy a problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72008.png",
+      "local_image_path": "images/72008.png"
+    }
+  ],
+  "synonyms": [
+    "resolve",
+    "correct",
+    "improve",
+    "solve",
+    "fix"
+  ],
+  "antonyms": [
+    "exacerbate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remedy.mp3",
+  "local_sound_path": "sounds/remedy.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "word": "target",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "target date",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87573.png",
+      "local_image_path": "images/87573.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87569.png",
+      "local_image_path": "images/87569.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87570.png",
+      "local_image_path": "images/87570.png"
+    },
+    {
+      "pos": "n",
+      "example": "This book will be the target of bitter criticism.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87571.png",
+      "local_image_path": "images/87571.png"
+    },
+    {
+      "pos": "n",
+      "example": "economic target",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87572.png",
+      "local_image_path": "images/87572.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87574.png",
+      "local_image_path": "images/87574.png"
+    }
+  ],
+  "synonyms": [
+    "direct",
+    "aim",
+    "point",
+    "steer",
+    "pursue",
+    "affect"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "target date",
+    "target market"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/target.mp3",
+  "local_sound_path": "sounds/target.mp3"
+}

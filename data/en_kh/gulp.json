@@ -1,0 +1,52 @@
+{
+  "word": "gulp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33262.png",
+      "local_image_path": "images/33262.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120849.png",
+      "local_image_path": "images/120849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120850.png",
+      "local_image_path": "images/120850.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120851.png",
+      "local_image_path": "images/120851.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33261.png",
+      "local_image_path": "images/33261.png"
+    }
+  ],
+  "synonyms": [
+    "mouthful",
+    "swig",
+    "slug",
+    "swallow",
+    "guzzle",
+    "drink",
+    "quaff"
+  ],
+  "antonyms": [
+    "sip"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gulp.mp3",
+  "local_sound_path": "sounds/gulp.mp3"
+}

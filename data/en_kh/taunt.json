@@ -1,0 +1,47 @@
+{
+  "word": "taunt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87687.png",
+      "local_image_path": "images/87687.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87685.png",
+      "local_image_path": "images/87685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They taunted the boy with being a coward.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87684.png",
+      "local_image_path": "images/87684.png"
+    }
+  ],
+  "synonyms": [
+    "insult",
+    "gibe",
+    "sneer",
+    "affront",
+    "criticism",
+    "derision",
+    "mock",
+    "tease",
+    "jeer",
+    "goad",
+    "criticize",
+    "ridicule",
+    "deride",
+    "provoke"
+  ],
+  "antonyms": [
+    "compliment"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/taunt.mp3",
+  "local_sound_path": "sounds/taunt.mp3"
+}

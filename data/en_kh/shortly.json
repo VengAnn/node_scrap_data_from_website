@@ -1,0 +1,43 @@
+{
+  "word": "shortly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79445.png",
+      "local_image_path": "images/79445.png"
+    },
+    {
+      "pos": "adv",
+      "example": "arrive shortly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79446.png",
+      "local_image_path": "images/79446.png"
+    },
+    {
+      "pos": "adv",
+      "example": "answer shortly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79447.png",
+      "local_image_path": "images/79447.png"
+    }
+  ],
+  "synonyms": [
+    "curtly",
+    "brusquely",
+    "abruptly",
+    "briskly",
+    "tersely",
+    "sharply",
+    "gruffly",
+    "rudely",
+    "discourteously"
+  ],
+  "antonyms": [
+    "pleasantly",
+    "later"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shortly.mp3",
+  "local_sound_path": "sounds/shortly.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "word": "bore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10237.png",
+      "local_image_path": "images/10237.png"
+    },
+    {
+      "pos": "n",
+      "example": "he is a bore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10239.png",
+      "local_image_path": "images/10239.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115409.png",
+      "local_image_path": "images/115409.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115410.png",
+      "local_image_path": "images/115410.png"
+    },
+    {
+      "pos": "tv",
+      "example": "that man bores me, I've heard all his stories before",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10238.png",
+      "local_image_path": "images/10238.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115411.png",
+      "local_image_path": "images/115411.png"
+    },
+    {
+      "pos": "v",
+      "example": "some animals bore their way under the ground",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10236.png",
+      "local_image_path": "images/10236.png"
+    }
+  ],
+  "synonyms": [
+    "tire",
+    "weary",
+    "irk",
+    "developed"
+  ],
+  "antonyms": [
+    "interest",
+    "laugh"
+  ],
+  "similar_words": [
+    "boreal",
+    "Boreas",
+    "borecole",
+    "bored",
+    "boredom",
+    "borer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bore.mp3",
+  "local_sound_path": "sounds/bore.mp3"
+}

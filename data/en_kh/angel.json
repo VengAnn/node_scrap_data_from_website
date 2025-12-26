@@ -1,0 +1,54 @@
+{
+  "word": "angel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "to entertain an angel unawares",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4245.png",
+      "local_image_path": "images/4245.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113719.png",
+      "local_image_path": "images/113719.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113720.png",
+      "local_image_path": "images/113720.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113721.png",
+      "local_image_path": "images/113721.png"
+    }
+  ],
+  "synonyms": [
+    "seraph",
+    "archangel",
+    "cherub",
+    "messenger",
+    "spirit"
+  ],
+  "antonyms": [
+    "devil"
+  ],
+  "similar_words": [
+    "angelfish",
+    "angelic",
+    "angelical",
+    "angelically",
+    "angelolatry",
+    "angelology",
+    "angelophany",
+    "angelot",
+    "angelus"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/angel.mp3",
+  "local_sound_path": "sounds/angel.mp3"
+}

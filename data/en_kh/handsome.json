@@ -1,0 +1,40 @@
+{
+  "word": "handsome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He is very handsome",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33738.png",
+      "local_image_path": "images/33738.png"
+    },
+    {
+      "pos": "adj",
+      "example": "handsome reward",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33739.png",
+      "local_image_path": "images/33739.png"
+    }
+  ],
+  "synonyms": [
+    "generous",
+    "substantial",
+    "sizable",
+    "attractive",
+    "liberal",
+    "considerable",
+    "abundant",
+    "ample",
+    "princely"
+  ],
+  "antonyms": [
+    "ugly",
+    "ungenerous"
+  ],
+  "similar_words": [
+    "handsomely",
+    "handsomeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/handsome.mp3",
+  "local_sound_path": "sounds/handsome.mp3"
+}

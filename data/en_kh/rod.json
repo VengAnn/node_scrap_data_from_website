@@ -1,0 +1,43 @@
+{
+  "word": "rod",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "metal rod",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73960.png",
+      "local_image_path": "images/73960.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73961.png",
+      "local_image_path": "images/73961.png"
+    },
+    {
+      "pos": "n",
+      "example": "carry a rod",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73962.png",
+      "local_image_path": "images/73962.png"
+    }
+  ],
+  "synonyms": [
+    "bar",
+    "pole",
+    "stick",
+    "shaft"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rode",
+    "rodent",
+    "rodenticide",
+    "rodeo",
+    "rodomont",
+    "rodomontade",
+    "rodundity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rod.mp3",
+  "local_sound_path": "sounds/rod.mp3"
+}

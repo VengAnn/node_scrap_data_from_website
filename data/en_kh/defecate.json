@@ -1,0 +1,44 @@
+{
+  "word": "defecate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131442.png",
+      "local_image_path": "images/131442.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131440.png",
+      "local_image_path": "images/131440.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131441.png",
+      "local_image_path": "images/131441.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20129.png",
+      "local_image_path": "images/20129.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131443.png",
+      "local_image_path": "images/131443.png"
+    }
+  ],
+  "synonyms": [
+    "excrete",
+    "expel",
+    "evacuate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null
+}

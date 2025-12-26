@@ -1,0 +1,107 @@
+{
+  "word": "free",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "free country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30164.png",
+      "local_image_path": "images/30164.png"
+    },
+    {
+      "pos": "adj",
+      "example": "free time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30165.png",
+      "local_image_path": "images/30165.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120428.png",
+      "local_image_path": "images/120428.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120429.png",
+      "local_image_path": "images/120429.png"
+    },
+    {
+      "pos": "adv",
+      "example": "go free",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30168.png",
+      "local_image_path": "images/30168.png"
+    },
+    {
+      "pos": "adv",
+      "example": "eat free",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30169.png",
+      "local_image_path": "images/30169.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30166.png",
+      "local_image_path": "images/30166.png"
+    },
+    {
+      "pos": "tv",
+      "example": "free him from danger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30167.png",
+      "local_image_path": "images/30167.png"
+    }
+  ],
+  "synonyms": [
+    "liberated",
+    "open",
+    "unbound",
+    "boundless",
+    "limitless",
+    "uncontrolled",
+    "uninhibited",
+    "exempt",
+    "rid",
+    "unburden",
+    "excuse",
+    "pardon"
+  ],
+  "antonyms": [
+    "restricted",
+    "conventional",
+    "working",
+    "expensive",
+    "imprison",
+    "hamper"
+  ],
+  "similar_words": [
+    "free city",
+    "free enterprise",
+    "free love",
+    "free sale",
+    "free thought",
+    "free trade",
+    "free ware",
+    "free world",
+    "free-for-all",
+    "free-hold",
+    "free-lance",
+    "free-living",
+    "free-load",
+    "free-port",
+    "free-quarter",
+    "free-spoken",
+    "free-thinker",
+    "free-thinking",
+    "free-wheel",
+    "free-will",
+    "freebie",
+    "freeboot",
+    "freebooter",
+    "freed",
+    "freedman",
+    "freedom"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/free.mp3",
+  "local_sound_path": "sounds/free.mp3"
+}

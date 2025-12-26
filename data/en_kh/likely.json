@@ -1,0 +1,43 @@
+{
+  "word": "likely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46545.png",
+      "local_image_path": "images/46545.png"
+    },
+    {
+      "pos": "adj",
+      "example": "likely story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46546.png",
+      "local_image_path": "images/46546.png"
+    },
+    {
+      "pos": "adj",
+      "example": "likely to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46547.png",
+      "local_image_path": "images/46547.png"
+    },
+    {
+      "pos": "adj",
+      "example": "likely enough",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46548.png",
+      "local_image_path": "images/46548.png"
+    }
+  ],
+  "synonyms": [
+    "liable",
+    "apt",
+    "prone",
+    "tending"
+  ],
+  "antonyms": [
+    "unlikely"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/likely.mp3",
+  "local_sound_path": "sounds/likely.mp3"
+}

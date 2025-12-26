@@ -1,0 +1,45 @@
+{
+  "word": "teem",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Fish team in this river.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87923.png",
+      "local_image_path": "images/87923.png"
+    },
+    {
+      "pos": "iv",
+      "example": "teem with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87924.png",
+      "local_image_path": "images/87924.png"
+    },
+    {
+      "pos": "iv",
+      "example": "teem down/with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87925.png",
+      "local_image_path": "images/87925.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87926.png",
+      "local_image_path": "images/87926.png"
+    }
+  ],
+  "synonyms": [
+    "pour",
+    "stream",
+    "rain",
+    "pelt",
+    "bucket"
+  ],
+  "antonyms": [
+    "disperse",
+    "drizzle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/teem.mp3",
+  "local_sound_path": "sounds/teem.mp3"
+}

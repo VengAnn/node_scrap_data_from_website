@@ -1,0 +1,51 @@
+{
+  "word": "tattle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "She loves to tattle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87669.png",
+      "local_image_path": "images/87669.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87671.png",
+      "local_image_path": "images/87671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87670.png",
+      "local_image_path": "images/87670.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128079.png",
+      "local_image_path": "images/128079.png"
+    }
+  ],
+  "synonyms": [
+    "tittle-tattle",
+    "gossip",
+    "prattle",
+    "chat",
+    "chatter",
+    "snitch",
+    "talk",
+    "sneak",
+    "grass"
+  ],
+  "antonyms": [
+    "fact"
+  ],
+  "similar_words": [
+    "tattler",
+    "tattletale"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tattle.mp3",
+  "local_sound_path": "sounds/tattle.mp3"
+}

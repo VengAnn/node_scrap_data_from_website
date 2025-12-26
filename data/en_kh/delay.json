@@ -1,0 +1,35 @@
+{
+  "word": "delay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20288.png",
+      "local_image_path": "images/20288.png"
+    },
+    {
+      "pos": "n",
+      "example": "grant a delay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20289.png",
+      "local_image_path": "images/20289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "must delay the meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20287.png",
+      "local_image_path": "images/20287.png"
+    }
+  ],
+  "synonyms": [
+    "hesitate",
+    "vacillate",
+    "waver",
+    "falter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/delay.mp3",
+  "local_sound_path": "sounds/delay.mp3"
+}

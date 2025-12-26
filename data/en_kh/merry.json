@@ -1,0 +1,79 @@
+{
+  "word": "merry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "merry party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107940.png",
+      "local_image_path": "images/107940.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107941.png",
+      "local_image_path": "images/107941.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107942.png",
+      "local_image_path": "images/107942.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123933.png",
+      "local_image_path": "images/123933.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123934.png",
+      "local_image_path": "images/123934.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123935.png",
+      "local_image_path": "images/123935.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123936.png",
+      "local_image_path": "images/123936.png"
+    }
+  ],
+  "synonyms": [
+    "happy",
+    "joyous",
+    "cheery",
+    "cheerful",
+    "jolly",
+    "joyful",
+    "laughing",
+    "gay",
+    "lively"
+  ],
+  "antonyms": [
+    "miserable"
+  ],
+  "similar_words": [
+    "merry christmas",
+    "merry make",
+    "merry maker",
+    "merry making",
+    "merry man",
+    "merry meeting",
+    "merry-andrew",
+    "merry-andrewism",
+    "merry-andrewize",
+    "merry-go down",
+    "merry-go round",
+    "merryhearted"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/merry.mp3",
+  "local_sound_path": "sounds/merry.mp3"
+}

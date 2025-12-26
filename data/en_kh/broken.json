@@ -1,0 +1,49 @@
+{
+  "word": "broken",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "broken line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11356.png",
+      "local_image_path": "images/11356.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131047.png",
+      "local_image_path": "images/131047.png"
+    }
+  ],
+  "synonyms": [
+    "dejected",
+    "dispirited",
+    "beaten",
+    "topped",
+    "cracked"
+  ],
+  "antonyms": [
+    "intact",
+    "working",
+    "triumphant"
+  ],
+  "similar_words": [
+    "broken English",
+    "broken home",
+    "broken line",
+    "broken meat",
+    "broken reed",
+    "broken wind",
+    "broken-backed",
+    "broken-down",
+    "broken-hearted",
+    "broken-heartedly",
+    "broken-heartedness",
+    "broken-mouthed",
+    "brokenly",
+    "brokenness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/broken.mp3",
+  "local_sound_path": "sounds/broken.mp3"
+}

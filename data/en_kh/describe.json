@@ -1,0 +1,40 @@
+{
+  "word": "describe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "describe a scene",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20802.png",
+      "local_image_path": "images/20802.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He describes me as English teacher.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20803.png",
+      "local_image_path": "images/20803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20804.png",
+      "local_image_path": "images/20804.png"
+    }
+  ],
+  "synonyms": [
+    "explain",
+    "portray",
+    "depict",
+    "illustrate",
+    "express",
+    "tell",
+    "communicate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "described"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/describe.mp3",
+  "local_sound_path": "sounds/describe.mp3"
+}

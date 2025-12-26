@@ -1,0 +1,36 @@
+{
+  "word": "clinical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "clinical medecine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15039.png",
+      "local_image_path": "images/15039.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116482.png",
+      "local_image_path": "images/116482.png"
+    }
+  ],
+  "synonyms": [
+    "detached",
+    "disinterested",
+    "dispassionate",
+    "scientific",
+    "cold",
+    "distant",
+    "objective",
+    "unemotional"
+  ],
+  "antonyms": [
+    "theoretical",
+    "personal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clinical.mp3",
+  "local_sound_path": "sounds/clinical.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "deform",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20223.png",
+      "local_image_path": "images/20223.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117921.png",
+      "local_image_path": "images/117921.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117922.png",
+      "local_image_path": "images/117922.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117923.png",
+      "local_image_path": "images/117923.png"
+    }
+  ],
+  "synonyms": [
+    "distort",
+    "bend",
+    "warp",
+    "buckle",
+    "bow",
+    "collapse",
+    "twist"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "deformability",
+    "deformable",
+    "deformation",
+    "deformed",
+    "deformity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deform.mp3",
+  "local_sound_path": "sounds/deform.mp3"
+}

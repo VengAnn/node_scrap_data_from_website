@@ -1,0 +1,60 @@
+{
+  "word": "grit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sediment of grit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32971.png",
+      "local_image_path": "images/32971.png"
+    },
+    {
+      "pos": "n",
+      "example": "chicken grit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32972.png",
+      "local_image_path": "images/32972.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a lot of grit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32973.png",
+      "local_image_path": "images/32973.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32974.png",
+      "local_image_path": "images/32974.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32975.png",
+      "local_image_path": "images/32975.png"
+    }
+  ],
+  "synonyms": [
+    "determination",
+    "perseverance",
+    "bravery",
+    "tenacity",
+    "fortitude",
+    "courage",
+    "clench",
+    "grind",
+    "gnash",
+    "grate"
+  ],
+  "antonyms": [
+    "cowardice"
+  ],
+  "similar_words": [
+    "grits",
+    "grittily",
+    "grittiness",
+    "gritty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grit.mp3",
+  "local_sound_path": "sounds/grit.mp3"
+}

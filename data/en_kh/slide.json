@@ -1,0 +1,63 @@
+{
+  "word": "slide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "slide down a hill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81205.png",
+      "local_image_path": "images/81205.png"
+    },
+    {
+      "pos": "iv",
+      "example": "let things slide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81206.png",
+      "local_image_path": "images/81206.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81207.png",
+      "local_image_path": "images/81207.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81208.png",
+      "local_image_path": "images/81208.png"
+    },
+    {
+      "pos": "n",
+      "example": "go into a slide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81209.png",
+      "local_image_path": "images/81209.png"
+    },
+    {
+      "pos": "n",
+      "example": "playground slide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81210.png",
+      "local_image_path": "images/81210.png"
+    }
+  ],
+  "synonyms": [
+    "fall",
+    "decrease",
+    "diminish",
+    "drop"
+  ],
+  "antonyms": [
+    "rise",
+    "print"
+  ],
+  "similar_words": [
+    "slide scale",
+    "slide-block",
+    "slide-fastener",
+    "slide-rule",
+    "slide-way",
+    "slider"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slide.mp3",
+  "local_sound_path": "sounds/slide.mp3"
+}

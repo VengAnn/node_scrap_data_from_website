@@ -1,0 +1,36 @@
+{
+  "word": "penniless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61387.png",
+      "local_image_path": "images/61387.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125303.png",
+      "local_image_path": "images/125303.png"
+    }
+  ],
+  "synonyms": [
+    "impecunious",
+    "destitute",
+    "bankrupt",
+    "insolvent",
+    "broke",
+    "poor"
+  ],
+  "antonyms": [
+    "rich"
+  ],
+  "similar_words": [
+    "pennilessly",
+    "pennilessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/penniless.mp3",
+  "local_sound_path": "sounds/penniless.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "payload",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60850.png",
+      "local_image_path": "images/60850.png"
+    }
+  ],
+  "synonyms": [
+    "load",
+    "freight",
+    "consignment",
+    "shipment",
+    "goods",
+    "cargo",
+    "lading",
+    "burden"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/payload.mp3",
+  "local_sound_path": "sounds/payload.mp3"
+}

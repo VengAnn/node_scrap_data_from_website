@@ -1,0 +1,79 @@
+{
+  "word": "bitter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bitter medicine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9221.png",
+      "local_image_path": "images/9221.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115122.png",
+      "local_image_path": "images/115122.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115123.png",
+      "local_image_path": "images/115123.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115124.png",
+      "local_image_path": "images/115124.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115125.png",
+      "local_image_path": "images/115125.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115126.png",
+      "local_image_path": "images/115126.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9222.png",
+      "local_image_path": "images/9222.png"
+    }
+  ],
+  "synonyms": [
+    "icy",
+    "biting",
+    "raw",
+    "polar",
+    "sharp",
+    "piercing",
+    "cutting",
+    "stinging",
+    "glacial",
+    "cold"
+  ],
+  "antonyms": [
+    "sweet",
+    "resigned",
+    "cordial",
+    "hot",
+    "pleasant",
+    "glad"
+  ],
+  "similar_words": [
+    "bitterful",
+    "bitterling",
+    "bitterly",
+    "bittern",
+    "bitterness",
+    "bitters weet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bitter.mp3",
+  "local_sound_path": "sounds/bitter.mp3"
+}

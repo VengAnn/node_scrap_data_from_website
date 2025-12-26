@@ -1,0 +1,35 @@
+{
+  "word": "adulterous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2535.png",
+      "local_image_path": "images/2535.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112029.png",
+      "local_image_path": "images/112029.png"
+    }
+  ],
+  "synonyms": [
+    "disloyal",
+    "false",
+    "untrue",
+    "treacherous",
+    "traitorous",
+    "faithless"
+  ],
+  "antonyms": [
+    "faithful"
+  ],
+  "similar_words": [
+    "adulterously"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adulterous.mp3",
+  "local_sound_path": "sounds/adulterous.mp3"
+}

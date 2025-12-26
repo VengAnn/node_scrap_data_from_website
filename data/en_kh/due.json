@@ -1,0 +1,77 @@
+{
+  "word": "due",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "due bill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23341.png",
+      "local_image_path": "images/23341.png"
+    },
+    {
+      "pos": "adj",
+      "example": "in due time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23342.png",
+      "local_image_path": "images/23342.png"
+    },
+    {
+      "pos": "adj",
+      "example": "due to circumstances",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23343.png",
+      "local_image_path": "images/23343.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23344.png",
+      "local_image_path": "images/23344.png"
+    },
+    {
+      "pos": "adv",
+      "example": "due east",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23347.png",
+      "local_image_path": "images/23347.png"
+    },
+    {
+      "pos": "n",
+      "example": "give him his due",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23345.png",
+      "local_image_path": "images/23345.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23346.png",
+      "local_image_path": "images/23346.png"
+    }
+  ],
+  "synonyms": [
+    "directly",
+    "exactly",
+    "straight",
+    "precisely",
+    "direct",
+    "dead"
+  ],
+  "antonyms": [
+    "paid",
+    "undue",
+    "indirectly"
+  ],
+  "similar_words": [
+    "due date",
+    "due time",
+    "due-card",
+    "duecard process of law",
+    "duel",
+    "dueler",
+    "duelist",
+    "duellist",
+    "duenna",
+    "dues",
+    "duet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/due.mp3",
+  "local_sound_path": "sounds/due.mp3"
+}

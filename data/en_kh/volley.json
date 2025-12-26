@@ -1,0 +1,54 @@
+{
+  "word": "volley",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The guns volleyed on all side",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98533.png",
+      "local_image_path": "images/98533.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98534.png",
+      "local_image_path": "images/98534.png"
+    },
+    {
+      "pos": "n",
+      "example": "volley of shots",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98530.png",
+      "local_image_path": "images/98530.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98531.png",
+      "local_image_path": "images/98531.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98532.png",
+      "local_image_path": "images/98532.png"
+    }
+  ],
+  "synonyms": [
+    "torrent",
+    "shower",
+    "stream",
+    "cascade",
+    "hail",
+    "broadside",
+    "barrage",
+    "lob",
+    "hit",
+    "strike",
+    "kick"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/volley.mp3",
+  "local_sound_path": "sounds/volley.mp3"
+}

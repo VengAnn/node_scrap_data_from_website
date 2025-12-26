@@ -1,0 +1,50 @@
+{
+  "word": "amenity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "have all the amenities",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3847.png",
+      "local_image_path": "images/3847.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112449.png",
+      "local_image_path": "images/112449.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112450.png",
+      "local_image_path": "images/112450.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112451.png",
+      "local_image_path": "images/112451.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112452.png",
+      "local_image_path": "images/112452.png"
+    }
+  ],
+  "synonyms": [
+    "pleasantness",
+    "attractiveness",
+    "niceness",
+    "affability",
+    "goodness"
+  ],
+  "antonyms": [
+    "discomfort"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amenity.mp3",
+  "local_sound_path": "sounds/amenity.mp3"
+}

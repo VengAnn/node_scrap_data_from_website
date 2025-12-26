@@ -1,0 +1,48 @@
+{
+  "word": "legend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45719.png",
+      "local_image_path": "images/45719.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45720.png",
+      "local_image_path": "images/45720.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45721.png",
+      "local_image_path": "images/45721.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45722.png",
+      "local_image_path": "images/45722.png"
+    }
+  ],
+  "synonyms": [
+    "star",
+    "celebrity",
+    "prodigy",
+    "marvel",
+    "icon",
+    "personality"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "legendarian",
+    "legendary",
+    "legendic",
+    "legendry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/legend.mp3",
+  "local_sound_path": "sounds/legend.mp3"
+}

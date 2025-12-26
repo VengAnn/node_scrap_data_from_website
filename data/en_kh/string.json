@@ -1,0 +1,64 @@
+{
+  "word": "string",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85437.png",
+      "local_image_path": "images/85437.png"
+    },
+    {
+      "pos": "n",
+      "example": "cotton string",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85433.png",
+      "local_image_path": "images/85433.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85434.png",
+      "local_image_path": "images/85434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "string beads",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85435.png",
+      "local_image_path": "images/85435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "string a wire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85436.png",
+      "local_image_path": "images/85436.png"
+    }
+  ],
+  "synonyms": [
+    "sequence",
+    "series",
+    "run",
+    "chain",
+    "succession",
+    "row",
+    "line",
+    "thread",
+    "wind",
+    "loop",
+    "lace",
+    "ease"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "stringbean",
+    "stringed instrument",
+    "stringency",
+    "stringent",
+    "stringently",
+    "stringer",
+    "stringless",
+    "stringy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/string.mp3",
+  "local_sound_path": "sounds/string.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "alchemy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3273.png",
+      "local_image_path": "images/3273.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113497.png",
+      "local_image_path": "images/113497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131683.png",
+      "local_image_path": "images/131683.png"
+    }
+  ],
+  "synonyms": [
+    "experimentation",
+    "transformation",
+    "pseudoscience"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alchemy.mp3",
+  "local_sound_path": "sounds/alchemy.mp3"
+}

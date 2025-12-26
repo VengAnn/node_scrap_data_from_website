@@ -1,0 +1,42 @@
+{
+  "word": "decoration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20040.png",
+      "local_image_path": "images/20040.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117856.png",
+      "local_image_path": "images/117856.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117857.png",
+      "local_image_path": "images/117857.png"
+    }
+  ],
+  "synonyms": [
+    "honor",
+    "medal",
+    "award",
+    "feature",
+    "festoon",
+    "beading",
+    "border",
+    "carving",
+    "garland",
+    "sequin",
+    "wreath"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decoration.mp3",
+  "local_sound_path": "sounds/decoration.mp3"
+}

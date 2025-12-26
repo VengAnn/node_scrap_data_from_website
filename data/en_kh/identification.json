@@ -1,0 +1,39 @@
+{
+  "word": "identification",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "identification of the problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37081.png",
+      "local_image_path": "images/37081.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121356.png",
+      "local_image_path": "images/121356.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121357.png",
+      "local_image_path": "images/121357.png"
+    }
+  ],
+  "synonyms": [
+    "association",
+    "connection",
+    "relationship",
+    "link",
+    "recognition",
+    "classification",
+    "detection",
+    "discovery"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/identification.mp3",
+  "local_sound_path": "sounds/identification.mp3"
+}

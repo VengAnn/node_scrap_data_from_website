@@ -1,0 +1,35 @@
+{
+  "word": "pandemonium",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59635.png",
+      "local_image_path": "images/59635.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59644.png",
+      "local_image_path": "images/59644.png"
+    }
+  ],
+  "synonyms": [
+    "chaos",
+    "mayhem",
+    "bedlam",
+    "racket",
+    "uproar",
+    "hubbub"
+  ],
+  "antonyms": [
+    "peace",
+    "calm",
+    "order"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pandemonium.mp3",
+  "local_sound_path": "sounds/pandemonium.mp3"
+}

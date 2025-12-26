@@ -1,0 +1,38 @@
+{
+  "word": "albumen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3257.png",
+      "local_image_path": "images/3257.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113494.png",
+      "local_image_path": "images/113494.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113495.png",
+      "local_image_path": "images/113495.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113496.png",
+      "local_image_path": "images/113496.png"
+    }
+  ],
+  "synonyms": [
+    "white"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/albumen.mp3",
+  "local_sound_path": "sounds/albumen.mp3"
+}

@@ -1,0 +1,73 @@
+{
+  "word": "title",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "title role",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89773.png",
+      "local_image_path": "images/89773.png"
+    },
+    {
+      "pos": "n",
+      "example": "title of a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89767.png",
+      "local_image_path": "images/89767.png"
+    },
+    {
+      "pos": "n",
+      "example": "win the title",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89768.png",
+      "local_image_path": "images/89768.png"
+    },
+    {
+      "pos": "n",
+      "example": "title to the inheritance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89769.png",
+      "local_image_path": "images/89769.png"
+    },
+    {
+      "pos": "n",
+      "example": "title of ownership",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89770.png",
+      "local_image_path": "images/89770.png"
+    },
+    {
+      "pos": "tv",
+      "example": "title a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89771.png",
+      "local_image_path": "images/89771.png"
+    },
+    {
+      "pos": "tv",
+      "example": "title property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89772.png",
+      "local_image_path": "images/89772.png"
+    }
+  ],
+  "synonyms": [
+    "ownership",
+    "entitlement",
+    "deed",
+    "right",
+    "claim",
+    "call",
+    "name",
+    "label",
+    "designate",
+    "identify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "title-deed",
+    "title-holder",
+    "title-page",
+    "titled",
+    "titler",
+    "titlerole",
+    "titless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/title.mp3",
+  "local_sound_path": "sounds/title.mp3"
+}

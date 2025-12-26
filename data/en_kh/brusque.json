@@ -1,0 +1,53 @@
+{
+  "word": "brusque",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "his reply was brusque",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11565.png",
+      "local_image_path": "images/11565.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115733.png",
+      "local_image_path": "images/115733.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115734.png",
+      "local_image_path": "images/115734.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115735.png",
+      "local_image_path": "images/115735.png"
+    }
+  ],
+  "synonyms": [
+    "abrupt",
+    "curt",
+    "offhand",
+    "rough",
+    "brisk",
+    "gruff",
+    "harsh",
+    "terse",
+    "short"
+  ],
+  "antonyms": [
+    "civil",
+    "gentle"
+  ],
+  "similar_words": [
+    "brusquely",
+    "brusqueness",
+    "brusquerie"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brusque.mp3",
+  "local_sound_path": "sounds/brusque.mp3"
+}

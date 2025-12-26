@@ -1,0 +1,46 @@
+{
+  "word": "channel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "navigable channel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13802.png",
+      "local_image_path": "images/13802.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130058.png",
+      "local_image_path": "images/130058.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130059.png",
+      "local_image_path": "images/130059.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you should channel goods through a dealer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13803.png",
+      "local_image_path": "images/13803.png"
+    }
+  ],
+  "synonyms": [
+    "ditch",
+    "dike",
+    "groove",
+    "drain",
+    "trench",
+    "duct",
+    "concentrate",
+    "focus",
+    "direct"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/channel.mp3",
+  "local_sound_path": "sounds/channel.mp3"
+}

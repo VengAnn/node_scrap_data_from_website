@@ -1,0 +1,29 @@
+{
+  "word": "presently",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "presently occupied",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66578.png",
+      "local_image_path": "images/66578.png"
+    },
+    {
+      "pos": "adv",
+      "example": "be here presently",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66579.png",
+      "local_image_path": "images/66579.png"
+    }
+  ],
+  "synonyms": [
+    "currently",
+    "now",
+    "soon",
+    "shortly"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/presently.mp3",
+  "local_sound_path": "sounds/presently.mp3"
+}

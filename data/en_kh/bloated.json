@@ -1,0 +1,35 @@
+{
+  "word": "bloated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "look at that fat, ugly man, bloated with over eating",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9592.png",
+      "local_image_path": "images/9592.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131357.png",
+      "local_image_path": "images/131357.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131358.png",
+      "local_image_path": "images/131358.png"
+    }
+  ],
+  "synonyms": [
+    "swollen",
+    "full",
+    "puffy",
+    "inflated"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bloated.mp3",
+  "local_sound_path": "sounds/bloated.mp3"
+}

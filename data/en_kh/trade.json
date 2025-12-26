@@ -1,0 +1,84 @@
+{
+  "word": "trade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "They trade with our company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90688.png",
+      "local_image_path": "images/90688.png"
+    },
+    {
+      "pos": "n",
+      "example": "foreign trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90683.png",
+      "local_image_path": "images/90683.png"
+    },
+    {
+      "pos": "n",
+      "example": "follow a trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90684.png",
+      "local_image_path": "images/90684.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Britain trades with many European countries.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90685.png",
+      "local_image_path": "images/90685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trade my car for yours",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90686.png",
+      "local_image_path": "images/90686.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Which stores do you trade at?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90687.png",
+      "local_image_path": "images/90687.png"
+    }
+  ],
+  "synonyms": [
+    "clientele",
+    "public",
+    "market",
+    "exchange",
+    "swap",
+    "barter",
+    "change",
+    "dicker",
+    "negotiate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "trade acceptance",
+    "trade association",
+    "trade barriers",
+    "trade book",
+    "trade bureau",
+    "trade capital",
+    "trade counter",
+    "trade directory",
+    "trade discount",
+    "trade edition",
+    "trade fair",
+    "trade gap",
+    "trade language",
+    "trade magazine",
+    "trade price",
+    "trade route",
+    "trade school",
+    "trade secret",
+    "trade-fallen",
+    "trade-in",
+    "trade-off",
+    "trade-union",
+    "trade-unionism",
+    "trade-unionist",
+    "trade-wind"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trade.mp3",
+  "local_sound_path": "sounds/trade.mp3"
+}

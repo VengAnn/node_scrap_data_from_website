@@ -1,0 +1,35 @@
+{
+  "word": "sidestep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "sidestep a pedestrain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79865.png",
+      "local_image_path": "images/79865.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sidestep an issue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79866.png",
+      "local_image_path": "images/79866.png"
+    }
+  ],
+  "synonyms": [
+    "avoid",
+    "evade",
+    "circumvent",
+    "bypass",
+    "circumnavigate",
+    "elude",
+    "by-pass",
+    "dodge",
+    "duck",
+    "skirt"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sidestep.mp3",
+  "local_sound_path": "sounds/sidestep.mp3"
+}

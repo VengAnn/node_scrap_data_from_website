@@ -1,0 +1,36 @@
+{
+  "word": "somber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "somber day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82607.png",
+      "local_image_path": "images/82607.png"
+    },
+    {
+      "pos": "adj",
+      "example": "somber expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82608.png",
+      "local_image_path": "images/82608.png"
+    }
+  ],
+  "synonyms": [
+    "dull",
+    "dismal",
+    "gloomy",
+    "drab"
+  ],
+  "antonyms": [
+    "cheerful",
+    "bright",
+    "light"
+  ],
+  "similar_words": [
+    "somberly",
+    "somberness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/somber.mp3",
+  "local_sound_path": "sounds/somber.mp3"
+}

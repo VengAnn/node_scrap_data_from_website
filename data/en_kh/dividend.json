@@ -1,0 +1,37 @@
+{
+  "word": "dividend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22450.png",
+      "local_image_path": "images/22450.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22451.png",
+      "local_image_path": "images/22451.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22452.png",
+      "local_image_path": "images/22452.png"
+    }
+  ],
+  "synonyms": [
+    "bonus",
+    "extra",
+    "payment",
+    "share",
+    "surplus",
+    "disbursement"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dividend.mp3",
+  "local_sound_path": "sounds/dividend.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "vein",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "blood vein",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97425.png",
+      "local_image_path": "images/97425.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97426.png",
+      "local_image_path": "images/97426.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97427.png",
+      "local_image_path": "images/97427.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97428.png",
+      "local_image_path": "images/97428.png"
+    }
+  ],
+  "synonyms": [
+    "mood",
+    "manner",
+    "attitude",
+    "disposition",
+    "tone",
+    "layer",
+    "seam",
+    "lode",
+    "stratum",
+    "deposit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "veined",
+    "veining",
+    "veinless",
+    "veinous",
+    "veiny"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vein.mp3",
+  "local_sound_path": "sounds/vein.mp3"
+}

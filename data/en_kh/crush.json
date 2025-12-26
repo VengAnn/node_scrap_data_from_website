@@ -1,0 +1,62 @@
+{
+  "word": "crush",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18868.png",
+      "local_image_path": "images/18868.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18864.png",
+      "local_image_path": "images/18864.png"
+    },
+    {
+      "pos": "n",
+      "example": "lost in the crush",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18865.png",
+      "local_image_path": "images/18865.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't crush the box, it has flower in it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18866.png",
+      "local_image_path": "images/18866.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18867.png",
+      "local_image_path": "images/18867.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18871.png",
+      "local_image_path": "images/18871.png"
+    }
+  ],
+  "synonyms": [
+    "suppress",
+    "quash",
+    "quell",
+    "subdue",
+    "overcome",
+    "conquer"
+  ],
+  "antonyms": [
+    "resist",
+    "dislike"
+  ],
+  "similar_words": [
+    "crushable",
+    "crusher",
+    "crushing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crush.mp3",
+  "local_sound_path": "sounds/crush.mp3"
+}

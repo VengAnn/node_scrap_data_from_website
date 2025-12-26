@@ -1,0 +1,32 @@
+{
+  "word": "equivalent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25678.png",
+      "local_image_path": "images/25678.png"
+    },
+    {
+      "pos": "n",
+      "example": "equivalent to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25679.png",
+      "local_image_path": "images/25679.png"
+    }
+  ],
+  "synonyms": [
+    "counterpart",
+    "equal",
+    "parallel",
+    "twin",
+    "peer"
+  ],
+  "antonyms": [
+    "different"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equivalent.mp3",
+  "local_sound_path": "sounds/equivalent.mp3"
+}

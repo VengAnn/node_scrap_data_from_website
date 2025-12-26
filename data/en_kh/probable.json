@@ -1,0 +1,33 @@
+{
+  "word": "probable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "probable outcome",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67165.png",
+      "local_image_path": "images/67165.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67166.png",
+      "local_image_path": "images/67166.png"
+    }
+  ],
+  "synonyms": [
+    "likely",
+    "credible",
+    "possible",
+    "feasible",
+    "plausible",
+    "apparent"
+  ],
+  "antonyms": [
+    "unlikely"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/probable.mp3",
+  "local_sound_path": "sounds/probable.mp3"
+}

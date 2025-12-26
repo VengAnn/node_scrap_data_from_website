@@ -1,0 +1,35 @@
+{
+  "word": "obtuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57048.png",
+      "local_image_path": "images/57048.png"
+    }
+  ],
+  "synonyms": [
+    "simple-minded",
+    "imperceptive",
+    "thickheaded",
+    "thick",
+    "stupid",
+    "slow",
+    "insensitive",
+    "dull"
+  ],
+  "antonyms": [
+    "intelligent",
+    "sensitive",
+    "astute"
+  ],
+  "similar_words": [
+    "obtuse angle",
+    "obtusely",
+    "obtuseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obtuse.mp3",
+  "local_sound_path": "sounds/obtuse.mp3"
+}

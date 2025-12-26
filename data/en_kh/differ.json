@@ -1,0 +1,52 @@
+{
+  "word": "differ",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "opinions differ",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21280.png",
+      "local_image_path": "images/21280.png"
+    },
+    {
+      "pos": "iv",
+      "example": "We differ on many things.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21281.png",
+      "local_image_path": "images/21281.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118278.png",
+      "local_image_path": "images/118278.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118279.png",
+      "local_image_path": "images/118279.png"
+    }
+  ],
+  "synonyms": [
+    "disagree",
+    "clash",
+    "argue",
+    "quarrel",
+    "wrangle"
+  ],
+  "antonyms": [
+    "agree",
+    "match"
+  ],
+  "similar_words": [
+    "difference",
+    "different",
+    "differential",
+    "differentiate",
+    "differentiation",
+    "differently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/differ.mp3",
+  "local_sound_path": "sounds/differ.mp3"
+}

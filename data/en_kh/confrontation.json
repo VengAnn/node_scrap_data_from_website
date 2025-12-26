@@ -1,0 +1,45 @@
+{
+  "word": "confrontation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16740.png",
+      "local_image_path": "images/16740.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117212.png",
+      "local_image_path": "images/117212.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117213.png",
+      "local_image_path": "images/117213.png"
+    }
+  ],
+  "synonyms": [
+    "war",
+    "battle",
+    "fight",
+    "clash",
+    "skirmish",
+    "conflict",
+    "opposition",
+    "resistance",
+    "defiance"
+  ],
+  "antonyms": [
+    "consensus",
+    "support"
+  ],
+  "similar_words": [
+    "confrontational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/confrontation.mp3",
+  "local_sound_path": "sounds/confrontation.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "undo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "undo the damange",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94191.png",
+      "local_image_path": "images/94191.png"
+    },
+    {
+      "pos": "tv",
+      "example": "undo a knot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94192.png",
+      "local_image_path": "images/94192.png"
+    },
+    {
+      "pos": "tv",
+      "example": "undo a cause",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94193.png",
+      "local_image_path": "images/94193.png"
+    }
+  ],
+  "synonyms": [
+    "negate",
+    "cancel",
+    "nullify",
+    "invalidate",
+    "reverse"
+  ],
+  "antonyms": [
+    "fasten"
+  ],
+  "similar_words": [
+    "undock",
+    "undoer",
+    "undoing",
+    "undomesticated",
+    "undone",
+    "undoubted",
+    "undoubtedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/undo.mp3",
+  "local_sound_path": "sounds/undo.mp3"
+}

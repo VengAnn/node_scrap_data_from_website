@@ -1,0 +1,48 @@
+{
+  "word": "arbitrary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "arbitrary choice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5284.png",
+      "local_image_path": "images/5284.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112660.png",
+      "local_image_path": "images/112660.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112661.png",
+      "local_image_path": "images/112661.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112662.png",
+      "local_image_path": "images/112662.png"
+    }
+  ],
+  "synonyms": [
+    "random",
+    "chance",
+    "subjective",
+    "uninformed",
+    "illogical",
+    "capricious",
+    "indiscriminate",
+    "haphazard"
+  ],
+  "antonyms": [
+    "logical",
+    "systematic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arbitrary.mp3",
+  "local_sound_path": "sounds/arbitrary.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "explosion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dynamite explosion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26853.png",
+      "local_image_path": "images/26853.png"
+    },
+    {
+      "pos": "n",
+      "example": "population explosion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26854.png",
+      "local_image_path": "images/26854.png"
+    }
+  ],
+  "synonyms": [
+    "upsurge",
+    "leap",
+    "flood",
+    "outbreak",
+    "eruption",
+    "increase"
+  ],
+  "antonyms": [
+    "slump"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/explosion.mp3",
+  "local_sound_path": "sounds/explosion.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "liberalize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46195.png",
+      "local_image_path": "images/46195.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46194.png",
+      "local_image_path": "images/46194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123494.png",
+      "local_image_path": "images/123494.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123495.png",
+      "local_image_path": "images/123495.png"
+    }
+  ],
+  "synonyms": [
+    "relax",
+    "slacken",
+    "loosen",
+    "open"
+  ],
+  "antonyms": [
+    "tighten"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liberalize.mp3",
+  "local_sound_path": "sounds/liberalize.mp3"
+}

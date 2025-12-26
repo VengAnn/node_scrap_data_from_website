@@ -1,0 +1,25 @@
+{
+  "word": "paid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "paid invoice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59287.png",
+      "local_image_path": "images/59287.png"
+    }
+  ],
+  "synonyms": [
+    "salaried",
+    "given"
+  ],
+  "antonyms": [
+    "unpaid",
+    "voluntary",
+    "received"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/paid.mp3",
+  "local_sound_path": "sounds/paid.mp3"
+}

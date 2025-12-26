@@ -1,0 +1,29 @@
+{
+  "word": "blindness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "please pull down the blindness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9555.png",
+      "local_image_path": "images/9555.png"
+    }
+  ],
+  "synonyms": [
+    "sightlessness",
+    "thoughtlessness",
+    "carelessness",
+    "recklessness",
+    "rashness",
+    "impetuousness",
+    "heedlessness"
+  ],
+  "antonyms": [
+    "sight",
+    "carefulness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blindness.mp3",
+  "local_sound_path": "sounds/blindness.mp3"
+}

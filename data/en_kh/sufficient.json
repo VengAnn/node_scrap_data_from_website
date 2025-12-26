@@ -1,0 +1,29 @@
+{
+  "word": "sufficient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Have we sufficient food for ten people?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86079.png",
+      "local_image_path": "images/86079.png"
+    }
+  ],
+  "synonyms": [
+    "enough",
+    "adequate",
+    "plenty",
+    "ample",
+    "satisfactory",
+    "necessary",
+    "appropriate",
+    "abundant"
+  ],
+  "antonyms": [
+    "inadequate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sufficient.mp3",
+  "local_sound_path": "sounds/sufficient.mp3"
+}

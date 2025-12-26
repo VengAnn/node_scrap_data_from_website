@@ -1,0 +1,29 @@
+{
+  "word": "avert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "avert the eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6698.png",
+      "local_image_path": "images/6698.png"
+    }
+  ],
+  "synonyms": [
+    "prevent",
+    "avoid",
+    "forestall",
+    "divert",
+    "deflect",
+    "veer",
+    "turn away"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "avertable",
+    "avertible"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avert.mp3",
+  "local_sound_path": "sounds/avert.mp3"
+}

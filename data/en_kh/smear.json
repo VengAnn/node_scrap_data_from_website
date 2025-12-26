@@ -1,0 +1,60 @@
+{
+  "word": "smear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "smear an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81661.png",
+      "local_image_path": "images/81661.png"
+    },
+    {
+      "pos": "n",
+      "example": "ink smear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81662.png",
+      "local_image_path": "images/81662.png"
+    },
+    {
+      "pos": "n",
+      "example": "political smear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81663.png",
+      "local_image_path": "images/81663.png"
+    },
+    {
+      "pos": "n",
+      "example": "laboratory smear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81664.png",
+      "local_image_path": "images/81664.png"
+    },
+    {
+      "pos": "tv",
+      "example": "smear paint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81660.png",
+      "local_image_path": "images/81660.png"
+    }
+  ],
+  "synonyms": [
+    "sully",
+    "discredit",
+    "disgrace",
+    "besmirch",
+    "tarnish",
+    "ruin",
+    "slander",
+    "denigrate",
+    "slur"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "smear campaign",
+    "smear word",
+    "smeariness",
+    "smearing",
+    "smeary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/smear.mp3",
+  "local_sound_path": "sounds/smear.mp3"
+}

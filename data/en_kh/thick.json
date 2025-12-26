@@ -1,0 +1,85 @@
+{
+  "word": "thick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "thick book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88901.png",
+      "local_image_path": "images/88901.png"
+    },
+    {
+      "pos": "adj",
+      "example": "thick crowd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88902.png",
+      "local_image_path": "images/88902.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88903.png",
+      "local_image_path": "images/88903.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88904.png",
+      "local_image_path": "images/88904.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88905.png",
+      "local_image_path": "images/88905.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88906.png",
+      "local_image_path": "images/88906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128215.png",
+      "local_image_path": "images/128215.png"
+    }
+  ],
+  "synonyms": [
+    "indistinct",
+    "muffled",
+    "extreme",
+    "unintelligent",
+    "dim",
+    "dense",
+    "slow",
+    "slow-witted",
+    "obtuse",
+    "stupid"
+  ],
+  "antonyms": [
+    "thin",
+    "bright",
+    "runny",
+    "empty",
+    "slight",
+    "clear"
+  ],
+  "similar_words": [
+    "thick-set",
+    "thick-sighted",
+    "thick-skinned",
+    "thicken",
+    "thickening",
+    "thicket",
+    "thickhead",
+    "thickheaded",
+    "thickish",
+    "thickly",
+    "thickness",
+    "thicky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thick.mp3",
+  "local_sound_path": "sounds/thick.mp3"
+}

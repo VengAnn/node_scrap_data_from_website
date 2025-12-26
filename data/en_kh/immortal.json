@@ -1,0 +1,38 @@
+{
+  "word": "immortal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "immortal beings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37520.png",
+      "local_image_path": "images/37520.png"
+    }
+  ],
+  "synonyms": [
+    "memorable",
+    "well-known",
+    "famous",
+    "illustrious",
+    "eternal",
+    "everlasting",
+    "undying",
+    "perpetual",
+    "enduring",
+    "never-ending",
+    "endless",
+    "unending",
+    "abiding"
+  ],
+  "antonyms": [
+    "mortal"
+  ],
+  "similar_words": [
+    "immortality",
+    "immortalize",
+    "immortally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/immortal.mp3",
+  "local_sound_path": "sounds/immortal.mp3"
+}

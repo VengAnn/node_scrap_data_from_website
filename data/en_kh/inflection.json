@@ -1,0 +1,51 @@
+{
+  "word": "inflection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "inflection of a ray",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39742.png",
+      "local_image_path": "images/39742.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39743.png",
+      "local_image_path": "images/39743.png"
+    },
+    {
+      "pos": "n",
+      "example": "inflection of voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39744.png",
+      "local_image_path": "images/39744.png"
+    },
+    {
+      "pos": "n",
+      "example": "inflection of a verb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39745.png",
+      "local_image_path": "images/39745.png"
+    }
+  ],
+  "synonyms": [
+    "nuance",
+    "intonation",
+    "modulation",
+    "variation",
+    "variety",
+    "shade",
+    "tone",
+    "accent",
+    "articulation",
+    "enunciation",
+    "timbre",
+    "tonality"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "inflectional"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inflection.mp3",
+  "local_sound_path": "sounds/inflection.mp3"
+}

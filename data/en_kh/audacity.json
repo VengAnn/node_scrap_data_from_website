@@ -1,0 +1,46 @@
+{
+  "word": "audacity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6352.png",
+      "local_image_path": "images/6352.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114269.png",
+      "local_image_path": "images/114269.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114270.png",
+      "local_image_path": "images/114270.png"
+    }
+  ],
+  "synonyms": [
+    "daring",
+    "boldness",
+    "courage",
+    "bravery",
+    "nerve",
+    "cheek",
+    "impudence",
+    "audaciousness",
+    "disrespect",
+    "rudeness",
+    "discourtesy"
+  ],
+  "antonyms": [
+    "cowardice",
+    "pusillanimity",
+    "courtesy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/audacity.mp3",
+  "local_sound_path": "sounds/audacity.mp3"
+}

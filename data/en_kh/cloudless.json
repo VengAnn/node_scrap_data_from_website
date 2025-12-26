@@ -1,0 +1,33 @@
+{
+  "word": "cloudless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15163.png",
+      "local_image_path": "images/15163.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15166.png",
+      "local_image_path": "images/15166.png"
+    }
+  ],
+  "synonyms": [
+    "clear",
+    "blue",
+    "sunny",
+    "bright",
+    "fine",
+    "brilliant"
+  ],
+  "antonyms": [
+    "cloudy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloudless.mp3",
+  "local_sound_path": "sounds/cloudless.mp3"
+}

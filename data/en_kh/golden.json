@@ -1,0 +1,39 @@
+{
+  "word": "golden",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "golden righ",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32226.png",
+      "local_image_path": "images/32226.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32227.png",
+      "local_image_path": "images/32227.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32228.png",
+      "local_image_path": "images/32228.png"
+    }
+  ],
+  "synonyms": [
+    "fair-haired",
+    "fair",
+    "blond",
+    "blonde",
+    "yellow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "golden words",
+    "golden-fever"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/golden.mp3",
+  "local_sound_path": "sounds/golden.mp3"
+}

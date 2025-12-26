@@ -1,0 +1,56 @@
+{
+  "word": "permit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61896.png",
+      "local_image_path": "images/61896.png"
+    },
+    {
+      "pos": "tv",
+      "example": "permit him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61894.png",
+      "local_image_path": "images/61894.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61895.png",
+      "local_image_path": "images/61895.png"
+    }
+  ],
+  "synonyms": [
+    "license",
+    "document",
+    "certification",
+    "certificate",
+    "authorization",
+    "card",
+    "badge",
+    "authorize",
+    "allow",
+    "let",
+    "approve",
+    "sanction",
+    "pass",
+    "clear",
+    "tolerate",
+    "enable",
+    "facilitate",
+    "consent",
+    "okay"
+  ],
+  "antonyms": [
+    "forbid"
+  ],
+  "similar_words": [
+    "permittance",
+    "permittee",
+    "permitter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/permit.mp3",
+  "local_sound_path": "sounds/permit.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "amber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3777.png",
+      "local_image_path": "images/3777.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112439.png",
+      "local_image_path": "images/112439.png"
+    }
+  ],
+  "synonyms": [
+    "tawny",
+    "ocher",
+    "orange",
+    "yellow",
+    "ochre"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amber.mp3",
+  "local_sound_path": "sounds/amber.mp3"
+}

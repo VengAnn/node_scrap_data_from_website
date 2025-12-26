@@ -1,0 +1,40 @@
+{
+  "word": "buoyant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "buoyant float",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11886.png",
+      "local_image_path": "images/11886.png"
+    },
+    {
+      "pos": "adj",
+      "example": "buoyant spirit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11887.png",
+      "local_image_path": "images/11887.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11888.png",
+      "local_image_path": "images/11888.png"
+    }
+  ],
+  "synonyms": [
+    "cheerful",
+    "upbeat",
+    "optimistic",
+    "happy",
+    "jaunty",
+    "carefree"
+  ],
+  "antonyms": [
+    "melancholy",
+    "morose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buoyant.mp3",
+  "local_sound_path": "sounds/buoyant.mp3"
+}

@@ -1,0 +1,82 @@
+{
+  "word": "feeling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28026.png",
+      "local_image_path": "images/28026.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28027.png",
+      "local_image_path": "images/28027.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120012.png",
+      "local_image_path": "images/120012.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120013.png",
+      "local_image_path": "images/120013.png"
+    },
+    {
+      "pos": "n",
+      "example": "sad feeling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28025.png",
+      "local_image_path": "images/28025.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120014.png",
+      "local_image_path": "images/120014.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120015.png",
+      "local_image_path": "images/120015.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120016.png",
+      "local_image_path": "images/120016.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120017.png",
+      "local_image_path": "images/120017.png"
+    }
+  ],
+  "synonyms": [
+    "air",
+    "atmosphere",
+    "feel",
+    "ambiance",
+    "mood",
+    "impression",
+    "thinking",
+    "considering",
+    "understanding",
+    "knowing"
+  ],
+  "antonyms": [
+    "numbness",
+    "antipathy"
+  ],
+  "similar_words": [
+    "feelingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/feeling.mp3",
+  "local_sound_path": "sounds/feeling.mp3"
+}

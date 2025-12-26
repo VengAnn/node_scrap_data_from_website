@@ -1,0 +1,40 @@
+{
+  "word": "scarce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Sugar is scarce",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76425.png",
+      "local_image_path": "images/76425.png"
+    },
+    {
+      "pos": "idm",
+      "example": "make oneself scarce",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76426.png",
+      "local_image_path": "images/76426.png"
+    }
+  ],
+  "synonyms": [
+    "limited",
+    "inadequate",
+    "scant",
+    "insufficient",
+    "sparse",
+    "meager",
+    "rare"
+  ],
+  "antonyms": [
+    "plentiful",
+    "abundant",
+    "common"
+  ],
+  "similar_words": [
+    "scarcely",
+    "scarcement",
+    "scarceness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scarce.mp3",
+  "local_sound_path": "sounds/scarce.mp3"
+}

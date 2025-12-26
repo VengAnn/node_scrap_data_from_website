@@ -1,0 +1,54 @@
+{
+  "word": "trumpet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "blow a trumpet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92143.png",
+      "local_image_path": "images/92143.png"
+    },
+    {
+      "pos": "n",
+      "example": "hear the trumpet of a elephant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92144.png",
+      "local_image_path": "images/92144.png"
+    },
+    {
+      "pos": "n",
+      "example": "ear trumpet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92145.png",
+      "local_image_path": "images/92145.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trumpet a high note",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92146.png",
+      "local_image_path": "images/92146.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92147.png",
+      "local_image_path": "images/92147.png"
+    },
+    {
+      "pos": "tv",
+      "example": "trumpet his success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92148.png",
+      "local_image_path": "images/92148.png"
+    }
+  ],
+  "synonyms": [
+    "broadcast",
+    "proclaim",
+    "announce",
+    "declare",
+    "boast"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trumpet.mp3",
+  "local_sound_path": "sounds/trumpet.mp3"
+}

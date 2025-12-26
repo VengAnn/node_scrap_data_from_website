@@ -1,0 +1,40 @@
+{
+  "word": "unconcern",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93730.png",
+      "local_image_path": "images/93730.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93729.png",
+      "local_image_path": "images/93729.png"
+    }
+  ],
+  "synonyms": [
+    "indifference",
+    "apathy",
+    "disregard",
+    "nonchalance",
+    "disinterest",
+    "detachment"
+  ],
+  "antonyms": [
+    "anxiety"
+  ],
+  "similar_words": [
+    "unconcerned",
+    "unconcernedly",
+    "unconcernedness",
+    "unconcerning",
+    "unconcernment",
+    "unconcernted"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unconcern.mp3",
+  "local_sound_path": "sounds/unconcern.mp3"
+}

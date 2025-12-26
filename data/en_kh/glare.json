@@ -1,0 +1,65 @@
+{
+  "word": "glare",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "lights glare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31871.png",
+      "local_image_path": "images/31871.png"
+    },
+    {
+      "pos": "iv",
+      "example": "glare at a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31872.png",
+      "local_image_path": "images/31872.png"
+    },
+    {
+      "pos": "n",
+      "example": "glare of the sun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31875.png",
+      "local_image_path": "images/31875.png"
+    },
+    {
+      "pos": "n",
+      "example": "angry glare",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31876.png",
+      "local_image_path": "images/31876.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glare a light at",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31873.png",
+      "local_image_path": "images/31873.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glare one's disapproval",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31874.png",
+      "local_image_path": "images/31874.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120668.png",
+      "local_image_path": "images/120668.png"
+    }
+  ],
+  "synonyms": [
+    "shine",
+    "brightness",
+    "shimmer",
+    "dazzle",
+    "brilliance",
+    "frown",
+    "glower"
+  ],
+  "antonyms": [
+    "smile",
+    "dullness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glare.mp3",
+  "local_sound_path": "sounds/glare.mp3"
+}

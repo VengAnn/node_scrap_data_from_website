@@ -1,0 +1,62 @@
+{
+  "word": "pierce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63162.png",
+      "local_image_path": "images/63162.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pierce the paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63159.png",
+      "local_image_path": "images/63159.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The arrow pierced his skull.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63160.png",
+      "local_image_path": "images/63160.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63161.png",
+      "local_image_path": "images/63161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "noises pierce the ears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63163.png",
+      "local_image_path": "images/63163.png"
+    }
+  ],
+  "synonyms": [
+    "stab",
+    "cut",
+    "slice",
+    "penetrate",
+    "prick",
+    "perforate",
+    "puncture",
+    "hurt",
+    "sting",
+    "pain",
+    "wound",
+    "affront",
+    "grieve",
+    "distress"
+  ],
+  "antonyms": [
+    "heal"
+  ],
+  "similar_words": [
+    "pierceable",
+    "piercer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pierce.mp3",
+  "local_sound_path": "sounds/pierce.mp3"
+}

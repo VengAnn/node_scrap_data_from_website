@@ -1,0 +1,32 @@
+{
+  "word": "cloudiness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15169.png",
+      "local_image_path": "images/15169.png"
+    }
+  ],
+  "synonyms": [
+    "vagueness",
+    "confusion",
+    "uncertainness",
+    "murkiness",
+    "muddiness",
+    "darkness",
+    "dullness",
+    "grayness",
+    "greyness"
+  ],
+  "antonyms": [
+    "clarity",
+    "transparency",
+    "brightness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cloudiness.mp3",
+  "local_sound_path": "sounds/cloudiness.mp3"
+}

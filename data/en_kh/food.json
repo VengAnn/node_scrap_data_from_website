@@ -1,0 +1,39 @@
+{
+  "word": "food",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "good food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29546.png",
+      "local_image_path": "images/29546.png"
+    },
+    {
+      "pos": "n",
+      "example": "plant food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29547.png",
+      "local_image_path": "images/29547.png"
+    }
+  ],
+  "synonyms": [
+    "foodstuff",
+    "fare",
+    "chow",
+    "victuals",
+    "cooking",
+    "cuisine",
+    "fodder",
+    "grub",
+    "staple"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "food chain",
+    "food miles",
+    "foodless",
+    "foodstuff"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/food.mp3",
+  "local_sound_path": "sounds/food.mp3"
+}

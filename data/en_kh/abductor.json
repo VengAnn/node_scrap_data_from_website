@@ -1,0 +1,35 @@
+{
+  "word": "abductor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "med",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1369.png",
+      "local_image_path": "images/1369.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1368.png",
+      "local_image_path": "images/1368.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112987.png",
+      "local_image_path": "images/112987.png"
+    }
+  ],
+  "synonyms": [
+    "kidnapper",
+    "captor",
+    "snatcher",
+    "hijacker"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abductor.mp3",
+  "local_sound_path": "sounds/abductor.mp3"
+}

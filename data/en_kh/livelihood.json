@@ -1,0 +1,31 @@
+{
+  "word": "livelihood",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47123.png",
+      "local_image_path": "images/47123.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123600.png",
+      "local_image_path": "images/123600.png"
+    }
+  ],
+  "synonyms": [
+    "employment",
+    "occupation",
+    "trade",
+    "business",
+    "work",
+    "job"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/livelihood.mp3",
+  "local_sound_path": "sounds/livelihood.mp3"
+}

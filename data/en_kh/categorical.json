@@ -1,0 +1,32 @@
+{
+  "word": "categorical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13335.png",
+      "local_image_path": "images/13335.png"
+    }
+  ],
+  "synonyms": [
+    "definite",
+    "clear-cut",
+    "uncompromising",
+    "unconditional",
+    "unqualified",
+    "resounding",
+    "firm"
+  ],
+  "antonyms": [
+    "qualified",
+    "tentative"
+  ],
+  "similar_words": [
+    "categorically",
+    "categoricalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/categorical.mp3",
+  "local_sound_path": "sounds/categorical.mp3"
+}

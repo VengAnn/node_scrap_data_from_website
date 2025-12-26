@@ -1,0 +1,94 @@
+{
+  "word": "set",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "set time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78409.png",
+      "local_image_path": "images/78409.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Sun will set soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78406.png",
+      "local_image_path": "images/78406.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Concrete will set soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78407.png",
+      "local_image_path": "images/78407.png"
+    },
+    {
+      "pos": "n",
+      "example": "set of dishes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78408.png",
+      "local_image_path": "images/78408.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Bopha sets the table for five people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78403.png",
+      "local_image_path": "images/78403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She sets no limit to her ambition.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78404.png",
+      "local_image_path": "images/78404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "You should set your coat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78405.png",
+      "local_image_path": "images/78405.png"
+    }
+  ],
+  "synonyms": [
+    "scenery",
+    "setting",
+    "location",
+    "backdrop",
+    "harden",
+    "solidify",
+    "congeal",
+    "coagulate",
+    "gel"
+  ],
+  "antonyms": [
+    "individual",
+    "change",
+    "liquefy",
+    "changing",
+    "liquid",
+    "flexible",
+    "unprepared"
+  ],
+  "similar_words": [
+    "set sail",
+    "set-book",
+    "set-down",
+    "set-line",
+    "set-out",
+    "set-over",
+    "set-piece",
+    "set-point",
+    "set-screw",
+    "set-square",
+    "set-to",
+    "seta",
+    "setaccous",
+    "setback",
+    "setiferous",
+    "setiform",
+    "setigerous",
+    "setness",
+    "seton",
+    "setose",
+    "sett"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/set.mp3",
+  "local_sound_path": "sounds/set.mp3"
+}

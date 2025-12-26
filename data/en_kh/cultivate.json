@@ -1,0 +1,40 @@
+{
+  "word": "cultivate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "cultivate land",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19041.png",
+      "local_image_path": "images/19041.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cultivate a peasant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19042.png",
+      "local_image_path": "images/19042.png"
+    }
+  ],
+  "synonyms": [
+    "develop",
+    "nurture",
+    "promote",
+    "encourage",
+    "foster",
+    "support",
+    "help",
+    "farm",
+    "grow",
+    "plant",
+    "plow",
+    "plough",
+    "tend"
+  ],
+  "antonyms": [
+    "neglect"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cultivate.mp3",
+  "local_sound_path": "sounds/cultivate.mp3"
+}

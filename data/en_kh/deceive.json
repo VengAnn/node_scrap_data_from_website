@@ -1,0 +1,44 @@
+{
+  "word": "deceive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "We were deceived into believing that he could help us.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19927.png",
+      "local_image_path": "images/19927.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19928.png",
+      "local_image_path": "images/19928.png"
+    },
+    {
+      "pos": "tv",
+      "example": "deceive the eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19929.png",
+      "local_image_path": "images/19929.png"
+    }
+  ],
+  "synonyms": [
+    "mislead",
+    "trick",
+    "take in",
+    "betray",
+    "swindle",
+    "con",
+    "misinform",
+    "cheat",
+    "hoodwink",
+    "defraud",
+    "dupe",
+    "delude",
+    "two-time"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deceive.mp3",
+  "local_sound_path": "sounds/deceive.mp3"
+}

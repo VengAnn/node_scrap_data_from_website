@@ -1,0 +1,107 @@
+{
+  "word": "name",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is your name?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54853.png",
+      "local_image_path": "images/54853.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54854.png",
+      "local_image_path": "images/54854.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a bad name",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54855.png",
+      "local_image_path": "images/54855.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124457.png",
+      "local_image_path": "images/124457.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124458.png",
+      "local_image_path": "images/124458.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They named heir child John.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54856.png",
+      "local_image_path": "images/54856.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can you name all the plants in this garden?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54857.png",
+      "local_image_path": "images/54857.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We have named a date for the party.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54858.png",
+      "local_image_path": "images/54858.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/54859.png",
+      "local_image_path": "images/54859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130579.png",
+      "local_image_path": "images/130579.png"
+    }
+  ],
+  "synonyms": [
+    "reputation",
+    "repute",
+    "renown",
+    "character",
+    "respectability",
+    "honor",
+    "fame",
+    "celebrity",
+    "call",
+    "christen",
+    "nickname",
+    "label",
+    "term",
+    "dub",
+    "entitle",
+    "baptize"
+  ],
+  "antonyms": [
+    "nobody",
+    "notoriety",
+    "conceal",
+    "reject"
+  ],
+  "similar_words": [
+    "name and shame",
+    "name-part",
+    "name-plate",
+    "nameable",
+    "namechild",
+    "named",
+    "nameless",
+    "namelessly",
+    "namelessness",
+    "namely",
+    "namer",
+    "namesake"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/name.mp3",
+  "local_sound_path": "sounds/name.mp3"
+}

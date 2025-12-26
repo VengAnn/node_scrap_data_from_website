@@ -1,0 +1,57 @@
+{
+  "word": "genuine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "genuine leather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31472.png",
+      "local_image_path": "images/31472.png"
+    },
+    {
+      "pos": "adj",
+      "example": "genuine emotion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31473.png",
+      "local_image_path": "images/31473.png"
+    },
+    {
+      "pos": "adj",
+      "example": "genuine person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31474.png",
+      "local_image_path": "images/31474.png"
+    },
+    {
+      "pos": "adj",
+      "example": "genuine article",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31475.png",
+      "local_image_path": "images/31475.png"
+    }
+  ],
+  "synonyms": [
+    "sincere",
+    "honest",
+    "frank",
+    "open",
+    "real",
+    "authentic",
+    "indisputable",
+    "true",
+    "unadulterated",
+    "actual",
+    "legitimate",
+    "valid"
+  ],
+  "antonyms": [
+    "imitation",
+    "false",
+    "fake",
+    "hypocritical"
+  ],
+  "similar_words": [
+    "genuinely",
+    "genuiness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/genuine.mp3",
+  "local_sound_path": "sounds/genuine.mp3"
+}

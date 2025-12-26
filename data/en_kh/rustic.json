@@ -1,0 +1,44 @@
+{
+  "word": "rustic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rustic setting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74756.png",
+      "local_image_path": "images/74756.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74757.png",
+      "local_image_path": "images/74757.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74758.png",
+      "local_image_path": "images/74758.png"
+    }
+  ],
+  "synonyms": [
+    "rural",
+    "country",
+    "pastoral",
+    "bucolic",
+    "countryside"
+  ],
+  "antonyms": [
+    "urban"
+  ],
+  "similar_words": [
+    "rustically",
+    "rusticate",
+    "rustication",
+    "rusticator",
+    "rusticity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rustic.mp3",
+  "local_sound_path": "sounds/rustic.mp3"
+}

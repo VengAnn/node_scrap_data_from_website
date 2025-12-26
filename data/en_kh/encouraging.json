@@ -1,0 +1,37 @@
+{
+  "word": "encouraging",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24821.png",
+      "local_image_path": "images/24821.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119142.png",
+      "local_image_path": "images/119142.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119143.png",
+      "local_image_path": "images/119143.png"
+    }
+  ],
+  "synonyms": [
+    "hopeful",
+    "heartening",
+    "cheering"
+  ],
+  "antonyms": [
+    "discouraging",
+    "stifling"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encouraging.mp3",
+  "local_sound_path": "sounds/encouraging.mp3"
+}

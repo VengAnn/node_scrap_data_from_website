@@ -1,0 +1,36 @@
+{
+  "word": "queue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "queue up to buy tickets for the film",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69545.png",
+      "local_image_path": "images/69545.png"
+    },
+    {
+      "pos": "n",
+      "example": "queue of hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69543.png",
+      "local_image_path": "images/69543.png"
+    },
+    {
+      "pos": "n",
+      "example": "queue of people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69544.png",
+      "local_image_path": "images/69544.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69546.png",
+      "local_image_path": "images/69546.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/queue.mp3",
+  "local_sound_path": "sounds/queue.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "data",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "data collection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19693.png",
+      "local_image_path": "images/19693.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117717.png",
+      "local_image_path": "images/117717.png"
+    }
+  ],
+  "synonyms": [
+    "information",
+    "statistics",
+    "figures"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "data bank",
+    "data capture",
+    "data mining",
+    "data processing",
+    "database"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/data.mp3",
+  "local_sound_path": "sounds/data.mp3"
+}

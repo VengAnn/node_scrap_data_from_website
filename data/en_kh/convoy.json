@@ -1,0 +1,52 @@
+{
+  "word": "convoy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17542.png",
+      "local_image_path": "images/17542.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117562.png",
+      "local_image_path": "images/117562.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117563.png",
+      "local_image_path": "images/117563.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117564.png",
+      "local_image_path": "images/117564.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17541.png",
+      "local_image_path": "images/17541.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "line",
+    "band",
+    "fleet",
+    "party",
+    "procession",
+    "file",
+    "cavalcade",
+    "caravan"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/convoy.mp3",
+  "local_sound_path": "sounds/convoy.mp3"
+}

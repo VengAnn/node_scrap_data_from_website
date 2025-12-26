@@ -1,0 +1,48 @@
+{
+  "word": "background",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "keep in the background",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6984.png",
+      "local_image_path": "images/6984.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114405.png",
+      "local_image_path": "images/114405.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114406.png",
+      "local_image_path": "images/114406.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114407.png",
+      "local_image_path": "images/114407.png"
+    }
+  ],
+  "synonyms": [
+    "experience",
+    "education",
+    "training",
+    "credentials",
+    "backdrop",
+    "setting",
+    "milieu",
+    "environment",
+    "locale",
+    "set",
+    "surroundings"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/background.mp3",
+  "local_sound_path": "sounds/background.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "cursor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19213.png",
+      "local_image_path": "images/19213.png"
+    }
+  ],
+  "synonyms": [
+    "pointer",
+    "arrow",
+    "marker",
+    "indicator"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cursorial",
+    "cursorily",
+    "cursory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cursor.mp3",
+  "local_sound_path": "sounds/cursor.mp3"
+}

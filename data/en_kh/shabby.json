@@ -1,0 +1,58 @@
+{
+  "word": "shabby",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "shabby clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78603.png",
+      "local_image_path": "images/78603.png"
+    },
+    {
+      "pos": "adj",
+      "example": "shabby treatment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78604.png",
+      "local_image_path": "images/78604.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78605.png",
+      "local_image_path": "images/78605.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127700.png",
+      "local_image_path": "images/127700.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127701.png",
+      "local_image_path": "images/127701.png"
+    }
+  ],
+  "synonyms": [
+    "nasty",
+    "cruel",
+    "mean",
+    "despicable",
+    "unfair",
+    "rotten",
+    "disrespectful",
+    "natty"
+  ],
+  "antonyms": [
+    "elegant",
+    "respectful"
+  ],
+  "similar_words": [
+    "shabby boys",
+    "shabby genteel",
+    "shabbyish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shabby.mp3",
+  "local_sound_path": "sounds/shabby.mp3"
+}

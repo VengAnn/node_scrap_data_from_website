@@ -1,0 +1,73 @@
+{
+  "word": "critical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "critical person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18650.png",
+      "local_image_path": "images/18650.png"
+    },
+    {
+      "pos": "adj",
+      "example": "critical moment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18651.png",
+      "local_image_path": "images/18651.png"
+    },
+    {
+      "pos": "adj",
+      "example": "critical analysis",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18652.png",
+      "local_image_path": "images/18652.png"
+    },
+    {
+      "pos": "adj",
+      "example": "critical shortage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18653.png",
+      "local_image_path": "images/18653.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131423.png",
+      "local_image_path": "images/131423.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131424.png",
+      "local_image_path": "images/131424.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131425.png",
+      "local_image_path": "images/131425.png"
+    }
+  ],
+  "synonyms": [
+    "analytical",
+    "judicious",
+    "unfavorable",
+    "disparaging",
+    "disapproving",
+    "nit-picking",
+    "judgmental",
+    "unsympathetic",
+    "derogatory",
+    "fault-finding",
+    "censorious"
+  ],
+  "antonyms": [
+    "stable",
+    "insignificant",
+    "favorable"
+  ],
+  "similar_words": [
+    "critically",
+    "criticalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/critical.mp3",
+  "local_sound_path": "sounds/critical.mp3"
+}

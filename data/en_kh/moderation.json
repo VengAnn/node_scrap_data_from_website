@@ -1,0 +1,47 @@
+{
+  "word": "moderation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "political moderation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/109843.png",
+      "local_image_path": "images/109843.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124209.png",
+      "local_image_path": "images/124209.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124210.png",
+      "local_image_path": "images/124210.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124211.png",
+      "local_image_path": "images/124211.png"
+    }
+  ],
+  "synonyms": [
+    "restraint",
+    "control",
+    "self-control",
+    "temperance",
+    "fairness",
+    "balance",
+    "reasonableness",
+    "equability"
+  ],
+  "antonyms": [
+    "excess"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/moderation.mp3",
+  "local_sound_path": "sounds/moderation.mp3"
+}

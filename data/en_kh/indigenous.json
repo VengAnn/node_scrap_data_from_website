@@ -1,0 +1,48 @@
+{
+  "word": "indigenous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39057.png",
+      "local_image_path": "images/39057.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122173.png",
+      "local_image_path": "images/122173.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122174.png",
+      "local_image_path": "images/122174.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122175.png",
+      "local_image_path": "images/122175.png"
+    }
+  ],
+  "synonyms": [
+    "native",
+    "original",
+    "aboriginal",
+    "local",
+    "homegrown",
+    "ethnic"
+  ],
+  "antonyms": [
+    "foreign"
+  ],
+  "similar_words": [
+    "indigenously",
+    "indigenousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/indigenous.mp3",
+  "local_sound_path": "sounds/indigenous.mp3"
+}

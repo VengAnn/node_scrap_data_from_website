@@ -1,0 +1,37 @@
+{
+  "word": "debatable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19859.png",
+      "local_image_path": "images/19859.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117800.png",
+      "local_image_path": "images/117800.png"
+    }
+  ],
+  "synonyms": [
+    "arguable",
+    "dubious",
+    "controversial",
+    "doubtful",
+    "contentious",
+    "unsettled",
+    "undecided",
+    "questionable",
+    "disputable",
+    "undetermined"
+  ],
+  "antonyms": [
+    "settled"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debatable.mp3",
+  "local_sound_path": "sounds/debatable.mp3"
+}

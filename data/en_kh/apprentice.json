@@ -1,0 +1,43 @@
+{
+  "word": "apprentice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Sao was bound apprentice to a tailor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5155.png",
+      "local_image_path": "images/5155.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113891.png",
+      "local_image_path": "images/113891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113892.png",
+      "local_image_path": "images/113892.png"
+    }
+  ],
+  "synonyms": [
+    "trainee",
+    "learner",
+    "beginner",
+    "novice",
+    "tyro",
+    "student",
+    "intern",
+    "interne"
+  ],
+  "antonyms": [
+    "expert"
+  ],
+  "similar_words": [
+    "apprenticeship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/apprentice.mp3",
+  "local_sound_path": "sounds/apprentice.mp3"
+}

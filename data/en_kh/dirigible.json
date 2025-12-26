@@ -1,0 +1,29 @@
+{
+  "word": "dirigible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21524.png",
+      "local_image_path": "images/21524.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21525.png",
+      "local_image_path": "images/21525.png"
+    }
+  ],
+  "synonyms": [
+    "blimp",
+    "zeppelin",
+    "airship",
+    "aircraft"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dirigible.mp3",
+  "local_sound_path": "sounds/dirigible.mp3"
+}

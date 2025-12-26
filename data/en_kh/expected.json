@@ -1,0 +1,29 @@
+{
+  "word": "expected",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "as expected",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131640.png",
+      "local_image_path": "images/131640.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131641.png",
+      "local_image_path": "images/131641.png"
+    }
+  ],
+  "synonyms": [
+    "predictable",
+    "probable",
+    "likely"
+  ],
+  "antonyms": [
+    "unusual",
+    "surprising"
+  ],
+  "similar_words": [],
+  "sound": null
+}

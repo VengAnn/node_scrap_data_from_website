@@ -1,0 +1,72 @@
+{
+  "word": "excess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26392.png",
+      "local_image_path": "images/26392.png"
+    },
+    {
+      "pos": "n",
+      "example": "discard the excess",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26393.png",
+      "local_image_path": "images/26393.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26394.png",
+      "local_image_path": "images/26394.png"
+    },
+    {
+      "pos": "n",
+      "example": "excess weight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26395.png",
+      "local_image_path": "images/26395.png"
+    },
+    {
+      "pos": "n",
+      "example": "excess food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26396.png",
+      "local_image_path": "images/26396.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119567.png",
+      "local_image_path": "images/119567.png"
+    }
+  ],
+  "synonyms": [
+    "extra",
+    "additional",
+    "surplus",
+    "spare",
+    "leftover",
+    "overindulgence",
+    "intemperance",
+    "immoderation",
+    "dissipation",
+    "inordinateness",
+    "prodigality",
+    "extravagance"
+  ],
+  "antonyms": [
+    "shortage",
+    "moderation"
+  ],
+  "similar_words": [
+    "excess profit duty",
+    "excess profits",
+    "excess reserve",
+    "excess vote",
+    "excessive",
+    "excessively",
+    "excessiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excess.mp3",
+  "local_sound_path": "sounds/excess.mp3"
+}

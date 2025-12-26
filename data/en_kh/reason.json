@@ -1,0 +1,64 @@
+{
+  "word": "reason",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "reason with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70592.png",
+      "local_image_path": "images/70592.png"
+    },
+    {
+      "pos": "n",
+      "example": "give a reason",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70589.png",
+      "local_image_path": "images/70589.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70590.png",
+      "local_image_path": "images/70590.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70591.png",
+      "local_image_path": "images/70591.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70593.png",
+      "local_image_path": "images/70593.png"
+    }
+  ],
+  "synonyms": [
+    "argue",
+    "debate",
+    "dispute",
+    "persuade",
+    "think",
+    "rationalize",
+    "analyze",
+    "deduce",
+    "infer",
+    "figure",
+    "solve"
+  ],
+  "antonyms": [
+    "insanity"
+  ],
+  "similar_words": [
+    "reasonability",
+    "reasonable",
+    "reasonableness",
+    "reasonably",
+    "reasoner",
+    "reasoning",
+    "reasonless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reason.mp3",
+  "local_sound_path": "sounds/reason.mp3"
+}

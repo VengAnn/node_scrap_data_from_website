@@ -1,0 +1,55 @@
+{
+  "word": "tangible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "tangible substance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87463.png",
+      "local_image_path": "images/87463.png"
+    },
+    {
+      "pos": "adj",
+      "example": "tangible assets",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87464.png",
+      "local_image_path": "images/87464.png"
+    },
+    {
+      "pos": "adj",
+      "example": "tangible evidence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87465.png",
+      "local_image_path": "images/87465.png"
+    }
+  ],
+  "synonyms": [
+    "actual",
+    "concrete",
+    "substantial",
+    "certain",
+    "perceptible",
+    "evident",
+    "definite",
+    "plain",
+    "palpable",
+    "touchable",
+    "physical",
+    "noticeable",
+    "real",
+    "solid",
+    "material",
+    "corporeal",
+    "visible",
+    "clear",
+    "demonstrable",
+    "quantifiable",
+    "obvious",
+    "hard"
+  ],
+  "antonyms": [
+    "intangible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tangible.mp3",
+  "local_sound_path": "sounds/tangible.mp3"
+}

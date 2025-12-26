@@ -1,0 +1,89 @@
+{
+  "word": "fight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "boys fight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28436.png",
+      "local_image_path": "images/28436.png"
+    },
+    {
+      "pos": "iv",
+      "example": "fight for a principle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28437.png",
+      "local_image_path": "images/28437.png"
+    },
+    {
+      "pos": "iv",
+      "example": "soldiers fight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28438.png",
+      "local_image_path": "images/28438.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a fight with one's spouse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28434.png",
+      "local_image_path": "images/28434.png"
+    },
+    {
+      "pos": "n",
+      "example": "fight for libery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28435.png",
+      "local_image_path": "images/28435.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120115.png",
+      "local_image_path": "images/120115.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120116.png",
+      "local_image_path": "images/120116.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fight the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28439.png",
+      "local_image_path": "images/28439.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fight crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28440.png",
+      "local_image_path": "images/28440.png"
+    },
+    {
+      "pos": "tv",
+      "example": "boxing fights an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28441.png",
+      "local_image_path": "images/28441.png"
+    }
+  ],
+  "synonyms": [
+    "dispute",
+    "contest",
+    "argue",
+    "attack",
+    "wage war"
+  ],
+  "antonyms": [
+    "reconciliation",
+    "accept"
+  ],
+  "similar_words": [
+    "fighter",
+    "fighting",
+    "fighting family",
+    "fighting fish",
+    "fighting man",
+    "fighting plane",
+    "fighting words"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fight.mp3",
+  "local_sound_path": "sounds/fight.mp3"
+}

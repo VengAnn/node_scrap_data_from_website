@@ -1,0 +1,41 @@
+{
+  "word": "crinkle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18621.png",
+      "local_image_path": "images/18621.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18622.png",
+      "local_image_path": "images/18622.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18620.png",
+      "local_image_path": "images/18620.png"
+    }
+  ],
+  "synonyms": [
+    "wrinkle",
+    "fold",
+    "crease",
+    "crumple",
+    "rumple",
+    "ruffle",
+    "scrunch",
+    "straighten out"
+  ],
+  "antonyms": [
+    "straighten out"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crinkle.mp3",
+  "local_sound_path": "sounds/crinkle.mp3"
+}

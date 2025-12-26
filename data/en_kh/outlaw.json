@@ -1,0 +1,47 @@
+{
+  "word": "outlaw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58366.png",
+      "local_image_path": "images/58366.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58367.png",
+      "local_image_path": "images/58367.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125046.png",
+      "local_image_path": "images/125046.png"
+    }
+  ],
+  "synonyms": [
+    "criminal",
+    "fugitive",
+    "bandit",
+    "brigand",
+    "desperado",
+    "crook",
+    "forbid",
+    "ban",
+    "prohibit",
+    "proscribe",
+    "bar",
+    "veto",
+    "censure",
+    "suppress"
+  ],
+  "antonyms": [
+    "allow"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outlaw.mp3",
+  "local_sound_path": "sounds/outlaw.mp3"
+}

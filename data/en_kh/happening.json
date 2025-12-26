@@ -1,0 +1,28 @@
+{
+  "word": "happening",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "There have been strange happenings here lately.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33803.png",
+      "local_image_path": "images/33803.png"
+    }
+  ],
+  "synonyms": [
+    "occurrence",
+    "event",
+    "episode",
+    "incident",
+    "phenomenon",
+    "experience",
+    "ensuing"
+  ],
+  "antonyms": [
+    "old-fashioned"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/happening.mp3",
+  "local_sound_path": "sounds/happening.mp3"
+}

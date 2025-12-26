@@ -1,0 +1,38 @@
+{
+  "word": "hoard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35439.png",
+      "local_image_path": "images/35439.png"
+    }
+  ],
+  "synonyms": [
+    "store",
+    "pile",
+    "mass",
+    "reserve",
+    "supply",
+    "stockpile",
+    "heap",
+    "cache",
+    "collection",
+    "stash",
+    "save",
+    "amass",
+    "accumulate",
+    "collect",
+    "gather",
+    "squirrel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hoarder",
+    "hoarding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hoard.mp3",
+  "local_sound_path": "sounds/hoard.mp3"
+}

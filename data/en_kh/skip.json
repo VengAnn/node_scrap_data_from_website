@@ -1,0 +1,61 @@
+{
+  "word": "skip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80801.png",
+      "local_image_path": "images/80801.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80802.png",
+      "local_image_path": "images/80802.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80803.png",
+      "local_image_path": "images/80803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "skip a line",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80798.png",
+      "local_image_path": "images/80798.png"
+    },
+    {
+      "pos": "tv",
+      "example": "skip rocks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80799.png",
+      "local_image_path": "images/80799.png"
+    },
+    {
+      "pos": "tv",
+      "example": "skip rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80800.png",
+      "local_image_path": "images/80800.png"
+    }
+  ],
+  "synonyms": [
+    "omit",
+    "miss"
+  ],
+  "antonyms": [
+    "attend"
+  ],
+  "similar_words": [
+    "skipants",
+    "skipjack",
+    "skipper",
+    "skipper's daughters",
+    "skippet",
+    "skipping",
+    "skipping rope"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skip.mp3",
+  "local_sound_path": "sounds/skip.mp3"
+}

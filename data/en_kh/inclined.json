@@ -1,0 +1,41 @@
+{
+  "word": "inclined",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "inclined roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38420.png",
+      "local_image_path": "images/38420.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inclined pole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38421.png",
+      "local_image_path": "images/38421.png"
+    },
+    {
+      "pos": "adj",
+      "example": "inclined to agree",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38422.png",
+      "local_image_path": "images/38422.png"
+    }
+  ],
+  "synonyms": [
+    "leaning",
+    "sloping",
+    "slanting",
+    "rose",
+    "fell",
+    "fallen",
+    "leant"
+  ],
+  "antonyms": [
+    "disinclined",
+    "averse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inclined.mp3",
+  "local_sound_path": "sounds/inclined.mp3"
+}

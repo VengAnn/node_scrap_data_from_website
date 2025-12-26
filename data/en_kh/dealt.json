@@ -1,0 +1,35 @@
+{
+  "word": "dealt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word deal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111669.png",
+      "local_image_path": "images/111669.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117768.png",
+      "local_image_path": "images/117768.png"
+    },
+    {
+      "pos": "pt",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117769.png",
+      "local_image_path": "images/117769.png"
+    }
+  ],
+  "synonyms": [
+    "sold",
+    "bought"
+  ],
+  "antonyms": [
+    "received"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dealt.mp3",
+  "local_sound_path": "sounds/dealt.mp3"
+}

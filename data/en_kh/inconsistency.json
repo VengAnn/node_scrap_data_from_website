@@ -1,0 +1,40 @@
+{
+  "word": "inconsistency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38616.png",
+      "local_image_path": "images/38616.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122030.png",
+      "local_image_path": "images/122030.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122031.png",
+      "local_image_path": "images/122031.png"
+    }
+  ],
+  "synonyms": [
+    "discrepancy",
+    "contradiction",
+    "variation",
+    "irregularity",
+    "changeability",
+    "unpredictability",
+    "conflict"
+  ],
+  "antonyms": [
+    "consistency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inconsistency.mp3",
+  "local_sound_path": "sounds/inconsistency.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "desecrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "more than 100 graves were desecrated",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131121.png",
+      "local_image_path": "images/131121.png"
+    }
+  ],
+  "synonyms": [
+    "despoil",
+    "defile",
+    "violate",
+    "vandalize",
+    "insult",
+    "outrage",
+    "blaspheme",
+    "damage"
+  ],
+  "antonyms": [
+    "consecrate"
+  ],
+  "similar_words": [
+    "desecrater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desecrate.mp3",
+  "local_sound_path": "sounds/desecrate.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "blade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the blade of an oar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9343.png",
+      "local_image_path": "images/9343.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115147.png",
+      "local_image_path": "images/115147.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115148.png",
+      "local_image_path": "images/115148.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115149.png",
+      "local_image_path": "images/115149.png"
+    }
+  ],
+  "synonyms": [
+    "vane",
+    "fin",
+    "flat",
+    "propeller",
+    "sail",
+    "oar"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blade.mp3",
+  "local_sound_path": "sounds/blade.mp3"
+}

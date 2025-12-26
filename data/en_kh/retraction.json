@@ -1,0 +1,41 @@
+{
+  "word": "retraction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73142.png",
+      "local_image_path": "images/73142.png"
+    },
+    {
+      "pos": "n",
+      "example": "retraction of antenna",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73145.png",
+      "local_image_path": "images/73145.png"
+    },
+    {
+      "pos": "n",
+      "example": "retraction of a statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73146.png",
+      "local_image_path": "images/73146.png"
+    }
+  ],
+  "synonyms": [
+    "withdrawal",
+    "renunciation",
+    "refutation",
+    "disavowal",
+    "disclaimer",
+    "repudiation",
+    "denial",
+    "negation"
+  ],
+  "antonyms": [
+    "confirmation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retraction.mp3",
+  "local_sound_path": "sounds/retraction.mp3"
+}

@@ -1,0 +1,74 @@
+{
+  "word": "appropriate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "appropriate funds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5172.png",
+      "local_image_path": "images/5172.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5173.png",
+      "local_image_path": "images/5173.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112644.png",
+      "local_image_path": "images/112644.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112645.png",
+      "local_image_path": "images/112645.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112646.png",
+      "local_image_path": "images/112646.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112647.png",
+      "local_image_path": "images/112647.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112648.png",
+      "local_image_path": "images/112648.png"
+    }
+  ],
+  "synonyms": [
+    "suitable",
+    "fitting",
+    "apt",
+    "proper",
+    "apposite",
+    "right",
+    "correct",
+    "take",
+    "misappropriate",
+    "seize",
+    "assume",
+    "arrogate",
+    "usurp",
+    "adopt"
+  ],
+  "antonyms": [
+    "inappropriate"
+  ],
+  "similar_words": [
+    "appropriately",
+    "appropriateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appropriate.mp3",
+  "local_sound_path": "sounds/appropriate.mp3"
+}

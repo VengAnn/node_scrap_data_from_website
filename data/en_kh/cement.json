@@ -1,0 +1,44 @@
+{
+  "word": "cement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wall of cement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13524.png",
+      "local_image_path": "images/13524.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cement a wall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13525.png",
+      "local_image_path": "images/13525.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116103.png",
+      "local_image_path": "images/116103.png"
+    }
+  ],
+  "synonyms": [
+    "join",
+    "stick",
+    "fix",
+    "glue",
+    "bond"
+  ],
+  "antonyms": [
+    "undermine",
+    "separate"
+  ],
+  "similar_words": [
+    "cement mixer",
+    "cementation",
+    "cementitious",
+    "cementum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cement.mp3",
+  "local_sound_path": "sounds/cement.mp3"
+}

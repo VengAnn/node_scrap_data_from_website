@@ -1,0 +1,57 @@
+{
+  "word": "drip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Rain was dripping (down) from the trees.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23162.png",
+      "local_image_path": "images/23162.png"
+    },
+    {
+      "pos": "iv",
+      "example": "drip paint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23163.png",
+      "local_image_path": "images/23163.png"
+    },
+    {
+      "pos": "n",
+      "example": "catch the drip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23164.png",
+      "local_image_path": "images/23164.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is a drip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23165.png",
+      "local_image_path": "images/23165.png"
+    }
+  ],
+  "synonyms": [
+    "bore",
+    "pest",
+    "nuisance",
+    "headache",
+    "wet blanket",
+    "drag",
+    "dribble",
+    "trickle",
+    "drop",
+    "leak",
+    "seep",
+    "ooze"
+  ],
+  "antonyms": [
+    "stream",
+    "gush"
+  ],
+  "similar_words": [
+    "dripping",
+    "dripping wet",
+    "dripple",
+    "drippy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drip.mp3",
+  "local_sound_path": "sounds/drip.mp3"
+}

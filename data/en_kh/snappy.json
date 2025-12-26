@@ -1,0 +1,47 @@
+{
+  "word": "snappy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "snappy old person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81961.png",
+      "local_image_path": "images/81961.png"
+    },
+    {
+      "pos": "adj",
+      "example": "snappy fire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81962.png",
+      "local_image_path": "images/81962.png"
+    },
+    {
+      "pos": "adj",
+      "example": "snappy outfit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81963.png",
+      "local_image_path": "images/81963.png"
+    }
+  ],
+  "synonyms": [
+    "smart",
+    "snazzy",
+    "natty",
+    "sharp",
+    "stylish",
+    "fashionable",
+    "chic",
+    "trendy",
+    "classy",
+    "elegant"
+  ],
+  "antonyms": [
+    "good-natured",
+    "slow",
+    "amiable",
+    "plain",
+    "dowdy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/snappy.mp3",
+  "local_sound_path": "sounds/snappy.mp3"
+}

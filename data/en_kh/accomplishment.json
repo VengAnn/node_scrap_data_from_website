@@ -1,0 +1,43 @@
+{
+  "word": "accomplishment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "accomplishment of the task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1880.png",
+      "local_image_path": "images/1880.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111960.png",
+      "local_image_path": "images/111960.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113135.png",
+      "local_image_path": "images/113135.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113136.png",
+      "local_image_path": "images/113136.png"
+    }
+  ],
+  "synonyms": [
+    "skill",
+    "talent",
+    "ability",
+    "expertise",
+    "capability",
+    "endowment"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accomplishment.mp3",
+  "local_sound_path": "sounds/accomplishment.mp3"
+}

@@ -1,0 +1,66 @@
+{
+  "word": "flex",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "saws flex",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29035.png",
+      "local_image_path": "images/29035.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rubber bands flex",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29036.png",
+      "local_image_path": "images/29036.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flex a saw",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29032.png",
+      "local_image_path": "images/29032.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flex a muscle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29033.png",
+      "local_image_path": "images/29033.png"
+    },
+    {
+      "pos": "tv",
+      "example": "flex a rubber band",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29034.png",
+      "local_image_path": "images/29034.png"
+    }
+  ],
+  "synonyms": [
+    "bend",
+    "loosen",
+    "contract",
+    "tighten",
+    "expand",
+    "tense",
+    "inflate",
+    "control"
+  ],
+  "antonyms": [
+    "straighten",
+    "relax"
+  ],
+  "similar_words": [
+    "flexecutive",
+    "flexibility",
+    "flexible",
+    "flexibleness",
+    "flexibly",
+    "flexile",
+    "flexion",
+    "flexitime",
+    "flexive",
+    "flexuous",
+    "flexuously"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flex.mp3",
+  "local_sound_path": "sounds/flex.mp3"
+}

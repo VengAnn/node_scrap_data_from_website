@@ -1,0 +1,33 @@
+{
+  "word": "shark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78833.png",
+      "local_image_path": "images/78833.png"
+    },
+    {
+      "pos": "sl (n)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78834.png",
+      "local_image_path": "images/78834.png"
+    }
+  ],
+  "synonyms": [
+    "swindler",
+    "crook",
+    "double-dealer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shark oil",
+    "shark-skin",
+    "sharking",
+    "sharkpilot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shark.mp3",
+  "local_sound_path": "sounds/shark.mp3"
+}

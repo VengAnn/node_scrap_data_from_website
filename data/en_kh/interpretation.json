@@ -1,0 +1,44 @@
+{
+  "word": "interpretation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "interpretation of a speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41485.png",
+      "local_image_path": "images/41485.png"
+    },
+    {
+      "pos": "n",
+      "example": "interpretation of law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41486.png",
+      "local_image_path": "images/41486.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41487.png",
+      "local_image_path": "images/41487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132359.png",
+      "local_image_path": "images/132359.png"
+    }
+  ],
+  "synonyms": [
+    "understanding",
+    "explanation",
+    "reading",
+    "elucidation",
+    "analysis",
+    "version",
+    "clarification"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interpretation.mp3",
+  "local_sound_path": "sounds/interpretation.mp3"
+}

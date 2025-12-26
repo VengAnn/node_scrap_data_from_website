@@ -1,0 +1,44 @@
+{
+  "word": "clamorous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14774.png",
+      "local_image_path": "images/14774.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116401.png",
+      "local_image_path": "images/116401.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116402.png",
+      "local_image_path": "images/116402.png"
+    }
+  ],
+  "synonyms": [
+    "noisy",
+    "vociferous",
+    "loud",
+    "rowdy",
+    "boisterous",
+    "deafening",
+    "riotous",
+    "raucous"
+  ],
+  "antonyms": [
+    "tranquil"
+  ],
+  "similar_words": [
+    "clamorously",
+    "clamorousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clamorous.mp3",
+  "local_sound_path": "sounds/clamorous.mp3"
+}

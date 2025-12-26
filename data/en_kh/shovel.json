@@ -1,0 +1,40 @@
+{
+  "word": "shovel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79526.png",
+      "local_image_path": "images/79526.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shovel snow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79527.png",
+      "local_image_path": "images/79527.png"
+    }
+  ],
+  "synonyms": [
+    "scoop",
+    "move",
+    "dig",
+    "spoon",
+    "heap",
+    "ladle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shovel hat",
+    "shovel-board",
+    "shovel-nose",
+    "shovel-nosed",
+    "shoveler",
+    "shoveller",
+    "shovelling",
+    "shovelman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shovel.mp3",
+  "local_sound_path": "sounds/shovel.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "verge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "verge on (treason)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97639.png",
+      "local_image_path": "images/97639.png"
+    },
+    {
+      "pos": "iv",
+      "example": "verge on (his property)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97640.png",
+      "local_image_path": "images/97640.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97642.png",
+      "local_image_path": "images/97642.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97637.png",
+      "local_image_path": "images/97637.png"
+    },
+    {
+      "pos": "n",
+      "example": "verge of the forest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97638.png",
+      "local_image_path": "images/97638.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97641.png",
+      "local_image_path": "images/97641.png"
+    }
+  ],
+  "synonyms": [
+    "edge",
+    "border",
+    "threshold",
+    "limit",
+    "brink",
+    "margin",
+    "approach",
+    "near",
+    "move",
+    "lean"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "vergency",
+    "verger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/verge.mp3",
+  "local_sound_path": "sounds/verge.mp3"
+}

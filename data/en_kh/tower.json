@@ -1,0 +1,43 @@
+{
+  "word": "tower",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "a tower of strength",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90504.png",
+      "local_image_path": "images/90504.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The sky-scrapers that tower over New York.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90505.png",
+      "local_image_path": "images/90505.png"
+    },
+    {
+      "pos": "n",
+      "example": "stone tower",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90503.png",
+      "local_image_path": "images/90503.png"
+    }
+  ],
+  "synonyms": [
+    "surpass",
+    "exceed",
+    "excel",
+    "top",
+    "transcend",
+    "outstrip",
+    "outdo",
+    "outclass"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "towering",
+    "toweringly",
+    "towery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tower.mp3",
+  "local_sound_path": "sounds/tower.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "aerate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2623.png",
+      "local_image_path": "images/2623.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112184.png",
+      "local_image_path": "images/112184.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112185.png",
+      "local_image_path": "images/112185.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112186.png",
+      "local_image_path": "images/112186.png"
+    }
+  ],
+  "synonyms": [
+    "ventilate",
+    "air",
+    "expose",
+    "freshen"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aerate.mp3",
+  "local_sound_path": "sounds/aerate.mp3"
+}

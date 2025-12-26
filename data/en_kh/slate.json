@@ -1,0 +1,76 @@
+{
+  "word": "slate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "roof slatch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81007.png",
+      "local_image_path": "images/81007.png"
+    },
+    {
+      "pos": "n",
+      "example": "writing slate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81008.png",
+      "local_image_path": "images/81008.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81009.png",
+      "local_image_path": "images/81009.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81010.png",
+      "local_image_path": "images/81010.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81011.png",
+      "local_image_path": "images/81011.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127967.png",
+      "local_image_path": "images/127967.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slate a roof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81012.png",
+      "local_image_path": "images/81012.png"
+    },
+    {
+      "pos": "tv",
+      "example": "house is slated for demolition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81013.png",
+      "local_image_path": "images/81013.png"
+    }
+  ],
+  "synonyms": [
+    "schedule",
+    "attack",
+    "pan",
+    "knock",
+    "censure",
+    "criticize"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [
+    "slate-blue",
+    "slate-club",
+    "slate-coloured",
+    "slate-cutter",
+    "slate-pencil",
+    "slater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slate.mp3",
+  "local_sound_path": "sounds/slate.mp3"
+}

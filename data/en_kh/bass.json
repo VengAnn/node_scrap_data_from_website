@@ -1,0 +1,57 @@
+{
+  "word": "bass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He is a bass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7668.png",
+      "local_image_path": "images/7668.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7669.png",
+      "local_image_path": "images/7669.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7670.png",
+      "local_image_path": "images/7670.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114665.png",
+      "local_image_path": "images/114665.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114666.png",
+      "local_image_path": "images/114666.png"
+    }
+  ],
+  "synonyms": [
+    "deep",
+    "low"
+  ],
+  "antonyms": [
+    "high"
+  ],
+  "similar_words": [
+    "bass drum",
+    "bass-horn",
+    "bass-viol",
+    "basset",
+    "bassinet",
+    "bassist",
+    "basso",
+    "bassoon",
+    "bassoonist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bass.mp3",
+  "local_sound_path": "sounds/bass.mp3"
+}

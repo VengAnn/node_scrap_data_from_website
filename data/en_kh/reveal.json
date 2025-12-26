@@ -1,0 +1,55 @@
+{
+  "word": "reveal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "reveal a secret",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73258.png",
+      "local_image_path": "images/73258.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73259.png",
+      "local_image_path": "images/73259.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73260.png",
+      "local_image_path": "images/73260.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127076.png",
+      "local_image_path": "images/127076.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127077.png",
+      "local_image_path": "images/127077.png"
+    }
+  ],
+  "synonyms": [
+    "expose",
+    "uncover",
+    "show",
+    "bare"
+  ],
+  "antonyms": [
+    "conceal"
+  ],
+  "similar_words": [
+    "revealable",
+    "revealed",
+    "revealer",
+    "revealing",
+    "revealment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reveal.mp3",
+  "local_sound_path": "sounds/reveal.mp3"
+}

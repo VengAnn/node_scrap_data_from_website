@@ -1,0 +1,50 @@
+{
+  "word": "sate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75959.png",
+      "local_image_path": "images/75959.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127417.png",
+      "local_image_path": "images/127417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127418.png",
+      "local_image_path": "images/127418.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127419.png",
+      "local_image_path": "images/127419.png"
+    }
+  ],
+  "synonyms": [
+    "satisfy",
+    "fill",
+    "quench",
+    "slake",
+    "gorge",
+    "satiate",
+    "stuff",
+    "feed",
+    "glut"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sated",
+    "sateen",
+    "satellite"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sate.mp3",
+  "local_sound_path": "sounds/sate.mp3"
+}

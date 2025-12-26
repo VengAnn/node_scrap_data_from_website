@@ -1,0 +1,46 @@
+{
+  "word": "determine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "We determined to learn Greek.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21010.png",
+      "local_image_path": "images/21010.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118193.png",
+      "local_image_path": "images/118193.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118194.png",
+      "local_image_path": "images/118194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118195.png",
+      "local_image_path": "images/118195.png"
+    }
+  ],
+  "synonyms": [
+    "control",
+    "influence",
+    "shape",
+    "mold",
+    "govern",
+    "affect",
+    "form"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "determined"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/determine.mp3",
+  "local_sound_path": "sounds/determine.mp3"
+}

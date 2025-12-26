@@ -1,0 +1,62 @@
+{
+  "word": "scour",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76968.png",
+      "local_image_path": "images/76968.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76969.png",
+      "local_image_path": "images/76969.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76970.png",
+      "local_image_path": "images/76970.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76965.png",
+      "local_image_path": "images/76965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scour the floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76966.png",
+      "local_image_path": "images/76966.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scour the earth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76967.png",
+      "local_image_path": "images/76967.png"
+    }
+  ],
+  "synonyms": [
+    "search",
+    "comb",
+    "hunt"
+  ],
+  "antonyms": [
+    "dirty"
+  ],
+  "similar_words": [
+    "scourage",
+    "scourer",
+    "scourge",
+    "scouring",
+    "scouring cloth",
+    "scouring-basin",
+    "scourings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scour.mp3",
+  "local_sound_path": "sounds/scour.mp3"
+}

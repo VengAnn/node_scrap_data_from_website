@@ -1,0 +1,32 @@
+{
+  "word": "disinfect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21932.png",
+      "local_image_path": "images/21932.png"
+    }
+  ],
+  "synonyms": [
+    "sterilize",
+    "sanitize",
+    "purify",
+    "fumigate",
+    "bleach",
+    "cleanse",
+    "clean",
+    "decontaminate"
+  ],
+  "antonyms": [
+    "contaminate"
+  ],
+  "similar_words": [
+    "disinfectant",
+    "disinfection"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disinfect.mp3",
+  "local_sound_path": "sounds/disinfect.mp3"
+}

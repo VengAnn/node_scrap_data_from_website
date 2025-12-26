@@ -1,0 +1,45 @@
+{
+  "word": "deflation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20204.png",
+      "local_image_path": "images/20204.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117916.png",
+      "local_image_path": "images/117916.png"
+    },
+    {
+      "pos": "n",
+      "example": "We get more for our money due to the deflation of price.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131210.png",
+      "local_image_path": "images/131210.png"
+    },
+    {
+      "pos": "n",
+      "example": "deflation of a tire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131212.png",
+      "local_image_path": "images/131212.png"
+    }
+  ],
+  "synonyms": [
+    "depression",
+    "devaluation",
+    "depreciation",
+    "reduction",
+    "decrease",
+    "lowering"
+  ],
+  "antonyms": [
+    "inflation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deflation.mp3",
+  "local_sound_path": "sounds/deflation.mp3"
+}

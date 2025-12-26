@@ -1,0 +1,76 @@
+{
+  "word": "recruit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71025.png",
+      "local_image_path": "images/71025.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71026.png",
+      "local_image_path": "images/71026.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71027.png",
+      "local_image_path": "images/71027.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71028.png",
+      "local_image_path": "images/71028.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126606.png",
+      "local_image_path": "images/126606.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recruit a new staff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71023.png",
+      "local_image_path": "images/71023.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71024.png",
+      "local_image_path": "images/71024.png"
+    }
+  ],
+  "synonyms": [
+    "employee",
+    "trainee",
+    "beginner",
+    "novice",
+    "newcomer",
+    "apprentice",
+    "convert",
+    "employ",
+    "enlist",
+    "draft",
+    "engage",
+    "conscript",
+    "hire",
+    "enroll"
+  ],
+  "antonyms": [
+    "fire"
+  ],
+  "similar_words": [
+    "recruit new staff",
+    "recruiting-office",
+    "recruiting-officer",
+    "recruitment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recruit.mp3",
+  "local_sound_path": "sounds/recruit.mp3"
+}

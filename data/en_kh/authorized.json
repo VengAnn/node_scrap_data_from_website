@@ -1,0 +1,28 @@
+{
+  "word": "authorized",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pt",
+      "example": "See word authorize",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111751.png",
+      "local_image_path": "images/111751.png"
+    }
+  ],
+  "synonyms": [
+    "official",
+    "certified",
+    "formal",
+    "authoritative",
+    "legitimate"
+  ],
+  "antonyms": [
+    "informal",
+    "unauthorized",
+    "forbidden"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authorized.mp3",
+  "local_sound_path": "sounds/authorized.mp3"
+}

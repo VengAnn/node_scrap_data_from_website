@@ -1,0 +1,38 @@
+{
+  "word": "donor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22725.png",
+      "local_image_path": "images/22725.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130265.png",
+      "local_image_path": "images/130265.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130266.png",
+      "local_image_path": "images/130266.png"
+    }
+  ],
+  "synonyms": [
+    "giver",
+    "contributor",
+    "benefactor",
+    "patron",
+    "supporter",
+    "subscriber",
+    "presenter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/donor.mp3",
+  "local_sound_path": "sounds/donor.mp3"
+}

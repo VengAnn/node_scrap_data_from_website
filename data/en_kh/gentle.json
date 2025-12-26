@@ -1,0 +1,57 @@
+{
+  "word": "gentle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gentle touch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31452.png",
+      "local_image_path": "images/31452.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gentle words",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31453.png",
+      "local_image_path": "images/31453.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gentle breeze",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31454.png",
+      "local_image_path": "images/31454.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gentle animal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31455.png",
+      "local_image_path": "images/31455.png"
+    }
+  ],
+  "synonyms": [
+    "soft",
+    "quiet",
+    "light",
+    "soothing",
+    "mellow",
+    "restful",
+    "peaceful"
+  ],
+  "antonyms": [
+    "rough",
+    "harsh"
+  ],
+  "similar_words": [
+    "gentlefolk",
+    "gentlehood",
+    "gentleman",
+    "gentlemanlike",
+    "gentlemanliness",
+    "gentlemanly",
+    "gentleness",
+    "gentleship",
+    "gentlewoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gentle.mp3",
+  "local_sound_path": "sounds/gentle.mp3"
+}

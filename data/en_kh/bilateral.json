@@ -1,0 +1,28 @@
+{
+  "word": "bilateral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "bilateral agreement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8870.png",
+      "local_image_path": "images/8870.png"
+    }
+  ],
+  "synonyms": [
+    "two-sided",
+    "joint",
+    "mutual",
+    "consensual"
+  ],
+  "antonyms": [
+    "unilateral"
+  ],
+  "similar_words": [
+    "bilaterally",
+    "bilateralness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bilateral.mp3",
+  "local_sound_path": "sounds/bilateral.mp3"
+}

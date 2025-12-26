@@ -1,0 +1,44 @@
+{
+  "word": "brevity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11001.png",
+      "local_image_path": "images/11001.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115603.png",
+      "local_image_path": "images/115603.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115604.png",
+      "local_image_path": "images/115604.png"
+    }
+  ],
+  "synonyms": [
+    "shortness",
+    "briefness",
+    "conciseness",
+    "concision",
+    "pithiness",
+    "terseness",
+    "quickness",
+    "swiftness",
+    "transience",
+    "curtness"
+  ],
+  "antonyms": [
+    "length",
+    "long-windedness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brevity.mp3",
+  "local_sound_path": "sounds/brevity.mp3"
+}

@@ -1,0 +1,50 @@
+{
+  "word": "cheerful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14019.png",
+      "local_image_path": "images/14019.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116245.png",
+      "local_image_path": "images/116245.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116246.png",
+      "local_image_path": "images/116246.png"
+    }
+  ],
+  "synonyms": [
+    "happy",
+    "cheery",
+    "jolly",
+    "smiling",
+    "joyful",
+    "merry",
+    "positive",
+    "jovial",
+    "lively",
+    "sunny",
+    "chirpy",
+    "jaunty",
+    "gleeful",
+    "optimistic"
+  ],
+  "antonyms": [
+    "sad"
+  ],
+  "similar_words": [
+    "cheerfully",
+    "cheerfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cheerful.mp3",
+  "local_sound_path": "sounds/cheerful.mp3"
+}

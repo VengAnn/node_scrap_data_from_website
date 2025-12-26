@@ -1,0 +1,48 @@
+{
+  "word": "chime",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14193.png",
+      "local_image_path": "images/14193.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14195.png",
+      "local_image_path": "images/14195.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14194.png",
+      "local_image_path": "images/14194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116269.png",
+      "local_image_path": "images/116269.png"
+    }
+  ],
+  "synonyms": [
+    "strike",
+    "peal",
+    "ring",
+    "sound",
+    "toll"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chimera",
+    "chimere",
+    "chimerical",
+    "chimerically",
+    "chimerism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chime.mp3",
+  "local_sound_path": "sounds/chime.mp3"
+}

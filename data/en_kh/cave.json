@@ -1,0 +1,42 @@
+{
+  "word": "cave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13448.png",
+      "local_image_path": "images/13448.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13446.png",
+      "local_image_path": "images/13446.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13447.png",
+      "local_image_path": "images/13447.png"
+    }
+  ],
+  "synonyms": [
+    "yield",
+    "give",
+    "surrender",
+    "concede"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cave-man",
+    "cavea",
+    "caveat",
+    "caveats to marriage",
+    "cavern",
+    "cavernous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cave.mp3",
+  "local_sound_path": "sounds/cave.mp3"
+}

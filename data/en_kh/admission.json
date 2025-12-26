@@ -1,0 +1,52 @@
+{
+  "word": "admission",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "L",
+      "example": "សេចក្ដីថ្លែង ដោយ ស្ម័គ្រចិត្ត ថា អង្គហេតុ មួយ ឬ ព្រឹត្តិការណ៍ មួយ គឺ ពិត។",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132450.png",
+      "local_image_path": "images/132450.png"
+    },
+    {
+      "pos": "n",
+      "example": "admission fee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2470.png",
+      "local_image_path": "images/2470.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112053.png",
+      "local_image_path": "images/112053.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113295.png",
+      "local_image_path": "images/113295.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113296.png",
+      "local_image_path": "images/113296.png"
+    }
+  ],
+  "synonyms": [
+    "confession",
+    "declaration",
+    "profession",
+    "divulgence",
+    "disclosure",
+    "acknowledgment",
+    "statement",
+    "acknowledgement"
+  ],
+  "antonyms": [
+    "exclusion",
+    "denial"
+  ],
+  "similar_words": [],
+  "sound": null
+}

@@ -1,0 +1,53 @@
+{
+  "word": "diffuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21308.png",
+      "local_image_path": "images/21308.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21309.png",
+      "local_image_path": "images/21309.png"
+    },
+    {
+      "pos": "iv",
+      "example": "A drop of milk diffused in the water.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21306.png",
+      "local_image_path": "images/21306.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21307.png",
+      "local_image_path": "images/21307.png"
+    }
+  ],
+  "synonyms": [
+    "spread",
+    "scattered",
+    "thin",
+    "disperse",
+    "disseminate",
+    "distribute",
+    "circulate",
+    "scatter",
+    "strew"
+  ],
+  "antonyms": [
+    "concentrate",
+    "concise",
+    "concentrated"
+  ],
+  "similar_words": [
+    "diffusely",
+    "diffuseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/diffuse.mp3",
+  "local_sound_path": "sounds/diffuse.mp3"
+}

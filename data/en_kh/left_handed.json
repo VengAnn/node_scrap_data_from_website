@@ -1,0 +1,27 @@
+{
+  "word": "left-handed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "left-handed person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45669.png",
+      "local_image_path": "images/45669.png"
+    },
+    {
+      "pos": "adj",
+      "example": "left-handed tools",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45670.png",
+      "local_image_path": "images/45670.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "left-handedly",
+    "left-handedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/left-handed.mp3",
+  "local_sound_path": "sounds/left-handed.mp3"
+}

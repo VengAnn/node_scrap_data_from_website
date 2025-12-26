@@ -1,0 +1,37 @@
+{
+  "word": "dialectic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21175.png",
+      "local_image_path": "images/21175.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21173.png",
+      "local_image_path": "images/21173.png"
+    }
+  ],
+  "synonyms": [
+    "discussion",
+    "debate",
+    "disputation",
+    "investigation",
+    "examination",
+    "analysis"
+  ],
+  "antonyms": [
+    "harmony"
+  ],
+  "similar_words": [
+    "dialectical",
+    "dialectically",
+    "dialectician"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dialectic.mp3",
+  "local_sound_path": "sounds/dialectic.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "author",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "famous author",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6510.png",
+      "local_image_path": "images/6510.png"
+    }
+  ],
+  "synonyms": [
+    "creator",
+    "instigator",
+    "source",
+    "cause",
+    "origin",
+    "originator",
+    "inventor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "authoress",
+    "authorial",
+    "authoring",
+    "authoritarian",
+    "authoritarianism",
+    "authoritative",
+    "authoritatively",
+    "authoritativeness",
+    "authority",
+    "authorization",
+    "authorize",
+    "authorized",
+    "authorizer",
+    "authorless",
+    "authorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/author.mp3",
+  "local_sound_path": "sounds/author.mp3"
+}

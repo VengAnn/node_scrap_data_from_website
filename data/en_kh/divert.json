@@ -1,0 +1,47 @@
+{
+  "word": "divert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22431.png",
+      "local_image_path": "images/22431.png"
+    },
+    {
+      "pos": "tv",
+      "example": "divert his attention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22432.png",
+      "local_image_path": "images/22432.png"
+    },
+    {
+      "pos": "tv",
+      "example": "divert oneself with a novel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22433.png",
+      "local_image_path": "images/22433.png"
+    }
+  ],
+  "synonyms": [
+    "entertain",
+    "amuse",
+    "please",
+    "delight",
+    "redirect",
+    "deflect",
+    "switch"
+  ],
+  "antonyms": [
+    "focus"
+  ],
+  "similar_words": [
+    "diverticle",
+    "diverticulitis",
+    "diverting",
+    "divertingly",
+    "divertise",
+    "divertive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divert.mp3",
+  "local_sound_path": "sounds/divert.mp3"
+}

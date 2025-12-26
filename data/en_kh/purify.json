@@ -1,0 +1,48 @@
+{
+  "word": "purify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "purify water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68991.png",
+      "local_image_path": "images/68991.png"
+    },
+    {
+      "pos": "tv",
+      "example": "purify gold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68992.png",
+      "local_image_path": "images/68992.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126267.png",
+      "local_image_path": "images/126267.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126268.png",
+      "local_image_path": "images/126268.png"
+    }
+  ],
+  "synonyms": [
+    "cleanse",
+    "disinfect",
+    "sanitize",
+    "decontaminate",
+    "clean",
+    "filter",
+    "refine",
+    "distill",
+    "sterilize"
+  ],
+  "antonyms": [
+    "contaminate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/purify.mp3",
+  "local_sound_path": "sounds/purify.mp3"
+}

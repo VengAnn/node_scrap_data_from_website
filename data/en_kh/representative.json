@@ -1,0 +1,46 @@
+{
+  "word": "representative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72429.png",
+      "local_image_path": "images/72429.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72427.png",
+      "local_image_path": "images/72427.png"
+    },
+    {
+      "pos": "n",
+      "example": "representative of a company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72428.png",
+      "local_image_path": "images/72428.png"
+    }
+  ],
+  "synonyms": [
+    "typical",
+    "characteristic",
+    "demonstrative",
+    "envoy",
+    "delegate",
+    "agent",
+    "diplomat",
+    "commissioner",
+    "ambassador"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "representative election",
+    "representative government",
+    "representative mandate",
+    "representatively",
+    "representativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/representative.mp3",
+  "local_sound_path": "sounds/representative.mp3"
+}

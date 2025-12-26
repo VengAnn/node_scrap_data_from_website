@@ -1,0 +1,37 @@
+{
+  "word": "disembark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21798.png",
+      "local_image_path": "images/21798.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21799.png",
+      "local_image_path": "images/21799.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118455.png",
+      "local_image_path": "images/118455.png"
+    }
+  ],
+  "synonyms": [
+    "land",
+    "debark"
+  ],
+  "antonyms": [
+    "embark"
+  ],
+  "similar_words": [
+    "disembarkation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disembark.mp3",
+  "local_sound_path": "sounds/disembark.mp3"
+}

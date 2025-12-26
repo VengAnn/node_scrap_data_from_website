@@ -1,0 +1,65 @@
+{
+  "word": "sin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80277.png",
+      "local_image_path": "images/80277.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80275.png",
+      "local_image_path": "images/80275.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80276.png",
+      "local_image_path": "images/80276.png"
+    }
+  ],
+  "synonyms": [
+    "peccadillo",
+    "offense",
+    "failing",
+    "indulgence",
+    "crime",
+    "transgression",
+    "transgress",
+    "err",
+    "lapse"
+  ],
+  "antonyms": [
+    "virtue",
+    "goodness"
+  ],
+  "similar_words": [
+    "sin-flood",
+    "since",
+    "sincere",
+    "sincerely",
+    "sincereness",
+    "sincerity",
+    "sincipital",
+    "sinciput",
+    "sindon",
+    "sine",
+    "sine die",
+    "sine shaped",
+    "sinecure",
+    "sinecurism",
+    "sinecurist",
+    "sinew",
+    "sinewiness",
+    "sinewish",
+    "sinewless",
+    "sinewous",
+    "sinewy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sin.mp3",
+  "local_sound_path": "sounds/sin.mp3"
+}

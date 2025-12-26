@@ -1,0 +1,44 @@
+{
+  "word": "derelict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "derelict ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20730.png",
+      "local_image_path": "images/20730.png"
+    },
+    {
+      "pos": "adj",
+      "example": "derelict in one's duty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20731.png",
+      "local_image_path": "images/20731.png"
+    },
+    {
+      "pos": "n",
+      "example": "Ship ia a derelict",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20732.png",
+      "local_image_path": "images/20732.png"
+    },
+    {
+      "pos": "n",
+      "example": "drunken derelict",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20733.png",
+      "local_image_path": "images/20733.png"
+    }
+  ],
+  "synonyms": [
+    "dilapidated",
+    "neglected",
+    "abandoned",
+    "deserted",
+    "run-down"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dereliction"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/derelict.mp3",
+  "local_sound_path": "sounds/derelict.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "abdominal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "abdominal pain, abdominal surgery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1362.png",
+      "local_image_path": "images/1362.png"
+    }
+  ],
+  "synonyms": [
+    "stomach",
+    "belly",
+    "front",
+    "intestinal",
+    "gut"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "abdominal pain",
+    "abdominally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abdominal.mp3",
+  "local_sound_path": "sounds/abdominal.mp3"
+}

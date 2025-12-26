@@ -1,0 +1,40 @@
+{
+  "word": "lightly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46485.png",
+      "local_image_path": "images/46485.png"
+    },
+    {
+      "pos": "adv",
+      "example": "press lightly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46483.png",
+      "local_image_path": "images/46483.png"
+    },
+    {
+      "pos": "adv",
+      "example": "behave lightly",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46484.png",
+      "local_image_path": "images/46484.png"
+    }
+  ],
+  "synonyms": [
+    "nimbly",
+    "gracefully",
+    "gently",
+    "softly",
+    "imperceptibly",
+    "quietly",
+    "noiselessly"
+  ],
+  "antonyms": [
+    "heavily"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lightly.mp3",
+  "local_sound_path": "sounds/lightly.mp3"
+}

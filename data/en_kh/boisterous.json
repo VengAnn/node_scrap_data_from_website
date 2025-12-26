@@ -1,0 +1,49 @@
+{
+  "word": "boisterous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "boisterous sea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9993.png",
+      "local_image_path": "images/9993.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115336.png",
+      "local_image_path": "images/115336.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115337.png",
+      "local_image_path": "images/115337.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115338.png",
+      "local_image_path": "images/115338.png"
+    }
+  ],
+  "synonyms": [
+    "energetic",
+    "lively",
+    "active",
+    "animated",
+    "rowdy",
+    "unruly",
+    "noisy"
+  ],
+  "antonyms": [
+    "placid"
+  ],
+  "similar_words": [
+    "boisterously",
+    "boisterousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boisterous.mp3",
+  "local_sound_path": "sounds/boisterous.mp3"
+}

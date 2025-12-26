@@ -1,0 +1,77 @@
+{
+  "word": "camp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "troops camp here",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12554.png",
+      "local_image_path": "images/12554.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12556.png",
+      "local_image_path": "images/12556.png"
+    },
+    {
+      "pos": "n",
+      "example": "military camp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12552.png",
+      "local_image_path": "images/12552.png"
+    },
+    {
+      "pos": "n",
+      "example": "political camp",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12553.png",
+      "local_image_path": "images/12553.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12555.png",
+      "local_image_path": "images/12555.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115884.png",
+      "local_image_path": "images/115884.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "faction",
+    "clique"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "camp follower",
+    "campaign",
+    "campaigner",
+    "campanile",
+    "campanologist",
+    "campanology",
+    "campanula",
+    "campanulate",
+    "camper",
+    "campestral",
+    "campestrian",
+    "campfire",
+    "campground",
+    "camphor",
+    "camphor oil",
+    "camphor tree",
+    "camphorate",
+    "campily",
+    "campiness",
+    "camping",
+    "campo",
+    "campsite",
+    "camptool",
+    "campus"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/camp.mp3",
+  "local_sound_path": "sounds/camp.mp3"
+}

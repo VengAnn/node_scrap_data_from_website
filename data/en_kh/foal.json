@@ -1,0 +1,35 @@
+{
+  "word": "foal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29415.png",
+      "local_image_path": "images/29415.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29414.png",
+      "local_image_path": "images/29414.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29416.png",
+      "local_image_path": "images/29416.png"
+    }
+  ],
+  "synonyms": [
+    "horse",
+    "colt",
+    "breed",
+    "reproduce"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foal.mp3",
+  "local_sound_path": "sounds/foal.mp3"
+}

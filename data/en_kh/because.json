@@ -1,0 +1,28 @@
+{
+  "word": "because",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7943.png",
+      "local_image_path": "images/7943.png"
+    },
+    {
+      "pos": "prep",
+      "example": "I'm alive because of him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7944.png",
+      "local_image_path": "images/7944.png"
+    }
+  ],
+  "synonyms": [
+    "since",
+    "as",
+    "for"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/because.mp3",
+  "local_sound_path": "sounds/because.mp3"
+}

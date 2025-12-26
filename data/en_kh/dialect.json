@@ -1,0 +1,41 @@
+{
+  "word": "dialect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21171.png",
+      "local_image_path": "images/21171.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118252.png",
+      "local_image_path": "images/118252.png"
+    }
+  ],
+  "synonyms": [
+    "vernacular",
+    "language",
+    "parlance",
+    "tongue",
+    "talk",
+    "idiom"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dialectal",
+    "dialectic",
+    "dialectical",
+    "dialectically",
+    "dialectician",
+    "dialectological",
+    "dialectologically",
+    "dialectologist",
+    "dialectology"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dialect.mp3",
+  "local_sound_path": "sounds/dialect.mp3"
+}

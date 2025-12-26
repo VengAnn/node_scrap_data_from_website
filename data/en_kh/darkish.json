@@ -1,0 +1,35 @@
+{
+  "word": "darkish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19649.png",
+      "local_image_path": "images/19649.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19659.png",
+      "local_image_path": "images/19659.png"
+    }
+  ],
+  "synonyms": [
+    "shadowy",
+    "dark",
+    "gray",
+    "grayish",
+    "dim",
+    "hazy",
+    "grey",
+    "greyish"
+  ],
+  "antonyms": [
+    "bright"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/darkish.mp3",
+  "local_sound_path": "sounds/darkish.mp3"
+}

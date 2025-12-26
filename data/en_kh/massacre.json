@@ -1,0 +1,32 @@
+{
+  "word": "massacre",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106570.png",
+      "local_image_path": "images/106570.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106571.png",
+      "local_image_path": "images/106571.png"
+    }
+  ],
+  "synonyms": [
+    "slaughter",
+    "butcher",
+    "annihilate",
+    "execute",
+    "exterminate",
+    "murder",
+    "decimate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/massacre.mp3",
+  "local_sound_path": "sounds/massacre.mp3"
+}

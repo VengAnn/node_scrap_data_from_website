@@ -1,0 +1,48 @@
+{
+  "word": "trailer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90808.png",
+      "local_image_path": "images/90808.png"
+    },
+    {
+      "pos": "n",
+      "example": "pull a trailer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90804.png",
+      "local_image_path": "images/90804.png"
+    },
+    {
+      "pos": "n",
+      "example": "live in a trailer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90805.png",
+      "local_image_path": "images/90805.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90806.png",
+      "local_image_path": "images/90806.png"
+    },
+    {
+      "pos": "n",
+      "example": "plant is a trailer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90807.png",
+      "local_image_path": "images/90807.png"
+    }
+  ],
+  "synonyms": [
+    "clip",
+    "preview",
+    "promo",
+    "ad",
+    "advert"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trailer.mp3",
+  "local_sound_path": "sounds/trailer.mp3"
+}

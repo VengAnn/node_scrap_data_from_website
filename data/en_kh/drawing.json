@@ -1,0 +1,41 @@
+{
+  "word": "drawing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "study drawing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23046.png",
+      "local_image_path": "images/23046.png"
+    },
+    {
+      "pos": "n",
+      "example": "hold a drawing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23047.png",
+      "local_image_path": "images/23047.png"
+    }
+  ],
+  "synonyms": [
+    "sketch",
+    "picture",
+    "illustration",
+    "diagram",
+    "portrayal",
+    "depiction",
+    "cartoon",
+    "representation",
+    "doodle",
+    "outline",
+    "tying",
+    "evening"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "drawing master",
+    "drawing room",
+    "drawing-board"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drawing.mp3",
+  "local_sound_path": "sounds/drawing.mp3"
+}

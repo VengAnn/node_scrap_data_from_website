@@ -1,0 +1,40 @@
+{
+  "word": "assert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "assert that he is dishonest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5883.png",
+      "local_image_path": "images/5883.png"
+    }
+  ],
+  "synonyms": [
+    "defend",
+    "maintain",
+    "uphold",
+    "support",
+    "champion",
+    "establish",
+    "profess",
+    "renounce"
+  ],
+  "antonyms": [
+    "deny"
+  ],
+  "similar_words": [
+    "assertable",
+    "asserter",
+    "assertible",
+    "assertion",
+    "assertional",
+    "assertive",
+    "assertively",
+    "assertiveness",
+    "assertor",
+    "assertory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assert.mp3",
+  "local_sound_path": "sounds/assert.mp3"
+}

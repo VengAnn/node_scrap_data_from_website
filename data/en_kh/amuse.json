@@ -1,0 +1,55 @@
+{
+  "word": "amuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4001.png",
+      "local_image_path": "images/4001.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113674.png",
+      "local_image_path": "images/113674.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113675.png",
+      "local_image_path": "images/113675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113676.png",
+      "local_image_path": "images/113676.png"
+    }
+  ],
+  "synonyms": [
+    "charm",
+    "please",
+    "divert",
+    "entertain",
+    "occupy",
+    "interest",
+    "absorb",
+    "engross",
+    "fascinate"
+  ],
+  "antonyms": [
+    "bore",
+    "depress"
+  ],
+  "similar_words": [
+    "amused",
+    "amusement",
+    "amusement park",
+    "amuser",
+    "amusette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amuse.mp3",
+  "local_sound_path": "sounds/amuse.mp3"
+}

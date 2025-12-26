@@ -1,0 +1,47 @@
+{
+  "word": "tassel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87632.png",
+      "local_image_path": "images/87632.png"
+    },
+    {
+      "pos": "n",
+      "example": "tassel of a hat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87630.png",
+      "local_image_path": "images/87630.png"
+    },
+    {
+      "pos": "n",
+      "example": "corn tassel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87631.png",
+      "local_image_path": "images/87631.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87633.png",
+      "local_image_path": "images/87633.png"
+    }
+  ],
+  "synonyms": [
+    "bobble",
+    "fringe",
+    "decoration",
+    "trimming",
+    "ornament",
+    "tuft",
+    "braid",
+    "edging"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tasselled"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tassel.mp3",
+  "local_sound_path": "sounds/tassel.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "dummy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23408.png",
+      "local_image_path": "images/23408.png"
+    },
+    {
+      "pos": "n",
+      "example": "clothes dummy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23407.png",
+      "local_image_path": "images/23407.png"
+    }
+  ],
+  "synonyms": [
+    "imitation",
+    "fake",
+    "mock",
+    "pretend",
+    "replica",
+    "false",
+    "bogus",
+    "copy",
+    "duplicate"
+  ],
+  "antonyms": [
+    "original",
+    "real"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dummy.mp3",
+  "local_sound_path": "sounds/dummy.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "chow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "time for chow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14371.png",
+      "local_image_path": "images/14371.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14372.png",
+      "local_image_path": "images/14372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14373.png",
+      "local_image_path": "images/14373.png"
+    }
+  ],
+  "synonyms": [
+    "foodstuff",
+    "fare",
+    "victuals",
+    "cooking",
+    "cuisine",
+    "fodder"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chowder",
+    "chowry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chow.mp3",
+  "local_sound_path": "sounds/chow.mp3"
+}

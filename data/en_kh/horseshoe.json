@@ -1,0 +1,39 @@
+{
+  "word": "horseshoe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36008.png",
+      "local_image_path": "images/36008.png"
+    },
+    {
+      "pos": "n",
+      "example": "lose a horseshoe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36006.png",
+      "local_image_path": "images/36006.png"
+    },
+    {
+      "pos": "n",
+      "example": "play horseshoe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36007.png",
+      "local_image_path": "images/36007.png"
+    }
+  ],
+  "synonyms": [
+    "mascot",
+    "amulet",
+    "talisman",
+    "crescent",
+    "curve",
+    "arc",
+    "loop",
+    "bend"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/horseshoe.mp3",
+  "local_sound_path": "sounds/horseshoe.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "word": "promise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make a promise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67634.png",
+      "local_image_path": "images/67634.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67635.png",
+      "local_image_path": "images/67635.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67636.png",
+      "local_image_path": "images/67636.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67637.png",
+      "local_image_path": "images/67637.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67638.png",
+      "local_image_path": "images/67638.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67639.png",
+      "local_image_path": "images/67639.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67640.png",
+      "local_image_path": "images/67640.png"
+    }
+  ],
+  "synonyms": [
+    "potential",
+    "suggest",
+    "augur",
+    "bode",
+    "indicate",
+    "imply",
+    "insinuate",
+    "forebode",
+    "foreshadow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "promisee",
+    "promisekeeping",
+    "promiser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/promise.mp3",
+  "local_sound_path": "sounds/promise.mp3"
+}

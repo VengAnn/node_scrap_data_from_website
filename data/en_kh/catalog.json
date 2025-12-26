@@ -1,0 +1,37 @@
+{
+  "word": "catalog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13275.png",
+      "local_image_path": "images/13275.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13273.png",
+      "local_image_path": "images/13273.png"
+    }
+  ],
+  "synonyms": [
+    "list",
+    "directory",
+    "file",
+    "index",
+    "register",
+    "log",
+    "record"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cataloger",
+    "catalogue",
+    "catalogued",
+    "cataloguer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/catalog.mp3",
+  "local_sound_path": "sounds/catalog.mp3"
+}

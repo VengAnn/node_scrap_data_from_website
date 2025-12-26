@@ -1,0 +1,35 @@
+{
+  "word": "initiation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40081.png",
+      "local_image_path": "images/40081.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122431.png",
+      "local_image_path": "images/122431.png"
+    }
+  ],
+  "synonyms": [
+    "introduction",
+    "admission",
+    "induction",
+    "admittance",
+    "instruction",
+    "training",
+    "catechesis"
+  ],
+  "antonyms": [
+    "end",
+    "expulsion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/initiation.mp3",
+  "local_sound_path": "sounds/initiation.mp3"
+}

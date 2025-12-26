@@ -1,0 +1,41 @@
+{
+  "word": "dissolve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22231.png",
+      "local_image_path": "images/22231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dissolve sugar in water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22229.png",
+      "local_image_path": "images/22229.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22230.png",
+      "local_image_path": "images/22230.png"
+    }
+  ],
+  "synonyms": [
+    "disappear",
+    "dissipate",
+    "dispel",
+    "disperse",
+    "evaporate",
+    "vanish"
+  ],
+  "antonyms": [
+    "solidify",
+    "inaugurate",
+    "appear"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissolve.mp3",
+  "local_sound_path": "sounds/dissolve.mp3"
+}

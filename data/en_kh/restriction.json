@@ -1,0 +1,45 @@
+{
+  "word": "restriction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the restriction of trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72962.png",
+      "local_image_path": "images/72962.png"
+    },
+    {
+      "pos": "n",
+      "example": "the restriction of his movement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72963.png",
+      "local_image_path": "images/72963.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127010.png",
+      "local_image_path": "images/127010.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127011.png",
+      "local_image_path": "images/127011.png"
+    }
+  ],
+  "synonyms": [
+    "limit",
+    "constraint",
+    "restraint",
+    "control",
+    "ceiling",
+    "curb",
+    "check",
+    "limitation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restriction.mp3",
+  "local_sound_path": "sounds/restriction.mp3"
+}

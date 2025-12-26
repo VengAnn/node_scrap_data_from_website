@@ -1,0 +1,73 @@
+{
+  "word": "chip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14228.png",
+      "local_image_path": "images/14228.png"
+    },
+    {
+      "pos": "n",
+      "example": "chip of wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14225.png",
+      "local_image_path": "images/14225.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116270.png",
+      "local_image_path": "images/116270.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116271.png",
+      "local_image_path": "images/116271.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116272.png",
+      "local_image_path": "images/116272.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116273.png",
+      "local_image_path": "images/116273.png"
+    },
+    {
+      "pos": "tv",
+      "example": "chip a glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14226.png",
+      "local_image_path": "images/14226.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glasses chip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14227.png",
+      "local_image_path": "images/14227.png"
+    }
+  ],
+  "synonyms": [
+    "damage",
+    "disfigure",
+    "mark",
+    "blemish",
+    "notch",
+    "flaw"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chipmunk",
+    "chipolata",
+    "chipped beef",
+    "chipper",
+    "chippy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chip.mp3",
+  "local_sound_path": "sounds/chip.mp3"
+}

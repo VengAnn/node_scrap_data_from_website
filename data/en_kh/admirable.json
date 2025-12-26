@@ -1,0 +1,40 @@
+{
+  "word": "admirable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2452.png",
+      "local_image_path": "images/2452.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113286.png",
+      "local_image_path": "images/113286.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113287.png",
+      "local_image_path": "images/113287.png"
+    }
+  ],
+  "synonyms": [
+    "estimable",
+    "commendable",
+    "venerable",
+    "splendid",
+    "worthy",
+    "excellent",
+    "good"
+  ],
+  "antonyms": [
+    "unworthy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/admirable.mp3",
+  "local_sound_path": "sounds/admirable.mp3"
+}

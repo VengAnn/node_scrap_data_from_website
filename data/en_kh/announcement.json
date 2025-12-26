@@ -1,0 +1,28 @@
+{
+  "word": "announcement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wedding announcement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4400.png",
+      "local_image_path": "images/4400.png"
+    }
+  ],
+  "synonyms": [
+    "statement",
+    "declaration",
+    "message",
+    "notice",
+    "proclamation",
+    "publication",
+    "broadcast",
+    "pronouncement",
+    "revelation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/announcement.mp3",
+  "local_sound_path": "sounds/announcement.mp3"
+}

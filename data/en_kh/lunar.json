@@ -1,0 +1,50 @@
+{
+  "word": "lunar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lunar orbit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48073.png",
+      "local_image_path": "images/48073.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lunar lalo",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48076.png",
+      "local_image_path": "images/48076.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48071.png",
+      "local_image_path": "images/48071.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/48074.png",
+      "local_image_path": "images/48074.png"
+    }
+  ],
+  "synonyms": [
+    "astral",
+    "planetary",
+    "cosmological",
+    "astrophysical",
+    "stellar",
+    "solar"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "lunar eclipse",
+    "lunarian",
+    "lunarist",
+    "lunarium",
+    "lunarnaut",
+    "lunary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lunar.mp3",
+  "local_sound_path": "sounds/lunar.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "pressurize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66671.png",
+      "local_image_path": "images/66671.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66672.png",
+      "local_image_path": "images/66672.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pressurize a balloon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66673.png",
+      "local_image_path": "images/66673.png"
+    }
+  ],
+  "synonyms": [
+    "force",
+    "press",
+    "coerce",
+    "compel",
+    "make",
+    "pressure",
+    "bully",
+    "bulldoze",
+    "press-gang"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pressurize.mp3",
+  "local_sound_path": "sounds/pressurize.mp3"
+}

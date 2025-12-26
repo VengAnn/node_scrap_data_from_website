@@ -1,0 +1,46 @@
+{
+  "word": "authoritative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "authoritative person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6517.png",
+      "local_image_path": "images/6517.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112905.png",
+      "local_image_path": "images/112905.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112906.png",
+      "local_image_path": "images/112906.png"
+    }
+  ],
+  "synonyms": [
+    "commanding",
+    "imposing",
+    "confident",
+    "firm",
+    "reliable",
+    "trustworthy",
+    "dependable",
+    "convincing",
+    "solid"
+  ],
+  "antonyms": [
+    "unreliable",
+    "weak"
+  ],
+  "similar_words": [
+    "authoritatively",
+    "authoritativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/authoritative.mp3",
+  "local_sound_path": "sounds/authoritative.mp3"
+}

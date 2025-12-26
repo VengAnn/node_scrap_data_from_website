@@ -1,0 +1,32 @@
+{
+  "word": "bayonet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7821.png",
+      "local_image_path": "images/7821.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7822.png",
+      "local_image_path": "images/7822.png"
+    }
+  ],
+  "synonyms": [
+    "spear",
+    "pierce",
+    "stab",
+    "spike",
+    "skewer",
+    "impale",
+    "knife"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bayonet.mp3",
+  "local_sound_path": "sounds/bayonet.mp3"
+}

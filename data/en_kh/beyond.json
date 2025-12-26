@@ -1,0 +1,37 @@
+{
+  "word": "beyond",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "go beyond",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8575.png",
+      "local_image_path": "images/8575.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8576.png",
+      "local_image_path": "images/8576.png"
+    },
+    {
+      "pos": "prep",
+      "example": "beyond help",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8574.png",
+      "local_image_path": "images/8574.png"
+    }
+  ],
+  "synonyms": [
+    "past",
+    "ahead of",
+    "outside",
+    "afar"
+  ],
+  "antonyms": [
+    "within"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beyond.mp3",
+  "local_sound_path": "sounds/beyond.mp3"
+}

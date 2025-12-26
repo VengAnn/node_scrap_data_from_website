@@ -1,0 +1,51 @@
+{
+  "word": "given",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "given time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31808.png",
+      "local_image_path": "images/31808.png"
+    },
+    {
+      "pos": "adj",
+      "example": "given facts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31809.png",
+      "local_image_path": "images/31809.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31810.png",
+      "local_image_path": "images/31810.png"
+    },
+    {
+      "pos": "pp (give)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31807.png",
+      "local_image_path": "images/31807.png"
+    }
+  ],
+  "synonyms": [
+    "known",
+    "agreed",
+    "specified",
+    "prearranged",
+    "set",
+    "certain",
+    "particular",
+    "broken",
+    "ended",
+    "gone"
+  ],
+  "antonyms": [
+    "taken",
+    "withheld",
+    "held"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/given.mp3",
+  "local_sound_path": "sounds/given.mp3"
+}

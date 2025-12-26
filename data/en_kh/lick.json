@@ -1,0 +1,67 @@
+{
+  "word": "lick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46270.png",
+      "local_image_path": "images/46270.png"
+    },
+    {
+      "pos": "n",
+      "example": "lick of a switch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46271.png",
+      "local_image_path": "images/46271.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He licked his fingers.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46266.png",
+      "local_image_path": "images/46266.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46267.png",
+      "local_image_path": "images/46267.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lick a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46268.png",
+      "local_image_path": "images/46268.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lick the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46269.png",
+      "local_image_path": "images/46269.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "beat",
+    "conquer",
+    "overcome",
+    "thrash",
+    "clobber",
+    "cream"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "lick penny",
+    "lick pittle",
+    "licker",
+    "lickerish",
+    "lickerishly",
+    "lickerishness",
+    "lickerous",
+    "lickety-split",
+    "licking",
+    "lickspittle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lick.mp3",
+  "local_sound_path": "sounds/lick.mp3"
+}

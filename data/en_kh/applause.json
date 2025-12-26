@@ -1,0 +1,28 @@
+{
+  "word": "applause",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5089.png",
+      "local_image_path": "images/5089.png"
+    }
+  ],
+  "synonyms": [
+    "praise",
+    "appreciation",
+    "approval",
+    "approbation",
+    "support",
+    "commendation"
+  ],
+  "antonyms": [
+    "jeering",
+    "condemnation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/applause.mp3",
+  "local_sound_path": "sounds/applause.mp3"
+}

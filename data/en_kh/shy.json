@@ -1,0 +1,57 @@
+{
+  "word": "shy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "shy man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79709.png",
+      "local_image_path": "images/79709.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79710.png",
+      "local_image_path": "images/79710.png"
+    },
+    {
+      "pos": "adj",
+      "example": "shy horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79711.png",
+      "local_image_path": "images/79711.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79712.png",
+      "local_image_path": "images/79712.png"
+    }
+  ],
+  "synonyms": [
+    "introverted",
+    "retiring",
+    "withdrawn",
+    "timid",
+    "bashful",
+    "diffident",
+    "reticent",
+    "reserved",
+    "quiet",
+    "introvert",
+    "coy"
+  ],
+  "antonyms": [
+    "outgoing",
+    "confident"
+  ],
+  "similar_words": [
+    "shyer",
+    "shylock",
+    "shyly",
+    "shyness",
+    "shyster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shy.mp3",
+  "local_sound_path": "sounds/shy.mp3"
+}

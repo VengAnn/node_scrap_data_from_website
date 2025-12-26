@@ -1,0 +1,52 @@
+{
+  "word": "going",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "a going concern",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32214.png",
+      "local_image_path": "images/32214.png"
+    },
+    {
+      "pos": "n",
+      "example": "going and coming of the seasons",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32212.png",
+      "local_image_path": "images/32212.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32213.png",
+      "local_image_path": "images/32213.png"
+    }
+  ],
+  "synonyms": [
+    "available",
+    "obtainable",
+    "ready",
+    "vacant",
+    "free",
+    "open",
+    "untaken",
+    "becoming",
+    "getting",
+    "turning",
+    "growing"
+  ],
+  "antonyms": [
+    "arrival",
+    "bankrupt",
+    "taken",
+    "living",
+    "coming"
+  ],
+  "similar_words": [
+    "going concern",
+    "going price",
+    "going rate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/going.mp3",
+  "local_sound_path": "sounds/going.mp3"
+}

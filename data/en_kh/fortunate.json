@@ -1,0 +1,38 @@
+{
+  "word": "fortunate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fortunate child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29924.png",
+      "local_image_path": "images/29924.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120379.png",
+      "local_image_path": "images/120379.png"
+    }
+  ],
+  "synonyms": [
+    "privileged",
+    "lucky",
+    "well-off",
+    "prosperous",
+    "providential",
+    "happy",
+    "chance",
+    "opportune",
+    "auspicious",
+    "fortuitous"
+  ],
+  "antonyms": [
+    "unfortunate",
+    "underprivileged"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fortunate.mp3",
+  "local_sound_path": "sounds/fortunate.mp3"
+}

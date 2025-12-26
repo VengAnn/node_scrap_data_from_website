@@ -1,0 +1,51 @@
+{
+  "word": "numb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "numb hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56596.png",
+      "local_image_path": "images/56596.png"
+    },
+    {
+      "pos": "adj",
+      "example": "numb with fear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56597.png",
+      "local_image_path": "images/56597.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56598.png",
+      "local_image_path": "images/56598.png"
+    }
+  ],
+  "synonyms": [
+    "deaden",
+    "freeze",
+    "anesthetize",
+    "stun",
+    "dull",
+    "blunt",
+    "anaesthetize"
+  ],
+  "antonyms": [
+    "animated"
+  ],
+  "similar_words": [
+    "numb-fish",
+    "numbat",
+    "number",
+    "numbered",
+    "numberer",
+    "numberless",
+    "numbles",
+    "numbly",
+    "numbness",
+    "numbskull"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/numb.mp3",
+  "local_sound_path": "sounds/numb.mp3"
+}

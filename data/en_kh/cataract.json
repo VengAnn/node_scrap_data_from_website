@@ -1,0 +1,43 @@
+{
+  "word": "cataract",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "rushing cataract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13300.png",
+      "local_image_path": "images/13300.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116042.png",
+      "local_image_path": "images/116042.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116043.png",
+      "local_image_path": "images/116043.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131376.png",
+      "local_image_path": "images/131376.png"
+    }
+  ],
+  "synonyms": [
+    "waterfall",
+    "cascade",
+    "force",
+    "chute",
+    "torrent",
+    "flume"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cataract.mp3",
+  "local_sound_path": "sounds/cataract.mp3"
+}

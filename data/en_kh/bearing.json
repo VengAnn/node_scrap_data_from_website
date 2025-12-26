@@ -1,0 +1,40 @@
+{
+  "word": "bearing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "we must consider the matter in all its bearings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7887.png",
+      "local_image_path": "images/7887.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129987.png",
+      "local_image_path": "images/129987.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129988.png",
+      "local_image_path": "images/129988.png"
+    }
+  ],
+  "synonyms": [
+    "influence",
+    "effect",
+    "impact",
+    "connection",
+    "relevance",
+    "sway",
+    "producing",
+    "developing",
+    "yielding"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bearing.mp3",
+  "local_sound_path": "sounds/bearing.mp3"
+}

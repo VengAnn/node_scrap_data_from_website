@@ -1,0 +1,163 @@
+{
+  "word": "move",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110805.png",
+      "local_image_path": "images/110805.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110806.png",
+      "local_image_path": "images/110806.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124362.png",
+      "local_image_path": "images/124362.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124363.png",
+      "local_image_path": "images/124363.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The leaves were moving in the breeze.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110793.png",
+      "local_image_path": "images/110793.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We are moving to Scotland.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110794.png",
+      "local_image_path": "images/110794.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110795.png",
+      "local_image_path": "images/110795.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110796.png",
+      "local_image_path": "images/110796.png"
+    },
+    {
+      "pos": "tv",
+      "example": "move a chair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110797.png",
+      "local_image_path": "images/110797.png"
+    },
+    {
+      "pos": "tv",
+      "example": "move sb to sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110798.png",
+      "local_image_path": "images/110798.png"
+    },
+    {
+      "pos": "tv",
+      "example": "move an audience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110799.png",
+      "local_image_path": "images/110799.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110800.png",
+      "local_image_path": "images/110800.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110801.png",
+      "local_image_path": "images/110801.png"
+    },
+    {
+      "pos": "tv",
+      "example": "move one's residence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110802.png",
+      "local_image_path": "images/110802.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We have tried peaceful persuasion, what's our next move?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110803.png",
+      "local_image_path": "images/110803.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110804.png",
+      "local_image_path": "images/110804.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124364.png",
+      "local_image_path": "images/124364.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124365.png",
+      "local_image_path": "images/124365.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124366.png",
+      "local_image_path": "images/124366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124367.png",
+      "local_image_path": "images/124367.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124368.png",
+      "local_image_path": "images/124368.png"
+    }
+  ],
+  "synonyms": [
+    "cause",
+    "provoke",
+    "persuade",
+    "encourage",
+    "prod",
+    "nudge",
+    "shift",
+    "shove",
+    "push",
+    "pull",
+    "rearrange",
+    "transfer",
+    "transport",
+    "shuffle",
+    "redistribute",
+    "budge",
+    "stir"
+  ],
+  "antonyms": [
+    "leave",
+    "stay"
+  ],
+  "similar_words": [
+    "moved",
+    "movement",
+    "mover"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/move.mp3",
+  "local_sound_path": "sounds/move.mp3"
+}

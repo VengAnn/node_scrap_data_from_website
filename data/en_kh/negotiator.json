@@ -1,0 +1,25 @@
+{
+  "word": "negotiator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "negotiate a contract",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55343.png",
+      "local_image_path": "images/55343.png"
+    }
+  ],
+  "synonyms": [
+    "speaker",
+    "representative",
+    "envoy",
+    "delegate",
+    "mediator",
+    "diplomat"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/negotiator.mp3",
+  "local_sound_path": "sounds/negotiator.mp3"
+}

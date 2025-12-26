@@ -1,0 +1,27 @@
+{
+  "word": "demote",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20473.png",
+      "local_image_path": "images/20473.png"
+    }
+  ],
+  "synonyms": [
+    "downgrade",
+    "relegate",
+    "devalue",
+    "reduce",
+    "lower",
+    "humble"
+  ],
+  "antonyms": [
+    "promote"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/demote.mp3",
+  "local_sound_path": "sounds/demote.mp3"
+}

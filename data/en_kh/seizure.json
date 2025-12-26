@@ -1,0 +1,41 @@
+{
+  "word": "seizure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "seizure of property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77777.png",
+      "local_image_path": "images/77777.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77778.png",
+      "local_image_path": "images/77778.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131309.png",
+      "local_image_path": "images/131309.png"
+    }
+  ],
+  "synonyms": [
+    "confiscation",
+    "annexation",
+    "capture",
+    "removal",
+    "arrest",
+    "abduction",
+    "apprehension"
+  ],
+  "antonyms": [
+    "release",
+    "return"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/seizure.mp3",
+  "local_sound_path": "sounds/seizure.mp3"
+}

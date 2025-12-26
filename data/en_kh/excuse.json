@@ -1,0 +1,83 @@
+{
+  "word": "excuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26515.png",
+      "local_image_path": "images/26515.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131571.png",
+      "local_image_path": "images/131571.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131572.png",
+      "local_image_path": "images/131572.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26511.png",
+      "local_image_path": "images/26511.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26512.png",
+      "local_image_path": "images/26512.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26513.png",
+      "local_image_path": "images/26513.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26514.png",
+      "local_image_path": "images/26514.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131573.png",
+      "local_image_path": "images/131573.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131574.png",
+      "local_image_path": "images/131574.png"
+    }
+  ],
+  "synonyms": [
+    "exempt",
+    "free",
+    "relieve",
+    "release",
+    "discharge",
+    "spare",
+    "forgive",
+    "pardon",
+    "acquit",
+    "absolve",
+    "tolerate",
+    "exonerate",
+    "exculpate"
+  ],
+  "antonyms": [
+    "oblige",
+    "blame"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excuse.mp3",
+  "local_sound_path": "sounds/excuse.mp3"
+}

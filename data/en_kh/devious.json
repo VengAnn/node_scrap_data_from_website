@@ -1,0 +1,31 @@
+{
+  "word": "devious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "devious course",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21101.png",
+      "local_image_path": "images/21101.png"
+    }
+  ],
+  "synonyms": [
+    "circuitous",
+    "roundabout",
+    "windy",
+    "oblique",
+    "tortuous",
+    "winding"
+  ],
+  "antonyms": [
+    "straightforward",
+    "direct"
+  ],
+  "similar_words": [
+    "deviously",
+    "deviousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devious.mp3",
+  "local_sound_path": "sounds/devious.mp3"
+}

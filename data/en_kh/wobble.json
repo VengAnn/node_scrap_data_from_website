@@ -1,0 +1,47 @@
+{
+  "word": "wobble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100696.png",
+      "local_image_path": "images/100696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100695.png",
+      "local_image_path": "images/100695.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100697.png",
+      "local_image_path": "images/100697.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100698.png",
+      "local_image_path": "images/100698.png"
+    }
+  ],
+  "synonyms": [
+    "shake",
+    "vibrate",
+    "tremble",
+    "bob",
+    "quiver",
+    "dither",
+    "waver",
+    "vacillate",
+    "hesitate",
+    "falter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wobble.mp3",
+  "local_sound_path": "sounds/wobble.mp3"
+}

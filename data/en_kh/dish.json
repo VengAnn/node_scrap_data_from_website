@@ -1,0 +1,67 @@
+{
+  "word": "dish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "flat dish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21887.png",
+      "local_image_path": "images/21887.png"
+    },
+    {
+      "pos": "n",
+      "example": "tasty dish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21888.png",
+      "local_image_path": "images/21888.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21889.png",
+      "local_image_path": "images/21889.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dish food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21890.png",
+      "local_image_path": "images/21890.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21891.png",
+      "local_image_path": "images/21891.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21892.png",
+      "local_image_path": "images/21892.png"
+    }
+  ],
+  "synonyms": [
+    "plate",
+    "bowl",
+    "saucer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dishabilitate",
+    "dishabille",
+    "disharmonious",
+    "disharmony",
+    "dishcloth",
+    "dishearten",
+    "disheartening",
+    "dishearteningly",
+    "disheartenly",
+    "disheartenment",
+    "disherit",
+    "dishevel",
+    "disheveled",
+    "dishevelled"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dish.mp3",
+  "local_sound_path": "sounds/dish.mp3"
+}

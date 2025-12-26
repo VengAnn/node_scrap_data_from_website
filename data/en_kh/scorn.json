@@ -1,0 +1,63 @@
+{
+  "word": "scorn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "object of his scorn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76924.png",
+      "local_image_path": "images/76924.png"
+    },
+    {
+      "pos": "n",
+      "example": "scorn for help",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76925.png",
+      "local_image_path": "images/76925.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scorn a friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76921.png",
+      "local_image_path": "images/76921.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scorn help",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76922.png",
+      "local_image_path": "images/76922.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't scorn danger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76923.png",
+      "local_image_path": "images/76923.png"
+    }
+  ],
+  "synonyms": [
+    "belittle",
+    "disparage",
+    "ridicule",
+    "mock",
+    "reject",
+    "spurn",
+    "rebuff",
+    "disdain",
+    "disregard",
+    "refuse",
+    "hate",
+    "turn down"
+  ],
+  "antonyms": [
+    "admiration",
+    "respect",
+    "admire",
+    "choose"
+  ],
+  "similar_words": [
+    "scornful",
+    "scornfully"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scorn.mp3",
+  "local_sound_path": "sounds/scorn.mp3"
+}

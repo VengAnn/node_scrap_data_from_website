@@ -1,0 +1,48 @@
+{
+  "word": "janitor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42731.png",
+      "local_image_path": "images/42731.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123065.png",
+      "local_image_path": "images/123065.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123066.png",
+      "local_image_path": "images/123066.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123067.png",
+      "local_image_path": "images/123067.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123068.png",
+      "local_image_path": "images/123068.png"
+    }
+  ],
+  "synonyms": [
+    "doorkeeper",
+    "concierge",
+    "caretaker",
+    "custodian",
+    "warden"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/janitor.mp3",
+  "local_sound_path": "sounds/janitor.mp3"
+}

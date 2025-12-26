@@ -1,0 +1,38 @@
+{
+  "word": "snigger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82067.png",
+      "local_image_path": "images/82067.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82066.png",
+      "local_image_path": "images/82066.png"
+    }
+  ],
+  "synonyms": [
+    "titter",
+    "giggle",
+    "sneer",
+    "snort",
+    "laugh",
+    "guffaw",
+    "scorn",
+    "scoff",
+    "mock",
+    "deride"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sniggerer",
+    "sniggeringly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/snigger.mp3",
+  "local_sound_path": "sounds/snigger.mp3"
+}

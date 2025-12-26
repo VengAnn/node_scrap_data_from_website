@@ -1,0 +1,46 @@
+{
+  "word": "discourage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21737.png",
+      "local_image_path": "images/21737.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Parents should discourage smoking.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21738.png",
+      "local_image_path": "images/21738.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118436.png",
+      "local_image_path": "images/118436.png"
+    }
+  ],
+  "synonyms": [
+    "oppose",
+    "hinder",
+    "inhibit",
+    "restrain",
+    "prevent",
+    "suppress",
+    "dissuade",
+    "stop"
+  ],
+  "antonyms": [
+    "encourage",
+    "support",
+    "cheer"
+  ],
+  "similar_words": [
+    "discouraged",
+    "discouragement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discourage.mp3",
+  "local_sound_path": "sounds/discourage.mp3"
+}

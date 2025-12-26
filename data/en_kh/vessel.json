@@ -1,0 +1,45 @@
+{
+  "word": "vessel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "water vessel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97792.png",
+      "local_image_path": "images/97792.png"
+    },
+    {
+      "pos": "n",
+      "example": "seagoing vessel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97793.png",
+      "local_image_path": "images/97793.png"
+    },
+    {
+      "pos": "n",
+      "example": "blood vessel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97794.png",
+      "local_image_path": "images/97794.png"
+    }
+  ],
+  "synonyms": [
+    "container",
+    "pot",
+    "bowl",
+    "jug",
+    "pitcher",
+    "ewer",
+    "basin",
+    "bottle",
+    "boat",
+    "ship",
+    "craft",
+    "yacht",
+    "ferry",
+    "liner"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vessel.mp3",
+  "local_sound_path": "sounds/vessel.mp3"
+}

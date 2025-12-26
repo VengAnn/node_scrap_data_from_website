@@ -1,0 +1,49 @@
+{
+  "word": "trivial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "trivial details",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91956.png",
+      "local_image_path": "images/91956.png"
+    },
+    {
+      "pos": "adj",
+      "example": "trivial conclusions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91957.png",
+      "local_image_path": "images/91957.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91958.png",
+      "local_image_path": "images/91958.png"
+    }
+  ],
+  "synonyms": [
+    "unimportant",
+    "small",
+    "inconsequential",
+    "minor",
+    "insignificant",
+    "slight",
+    "trifling",
+    "petty",
+    "marginal",
+    "frivolous",
+    "negligible"
+  ],
+  "antonyms": [
+    "crucial"
+  ],
+  "similar_words": [
+    "triviality",
+    "trivialization",
+    "trivialize",
+    "trivially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trivial.mp3",
+  "local_sound_path": "sounds/trivial.mp3"
+}

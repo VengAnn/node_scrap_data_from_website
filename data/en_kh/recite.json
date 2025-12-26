@@ -1,0 +1,38 @@
+{
+  "word": "recite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70805.png",
+      "local_image_path": "images/70805.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recite scriptures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70806.png",
+      "local_image_path": "images/70806.png"
+    },
+    {
+      "pos": "tv",
+      "example": "recite the facts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70807.png",
+      "local_image_path": "images/70807.png"
+    }
+  ],
+  "synonyms": [
+    "list",
+    "enumerate",
+    "regurgitate",
+    "itemize",
+    "detail",
+    "count",
+    "number"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recite.mp3",
+  "local_sound_path": "sounds/recite.mp3"
+}

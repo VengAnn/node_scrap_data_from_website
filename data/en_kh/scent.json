@@ -1,0 +1,78 @@
+{
+  "word": "scent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "distintive scent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76557.png",
+      "local_image_path": "images/76557.png"
+    },
+    {
+      "pos": "n",
+      "example": "on the scent of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76558.png",
+      "local_image_path": "images/76558.png"
+    },
+    {
+      "pos": "n",
+      "example": "Dogs have keen scent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76559.png",
+      "local_image_path": "images/76559.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76560.png",
+      "local_image_path": "images/76560.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76561.png",
+      "local_image_path": "images/76561.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scent trouble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76562.png",
+      "local_image_path": "images/76562.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127500.png",
+      "local_image_path": "images/127500.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127501.png",
+      "local_image_path": "images/127501.png"
+    }
+  ],
+  "synonyms": [
+    "sniff",
+    "detect",
+    "sense",
+    "imbue",
+    "perfume",
+    "fill",
+    "infuse",
+    "suffuse",
+    "tinge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "scent spray",
+    "scent-bag",
+    "scent-bottle",
+    "scent-gland",
+    "scented",
+    "scentful",
+    "scentless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scent.mp3",
+  "local_sound_path": "sounds/scent.mp3"
+}

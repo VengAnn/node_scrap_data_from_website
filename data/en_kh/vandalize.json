@@ -1,0 +1,36 @@
+{
+  "word": "vandalize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97189.png",
+      "local_image_path": "images/97189.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129664.png",
+      "local_image_path": "images/129664.png"
+    }
+  ],
+  "synonyms": [
+    "damage",
+    "wreck",
+    "break",
+    "sabotage",
+    "deface",
+    "spoil",
+    "destroy",
+    "ruin",
+    "smash",
+    "demolish",
+    "ravage"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vandalize.mp3",
+  "local_sound_path": "sounds/vandalize.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "plod",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64219.png",
+      "local_image_path": "images/64219.png"
+    },
+    {
+      "pos": "iv",
+      "example": "plod at one's work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64220.png",
+      "local_image_path": "images/64220.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64222.png",
+      "local_image_path": "images/64222.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plod the path",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64221.png",
+      "local_image_path": "images/64221.png"
+    }
+  ],
+  "synonyms": [
+    "trudge",
+    "slog",
+    "traipse",
+    "lumber",
+    "tramp",
+    "clump",
+    "tread",
+    "clomp",
+    "walk"
+  ],
+  "antonyms": [
+    "race"
+  ],
+  "similar_words": [
+    "plodder",
+    "plodding",
+    "ploddingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plod.mp3",
+  "local_sound_path": "sounds/plod.mp3"
+}

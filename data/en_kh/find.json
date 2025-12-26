@@ -1,0 +1,97 @@
+{
+  "word": "find",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28590.png",
+      "local_image_path": "images/28590.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120147.png",
+      "local_image_path": "images/120147.png"
+    },
+    {
+      "pos": "tv",
+      "example": "find a coin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28581.png",
+      "local_image_path": "images/28581.png"
+    },
+    {
+      "pos": "tv",
+      "example": "find a lost book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28582.png",
+      "local_image_path": "images/28582.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Have you found the knife you lost?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28583.png",
+      "local_image_path": "images/28583.png"
+    },
+    {
+      "pos": "tv",
+      "example": "find a person guilty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28584.png",
+      "local_image_path": "images/28584.png"
+    },
+    {
+      "pos": "tv",
+      "example": "find it is necessary to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28585.png",
+      "local_image_path": "images/28585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28586.png",
+      "local_image_path": "images/28586.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She soon found favour with her employer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28587.png",
+      "local_image_path": "images/28587.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The jury found that the deceased had been murdered by a \n\nperson.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28588.png",
+      "local_image_path": "images/28588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "find for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28589.png",
+      "local_image_path": "images/28589.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120148.png",
+      "local_image_path": "images/120148.png"
+    }
+  ],
+  "synonyms": [
+    "discovery",
+    "bargain",
+    "catch",
+    "learn",
+    "observe",
+    "notice",
+    "realize"
+  ],
+  "antonyms": [
+    "lose"
+  ],
+  "similar_words": [
+    "finder",
+    "finding"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/find.mp3",
+  "local_sound_path": "sounds/find.mp3"
+}

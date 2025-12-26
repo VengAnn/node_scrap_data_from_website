@@ -1,0 +1,85 @@
+{
+  "word": "wear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "materials wear well",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99506.png",
+      "local_image_path": "images/99506.png"
+    },
+    {
+      "pos": "iv",
+      "example": "These tires wear rapidly.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99507.png",
+      "local_image_path": "images/99507.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99511.png",
+      "local_image_path": "images/99511.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99508.png",
+      "local_image_path": "images/99508.png"
+    },
+    {
+      "pos": "n",
+      "example": "Speed causes tire wear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99509.png",
+      "local_image_path": "images/99509.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was wearing a hat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99503.png",
+      "local_image_path": "images/99503.png"
+    },
+    {
+      "pos": "tv",
+      "example": "wear tires",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99504.png",
+      "local_image_path": "images/99504.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I have worn my socks into holes.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99505.png",
+      "local_image_path": "images/99505.png"
+    }
+  ],
+  "synonyms": [
+    "rub",
+    "fray",
+    "scuff",
+    "grind",
+    "erode"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wear and tear",
+    "wearability",
+    "wearable",
+    "wearables",
+    "wearer",
+    "wearied",
+    "weariful",
+    "wearifully",
+    "wearifulness",
+    "weariless",
+    "wearily",
+    "weariness",
+    "wearing",
+    "wearisome",
+    "wearisomely",
+    "wearisomeness",
+    "weary",
+    "wearying"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wear.mp3",
+  "local_sound_path": "sounds/wear.mp3"
+}

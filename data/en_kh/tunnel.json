@@ -1,0 +1,37 @@
+{
+  "word": "tunnel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92409.png",
+      "local_image_path": "images/92409.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92410.png",
+      "local_image_path": "images/92410.png"
+    }
+  ],
+  "synonyms": [
+    "excavate",
+    "burrow",
+    "dig",
+    "mine",
+    "channel",
+    "sap"
+  ],
+  "antonyms": [
+    "bridge"
+  ],
+  "similar_words": [
+    "tunnel version",
+    "tunnel vision",
+    "tunneler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tunnel.mp3",
+  "local_sound_path": "sounds/tunnel.mp3"
+}

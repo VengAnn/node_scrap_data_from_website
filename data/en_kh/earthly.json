@@ -1,0 +1,39 @@
+{
+  "word": "earthly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23669.png",
+      "local_image_path": "images/23669.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23670.png",
+      "local_image_path": "images/23670.png"
+    },
+    {
+      "pos": "idm",
+      "example": "no earthly use",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23671.png",
+      "local_image_path": "images/23671.png"
+    }
+  ],
+  "synonyms": [
+    "worldly",
+    "material",
+    "mortal",
+    "secular",
+    "everyday",
+    "human"
+  ],
+  "antonyms": [
+    "heavenly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/earthly.mp3",
+  "local_sound_path": "sounds/earthly.mp3"
+}

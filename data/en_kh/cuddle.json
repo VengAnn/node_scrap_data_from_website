@@ -1,0 +1,40 @@
+{
+  "word": "cuddle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18994.png",
+      "local_image_path": "images/18994.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18995.png",
+      "local_image_path": "images/18995.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The child cuddled her doll.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18993.png",
+      "local_image_path": "images/18993.png"
+    }
+  ],
+  "synonyms": [
+    "embrace",
+    "hug",
+    "clasp",
+    "hold",
+    "nuzzle",
+    "fondle",
+    "snuggle",
+    "nestle",
+    "huddle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cuddle.mp3",
+  "local_sound_path": "sounds/cuddle.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "born",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I was born on April 7,1989",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10249.png",
+      "local_image_path": "images/10249.png"
+    }
+  ],
+  "synonyms": [
+    "natural",
+    "instinctive",
+    "intuitive",
+    "untaught",
+    "developed"
+  ],
+  "antonyms": [
+    "trained"
+  ],
+  "similar_words": [
+    "born-again",
+    "borne"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/born.mp3",
+  "local_sound_path": "sounds/born.mp3"
+}

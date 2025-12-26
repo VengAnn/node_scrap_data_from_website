@@ -1,0 +1,38 @@
+{
+  "word": "cage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12318.png",
+      "local_image_path": "images/12318.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12319.png",
+      "local_image_path": "images/12319.png"
+    }
+  ],
+  "synonyms": [
+    "crate",
+    "pen",
+    "coop",
+    "enclosure",
+    "confine",
+    "enclose",
+    "impound"
+  ],
+  "antonyms": [
+    "release"
+  ],
+  "similar_words": [
+    "cageling",
+    "cagey",
+    "cageyness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cage.mp3",
+  "local_sound_path": "sounds/cage.mp3"
+}

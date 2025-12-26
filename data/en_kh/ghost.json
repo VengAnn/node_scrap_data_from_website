@@ -1,0 +1,37 @@
+{
+  "word": "ghost",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31653.png",
+      "local_image_path": "images/31653.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31654.png",
+      "local_image_path": "images/31654.png"
+    }
+  ],
+  "synonyms": [
+    "phantom",
+    "spirit",
+    "ghoul",
+    "specter",
+    "poltergeist",
+    "banshee"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ghost-write",
+    "ghostlike",
+    "ghostliness",
+    "ghostly",
+    "ghostology"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ghost.mp3",
+  "local_sound_path": "sounds/ghost.mp3"
+}

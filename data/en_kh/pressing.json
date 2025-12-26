@@ -1,0 +1,49 @@
+{
+  "word": "pressing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "pressing bill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66653.png",
+      "local_image_path": "images/66653.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125972.png",
+      "local_image_path": "images/125972.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125973.png",
+      "local_image_path": "images/125973.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125974.png",
+      "local_image_path": "images/125974.png"
+    }
+  ],
+  "synonyms": [
+    "urgent",
+    "vital",
+    "imperative",
+    "burning",
+    "critical",
+    "lobbying",
+    "pleading"
+  ],
+  "antonyms": [
+    "trivial",
+    "mild",
+    "unimportant",
+    "pulling"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pressing.mp3",
+  "local_sound_path": "sounds/pressing.mp3"
+}

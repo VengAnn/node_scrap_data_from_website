@@ -1,0 +1,54 @@
+{
+  "word": "depress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "depress a button",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20675.png",
+      "local_image_path": "images/20675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "depress a pedal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20676.png",
+      "local_image_path": "images/20676.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Wet weather always depresses me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20677.png",
+      "local_image_path": "images/20677.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118078.png",
+      "local_image_path": "images/118078.png"
+    }
+  ],
+  "synonyms": [
+    "press",
+    "push",
+    "lower"
+  ],
+  "antonyms": [
+    "boost",
+    "release"
+  ],
+  "similar_words": [
+    "depressant",
+    "depressed",
+    "depressed area",
+    "depressed market",
+    "depressing",
+    "depressingly",
+    "depression",
+    "depressive",
+    "depressurization",
+    "depressurize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/depress.mp3",
+  "local_sound_path": "sounds/depress.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "clique",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15064.png",
+      "local_image_path": "images/15064.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15065.png",
+      "local_image_path": "images/15065.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116491.png",
+      "local_image_path": "images/116491.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "circle",
+    "faction",
+    "set",
+    "gang",
+    "elite",
+    "coterie",
+    "clan",
+    "fraternity"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clique.mp3",
+  "local_sound_path": "sounds/clique.mp3"
+}

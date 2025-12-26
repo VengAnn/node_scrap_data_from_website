@@ -1,0 +1,36 @@
+{
+  "word": "airing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "to take an airing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3142.png",
+      "local_image_path": "images/3142.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112337.png",
+      "local_image_path": "images/112337.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112338.png",
+      "local_image_path": "images/112338.png"
+    }
+  ],
+  "synonyms": [
+    "outing",
+    "excursion",
+    "revealing",
+    "telling",
+    "broadcasting"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/airing.mp3",
+  "local_sound_path": "sounds/airing.mp3"
+}

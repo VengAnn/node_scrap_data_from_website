@@ -1,0 +1,35 @@
+{
+  "word": "girth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31797.png",
+      "local_image_path": "images/31797.png"
+    },
+    {
+      "pos": "n",
+      "example": "harness girth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31798.png",
+      "local_image_path": "images/31798.png"
+    }
+  ],
+  "synonyms": [
+    "cinch",
+    "restraint",
+    "belt",
+    "thickness",
+    "size",
+    "measurement",
+    "breadth"
+  ],
+  "antonyms": [
+    "height",
+    "length"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/girth.mp3",
+  "local_sound_path": "sounds/girth.mp3"
+}

@@ -1,0 +1,52 @@
+{
+  "word": "norm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56271.png",
+      "local_image_path": "images/56271.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124727.png",
+      "local_image_path": "images/124727.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124728.png",
+      "local_image_path": "images/124728.png"
+    }
+  ],
+  "synonyms": [
+    "standard",
+    "average",
+    "custom",
+    "rule",
+    "model",
+    "type",
+    "mean",
+    "median",
+    "pattern"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "normal",
+    "normal duties",
+    "normal school",
+    "normalcy",
+    "normality",
+    "normalization",
+    "normalize",
+    "normally",
+    "normative",
+    "normatively",
+    "normativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/norm.mp3",
+  "local_sound_path": "sounds/norm.mp3"
+}

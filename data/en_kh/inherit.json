@@ -1,0 +1,31 @@
+{
+  "word": "inherit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40006.png",
+      "local_image_path": "images/40006.png"
+    }
+  ],
+  "synonyms": [
+    "receive",
+    "get"
+  ],
+  "antonyms": [
+    "bequeath"
+  ],
+  "similar_words": [
+    "inheritability",
+    "inheritable",
+    "inheritage",
+    "inheritance",
+    "inheritant",
+    "inheritor",
+    "inheritrix"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inherit.mp3",
+  "local_sound_path": "sounds/inherit.mp3"
+}

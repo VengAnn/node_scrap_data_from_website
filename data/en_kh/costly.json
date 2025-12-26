@@ -1,0 +1,32 @@
+{
+  "word": "costly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "costly jewelry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17965.png",
+      "local_image_path": "images/17965.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17966.png",
+      "local_image_path": "images/17966.png"
+    }
+  ],
+  "synonyms": [
+    "damaging",
+    "harmful",
+    "detrimental",
+    "sacrificial"
+  ],
+  "antonyms": [
+    "inexpensive",
+    "basic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/costly.mp3",
+  "local_sound_path": "sounds/costly.mp3"
+}

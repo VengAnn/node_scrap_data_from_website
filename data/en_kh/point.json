@@ -1,0 +1,109 @@
+{
+  "word": "point",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "don't point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64597.png",
+      "local_image_path": "images/64597.png"
+    },
+    {
+      "pos": "n",
+      "example": "point of a knife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64588.png",
+      "local_image_path": "images/64588.png"
+    },
+    {
+      "pos": "n",
+      "example": "point of land",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64589.png",
+      "local_image_path": "images/64589.png"
+    },
+    {
+      "pos": "n",
+      "example": "debate a point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64590.png",
+      "local_image_path": "images/64590.png"
+    },
+    {
+      "pos": "n",
+      "example": "scoring point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64591.png",
+      "local_image_path": "images/64591.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64592.png",
+      "local_image_path": "images/64592.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64593.png",
+      "local_image_path": "images/64593.png"
+    },
+    {
+      "pos": "n",
+      "example": "be on point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64608.png",
+      "local_image_path": "images/64608.png"
+    },
+    {
+      "pos": "tv",
+      "example": "point one's finger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64594.png",
+      "local_image_path": "images/64594.png"
+    },
+    {
+      "pos": "tv",
+      "example": "point a gun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64595.png",
+      "local_image_path": "images/64595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64596.png",
+      "local_image_path": "images/64596.png"
+    }
+  ],
+  "synonyms": [
+    "headland",
+    "cape",
+    "promontory",
+    "spit",
+    "peninsula",
+    "direct",
+    "aim",
+    "indicate",
+    "face",
+    "steer",
+    "train"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "point four",
+    "point man",
+    "point-device",
+    "point-duty",
+    "point-lace",
+    "pointblank",
+    "pointed",
+    "pointedly",
+    "pointedness",
+    "pointel",
+    "pointer",
+    "pointillism",
+    "pointing",
+    "pointless",
+    "pointlessly",
+    "pointlessness",
+    "pointlet",
+    "pointly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/point.mp3",
+  "local_sound_path": "sounds/point.mp3"
+}

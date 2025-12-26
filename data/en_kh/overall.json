@@ -1,0 +1,33 @@
+{
+  "word": "overall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "overall price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58572.png",
+      "local_image_path": "images/58572.png"
+    },
+    {
+      "pos": "adj",
+      "example": "overall measurement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58573.png",
+      "local_image_path": "images/58573.png"
+    }
+  ],
+  "synonyms": [
+    "general",
+    "complete",
+    "total",
+    "global",
+    "inclusive",
+    "whole",
+    "generally",
+    "largely"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overall.mp3",
+  "local_sound_path": "sounds/overall.mp3"
+}

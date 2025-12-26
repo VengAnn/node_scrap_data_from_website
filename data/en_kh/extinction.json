@@ -1,0 +1,28 @@
+{
+  "word": "extinction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27052.png",
+      "local_image_path": "images/27052.png"
+    }
+  ],
+  "synonyms": [
+    "death",
+    "extermination",
+    "destruction",
+    "loss",
+    "annihilation",
+    "disappearance",
+    "elimination"
+  ],
+  "antonyms": [
+    "survival"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extinction.mp3",
+  "local_sound_path": "sounds/extinction.mp3"
+}

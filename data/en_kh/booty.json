@@ -1,0 +1,39 @@
+{
+  "word": "booty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10217.png",
+      "local_image_path": "images/10217.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115401.png",
+      "local_image_path": "images/115401.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115402.png",
+      "local_image_path": "images/115402.png"
+    }
+  ],
+  "synonyms": [
+    "loot",
+    "swag",
+    "plunder",
+    "valuables",
+    "pickings",
+    "proceeds",
+    "treasure",
+    "spoils"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/booty.mp3",
+  "local_sound_path": "sounds/booty.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "word": "space",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "outer space",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82984.png",
+      "local_image_path": "images/82984.png"
+    },
+    {
+      "pos": "n",
+      "example": "space between two buildings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82985.png",
+      "local_image_path": "images/82985.png"
+    },
+    {
+      "pos": "n",
+      "example": "parking space",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82986.png",
+      "local_image_path": "images/82986.png"
+    },
+    {
+      "pos": "n",
+      "example": "space between words",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82987.png",
+      "local_image_path": "images/82987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82988.png",
+      "local_image_path": "images/82988.png"
+    },
+    {
+      "pos": "tv",
+      "example": "space plants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82989.png",
+      "local_image_path": "images/82989.png"
+    }
+  ],
+  "synonyms": [
+    "area",
+    "plot",
+    "place",
+    "seat",
+    "space out"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "space out",
+    "space science",
+    "space-age",
+    "space-shuttle",
+    "spacecraft",
+    "spaceless",
+    "spaceman",
+    "spaceship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/space.mp3",
+  "local_sound_path": "sounds/space.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "topping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90197.png",
+      "local_image_path": "images/90197.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90198.png",
+      "local_image_path": "images/90198.png"
+    }
+  ],
+  "synonyms": [
+    "surpassing",
+    "beating",
+    "bettering",
+    "crowning",
+    "exceeding",
+    "covering"
+  ],
+  "antonyms": [
+    "filling"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/topping.mp3",
+  "local_sound_path": "sounds/topping.mp3"
+}

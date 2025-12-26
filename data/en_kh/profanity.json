@@ -1,0 +1,31 @@
+{
+  "word": "profanity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "use profanity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67367.png",
+      "local_image_path": "images/67367.png"
+    },
+    {
+      "pos": "n",
+      "example": "profanity of his speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67368.png",
+      "local_image_path": "images/67368.png"
+    }
+  ],
+  "synonyms": [
+    "blasphemy",
+    "oath",
+    "vulgarity",
+    "curse",
+    "sacrilege",
+    "expletive"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/profanity.mp3",
+  "local_sound_path": "sounds/profanity.mp3"
+}

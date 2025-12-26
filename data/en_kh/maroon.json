@@ -1,0 +1,57 @@
+{
+  "word": "maroon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106401.png",
+      "local_image_path": "images/106401.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106402.png",
+      "local_image_path": "images/106402.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106404.png",
+      "local_image_path": "images/106404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106403.png",
+      "local_image_path": "images/106403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106405.png",
+      "local_image_path": "images/106405.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123796.png",
+      "local_image_path": "images/123796.png"
+    }
+  ],
+  "synonyms": [
+    "burgundy",
+    "claret",
+    "abandon",
+    "leave",
+    "isolate",
+    "forsake",
+    "strand",
+    "desert"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/maroon.mp3",
+  "local_sound_path": "sounds/maroon.mp3"
+}

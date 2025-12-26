@@ -1,0 +1,52 @@
+{
+  "word": "appraise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "appraise a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5134.png",
+      "local_image_path": "images/5134.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112626.png",
+      "local_image_path": "images/112626.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112627.png",
+      "local_image_path": "images/112627.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112628.png",
+      "local_image_path": "images/112628.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112629.png",
+      "local_image_path": "images/112629.png"
+    }
+  ],
+  "synonyms": [
+    "assess",
+    "evaluate",
+    "judge",
+    "review",
+    "consider",
+    "value"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "appraisement",
+    "appraiser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/appraise.mp3",
+  "local_sound_path": "sounds/appraise.mp3"
+}

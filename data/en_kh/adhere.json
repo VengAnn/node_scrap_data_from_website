@@ -1,0 +1,62 @@
+{
+  "word": "adhere",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "it had rained all day long and the mud adhered to our shoes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2356.png",
+      "local_image_path": "images/2356.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112167.png",
+      "local_image_path": "images/112167.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112168.png",
+      "local_image_path": "images/112168.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112169.png",
+      "local_image_path": "images/112169.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112170.png",
+      "local_image_path": "images/112170.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112171.png",
+      "local_image_path": "images/112171.png"
+    }
+  ],
+  "synonyms": [
+    "stick",
+    "hold fast",
+    "hold",
+    "stay",
+    "remain",
+    "cling"
+  ],
+  "antonyms": [
+    "abandon"
+  ],
+  "similar_words": [
+    "adherence",
+    "adherent",
+    "adherently",
+    "adherer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adhere.mp3",
+  "local_sound_path": "sounds/adhere.mp3"
+}

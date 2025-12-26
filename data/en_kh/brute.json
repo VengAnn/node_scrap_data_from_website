@@ -1,0 +1,52 @@
+{
+  "word": "brute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "brute passions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11581.png",
+      "local_image_path": "images/11581.png"
+    },
+    {
+      "pos": "n",
+      "example": "that dog looks a real brute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11579.png",
+      "local_image_path": "images/11579.png"
+    },
+    {
+      "pos": "n",
+      "example": "his father is a drunken brute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11580.png",
+      "local_image_path": "images/11580.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115744.png",
+      "local_image_path": "images/115744.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115745.png",
+      "local_image_path": "images/115745.png"
+    }
+  ],
+  "synonyms": [
+    "bully",
+    "thug",
+    "beast",
+    "swine",
+    "monster",
+    "creature",
+    "animal"
+  ],
+  "antonyms": [
+    "refined"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brute.mp3",
+  "local_sound_path": "sounds/brute.mp3"
+}

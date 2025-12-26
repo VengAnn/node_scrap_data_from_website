@@ -1,0 +1,52 @@
+{
+  "word": "mystic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111389.png",
+      "local_image_path": "images/111389.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111390.png",
+      "local_image_path": "images/111390.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124446.png",
+      "local_image_path": "images/124446.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111391.png",
+      "local_image_path": "images/111391.png"
+    }
+  ],
+  "synonyms": [
+    "spiritual",
+    "magic",
+    "supernatural",
+    "numinous",
+    "magical",
+    "spiritualist",
+    "medium",
+    "shaman",
+    "sage",
+    "sorcerer",
+    "wizard"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "mystically",
+    "mysticism",
+    "mysticize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mystic.mp3",
+  "local_sound_path": "sounds/mystic.mp3"
+}

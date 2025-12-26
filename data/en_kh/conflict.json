@@ -1,0 +1,63 @@
+{
+  "word": "conflict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16709.png",
+      "local_image_path": "images/16709.png"
+    },
+    {
+      "pos": "n",
+      "example": "military conflict",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16708.png",
+      "local_image_path": "images/16708.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130188.png",
+      "local_image_path": "images/130188.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130189.png",
+      "local_image_path": "images/130189.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130190.png",
+      "local_image_path": "images/130190.png"
+    }
+  ],
+  "synonyms": [
+    "differ",
+    "diverge",
+    "fight",
+    "quarrel",
+    "struggle",
+    "argue",
+    "row",
+    "scrap"
+  ],
+  "antonyms": [
+    "concord",
+    "convergence",
+    "peace",
+    "concur",
+    "agree"
+  ],
+  "similar_words": [
+    "conflict of interest",
+    "conflicted",
+    "conflicting evidence",
+    "confliction",
+    "conflictive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conflict.mp3",
+  "local_sound_path": "sounds/conflict.mp3"
+}

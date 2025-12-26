@@ -1,0 +1,32 @@
+{
+  "word": "predecessor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "my predecessor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66104.png",
+      "local_image_path": "images/66104.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66105.png",
+      "local_image_path": "images/66105.png"
+    }
+  ],
+  "synonyms": [
+    "precursor",
+    "forerunner",
+    "ancestor",
+    "antecedent",
+    "prototype"
+  ],
+  "antonyms": [
+    "successor"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/predecessor.mp3",
+  "local_sound_path": "sounds/predecessor.mp3"
+}

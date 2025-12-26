@@ -1,0 +1,32 @@
+{
+  "word": "impolite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37829.png",
+      "local_image_path": "images/37829.png"
+    }
+  ],
+  "synonyms": [
+    "rude",
+    "ill-mannered",
+    "indecorous",
+    "loutish",
+    "boorish",
+    "ignorant",
+    "disrespectful",
+    "discourteous"
+  ],
+  "antonyms": [
+    "polite"
+  ],
+  "similar_words": [
+    "impolitely",
+    "impoliteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impolite.mp3",
+  "local_sound_path": "sounds/impolite.mp3"
+}

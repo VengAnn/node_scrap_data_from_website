@@ -1,0 +1,49 @@
+{
+  "word": "notable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "notable  success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56368.png",
+      "local_image_path": "images/56368.png"
+    },
+    {
+      "pos": "adj",
+      "example": "notable auther",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56369.png",
+      "local_image_path": "images/56369.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56370.png",
+      "local_image_path": "images/56370.png"
+    }
+  ],
+  "synonyms": [
+    "distinguished",
+    "prominent",
+    "famous",
+    "noteworthy",
+    "outstanding",
+    "extraordinary",
+    "remarkable",
+    "important",
+    "significant",
+    "personage",
+    "celebrity",
+    "dignity",
+    "personality",
+    "somebody",
+    "notability"
+  ],
+  "antonyms": [
+    "insignificant",
+    "nobody"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/notable.mp3",
+  "local_sound_path": "sounds/notable.mp3"
+}

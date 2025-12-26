@@ -1,0 +1,51 @@
+{
+  "word": "sustain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "sustain a load",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86689.png",
+      "local_image_path": "images/86689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sustain life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86690.png",
+      "local_image_path": "images/86690.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86691.png",
+      "local_image_path": "images/86691.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sustain his conclusions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86692.png",
+      "local_image_path": "images/86692.png"
+    }
+  ],
+  "synonyms": [
+    "suffer",
+    "incur",
+    "contract",
+    "encounter",
+    "experience",
+    "undergo"
+  ],
+  "antonyms": [
+    "quit",
+    "sap",
+    "buckle",
+    "deplete"
+  ],
+  "similar_words": [
+    "sustainability",
+    "sustainable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sustain.mp3",
+  "local_sound_path": "sounds/sustain.mp3"
+}

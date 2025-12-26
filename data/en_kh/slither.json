@@ -1,0 +1,30 @@
+{
+  "word": "slither",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81320.png",
+      "local_image_path": "images/81320.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81321.png",
+      "local_image_path": "images/81321.png"
+    }
+  ],
+  "synonyms": [
+    "slide",
+    "glide",
+    "slink",
+    "slip",
+    "skid"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slither.mp3",
+  "local_sound_path": "sounds/slither.mp3"
+}

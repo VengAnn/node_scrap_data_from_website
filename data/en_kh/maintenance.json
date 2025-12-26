@@ -1,0 +1,33 @@
+{
+  "word": "maintenance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "maintenance of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105418.png",
+      "local_image_path": "images/105418.png"
+    },
+    {
+      "pos": "n",
+      "example": "pay maintenance only",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105419.png",
+      "local_image_path": "images/105419.png"
+    }
+  ],
+  "synonyms": [
+    "alimony",
+    "money",
+    "allowance",
+    "keep",
+    "grant"
+  ],
+  "antonyms": [
+    "destruction",
+    "neglect"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/maintenance.mp3",
+  "local_sound_path": "sounds/maintenance.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "boldness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10000.png",
+      "local_image_path": "images/10000.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10006.png",
+      "local_image_path": "images/10006.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131178.png",
+      "local_image_path": "images/131178.png"
+    }
+  ],
+  "synonyms": [
+    "confidence",
+    "self-assurance",
+    "brashness",
+    "nerve",
+    "cheek",
+    "courage",
+    "daring",
+    "audacity",
+    "bravery",
+    "bravado"
+  ],
+  "antonyms": [
+    "cowardice",
+    "timidity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/boldness.mp3",
+  "local_sound_path": "sounds/boldness.mp3"
+}

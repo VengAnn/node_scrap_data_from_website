@@ -1,0 +1,35 @@
+{
+  "word": "providential",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68232.png",
+      "local_image_path": "images/68232.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126180.png",
+      "local_image_path": "images/126180.png"
+    }
+  ],
+  "synonyms": [
+    "fortunate",
+    "lucky",
+    "beneficial",
+    "advantageous",
+    "good luck"
+  ],
+  "antonyms": [
+    "unfortunate",
+    "arbitrary"
+  ],
+  "similar_words": [
+    "providentially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/providential.mp3",
+  "local_sound_path": "sounds/providential.mp3"
+}

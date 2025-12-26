@@ -1,0 +1,46 @@
+{
+  "word": "garb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31029.png",
+      "local_image_path": "images/31029.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31030.png",
+      "local_image_path": "images/31030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31031.png",
+      "local_image_path": "images/31031.png"
+    }
+  ],
+  "synonyms": [
+    "clothing",
+    "dress",
+    "attire",
+    "costume",
+    "apparel",
+    "clothe",
+    "array"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "garbage",
+    "garbage can",
+    "garbage man",
+    "garbage truck",
+    "garble",
+    "garbling",
+    "garboil"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/garb.mp3",
+  "local_sound_path": "sounds/garb.mp3"
+}

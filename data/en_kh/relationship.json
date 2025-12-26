@@ -1,0 +1,39 @@
+{
+  "word": "relationship",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71832.png",
+      "local_image_path": "images/71832.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126754.png",
+      "local_image_path": "images/126754.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126755.png",
+      "local_image_path": "images/126755.png"
+    }
+  ],
+  "synonyms": [
+    "association",
+    "connection",
+    "affiliation",
+    "rapport",
+    "bond",
+    "liaison",
+    "link",
+    "correlation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relationship.mp3",
+  "local_sound_path": "sounds/relationship.mp3"
+}

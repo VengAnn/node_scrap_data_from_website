@@ -1,0 +1,43 @@
+{
+  "word": "buckle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "buckle in the sun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11632.png",
+      "local_image_path": "images/11632.png"
+    },
+    {
+      "pos": "n",
+      "example": "belt buckle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11630.png",
+      "local_image_path": "images/11630.png"
+    },
+    {
+      "pos": "tv",
+      "example": "these shoes buckle at the side",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11631.png",
+      "local_image_path": "images/11631.png"
+    }
+  ],
+  "synonyms": [
+    "fasten",
+    "clip",
+    "clasp",
+    "collapse",
+    "crumple",
+    "bulge",
+    "fold",
+    "warp",
+    "bend"
+  ],
+  "antonyms": [
+    "undo",
+    "straighten"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buckle.mp3",
+  "local_sound_path": "sounds/buckle.mp3"
+}

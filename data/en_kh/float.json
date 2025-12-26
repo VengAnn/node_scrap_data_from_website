@@ -1,0 +1,90 @@
+{
+  "word": "float",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Wood floats in water.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29136.png",
+      "local_image_path": "images/29136.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rumors float",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29137.png",
+      "local_image_path": "images/29137.png"
+    },
+    {
+      "pos": "n",
+      "example": "signal float",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29140.png",
+      "local_image_path": "images/29140.png"
+    },
+    {
+      "pos": "n",
+      "example": "parade float",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29141.png",
+      "local_image_path": "images/29141.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120249.png",
+      "local_image_path": "images/120249.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120250.png",
+      "local_image_path": "images/120250.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120251.png",
+      "local_image_path": "images/120251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "float a boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29138.png",
+      "local_image_path": "images/29138.png"
+    },
+    {
+      "pos": "tv",
+      "example": "float a loan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29139.png",
+      "local_image_path": "images/29139.png"
+    }
+  ],
+  "synonyms": [
+    "propose",
+    "suggest",
+    "promote",
+    "offer",
+    "present"
+  ],
+  "antonyms": [
+    "sink",
+    "reject",
+    "drop"
+  ],
+  "similar_words": [
+    "floater",
+    "floating",
+    "floating capital",
+    "floating debt",
+    "floating exchange rate",
+    "floating hotel",
+    "floating house",
+    "floating lien",
+    "floating of company",
+    "floating rate",
+    "floating terms",
+    "floating vote",
+    "floating voter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/float.mp3",
+  "local_sound_path": "sounds/float.mp3"
+}

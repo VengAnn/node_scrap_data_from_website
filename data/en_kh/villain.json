@@ -1,0 +1,54 @@
+{
+  "word": "villain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98036.png",
+      "local_image_path": "images/98036.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129750.png",
+      "local_image_path": "images/129750.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129751.png",
+      "local_image_path": "images/129751.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129752.png",
+      "local_image_path": "images/129752.png"
+    }
+  ],
+  "synonyms": [
+    "criminal",
+    "felon",
+    "crook",
+    "gangster",
+    "thug",
+    "lawbreaker",
+    "outlaw",
+    "hood"
+  ],
+  "antonyms": [
+    "hero"
+  ],
+  "similar_words": [
+    "villainess",
+    "villainize",
+    "villainous",
+    "villainously",
+    "villainousness",
+    "villainy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/villain.mp3",
+  "local_sound_path": "sounds/villain.mp3"
+}

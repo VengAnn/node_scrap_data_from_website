@@ -1,0 +1,36 @@
+{
+  "word": "armor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "moral armor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5515.png",
+      "local_image_path": "images/5515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "armored unit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5517.png",
+      "local_image_path": "images/5517.png"
+    }
+  ],
+  "synonyms": [
+    "shell",
+    "shield"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "armor-clad",
+    "armored",
+    "armorer",
+    "armorial",
+    "armoried",
+    "armorist",
+    "armorital",
+    "armory"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/armor.mp3",
+  "local_sound_path": "sounds/armor.mp3"
+}

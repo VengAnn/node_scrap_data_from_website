@@ -1,0 +1,31 @@
+{
+  "word": "mandible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "human mandible",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105812.png",
+      "local_image_path": "images/105812.png"
+    },
+    {
+      "pos": "n",
+      "example": "insect mandible",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105813.png",
+      "local_image_path": "images/105813.png"
+    }
+  ],
+  "synonyms": [
+    "jaw",
+    "maxilla",
+    "mouth",
+    "mouthpiece",
+    "bill",
+    "beak"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mandible.mp3",
+  "local_sound_path": "sounds/mandible.mp3"
+}

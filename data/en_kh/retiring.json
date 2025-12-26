@@ -1,0 +1,40 @@
+{
+  "word": "retiring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73119.png",
+      "local_image_path": "images/73119.png"
+    },
+    {
+      "pos": "adj",
+      "example": "retiring soldier",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73120.png",
+      "local_image_path": "images/73120.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127039.png",
+      "local_image_path": "images/127039.png"
+    }
+  ],
+  "synonyms": [
+    "modest",
+    "humble",
+    "self-effacing",
+    "unassuming"
+  ],
+  "antonyms": [
+    "extrovert"
+  ],
+  "similar_words": [
+    "retiringly",
+    "retiringness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retiring.mp3",
+  "local_sound_path": "sounds/retiring.mp3"
+}

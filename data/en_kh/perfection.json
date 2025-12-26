@@ -1,0 +1,41 @@
+{
+  "word": "perfection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61654.png",
+      "local_image_path": "images/61654.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125342.png",
+      "local_image_path": "images/125342.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125343.png",
+      "local_image_path": "images/125343.png"
+    }
+  ],
+  "synonyms": [
+    "accomplishment",
+    "fulfillment",
+    "completion",
+    "realization",
+    "achievement"
+  ],
+  "antonyms": [
+    "abandonment"
+  ],
+  "similar_words": [
+    "perfectionism",
+    "perfectionist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perfection.mp3",
+  "local_sound_path": "sounds/perfection.mp3"
+}

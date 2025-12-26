@@ -1,0 +1,39 @@
+{
+  "word": "plenty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "This is plenty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64145.png",
+      "local_image_path": "images/64145.png"
+    },
+    {
+      "pos": "n",
+      "example": "in time of plenty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64144.png",
+      "local_image_path": "images/64144.png"
+    }
+  ],
+  "synonyms": [
+    "sufficiently",
+    "quite",
+    "adequately",
+    "amply",
+    "abundance",
+    "bounty",
+    "profusion",
+    "prosperity",
+    "plethora"
+  ],
+  "antonyms": [
+    "insufficiency",
+    "inadequate",
+    "insufficiently",
+    "inadequately"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plenty.mp3",
+  "local_sound_path": "sounds/plenty.mp3"
+}

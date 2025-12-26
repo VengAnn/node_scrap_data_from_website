@@ -1,0 +1,35 @@
+{
+  "word": "infectious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39607.png",
+      "local_image_path": "images/39607.png"
+    },
+    {
+      "pos": "adj",
+      "example": "infectious disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39608.png",
+      "local_image_path": "images/39608.png"
+    }
+  ],
+  "synonyms": [
+    "communicable",
+    "catching",
+    "transferable",
+    "transmittable",
+    "contagious",
+    "irresistible",
+    "compelling"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "infectiously",
+    "infectiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infectious.mp3",
+  "local_sound_path": "sounds/infectious.mp3"
+}

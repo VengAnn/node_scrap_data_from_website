@@ -1,0 +1,44 @@
+{
+  "word": "embarrassment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "deliberate embarrassment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24431.png",
+      "local_image_path": "images/24431.png"
+    },
+    {
+      "pos": "n",
+      "example": "She's an embarrassment to him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24432.png",
+      "local_image_path": "images/24432.png"
+    },
+    {
+      "pos": "n",
+      "example": "financial embarrassment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24433.png",
+      "local_image_path": "images/24433.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119039.png",
+      "local_image_path": "images/119039.png"
+    }
+  ],
+  "synonyms": [
+    "discomfiture",
+    "awkwardness",
+    "humiliation",
+    "mortification",
+    "shame"
+  ],
+  "antonyms": [
+    "pride"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embarrassment.mp3",
+  "local_sound_path": "sounds/embarrassment.mp3"
+}

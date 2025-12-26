@@ -1,0 +1,28 @@
+{
+  "word": "envelope",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25400.png",
+      "local_image_path": "images/25400.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25401.png",
+      "local_image_path": "images/25401.png"
+    }
+  ],
+  "synonyms": [
+    "cloak",
+    "shroud",
+    "blanket"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/envelope.mp3",
+  "local_sound_path": "sounds/envelope.mp3"
+}

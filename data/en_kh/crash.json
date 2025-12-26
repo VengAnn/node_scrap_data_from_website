@@ -1,0 +1,54 @@
+{
+  "word": "crash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Planes crash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18415.png",
+      "local_image_path": "images/18415.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18416.png",
+      "local_image_path": "images/18416.png"
+    },
+    {
+      "pos": "n",
+      "example": "airplane crash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18417.png",
+      "local_image_path": "images/18417.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crash a glass to the floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18413.png",
+      "local_image_path": "images/18413.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crash an airplane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18414.png",
+      "local_image_path": "images/18414.png"
+    }
+  ],
+  "synonyms": [
+    "fold",
+    "collapse",
+    "fail"
+  ],
+  "antonyms": [
+    "thrive"
+  ],
+  "similar_words": [
+    "crash and burn",
+    "crash-land",
+    "crashing",
+    "crashworthiness",
+    "crashworthy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crash.mp3",
+  "local_sound_path": "sounds/crash.mp3"
+}

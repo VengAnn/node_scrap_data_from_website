@@ -1,0 +1,37 @@
+{
+  "word": "calamity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the earthquake was the worst calamity in the country's history",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12352.png",
+      "local_image_path": "images/12352.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115831.png",
+      "local_image_path": "images/115831.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115832.png",
+      "local_image_path": "images/115832.png"
+    }
+  ],
+  "synonyms": [
+    "disaster",
+    "catastrophe",
+    "mishap",
+    "misfortune",
+    "tragedy",
+    "blow"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calamity.mp3",
+  "local_sound_path": "sounds/calamity.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "swift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "swift boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86851.png",
+      "local_image_path": "images/86851.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86852.png",
+      "local_image_path": "images/86852.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86853.png",
+      "local_image_path": "images/86853.png"
+    }
+  ],
+  "synonyms": [
+    "prompt",
+    "instant",
+    "immediate",
+    "fast",
+    "quick",
+    "speedy",
+    "punctual",
+    "expeditious"
+  ],
+  "antonyms": [
+    "slow",
+    "considered"
+  ],
+  "similar_words": [
+    "swift witness",
+    "swiften",
+    "swiftly",
+    "swiftness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swift.mp3",
+  "local_sound_path": "sounds/swift.mp3"
+}

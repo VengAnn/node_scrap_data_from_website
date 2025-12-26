@@ -1,0 +1,66 @@
+{
+  "word": "heave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "heave a sigh",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34339.png",
+      "local_image_path": "images/34339.png"
+    },
+    {
+      "pos": "iv",
+      "example": "oceans heave",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34340.png",
+      "local_image_path": "images/34340.png"
+    },
+    {
+      "pos": "n",
+      "example": "give a heaven",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34341.png",
+      "local_image_path": "images/34341.png"
+    },
+    {
+      "pos": "n",
+      "example": "road heaven",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34342.png",
+      "local_image_path": "images/34342.png"
+    },
+    {
+      "pos": "tv",
+      "example": "heave sb over board",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34337.png",
+      "local_image_path": "images/34337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "heave a rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34338.png",
+      "local_image_path": "images/34338.png"
+    }
+  ],
+  "synonyms": [
+    "lift",
+    "raise",
+    "hoist",
+    "maneuver"
+  ],
+  "antonyms": [
+    "push"
+  ],
+  "similar_words": [
+    "heaven",
+    "heaven knows",
+    "heaven-born",
+    "heaven-sent",
+    "heavenish",
+    "heavenlike",
+    "heavenly",
+    "heavenly bodies",
+    "heavenward",
+    "heavenwards"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heave.mp3",
+  "local_sound_path": "sounds/heave.mp3"
+}

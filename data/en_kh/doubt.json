@@ -1,0 +1,40 @@
+{
+  "word": "doubt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "feel doubt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22844.png",
+      "local_image_path": "images/22844.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22843.png",
+      "local_image_path": "images/22843.png"
+    }
+  ],
+  "synonyms": [
+    "disbelieve",
+    "mistrust",
+    "suspect",
+    "distrust",
+    "question",
+    "query"
+  ],
+  "antonyms": [
+    "certainty",
+    "believe"
+  ],
+  "similar_words": [
+    "doubter",
+    "doubtful",
+    "doubtfully",
+    "doubtfulness",
+    "doubtless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/doubt.mp3",
+  "local_sound_path": "sounds/doubt.mp3"
+}

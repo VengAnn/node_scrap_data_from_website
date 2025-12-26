@@ -1,0 +1,38 @@
+{
+  "word": "monument",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110299.png",
+      "local_image_path": "images/110299.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110300.png",
+      "local_image_path": "images/110300.png"
+    }
+  ],
+  "synonyms": [
+    "memorial",
+    "shrine",
+    "testimonial",
+    "testament",
+    "tribute",
+    "tombstone",
+    "gravestone",
+    "marker"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "monumental",
+    "monumentality",
+    "monumentalize",
+    "monumentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/monument.mp3",
+  "local_sound_path": "sounds/monument.mp3"
+}

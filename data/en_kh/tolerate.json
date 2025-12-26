@@ -1,0 +1,46 @@
+{
+  "word": "tolerate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "tolerate pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89939.png",
+      "local_image_path": "images/89939.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I won't tolerate your doing that.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89940.png",
+      "local_image_path": "images/89940.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tolerate bad behavior",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89941.png",
+      "local_image_path": "images/89941.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tolerate a drug",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89942.png",
+      "local_image_path": "images/89942.png"
+    }
+  ],
+  "synonyms": [
+    "stand",
+    "bear",
+    "abide",
+    "endure",
+    "accept",
+    "stomach",
+    "allow"
+  ],
+  "antonyms": [
+    "forbid"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tolerate.mp3",
+  "local_sound_path": "sounds/tolerate.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "further",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "further than",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30712.png",
+      "local_image_path": "images/30712.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30713.png",
+      "local_image_path": "images/30713.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30714.png",
+      "local_image_path": "images/30714.png"
+    }
+  ],
+  "synonyms": [
+    "advance",
+    "promote",
+    "foster",
+    "expand",
+    "spread",
+    "extend",
+    "beyond",
+    "past"
+  ],
+  "antonyms": [
+    "prevent",
+    "nearer",
+    "within"
+  ],
+  "similar_words": [
+    "furtherance",
+    "furtherer",
+    "furthermore",
+    "furthermost"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/further.mp3",
+  "local_sound_path": "sounds/further.mp3"
+}

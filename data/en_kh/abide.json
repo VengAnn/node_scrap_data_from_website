@@ -1,0 +1,34 @@
+{
+  "word": "abide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "A good man must always abide by his promise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1403.png",
+      "local_image_path": "images/1403.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1404.png",
+      "local_image_path": "images/1404.png"
+    }
+  ],
+  "synonyms": [
+    "stand",
+    "bear",
+    "stomach",
+    "take",
+    "tolerate",
+    "accept"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "abide by",
+    "abider"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abide.mp3",
+  "local_sound_path": "sounds/abide.mp3"
+}

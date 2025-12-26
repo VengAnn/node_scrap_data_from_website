@@ -1,0 +1,53 @@
+{
+  "word": "stagger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84071.png",
+      "local_image_path": "images/84071.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84068.png",
+      "local_image_path": "images/84068.png"
+    },
+    {
+      "pos": "v",
+      "example": "stagger the mind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84069.png",
+      "local_image_path": "images/84069.png"
+    },
+    {
+      "pos": "v",
+      "example": "stagger the lunch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84070.png",
+      "local_image_path": "images/84070.png"
+    }
+  ],
+  "synonyms": [
+    "alternate",
+    "overlap",
+    "rotate",
+    "vary",
+    "step",
+    "astound",
+    "amaze",
+    "shock",
+    "stun",
+    "surprise",
+    "astonish",
+    "confound",
+    "shake"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "staggerer",
+    "staggering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stagger.mp3",
+  "local_sound_path": "sounds/stagger.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "sideways",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79883.png",
+      "local_image_path": "images/79883.png"
+    },
+    {
+      "pos": "adv",
+      "example": "walk sideways",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79881.png",
+      "local_image_path": "images/79881.png"
+    },
+    {
+      "pos": "adv",
+      "example": "insert sideways",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79882.png",
+      "local_image_path": "images/79882.png"
+    }
+  ],
+  "synonyms": [
+    "oblique",
+    "slanting",
+    "indirect",
+    "sidelong",
+    "askew",
+    "askance",
+    "aslant"
+  ],
+  "antonyms": [
+    "straight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sideways.mp3",
+  "local_sound_path": "sounds/sideways.mp3"
+}

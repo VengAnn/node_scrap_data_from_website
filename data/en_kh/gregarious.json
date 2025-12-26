@@ -1,0 +1,39 @@
+{
+  "word": "gregarious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gregarious man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32859.png",
+      "local_image_path": "images/32859.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gregarious bird",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32860.png",
+      "local_image_path": "images/32860.png"
+    }
+  ],
+  "synonyms": [
+    "outgoing",
+    "sociable",
+    "social",
+    "expressive",
+    "expansive",
+    "unreserved",
+    "companionable",
+    "convivial",
+    "extrovert"
+  ],
+  "antonyms": [
+    "shy"
+  ],
+  "similar_words": [
+    "gregariously",
+    "gregariousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gregarious.mp3",
+  "local_sound_path": "sounds/gregarious.mp3"
+}

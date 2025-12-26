@@ -1,0 +1,40 @@
+{
+  "word": "heading",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "heading of a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34182.png",
+      "local_image_path": "images/34182.png"
+    },
+    {
+      "pos": "n",
+      "example": "heading of a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34183.png",
+      "local_image_path": "images/34183.png"
+    },
+    {
+      "pos": "n",
+      "example": "heading of a plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34184.png",
+      "local_image_path": "images/34184.png"
+    }
+  ],
+  "synonyms": [
+    "direction",
+    "bearing",
+    "course",
+    "route",
+    "leading",
+    "preceding"
+  ],
+  "antonyms": [
+    "supporting",
+    "following"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/heading.mp3",
+  "local_sound_path": "sounds/heading.mp3"
+}

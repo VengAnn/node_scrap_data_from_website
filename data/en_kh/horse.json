@@ -1,0 +1,66 @@
+{
+  "word": "horse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "horse around",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35986.png",
+      "local_image_path": "images/35986.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35983.png",
+      "local_image_path": "images/35983.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35984.png",
+      "local_image_path": "images/35984.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35985.png",
+      "local_image_path": "images/35985.png"
+    }
+  ],
+  "synonyms": [
+    "mount",
+    "stallion",
+    "mare",
+    "pony",
+    "steed",
+    "charger"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "horse play",
+    "horse race",
+    "horse sense",
+    "horse-chestnut",
+    "horse-flesh",
+    "horse-fly",
+    "horse-laugh",
+    "horse-trading",
+    "horseback",
+    "horsecar",
+    "horsehair",
+    "horseleech",
+    "horseless carriage",
+    "horsely",
+    "horseman",
+    "horsemanship",
+    "horsepower",
+    "horserace",
+    "horseradish",
+    "horseshoe",
+    "horsetail",
+    "horsewhip"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/horse.mp3",
+  "local_sound_path": "sounds/horse.mp3"
+}

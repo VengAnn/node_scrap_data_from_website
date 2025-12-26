@@ -1,0 +1,62 @@
+{
+  "word": "summary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "summary report",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86220.png",
+      "local_image_path": "images/86220.png"
+    },
+    {
+      "pos": "adj",
+      "example": "summary dismissal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86221.png",
+      "local_image_path": "images/86221.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86219.png",
+      "local_image_path": "images/86219.png"
+    }
+  ],
+  "synonyms": [
+    "swift",
+    "rapid",
+    "instant",
+    "immediate",
+    "instantaneous",
+    "hasty",
+    "sudden",
+    "precipitate",
+    "abrupt",
+    "precis",
+    "synopsis",
+    "digest",
+    "outline",
+    "review",
+    "abstract",
+    "extraction",
+    "abridgment",
+    "summation",
+    "resume",
+    "brief",
+    "condensation"
+  ],
+  "antonyms": [
+    "exposition",
+    "considered"
+  ],
+  "similar_words": [
+    "summary arrest",
+    "summary conviction",
+    "summary dismissal",
+    "summary judgment",
+    "summary offence",
+    "summary process"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/summary.mp3",
+  "local_sound_path": "sounds/summary.mp3"
+}

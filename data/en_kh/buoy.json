@@ -1,0 +1,32 @@
+{
+  "word": "buoy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11881.png",
+      "local_image_path": "images/11881.png"
+    },
+    {
+      "pos": "tv",
+      "example": "buoy a channel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11882.png",
+      "local_image_path": "images/11882.png"
+    }
+  ],
+  "synonyms": [
+    "sustain",
+    "maintain",
+    "lift"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "buoyancy",
+    "buoyant",
+    "buoyantly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buoy.mp3",
+  "local_sound_path": "sounds/buoy.mp3"
+}

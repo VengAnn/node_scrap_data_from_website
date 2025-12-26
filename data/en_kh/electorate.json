@@ -1,0 +1,27 @@
+{
+  "word": "electorate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24180.png",
+      "local_image_path": "images/24180.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130283.png",
+      "local_image_path": "images/130283.png"
+    }
+  ],
+  "synonyms": [
+    "constituency",
+    "people"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/electorate.mp3",
+  "local_sound_path": "sounds/electorate.mp3"
+}

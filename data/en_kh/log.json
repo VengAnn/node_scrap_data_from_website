@@ -1,0 +1,97 @@
+{
+  "word": "log",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47360.png",
+      "local_image_path": "images/47360.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123625.png",
+      "local_image_path": "images/123625.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47357.png",
+      "local_image_path": "images/47357.png"
+    },
+    {
+      "pos": "n",
+      "example": "ship's log",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47358.png",
+      "local_image_path": "images/47358.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47362.png",
+      "local_image_path": "images/47362.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123626.png",
+      "local_image_path": "images/123626.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123627.png",
+      "local_image_path": "images/123627.png"
+    },
+    {
+      "pos": "tv",
+      "example": "log a mountain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47359.png",
+      "local_image_path": "images/47359.png"
+    }
+  ],
+  "synonyms": [
+    "register",
+    "record",
+    "project",
+    "plot",
+    "monitor",
+    "chronicle",
+    "follow",
+    "map",
+    "outline"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "log extract",
+    "log-jam",
+    "loganberry",
+    "logarithm",
+    "logarithmic",
+    "logarithmical",
+    "logarithmically",
+    "logbook",
+    "logcock",
+    "loge",
+    "loggat",
+    "logged",
+    "logger",
+    "loggerhead",
+    "loggerheaded",
+    "loggia",
+    "loggin",
+    "logging",
+    "loggy",
+    "loghead",
+    "logia",
+    "logic",
+    "logical",
+    "logicality",
+    "logicalize",
+    "logically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/log.mp3",
+  "local_sound_path": "sounds/log.mp3"
+}

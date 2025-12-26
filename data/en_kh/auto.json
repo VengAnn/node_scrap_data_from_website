@@ -1,0 +1,63 @@
+{
+  "word": "auto",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6529.png",
+      "local_image_path": "images/6529.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6528.png",
+      "local_image_path": "images/6528.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6530.png",
+      "local_image_path": "images/6530.png"
+    }
+  ],
+  "synonyms": [
+    "car",
+    "automobile",
+    "vehicle",
+    "van",
+    "sedan",
+    "sports car"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "auto da.fe",
+    "auto movie",
+    "autoantibody",
+    "autobahn",
+    "autobiographer",
+    "autobiographic",
+    "autobiographical",
+    "autobiographically",
+    "autobiography",
+    "autobus",
+    "autocatalysis",
+    "autocatalytic",
+    "autochthon",
+    "autochthonal",
+    "autochthonism",
+    "autochthonous",
+    "autochthonously",
+    "autochthony",
+    "autoclave",
+    "autocode",
+    "autocracy",
+    "autocrat",
+    "autocratic",
+    "autocratical",
+    "autocratically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/auto.mp3",
+  "local_sound_path": "sounds/auto.mp3"
+}

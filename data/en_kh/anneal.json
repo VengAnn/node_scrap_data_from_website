@@ -1,0 +1,33 @@
+{
+  "word": "anneal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4374.png",
+      "local_image_path": "images/4374.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131076.png",
+      "local_image_path": "images/131076.png"
+    }
+  ],
+  "synonyms": [
+    "harden",
+    "strengthen",
+    "toughen",
+    "galvanize",
+    "forge"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "annealer",
+    "annealing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anneal.mp3",
+  "local_sound_path": "sounds/anneal.mp3"
+}

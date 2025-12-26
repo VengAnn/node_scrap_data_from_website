@@ -1,0 +1,56 @@
+{
+  "word": "expose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26892.png",
+      "local_image_path": "images/26892.png"
+    },
+    {
+      "pos": "tv",
+      "example": "expose a plot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26888.png",
+      "local_image_path": "images/26888.png"
+    },
+    {
+      "pos": "tv",
+      "example": "expose a film",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26889.png",
+      "local_image_path": "images/26889.png"
+    },
+    {
+      "pos": "tv",
+      "example": "expose one's back to the sun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26890.png",
+      "local_image_path": "images/26890.png"
+    },
+    {
+      "pos": "tv",
+      "example": "expose a thing to view",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26891.png",
+      "local_image_path": "images/26891.png"
+    }
+  ],
+  "synonyms": [
+    "depiction",
+    "representation",
+    "interpretation",
+    "picture",
+    "description",
+    "rendering",
+    "disclosure",
+    "revelation",
+    "leak",
+    "exposure",
+    "discovery"
+  ],
+  "antonyms": [
+    "cover"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expose.mp3",
+  "local_sound_path": "sounds/expose.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "totalitarian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "totalitarian regime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90364.png",
+      "local_image_path": "images/90364.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90365.png",
+      "local_image_path": "images/90365.png"
+    }
+  ],
+  "synonyms": [
+    "authoritarian",
+    "dictatorial",
+    "oppressive",
+    "autocratic",
+    "despotic",
+    "tyrannical",
+    "tyrannous"
+  ],
+  "antonyms": [
+    "democratic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/totalitarian.mp3",
+  "local_sound_path": "sounds/totalitarian.mp3"
+}

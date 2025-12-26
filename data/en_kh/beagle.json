@@ -1,0 +1,30 @@
+{
+  "word": "beagle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7840.png",
+      "local_image_path": "images/7840.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114707.png",
+      "local_image_path": "images/114707.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114708.png",
+      "local_image_path": "images/114708.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beagle.mp3",
+  "local_sound_path": "sounds/beagle.mp3"
+}

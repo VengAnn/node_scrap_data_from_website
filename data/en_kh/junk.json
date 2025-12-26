@@ -1,0 +1,61 @@
+{
+  "word": "junk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43473.png",
+      "local_image_path": "images/43473.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43475.png",
+      "local_image_path": "images/43475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123230.png",
+      "local_image_path": "images/123230.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123231.png",
+      "local_image_path": "images/123231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43474.png",
+      "local_image_path": "images/43474.png"
+    }
+  ],
+  "synonyms": [
+    "scrap",
+    "discard",
+    "ditch",
+    "dump",
+    "jettison",
+    "chuck"
+  ],
+  "antonyms": [
+    "keep"
+  ],
+  "similar_words": [
+    "junk mail",
+    "junk shop",
+    "junket",
+    "junketing",
+    "junkie",
+    "junkmail",
+    "junkman",
+    "junky",
+    "junkyard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/junk.mp3",
+  "local_sound_path": "sounds/junk.mp3"
+}

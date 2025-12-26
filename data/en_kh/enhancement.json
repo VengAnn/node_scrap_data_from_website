@@ -1,0 +1,44 @@
+{
+  "word": "enhancement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25076.png",
+      "local_image_path": "images/25076.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25077.png",
+      "local_image_path": "images/25077.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119215.png",
+      "local_image_path": "images/119215.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119216.png",
+      "local_image_path": "images/119216.png"
+    }
+  ],
+  "synonyms": [
+    "improvement",
+    "augmentation",
+    "development",
+    "enrichment",
+    "boost"
+  ],
+  "antonyms": [
+    "detraction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enhancement.mp3",
+  "local_sound_path": "sounds/enhancement.mp3"
+}

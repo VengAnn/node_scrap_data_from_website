@@ -1,0 +1,61 @@
+{
+  "word": "on",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Lights are on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57565.png",
+      "local_image_path": "images/57565.png"
+    },
+    {
+      "pos": "adv",
+      "example": "The war is still going on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57564.png",
+      "local_image_path": "images/57564.png"
+    },
+    {
+      "pos": "prep",
+      "example": "on the table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57563.png",
+      "local_image_path": "images/57563.png"
+    }
+  ],
+  "synonyms": [
+    "continuously",
+    "at",
+    "by",
+    "next to"
+  ],
+  "antonyms": [
+    "under",
+    "off"
+  ],
+  "similar_words": [
+    "on sale",
+    "on-job-training",
+    "on-message",
+    "on-stage",
+    "on-the-job",
+    "on-the-scene",
+    "onager",
+    "onanism",
+    "onanist",
+    "onanistic",
+    "onboard",
+    "once",
+    "oncogenesis",
+    "oncogenic",
+    "oncogenicity",
+    "oncologic",
+    "oncological",
+    "oncologist",
+    "oncology",
+    "oncoming",
+    "oncosts",
+    "one"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/on.mp3",
+  "local_sound_path": "sounds/on.mp3"
+}

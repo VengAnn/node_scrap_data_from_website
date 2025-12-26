@@ -1,0 +1,30 @@
+{
+  "word": "abscess",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1591.png",
+      "local_image_path": "images/1591.png"
+    }
+  ],
+  "synonyms": [
+    "boil",
+    "sore",
+    "swelling",
+    "eruption",
+    "blister",
+    "carbuncle",
+    "pustule",
+    "inflammation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "abscessed",
+    "abscession"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abscess.mp3",
+  "local_sound_path": "sounds/abscess.mp3"
+}

@@ -1,0 +1,58 @@
+{
+  "word": "vagrant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97071.png",
+      "local_image_path": "images/97071.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129649.png",
+      "local_image_path": "images/129649.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129650.png",
+      "local_image_path": "images/129650.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97070.png",
+      "local_image_path": "images/97070.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129651.png",
+      "local_image_path": "images/129651.png"
+    }
+  ],
+  "synonyms": [
+    "nomadic",
+    "itinerant",
+    "wandering",
+    "roaming",
+    "roving",
+    "vagabond",
+    "tramp",
+    "drifter",
+    "beggar",
+    "hobo",
+    "wanderer",
+    "nomad"
+  ],
+  "antonyms": [
+    "settled",
+    "resident"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vagrant.mp3",
+  "local_sound_path": "sounds/vagrant.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "aromatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5537.png",
+      "local_image_path": "images/5537.png"
+    }
+  ],
+  "synonyms": [
+    "fragrant",
+    "scented",
+    "pungent",
+    "musky"
+  ],
+  "antonyms": [
+    "odorless"
+  ],
+  "similar_words": [
+    "aromatically",
+    "aromaticity",
+    "aromaticness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aromatic.mp3",
+  "local_sound_path": "sounds/aromatic.mp3"
+}

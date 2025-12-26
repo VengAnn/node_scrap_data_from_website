@@ -1,0 +1,26 @@
+{
+  "word": "dining",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21444.png",
+      "local_image_path": "images/21444.png"
+    }
+  ],
+  "synonyms": [
+    "eating",
+    "banqueting",
+    "consuming"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dining-car",
+    "dining-room",
+    "dining-table"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dining.mp3",
+  "local_sound_path": "sounds/dining.mp3"
+}

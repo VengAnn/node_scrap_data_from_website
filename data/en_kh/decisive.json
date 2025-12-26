@@ -1,0 +1,47 @@
+{
+  "word": "decisive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "decisive person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19972.png",
+      "local_image_path": "images/19972.png"
+    },
+    {
+      "pos": "adj",
+      "example": "decisive action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19973.png",
+      "local_image_path": "images/19973.png"
+    },
+    {
+      "pos": "adj",
+      "example": "decisive factor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19974.png",
+      "local_image_path": "images/19974.png"
+    }
+  ],
+  "synonyms": [
+    "strong-minded",
+    "resolute",
+    "earnest",
+    "certain",
+    "positive",
+    "determined",
+    "clear-sighted",
+    "purposeful",
+    "definite",
+    "firm"
+  ],
+  "antonyms": [
+    "insignificant",
+    "uncertain"
+  ],
+  "similar_words": [
+    "decisively",
+    "decisiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decisive.mp3",
+  "local_sound_path": "sounds/decisive.mp3"
+}

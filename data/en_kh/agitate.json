@@ -1,0 +1,52 @@
+{
+  "word": "agitate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "He was agitated about his wife's health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2964.png",
+      "local_image_path": "images/2964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112308.png",
+      "local_image_path": "images/112308.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112309.png",
+      "local_image_path": "images/112309.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112310.png",
+      "local_image_path": "images/112310.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112311.png",
+      "local_image_path": "images/112311.png"
+    }
+  ],
+  "synonyms": [
+    "campaign",
+    "protest",
+    "advocate",
+    "demonstrate"
+  ],
+  "antonyms": [
+    "calm"
+  ],
+  "similar_words": [
+    "agitated",
+    "agitatedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agitate.mp3",
+  "local_sound_path": "sounds/agitate.mp3"
+}

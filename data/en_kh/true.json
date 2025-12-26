@@ -1,0 +1,94 @@
+{
+  "word": "true",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "true gold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92112.png",
+      "local_image_path": "images/92112.png"
+    },
+    {
+      "pos": "adj",
+      "example": "true friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92113.png",
+      "local_image_path": "images/92113.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92114.png",
+      "local_image_path": "images/92114.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128520.png",
+      "local_image_path": "images/128520.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128521.png",
+      "local_image_path": "images/128521.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128522.png",
+      "local_image_path": "images/128522.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92116.png",
+      "local_image_path": "images/92116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92115.png",
+      "local_image_path": "images/92115.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92117.png",
+      "local_image_path": "images/92117.png"
+    }
+  ],
+  "synonyms": [
+    "faithful",
+    "constant",
+    "loyal",
+    "sincere",
+    "firm",
+    "stanch",
+    "confirmed",
+    "dutiful",
+    "devoted",
+    "staunch"
+  ],
+  "antonyms": [
+    "false",
+    "fake",
+    "unfaithful"
+  ],
+  "similar_words": [
+    "true bill",
+    "true blue",
+    "true penny",
+    "true-born",
+    "true-bred",
+    "true-false test",
+    "true-hearted",
+    "true-heartedness",
+    "true-life",
+    "true-love",
+    "trueblur",
+    "trueness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/true.mp3",
+  "local_sound_path": "sounds/true.mp3"
+}

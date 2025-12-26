@@ -1,0 +1,30 @@
+{
+  "word": "swig",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86858.png",
+      "local_image_path": "images/86858.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86859.png",
+      "local_image_path": "images/86859.png"
+    }
+  ],
+  "synonyms": [
+    "drink",
+    "swill",
+    "imbibe",
+    "quaff",
+    "guzzle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swig.mp3",
+  "local_sound_path": "sounds/swig.mp3"
+}

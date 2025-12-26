@@ -1,0 +1,65 @@
+{
+  "word": "okay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj,adv",
+      "example": "patient is ok",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57435.png",
+      "local_image_path": "images/57435.png"
+    },
+    {
+      "pos": "adj,adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124901.png",
+      "local_image_path": "images/124901.png"
+    },
+    {
+      "pos": "adj,adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124902.png",
+      "local_image_path": "images/124902.png"
+    },
+    {
+      "pos": "adj,adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124903.png",
+      "local_image_path": "images/124903.png"
+    },
+    {
+      "pos": "interj",
+      "example": "Okay, let's go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57437.png",
+      "local_image_path": "images/57437.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57438.png",
+      "local_image_path": "images/57438.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57436.png",
+      "local_image_path": "images/57436.png"
+    }
+  ],
+  "synonyms": [
+    "approve",
+    "sanction",
+    "endorse",
+    "indorse",
+    "authorize",
+    "certify"
+  ],
+  "antonyms": [
+    "unacceptable",
+    "veto",
+    "inacceptable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/okay.mp3",
+  "local_sound_path": "sounds/okay.mp3"
+}

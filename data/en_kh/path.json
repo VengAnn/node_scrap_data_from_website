@@ -1,0 +1,58 @@
+{
+  "word": "path",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "narrow path",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60629.png",
+      "local_image_path": "images/60629.png"
+    },
+    {
+      "pos": "n",
+      "example": "path of conduct",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60630.png",
+      "local_image_path": "images/60630.png"
+    }
+  ],
+  "synonyms": [
+    "course",
+    "way",
+    "channel",
+    "route",
+    "direction",
+    "means",
+    "avenue",
+    "orbit",
+    "line"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pathematic",
+    "pathetic",
+    "pathetical",
+    "pathetically",
+    "pathfinder",
+    "pathic",
+    "pathless",
+    "pathobiology",
+    "pathogen",
+    "pathogenesis",
+    "pathogenetic",
+    "pathogenic",
+    "pathogenically",
+    "pathogenicity",
+    "pathogeny",
+    "pathognomonic",
+    "pathography",
+    "pathological",
+    "pathologically",
+    "pathologist",
+    "pathology",
+    "pathophysiologic",
+    "pathophysiological"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/path.mp3",
+  "local_sound_path": "sounds/path.mp3"
+}

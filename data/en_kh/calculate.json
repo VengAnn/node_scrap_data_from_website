@@ -1,0 +1,61 @@
+{
+  "word": "calculate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "please you help me calculate my balance?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12379.png",
+      "local_image_path": "images/12379.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115833.png",
+      "local_image_path": "images/115833.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115834.png",
+      "local_image_path": "images/115834.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115835.png",
+      "local_image_path": "images/115835.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115836.png",
+      "local_image_path": "images/115836.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115837.png",
+      "local_image_path": "images/115837.png"
+    }
+  ],
+  "synonyms": [
+    "compute",
+    "analyze",
+    "estimate",
+    "gauge",
+    "determine",
+    "reckon",
+    "evaluate",
+    "assess",
+    "gage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "calculated",
+    "calculatedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calculate.mp3",
+  "local_sound_path": "sounds/calculate.mp3"
+}

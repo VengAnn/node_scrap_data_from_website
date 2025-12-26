@@ -1,0 +1,46 @@
+{
+  "word": "bolster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10028.png",
+      "local_image_path": "images/10028.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10029.png",
+      "local_image_path": "images/10029.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115351.png",
+      "local_image_path": "images/115351.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115352.png",
+      "local_image_path": "images/115352.png"
+    }
+  ],
+  "synonyms": [
+    "boost",
+    "strengthen",
+    "reinforce",
+    "encourage",
+    "support",
+    "augment",
+    "sustain"
+  ],
+  "antonyms": [
+    "undermine"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bolster.mp3",
+  "local_sound_path": "sounds/bolster.mp3"
+}

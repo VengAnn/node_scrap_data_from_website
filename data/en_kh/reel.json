@@ -1,0 +1,43 @@
+{
+  "word": "reel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71276.png",
+      "local_image_path": "images/71276.png"
+    },
+    {
+      "pos": "n",
+      "example": "tape reel",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71274.png",
+      "local_image_path": "images/71274.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reel tape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71275.png",
+      "local_image_path": "images/71275.png"
+    }
+  ],
+  "synonyms": [
+    "swim",
+    "whirl",
+    "spin",
+    "lurch",
+    "stagger",
+    "totter",
+    "stumble",
+    "wobble",
+    "sway"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "reelection",
+    "reeler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reel.mp3",
+  "local_sound_path": "sounds/reel.mp3"
+}

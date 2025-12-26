@@ -1,0 +1,40 @@
+{
+  "word": "abruptness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1589.png",
+      "local_image_path": "images/1589.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111819.png",
+      "local_image_path": "images/111819.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111820.png",
+      "local_image_path": "images/111820.png"
+    }
+  ],
+  "synonyms": [
+    "brusqueness",
+    "shortness",
+    "terseness",
+    "sharpness",
+    "rudeness",
+    "gruffness"
+  ],
+  "antonyms": [
+    "courtesy",
+    "politeness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abruptness.mp3",
+  "local_sound_path": "sounds/abruptness.mp3"
+}

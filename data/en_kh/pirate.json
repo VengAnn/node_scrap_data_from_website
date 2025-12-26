@@ -1,0 +1,38 @@
+{
+  "word": "pirate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63521.png",
+      "local_image_path": "images/63521.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63522.png",
+      "local_image_path": "images/63522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63523.png",
+      "local_image_path": "images/63523.png"
+    }
+  ],
+  "synonyms": [
+    "buccaneer",
+    "brigand",
+    "bandit",
+    "plagiarize",
+    "reproduce",
+    "bootleg",
+    "lift"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pirate.mp3",
+  "local_sound_path": "sounds/pirate.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "chagrin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13708.png",
+      "local_image_path": "images/13708.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13709.png",
+      "local_image_path": "images/13709.png"
+    }
+  ],
+  "synonyms": [
+    "mortification",
+    "vexation",
+    "disappointment",
+    "embarrassment",
+    "sorrow",
+    "annoyance",
+    "humiliation",
+    "irritation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chagrin.mp3",
+  "local_sound_path": "sounds/chagrin.mp3"
+}

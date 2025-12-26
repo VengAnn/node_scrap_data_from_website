@@ -1,0 +1,30 @@
+{
+  "word": "absentee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1609.png",
+      "local_image_path": "images/1609.png"
+    }
+  ],
+  "synonyms": [
+    "truant",
+    "malingerer",
+    "runaway",
+    "absconder",
+    "defaulter"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "absentee ballot",
+    "absentee landlord",
+    "absentee voter",
+    "absentee voting",
+    "absenteeism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absentee.mp3",
+  "local_sound_path": "sounds/absentee.mp3"
+}

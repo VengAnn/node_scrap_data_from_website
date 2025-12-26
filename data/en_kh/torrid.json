@@ -1,0 +1,37 @@
+{
+  "word": "torrid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "torrid zone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90291.png",
+      "local_image_path": "images/90291.png"
+    },
+    {
+      "pos": "adj",
+      "example": "torrid love affair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90292.png",
+      "local_image_path": "images/90292.png"
+    }
+  ],
+  "synonyms": [
+    "hot",
+    "stifling",
+    "scorching",
+    "boiling",
+    "burning",
+    "baking"
+  ],
+  "antonyms": [
+    "cool"
+  ],
+  "similar_words": [
+    "torridity",
+    "torridly",
+    "torridness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/torrid.mp3",
+  "local_sound_path": "sounds/torrid.mp3"
+}

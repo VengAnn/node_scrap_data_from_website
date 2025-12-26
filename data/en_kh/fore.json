@@ -1,0 +1,56 @@
+{
+  "word": "fore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "be / come to the fore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29670.png",
+      "local_image_path": "images/29670.png"
+    },
+    {
+      "pos": "n",
+      "example": "fore part",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29669.png",
+      "local_image_path": "images/29669.png"
+    },
+    {
+      "pos": "pref",
+      "example": "forewarn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29671.png",
+      "local_image_path": "images/29671.png"
+    }
+  ],
+  "synonyms": [
+    "front",
+    "forefront",
+    "forepart",
+    "bow",
+    "face",
+    "frontage",
+    "facade"
+  ],
+  "antonyms": [
+    "back"
+  ],
+  "similar_words": [
+    "fore-date",
+    "fore-judge",
+    "fore-judgement",
+    "fore-mentioned",
+    "forearm",
+    "forebear",
+    "forebode",
+    "foreboding",
+    "forebodingly",
+    "forebodingness",
+    "forecast",
+    "forecaster",
+    "forecasting",
+    "forecastle",
+    "foreclose"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fore.mp3",
+  "local_sound_path": "sounds/fore.mp3"
+}

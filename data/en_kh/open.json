@@ -1,0 +1,79 @@
+{
+  "word": "open",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "open door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57702.png",
+      "local_image_path": "images/57702.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Door opened 24 hours per day.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57701.png",
+      "local_image_path": "images/57701.png"
+    },
+    {
+      "pos": "n",
+      "example": "out in the open",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57703.png",
+      "local_image_path": "images/57703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Please you open the door.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57700.png",
+      "local_image_path": "images/57700.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57699.png",
+      "local_image_path": "images/57699.png"
+    }
+  ],
+  "synonyms": [
+    "honest",
+    "unguarded",
+    "direct",
+    "straight",
+    "frank",
+    "sincere",
+    "candid",
+    "begin",
+    "start",
+    "commence",
+    "initiate",
+    "launch"
+  ],
+  "antonyms": [
+    "close",
+    "guarded",
+    "safe",
+    "restricted",
+    "closed",
+    "conclude"
+  ],
+  "similar_words": [
+    "open attack",
+    "open court",
+    "open eyed",
+    "open-air",
+    "open-and-shut",
+    "open-ended",
+    "open-handed",
+    "open-hearted",
+    "open-jaw fare",
+    "open-minded",
+    "open-mouthed",
+    "opencast",
+    "opener",
+    "openess",
+    "opening",
+    "openly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/open.mp3",
+  "local_sound_path": "sounds/open.mp3"
+}

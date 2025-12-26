@@ -1,0 +1,47 @@
+{
+  "word": "hire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "for hire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35309.png",
+      "local_image_path": "images/35309.png"
+    },
+    {
+      "pos": "n",
+      "example": "pay the hire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35310.png",
+      "local_image_path": "images/35310.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hire worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35308.png",
+      "local_image_path": "images/35308.png"
+    }
+  ],
+  "synonyms": [
+    "rental",
+    "rent",
+    "leasing",
+    "letting",
+    "lease",
+    "let",
+    "charter",
+    "engage",
+    "book"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hire land",
+    "hire-ling",
+    "hire-purchase",
+    "hireable",
+    "hireless",
+    "hirer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hire.mp3",
+  "local_sound_path": "sounds/hire.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "pointed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64603.png",
+      "local_image_path": "images/64603.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pointed stick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64604.png",
+      "local_image_path": "images/64604.png"
+    },
+    {
+      "pos": "adj",
+      "example": "pointed remark",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64605.png",
+      "local_image_path": "images/64605.png"
+    }
+  ],
+  "synonyms": [
+    "barbed",
+    "critical",
+    "meaningful",
+    "incisive",
+    "sharp",
+    "cutting",
+    "trenchant",
+    "trained"
+  ],
+  "antonyms": [
+    "dull",
+    "blunt",
+    "mild"
+  ],
+  "similar_words": [
+    "pointedly",
+    "pointedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pointed.mp3",
+  "local_sound_path": "sounds/pointed.mp3"
+}

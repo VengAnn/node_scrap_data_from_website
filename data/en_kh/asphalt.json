@@ -1,0 +1,32 @@
+{
+  "word": "asphalt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5815.png",
+      "local_image_path": "images/5815.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5816.png",
+      "local_image_path": "images/5816.png"
+    }
+  ],
+  "synonyms": [
+    "tarmac",
+    "tar",
+    "tarmacadam",
+    "bitumen"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "asphaltic",
+    "asphaltum"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/asphalt.mp3",
+  "local_sound_path": "sounds/asphalt.mp3"
+}

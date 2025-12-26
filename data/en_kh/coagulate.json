@@ -1,0 +1,35 @@
+{
+  "word": "coagulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15254.png",
+      "local_image_path": "images/15254.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15255.png",
+      "local_image_path": "images/15255.png"
+    }
+  ],
+  "synonyms": [
+    "clot",
+    "congeal",
+    "thicken",
+    "coalesce",
+    "set",
+    "gel",
+    "jell",
+    "cake"
+  ],
+  "antonyms": [
+    "thin"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coagulate.mp3",
+  "local_sound_path": "sounds/coagulate.mp3"
+}

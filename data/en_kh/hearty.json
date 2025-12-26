@@ -1,0 +1,36 @@
+{
+  "word": "hearty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "hearty welcome",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34305.png",
+      "local_image_path": "images/34305.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hearty laugh",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34306.png",
+      "local_image_path": "images/34306.png"
+    },
+    {
+      "pos": "adj",
+      "example": "hearty meal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34307.png",
+      "local_image_path": "images/34307.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34308.png",
+      "local_image_path": "images/34308.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hearty.mp3",
+  "local_sound_path": "sounds/hearty.mp3"
+}

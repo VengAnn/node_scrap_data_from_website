@@ -1,0 +1,65 @@
+{
+  "word": "sneak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82000.png",
+      "local_image_path": "images/82000.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82003.png",
+      "local_image_path": "images/82003.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a sneak",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82004.png",
+      "local_image_path": "images/82004.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82005.png",
+      "local_image_path": "images/82005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sneak a gun to a prisoner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82001.png",
+      "local_image_path": "images/82001.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sneak a cookie",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82002.png",
+      "local_image_path": "images/82002.png"
+    }
+  ],
+  "synonyms": [
+    "slip",
+    "steal",
+    "creep",
+    "slink",
+    "tiptoe",
+    "snitch"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sneak preview",
+    "sneak thief",
+    "sneaker",
+    "sneakers",
+    "sneaking",
+    "sneakingly",
+    "sneakingness",
+    "sneaksby",
+    "sneaky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sneak.mp3",
+  "local_sound_path": "sounds/sneak.mp3"
+}

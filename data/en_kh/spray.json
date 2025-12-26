@@ -1,0 +1,57 @@
+{
+  "word": "spray",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "water sprays",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83718.png",
+      "local_image_path": "images/83718.png"
+    },
+    {
+      "pos": "n",
+      "example": "ocean spray",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83719.png",
+      "local_image_path": "images/83719.png"
+    },
+    {
+      "pos": "n",
+      "example": "fly spray",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83720.png",
+      "local_image_path": "images/83720.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83721.png",
+      "local_image_path": "images/83721.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83717.png",
+      "local_image_path": "images/83717.png"
+    }
+  ],
+  "synonyms": [
+    "bunch",
+    "sprig",
+    "bouquet",
+    "stem",
+    "buttonhole",
+    "cover",
+    "drench",
+    "squirt",
+    "mist",
+    "dose",
+    "apply"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "spray gun",
+    "sprayer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spray.mp3",
+  "local_sound_path": "sounds/spray.mp3"
+}

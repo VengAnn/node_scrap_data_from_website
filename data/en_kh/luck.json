@@ -1,0 +1,51 @@
+{
+  "word": "luck",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47931.png",
+      "local_image_path": "images/47931.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47932.png",
+      "local_image_path": "images/47932.png"
+    }
+  ],
+  "synonyms": [
+    "good luck",
+    "fluke",
+    "godsend",
+    "windfall",
+    "blessing",
+    "break",
+    "chance",
+    "fate",
+    "fortune",
+    "destiny",
+    "providence",
+    "accident",
+    "coincidence",
+    "kismet"
+  ],
+  "antonyms": [
+    "misfortune"
+  ],
+  "similar_words": [
+    "luck out",
+    "lucken",
+    "luckful",
+    "luckily",
+    "luckiness",
+    "luckless",
+    "lucklessly",
+    "lucklessness",
+    "lucky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/luck.mp3",
+  "local_sound_path": "sounds/luck.mp3"
+}

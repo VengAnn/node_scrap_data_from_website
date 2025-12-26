@@ -1,0 +1,48 @@
+{
+  "word": "stable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "stable structure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84001.png",
+      "local_image_path": "images/84001.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84004.png",
+      "local_image_path": "images/84004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84005.png",
+      "local_image_path": "images/84005.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "gang",
+    "club",
+    "string",
+    "team",
+    "set"
+  ],
+  "antonyms": [
+    "unstable",
+    "unpredictable",
+    "changeable",
+    "erratic",
+    "instable"
+  ],
+  "similar_words": [
+    "stablely",
+    "stableman",
+    "stableness",
+    "stabler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stable.mp3",
+  "local_sound_path": "sounds/stable.mp3"
+}

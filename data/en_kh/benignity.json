@@ -1,0 +1,37 @@
+{
+  "word": "benignity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8310.png",
+      "local_image_path": "images/8310.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114921.png",
+      "local_image_path": "images/114921.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114922.png",
+      "local_image_path": "images/114922.png"
+    }
+  ],
+  "synonyms": [
+    "kindliness",
+    "gentleness",
+    "benevolence",
+    "compassion"
+  ],
+  "antonyms": [
+    "malice"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/benignity.mp3",
+  "local_sound_path": "sounds/benignity.mp3"
+}

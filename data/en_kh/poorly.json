@@ -1,0 +1,35 @@
+{
+  "word": "poorly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65128.png",
+      "local_image_path": "images/65128.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65127.png",
+      "local_image_path": "images/65127.png"
+    }
+  ],
+  "synonyms": [
+    "badly",
+    "inadequately",
+    "weakly",
+    "feebly",
+    "defectively",
+    "unsuccessfully",
+    "disappointingly"
+  ],
+  "antonyms": [
+    "well",
+    "healthy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poorly.mp3",
+  "local_sound_path": "sounds/poorly.mp3"
+}

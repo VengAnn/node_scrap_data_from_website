@@ -1,0 +1,31 @@
+{
+  "word": "harmonic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "harmonic tones",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33917.png",
+      "local_image_path": "images/33917.png"
+    },
+    {
+      "pos": "adj",
+      "example": "harmonic views",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33918.png",
+      "local_image_path": "images/33918.png"
+    }
+  ],
+  "synonyms": [
+    "vocal",
+    "choral"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "harmonica",
+    "harmonical",
+    "harmonically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harmonic.mp3",
+  "local_sound_path": "sounds/harmonic.mp3"
+}

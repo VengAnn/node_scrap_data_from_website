@@ -1,0 +1,35 @@
+{
+  "word": "thrive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Your business will thrive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89161.png",
+      "local_image_path": "images/89161.png"
+    },
+    {
+      "pos": "iv",
+      "example": "A business can not thrive without good management.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89162.png",
+      "local_image_path": "images/89162.png"
+    }
+  ],
+  "synonyms": [
+    "flourish",
+    "prosper",
+    "succeed",
+    "boom",
+    "bloom",
+    "blossom",
+    "increase"
+  ],
+  "antonyms": [
+    "deteriorate",
+    "fail"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thrive.mp3",
+  "local_sound_path": "sounds/thrive.mp3"
+}

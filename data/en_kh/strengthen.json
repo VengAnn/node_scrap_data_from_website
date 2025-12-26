@@ -1,0 +1,56 @@
+{
+  "word": "strengthen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "muscles will strengthen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85326.png",
+      "local_image_path": "images/85326.png"
+    },
+    {
+      "pos": "iv",
+      "example": "friendship will strengthen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85327.png",
+      "local_image_path": "images/85327.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strengthen a patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85323.png",
+      "local_image_path": "images/85323.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strengthen coffee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85324.png",
+      "local_image_path": "images/85324.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strengthen a relationship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85325.png",
+      "local_image_path": "images/85325.png"
+    }
+  ],
+  "synonyms": [
+    "increase",
+    "intensify",
+    "bolster",
+    "boost",
+    "improve",
+    "consolidate",
+    "support"
+  ],
+  "antonyms": [
+    "weaken",
+    "diminish"
+  ],
+  "similar_words": [
+    "strengthener",
+    "strengthening"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strengthen.mp3",
+  "local_sound_path": "sounds/strengthen.mp3"
+}

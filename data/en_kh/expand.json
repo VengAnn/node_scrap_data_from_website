@@ -1,0 +1,77 @@
+{
+  "word": "expand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Her face expanded in a smile of welcome.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26719.png",
+      "local_image_path": "images/26719.png"
+    },
+    {
+      "pos": "tv",
+      "example": "expand one's business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26716.png",
+      "local_image_path": "images/26716.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26717.png",
+      "local_image_path": "images/26717.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26718.png",
+      "local_image_path": "images/26718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119662.png",
+      "local_image_path": "images/119662.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119663.png",
+      "local_image_path": "images/119663.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119664.png",
+      "local_image_path": "images/119664.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119665.png",
+      "local_image_path": "images/119665.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119666.png",
+      "local_image_path": "images/119666.png"
+    }
+  ],
+  "synonyms": [
+    "enlarge",
+    "increase",
+    "develop",
+    "swell",
+    "inflate",
+    "grow",
+    "magnify",
+    "multiply"
+  ],
+  "antonyms": [
+    "contract"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expand.mp3",
+  "local_sound_path": "sounds/expand.mp3"
+}

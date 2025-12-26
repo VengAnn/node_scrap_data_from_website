@@ -1,0 +1,54 @@
+{
+  "word": "federation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27996.png",
+      "local_image_path": "images/27996.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120004.png",
+      "local_image_path": "images/120004.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120005.png",
+      "local_image_path": "images/120005.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120006.png",
+      "local_image_path": "images/120006.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120007.png",
+      "local_image_path": "images/120007.png"
+    }
+  ],
+  "synonyms": [
+    "alliance",
+    "coalition",
+    "confederation",
+    "confederacy",
+    "group",
+    "partnership",
+    "association",
+    "amalgamation",
+    "grouping",
+    "combination",
+    "union"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/federation.mp3",
+  "local_sound_path": "sounds/federation.mp3"
+}

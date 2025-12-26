@@ -1,0 +1,42 @@
+{
+  "word": "binge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8999.png",
+      "local_image_path": "images/8999.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115100.png",
+      "local_image_path": "images/115100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115101.png",
+      "local_image_path": "images/115101.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131197.png",
+      "local_image_path": "images/131197.png"
+    }
+  ],
+  "synonyms": [
+    "overdo",
+    "indulge",
+    "overindulge",
+    "gorge",
+    "splurge"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/binge.mp3",
+  "local_sound_path": "sounds/binge.mp3"
+}

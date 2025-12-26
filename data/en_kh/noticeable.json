@@ -1,0 +1,41 @@
+{
+  "word": "noticeable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "noticeable improvement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56420.png",
+      "local_image_path": "images/56420.png"
+    },
+    {
+      "pos": "adj",
+      "example": "noticeable change",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56421.png",
+      "local_image_path": "images/56421.png"
+    },
+    {
+      "pos": "adj",
+      "example": "noticeable defect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56422.png",
+      "local_image_path": "images/56422.png"
+    }
+  ],
+  "synonyms": [
+    "obvious",
+    "clear",
+    "visible",
+    "perceptible",
+    "conspicuous",
+    "evident",
+    "manifest",
+    "plain"
+  ],
+  "antonyms": [
+    "inconspicuous"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/noticeable.mp3",
+  "local_sound_path": "sounds/noticeable.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "idealist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37058.png",
+      "local_image_path": "images/37058.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121345.png",
+      "local_image_path": "images/121345.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121346.png",
+      "local_image_path": "images/121346.png"
+    }
+  ],
+  "synonyms": [
+    "romantic",
+    "optimist",
+    "perfectionist",
+    "fundamentalist",
+    "crusader",
+    "zealot",
+    "fanatic"
+  ],
+  "antonyms": [
+    "realist"
+  ],
+  "similar_words": [
+    "idealistic",
+    "idealistically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/idealist.mp3",
+  "local_sound_path": "sounds/idealist.mp3"
+}

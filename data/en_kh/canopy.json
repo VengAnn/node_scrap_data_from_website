@@ -1,0 +1,36 @@
+{
+  "word": "canopy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tent canopy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12717.png",
+      "local_image_path": "images/12717.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115923.png",
+      "local_image_path": "images/115923.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115924.png",
+      "local_image_path": "images/115924.png"
+    }
+  ],
+  "synonyms": [
+    "top",
+    "crown",
+    "roof",
+    "covering",
+    "cover"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/canopy.mp3",
+  "local_sound_path": "sounds/canopy.mp3"
+}

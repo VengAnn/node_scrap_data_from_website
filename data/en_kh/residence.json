@@ -1,0 +1,37 @@
+{
+  "word": "residence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72678.png",
+      "local_image_path": "images/72678.png"
+    },
+    {
+      "pos": "n",
+      "example": "Where is his residence?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72679.png",
+      "local_image_path": "images/72679.png"
+    },
+    {
+      "pos": "n",
+      "example": "during his residence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72680.png",
+      "local_image_path": "images/72680.png"
+    }
+  ],
+  "synonyms": [
+    "house",
+    "home",
+    "dwelling",
+    "abode",
+    "seat",
+    "habitation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/residence.mp3",
+  "local_sound_path": "sounds/residence.mp3"
+}

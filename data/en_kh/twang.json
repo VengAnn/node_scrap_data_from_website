@@ -1,0 +1,37 @@
+{
+  "word": "twang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92597.png",
+      "local_image_path": "images/92597.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92595.png",
+      "local_image_path": "images/92595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92596.png",
+      "local_image_path": "images/92596.png"
+    }
+  ],
+  "synonyms": [
+    "plunk",
+    "strum",
+    "play"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "twangle",
+    "twangy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twang.mp3",
+  "local_sound_path": "sounds/twang.mp3"
+}

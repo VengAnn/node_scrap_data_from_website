@@ -1,0 +1,47 @@
+{
+  "word": "alienation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "alienation of affections",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3369.png",
+      "local_image_path": "images/3369.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112367.png",
+      "local_image_path": "images/112367.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112368.png",
+      "local_image_path": "images/112368.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112369.png",
+      "local_image_path": "images/112369.png"
+    }
+  ],
+  "synonyms": [
+    "estrangement",
+    "disaffection",
+    "unfriendliness",
+    "hostility",
+    "isolation",
+    "separation",
+    "division",
+    "dissension"
+  ],
+  "antonyms": [
+    "closeness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alienation.mp3",
+  "local_sound_path": "sounds/alienation.mp3"
+}

@@ -1,0 +1,110 @@
+{
+  "word": "box",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "box office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10448.png",
+      "local_image_path": "images/10448.png"
+    },
+    {
+      "pos": "iv",
+      "example": "she always boxes with them",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10450.png",
+      "local_image_path": "images/10450.png"
+    },
+    {
+      "pos": "n",
+      "example": "treater box",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10446.png",
+      "local_image_path": "images/10446.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10451.png",
+      "local_image_path": "images/10451.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115499.png",
+      "local_image_path": "images/115499.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115500.png",
+      "local_image_path": "images/115500.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115501.png",
+      "local_image_path": "images/115501.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115502.png",
+      "local_image_path": "images/115502.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115503.png",
+      "local_image_path": "images/115503.png"
+    },
+    {
+      "pos": "tv",
+      "example": "box candy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10447.png",
+      "local_image_path": "images/10447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "box an opponent",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10449.png",
+      "local_image_path": "images/10449.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115504.png",
+      "local_image_path": "images/115504.png"
+    }
+  ],
+  "synonyms": [
+    "pack",
+    "package",
+    "sachet",
+    "container",
+    "carton",
+    "envelope",
+    "fight",
+    "spar",
+    "punch",
+    "hit",
+    "thump"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "box lunch",
+    "box office",
+    "box seat",
+    "box stall",
+    "box thorn",
+    "boxcar",
+    "boxer",
+    "boxer shorts",
+    "boxiness",
+    "boxing",
+    "Boxing Day",
+    "boxing glove",
+    "boxy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/box.mp3",
+  "local_sound_path": "sounds/box.mp3"
+}

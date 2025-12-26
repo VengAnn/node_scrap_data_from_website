@@ -1,0 +1,37 @@
+{
+  "word": "gangway",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "interj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31003.png",
+      "local_image_path": "images/31003.png"
+    },
+    {
+      "pos": "n",
+      "example": "ship's gangway",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31001.png",
+      "local_image_path": "images/31001.png"
+    },
+    {
+      "pos": "n",
+      "example": "have no gangway",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31002.png",
+      "local_image_path": "images/31002.png"
+    }
+  ],
+  "synonyms": [
+    "walkway",
+    "gangplank",
+    "passage",
+    "aisle",
+    "footway",
+    "corridor"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gangway.mp3",
+  "local_sound_path": "sounds/gangway.mp3"
+}

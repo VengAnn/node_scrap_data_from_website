@@ -1,0 +1,44 @@
+{
+  "word": "crease",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18463.png",
+      "local_image_path": "images/18463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to crease plant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18464.png",
+      "local_image_path": "images/18464.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Her jokes really creased me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18465.png",
+      "local_image_path": "images/18465.png"
+    }
+  ],
+  "synonyms": [
+    "crinkle",
+    "crumple",
+    "wrinkle",
+    "rumple",
+    "fold",
+    "pleat",
+    "tuck",
+    "gather"
+  ],
+  "antonyms": [
+    "smooth"
+  ],
+  "similar_words": [
+    "creaseless",
+    "creaser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crease.mp3",
+  "local_sound_path": "sounds/crease.mp3"
+}

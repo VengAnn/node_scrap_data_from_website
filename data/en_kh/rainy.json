@@ -1,0 +1,28 @@
+{
+  "word": "rainy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rainy wealther",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70010.png",
+      "local_image_path": "images/70010.png"
+    }
+  ],
+  "synonyms": [
+    "wet",
+    "raining",
+    "showery",
+    "drizzly",
+    "damp",
+    "pouring",
+    "inclement"
+  ],
+  "antonyms": [
+    "dry"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rainy.mp3",
+  "local_sound_path": "sounds/rainy.mp3"
+}

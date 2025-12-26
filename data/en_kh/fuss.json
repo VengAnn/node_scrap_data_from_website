@@ -1,0 +1,57 @@
+{
+  "word": "fuss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "fuss over details",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30751.png",
+      "local_image_path": "images/30751.png"
+    },
+    {
+      "pos": "iv",
+      "example": "fuss over a toy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30752.png",
+      "local_image_path": "images/30752.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120540.png",
+      "local_image_path": "images/120540.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30748.png",
+      "local_image_path": "images/30748.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a fuss about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30749.png",
+      "local_image_path": "images/30749.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a fuss",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30750.png",
+      "local_image_path": "images/30750.png"
+    }
+  ],
+  "synonyms": [
+    "fret",
+    "worry",
+    "nag",
+    "bustle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fussily",
+    "fussiness",
+    "fussy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fuss.mp3",
+  "local_sound_path": "sounds/fuss.mp3"
+}

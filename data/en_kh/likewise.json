@@ -1,0 +1,32 @@
+{
+  "word": "likewise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46559.png",
+      "local_image_path": "images/46559.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46560.png",
+      "local_image_path": "images/46560.png"
+    }
+  ],
+  "synonyms": [
+    "similarly",
+    "equally",
+    "also",
+    "too"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "likewisely",
+    "likewiseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/likewise.mp3",
+  "local_sound_path": "sounds/likewise.mp3"
+}

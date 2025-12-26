@@ -1,0 +1,42 @@
+{
+  "word": "blackguard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9286.png",
+      "local_image_path": "images/9286.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9287.png",
+      "local_image_path": "images/9287.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115135.png",
+      "local_image_path": "images/115135.png"
+    }
+  ],
+  "synonyms": [
+    "scoundrel",
+    "rascal",
+    "rogue",
+    "villain",
+    "wretch",
+    "rotter",
+    "cad"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blackguardingly",
+    "blackguardism",
+    "blackguardly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blackguard.mp3",
+  "local_sound_path": "sounds/blackguard.mp3"
+}

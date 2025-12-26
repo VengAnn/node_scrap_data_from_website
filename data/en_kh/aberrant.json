@@ -1,0 +1,49 @@
+{
+  "word": "aberrant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1380.png",
+      "local_image_path": "images/1380.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111870.png",
+      "local_image_path": "images/111870.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111871.png",
+      "local_image_path": "images/111871.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1381.png",
+      "local_image_path": "images/1381.png"
+    }
+  ],
+  "synonyms": [
+    "abnormal",
+    "unusual",
+    "deviant",
+    "anomalous",
+    "peculiar",
+    "uncharacteristic",
+    "irregular",
+    "atypical",
+    "eccentric",
+    "odd"
+  ],
+  "antonyms": [
+    "normal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aberrant.mp3",
+  "local_sound_path": "sounds/aberrant.mp3"
+}

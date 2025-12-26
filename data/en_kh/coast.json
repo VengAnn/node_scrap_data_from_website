@@ -1,0 +1,59 @@
+{
+  "word": "coast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "coast down a hill to save petrol",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15288.png",
+      "local_image_path": "images/15288.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130106.png",
+      "local_image_path": "images/130106.png"
+    },
+    {
+      "pos": "n",
+      "example": "sea coast",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15287.png",
+      "local_image_path": "images/15287.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15289.png",
+      "local_image_path": "images/15289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116579.png",
+      "local_image_path": "images/116579.png"
+    }
+  ],
+  "synonyms": [
+    "glide",
+    "cruise",
+    "drift",
+    "sail",
+    "breeze",
+    "slide"
+  ],
+  "antonyms": [
+    "interior",
+    "struggle"
+  ],
+  "similar_words": [
+    "coast guard",
+    "coastal",
+    "coaster",
+    "coasting",
+    "coasting-trade",
+    "coastline"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coast.mp3",
+  "local_sound_path": "sounds/coast.mp3"
+}

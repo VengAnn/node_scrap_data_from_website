@@ -1,0 +1,39 @@
+{
+  "word": "always",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "I don't always drink this mumch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3718.png",
+      "local_image_path": "images/3718.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113610.png",
+      "local_image_path": "images/113610.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113611.png",
+      "local_image_path": "images/113611.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113612.png",
+      "local_image_path": "images/113612.png"
+    }
+  ],
+  "synonyms": [
+    "forever",
+    "eternally"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/always.mp3",
+  "local_sound_path": "sounds/always.mp3"
+}

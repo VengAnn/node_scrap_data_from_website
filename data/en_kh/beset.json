@@ -1,0 +1,46 @@
+{
+  "word": "beset",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "the problem is beset with difficulties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8390.png",
+      "local_image_path": "images/8390.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114945.png",
+      "local_image_path": "images/114945.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114946.png",
+      "local_image_path": "images/114946.png"
+    }
+  ],
+  "synonyms": [
+    "beleaguered",
+    "surround",
+    "overcome",
+    "overwhelm",
+    "harass",
+    "plague",
+    "hamper",
+    "trouble",
+    "troubled"
+  ],
+  "antonyms": [
+    "free",
+    "support"
+  ],
+  "similar_words": [
+    "besetment",
+    "besetting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beset.mp3",
+  "local_sound_path": "sounds/beset.mp3"
+}

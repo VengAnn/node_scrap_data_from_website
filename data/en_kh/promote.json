@@ -1,0 +1,68 @@
+{
+  "word": "promote",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67650.png",
+      "local_image_path": "images/67650.png"
+    },
+    {
+      "pos": "tv",
+      "example": "promote a soldier",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67651.png",
+      "local_image_path": "images/67651.png"
+    },
+    {
+      "pos": "tv",
+      "example": "promote a student",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67652.png",
+      "local_image_path": "images/67652.png"
+    },
+    {
+      "pos": "tv",
+      "example": "promote a product",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67653.png",
+      "local_image_path": "images/67653.png"
+    },
+    {
+      "pos": "tv",
+      "example": "promote good health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67654.png",
+      "local_image_path": "images/67654.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67655.png",
+      "local_image_path": "images/67655.png"
+    }
+  ],
+  "synonyms": [
+    "advertise",
+    "campaign",
+    "stage",
+    "disseminate",
+    "advocate",
+    "publicize",
+    "market",
+    "advance",
+    "further",
+    "raise",
+    "upgrade",
+    "elevate"
+  ],
+  "antonyms": [
+    "suppress",
+    "defame",
+    "prevent",
+    "demote"
+  ],
+  "similar_words": [
+    "promoter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/promote.mp3",
+  "local_sound_path": "sounds/promote.mp3"
+}

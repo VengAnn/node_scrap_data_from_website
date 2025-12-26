@@ -1,0 +1,30 @@
+{
+  "word": "omnibus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57537.png",
+      "local_image_path": "images/57537.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57535.png",
+      "local_image_path": "images/57535.png"
+    }
+  ],
+  "synonyms": [
+    "compilation",
+    "collection",
+    "anthology",
+    "edition",
+    "album"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/omnibus.mp3",
+  "local_sound_path": "sounds/omnibus.mp3"
+}

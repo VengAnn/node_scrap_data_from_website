@@ -1,0 +1,33 @@
+{
+  "word": "various",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "various articles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97302.png",
+      "local_image_path": "images/97302.png"
+    }
+  ],
+  "synonyms": [
+    "numerous",
+    "many",
+    "several",
+    "countless",
+    "innumerable",
+    "different",
+    "diverse",
+    "assorted"
+  ],
+  "antonyms": [
+    "same",
+    "few"
+  ],
+  "similar_words": [
+    "variously",
+    "variousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/various.mp3",
+  "local_sound_path": "sounds/various.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "lovely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "lovely girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47787.png",
+      "local_image_path": "images/47787.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lovely afternoon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47788.png",
+      "local_image_path": "images/47788.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lovely time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47789.png",
+      "local_image_path": "images/47789.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123668.png",
+      "local_image_path": "images/123668.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123669.png",
+      "local_image_path": "images/123669.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123670.png",
+      "local_image_path": "images/123670.png"
+    }
+  ],
+  "synonyms": [
+    "pleasant",
+    "agreeable",
+    "wonderful",
+    "delightful",
+    "fine",
+    "perfect",
+    "superb",
+    "nice",
+    "good",
+    "splendid"
+  ],
+  "antonyms": [
+    "ugly",
+    "unpleasant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lovely.mp3",
+  "local_sound_path": "sounds/lovely.mp3"
+}

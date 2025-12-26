@@ -1,0 +1,33 @@
+{
+  "word": "obey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "obey an order",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56836.png",
+      "local_image_path": "images/56836.png"
+    },
+    {
+      "pos": "tv",
+      "example": "obey one's parents",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56837.png",
+      "local_image_path": "images/56837.png"
+    }
+  ],
+  "synonyms": [
+    "mind",
+    "follow",
+    "observe",
+    "abide by",
+    "conform",
+    "submit"
+  ],
+  "antonyms": [
+    "disobey"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/obey.mp3",
+  "local_sound_path": "sounds/obey.mp3"
+}

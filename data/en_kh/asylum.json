@@ -1,0 +1,48 @@
+{
+  "word": "asylum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "political asylum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6106.png",
+      "local_image_path": "images/6106.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112834.png",
+      "local_image_path": "images/112834.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112835.png",
+      "local_image_path": "images/112835.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112836.png",
+      "local_image_path": "images/112836.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112837.png",
+      "local_image_path": "images/112837.png"
+    }
+  ],
+  "synonyms": [
+    "protection",
+    "refuge",
+    "sanctuary",
+    "shelter",
+    "safety"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/asylum.mp3",
+  "local_sound_path": "sounds/asylum.mp3"
+}

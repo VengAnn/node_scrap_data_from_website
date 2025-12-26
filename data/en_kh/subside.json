@@ -1,0 +1,43 @@
+{
+  "word": "subside",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "pains subside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85858.png",
+      "local_image_path": "images/85858.png"
+    },
+    {
+      "pos": "iv",
+      "example": "houses subside",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85859.png",
+      "local_image_path": "images/85859.png"
+    }
+  ],
+  "synonyms": [
+    "abate",
+    "recede",
+    "decrease",
+    "diminish",
+    "dwindle",
+    "collapse",
+    "drop",
+    "sink",
+    "settle",
+    "descend",
+    "sag",
+    "slip",
+    "dip"
+  ],
+  "antonyms": [
+    "build up",
+    "rise"
+  ],
+  "similar_words": [
+    "subsidence"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subside.mp3",
+  "local_sound_path": "sounds/subside.mp3"
+}

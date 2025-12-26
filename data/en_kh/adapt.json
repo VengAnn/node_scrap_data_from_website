@@ -1,0 +1,50 @@
+{
+  "word": "adapt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "When you go to a foreign country, you must adapt yourself to new manners and customs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2293.png",
+      "local_image_path": "images/2293.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2294.png",
+      "local_image_path": "images/2294.png"
+    }
+  ],
+  "synonyms": [
+    "change",
+    "alter",
+    "modify",
+    "adjust",
+    "vary",
+    "revise",
+    "amend",
+    "bend",
+    "fit",
+    "rework"
+  ],
+  "antonyms": [
+    "leave"
+  ],
+  "similar_words": [
+    "adaptability",
+    "adaptable",
+    "adaptableness",
+    "adaptably",
+    "adaptation",
+    "adaptational",
+    "adaptationally",
+    "adapter",
+    "adaptive",
+    "adaptively",
+    "adaptiveness",
+    "adaptor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adapt.mp3",
+  "local_sound_path": "sounds/adapt.mp3"
+}

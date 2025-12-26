@@ -1,0 +1,39 @@
+{
+  "word": "auxiliary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "auxiliary troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6647.png",
+      "local_image_path": "images/6647.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114301.png",
+      "local_image_path": "images/114301.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6648.png",
+      "local_image_path": "images/6648.png"
+    }
+  ],
+  "synonyms": [
+    "supplementary",
+    "secondary",
+    "support",
+    "supporting",
+    "ancillary",
+    "back-up"
+  ],
+  "antonyms": [
+    "main"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/auxiliary.mp3",
+  "local_sound_path": "sounds/auxiliary.mp3"
+}

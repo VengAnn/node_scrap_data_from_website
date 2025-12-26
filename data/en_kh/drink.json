@@ -1,0 +1,46 @@
+{
+  "word": "drink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23157.png",
+      "local_image_path": "images/23157.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Don't drink and drive.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23155.png",
+      "local_image_path": "images/23155.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drink water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23156.png",
+      "local_image_path": "images/23156.png"
+    }
+  ],
+  "synonyms": [
+    "mouthful",
+    "taste",
+    "gulp",
+    "swallow",
+    "swig",
+    "slurp",
+    "sip",
+    "draft",
+    "imbibe",
+    "down"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "drinkable",
+    "drinker",
+    "drinking",
+    "drinking fountain"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drink.mp3",
+  "local_sound_path": "sounds/drink.mp3"
+}

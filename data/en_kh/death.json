@@ -1,0 +1,81 @@
+{
+  "word": "death",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "fear death",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19827.png",
+      "local_image_path": "images/19827.png"
+    },
+    {
+      "pos": "n",
+      "example": "death of one's hopes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19828.png",
+      "local_image_path": "images/19828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117784.png",
+      "local_image_path": "images/117784.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117785.png",
+      "local_image_path": "images/117785.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117786.png",
+      "local_image_path": "images/117786.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117787.png",
+      "local_image_path": "images/117787.png"
+    }
+  ],
+  "synonyms": [
+    "end",
+    "fall",
+    "downfall",
+    "ruin",
+    "demise",
+    "collapse",
+    "overthrow"
+  ],
+  "antonyms": [
+    "birth",
+    "beginning"
+  ],
+  "similar_words": [
+    "death bed",
+    "death benefit",
+    "death camp",
+    "death certificate",
+    "death row",
+    "death squad",
+    "death's head",
+    "death-blow",
+    "death-duties",
+    "death-hymn",
+    "death-pale",
+    "death-penalty",
+    "death-rate",
+    "death-rattle",
+    "death-warrant",
+    "deathless",
+    "deathlessly",
+    "deathlessness",
+    "deathlike",
+    "deathly",
+    "deathtrap"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/death.mp3",
+  "local_sound_path": "sounds/death.mp3"
+}

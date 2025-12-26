@@ -1,0 +1,36 @@
+{
+  "word": "pollution",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "pollution of the air",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64827.png",
+      "local_image_path": "images/64827.png"
+    },
+    {
+      "pos": "n",
+      "example": "clean up pollution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64828.png",
+      "local_image_path": "images/64828.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131616.png",
+      "local_image_path": "images/131616.png"
+    }
+  ],
+  "synonyms": [
+    "contamination",
+    "effluence",
+    "smog",
+    "litter",
+    "trash"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pollution.mp3",
+  "local_sound_path": "sounds/pollution.mp3"
+}

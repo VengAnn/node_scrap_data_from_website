@@ -1,0 +1,56 @@
+{
+  "word": "oblique",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "oblique angle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56902.png",
+      "local_image_path": "images/56902.png"
+    },
+    {
+      "pos": "adj",
+      "example": "oblique reference",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56903.png",
+      "local_image_path": "images/56903.png"
+    },
+    {
+      "pos": "adj",
+      "example": "oblique answer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56904.png",
+      "local_image_path": "images/56904.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56906.png",
+      "local_image_path": "images/56906.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56905.png",
+      "local_image_path": "images/56905.png"
+    }
+  ],
+  "synonyms": [
+    "indirect",
+    "sideways",
+    "implicit",
+    "roundabout",
+    "circuitous",
+    "implied",
+    "backhanded"
+  ],
+  "antonyms": [
+    "upright",
+    "direct"
+  ],
+  "similar_words": [
+    "obliquely",
+    "obliqueness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oblique.mp3",
+  "local_sound_path": "sounds/oblique.mp3"
+}

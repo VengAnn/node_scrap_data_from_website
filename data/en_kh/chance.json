@@ -1,0 +1,76 @@
+{
+  "word": "chance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "chance meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13770.png",
+      "local_image_path": "images/13770.png"
+    },
+    {
+      "pos": "iv",
+      "example": "chance on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13768.png",
+      "local_image_path": "images/13768.png"
+    },
+    {
+      "pos": "n",
+      "example": "you have no chance to see her again",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13767.png",
+      "local_image_path": "images/13767.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130982.png",
+      "local_image_path": "images/130982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131193.png",
+      "local_image_path": "images/131193.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131194.png",
+      "local_image_path": "images/131194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I don't want to chance it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13769.png",
+      "local_image_path": "images/13769.png"
+    }
+  ],
+  "synonyms": [
+    "accidental",
+    "casual",
+    "fortuitous",
+    "unplanned",
+    "risk",
+    "hazard",
+    "gamble",
+    "try",
+    "attempt",
+    "venture"
+  ],
+  "antonyms": [
+    "planned"
+  ],
+  "similar_words": [
+    "chance-medley",
+    "chance-met",
+    "chanceful",
+    "chancel",
+    "chancellery",
+    "chancellor",
+    "chancellorship",
+    "chancery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chance.mp3",
+  "local_sound_path": "sounds/chance.mp3"
+}

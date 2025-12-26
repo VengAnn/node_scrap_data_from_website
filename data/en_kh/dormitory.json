@@ -1,0 +1,34 @@
+{
+  "word": "dormitory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22771.png",
+      "local_image_path": "images/22771.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22772.png",
+      "local_image_path": "images/22772.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118744.png",
+      "local_image_path": "images/118744.png"
+    }
+  ],
+  "synonyms": [
+    "hall",
+    "dorm",
+    "residence"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dormitory.mp3",
+  "local_sound_path": "sounds/dormitory.mp3"
+}

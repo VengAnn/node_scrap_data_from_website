@@ -1,0 +1,29 @@
+{
+  "word": "arrange",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "arrange a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5555.png",
+      "local_image_path": "images/5555.png"
+    }
+  ],
+  "synonyms": [
+    "organize",
+    "coordinate",
+    "fix",
+    "plan",
+    "orchestrate"
+  ],
+  "antonyms": [
+    "disarrange"
+  ],
+  "similar_words": [
+    "arrangement",
+    "arranger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arrange.mp3",
+  "local_sound_path": "sounds/arrange.mp3"
+}

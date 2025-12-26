@@ -1,0 +1,42 @@
+{
+  "word": "cutthroat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "cutthroat criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19331.png",
+      "local_image_path": "images/19331.png"
+    },
+    {
+      "pos": "adj",
+      "example": "cutthroat competition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19332.png",
+      "local_image_path": "images/19332.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19330.png",
+      "local_image_path": "images/19330.png"
+    }
+  ],
+  "synonyms": [
+    "competitive",
+    "aggressive",
+    "ruthless",
+    "merciless",
+    "pitiless",
+    "unsparing",
+    "fierce",
+    "cruel",
+    "callous"
+  ],
+  "antonyms": [
+    "merciful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cutthroat.mp3",
+  "local_sound_path": "sounds/cutthroat.mp3"
+}

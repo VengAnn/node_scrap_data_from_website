@@ -1,0 +1,60 @@
+{
+  "word": "cup",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "coffee cup",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19092.png",
+      "local_image_path": "images/19092.png"
+    },
+    {
+      "pos": "n",
+      "example": "She wins the cup every year.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19093.png",
+      "local_image_path": "images/19093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cup water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19094.png",
+      "local_image_path": "images/19094.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cup the hands",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19095.png",
+      "local_image_path": "images/19095.png"
+    }
+  ],
+  "synonyms": [
+    "trophy",
+    "prize",
+    "chalice",
+    "goblet"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cupbearer",
+    "cupboard",
+    "cupcake",
+    "cupel",
+    "cupeler",
+    "cupellation",
+    "cupful",
+    "cupid",
+    "cupidity",
+    "cupola",
+    "cuppa",
+    "cupreous",
+    "cupric",
+    "cupriferous",
+    "cuprite",
+    "cupronickel",
+    "cuprous",
+    "cupulate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cup.mp3",
+  "local_sound_path": "sounds/cup.mp3"
+}

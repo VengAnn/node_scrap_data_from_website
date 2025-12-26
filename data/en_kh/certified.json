@@ -1,0 +1,43 @@
+{
+  "word": "certified",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "certified accountant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13668.png",
+      "local_image_path": "images/13668.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116125.png",
+      "local_image_path": "images/116125.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116126.png",
+      "local_image_path": "images/116126.png"
+    }
+  ],
+  "synonyms": [
+    "expert",
+    "specialized",
+    "qualified",
+    "proficient",
+    "skilled",
+    "trained",
+    "practiced",
+    "confirmed",
+    "stated"
+  ],
+  "antonyms": [
+    "amateur",
+    "informal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/certified.mp3",
+  "local_sound_path": "sounds/certified.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "scourge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the scourge of war",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76976.png",
+      "local_image_path": "images/76976.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127552.png",
+      "local_image_path": "images/127552.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76977.png",
+      "local_image_path": "images/76977.png"
+    }
+  ],
+  "synonyms": [
+    "plague",
+    "curse",
+    "afflict",
+    "terrorize",
+    "torment",
+    "devastate"
+  ],
+  "antonyms": [
+    "blessing",
+    "bless"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scourge.mp3",
+  "local_sound_path": "sounds/scourge.mp3"
+}

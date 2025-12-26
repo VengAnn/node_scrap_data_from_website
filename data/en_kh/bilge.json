@@ -1,0 +1,35 @@
+{
+  "word": "bilge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ship's bilge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8882.png",
+      "local_image_path": "images/8882.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8883.png",
+      "local_image_path": "images/8883.png"
+    }
+  ],
+  "synonyms": [
+    "sludge",
+    "mud",
+    "silt",
+    "effluent",
+    "swill",
+    "sewage",
+    "bilge water"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bilge keel",
+    "bilge water"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bilge.mp3",
+  "local_sound_path": "sounds/bilge.mp3"
+}

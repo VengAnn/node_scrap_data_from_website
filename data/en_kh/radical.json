@@ -1,0 +1,51 @@
+{
+  "word": "radical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "radical opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69831.png",
+      "local_image_path": "images/69831.png"
+    },
+    {
+      "pos": "adj",
+      "example": "radical change",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69832.png",
+      "local_image_path": "images/69832.png"
+    },
+    {
+      "pos": "adj",
+      "example": "radical party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69833.png",
+      "local_image_path": "images/69833.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a radical",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69834.png",
+      "local_image_path": "images/69834.png"
+    }
+  ],
+  "synonyms": [
+    "extremist",
+    "activist",
+    "militant",
+    "revolutionary",
+    "fanatic"
+  ],
+  "antonyms": [
+    "minor",
+    "conservative"
+  ],
+  "similar_words": [
+    "radicalism",
+    "radicalization",
+    "radicalize",
+    "radically",
+    "radicalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/radical.mp3",
+  "local_sound_path": "sounds/radical.mp3"
+}

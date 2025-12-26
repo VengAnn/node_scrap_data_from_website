@@ -1,0 +1,63 @@
+{
+  "word": "facility",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "This girl has great facility in learning languages.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27295.png",
+      "local_image_path": "images/27295.png"
+    },
+    {
+      "pos": "n",
+      "example": "transportation facility",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27296.png",
+      "local_image_path": "images/27296.png"
+    },
+    {
+      "pos": "n",
+      "example": "have a great facility for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27297.png",
+      "local_image_path": "images/27297.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119811.png",
+      "local_image_path": "images/119811.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119812.png",
+      "local_image_path": "images/119812.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131763.png",
+      "local_image_path": "images/131763.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132607.png",
+      "local_image_path": "images/132607.png"
+    }
+  ],
+  "synonyms": [
+    "service",
+    "provision",
+    "resource",
+    "feature",
+    "advantage",
+    "means"
+  ],
+  "antonyms": [
+    "inability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/facility.mp3",
+  "local_sound_path": "sounds/facility.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "curb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "street curb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19132.png",
+      "local_image_path": "images/19132.png"
+    },
+    {
+      "pos": "n",
+      "example": "horse's curb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19133.png",
+      "local_image_path": "images/19133.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19134.png",
+      "local_image_path": "images/19134.png"
+    },
+    {
+      "pos": "n",
+      "example": "curb one's desires",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19136.png",
+      "local_image_path": "images/19136.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19135.png",
+      "local_image_path": "images/19135.png"
+    }
+  ],
+  "synonyms": [
+    "control",
+    "limit",
+    "restriction",
+    "restraint",
+    "check",
+    "verge",
+    "edge",
+    "wayside",
+    "pavement"
+  ],
+  "antonyms": [
+    "promote"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curb.mp3",
+  "local_sound_path": "sounds/curb.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "oath",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take an oat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56805.png",
+      "local_image_path": "images/56805.png"
+    },
+    {
+      "pos": "n",
+      "example": "utter an oath",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56806.png",
+      "local_image_path": "images/56806.png"
+    }
+  ],
+  "synonyms": [
+    "curse",
+    "expletive",
+    "imprecation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "oath bound",
+    "oath of allegiance",
+    "oath-breaking"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oath.mp3",
+  "local_sound_path": "sounds/oath.mp3"
+}

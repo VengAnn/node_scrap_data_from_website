@@ -1,0 +1,41 @@
+{
+  "word": "admonition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2480.png",
+      "local_image_path": "images/2480.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113306.png",
+      "local_image_path": "images/113306.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113307.png",
+      "local_image_path": "images/113307.png"
+    }
+  ],
+  "synonyms": [
+    "caution",
+    "warning",
+    "reprimand",
+    "rebuke",
+    "reproach",
+    "scolding",
+    "talking-to",
+    "admonishment"
+  ],
+  "antonyms": [
+    "approval"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/admonition.mp3",
+  "local_sound_path": "sounds/admonition.mp3"
+}

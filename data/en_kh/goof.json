@@ -1,0 +1,41 @@
+{
+  "word": "goof",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "goof up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32338.png",
+      "local_image_path": "images/32338.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a goof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32336.png",
+      "local_image_path": "images/32336.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a goof",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32337.png",
+      "local_image_path": "images/32337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32339.png",
+      "local_image_path": "images/32339.png"
+    }
+  ],
+  "synonyms": [
+    "err",
+    "botch",
+    "bungle",
+    "muddle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/goof.mp3",
+  "local_sound_path": "sounds/goof.mp3"
+}

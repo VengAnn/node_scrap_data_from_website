@@ -1,0 +1,27 @@
+{
+  "word": "calf",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "made of calf",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12398.png",
+      "local_image_path": "images/12398.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131264.png",
+      "local_image_path": "images/131264.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "calf's-foot jelly",
+    "calfskin"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/calf.mp3",
+  "local_sound_path": "sounds/calf.mp3"
+}

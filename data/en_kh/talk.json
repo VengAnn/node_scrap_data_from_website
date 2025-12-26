@@ -1,0 +1,81 @@
+{
+  "word": "talk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "What are they talking about?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87360.png",
+      "local_image_path": "images/87360.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The two parties want to talk soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87361.png",
+      "local_image_path": "images/87361.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The president will talk tonight.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87362.png",
+      "local_image_path": "images/87362.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87365.png",
+      "local_image_path": "images/87365.png"
+    },
+    {
+      "pos": "n",
+      "example": "That's just talk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87366.png",
+      "local_image_path": "images/87366.png"
+    },
+    {
+      "pos": "tv",
+      "example": "talk nonsense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87363.png",
+      "local_image_path": "images/87363.png"
+    },
+    {
+      "pos": "tv",
+      "example": "talk politics",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87364.png",
+      "local_image_path": "images/87364.png"
+    }
+  ],
+  "synonyms": [
+    "language",
+    "jargon",
+    "speech",
+    "dialect",
+    "slang",
+    "confess",
+    "betray",
+    "rat",
+    "inform",
+    "crack",
+    "tell",
+    "squeal",
+    "break",
+    "sing"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "talk-talk",
+    "talkathon",
+    "talkative",
+    "talkatively",
+    "talkativeness",
+    "talker",
+    "talkie",
+    "talking",
+    "talking-point",
+    "talking-to",
+    "talky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/talk.mp3",
+  "local_sound_path": "sounds/talk.mp3"
+}

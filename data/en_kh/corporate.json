@@ -1,0 +1,59 @@
+{
+  "word": "corporate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "corporate responsibility",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17787.png",
+      "local_image_path": "images/17787.png"
+    },
+    {
+      "pos": "adj",
+      "example": "corporate tax",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17788.png",
+      "local_image_path": "images/17788.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117604.png",
+      "local_image_path": "images/117604.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117605.png",
+      "local_image_path": "images/117605.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117606.png",
+      "local_image_path": "images/117606.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117607.png",
+      "local_image_path": "images/117607.png"
+    }
+  ],
+  "synonyms": [
+    "communal",
+    "group",
+    "community",
+    "mutual",
+    "joint"
+  ],
+  "antonyms": [
+    "individual"
+  ],
+  "similar_words": [
+    "corporate rate",
+    "corporatewear"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corporate.mp3",
+  "local_sound_path": "sounds/corporate.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "beaker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7844.png",
+      "local_image_path": "images/7844.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7845.png",
+      "local_image_path": "images/7845.png"
+    }
+  ],
+  "synonyms": [
+    "cup",
+    "glass",
+    "mug",
+    "tumbler"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beaker.mp3",
+  "local_sound_path": "sounds/beaker.mp3"
+}

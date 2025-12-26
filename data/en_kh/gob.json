@@ -1,0 +1,60 @@
+{
+  "word": "gob",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32154.png",
+      "local_image_path": "images/32154.png"
+    },
+    {
+      "pos": "n (sl)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32155.png",
+      "local_image_path": "images/32155.png"
+    },
+    {
+      "pos": "n (sl)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32156.png",
+      "local_image_path": "images/32156.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32153.png",
+      "local_image_path": "images/32153.png"
+    }
+  ],
+  "synonyms": [
+    "pile",
+    "roll",
+    "bundle",
+    "sheaf",
+    "stack",
+    "clump",
+    "chunk",
+    "spit",
+    "expectorate",
+    "splutter",
+    "hawk",
+    "expel"
+  ],
+  "antonyms": [
+    "swallow"
+  ],
+  "similar_words": [
+    "gobbet",
+    "gobble",
+    "gobbledegook",
+    "gobbledygook",
+    "gobbler",
+    "goblet",
+    "goblin",
+    "goby"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gob.mp3",
+  "local_sound_path": "sounds/gob.mp3"
+}

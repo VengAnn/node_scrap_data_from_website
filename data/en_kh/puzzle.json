@@ -1,0 +1,67 @@
+{
+  "word": "puzzle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "puzzle about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69184.png",
+      "local_image_path": "images/69184.png"
+    },
+    {
+      "pos": "n",
+      "example": "mechanical puzzle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69179.png",
+      "local_image_path": "images/69179.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69180.png",
+      "local_image_path": "images/69180.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69181.png",
+      "local_image_path": "images/69181.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His actions puzzle me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69182.png",
+      "local_image_path": "images/69182.png"
+    },
+    {
+      "pos": "tv",
+      "example": "puzzle out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69183.png",
+      "local_image_path": "images/69183.png"
+    }
+  ],
+  "synonyms": [
+    "mystify",
+    "bewilder",
+    "perplex",
+    "baffle",
+    "confuse",
+    "bamboozle",
+    "wonder",
+    "mull",
+    "brood",
+    "ponder",
+    "stump"
+  ],
+  "antonyms": [
+    "explanation"
+  ],
+  "similar_words": [
+    "puzzle-headed",
+    "puzzled",
+    "puzzlement",
+    "puzzler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/puzzle.mp3",
+  "local_sound_path": "sounds/puzzle.mp3"
+}

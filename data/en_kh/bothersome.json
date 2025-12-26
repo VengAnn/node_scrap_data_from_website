@@ -1,0 +1,39 @@
+{
+  "word": "bothersome",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10302.png",
+      "local_image_path": "images/10302.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115434.png",
+      "local_image_path": "images/115434.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115435.png",
+      "local_image_path": "images/115435.png"
+    }
+  ],
+  "synonyms": [
+    "troublesome",
+    "inconvenient",
+    "worrisome",
+    "niggling",
+    "incommodious",
+    "difficult",
+    "vexing",
+    "annoying"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bothersome.mp3",
+  "local_sound_path": "sounds/bothersome.mp3"
+}

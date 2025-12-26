@@ -1,0 +1,64 @@
+{
+  "word": "weigh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "weigh 60 kilos",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99659.png",
+      "local_image_path": "images/99659.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99661.png",
+      "local_image_path": "images/99661.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weigh gold",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99657.png",
+      "local_image_path": "images/99657.png"
+    },
+    {
+      "pos": "tv",
+      "example": "weigh anchor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99658.png",
+      "local_image_path": "images/99658.png"
+    }
+  ],
+  "synonyms": [
+    "consider",
+    "ponder",
+    "evaluate",
+    "balance",
+    "assess",
+    "contemplate",
+    "deliberate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "weigh bridge",
+    "weighable",
+    "weighage",
+    "weigher",
+    "weighing",
+    "weighing machine",
+    "weighing-machine",
+    "weighment",
+    "weight",
+    "weight-lifter",
+    "weight-lifting",
+    "weight-watcher",
+    "weightily",
+    "weightiness",
+    "weighting",
+    "weightless",
+    "weightlessly",
+    "weightlessness",
+    "weighty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weigh.mp3",
+  "local_sound_path": "sounds/weigh.mp3"
+}

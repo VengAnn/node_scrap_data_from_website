@@ -1,0 +1,30 @@
+{
+  "word": "dole",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "receive one's dole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22615.png",
+      "local_image_path": "images/22615.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22616.png",
+      "local_image_path": "images/22616.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "doleful",
+    "dolefully",
+    "dolefulness",
+    "dolent",
+    "dolesome"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dole.mp3",
+  "local_sound_path": "sounds/dole.mp3"
+}

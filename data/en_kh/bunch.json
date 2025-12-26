@@ -1,0 +1,42 @@
+{
+  "word": "bunch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11840.png",
+      "local_image_path": "images/11840.png"
+    },
+    {
+      "pos": "n",
+      "example": "bunch of people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11837.png",
+      "local_image_path": "images/11837.png"
+    },
+    {
+      "pos": "n",
+      "example": "bunch of bananas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11838.png",
+      "local_image_path": "images/11838.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11839.png",
+      "local_image_path": "images/11839.png"
+    }
+  ],
+  "synonyms": [
+    "huddle",
+    "gather",
+    "cluster"
+  ],
+  "antonyms": [
+    "disperse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bunch.mp3",
+  "local_sound_path": "sounds/bunch.mp3"
+}

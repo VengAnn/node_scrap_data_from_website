@@ -1,0 +1,22 @@
+{
+  "word": "blaspheme",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "Please don't blaspheme him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9401.png",
+      "local_image_path": "images/9401.png"
+    }
+  ],
+  "synonyms": [
+    "curse",
+    "swear",
+    "cuss"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blaspheme.mp3",
+  "local_sound_path": "sounds/blaspheme.mp3"
+}

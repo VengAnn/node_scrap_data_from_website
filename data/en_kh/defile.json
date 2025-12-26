@@ -1,0 +1,70 @@
+{
+  "word": "defile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20182.png",
+      "local_image_path": "images/20182.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20185.png",
+      "local_image_path": "images/20185.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117910.png",
+      "local_image_path": "images/117910.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117911.png",
+      "local_image_path": "images/117911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "defile a sacred place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20179.png",
+      "local_image_path": "images/20179.png"
+    },
+    {
+      "pos": "tv",
+      "example": "defile a woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20180.png",
+      "local_image_path": "images/20180.png"
+    },
+    {
+      "pos": "tv",
+      "example": "defile one's reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20181.png",
+      "local_image_path": "images/20181.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20184.png",
+      "local_image_path": "images/20184.png"
+    }
+  ],
+  "synonyms": [
+    "dishonor",
+    "desecrate",
+    "sully",
+    "despoil",
+    "violate",
+    "debase"
+  ],
+  "antonyms": [
+    "respect",
+    "enhance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defile.mp3",
+  "local_sound_path": "sounds/defile.mp3"
+}

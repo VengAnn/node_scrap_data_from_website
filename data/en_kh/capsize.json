@@ -1,0 +1,32 @@
+{
+  "word": "capsize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12853.png",
+      "local_image_path": "images/12853.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12854.png",
+      "local_image_path": "images/12854.png"
+    }
+  ],
+  "synonyms": [
+    "overturn",
+    "upturn",
+    "tip",
+    "upset",
+    "sink"
+  ],
+  "antonyms": [
+    "right"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/capsize.mp3",
+  "local_sound_path": "sounds/capsize.mp3"
+}

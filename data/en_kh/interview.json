@@ -1,0 +1,33 @@
+{
+  "word": "interview",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41630.png",
+      "local_image_path": "images/41630.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41629.png",
+      "local_image_path": "images/41629.png"
+    }
+  ],
+  "synonyms": [
+    "question",
+    "interrogate",
+    "cross-examine",
+    "quiz"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "interviewee",
+    "interviewer",
+    "interviewing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interview.mp3",
+  "local_sound_path": "sounds/interview.mp3"
+}

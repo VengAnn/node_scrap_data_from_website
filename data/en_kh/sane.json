@@ -1,0 +1,38 @@
+{
+  "word": "sane",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75673.png",
+      "local_image_path": "images/75673.png"
+    },
+    {
+      "pos": "adj",
+      "example": "sane policy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75674.png",
+      "local_image_path": "images/75674.png"
+    }
+  ],
+  "synonyms": [
+    "rational",
+    "sensible",
+    "reasonable",
+    "sound",
+    "normal",
+    "wise"
+  ],
+  "antonyms": [
+    "irrational",
+    "insane",
+    "mad"
+  ],
+  "similar_words": [
+    "sanely",
+    "saneness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sane.mp3",
+  "local_sound_path": "sounds/sane.mp3"
+}

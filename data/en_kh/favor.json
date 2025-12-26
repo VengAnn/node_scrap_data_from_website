@@ -1,0 +1,92 @@
+{
+  "word": "favor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "do a favor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27859.png",
+      "local_image_path": "images/27859.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119967.png",
+      "local_image_path": "images/119967.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119968.png",
+      "local_image_path": "images/119968.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119969.png",
+      "local_image_path": "images/119969.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fave socialism",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27860.png",
+      "local_image_path": "images/27860.png"
+    },
+    {
+      "pos": "tv",
+      "example": "favor the eldest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27861.png",
+      "local_image_path": "images/27861.png"
+    },
+    {
+      "pos": "tv",
+      "example": "favor a bad leg",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27862.png",
+      "local_image_path": "images/27862.png"
+    },
+    {
+      "pos": "tv",
+      "example": "favor his father",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27863.png",
+      "local_image_path": "images/27863.png"
+    }
+  ],
+  "synonyms": [
+    "help",
+    "aid",
+    "assist",
+    "advance",
+    "promote",
+    "benefit",
+    "further",
+    "increase",
+    "encourage",
+    "facilitate",
+    "improve",
+    "bolster",
+    "prefer",
+    "choose",
+    "support",
+    "back",
+    "approve",
+    "esteem"
+  ],
+  "antonyms": [
+    "reject",
+    "hinder",
+    "disservice"
+  ],
+  "similar_words": [
+    "favorable",
+    "favorableness",
+    "favorably",
+    "favored",
+    "favorer",
+    "favoringly",
+    "favorite",
+    "favoritism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/favor.mp3",
+  "local_sound_path": "sounds/favor.mp3"
+}

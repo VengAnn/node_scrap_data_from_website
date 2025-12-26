@@ -1,0 +1,38 @@
+{
+  "word": "banality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7264.png",
+      "local_image_path": "images/7264.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114507.png",
+      "local_image_path": "images/114507.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114508.png",
+      "local_image_path": "images/114508.png"
+    }
+  ],
+  "synonyms": [
+    "triteness",
+    "predictability",
+    "dullness",
+    "triviality",
+    "facileness"
+  ],
+  "antonyms": [
+    "originality"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banality.mp3",
+  "local_sound_path": "sounds/banality.mp3"
+}

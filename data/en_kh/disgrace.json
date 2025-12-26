@@ -1,0 +1,57 @@
+{
+  "word": "disgrace",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "The incident was a disgrace.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21871.png",
+      "local_image_path": "images/21871.png"
+    },
+    {
+      "pos": "n",
+      "example": "in disgrace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21870.png",
+      "local_image_path": "images/21870.png"
+    },
+    {
+      "pos": "n",
+      "example": "You're a disgrace to your family.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21872.png",
+      "local_image_path": "images/21872.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He got drunk and disgraced himself at the wedding.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21873.png",
+      "local_image_path": "images/21873.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118476.png",
+      "local_image_path": "images/118476.png"
+    }
+  ],
+  "synonyms": [
+    "discredit",
+    "shame",
+    "dishonor",
+    "degrade",
+    "tarnish",
+    "stain",
+    "humiliate"
+  ],
+  "antonyms": [
+    "honor",
+    "dignify"
+  ],
+  "similar_words": [
+    "disgraceful",
+    "disgracefully",
+    "disgracefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disgrace.mp3",
+  "local_sound_path": "sounds/disgrace.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "deterrent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21015.png",
+      "local_image_path": "images/21015.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21014.png",
+      "local_image_path": "images/21014.png"
+    }
+  ],
+  "synonyms": [
+    "warning",
+    "preventive",
+    "restrictive",
+    "limiting",
+    "off-putting",
+    "prevention",
+    "restriction",
+    "restraint",
+    "curb",
+    "rein",
+    "limit",
+    "constraint",
+    "limitation"
+  ],
+  "antonyms": [
+    "incitement",
+    "encouraging"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deterrent.mp3",
+  "local_sound_path": "sounds/deterrent.mp3"
+}

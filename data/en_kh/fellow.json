@@ -1,0 +1,51 @@
+{
+  "word": "fellow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fellow students",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28074.png",
+      "local_image_path": "images/28074.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28071.png",
+      "local_image_path": "images/28071.png"
+    },
+    {
+      "pos": "n",
+      "example": "good fellow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28072.png",
+      "local_image_path": "images/28072.png"
+    },
+    {
+      "pos": "n",
+      "example": "fellow of a society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28073.png",
+      "local_image_path": "images/28073.png"
+    }
+  ],
+  "synonyms": [
+    "colleague",
+    "equal",
+    "partner",
+    "comrade",
+    "member",
+    "beneficiary",
+    "associate",
+    "researcher",
+    "academic"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fellow student",
+    "fellow-sufferer",
+    "fellow-traveller",
+    "fellowship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fellow.mp3",
+  "local_sound_path": "sounds/fellow.mp3"
+}

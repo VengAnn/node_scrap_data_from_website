@@ -1,0 +1,89 @@
+{
+  "word": "rail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rail at/against sb/sth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69958.png",
+      "local_image_path": "images/69958.png"
+    },
+    {
+      "pos": "n",
+      "example": "hand rail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69953.png",
+      "local_image_path": "images/69953.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69954.png",
+      "local_image_path": "images/69954.png"
+    },
+    {
+      "pos": "n",
+      "example": "go by rail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69955.png",
+      "local_image_path": "images/69955.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69956.png",
+      "local_image_path": "images/69956.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69957.png",
+      "local_image_path": "images/69957.png"
+    }
+  ],
+  "synonyms": [
+    "bar",
+    "railing",
+    "handrail",
+    "banister",
+    "criticize",
+    "complain",
+    "kick",
+    "protest",
+    "object",
+    "attack",
+    "denounce",
+    "condemn",
+    "inveigh",
+    "vociferate",
+    "fulminate"
+  ],
+  "antonyms": [
+    "accept"
+  ],
+  "similar_words": [
+    "rail-slipter",
+    "railer",
+    "railing",
+    "raillery",
+    "railless",
+    "railment",
+    "railroad",
+    "railroading",
+    "railton",
+    "railway",
+    "railway carriage",
+    "railway engine driver",
+    "railway junction",
+    "railway line",
+    "railway station",
+    "railway ticket",
+    "railway track",
+    "railway traffic",
+    "railway train",
+    "railway traveller",
+    "railway-time-table",
+    "railwork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rail.mp3",
+  "local_sound_path": "sounds/rail.mp3"
+}

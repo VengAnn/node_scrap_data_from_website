@@ -1,0 +1,46 @@
+{
+  "word": "teach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "teach him a lesson",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87780.png",
+      "local_image_path": "images/87780.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I teach computer class.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87779.png",
+      "local_image_path": "images/87779.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87781.png",
+      "local_image_path": "images/87781.png"
+    }
+  ],
+  "synonyms": [
+    "explain",
+    "show",
+    "demonstrate",
+    "clarify"
+  ],
+  "antonyms": [
+    "learn"
+  ],
+  "similar_words": [
+    "teach in",
+    "teachability",
+    "teachable",
+    "teachableness",
+    "teachably",
+    "teacher",
+    "teachership",
+    "teaching"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/teach.mp3",
+  "local_sound_path": "sounds/teach.mp3"
+}

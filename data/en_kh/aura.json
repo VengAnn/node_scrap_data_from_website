@@ -1,0 +1,35 @@
+{
+  "word": "aura",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6423.png",
+      "local_image_path": "images/6423.png"
+    }
+  ],
+  "synonyms": [
+    "air",
+    "atmosphere",
+    "feeling",
+    "impression",
+    "sensation",
+    "characteristic",
+    "quality",
+    "appearance",
+    "force",
+    "glow"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "aural",
+    "auramine",
+    "aurantiaceous",
+    "aurata",
+    "aurated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aura.mp3",
+  "local_sound_path": "sounds/aura.mp3"
+}

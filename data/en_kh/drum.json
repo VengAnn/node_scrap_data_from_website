@@ -1,0 +1,49 @@
+{
+  "word": "drum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23256.png",
+      "local_image_path": "images/23256.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23254.png",
+      "local_image_path": "images/23254.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drum a rhythm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23255.png",
+      "local_image_path": "images/23255.png"
+    }
+  ],
+  "synonyms": [
+    "barrel",
+    "cask",
+    "cylinder",
+    "container",
+    "beat",
+    "pulsate",
+    "throb",
+    "tap",
+    "thump"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "drum kit",
+    "drum major",
+    "drumble",
+    "drumbler",
+    "drumbly",
+    "drummer",
+    "drumming",
+    "drumstick"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drum.mp3",
+  "local_sound_path": "sounds/drum.mp3"
+}

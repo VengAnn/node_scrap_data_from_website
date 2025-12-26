@@ -1,0 +1,61 @@
+{
+  "word": "concrete",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "concrete idea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16510.png",
+      "local_image_path": "images/16510.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117085.png",
+      "local_image_path": "images/117085.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117086.png",
+      "local_image_path": "images/117086.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117087.png",
+      "local_image_path": "images/117087.png"
+    },
+    {
+      "pos": "n",
+      "example": "modern buildings made of concrete",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16511.png",
+      "local_image_path": "images/16511.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16512.png",
+      "local_image_path": "images/16512.png"
+    }
+  ],
+  "synonyms": [
+    "specific",
+    "particular",
+    "distinct",
+    "certain",
+    "definite"
+  ],
+  "antonyms": [
+    "insubstantial",
+    "indeterminate"
+  ],
+  "similar_words": [
+    "concrete mixer",
+    "concretely",
+    "concreteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concrete.mp3",
+  "local_sound_path": "sounds/concrete.mp3"
+}

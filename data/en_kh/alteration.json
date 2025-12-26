@@ -1,0 +1,54 @@
+{
+  "word": "alteration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3660.png",
+      "local_image_path": "images/3660.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3659.png",
+      "local_image_path": "images/3659.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113598.png",
+      "local_image_path": "images/113598.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113599.png",
+      "local_image_path": "images/113599.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132172.png",
+      "local_image_path": "images/132172.png"
+    }
+  ],
+  "synonyms": [
+    "change",
+    "modification",
+    "adjustment",
+    "variation",
+    "amendment",
+    "revision",
+    "shift",
+    "adaptation",
+    "correction"
+  ],
+  "antonyms": [
+    "preservation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alteration.mp3",
+  "local_sound_path": "sounds/alteration.mp3"
+}

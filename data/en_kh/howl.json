@@ -1,0 +1,54 @@
+{
+  "word": "howl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36195.png",
+      "local_image_path": "images/36195.png"
+    },
+    {
+      "pos": "iv",
+      "example": "dogs howl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36196.png",
+      "local_image_path": "images/36196.png"
+    },
+    {
+      "pos": "iv",
+      "example": "howl with the pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36197.png",
+      "local_image_path": "images/36197.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36198.png",
+      "local_image_path": "images/36198.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36199.png",
+      "local_image_path": "images/36199.png"
+    }
+  ],
+  "synonyms": [
+    "cry",
+    "bawl",
+    "weep",
+    "holler",
+    "blub"
+  ],
+  "antonyms": [
+    "murmur"
+  ],
+  "similar_words": [
+    "howler",
+    "howlet",
+    "howling"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/howl.mp3",
+  "local_sound_path": "sounds/howl.mp3"
+}

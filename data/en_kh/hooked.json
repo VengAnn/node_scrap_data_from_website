@@ -1,0 +1,35 @@
+{
+  "word": "hooked",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35866.png",
+      "local_image_path": "images/35866.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35867.png",
+      "local_image_path": "images/35867.png"
+    }
+  ],
+  "synonyms": [
+    "curved",
+    "bent",
+    "bowed",
+    "attached",
+    "secured",
+    "tied",
+    "fixed"
+  ],
+  "antonyms": [
+    "straight",
+    "clean"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hooked.mp3",
+  "local_sound_path": "sounds/hooked.mp3"
+}

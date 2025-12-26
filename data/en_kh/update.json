@@ -1,0 +1,35 @@
+{
+  "word": "update",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96716.png",
+      "local_image_path": "images/96716.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96715.png",
+      "local_image_path": "images/96715.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129613.png",
+      "local_image_path": "images/129613.png"
+    }
+  ],
+  "synonyms": [
+    "modernize",
+    "revise",
+    "renew",
+    "renovate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/update.mp3",
+  "local_sound_path": "sounds/update.mp3"
+}

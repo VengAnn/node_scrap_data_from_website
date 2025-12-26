@@ -1,0 +1,88 @@
+{
+  "word": "ruffle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74559.png",
+      "local_image_path": "images/74559.png"
+    },
+    {
+      "pos": "iv",
+      "example": "breezes ruffle the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74560.png",
+      "local_image_path": "images/74560.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74561.png",
+      "local_image_path": "images/74561.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Hens ruffle their feathers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74562.png",
+      "local_image_path": "images/74562.png"
+    },
+    {
+      "pos": "iv",
+      "example": "ruffle his composure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74563.png",
+      "local_image_path": "images/74563.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74568.png",
+      "local_image_path": "images/74568.png"
+    },
+    {
+      "pos": "n",
+      "example": "a ruffle in the sand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74564.png",
+      "local_image_path": "images/74564.png"
+    },
+    {
+      "pos": "n",
+      "example": "ruffle of a dress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74565.png",
+      "local_image_path": "images/74565.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74566.png",
+      "local_image_path": "images/74566.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74567.png",
+      "local_image_path": "images/74567.png"
+    }
+  ],
+  "synonyms": [
+    "perturb",
+    "upset",
+    "annoy",
+    "disrupt",
+    "distress",
+    "disturb",
+    "tousle",
+    "rumple",
+    "dishevel",
+    "unsettle"
+  ],
+  "antonyms": [
+    "smooth",
+    "calm"
+  ],
+  "similar_words": [
+    "ruffler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ruffle.mp3",
+  "local_sound_path": "sounds/ruffle.mp3"
+}

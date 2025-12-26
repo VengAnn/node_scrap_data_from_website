@@ -1,0 +1,33 @@
+{
+  "word": "alright",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "are you alright?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3539.png",
+      "local_image_path": "images/3539.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3642.png",
+      "local_image_path": "images/3642.png"
+    }
+  ],
+  "synonyms": [
+    "satisfactory",
+    "okay",
+    "good",
+    "pleasing",
+    "nice",
+    "fine"
+  ],
+  "antonyms": [
+    "unpleasant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/alright.mp3",
+  "local_sound_path": "sounds/alright.mp3"
+}

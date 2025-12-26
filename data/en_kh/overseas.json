@@ -1,0 +1,32 @@
+{
+  "word": "overseas",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "overseas call",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58893.png",
+      "local_image_path": "images/58893.png"
+    },
+    {
+      "pos": "adv",
+      "example": "go overseas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58894.png",
+      "local_image_path": "images/58894.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58895.png",
+      "local_image_path": "images/58895.png"
+    }
+  ],
+  "synonyms": [
+    "abroad"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overseas.mp3",
+  "local_sound_path": "sounds/overseas.mp3"
+}

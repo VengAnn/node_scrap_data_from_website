@@ -1,0 +1,46 @@
+{
+  "word": "aesthetic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2678.png",
+      "local_image_path": "images/2678.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113348.png",
+      "local_image_path": "images/113348.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113349.png",
+      "local_image_path": "images/113349.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2679.png",
+      "local_image_path": "images/2679.png"
+    }
+  ],
+  "synonyms": [
+    "artistic",
+    "visual",
+    "appealing",
+    "beautiful"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "aesthetically",
+    "aesthetician",
+    "aestheticism",
+    "aesthetics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aesthetic.mp3",
+  "local_sound_path": "sounds/aesthetic.mp3"
+}

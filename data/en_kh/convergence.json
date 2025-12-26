@@ -1,0 +1,43 @@
+{
+  "word": "convergence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17472.png",
+      "local_image_path": "images/17472.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130211.png",
+      "local_image_path": "images/130211.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130212.png",
+      "local_image_path": "images/130212.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130213.png",
+      "local_image_path": "images/130213.png"
+    }
+  ],
+  "synonyms": [
+    "meeting",
+    "junction",
+    "union",
+    "conjunction"
+  ],
+  "antonyms": [
+    "divergence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/convergence.mp3",
+  "local_sound_path": "sounds/convergence.mp3"
+}

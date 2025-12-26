@@ -1,0 +1,35 @@
+{
+  "word": "lesser",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45962.png",
+      "local_image_path": "images/45962.png"
+    },
+    {
+      "pos": "n",
+      "example": "the lesser of two evils",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45960.png",
+      "local_image_path": "images/45960.png"
+    },
+    {
+      "pos": "n",
+      "example": "the lesser of two sums",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45961.png",
+      "local_image_path": "images/45961.png"
+    }
+  ],
+  "synonyms": [
+    "minor",
+    "reduced"
+  ],
+  "antonyms": [
+    "greater"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lesser.mp3",
+  "local_sound_path": "sounds/lesser.mp3"
+}

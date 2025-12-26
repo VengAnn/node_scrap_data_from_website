@@ -1,0 +1,40 @@
+{
+  "word": "disillusion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21926.png",
+      "local_image_path": "images/21926.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21925.png",
+      "local_image_path": "images/21925.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118512.png",
+      "local_image_path": "images/118512.png"
+    }
+  ],
+  "synonyms": [
+    "disenchant",
+    "disappoint",
+    "dishearten",
+    "dissatisfy"
+  ],
+  "antonyms": [
+    "inspire"
+  ],
+  "similar_words": [
+    "disillusioned",
+    "disillusionment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disillusion.mp3",
+  "local_sound_path": "sounds/disillusion.mp3"
+}

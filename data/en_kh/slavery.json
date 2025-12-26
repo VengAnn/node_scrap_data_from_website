@@ -1,0 +1,44 @@
+{
+  "word": "slavery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81063.png",
+      "local_image_path": "images/81063.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81064.png",
+      "local_image_path": "images/81064.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81065.png",
+      "local_image_path": "images/81065.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132550.png",
+      "local_image_path": "images/132550.png"
+    }
+  ],
+  "synonyms": [
+    "servitude",
+    "bondage",
+    "serfdom",
+    "enslavement",
+    "vassalage"
+  ],
+  "antonyms": [
+    "freedom"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slavery.mp3",
+  "local_sound_path": "sounds/slavery.mp3"
+}

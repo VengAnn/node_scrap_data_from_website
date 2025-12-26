@@ -1,0 +1,41 @@
+{
+  "word": "underlying",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94014.png",
+      "local_image_path": "images/94014.png"
+    },
+    {
+      "pos": "adj",
+      "example": "an underlying mean",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94015.png",
+      "local_image_path": "images/94015.png"
+    },
+    {
+      "pos": "adj",
+      "example": "an underlying financial claim",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94016.png",
+      "local_image_path": "images/94016.png"
+    }
+  ],
+  "synonyms": [
+    "fundamental",
+    "original",
+    "causal",
+    "primary",
+    "basic",
+    "core",
+    "essential",
+    "principal",
+    "main",
+    "inspiring"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/underlying.mp3",
+  "local_sound_path": "sounds/underlying.mp3"
+}

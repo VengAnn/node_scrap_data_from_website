@@ -1,0 +1,44 @@
+{
+  "word": "dubious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dubious look",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23305.png",
+      "local_image_path": "images/23305.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118813.png",
+      "local_image_path": "images/118813.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118814.png",
+      "local_image_path": "images/118814.png"
+    }
+  ],
+  "synonyms": [
+    "suspect",
+    "untrustworthy",
+    "fishy",
+    "questionable",
+    "shady",
+    "unsavory"
+  ],
+  "antonyms": [
+    "certain",
+    "unambiguous",
+    "trustworthy"
+  ],
+  "similar_words": [
+    "dubiously",
+    "dubiousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dubious.mp3",
+  "local_sound_path": "sounds/dubious.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "word": "remote",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "remote village",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72088.png",
+      "local_image_path": "images/72088.png"
+    },
+    {
+      "pos": "adj",
+      "example": "remote past",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72089.png",
+      "local_image_path": "images/72089.png"
+    },
+    {
+      "pos": "adj",
+      "example": "remote control",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72090.png",
+      "local_image_path": "images/72090.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72091.png",
+      "local_image_path": "images/72091.png"
+    }
+  ],
+  "synonyms": [
+    "slight",
+    "outside",
+    "unlikely",
+    "improbable",
+    "faint",
+    "small"
+  ],
+  "antonyms": [
+    "nearby",
+    "approachable",
+    "likely"
+  ],
+  "similar_words": [
+    "remote control",
+    "remotely",
+    "remoteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remote.mp3",
+  "local_sound_path": "sounds/remote.mp3"
+}

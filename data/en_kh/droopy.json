@@ -1,0 +1,30 @@
+{
+  "word": "droopy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23208.png",
+      "local_image_path": "images/23208.png"
+    }
+  ],
+  "synonyms": [
+    "hanging",
+    "floppy",
+    "limp",
+    "sagging",
+    "lifeless",
+    "flaccid",
+    "slack",
+    "baggy"
+  ],
+  "antonyms": [
+    "fresh",
+    "upright"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/droopy.mp3",
+  "local_sound_path": "sounds/droopy.mp3"
+}

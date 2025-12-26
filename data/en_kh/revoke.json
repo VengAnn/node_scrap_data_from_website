@@ -1,0 +1,28 @@
+{
+  "word": "revoke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73394.png",
+      "local_image_path": "images/73394.png"
+    }
+  ],
+  "synonyms": [
+    "cancel",
+    "annul",
+    "rescind",
+    "withdraw",
+    "retract",
+    "repeal",
+    "invalidate"
+  ],
+  "antonyms": [
+    "maintain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/revoke.mp3",
+  "local_sound_path": "sounds/revoke.mp3"
+}

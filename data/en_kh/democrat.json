@@ -1,0 +1,36 @@
+{
+  "word": "democrat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20430.png",
+      "local_image_path": "images/20430.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20431.png",
+      "local_image_path": "images/20431.png"
+    }
+  ],
+  "synonyms": [
+    "egalitarian",
+    "populist",
+    "republican",
+    "constitutionalist",
+    "moderate",
+    "social democrat"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "democratic",
+    "democratically",
+    "democratization",
+    "democratize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/democrat.mp3",
+  "local_sound_path": "sounds/democrat.mp3"
+}

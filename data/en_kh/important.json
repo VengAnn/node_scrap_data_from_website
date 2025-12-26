@@ -1,0 +1,30 @@
+{
+  "word": "important",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37850.png",
+      "local_image_path": "images/37850.png"
+    }
+  ],
+  "synonyms": [
+    "valuable",
+    "worthy",
+    "notable",
+    "foremost",
+    "eminent",
+    "influential",
+    "high-ranking",
+    "prominent"
+  ],
+  "antonyms": [
+    "trivial",
+    "insignificant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/important.mp3",
+  "local_sound_path": "sounds/important.mp3"
+}

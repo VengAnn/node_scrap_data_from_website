@@ -1,0 +1,39 @@
+{
+  "word": "enunciate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "enunciate one's words",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25383.png",
+      "local_image_path": "images/25383.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enunciate new rules",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25384.png",
+      "local_image_path": "images/25384.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She enunciated each word slowly for her students.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25385.png",
+      "local_image_path": "images/25385.png"
+    }
+  ],
+  "synonyms": [
+    "express",
+    "detail",
+    "state",
+    "voice",
+    "clarify"
+  ],
+  "antonyms": [
+    "mumble",
+    "suppress"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enunciate.mp3",
+  "local_sound_path": "sounds/enunciate.mp3"
+}

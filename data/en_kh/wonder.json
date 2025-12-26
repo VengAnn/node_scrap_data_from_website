@@ -1,0 +1,48 @@
+{
+  "word": "wonder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "wonder about a problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100751.png",
+      "local_image_path": "images/100751.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100753.png",
+      "local_image_path": "images/100753.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I don't wonder at her refusing to marry him.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100752.png",
+      "local_image_path": "images/100752.png"
+    }
+  ],
+  "synonyms": [
+    "phenomenon",
+    "marvel",
+    "miracle",
+    "sensation",
+    "admire"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "wonder-struck",
+    "wonder-work",
+    "wonder-worker",
+    "wonder-working",
+    "wonderer",
+    "wonderful",
+    "wonderfully",
+    "wonderfulness",
+    "wondering",
+    "wonderland",
+    "wonderment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wonder.mp3",
+  "local_sound_path": "sounds/wonder.mp3"
+}

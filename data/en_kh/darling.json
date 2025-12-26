@@ -1,0 +1,35 @@
+{
+  "word": "darling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19658.png",
+      "local_image_path": "images/19658.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19656.png",
+      "local_image_path": "images/19656.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19657.png",
+      "local_image_path": "images/19657.png"
+    }
+  ],
+  "synonyms": [
+    "favorite",
+    "pet"
+  ],
+  "antonyms": [
+    "horrible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/darling.mp3",
+  "local_sound_path": "sounds/darling.mp3"
+}

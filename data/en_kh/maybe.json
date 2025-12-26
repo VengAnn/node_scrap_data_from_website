@@ -1,0 +1,31 @@
+{
+  "word": "maybe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "Maybe I'll go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106966.png",
+      "local_image_path": "images/106966.png"
+    },
+    {
+      "pos": "adv",
+      "example": "He's at home, maybe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106967.png",
+      "local_image_path": "images/106967.png"
+    }
+  ],
+  "synonyms": [
+    "perhaps",
+    "possibly",
+    "perchance",
+    "mayhap"
+  ],
+  "antonyms": [
+    "definitely"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/maybe.mp3",
+  "local_sound_path": "sounds/maybe.mp3"
+}

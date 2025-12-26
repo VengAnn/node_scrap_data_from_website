@@ -1,0 +1,51 @@
+{
+  "word": "substance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "chemical substance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85884.png",
+      "local_image_path": "images/85884.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85885.png",
+      "local_image_path": "images/85885.png"
+    },
+    {
+      "pos": "n",
+      "example": "substance of the argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85886.png",
+      "local_image_path": "images/85886.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85887.png",
+      "local_image_path": "images/85887.png"
+    }
+  ],
+  "synonyms": [
+    "core",
+    "essence",
+    "import",
+    "gist",
+    "nub",
+    "basis",
+    "crux",
+    "theme",
+    "soul"
+  ],
+  "antonyms": [
+    "poverty"
+  ],
+  "similar_words": [
+    "substanceless",
+    "substancelessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/substance.mp3",
+  "local_sound_path": "sounds/substance.mp3"
+}

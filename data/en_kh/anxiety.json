@@ -1,0 +1,55 @@
+{
+  "word": "anxiety",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4843.png",
+      "local_image_path": "images/4843.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131279.png",
+      "local_image_path": "images/131279.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131280.png",
+      "local_image_path": "images/131280.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131281.png",
+      "local_image_path": "images/131281.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131282.png",
+      "local_image_path": "images/131282.png"
+    }
+  ],
+  "synonyms": [
+    "nervousness",
+    "worry",
+    "concern",
+    "unease",
+    "apprehension",
+    "disquiet",
+    "fretfulness",
+    "angst",
+    "fear"
+  ],
+  "antonyms": [
+    "reassurance",
+    "calmness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anxiety.mp3",
+  "local_sound_path": "sounds/anxiety.mp3"
+}

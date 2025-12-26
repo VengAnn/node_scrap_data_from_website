@@ -1,0 +1,57 @@
+{
+  "word": "mask",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "party mask",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106540.png",
+      "local_image_path": "images/106540.png"
+    },
+    {
+      "pos": "n",
+      "example": "mask for his true feelings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106541.png",
+      "local_image_path": "images/106541.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mask one's face",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106542.png",
+      "local_image_path": "images/106542.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mask one's feelings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106543.png",
+      "local_image_path": "images/106543.png"
+    }
+  ],
+  "synonyms": [
+    "cover",
+    "hide",
+    "conceal",
+    "disguise",
+    "camouflage",
+    "veil",
+    "screen",
+    "cloak"
+  ],
+  "antonyms": [
+    "reveal",
+    "expose"
+  ],
+  "similar_words": [
+    "masked",
+    "maskelynite",
+    "masker",
+    "maskery query",
+    "maskette",
+    "masking",
+    "maskinonge",
+    "maskood"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mask.mp3",
+  "local_sound_path": "sounds/mask.mp3"
+}

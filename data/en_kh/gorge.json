@@ -1,0 +1,48 @@
+{
+  "word": "gorge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mountain gorge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32358.png",
+      "local_image_path": "images/32358.png"
+    },
+    {
+      "pos": "n",
+      "example": "gorge rises with sentiment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32359.png",
+      "local_image_path": "images/32359.png"
+    },
+    {
+      "pos": "tv",
+      "example": "don't gorge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32360.png",
+      "local_image_path": "images/32360.png"
+    },
+    {
+      "pos": "tv",
+      "example": "gorge oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32361.png",
+      "local_image_path": "images/32361.png"
+    }
+  ],
+  "synonyms": [
+    "gullet",
+    "throat",
+    "esophagus",
+    "overeat"
+  ],
+  "antonyms": [
+    "nibble"
+  ],
+  "similar_words": [
+    "gorgelot",
+    "gorgeous",
+    "gorgeously",
+    "gorgeousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gorge.mp3",
+  "local_sound_path": "sounds/gorge.mp3"
+}

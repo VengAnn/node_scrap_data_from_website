@@ -1,0 +1,26 @@
+{
+  "word": "anybody",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "pron",
+      "example": "I don't know anybody",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4850.png",
+      "local_image_path": "images/4850.png"
+    }
+  ],
+  "synonyms": [
+    "anyone",
+    "somebody",
+    "someone",
+    "everybody",
+    "everyone"
+  ],
+  "antonyms": [
+    "nobody"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/anybody.mp3",
+  "local_sound_path": "sounds/anybody.mp3"
+}

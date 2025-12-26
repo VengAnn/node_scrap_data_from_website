@@ -1,0 +1,46 @@
+{
+  "word": "simulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "simulate battle conditions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80262.png",
+      "local_image_path": "images/80262.png"
+    },
+    {
+      "pos": "tv",
+      "example": "simulate surprise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80263.png",
+      "local_image_path": "images/80263.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80264.png",
+      "local_image_path": "images/80264.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80265.png",
+      "local_image_path": "images/80265.png"
+    }
+  ],
+  "synonyms": [
+    "replicate",
+    "reproduce",
+    "imitate",
+    "suggest",
+    "copy",
+    "create",
+    "fake",
+    "pretend",
+    "model"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/simulate.mp3",
+  "local_sound_path": "sounds/simulate.mp3"
+}

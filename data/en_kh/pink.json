@@ -1,0 +1,78 @@
+{
+  "word": "pink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63403.png",
+      "local_image_path": "images/63403.png"
+    },
+    {
+      "pos": "n",
+      "example": "the color pink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63400.png",
+      "local_image_path": "images/63400.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63401.png",
+      "local_image_path": "images/63401.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63402.png",
+      "local_image_path": "images/63402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63404.png",
+      "local_image_path": "images/63404.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130646.png",
+      "local_image_path": "images/130646.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130647.png",
+      "local_image_path": "images/130647.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130648.png",
+      "local_image_path": "images/130648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130649.png",
+      "local_image_path": "images/130649.png"
+    }
+  ],
+  "synonyms": [
+    "cherry",
+    "crimson",
+    "red",
+    "cerise"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pink pound",
+    "pinkeye",
+    "pinking shears",
+    "pinkish",
+    "pinko",
+    "pinky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pink.mp3",
+  "local_sound_path": "sounds/pink.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "edible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23873.png",
+      "local_image_path": "images/23873.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23874.png",
+      "local_image_path": "images/23874.png"
+    }
+  ],
+  "synonyms": [
+    "ripe"
+  ],
+  "antonyms": [
+    "poisonous"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/edible.mp3",
+  "local_sound_path": "sounds/edible.mp3"
+}

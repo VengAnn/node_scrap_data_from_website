@@ -1,0 +1,35 @@
+{
+  "word": "iota",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42132.png",
+      "local_image_path": "images/42132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42133.png",
+      "local_image_path": "images/42133.png"
+    }
+  ],
+  "synonyms": [
+    "jot",
+    "bit",
+    "scrap",
+    "speck",
+    "grain",
+    "particle",
+    "smidgen",
+    "scintilla"
+  ],
+  "antonyms": [
+    "lot"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/iota.mp3",
+  "local_sound_path": "sounds/iota.mp3"
+}

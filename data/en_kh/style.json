@@ -1,0 +1,49 @@
+{
+  "word": "style",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Which style do you like?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85657.png",
+      "local_image_path": "images/85657.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85658.png",
+      "local_image_path": "images/85658.png"
+    },
+    {
+      "pos": "tv",
+      "example": "style hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85659.png",
+      "local_image_path": "images/85659.png"
+    },
+    {
+      "pos": "tv",
+      "example": "style it irresponsible",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85660.png",
+      "local_image_path": "images/85660.png"
+    }
+  ],
+  "synonyms": [
+    "luxury",
+    "comfort",
+    "grandeur",
+    "elegance",
+    "fashion",
+    "design",
+    "shape",
+    "cut",
+    "adapt",
+    "tailor"
+  ],
+  "antonyms": [
+    "gracelessness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/style.mp3",
+  "local_sound_path": "sounds/style.mp3"
+}

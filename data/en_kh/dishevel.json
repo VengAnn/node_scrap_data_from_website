@@ -1,0 +1,54 @@
+{
+  "word": "dishevel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21905.png",
+      "local_image_path": "images/21905.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130251.png",
+      "local_image_path": "images/130251.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130252.png",
+      "local_image_path": "images/130252.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130253.png",
+      "local_image_path": "images/130253.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130254.png",
+      "local_image_path": "images/130254.png"
+    }
+  ],
+  "synonyms": [
+    "disturb",
+    "tousle",
+    "rumple",
+    "upset",
+    "unsettle"
+  ],
+  "antonyms": [
+    "smooth"
+  ],
+  "similar_words": [
+    "disheveled",
+    "dishevelled",
+    "dishevelment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dishevel.mp3",
+  "local_sound_path": "sounds/dishevel.mp3"
+}

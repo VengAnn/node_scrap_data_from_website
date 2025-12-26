@@ -1,0 +1,49 @@
+{
+  "word": "noble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "noble family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55909.png",
+      "local_image_path": "images/55909.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55910.png",
+      "local_image_path": "images/55910.png"
+    }
+  ],
+  "synonyms": [
+    "aristocrat",
+    "courtier",
+    "nobleman",
+    "noblewoman",
+    "lord",
+    "lady",
+    "duke",
+    "duchess",
+    "baron",
+    "baronet",
+    "baroness",
+    "peer",
+    "patrician"
+  ],
+  "antonyms": [
+    "poor",
+    "unprincipled",
+    "unimpressive"
+  ],
+  "similar_words": [
+    "noble-minded",
+    "nobleman",
+    "nobleness",
+    "noblesse",
+    "noblesse oblige",
+    "noblewoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/noble.mp3",
+  "local_sound_path": "sounds/noble.mp3"
+}

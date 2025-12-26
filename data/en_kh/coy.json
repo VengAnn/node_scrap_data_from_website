@@ -1,0 +1,41 @@
+{
+  "word": "coy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18281.png",
+      "local_image_path": "images/18281.png"
+    },
+    {
+      "pos": "adj",
+      "example": "He was a bit coy when she asked about the source of his income.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18282.png",
+      "local_image_path": "images/18282.png"
+    }
+  ],
+  "synonyms": [
+    "shy",
+    "bashful",
+    "timid",
+    "modest",
+    "reserved",
+    "demure",
+    "diffident",
+    "coquettish"
+  ],
+  "antonyms": [
+    "brazen"
+  ],
+  "similar_words": [
+    "coyan",
+    "coyly",
+    "coyness",
+    "coyote",
+    "coypu"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coy.mp3",
+  "local_sound_path": "sounds/coy.mp3"
+}

@@ -1,0 +1,92 @@
+{
+  "word": "content",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "are you content with your present salary?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17229.png",
+      "local_image_path": "images/17229.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17231.png",
+      "local_image_path": "images/17231.png"
+    },
+    {
+      "pos": "n",
+      "example": "content of a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17232.png",
+      "local_image_path": "images/17232.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117415.png",
+      "local_image_path": "images/117415.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117416.png",
+      "local_image_path": "images/117416.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117417.png",
+      "local_image_path": "images/117417.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117418.png",
+      "local_image_path": "images/117418.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117419.png",
+      "local_image_path": "images/117419.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17230.png",
+      "local_image_path": "images/17230.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117420.png",
+      "local_image_path": "images/117420.png"
+    }
+  ],
+  "synonyms": [
+    "satisfy",
+    "please",
+    "gratify",
+    "comfort",
+    "gladden",
+    "soothe"
+  ],
+  "antonyms": [
+    "unhappy",
+    "dissatisfy"
+  ],
+  "similar_words": [
+    "content provider",
+    "content site",
+    "contented",
+    "contentedly",
+    "contention",
+    "contentious",
+    "contentiously",
+    "contentiousness",
+    "contentment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/content.mp3",
+  "local_sound_path": "sounds/content.mp3"
+}

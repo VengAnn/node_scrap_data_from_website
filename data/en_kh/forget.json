@@ -1,0 +1,35 @@
+{
+  "word": "forget",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "foreget oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29819.png",
+      "local_image_path": "images/29819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I have forgotten her name.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29818.png",
+      "local_image_path": "images/29818.png"
+    }
+  ],
+  "synonyms": [
+    "disregard",
+    "overlook"
+  ],
+  "antonyms": [
+    "remember"
+  ],
+  "similar_words": [
+    "forget-menot",
+    "forgetable",
+    "forgetful",
+    "forgetfully",
+    "forgetfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forget.mp3",
+  "local_sound_path": "sounds/forget.mp3"
+}

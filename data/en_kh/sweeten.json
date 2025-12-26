@@ -1,0 +1,37 @@
+{
+  "word": "sweeten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86822.png",
+      "local_image_path": "images/86822.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sweeten the pill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86823.png",
+      "local_image_path": "images/86823.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86821.png",
+      "local_image_path": "images/86821.png"
+    }
+  ],
+  "synonyms": [
+    "pacify",
+    "mollify",
+    "appease",
+    "soothe"
+  ],
+  "antonyms": [
+    "aggravate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sweeten.mp3",
+  "local_sound_path": "sounds/sweeten.mp3"
+}

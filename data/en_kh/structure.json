@@ -1,0 +1,46 @@
+{
+  "word": "structure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "structure of society",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85513.png",
+      "local_image_path": "images/85513.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85514.png",
+      "local_image_path": "images/85514.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85515.png",
+      "local_image_path": "images/85515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85516.png",
+      "local_image_path": "images/85516.png"
+    }
+  ],
+  "synonyms": [
+    "arrange",
+    "organize",
+    "construct",
+    "configure",
+    "build up",
+    "make up",
+    "shape",
+    "constitute",
+    "form"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/structure.mp3",
+  "local_sound_path": "sounds/structure.mp3"
+}

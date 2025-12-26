@@ -1,0 +1,36 @@
+{
+  "word": "crow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18797.png",
+      "local_image_path": "images/18797.png"
+    },
+    {
+      "pos": "n",
+      "example": "black crow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18796.png",
+      "local_image_path": "images/18796.png"
+    }
+  ],
+  "synonyms": [
+    "boast",
+    "brag",
+    "swagger",
+    "swank",
+    "gloat"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "crowbar",
+    "crowd",
+    "crowded",
+    "crown",
+    "crowning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crow.mp3",
+  "local_sound_path": "sounds/crow.mp3"
+}

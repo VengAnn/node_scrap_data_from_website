@@ -1,0 +1,42 @@
+{
+  "word": "room",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74111.png",
+      "local_image_path": "images/74111.png"
+    },
+    {
+      "pos": "n",
+      "example": "What is your room?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74110.png",
+      "local_image_path": "images/74110.png"
+    }
+  ],
+  "synonyms": [
+    "space",
+    "scope",
+    "opportunity",
+    "area",
+    "extent",
+    "span",
+    "accommodation",
+    "capacity"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "room and board",
+    "roomer",
+    "roomette",
+    "roomful",
+    "rooming-house",
+    "roomless",
+    "roommate",
+    "roomy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/room.mp3",
+  "local_sound_path": "sounds/room.mp3"
+}

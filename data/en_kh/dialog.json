@@ -1,0 +1,44 @@
+{
+  "word": "dialog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21183.png",
+      "local_image_path": "images/21183.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118256.png",
+      "local_image_path": "images/118256.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118257.png",
+      "local_image_path": "images/118257.png"
+    }
+  ],
+  "synonyms": [
+    "conversation",
+    "interview",
+    "chat",
+    "discussion",
+    "discourse",
+    "talk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dialogic",
+    "dialogical",
+    "dialogist",
+    "dialogistic",
+    "dialogistical",
+    "dialogue"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dialog.mp3",
+  "local_sound_path": "sounds/dialog.mp3"
+}

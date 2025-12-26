@@ -1,0 +1,52 @@
+{
+  "word": "dust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23493.png",
+      "local_image_path": "images/23493.png"
+    },
+    {
+      "pos": "n",
+      "example": "wipe the dust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23491.png",
+      "local_image_path": "images/23491.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dust the furniture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23492.png",
+      "local_image_path": "images/23492.png"
+    }
+  ],
+  "synonyms": [
+    "sprinkle",
+    "brush",
+    "cover",
+    "scatter",
+    "sift",
+    "clean",
+    "wipe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dust up",
+    "dustbin",
+    "dustcart",
+    "dustcover",
+    "duster",
+    "dustiness",
+    "dusting",
+    "dustless",
+    "dustman",
+    "dustoor",
+    "dustpan",
+    "dustsheet",
+    "dusty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dust.mp3",
+  "local_sound_path": "sounds/dust.mp3"
+}

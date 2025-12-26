@@ -1,0 +1,34 @@
+{
+  "word": "marvel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106503.png",
+      "local_image_path": "images/106503.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106502.png",
+      "local_image_path": "images/106502.png"
+    }
+  ],
+  "synonyms": [
+    "wonder"
+  ],
+  "antonyms": [
+    "flop",
+    "deride"
+  ],
+  "similar_words": [
+    "marvellous",
+    "marvellously",
+    "marvellousness",
+    "marvelry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/marvel.mp3",
+  "local_sound_path": "sounds/marvel.mp3"
+}

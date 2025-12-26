@@ -1,0 +1,42 @@
+{
+  "word": "barn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7519.png",
+      "local_image_path": "images/7519.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114606.png",
+      "local_image_path": "images/114606.png"
+    }
+  ],
+  "synonyms": [
+    "shed",
+    "hangar",
+    "shelter",
+    "store"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "barn dance",
+    "barn swallow",
+    "barn-door",
+    "barn-owl",
+    "barnacle",
+    "barnacle goose",
+    "barnacled",
+    "barnage",
+    "barney",
+    "barnstorm",
+    "barnstormer",
+    "barnyard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/barn.mp3",
+  "local_sound_path": "sounds/barn.mp3"
+}

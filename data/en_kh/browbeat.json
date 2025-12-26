@@ -1,0 +1,36 @@
+{
+  "word": "browbeat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11500.png",
+      "local_image_path": "images/11500.png"
+    }
+  ],
+  "synonyms": [
+    "badger",
+    "bully",
+    "cudgel",
+    "dragoon",
+    "nag",
+    "push",
+    "pester",
+    "threaten",
+    "force",
+    "coerce",
+    "intimidate",
+    "forced"
+  ],
+  "antonyms": [
+    "persuade"
+  ],
+  "similar_words": [
+    "browbeaten",
+    "browbeater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/browbeat.mp3",
+  "local_sound_path": "sounds/browbeat.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "brewing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "tea is brewing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11010.png",
+      "local_image_path": "images/11010.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11009.png",
+      "local_image_path": "images/11009.png"
+    }
+  ],
+  "synonyms": [
+    "developing",
+    "looming",
+    "growing"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/brewing.mp3",
+  "local_sound_path": "sounds/brewing.mp3"
+}

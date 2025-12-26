@@ -1,0 +1,48 @@
+{
+  "word": "treacherous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "treacherous act",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91359.png",
+      "local_image_path": "images/91359.png"
+    },
+    {
+      "pos": "adj",
+      "example": "treacherous adversary",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91360.png",
+      "local_image_path": "images/91360.png"
+    },
+    {
+      "pos": "adj",
+      "example": "treacherous territory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91361.png",
+      "local_image_path": "images/91361.png"
+    }
+  ],
+  "synonyms": [
+    "unsafe",
+    "dangerous",
+    "perilous",
+    "hazardous",
+    "risky",
+    "precarious",
+    "unsound",
+    "unstable",
+    "shaky",
+    "dodgy",
+    "instable"
+  ],
+  "antonyms": [
+    "loyal",
+    "safe"
+  ],
+  "similar_words": [
+    "treacherously",
+    "treacherousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/treacherous.mp3",
+  "local_sound_path": "sounds/treacherous.mp3"
+}

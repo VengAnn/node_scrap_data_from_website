@@ -1,0 +1,34 @@
+{
+  "word": "burr",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11969.png",
+      "local_image_path": "images/11969.png"
+    }
+  ],
+  "synonyms": [
+    "pronunciation",
+    "inflection",
+    "intonation",
+    "enunciation",
+    "drawl",
+    "twang",
+    "brogue",
+    "husk",
+    "pod",
+    "pericarp"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "burro",
+    "burrow",
+    "burrower",
+    "burry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burr.mp3",
+  "local_sound_path": "sounds/burr.mp3"
+}

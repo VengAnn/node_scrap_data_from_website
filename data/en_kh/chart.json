@@ -1,0 +1,38 @@
+{
+  "word": "chart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "treasure chart",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13888.png",
+      "local_image_path": "images/13888.png"
+    },
+    {
+      "pos": "tv",
+      "example": "chart a course",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13889.png",
+      "local_image_path": "images/13889.png"
+    }
+  ],
+  "synonyms": [
+    "register",
+    "record",
+    "project",
+    "plot",
+    "monitor",
+    "chronicle",
+    "log",
+    "follow",
+    "map",
+    "outline"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "charter",
+    "chartist"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chart.mp3",
+  "local_sound_path": "sounds/chart.mp3"
+}

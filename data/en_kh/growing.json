@@ -1,0 +1,32 @@
+{
+  "word": "growing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "growing child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33087.png",
+      "local_image_path": "images/33087.png"
+    },
+    {
+      "pos": "adj",
+      "example": "growing alarm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33088.png",
+      "local_image_path": "images/33088.png"
+    }
+  ],
+  "synonyms": [
+    "rising",
+    "mounting",
+    "increasing",
+    "upward",
+    "budding",
+    "emergent",
+    "developing",
+    "intensifying",
+    "strengthening"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null
+}

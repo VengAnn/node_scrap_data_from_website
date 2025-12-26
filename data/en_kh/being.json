@@ -1,0 +1,49 @@
+{
+  "word": "being",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "me, women and children are human beings",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8130.png",
+      "local_image_path": "images/8130.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114849.png",
+      "local_image_path": "images/114849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114850.png",
+      "local_image_path": "images/114850.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114851.png",
+      "local_image_path": "images/114851.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114852.png",
+      "local_image_path": "images/114852.png"
+    }
+  ],
+  "synonyms": [
+    "existence",
+    "life",
+    "happening",
+    "ensuing"
+  ],
+  "antonyms": [
+    "nothingness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/being.mp3",
+  "local_sound_path": "sounds/being.mp3"
+}

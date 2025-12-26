@@ -1,0 +1,38 @@
+{
+  "word": "injunction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40103.png",
+      "local_image_path": "images/40103.png"
+    },
+    {
+      "pos": "n",
+      "example": "court injunction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40104.png",
+      "local_image_path": "images/40104.png"
+    },
+    {
+      "pos": "n",
+      "example": "moral injunction",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40105.png",
+      "local_image_path": "images/40105.png"
+    }
+  ],
+  "synonyms": [
+    "ban",
+    "order",
+    "command",
+    "ruling",
+    "sanction",
+    "embargo",
+    "restriction"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/injunction.mp3",
+  "local_sound_path": "sounds/injunction.mp3"
+}

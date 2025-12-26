@@ -1,0 +1,42 @@
+{
+  "word": "canter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12738.png",
+      "local_image_path": "images/12738.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115930.png",
+      "local_image_path": "images/115930.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115931.png",
+      "local_image_path": "images/115931.png"
+    },
+    {
+      "pos": "v",
+      "example": "we cantered our horses of several miles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12739.png",
+      "local_image_path": "images/12739.png"
+    }
+  ],
+  "synonyms": [
+    "trot",
+    "run",
+    "gallop",
+    "jog",
+    "sprint"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/canter.mp3",
+  "local_sound_path": "sounds/canter.mp3"
+}

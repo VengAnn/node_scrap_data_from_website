@@ -1,0 +1,90 @@
+{
+  "word": "cable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "please write or cable",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12209.png",
+      "local_image_path": "images/12209.png"
+    },
+    {
+      "pos": "n",
+      "example": "television cable",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12207.png",
+      "local_image_path": "images/12207.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115784.png",
+      "local_image_path": "images/115784.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115785.png",
+      "local_image_path": "images/115785.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115786.png",
+      "local_image_path": "images/115786.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115787.png",
+      "local_image_path": "images/115787.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will cable to you soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12208.png",
+      "local_image_path": "images/12208.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115788.png",
+      "local_image_path": "images/115788.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115789.png",
+      "local_image_path": "images/115789.png"
+    }
+  ],
+  "synonyms": [
+    "wire",
+    "rope",
+    "line",
+    "lead",
+    "chain",
+    "flex",
+    "filament",
+    "cord"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cable car",
+    "cable length",
+    "cable modem",
+    "cable railueay",
+    "cable ready",
+    "cable television",
+    "cable transportation",
+    "cablecast",
+    "cablecaster",
+    "cablegram",
+    "cablelaid",
+    "cabler",
+    "cablet",
+    "cablevision"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cable.mp3",
+  "local_sound_path": "sounds/cable.mp3"
+}

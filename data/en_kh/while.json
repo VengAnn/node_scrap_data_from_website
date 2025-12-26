@@ -1,0 +1,42 @@
+{
+  "word": "while",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "conj",
+      "example": "He sings while he works",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99998.png",
+      "local_image_path": "images/99998.png"
+    },
+    {
+      "pos": "conj",
+      "example": "You're rich while he's poor.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99999.png",
+      "local_image_path": "images/99999.png"
+    },
+    {
+      "pos": "n",
+      "example": "for a while",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100000.png",
+      "local_image_path": "images/100000.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100001.png",
+      "local_image_path": "images/100001.png"
+    }
+  ],
+  "synonyms": [
+    "time",
+    "period",
+    "little",
+    "bit",
+    "interval"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/while.mp3",
+  "local_sound_path": "sounds/while.mp3"
+}

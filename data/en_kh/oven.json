@@ -1,0 +1,28 @@
+{
+  "word": "oven",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58552.png",
+      "local_image_path": "images/58552.png"
+    }
+  ],
+  "synonyms": [
+    "range",
+    "stove",
+    "kiln",
+    "rotisserie",
+    "cooker",
+    "furnace"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ovenful",
+    "ovenproof"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/oven.mp3",
+  "local_sound_path": "sounds/oven.mp3"
+}

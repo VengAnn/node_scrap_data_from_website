@@ -1,0 +1,41 @@
+{
+  "word": "quirk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a quirk of his personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69644.png",
+      "local_image_path": "images/69644.png"
+    },
+    {
+      "pos": "n",
+      "example": "a quirk of nature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69645.png",
+      "local_image_path": "images/69645.png"
+    }
+  ],
+  "synonyms": [
+    "fluke",
+    "coincidence",
+    "chance",
+    "accident",
+    "idiosyncrasy",
+    "peculiarity",
+    "foible",
+    "oddity",
+    "habit",
+    "eccentricity",
+    "trait",
+    "whim"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "quirkily",
+    "quirkiness",
+    "quirky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quirk.mp3",
+  "local_sound_path": "sounds/quirk.mp3"
+}

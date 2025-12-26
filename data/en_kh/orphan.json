@@ -1,0 +1,41 @@
+{
+  "word": "orphan",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58085.png",
+      "local_image_path": "images/58085.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58083.png",
+      "local_image_path": "images/58083.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Children orphaned the war.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58084.png",
+      "local_image_path": "images/58084.png"
+    }
+  ],
+  "synonyms": [
+    "stray",
+    "soul",
+    "thing",
+    "urchin",
+    "bereave",
+    "leave"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "orphanage",
+    "orphancy",
+    "orphanhood"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/orphan.mp3",
+  "local_sound_path": "sounds/orphan.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "phone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62594.png",
+      "local_image_path": "images/62594.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62595.png",
+      "local_image_path": "images/62595.png"
+    }
+  ],
+  "synonyms": [
+    "call",
+    "ring",
+    "buzz",
+    "telephone"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "phone book",
+    "phone booth",
+    "phone sex",
+    "phonematic",
+    "phoneme",
+    "phonemic",
+    "phonemically",
+    "phonemicist",
+    "phonemics",
+    "phonetic",
+    "phonetically",
+    "phonetician",
+    "phoneticist",
+    "phonetics",
+    "phonetist",
+    "phoney"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/phone.mp3",
+  "local_sound_path": "sounds/phone.mp3"
+}

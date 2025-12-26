@@ -1,0 +1,46 @@
+{
+  "word": "union",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "union of two states",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94586.png",
+      "local_image_path": "images/94586.png"
+    },
+    {
+      "pos": "n",
+      "example": "labor union",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94587.png",
+      "local_image_path": "images/94587.png"
+    },
+    {
+      "pos": "n",
+      "example": "pipe union",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94588.png",
+      "local_image_path": "images/94588.png"
+    }
+  ],
+  "synonyms": [
+    "marriage",
+    "matrimony",
+    "wedlock",
+    "bond",
+    "wedding",
+    "tie"
+  ],
+  "antonyms": [
+    "separation",
+    "discord",
+    "divorce"
+  ],
+  "similar_words": [
+    "unionism",
+    "unionist",
+    "unionization",
+    "unionize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/union.mp3",
+  "local_sound_path": "sounds/union.mp3"
+}

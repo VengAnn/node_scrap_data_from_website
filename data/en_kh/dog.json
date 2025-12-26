@@ -1,0 +1,67 @@
+{
+  "word": "dog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22576.png",
+      "local_image_path": "images/22576.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dog his foots teps",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22577.png",
+      "local_image_path": "images/22577.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dog a load of lumber",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22578.png",
+      "local_image_path": "images/22578.png"
+    }
+  ],
+  "synonyms": [
+    "afflict",
+    "plague",
+    "trouble",
+    "bother",
+    "beleaguer",
+    "harass",
+    "vex",
+    "pester",
+    "hassle",
+    "badger",
+    "hound"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "dog fish",
+    "dog-cheap",
+    "dog-collar",
+    "dog-days",
+    "dog-eared",
+    "dog-end",
+    "dog-hole",
+    "dog-tired",
+    "dogal",
+    "dogaressa",
+    "dogbane",
+    "dogdom",
+    "doge",
+    "dogfish",
+    "dogged",
+    "doggedly",
+    "doggedness",
+    "doggerel",
+    "doggery",
+    "doggish",
+    "doggy",
+    "doglike",
+    "dogma",
+    "dogmatic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dog.mp3",
+  "local_sound_path": "sounds/dog.mp3"
+}

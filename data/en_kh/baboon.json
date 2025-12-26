@@ -1,0 +1,37 @@
+{
+  "word": "baboon",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6887.png",
+      "local_image_path": "images/6887.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114371.png",
+      "local_image_path": "images/114371.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6888.png",
+      "local_image_path": "images/6888.png"
+    }
+  ],
+  "synonyms": [
+    "monkey",
+    "ape",
+    "mandrill",
+    "primate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "baboonery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/baboon.mp3",
+  "local_sound_path": "sounds/baboon.mp3"
+}

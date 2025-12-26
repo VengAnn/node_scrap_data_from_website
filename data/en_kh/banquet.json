@@ -1,0 +1,34 @@
+{
+  "word": "banquet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7367.png",
+      "local_image_path": "images/7367.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7366.png",
+      "local_image_path": "images/7366.png"
+    }
+  ],
+  "synonyms": [
+    "feast",
+    "dinner",
+    "meal",
+    "blowout"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "banquet room",
+    "banqueter",
+    "banqueting",
+    "banquette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banquet.mp3",
+  "local_sound_path": "sounds/banquet.mp3"
+}

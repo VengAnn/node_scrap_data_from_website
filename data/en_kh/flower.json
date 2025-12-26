@@ -1,0 +1,59 @@
+{
+  "word": "flower",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "These plants will flower in the spring.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29266.png",
+      "local_image_path": "images/29266.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29264.png",
+      "local_image_path": "images/29264.png"
+    },
+    {
+      "pos": "n",
+      "example": "plants in flower",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29265.png",
+      "local_image_path": "images/29265.png"
+    }
+  ],
+  "synonyms": [
+    "best",
+    "pick",
+    "height",
+    "cream",
+    "develop",
+    "flourish",
+    "blossom",
+    "thrive",
+    "mature",
+    "peak"
+  ],
+  "antonyms": [
+    "fade",
+    "wane",
+    "worst"
+  ],
+  "similar_words": [
+    "flower bug",
+    "flower power",
+    "flower scented",
+    "flower-bed",
+    "flower-children",
+    "flower-girl",
+    "flower-show",
+    "flowerage",
+    "floweret",
+    "floweriness",
+    "flowerless",
+    "flowerpot",
+    "flowery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flower.mp3",
+  "local_sound_path": "sounds/flower.mp3"
+}

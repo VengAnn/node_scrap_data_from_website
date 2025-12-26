@@ -1,0 +1,35 @@
+{
+  "word": "abstain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Buddha ordered the monks to abstain from taking food in the evening",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1671.png",
+      "local_image_path": "images/1671.png"
+    },
+    {
+      "pos": "law",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1672.png",
+      "local_image_path": "images/1672.png"
+    },
+    {
+      "pos": "law",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112139.png",
+      "local_image_path": "images/112139.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "vote",
+    "indulge"
+  ],
+  "similar_words": [
+    "abstainer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abstain.mp3",
+  "local_sound_path": "sounds/abstain.mp3"
+}

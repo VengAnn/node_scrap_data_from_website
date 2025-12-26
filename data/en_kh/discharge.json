@@ -1,0 +1,73 @@
+{
+  "word": "discharge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "guns discharge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21645.png",
+      "local_image_path": "images/21645.png"
+    },
+    {
+      "pos": "iv",
+      "example": "batteries discharge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21646.png",
+      "local_image_path": "images/21646.png"
+    },
+    {
+      "pos": "n",
+      "example": "discharge a responsibility",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21643.png",
+      "local_image_path": "images/21643.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21647.png",
+      "local_image_path": "images/21647.png"
+    },
+    {
+      "pos": "n",
+      "example": "discharge from the army",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21648.png",
+      "local_image_path": "images/21648.png"
+    },
+    {
+      "pos": "tv",
+      "example": "discharge an employee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21641.png",
+      "local_image_path": "images/21641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "discharge a gun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21642.png",
+      "local_image_path": "images/21642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "discharge a battery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21644.png",
+      "local_image_path": "images/21644.png"
+    }
+  ],
+  "synonyms": [
+    "emission",
+    "flow",
+    "secretion",
+    "excretion",
+    "seepage",
+    "pus",
+    "emit",
+    "excrete",
+    "expel",
+    "ooze",
+    "leak",
+    "exude"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/discharge.mp3",
+  "local_sound_path": "sounds/discharge.mp3"
+}

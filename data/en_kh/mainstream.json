@@ -1,0 +1,33 @@
+{
+  "word": "mainstream",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mainstream of political thought",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105411.png",
+      "local_image_path": "images/105411.png"
+    },
+    {
+      "pos": "n",
+      "example": "mainstream of river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105412.png",
+      "local_image_path": "images/105412.png"
+    }
+  ],
+  "synonyms": [
+    "normal",
+    "typical",
+    "conventional",
+    "ordinary",
+    "majority",
+    "vanilla"
+  ],
+  "antonyms": [
+    "unconventional"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mainstream.mp3",
+  "local_sound_path": "sounds/mainstream.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "bead",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7834.png",
+      "local_image_path": "images/7834.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7835.png",
+      "local_image_path": "images/7835.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7833.png",
+      "local_image_path": "images/7833.png"
+    }
+  ],
+  "synonyms": [
+    "drop",
+    "droplet",
+    "drip",
+    "blob",
+    "globule"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beading",
+    "beadle",
+    "beadwork",
+    "beady"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bead.mp3",
+  "local_sound_path": "sounds/bead.mp3"
+}

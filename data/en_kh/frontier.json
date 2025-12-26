@@ -1,0 +1,32 @@
+{
+  "word": "frontier",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30426.png",
+      "local_image_path": "images/30426.png"
+    },
+    {
+      "pos": "n",
+      "example": "frontier marker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30427.png",
+      "local_image_path": "images/30427.png"
+    }
+  ],
+  "synonyms": [
+    "border",
+    "boundary",
+    "limit",
+    "edge",
+    "borderline"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "frontiersman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frontier.mp3",
+  "local_sound_path": "sounds/frontier.mp3"
+}

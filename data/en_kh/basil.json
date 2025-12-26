@@ -1,0 +1,28 @@
+{
+  "word": "basil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7646.png",
+      "local_image_path": "images/7646.png"
+    }
+  ],
+  "synonyms": [
+    "herb",
+    "rosemary",
+    "sage",
+    "thyme",
+    "parsley"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "basilia",
+    "basilica",
+    "basilisk"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/basil.mp3",
+  "local_sound_path": "sounds/basil.mp3"
+}

@@ -1,0 +1,64 @@
+{
+  "word": "restoration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72938.png",
+      "local_image_path": "images/72938.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126998.png",
+      "local_image_path": "images/126998.png"
+    },
+    {
+      "pos": "n",
+      "example": "restoration of a building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72937.png",
+      "local_image_path": "images/72937.png"
+    },
+    {
+      "pos": "n",
+      "example": "restoration of health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72939.png",
+      "local_image_path": "images/72939.png"
+    },
+    {
+      "pos": "n",
+      "example": "restoration of lost property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72940.png",
+      "local_image_path": "images/72940.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126999.png",
+      "local_image_path": "images/126999.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130739.png",
+      "local_image_path": "images/130739.png"
+    }
+  ],
+  "synonyms": [
+    "refurbishment",
+    "renovation",
+    "repair",
+    "renewal",
+    "reinstatement",
+    "return",
+    "restitution"
+  ],
+  "antonyms": [
+    "abolition"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restoration.mp3",
+  "local_sound_path": "sounds/restoration.mp3"
+}

@@ -1,0 +1,39 @@
+{
+  "word": "irritable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "irritable man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42392.png",
+      "local_image_path": "images/42392.png"
+    },
+    {
+      "pos": "adj",
+      "example": "irritable skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42393.png",
+      "local_image_path": "images/42393.png"
+    }
+  ],
+  "synonyms": [
+    "bad-tempered",
+    "touchy",
+    "short-tempered",
+    "ill-tempered",
+    "cross",
+    "prickly",
+    "tetchy",
+    "petulant",
+    "cantankerous",
+    "irascible",
+    "testy",
+    "grouchy"
+  ],
+  "antonyms": [
+    "easygoing"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/irritable.mp3",
+  "local_sound_path": "sounds/irritable.mp3"
+}

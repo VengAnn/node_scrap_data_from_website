@@ -1,0 +1,57 @@
+{
+  "word": "bowl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10427.png",
+      "local_image_path": "images/10427.png"
+    },
+    {
+      "pos": "n",
+      "example": "soup bowl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10425.png",
+      "local_image_path": "images/10425.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10426.png",
+      "local_image_path": "images/10426.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10428.png",
+      "local_image_path": "images/10428.png"
+    }
+  ],
+  "synonyms": [
+    "basin",
+    "sink",
+    "roll",
+    "pitch",
+    "throw",
+    "lob",
+    "hurl",
+    "cast",
+    "toss",
+    "fling",
+    "chuck"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bowl soup",
+    "bowlder",
+    "bowleg",
+    "bowlegged",
+    "bowler",
+    "bowling",
+    "bowling-alley",
+    "bowling-green"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bowl.mp3",
+  "local_sound_path": "sounds/bowl.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "uncertainty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93520.png",
+      "local_image_path": "images/93520.png"
+    }
+  ],
+  "synonyms": [
+    "doubt",
+    "indecision",
+    "hesitation",
+    "vagueness",
+    "ambiguity",
+    "insecurity",
+    "improbability"
+  ],
+  "antonyms": [
+    "confidence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uncertainty.mp3",
+  "local_sound_path": "sounds/uncertainty.mp3"
+}

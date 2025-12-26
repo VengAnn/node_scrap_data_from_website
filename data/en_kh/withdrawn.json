@@ -1,0 +1,45 @@
+{
+  "word": "withdrawn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100635.png",
+      "local_image_path": "images/100635.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129909.png",
+      "local_image_path": "images/129909.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129910.png",
+      "local_image_path": "images/129910.png"
+    }
+  ],
+  "synonyms": [
+    "reserved",
+    "quiet",
+    "remote",
+    "solitary",
+    "introvert",
+    "introverted",
+    "left",
+    "departed",
+    "abandoned",
+    "retired"
+  ],
+  "antonyms": [
+    "outgoing",
+    "inserted",
+    "confirmed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/withdrawn.mp3",
+  "local_sound_path": "sounds/withdrawn.mp3"
+}

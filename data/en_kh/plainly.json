@@ -1,0 +1,42 @@
+{
+  "word": "plainly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63782.png",
+      "local_image_path": "images/63782.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125577.png",
+      "local_image_path": "images/125577.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125578.png",
+      "local_image_path": "images/125578.png"
+    }
+  ],
+  "synonyms": [
+    "bluntly",
+    "directly",
+    "frankly",
+    "openly",
+    "blatantly",
+    "candidly",
+    "baldly"
+  ],
+  "antonyms": [
+    "elaborately",
+    "obscurely",
+    "evasively"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plainly.mp3",
+  "local_sound_path": "sounds/plainly.mp3"
+}

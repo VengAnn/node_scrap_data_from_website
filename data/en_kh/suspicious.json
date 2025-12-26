@@ -1,0 +1,35 @@
+{
+  "word": "suspicious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "She is suspicious of her friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86685.png",
+      "local_image_path": "images/86685.png"
+    }
+  ],
+  "synonyms": [
+    "dubious",
+    "suspect",
+    "iffy",
+    "fishy",
+    "shady",
+    "shifty",
+    "devious",
+    "irregular",
+    "untrustworthy",
+    "dodgy",
+    "questionable",
+    "unreliable"
+  ],
+  "antonyms": [
+    "trusting",
+    "trustworthy",
+    "sure"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suspicious.mp3",
+  "local_sound_path": "sounds/suspicious.mp3"
+}

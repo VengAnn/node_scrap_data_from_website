@@ -1,0 +1,36 @@
+{
+  "word": "assume",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "let's assume that this is true",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5977.png",
+      "local_image_path": "images/5977.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112129.png",
+      "local_image_path": "images/112129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112130.png",
+      "local_image_path": "images/112130.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132042.png",
+      "local_image_path": "images/132042.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assume.mp3",
+  "local_sound_path": "sounds/assume.mp3"
+}

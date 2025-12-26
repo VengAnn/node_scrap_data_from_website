@@ -1,0 +1,25 @@
+{
+  "word": "burgher",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11917.png",
+      "local_image_path": "images/11917.png"
+    }
+  ],
+  "synonyms": [
+    "citizen",
+    "resident",
+    "inhabitant",
+    "denizen",
+    "voter",
+    "taxpayer"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burgher.mp3",
+  "local_sound_path": "sounds/burgher.mp3"
+}

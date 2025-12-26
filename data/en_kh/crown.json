@@ -1,0 +1,52 @@
+{
+  "word": "crown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "crown colony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18808.png",
+      "local_image_path": "images/18808.png"
+    },
+    {
+      "pos": "n",
+      "example": "royal crown",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18804.png",
+      "local_image_path": "images/18804.png"
+    },
+    {
+      "pos": "n",
+      "example": "dental crown",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18805.png",
+      "local_image_path": "images/18805.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crown a king",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18806.png",
+      "local_image_path": "images/18806.png"
+    },
+    {
+      "pos": "tv",
+      "example": "crown a tooth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18807.png",
+      "local_image_path": "images/18807.png"
+    }
+  ],
+  "synonyms": [
+    "trophy",
+    "prize",
+    "garland",
+    "honor",
+    "award",
+    "laurels",
+    "cap",
+    "top",
+    "complete"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crown.mp3",
+  "local_sound_path": "sounds/crown.mp3"
+}

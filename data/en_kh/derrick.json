@@ -1,0 +1,32 @@
+{
+  "word": "derrick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "construction derrick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20775.png",
+      "local_image_path": "images/20775.png"
+    },
+    {
+      "pos": "n",
+      "example": "derrick oil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20776.png",
+      "local_image_path": "images/20776.png"
+    }
+  ],
+  "synonyms": [
+    "platform",
+    "crane",
+    "winch",
+    "gantry",
+    "hoist",
+    "elevator",
+    "lift"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/derrick.mp3",
+  "local_sound_path": "sounds/derrick.mp3"
+}

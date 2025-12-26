@@ -1,0 +1,86 @@
+{
+  "word": "flight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "bird in flight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29063.png",
+      "local_image_path": "images/29063.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29064.png",
+      "local_image_path": "images/29064.png"
+    },
+    {
+      "pos": "n",
+      "example": "All flights have been cancelled because of fog.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29065.png",
+      "local_image_path": "images/29065.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29073.png",
+      "local_image_path": "images/29073.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29074.png",
+      "local_image_path": "images/29074.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120228.png",
+      "local_image_path": "images/120228.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120229.png",
+      "local_image_path": "images/120229.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120230.png",
+      "local_image_path": "images/120230.png"
+    }
+  ],
+  "synonyms": [
+    "escape",
+    "departure",
+    "getaway",
+    "breakout",
+    "evasion",
+    "breakaway"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "flight attendant",
+    "flight formation",
+    "flight lieutenant",
+    "flight of fancy",
+    "flight of stairs",
+    "flight officer",
+    "flight path",
+    "flight sergeant",
+    "flight-attendant",
+    "flight-deck",
+    "flight-path",
+    "flight-recorder",
+    "flight-simulator",
+    "flight-test",
+    "flightily",
+    "flightiness",
+    "flightless",
+    "flighty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flight.mp3",
+  "local_sound_path": "sounds/flight.mp3"
+}

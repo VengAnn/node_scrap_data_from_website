@@ -1,0 +1,39 @@
+{
+  "word": "aye",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6839.png",
+      "local_image_path": "images/6839.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6841.png",
+      "local_image_path": "images/6841.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6840.png",
+      "local_image_path": "images/6840.png"
+    }
+  ],
+  "synonyms": [
+    "yes",
+    "yea",
+    "yeah",
+    "indeed",
+    "absolutely",
+    "right"
+  ],
+  "antonyms": [
+    "no"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aye.mp3",
+  "local_sound_path": "sounds/aye.mp3"
+}

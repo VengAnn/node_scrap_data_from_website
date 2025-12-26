@@ -1,0 +1,36 @@
+{
+  "word": "asymmetric",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6108.png",
+      "local_image_path": "images/6108.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112838.png",
+      "local_image_path": "images/112838.png"
+    }
+  ],
+  "synonyms": [
+    "unequal",
+    "uneven",
+    "irregular",
+    "lopsided",
+    "disproportionate",
+    "unbalanced"
+  ],
+  "antonyms": [
+    "symmetrical"
+  ],
+  "similar_words": [
+    "asymmetrical",
+    "asymmetrically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/asymmetric.mp3",
+  "local_sound_path": "sounds/asymmetric.mp3"
+}

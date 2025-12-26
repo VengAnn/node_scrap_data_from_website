@@ -1,0 +1,32 @@
+{
+  "word": "poser",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65342.png",
+      "local_image_path": "images/65342.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65343.png",
+      "local_image_path": "images/65343.png"
+    }
+  ],
+  "synonyms": [
+    "problem",
+    "question",
+    "puzzle",
+    "conundrum",
+    "challenge",
+    "riddle",
+    "enigma"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/poser.mp3",
+  "local_sound_path": "sounds/poser.mp3"
+}

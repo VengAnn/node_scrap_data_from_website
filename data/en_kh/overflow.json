@@ -1,0 +1,41 @@
+{
+  "word": "overflow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "rivers overflow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58700.png",
+      "local_image_path": "images/58700.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58702.png",
+      "local_image_path": "images/58702.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overflow its banks",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58701.png",
+      "local_image_path": "images/58701.png"
+    }
+  ],
+  "synonyms": [
+    "excess",
+    "extra",
+    "surfeit",
+    "surplus",
+    "overspill",
+    "flood",
+    "burst",
+    "spill over"
+  ],
+  "antonyms": [
+    "lack"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overflow.mp3",
+  "local_sound_path": "sounds/overflow.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "word": "precise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66037.png",
+      "local_image_path": "images/66037.png"
+    },
+    {
+      "pos": "adj",
+      "example": "precise instructions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66038.png",
+      "local_image_path": "images/66038.png"
+    },
+    {
+      "pos": "adj",
+      "example": "precise measurement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66039.png",
+      "local_image_path": "images/66039.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66040.png",
+      "local_image_path": "images/66040.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125839.png",
+      "local_image_path": "images/125839.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125840.png",
+      "local_image_path": "images/125840.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125841.png",
+      "local_image_path": "images/125841.png"
+    }
+  ],
+  "synonyms": [
+    "meticulous",
+    "scrupulous",
+    "particular",
+    "careful",
+    "fastidious",
+    "strict",
+    "rigid",
+    "inflexible"
+  ],
+  "antonyms": [
+    "vague",
+    "careless"
+  ],
+  "similar_words": [
+    "precisely",
+    "preciseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/precise.mp3",
+  "local_sound_path": "sounds/precise.mp3"
+}

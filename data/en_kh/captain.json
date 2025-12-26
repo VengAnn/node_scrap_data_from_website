@@ -1,0 +1,30 @@
+{
+  "word": "captain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "army captain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12860.png",
+      "local_image_path": "images/12860.png"
+    },
+    {
+      "pos": "tv",
+      "example": "captain a ship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12861.png",
+      "local_image_path": "images/12861.png"
+    }
+  ],
+  "synonyms": [
+    "lead",
+    "skipper",
+    "manage",
+    "head",
+    "control"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/captain.mp3",
+  "local_sound_path": "sounds/captain.mp3"
+}

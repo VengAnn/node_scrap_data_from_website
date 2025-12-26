@@ -1,0 +1,67 @@
+{
+  "word": "skim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "skim over the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80740.png",
+      "local_image_path": "images/80740.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80741.png",
+      "local_image_path": "images/80741.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80742.png",
+      "local_image_path": "images/80742.png"
+    },
+    {
+      "pos": "tv",
+      "example": "skim cream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80737.png",
+      "local_image_path": "images/80737.png"
+    },
+    {
+      "pos": "tv",
+      "example": "skim the water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80738.png",
+      "local_image_path": "images/80738.png"
+    },
+    {
+      "pos": "tv",
+      "example": "skim a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80739.png",
+      "local_image_path": "images/80739.png"
+    }
+  ],
+  "synonyms": [
+    "scan",
+    "browse"
+  ],
+  "antonyms": [
+    "study",
+    "peruse"
+  ],
+  "similar_words": [
+    "skim-milk",
+    "skimble",
+    "skimble-scamble",
+    "skimmer",
+    "skimming",
+    "skimming-dish",
+    "skimmingly",
+    "skimmington",
+    "skimp",
+    "skimpily",
+    "skimpiness",
+    "skimpy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skim.mp3",
+  "local_sound_path": "sounds/skim.mp3"
+}

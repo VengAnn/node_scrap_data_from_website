@@ -1,0 +1,35 @@
+{
+  "word": "persuasion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "method of persuasion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62078.png",
+      "local_image_path": "images/62078.png"
+    },
+    {
+      "pos": "n",
+      "example": "religious persuasion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62079.png",
+      "local_image_path": "images/62079.png"
+    }
+  ],
+  "synonyms": [
+    "affiliation",
+    "belief",
+    "order",
+    "denomination",
+    "connection",
+    "faith",
+    "conviction",
+    "opinion",
+    "view",
+    "creed"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/persuasion.mp3",
+  "local_sound_path": "sounds/persuasion.mp3"
+}

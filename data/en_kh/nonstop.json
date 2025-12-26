@@ -1,0 +1,31 @@
+{
+  "word": "nonstop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "nonstop flight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56209.png",
+      "local_image_path": "images/56209.png"
+    },
+    {
+      "pos": "adj",
+      "example": "nonstop trouble",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56210.png",
+      "local_image_path": "images/56210.png"
+    }
+  ],
+  "synonyms": [
+    "uncontrollably",
+    "wildly"
+  ],
+  "antonyms": [
+    "calmly",
+    "intermittent",
+    "sporadically"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nonstop.mp3",
+  "local_sound_path": "sounds/nonstop.mp3"
+}

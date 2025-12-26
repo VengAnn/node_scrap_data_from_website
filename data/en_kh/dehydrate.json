@@ -1,0 +1,29 @@
+{
+  "word": "dehydrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20271.png",
+      "local_image_path": "images/20271.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20270.png",
+      "local_image_path": "images/20270.png"
+    }
+  ],
+  "synonyms": [
+    "dry",
+    "burn",
+    "scorch",
+    "desiccate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dehydrate.mp3",
+  "local_sound_path": "sounds/dehydrate.mp3"
+}

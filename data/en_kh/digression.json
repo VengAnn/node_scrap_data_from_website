@@ -1,0 +1,45 @@
+{
+  "word": "digression",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21356.png",
+      "local_image_path": "images/21356.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118307.png",
+      "local_image_path": "images/118307.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118308.png",
+      "local_image_path": "images/118308.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118309.png",
+      "local_image_path": "images/118309.png"
+    }
+  ],
+  "synonyms": [
+    "aside",
+    "detour",
+    "excursion",
+    "foray",
+    "deviation",
+    "departure"
+  ],
+  "antonyms": [
+    "focus"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/digression.mp3",
+  "local_sound_path": "sounds/digression.mp3"
+}

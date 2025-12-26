@@ -1,0 +1,73 @@
+{
+  "word": "fog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "thick fog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29439.png",
+      "local_image_path": "images/29439.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental fog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29440.png",
+      "local_image_path": "images/29440.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29444.png",
+      "local_image_path": "images/29444.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29441.png",
+      "local_image_path": "images/29441.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fog (up) the wind shield",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29442.png",
+      "local_image_path": "images/29442.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fog (up) an issue",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29443.png",
+      "local_image_path": "images/29443.png"
+    }
+  ],
+  "synonyms": [
+    "cloud",
+    "bewilder",
+    "confuse",
+    "stupefy",
+    "muddle",
+    "fuddle",
+    "obscure",
+    "dim",
+    "perplex"
+  ],
+  "antonyms": [
+    "clarity",
+    "sharpen"
+  ],
+  "similar_words": [
+    "fog lamp",
+    "fog-bound",
+    "fogey",
+    "foggily",
+    "fogginess",
+    "foggy",
+    "Foggy bottom",
+    "foghorn",
+    "fogy",
+    "fogyish",
+    "fogyism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fog.mp3",
+  "local_sound_path": "sounds/fog.mp3"
+}

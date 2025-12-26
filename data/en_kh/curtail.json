@@ -1,0 +1,32 @@
+{
+  "word": "curtail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "We must try to curtail our spending.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19220.png",
+      "local_image_path": "images/19220.png"
+    }
+  ],
+  "synonyms": [
+    "limit",
+    "restrain",
+    "restrict",
+    "curb",
+    "shorten",
+    "inhibit",
+    "reduce",
+    "decrease",
+    "clip",
+    "trim",
+    "pare down"
+  ],
+  "antonyms": [
+    "extend"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/curtail.mp3",
+  "local_sound_path": "sounds/curtail.mp3"
+}

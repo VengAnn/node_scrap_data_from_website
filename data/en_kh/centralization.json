@@ -1,0 +1,44 @@
+{
+  "word": "centralization",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13586.png",
+      "local_image_path": "images/13586.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13589.png",
+      "local_image_path": "images/13589.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116105.png",
+      "local_image_path": "images/116105.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116106.png",
+      "local_image_path": "images/116106.png"
+    }
+  ],
+  "synonyms": [
+    "concentration",
+    "control",
+    "centralism",
+    "domination",
+    "monopolization"
+  ],
+  "antonyms": [
+    "devolution"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/centralization.mp3",
+  "local_sound_path": "sounds/centralization.mp3"
+}

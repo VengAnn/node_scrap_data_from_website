@@ -1,0 +1,37 @@
+{
+  "word": "divergent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22418.png",
+      "local_image_path": "images/22418.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118698.png",
+      "local_image_path": "images/118698.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118699.png",
+      "local_image_path": "images/118699.png"
+    }
+  ],
+  "synonyms": [
+    "different",
+    "opposite",
+    "contrary",
+    "contradictory"
+  ],
+  "antonyms": [
+    "similar"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/divergent.mp3",
+  "local_sound_path": "sounds/divergent.mp3"
+}

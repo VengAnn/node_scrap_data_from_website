@@ -1,0 +1,30 @@
+{
+  "word": "devoted",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "devoted friend",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21119.png",
+      "local_image_path": "images/21119.png"
+    }
+  ],
+  "synonyms": [
+    "keen",
+    "enthusiastic",
+    "ardent",
+    "fervent",
+    "fanatical",
+    "given"
+  ],
+  "antonyms": [
+    "uncommitted",
+    "uncaring"
+  ],
+  "similar_words": [
+    "devotedly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devoted.mp3",
+  "local_sound_path": "sounds/devoted.mp3"
+}

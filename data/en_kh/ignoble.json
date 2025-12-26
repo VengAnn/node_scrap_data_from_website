@@ -1,0 +1,43 @@
+{
+  "word": "ignoble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37189.png",
+      "local_image_path": "images/37189.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121379.png",
+      "local_image_path": "images/121379.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121380.png",
+      "local_image_path": "images/121380.png"
+    }
+  ],
+  "synonyms": [
+    "shameful",
+    "immoral",
+    "dastardly",
+    "base",
+    "low",
+    "reprehensible",
+    "despicable",
+    "shabby",
+    "disgraceful"
+  ],
+  "antonyms": [
+    "noble",
+    "honorable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ignoble.mp3",
+  "local_sound_path": "sounds/ignoble.mp3"
+}

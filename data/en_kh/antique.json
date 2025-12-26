@@ -1,0 +1,48 @@
+{
+  "word": "antique",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "antique furniture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4757.png",
+      "local_image_path": "images/4757.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4760.png",
+      "local_image_path": "images/4760.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4758.png",
+      "local_image_path": "images/4758.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4759.png",
+      "local_image_path": "images/4759.png"
+    }
+  ],
+  "synonyms": [
+    "traditional",
+    "aged",
+    "historic",
+    "old-fashioned",
+    "old",
+    "vintage"
+  ],
+  "antonyms": [
+    "new"
+  ],
+  "similar_words": [
+    "antiquely",
+    "antiqueness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/antique.mp3",
+  "local_sound_path": "sounds/antique.mp3"
+}

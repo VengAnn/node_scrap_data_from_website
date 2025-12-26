@@ -1,0 +1,35 @@
+{
+  "word": "mourn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "She mourned for her dead child for many years.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110737.png",
+      "local_image_path": "images/110737.png"
+    }
+  ],
+  "synonyms": [
+    "grieve",
+    "lament",
+    "bewail",
+    "bemoan",
+    "sorrow",
+    "pine",
+    "keen"
+  ],
+  "antonyms": [
+    "rejoice"
+  ],
+  "similar_words": [
+    "mourner",
+    "mournful",
+    "mournfully",
+    "mournfulness",
+    "mourning",
+    "mournival"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mourn.mp3",
+  "local_sound_path": "sounds/mourn.mp3"
+}

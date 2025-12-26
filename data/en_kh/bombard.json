@@ -1,0 +1,36 @@
+{
+  "word": "bombard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10043.png",
+      "local_image_path": "images/10043.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10044.png",
+      "local_image_path": "images/10044.png"
+    }
+  ],
+  "synonyms": [
+    "assail",
+    "shower",
+    "flood",
+    "inundate",
+    "overrun",
+    "overwhelm"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bombarder",
+    "bombardier",
+    "bombardment",
+    "bombardon"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bombard.mp3",
+  "local_sound_path": "sounds/bombard.mp3"
+}

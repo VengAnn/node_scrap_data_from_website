@@ -1,0 +1,52 @@
+{
+  "word": "squat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83916.png",
+      "local_image_path": "images/83916.png"
+    },
+    {
+      "pos": "iv",
+      "example": "squat on the floor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83914.png",
+      "local_image_path": "images/83914.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83917.png",
+      "local_image_path": "images/83917.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83915.png",
+      "local_image_path": "images/83915.png"
+    }
+  ],
+  "synonyms": [
+    "short",
+    "thick",
+    "dumpy",
+    "stubby",
+    "stocky",
+    "pudgy",
+    "crouch",
+    "cower",
+    "bend"
+  ],
+  "antonyms": [
+    "tall",
+    "stand"
+  ],
+  "similar_words": [
+    "squatarole",
+    "squatter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/squat.mp3",
+  "local_sound_path": "sounds/squat.mp3"
+}

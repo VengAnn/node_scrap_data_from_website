@@ -1,0 +1,44 @@
+{
+  "word": "bureau",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dressing bureau",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11900.png",
+      "local_image_path": "images/11900.png"
+    },
+    {
+      "pos": "n",
+      "example": "government bureau",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11901.png",
+      "local_image_path": "images/11901.png"
+    },
+    {
+      "pos": "n",
+      "example": "travel bureau",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11902.png",
+      "local_image_path": "images/11902.png"
+    }
+  ],
+  "synonyms": [
+    "dresser",
+    "chest",
+    "desk",
+    "escritoire",
+    "writing table",
+    "writing desk"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bureaucracy",
+    "bureaucrat",
+    "bureaucratese",
+    "bureaucratic",
+    "bureaucratically",
+    "bureaucratize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bureau.mp3",
+  "local_sound_path": "sounds/bureau.mp3"
+}

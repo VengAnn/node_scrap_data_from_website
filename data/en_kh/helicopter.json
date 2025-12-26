@@ -1,0 +1,23 @@
+{
+  "word": "helicopter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/34511.png",
+      "local_image_path": "images/34511.png"
+    }
+  ],
+  "synonyms": [
+    "airplane",
+    "plane",
+    "jet",
+    "airliner"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/helicopter.mp3",
+  "local_sound_path": "sounds/helicopter.mp3"
+}

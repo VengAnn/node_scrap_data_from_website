@@ -1,0 +1,46 @@
+{
+  "word": "shocking",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "shocking experience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79271.png",
+      "local_image_path": "images/79271.png"
+    },
+    {
+      "pos": "adj",
+      "example": "shocking manners",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79272.png",
+      "local_image_path": "images/79272.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79273.png",
+      "local_image_path": "images/79273.png"
+    }
+  ],
+  "synonyms": [
+    "appalling",
+    "dreadful",
+    "scandalous",
+    "outrageous",
+    "awful",
+    "disgusting",
+    "deplorable",
+    "wicked",
+    "offending",
+    "provoking"
+  ],
+  "antonyms": [
+    "reassuring"
+  ],
+  "similar_words": [
+    "shockingly",
+    "shockingness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shocking.mp3",
+  "local_sound_path": "sounds/shocking.mp3"
+}

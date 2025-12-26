@@ -1,0 +1,45 @@
+{
+  "word": "slaver",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81058.png",
+      "local_image_path": "images/81058.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81056.png",
+      "local_image_path": "images/81056.png"
+    },
+    {
+      "pos": "n",
+      "example": "white slaver",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81057.png",
+      "local_image_path": "images/81057.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81059.png",
+      "local_image_path": "images/81059.png"
+    }
+  ],
+  "synonyms": [
+    "drool",
+    "slobber",
+    "dribble",
+    "salivate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slaverer",
+    "slavering",
+    "slavery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slaver.mp3",
+  "local_sound_path": "sounds/slaver.mp3"
+}

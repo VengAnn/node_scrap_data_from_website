@@ -1,0 +1,35 @@
+{
+  "word": "congress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16809.png",
+      "local_image_path": "images/16809.png"
+    },
+    {
+      "pos": "n",
+      "example": "parliamentary congress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16808.png",
+      "local_image_path": "images/16808.png"
+    }
+  ],
+  "synonyms": [
+    "council",
+    "conference",
+    "meeting",
+    "convention",
+    "assembly"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "congressional",
+    "congressionally",
+    "congressman",
+    "congresswoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/congress.mp3",
+  "local_sound_path": "sounds/congress.mp3"
+}

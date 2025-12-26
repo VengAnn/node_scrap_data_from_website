@@ -1,0 +1,51 @@
+{
+  "word": "symbol",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mathematical symbol",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86988.png",
+      "local_image_path": "images/86988.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's a symbol of the revolution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86989.png",
+      "local_image_path": "images/86989.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86990.png",
+      "local_image_path": "images/86990.png"
+    }
+  ],
+  "synonyms": [
+    "emblem",
+    "image",
+    "representation",
+    "indication",
+    "badge",
+    "logo",
+    "sign"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "symbolic",
+    "symbolical",
+    "symbolically",
+    "symbolicalness",
+    "symbolism",
+    "symbolist",
+    "symbolistic",
+    "symbolistically",
+    "symbolization",
+    "symbolize",
+    "symbolizer",
+    "symbology"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/symbol.mp3",
+  "local_sound_path": "sounds/symbol.mp3"
+}

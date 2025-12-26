@@ -1,0 +1,32 @@
+{
+  "word": "bong",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10097.png",
+      "local_image_path": "images/10097.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10098.png",
+      "local_image_path": "images/10098.png"
+    }
+  ],
+  "synonyms": [
+    "bang",
+    "blow",
+    "thud",
+    "crash",
+    "knock",
+    "clang",
+    "dong"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bong.mp3",
+  "local_sound_path": "sounds/bong.mp3"
+}

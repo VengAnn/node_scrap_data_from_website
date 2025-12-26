@@ -1,0 +1,48 @@
+{
+  "word": "twaddle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92590.png",
+      "local_image_path": "images/92590.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128570.png",
+      "local_image_path": "images/128570.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92589.png",
+      "local_image_path": "images/92589.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128571.png",
+      "local_image_path": "images/128571.png"
+    }
+  ],
+  "synonyms": [
+    "nonsense",
+    "balderdash",
+    "rubbish",
+    "drivel",
+    "claptrap",
+    "baloney",
+    "garbage",
+    "tripe",
+    "boloney"
+  ],
+  "antonyms": [
+    "sense"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twaddle.mp3",
+  "local_sound_path": "sounds/twaddle.mp3"
+}

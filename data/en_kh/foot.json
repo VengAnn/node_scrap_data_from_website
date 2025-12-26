@@ -1,0 +1,91 @@
+{
+  "word": "foot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "foot brake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29575.png",
+      "local_image_path": "images/29575.png"
+    },
+    {
+      "pos": "iv",
+      "example": "foot it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29574.png",
+      "local_image_path": "images/29574.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29568.png",
+      "local_image_path": "images/29568.png"
+    },
+    {
+      "pos": "n",
+      "example": "foot of the hill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29569.png",
+      "local_image_path": "images/29569.png"
+    },
+    {
+      "pos": "n",
+      "example": "foot of the bed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29570.png",
+      "local_image_path": "images/29570.png"
+    },
+    {
+      "pos": "n",
+      "example": "foot of the class",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29571.png",
+      "local_image_path": "images/29571.png"
+    },
+    {
+      "pos": "tv",
+      "example": "foot a bill (for sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29572.png",
+      "local_image_path": "images/29572.png"
+    },
+    {
+      "pos": "tv",
+      "example": "foot a distance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29573.png",
+      "local_image_path": "images/29573.png"
+    }
+  ],
+  "synonyms": [
+    "base",
+    "bottom",
+    "end"
+  ],
+  "antonyms": [
+    "top"
+  ],
+  "similar_words": [
+    "foot brake",
+    "foot soldier",
+    "foot tour",
+    "foot-fall",
+    "foot-sore",
+    "footage",
+    "football",
+    "footballer",
+    "footboard",
+    "footbridge",
+    "foothill",
+    "foothold",
+    "footing",
+    "footle",
+    "footless",
+    "footlights",
+    "footling",
+    "footloose",
+    "footman",
+    "footmark",
+    "footnote",
+    "footpath",
+    "footplate",
+    "footprint"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/foot.mp3",
+  "local_sound_path": "sounds/foot.mp3"
+}

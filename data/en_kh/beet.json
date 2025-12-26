@@ -1,0 +1,28 @@
+{
+  "word": "beet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8048.png",
+      "local_image_path": "images/8048.png"
+    }
+  ],
+  "synonyms": [
+    "plant",
+    "beetroot",
+    "chard",
+    "sugar beet"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beet-sugar",
+    "beetle",
+    "beetling",
+    "beetroot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beet.mp3",
+  "local_sound_path": "sounds/beet.mp3"
+}

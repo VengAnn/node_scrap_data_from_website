@@ -1,0 +1,40 @@
+{
+  "word": "corporation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Broadcasting authorities are often public corporations",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17792.png",
+      "local_image_path": "images/17792.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117608.png",
+      "local_image_path": "images/117608.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117609.png",
+      "local_image_path": "images/117609.png"
+    }
+  ],
+  "synonyms": [
+    "business",
+    "company",
+    "firm",
+    "conglomerate",
+    "establishment",
+    "concern",
+    "organization",
+    "house",
+    "group"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/corporation.mp3",
+  "local_sound_path": "sounds/corporation.mp3"
+}

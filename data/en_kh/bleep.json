@@ -1,0 +1,35 @@
+{
+  "word": "bleep",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9501.png",
+      "local_image_path": "images/9501.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9502.png",
+      "local_image_path": "images/9502.png"
+    }
+  ],
+  "synonyms": [
+    "beep",
+    "tone",
+    "buzz",
+    "call",
+    "page",
+    "alert",
+    "signal",
+    "contact",
+    "summon",
+    "get"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bleep.mp3",
+  "local_sound_path": "sounds/bleep.mp3"
+}

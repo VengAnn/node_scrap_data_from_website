@@ -1,0 +1,43 @@
+{
+  "word": "aridity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5462.png",
+      "local_image_path": "images/5462.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113993.png",
+      "local_image_path": "images/113993.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113994.png",
+      "local_image_path": "images/113994.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113995.png",
+      "local_image_path": "images/113995.png"
+    }
+  ],
+  "synonyms": [
+    "dryness",
+    "drought",
+    "infertility",
+    "barrenness"
+  ],
+  "antonyms": [
+    "humidity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aridity.mp3",
+  "local_sound_path": "sounds/aridity.mp3"
+}

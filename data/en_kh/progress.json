@@ -1,0 +1,92 @@
+{
+  "word": "progress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "economics progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67489.png",
+      "local_image_path": "images/67489.png"
+    },
+    {
+      "pos": "iv",
+      "example": "patients progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67491.png",
+      "local_image_path": "images/67491.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67492.png",
+      "local_image_path": "images/67492.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67490.png",
+      "local_image_path": "images/67490.png"
+    },
+    {
+      "pos": "n",
+      "example": "economic progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67484.png",
+      "local_image_path": "images/67484.png"
+    },
+    {
+      "pos": "n",
+      "example": "patient's progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67485.png",
+      "local_image_path": "images/67485.png"
+    },
+    {
+      "pos": "n",
+      "example": "social progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67486.png",
+      "local_image_path": "images/67486.png"
+    },
+    {
+      "pos": "n",
+      "example": "progress of a disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67487.png",
+      "local_image_path": "images/67487.png"
+    },
+    {
+      "pos": "n",
+      "example": "progress of a parade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67488.png",
+      "local_image_path": "images/67488.png"
+    }
+  ],
+  "synonyms": [
+    "advance",
+    "proceed",
+    "develop",
+    "grow",
+    "improve",
+    "evolve",
+    "increase",
+    "continue",
+    "march"
+  ],
+  "antonyms": [
+    "retreat",
+    "regress",
+    "regression"
+  ],
+  "similar_words": [
+    "progression",
+    "progressional",
+    "progressionism",
+    "progressionist",
+    "progressist",
+    "progressive",
+    "progressively",
+    "progressiveness",
+    "progressivism",
+    "progressivist",
+    "progressivistic"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/progress.mp3",
+  "local_sound_path": "sounds/progress.mp3"
+}

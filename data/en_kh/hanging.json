@@ -1,0 +1,38 @@
+{
+  "word": "hanging",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "There were three hangings last month.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33773.png",
+      "local_image_path": "images/33773.png"
+    },
+    {
+      "pos": "n",
+      "example": "hanging matter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33774.png",
+      "local_image_path": "images/33774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33775.png",
+      "local_image_path": "images/33775.png"
+    }
+  ],
+  "synonyms": [
+    "execution",
+    "killing",
+    "sagging",
+    "nodding",
+    "folding"
+  ],
+  "antonyms": [
+    "upright"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hanging.mp3",
+  "local_sound_path": "sounds/hanging.mp3"
+}

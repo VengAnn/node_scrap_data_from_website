@@ -1,0 +1,48 @@
+{
+  "word": "retire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73109.png",
+      "local_image_path": "images/73109.png"
+    },
+    {
+      "pos": "iv",
+      "example": "retire at age 65",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73110.png",
+      "local_image_path": "images/73110.png"
+    },
+    {
+      "pos": "iv",
+      "example": "retire at 8 o'clock",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73111.png",
+      "local_image_path": "images/73111.png"
+    },
+    {
+      "pos": "iv",
+      "example": "retire from battle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73112.png",
+      "local_image_path": "images/73112.png"
+    },
+    {
+      "pos": "tv",
+      "example": "retire an officer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73113.png",
+      "local_image_path": "images/73113.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "retired",
+    "retiredly",
+    "retiredness",
+    "retiree",
+    "retirement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/retire.mp3",
+  "local_sound_path": "sounds/retire.mp3"
+}

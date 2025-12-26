@@ -1,0 +1,52 @@
+{
+  "word": "origin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58032.png",
+      "local_image_path": "images/58032.png"
+    },
+    {
+      "pos": "n",
+      "example": "origin of a movement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58033.png",
+      "local_image_path": "images/58033.png"
+    },
+    {
+      "pos": "n",
+      "example": "origin of a stream",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58034.png",
+      "local_image_path": "images/58034.png"
+    },
+    {
+      "pos": "n",
+      "example": "of German origin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58035.png",
+      "local_image_path": "images/58035.png"
+    }
+  ],
+  "synonyms": [
+    "source",
+    "derivation",
+    "cause",
+    "beginning",
+    "basis",
+    "foundation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "original",
+    "originality",
+    "originally",
+    "originary",
+    "originate",
+    "origination",
+    "originative",
+    "originator"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/origin.mp3",
+  "local_sound_path": "sounds/origin.mp3"
+}

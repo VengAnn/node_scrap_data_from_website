@@ -1,0 +1,48 @@
+{
+  "word": "detachment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20969.png",
+      "local_image_path": "images/20969.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118170.png",
+      "local_image_path": "images/118170.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118171.png",
+      "local_image_path": "images/118171.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118172.png",
+      "local_image_path": "images/118172.png"
+    }
+  ],
+  "synonyms": [
+    "group",
+    "unit",
+    "disconnection",
+    "separation",
+    "disengagement",
+    "disentanglement",
+    "extrication",
+    "severance"
+  ],
+  "antonyms": [
+    "involvement",
+    "connection"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detachment.mp3",
+  "local_sound_path": "sounds/detachment.mp3"
+}

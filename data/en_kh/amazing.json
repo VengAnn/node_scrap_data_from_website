@@ -1,0 +1,33 @@
+{
+  "word": "amazing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3765.png",
+      "local_image_path": "images/3765.png"
+    }
+  ],
+  "synonyms": [
+    "astonishing",
+    "astounding",
+    "remarkable",
+    "wonderful",
+    "incredible",
+    "startling",
+    "miraculous",
+    "surprising",
+    "mind-blowing",
+    "staggering",
+    "shocking",
+    "stunning"
+  ],
+  "antonyms": [
+    "unremarkable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/amazing.mp3",
+  "local_sound_path": "sounds/amazing.mp3"
+}

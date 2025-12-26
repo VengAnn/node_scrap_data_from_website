@@ -1,0 +1,59 @@
+{
+  "word": "nick",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a nick in a place",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55685.png",
+      "local_image_path": "images/55685.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He was nicked for stealing.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55682.png",
+      "local_image_path": "images/55682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He nicked $5 from his friend.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55683.png",
+      "local_image_path": "images/55683.png"
+    },
+    {
+      "pos": "tv",
+      "example": "nick a plate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55684.png",
+      "local_image_path": "images/55684.png"
+    }
+  ],
+  "synonyms": [
+    "scratch",
+    "cut",
+    "notch",
+    "score",
+    "incise",
+    "mark",
+    "dent",
+    "deface"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "nick-nack",
+    "nicked",
+    "nickel",
+    "nickel-and-dime",
+    "nickel-plated",
+    "nickelage",
+    "nickelic",
+    "nickeliferous",
+    "nickelize",
+    "nickelous",
+    "nickelure",
+    "nicker",
+    "nickname"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nick.mp3",
+  "local_sound_path": "sounds/nick.mp3"
+}

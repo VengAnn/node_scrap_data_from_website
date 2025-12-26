@@ -1,0 +1,35 @@
+{
+  "word": "rubbish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "litter with rubbish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74455.png",
+      "local_image_path": "images/74455.png"
+    },
+    {
+      "pos": "n",
+      "example": "The book is rubbish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74456.png",
+      "local_image_path": "images/74456.png"
+    }
+  ],
+  "synonyms": [
+    "nonsense",
+    "drivel",
+    "hogwash",
+    "criticize",
+    "slate",
+    "disparage",
+    "slam",
+    "pan"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rubbish.mp3",
+  "local_sound_path": "sounds/rubbish.mp3"
+}

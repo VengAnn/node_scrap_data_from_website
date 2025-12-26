@@ -1,0 +1,35 @@
+{
+  "word": "detergent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20991.png",
+      "local_image_path": "images/20991.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118187.png",
+      "local_image_path": "images/118187.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20990.png",
+      "local_image_path": "images/20990.png"
+    }
+  ],
+  "synonyms": [
+    "cleaner",
+    "cleanser",
+    "shampoo",
+    "soap"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detergent.mp3",
+  "local_sound_path": "sounds/detergent.mp3"
+}

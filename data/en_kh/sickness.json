@@ -1,0 +1,36 @@
+{
+  "word": "sickness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79762.png",
+      "local_image_path": "images/79762.png"
+    },
+    {
+      "pos": "n",
+      "example": "home-sickness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79781.png",
+      "local_image_path": "images/79781.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79782.png",
+      "local_image_path": "images/79782.png"
+    }
+  ],
+  "synonyms": [
+    "nausea",
+    "queasiness",
+    "biliousness"
+  ],
+  "antonyms": [
+    "health"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sickness.mp3",
+  "local_sound_path": "sounds/sickness.mp3"
+}

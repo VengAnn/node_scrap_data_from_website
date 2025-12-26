@@ -1,0 +1,52 @@
+{
+  "word": "harsh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "harsh punishment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33967.png",
+      "local_image_path": "images/33967.png"
+    },
+    {
+      "pos": "adj",
+      "example": "harsh criticsm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33968.png",
+      "local_image_path": "images/33968.png"
+    },
+    {
+      "pos": "adj",
+      "example": "harsh sound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33969.png",
+      "local_image_path": "images/33969.png"
+    },
+    {
+      "pos": "adj",
+      "example": "harsh colors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33970.png",
+      "local_image_path": "images/33970.png"
+    }
+  ],
+  "synonyms": [
+    "glaring",
+    "bright",
+    "stark"
+  ],
+  "antonyms": [
+    "gentle",
+    "mild",
+    "smooth",
+    "pleasant",
+    "soft",
+    "lenient",
+    "kind"
+  ],
+  "similar_words": [
+    "harshen",
+    "harshly",
+    "harshness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/harsh.mp3",
+  "local_sound_path": "sounds/harsh.mp3"
+}

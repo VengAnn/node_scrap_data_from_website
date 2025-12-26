@@ -1,0 +1,81 @@
+{
+  "word": "hide",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "save one's hide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35027.png",
+      "local_image_path": "images/35027.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35025.png",
+      "local_image_path": "images/35025.png"
+    },
+    {
+      "pos": "n",
+      "example": "hide of a cow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35026.png",
+      "local_image_path": "images/35026.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She hided my phone.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35022.png",
+      "local_image_path": "images/35022.png"
+    },
+    {
+      "pos": "tv",
+      "example": "why did she hide her face when I met her?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35023.png",
+      "local_image_path": "images/35023.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She tried to hide her feelings.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35024.png",
+      "local_image_path": "images/35024.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35028.png",
+      "local_image_path": "images/35028.png"
+    }
+  ],
+  "synonyms": [
+    "skin",
+    "pelt",
+    "fleece",
+    "fur",
+    "rawhide",
+    "buckskin",
+    "pigskin",
+    "leather",
+    "withhold",
+    "suppress",
+    "obscure"
+  ],
+  "antonyms": [
+    "flaunt",
+    "disclose"
+  ],
+  "similar_words": [
+    "hide-and-seek",
+    "hide-drogher",
+    "hide-out",
+    "hideaway",
+    "hidebound",
+    "hided",
+    "hideous",
+    "hideously",
+    "hideousness",
+    "hider",
+    "hidey-hole"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hide.mp3",
+  "local_sound_path": "sounds/hide.mp3"
+}

@@ -1,0 +1,24 @@
+{
+  "word": "aviator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6705.png",
+      "local_image_path": "images/6705.png"
+    }
+  ],
+  "synonyms": [
+    "pilot",
+    "flier",
+    "flyer",
+    "aeronaut",
+    "copilot"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aviator.mp3",
+  "local_sound_path": "sounds/aviator.mp3"
+}

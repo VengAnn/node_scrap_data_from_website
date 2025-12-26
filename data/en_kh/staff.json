@@ -1,0 +1,72 @@
+{
+  "word": "staff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "shepherd's staff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84027.png",
+      "local_image_path": "images/84027.png"
+    },
+    {
+      "pos": "n",
+      "example": "chief of staff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84028.png",
+      "local_image_path": "images/84028.png"
+    },
+    {
+      "pos": "n",
+      "example": "staff of the school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84029.png",
+      "local_image_path": "images/84029.png"
+    },
+    {
+      "pos": "n",
+      "example": "flag staff",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84030.png",
+      "local_image_path": "images/84030.png"
+    },
+    {
+      "pos": "n",
+      "example": "staff of life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84031.png",
+      "local_image_path": "images/84031.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84032.png",
+      "local_image_path": "images/84032.png"
+    }
+  ],
+  "synonyms": [
+    "rod",
+    "cane",
+    "pole",
+    "wand",
+    "stick",
+    "baton",
+    "workforce",
+    "team",
+    "organization",
+    "body",
+    "force",
+    "personnel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "staff agency",
+    "staff appointment",
+    "staff association",
+    "staff manager",
+    "staff officer",
+    "staffete",
+    "staffier",
+    "staffing",
+    "staffing levels",
+    "staffish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/staff.mp3",
+  "local_sound_path": "sounds/staff.mp3"
+}

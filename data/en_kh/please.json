@@ -1,0 +1,54 @@
+{
+  "word": "please",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "aux",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64065.png",
+      "local_image_path": "images/64065.png"
+    },
+    {
+      "pos": "iv",
+      "example": "if you please",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64069.png",
+      "local_image_path": "images/64069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please the public",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64066.png",
+      "local_image_path": "images/64066.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please yourself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64067.png",
+      "local_image_path": "images/64067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please one's taste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64068.png",
+      "local_image_path": "images/64068.png"
+    }
+  ],
+  "synonyms": [
+    "like",
+    "prefer",
+    "choose",
+    "desire",
+    "wish",
+    "want"
+  ],
+  "antonyms": [
+    "displease",
+    "dislike"
+  ],
+  "similar_words": [
+    "pleased"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/please.mp3",
+  "local_sound_path": "sounds/please.mp3"
+}

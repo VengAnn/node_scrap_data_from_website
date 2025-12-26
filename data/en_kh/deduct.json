@@ -1,0 +1,31 @@
+{
+  "word": "deduct",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20081.png",
+      "local_image_path": "images/20081.png"
+    }
+  ],
+  "synonyms": [
+    "subtract",
+    "take",
+    "remove",
+    "abstract",
+    "withhold"
+  ],
+  "antonyms": [
+    "add"
+  ],
+  "similar_words": [
+    "deductible",
+    "deducting",
+    "deduction",
+    "deductive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deduct.mp3",
+  "local_sound_path": "sounds/deduct.mp3"
+}

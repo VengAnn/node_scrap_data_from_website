@@ -1,0 +1,28 @@
+{
+  "word": "catalogue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13274.png",
+      "local_image_path": "images/13274.png"
+    }
+  ],
+  "synonyms": [
+    "itemize",
+    "list",
+    "enumerate",
+    "document",
+    "detail",
+    "record"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "catalogued",
+    "cataloguer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/catalogue.mp3",
+  "local_sound_path": "sounds/catalogue.mp3"
+}

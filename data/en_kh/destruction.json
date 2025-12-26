@@ -1,0 +1,39 @@
+{
+  "word": "destruction",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20952.png",
+      "local_image_path": "images/20952.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118155.png",
+      "local_image_path": "images/118155.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118156.png",
+      "local_image_path": "images/118156.png"
+    }
+  ],
+  "synonyms": [
+    "obliteration",
+    "annihilation",
+    "devastation",
+    "demolition",
+    "ruin",
+    "damage"
+  ],
+  "antonyms": [
+    "construction"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/destruction.mp3",
+  "local_sound_path": "sounds/destruction.mp3"
+}

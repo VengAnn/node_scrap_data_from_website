@@ -1,0 +1,44 @@
+{
+  "word": "principle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "moral principle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67013.png",
+      "local_image_path": "images/67013.png"
+    },
+    {
+      "pos": "n",
+      "example": "principle of mathematic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67014.png",
+      "local_image_path": "images/67014.png"
+    },
+    {
+      "pos": "n",
+      "example": "man of principle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67015.png",
+      "local_image_path": "images/67015.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67021.png",
+      "local_image_path": "images/67021.png"
+    }
+  ],
+  "synonyms": [
+    "rule",
+    "law",
+    "theory",
+    "notion",
+    "tenet",
+    "dogma",
+    "assumption"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/principle.mp3",
+  "local_sound_path": "sounds/principle.mp3"
+}

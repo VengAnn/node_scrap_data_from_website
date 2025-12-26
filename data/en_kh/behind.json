@@ -1,0 +1,74 @@
+{
+  "word": "behind",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "behind in his work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8118.png",
+      "local_image_path": "images/8118.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8117.png",
+      "local_image_path": "images/8117.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114846.png",
+      "local_image_path": "images/114846.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114847.png",
+      "local_image_path": "images/114847.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114848.png",
+      "local_image_path": "images/114848.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8116.png",
+      "local_image_path": "images/8116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8119.png",
+      "local_image_path": "images/8119.png"
+    },
+    {
+      "pos": "prep",
+      "example": "behind the house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8115.png",
+      "local_image_path": "images/8115.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130002.png",
+      "local_image_path": "images/130002.png"
+    }
+  ],
+  "synonyms": [
+    "behindhand",
+    "late",
+    "overdue",
+    "following",
+    "after"
+  ],
+  "antonyms": [
+    "ahead"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/behind.mp3",
+  "local_sound_path": "sounds/behind.mp3"
+}

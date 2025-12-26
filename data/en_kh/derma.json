@@ -1,0 +1,33 @@
+{
+  "word": "derma",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20756.png",
+      "local_image_path": "images/20756.png"
+    },
+    {
+      "pos": "suff",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20757.png",
+      "local_image_path": "images/20757.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "dermaceutical",
+    "dermal",
+    "dermatitis",
+    "dermato",
+    "dermatoid",
+    "dermatologist",
+    "dermatology",
+    "dermatosis"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/derma.mp3",
+  "local_sound_path": "sounds/derma.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "sketch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80677.png",
+      "local_image_path": "images/80677.png"
+    },
+    {
+      "pos": "n",
+      "example": "draw a sketch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80678.png",
+      "local_image_path": "images/80678.png"
+    },
+    {
+      "pos": "n",
+      "example": "sketch of an article",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80679.png",
+      "local_image_path": "images/80679.png"
+    },
+    {
+      "pos": "n",
+      "example": "dramatic sketch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80680.png",
+      "local_image_path": "images/80680.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sketch ascene",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80681.png",
+      "local_image_path": "images/80681.png"
+    }
+  ],
+  "synonyms": [
+    "draw",
+    "draft",
+    "outline",
+    "delineate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sketch-book",
+    "sketcher",
+    "sketchily",
+    "sketchiness",
+    "sketchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sketch.mp3",
+  "local_sound_path": "sounds/sketch.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "erratic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "This clock is rather erratic.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25773.png",
+      "local_image_path": "images/25773.png"
+    }
+  ],
+  "synonyms": [
+    "unpredictable",
+    "unreliable",
+    "inconsistent",
+    "irregular",
+    "changeable",
+    "variable",
+    "intermittent",
+    "uneven",
+    "fitful"
+  ],
+  "antonyms": [
+    "consistent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erratic.mp3",
+  "local_sound_path": "sounds/erratic.mp3"
+}

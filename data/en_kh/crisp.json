@@ -1,0 +1,54 @@
+{
+  "word": "crisp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "crisp toast",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18631.png",
+      "local_image_path": "images/18631.png"
+    },
+    {
+      "pos": "adj",
+      "example": "crisp manner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18632.png",
+      "local_image_path": "images/18632.png"
+    },
+    {
+      "pos": "adj",
+      "example": "crisp hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18633.png",
+      "local_image_path": "images/18633.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18634.png",
+      "local_image_path": "images/18634.png"
+    }
+  ],
+  "synonyms": [
+    "brisk",
+    "decisive",
+    "confident",
+    "incisive",
+    "businesslike",
+    "efficient",
+    "competent"
+  ],
+  "antonyms": [
+    "soggy",
+    "warm",
+    "hesitant"
+  ],
+  "similar_words": [
+    "crispate",
+    "crispated",
+    "crispation",
+    "crisper",
+    "crispy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crisp.mp3",
+  "local_sound_path": "sounds/crisp.mp3"
+}

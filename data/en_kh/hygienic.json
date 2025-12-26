@@ -1,0 +1,41 @@
+{
+  "word": "hygienic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36675.png",
+      "local_image_path": "images/36675.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121293.png",
+      "local_image_path": "images/121293.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121294.png",
+      "local_image_path": "images/121294.png"
+    }
+  ],
+  "synonyms": [
+    "clean",
+    "sterile",
+    "sanitary",
+    "sanitized",
+    "aseptic"
+  ],
+  "antonyms": [
+    "unhygienic"
+  ],
+  "similar_words": [
+    "hygienically",
+    "hygienics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hygienic.mp3",
+  "local_sound_path": "sounds/hygienic.mp3"
+}

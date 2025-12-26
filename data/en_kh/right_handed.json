@@ -1,0 +1,33 @@
+{
+  "word": "right-handed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "right-handed man",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73640.png",
+      "local_image_path": "images/73640.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127123.png",
+      "local_image_path": "images/127123.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127124.png",
+      "local_image_path": "images/127124.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "right-handedly",
+    "right-handedness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/right-handed.mp3",
+  "local_sound_path": "sounds/right-handed.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "careful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "be careful of the dog, it sometimes bites people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12981.png",
+      "local_image_path": "images/12981.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115994.png",
+      "local_image_path": "images/115994.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115995.png",
+      "local_image_path": "images/115995.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115996.png",
+      "local_image_path": "images/115996.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115997.png",
+      "local_image_path": "images/115997.png"
+    }
+  ],
+  "synonyms": [
+    "gentle",
+    "tender",
+    "delicate",
+    "sensitive",
+    "cautious",
+    "sympathetic",
+    "deft",
+    "protective",
+    "caring"
+  ],
+  "antonyms": [
+    "careless",
+    "slapdash",
+    "foolish",
+    "rough",
+    "reckless",
+    "imprecise"
+  ],
+  "similar_words": [
+    "carefully",
+    "carefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/careful.mp3",
+  "local_sound_path": "sounds/careful.mp3"
+}

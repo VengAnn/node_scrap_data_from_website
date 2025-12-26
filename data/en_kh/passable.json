@@ -1,0 +1,39 @@
+{
+  "word": "passable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60430.png",
+      "local_image_path": "images/60430.png"
+    },
+    {
+      "pos": "adj",
+      "example": "passable knowledge of German",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60431.png",
+      "local_image_path": "images/60431.png"
+    }
+  ],
+  "synonyms": [
+    "acceptable",
+    "sufficient",
+    "all right",
+    "adequate",
+    "respectable",
+    "tolerable",
+    "satisfactory",
+    "decent",
+    "fair"
+  ],
+  "antonyms": [
+    "atrocious",
+    "unacceptable",
+    "impassable",
+    "inacceptable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/passable.mp3",
+  "local_sound_path": "sounds/passable.mp3"
+}

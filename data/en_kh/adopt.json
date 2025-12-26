@@ -1,0 +1,41 @@
+{
+  "word": "adopt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I like your methods of teaching and shall adopt them in my school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2492.png",
+      "local_image_path": "images/2492.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112048.png",
+      "local_image_path": "images/112048.png"
+    }
+  ],
+  "synonyms": [
+    "accept",
+    "assume",
+    "approve",
+    "espouse",
+    "implement",
+    "embrace",
+    "agree"
+  ],
+  "antonyms": [
+    "reject"
+  ],
+  "similar_words": [
+    "adoptable",
+    "adoptee",
+    "adopter",
+    "adoption",
+    "adoptive",
+    "adoptively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/adopt.mp3",
+  "local_sound_path": "sounds/adopt.mp3"
+}

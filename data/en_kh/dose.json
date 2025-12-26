@@ -1,0 +1,27 @@
+{
+  "word": "dose",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22783.png",
+      "local_image_path": "images/22783.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22784.png",
+      "local_image_path": "images/22784.png"
+    }
+  ],
+  "synonyms": [
+    "treat",
+    "medicate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dose.mp3",
+  "local_sound_path": "sounds/dose.mp3"
+}

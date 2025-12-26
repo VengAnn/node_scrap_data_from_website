@@ -1,0 +1,35 @@
+{
+  "word": "roasting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "It's roasting today",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73894.png",
+      "local_image_path": "images/73894.png"
+    },
+    {
+      "pos": "idm",
+      "example": "give sb a good (or real) roasting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73895.png",
+      "local_image_path": "images/73895.png"
+    }
+  ],
+  "synonyms": [
+    "boiling",
+    "hot",
+    "red-hot",
+    "burning",
+    "scorching",
+    "baking",
+    "cooking",
+    "heating"
+  ],
+  "antonyms": [
+    "cool"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/roasting.mp3",
+  "local_sound_path": "sounds/roasting.mp3"
+}

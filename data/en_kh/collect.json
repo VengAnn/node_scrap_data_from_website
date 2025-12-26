@@ -1,0 +1,75 @@
+{
+  "word": "collect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "collect call",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15673.png",
+      "local_image_path": "images/15673.png"
+    },
+    {
+      "pos": "adv",
+      "example": "call collect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15674.png",
+      "local_image_path": "images/15674.png"
+    },
+    {
+      "pos": "iv",
+      "example": "collect on delivery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15672.png",
+      "local_image_path": "images/15672.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15675.png",
+      "local_image_path": "images/15675.png"
+    },
+    {
+      "pos": "tv",
+      "example": "she is collecting her money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15671.png",
+      "local_image_path": "images/15671.png"
+    }
+  ],
+  "synonyms": [
+    "save",
+    "hoard",
+    "amass",
+    "stockpile",
+    "store",
+    "accumulate",
+    "treasure"
+  ],
+  "antonyms": [
+    "disperse"
+  ],
+  "similar_words": [
+    "collected",
+    "collectedly",
+    "collectedness",
+    "collection",
+    "collective",
+    "collective bargaining",
+    "collective employment conflict",
+    "collective farm",
+    "collective fruit",
+    "collective noun",
+    "collective tour",
+    "collective work",
+    "collectively",
+    "collectiveness",
+    "collectivism",
+    "collectivist",
+    "collectivistic",
+    "collectivistically",
+    "collectivity",
+    "collectivization",
+    "collectivize",
+    "collector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/collect.mp3",
+  "local_sound_path": "sounds/collect.mp3"
+}

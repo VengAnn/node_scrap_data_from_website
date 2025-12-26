@@ -1,0 +1,92 @@
+{
+  "word": "blot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9725.png",
+      "local_image_path": "images/9725.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115275.png",
+      "local_image_path": "images/115275.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9728.png",
+      "local_image_path": "images/9728.png"
+    },
+    {
+      "pos": "n",
+      "example": "blot on his record",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9724.png",
+      "local_image_path": "images/9724.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130012.png",
+      "local_image_path": "images/130012.png"
+    },
+    {
+      "pos": "tv (fig)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9727.png",
+      "local_image_path": "images/9727.png"
+    },
+    {
+      "pos": "tv (fig)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115276.png",
+      "local_image_path": "images/115276.png"
+    },
+    {
+      "pos": "tv (fig)",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115277.png",
+      "local_image_path": "images/115277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9726.png",
+      "local_image_path": "images/9726.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130013.png",
+      "local_image_path": "images/130013.png"
+    }
+  ],
+  "synonyms": [
+    "stain",
+    "tarnish",
+    "spoil",
+    "ruin",
+    "disfigure",
+    "mark",
+    "impair",
+    "discolor",
+    "fleck",
+    "speckle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "blotch",
+    "blotched",
+    "blotchy",
+    "blote",
+    "blotter",
+    "blottesque",
+    "blotting-paper",
+    "blotto"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blot.mp3",
+  "local_sound_path": "sounds/blot.mp3"
+}

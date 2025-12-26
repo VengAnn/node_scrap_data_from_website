@@ -1,0 +1,36 @@
+{
+  "word": "blond",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9631.png",
+      "local_image_path": "images/9631.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9632.png",
+      "local_image_path": "images/9632.png"
+    }
+  ],
+  "synonyms": [
+    "fair-haired",
+    "pale",
+    "flaxen",
+    "golden"
+  ],
+  "antonyms": [
+    "dark"
+  ],
+  "similar_words": [
+    "blonde",
+    "blondine",
+    "blondish",
+    "blondness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blond.mp3",
+  "local_sound_path": "sounds/blond.mp3"
+}

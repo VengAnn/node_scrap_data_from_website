@@ -1,0 +1,56 @@
+{
+  "word": "gaunt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "of gaunt frame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31227.png",
+      "local_image_path": "images/31227.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120599.png",
+      "local_image_path": "images/120599.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120600.png",
+      "local_image_path": "images/120600.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120601.png",
+      "local_image_path": "images/120601.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120602.png",
+      "local_image_path": "images/120602.png"
+    }
+  ],
+  "synonyms": [
+    "thin",
+    "skinny",
+    "lean",
+    "bony",
+    "emaciated",
+    "scrawny",
+    "skeletal",
+    "haggard"
+  ],
+  "antonyms": [
+    "plump"
+  ],
+  "similar_words": [
+    "gauntlet",
+    "gauntness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gaunt.mp3",
+  "local_sound_path": "sounds/gaunt.mp3"
+}

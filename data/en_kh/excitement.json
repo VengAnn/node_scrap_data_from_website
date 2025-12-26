@@ -1,0 +1,55 @@
+{
+  "word": "excitement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26437.png",
+      "local_image_path": "images/26437.png"
+    },
+    {
+      "pos": "n",
+      "example": "excitement of anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26438.png",
+      "local_image_path": "images/26438.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119582.png",
+      "local_image_path": "images/119582.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119583.png",
+      "local_image_path": "images/119583.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119584.png",
+      "local_image_path": "images/119584.png"
+    }
+  ],
+  "synonyms": [
+    "agitation",
+    "tension",
+    "unrest",
+    "ferment",
+    "restlessness",
+    "turmoil",
+    "flurry",
+    "flutter"
+  ],
+  "antonyms": [
+    "boredom",
+    "calm",
+    "indifference"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excitement.mp3",
+  "local_sound_path": "sounds/excitement.mp3"
+}

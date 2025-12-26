@@ -1,0 +1,46 @@
+{
+  "word": "moving",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "moving target",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110818.png",
+      "local_image_path": "images/110818.png"
+    },
+    {
+      "pos": "adj",
+      "example": "moving performance.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110819.png",
+      "local_image_path": "images/110819.png"
+    }
+  ],
+  "synonyms": [
+    "touching",
+    "poignant",
+    "affecting",
+    "stirring",
+    "heartrending",
+    "heartbreaking",
+    "sad",
+    "pitiful",
+    "tender",
+    "pathetic",
+    "emotive",
+    "shifting",
+    "pushing",
+    "pulling",
+    "transporting",
+    "shuffling"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "moving memories",
+    "moving pictures",
+    "moving staircase",
+    "movingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/moving.mp3",
+  "local_sound_path": "sounds/moving.mp3"
+}

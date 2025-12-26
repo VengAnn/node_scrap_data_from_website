@@ -1,0 +1,35 @@
+{
+  "word": "bunker",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11866.png",
+      "local_image_path": "images/11866.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11867.png",
+      "local_image_path": "images/11867.png"
+    }
+  ],
+  "synonyms": [
+    "dugout",
+    "trench",
+    "foxhole",
+    "ditch",
+    "hollow",
+    "bin",
+    "chest",
+    "container",
+    "box",
+    "store"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bunker.mp3",
+  "local_sound_path": "sounds/bunker.mp3"
+}

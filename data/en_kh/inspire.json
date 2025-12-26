@@ -1,0 +1,52 @@
+{
+  "word": "inspire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40659.png",
+      "local_image_path": "images/40659.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inspire others to work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40660.png",
+      "local_image_path": "images/40660.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inspire loyalty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40661.png",
+      "local_image_path": "images/40661.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inspire smoke",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40662.png",
+      "local_image_path": "images/40662.png"
+    }
+  ],
+  "synonyms": [
+    "motivate",
+    "stir",
+    "encourage",
+    "instigate",
+    "enthuse",
+    "move",
+    "arouse",
+    "rouse",
+    "stimulate"
+  ],
+  "antonyms": [
+    "bore"
+  ],
+  "similar_words": [
+    "inspired",
+    "inspiredly",
+    "inspirer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inspire.mp3",
+  "local_sound_path": "sounds/inspire.mp3"
+}

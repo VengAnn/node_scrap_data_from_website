@@ -1,0 +1,53 @@
+{
+  "word": "dry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dry weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23273.png",
+      "local_image_path": "images/23273.png"
+    },
+    {
+      "pos": "iv",
+      "example": "fruits dry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23275.png",
+      "local_image_path": "images/23275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dry clother",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23274.png",
+      "local_image_path": "images/23274.png"
+    }
+  ],
+  "synonyms": [
+    "teetotal",
+    "abstinent",
+    "abstemious",
+    "temperate",
+    "rub",
+    "towel",
+    "wipe"
+  ],
+  "antonyms": [
+    "wet",
+    "interesting",
+    "swell"
+  ],
+  "similar_words": [
+    "dry battery",
+    "dry cleaner",
+    "dry cleaning",
+    "dry goods",
+    "dryad",
+    "dryclean",
+    "dryer",
+    "dryly",
+    "dryness",
+    "dryth"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dry.mp3",
+  "local_sound_path": "sounds/dry.mp3"
+}

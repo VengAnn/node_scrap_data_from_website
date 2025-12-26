@@ -1,0 +1,39 @@
+{
+  "word": "castle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13225.png",
+      "local_image_path": "images/13225.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116030.png",
+      "local_image_path": "images/116030.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116031.png",
+      "local_image_path": "images/116031.png"
+    }
+  ],
+  "synonyms": [
+    "fortress",
+    "fort",
+    "citadel",
+    "stronghold",
+    "bastion",
+    "palace",
+    "turret",
+    "chateau"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/castle.mp3",
+  "local_sound_path": "sounds/castle.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "word": "worship",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "service of worship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101027.png",
+      "local_image_path": "images/101027.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101028.png",
+      "local_image_path": "images/101028.png"
+    },
+    {
+      "pos": "tv",
+      "example": "worship the Buddha",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101025.png",
+      "local_image_path": "images/101025.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They worship their father",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101026.png",
+      "local_image_path": "images/101026.png"
+    }
+  ],
+  "synonyms": [
+    "adore",
+    "love",
+    "revere",
+    "adulate",
+    "deify",
+    "venerate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "worshipable",
+    "worshiper",
+    "worshipful",
+    "worshipfully",
+    "worshipfulness",
+    "worshipless",
+    "worshipper"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/worship.mp3",
+  "local_sound_path": "sounds/worship.mp3"
+}

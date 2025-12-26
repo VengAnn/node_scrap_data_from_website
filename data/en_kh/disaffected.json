@@ -1,0 +1,35 @@
+{
+  "word": "disaffected",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Disaffected members have left to form a new party.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21555.png",
+      "local_image_path": "images/21555.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118354.png",
+      "local_image_path": "images/118354.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118355.png",
+      "local_image_path": "images/118355.png"
+    }
+  ],
+  "synonyms": [
+    "isolated"
+  ],
+  "antonyms": [
+    "enthusiastic",
+    "involved"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disaffected.mp3",
+  "local_sound_path": "sounds/disaffected.mp3"
+}

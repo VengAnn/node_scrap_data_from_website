@@ -1,0 +1,83 @@
+{
+  "word": "pole",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wooden pole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64686.png",
+      "local_image_path": "images/64686.png"
+    },
+    {
+      "pos": "n",
+      "example": "boat pole",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64687.png",
+      "local_image_path": "images/64687.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64688.png",
+      "local_image_path": "images/64688.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64690.png",
+      "local_image_path": "images/64690.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64691.png",
+      "local_image_path": "images/64691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64692.png",
+      "local_image_path": "images/64692.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64693.png",
+      "local_image_path": "images/64693.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pole a boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64689.png",
+      "local_image_path": "images/64689.png"
+    }
+  ],
+  "synonyms": [
+    "push",
+    "propel",
+    "raft",
+    "punt",
+    "shove",
+    "thrust",
+    "drive"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pole-monium",
+    "poleax",
+    "polecat",
+    "polemic",
+    "polemical",
+    "polemically",
+    "polemicist",
+    "polemics",
+    "polemist",
+    "polemize",
+    "poler",
+    "polestar",
+    "polewards",
+    "poley"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pole.mp3",
+  "local_sound_path": "sounds/pole.mp3"
+}

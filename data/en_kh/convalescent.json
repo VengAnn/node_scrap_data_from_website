@@ -1,0 +1,37 @@
+{
+  "word": "convalescent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "convalescent patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17442.png",
+      "local_image_path": "images/17442.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117511.png",
+      "local_image_path": "images/117511.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17443.png",
+      "local_image_path": "images/17443.png"
+    }
+  ],
+  "synonyms": [
+    "recuperative",
+    "restorative",
+    "recovery",
+    "valetudinarian",
+    "patient",
+    "invalid"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/convalescent.mp3",
+  "local_sound_path": "sounds/convalescent.mp3"
+}

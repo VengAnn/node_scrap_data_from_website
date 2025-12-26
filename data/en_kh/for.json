@@ -1,0 +1,55 @@
+{
+  "word": "for",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "conj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29619.png",
+      "local_image_path": "images/29619.png"
+    },
+    {
+      "pos": "pre",
+      "example": "I will buy a gift for her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29616.png",
+      "local_image_path": "images/29616.png"
+    },
+    {
+      "pos": "pre",
+      "example": "This is for my wife.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29617.png",
+      "local_image_path": "images/29617.png"
+    },
+    {
+      "pos": "pre",
+      "example": "I thank you for helping me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29618.png",
+      "local_image_path": "images/29618.png"
+    }
+  ],
+  "synonyms": [
+    "pro"
+  ],
+  "antonyms": [
+    "against"
+  ],
+  "similar_words": [
+    "for sale",
+    "forage",
+    "forasmuch",
+    "foray",
+    "forbade",
+    "forbear",
+    "forbearance",
+    "forbid",
+    "forbiddance",
+    "forbidden",
+    "forbidder",
+    "forbidding",
+    "forbiddingly",
+    "force"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/for.mp3",
+  "local_sound_path": "sounds/for.mp3"
+}

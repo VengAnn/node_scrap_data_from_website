@@ -1,0 +1,31 @@
+{
+  "word": "ladle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44474.png",
+      "local_image_path": "images/44474.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44475.png",
+      "local_image_path": "images/44475.png"
+    }
+  ],
+  "synonyms": [
+    "scoop",
+    "dipper",
+    "measure",
+    "server",
+    "cup",
+    "spoon"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ladle.mp3",
+  "local_sound_path": "sounds/ladle.mp3"
+}

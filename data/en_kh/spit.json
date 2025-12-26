@@ -1,0 +1,82 @@
+{
+  "word": "spit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83473.png",
+      "local_image_path": "images/83473.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83474.png",
+      "local_image_path": "images/83474.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83475.png",
+      "local_image_path": "images/83475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83476.png",
+      "local_image_path": "images/83476.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83477.png",
+      "local_image_path": "images/83477.png"
+    },
+    {
+      "pos": "v",
+      "example": "Don't spit on the bus.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83470.png",
+      "local_image_path": "images/83470.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83471.png",
+      "local_image_path": "images/83471.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83472.png",
+      "local_image_path": "images/83472.png"
+    }
+  ],
+  "synonyms": [
+    "impale",
+    "skewer",
+    "spear",
+    "discharge",
+    "emit"
+  ],
+  "antonyms": [
+    "swallow"
+  ],
+  "similar_words": [
+    "spital",
+    "spitbox",
+    "spitchcock",
+    "spite",
+    "spitefire",
+    "spiteful",
+    "spitefully",
+    "spitefulness",
+    "spitpan",
+    "spitter",
+    "spittle",
+    "spittoon",
+    "spitz"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spit.mp3",
+  "local_sound_path": "sounds/spit.mp3"
+}

@@ -1,0 +1,63 @@
+{
+  "word": "breakdown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mechanical breakdown",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10853.png",
+      "local_image_path": "images/10853.png"
+    },
+    {
+      "pos": "n",
+      "example": "mental breakdown",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10854.png",
+      "local_image_path": "images/10854.png"
+    },
+    {
+      "pos": "n",
+      "example": "breakdown of expenditure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10855.png",
+      "local_image_path": "images/10855.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115573.png",
+      "local_image_path": "images/115573.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115574.png",
+      "local_image_path": "images/115574.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131046.png",
+      "local_image_path": "images/131046.png"
+    }
+  ],
+  "synonyms": [
+    "decompose",
+    "rot",
+    "decay",
+    "molder",
+    "putrefy",
+    "analysis",
+    "itemization",
+    "classification",
+    "dissection",
+    "categorization",
+    "summary"
+  ],
+  "antonyms": [
+    "lump",
+    "build up"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/breakdown.mp3",
+  "local_sound_path": "sounds/breakdown.mp3"
+}

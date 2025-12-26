@@ -1,0 +1,43 @@
+{
+  "word": "dike",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "rice field dike",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21359.png",
+      "local_image_path": "images/21359.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130245.png",
+      "local_image_path": "images/130245.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130246.png",
+      "local_image_path": "images/130246.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21360.png",
+      "local_image_path": "images/21360.png"
+    }
+  ],
+  "synonyms": [
+    "ditch",
+    "waterway",
+    "channel",
+    "drain",
+    "conduit",
+    "gutter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dike.mp3",
+  "local_sound_path": "sounds/dike.mp3"
+}

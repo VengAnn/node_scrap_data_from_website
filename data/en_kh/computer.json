@@ -1,0 +1,48 @@
+{
+  "word": "computer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16367.png",
+      "local_image_path": "images/16367.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131652.png",
+      "local_image_path": "images/131652.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131702.png",
+      "local_image_path": "images/131702.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131703.png",
+      "local_image_path": "images/131703.png"
+    }
+  ],
+  "synonyms": [
+    "processor",
+    "mainframe",
+    "laptop",
+    "notebook"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "computer nerd",
+    "computer science",
+    "computerizable",
+    "computerization",
+    "computerize",
+    "computerrate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/computer.mp3",
+  "local_sound_path": "sounds/computer.mp3"
+}

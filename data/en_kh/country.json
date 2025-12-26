@@ -1,0 +1,32 @@
+{
+  "word": "country",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "independent country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18139.png",
+      "local_image_path": "images/18139.png"
+    }
+  ],
+  "synonyms": [
+    "land",
+    "territory",
+    "terrain"
+  ],
+  "antonyms": [
+    "town"
+  ],
+  "similar_words": [
+    "country report",
+    "country riskanalysis",
+    "country wide",
+    "countryman",
+    "countryseat",
+    "countryside",
+    "countrywoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/country.mp3",
+  "local_sound_path": "sounds/country.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "elbow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "elbow of the arm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24132.png",
+      "local_image_path": "images/24132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24133.png",
+      "local_image_path": "images/24133.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24134.png",
+      "local_image_path": "images/24134.png"
+    }
+  ],
+  "synonyms": [
+    "prod",
+    "jostle",
+    "nudge",
+    "shove",
+    "dig",
+    "poke",
+    "bump",
+    "push"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "elbow-grease"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elbow.mp3",
+  "local_sound_path": "sounds/elbow.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "commit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "commit a crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16026.png",
+      "local_image_path": "images/16026.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130150.png",
+      "local_image_path": "images/130150.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130151.png",
+      "local_image_path": "images/130151.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130152.png",
+      "local_image_path": "images/130152.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130153.png",
+      "local_image_path": "images/130153.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130154.png",
+      "local_image_path": "images/130154.png"
+    }
+  ],
+  "synonyms": [
+    "do",
+    "perform",
+    "execute",
+    "perpetrate",
+    "cause"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "commitable",
+    "commitment",
+    "committal",
+    "committee",
+    "committeeman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/commit.mp3",
+  "local_sound_path": "sounds/commit.mp3"
+}

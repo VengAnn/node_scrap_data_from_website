@@ -1,0 +1,54 @@
+{
+  "word": "ape",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4877.png",
+      "local_image_path": "images/4877.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131689.png",
+      "local_image_path": "images/131689.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4878.png",
+      "local_image_path": "images/4878.png"
+    }
+  ],
+  "synonyms": [
+    "imitate",
+    "mimic",
+    "copy",
+    "reproduce",
+    "simulate",
+    "mirror",
+    "parrot"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ape-man",
+    "apeak",
+    "apedicellate",
+    "apelike",
+    "apepsy",
+    "aperient",
+    "aperiodic",
+    "aperitif",
+    "apert",
+    "apertural",
+    "aperture",
+    "apery",
+    "apetalous",
+    "apetaly",
+    "apex"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ape.mp3",
+  "local_sound_path": "sounds/ape.mp3"
+}

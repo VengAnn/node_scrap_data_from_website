@@ -1,0 +1,47 @@
+{
+  "word": "abjection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1422.png",
+      "local_image_path": "images/1422.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111856.png",
+      "local_image_path": "images/111856.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111857.png",
+      "local_image_path": "images/111857.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113018.png",
+      "local_image_path": "images/113018.png"
+    }
+  ],
+  "synonyms": [
+    "humility",
+    "humbleness",
+    "subservience",
+    "deference",
+    "servility",
+    "meekness",
+    "submissiveness"
+  ],
+  "antonyms": [
+    "cheerfulness",
+    "confidence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abjection.mp3",
+  "local_sound_path": "sounds/abjection.mp3"
+}

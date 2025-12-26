@@ -1,0 +1,99 @@
+{
+  "word": "start",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I stark to work at 8:00 AM",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84338.png",
+      "local_image_path": "images/84338.png"
+    },
+    {
+      "pos": "iv",
+      "example": "start up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84339.png",
+      "local_image_path": "images/84339.png"
+    },
+    {
+      "pos": "iv",
+      "example": "start with surprise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84340.png",
+      "local_image_path": "images/84340.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84341.png",
+      "local_image_path": "images/84341.png"
+    },
+    {
+      "pos": "n",
+      "example": "start of a project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84345.png",
+      "local_image_path": "images/84345.png"
+    },
+    {
+      "pos": "n",
+      "example": "start of the day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84346.png",
+      "local_image_path": "images/84346.png"
+    },
+    {
+      "pos": "n",
+      "example": "start of a race",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84347.png",
+      "local_image_path": "images/84347.png"
+    },
+    {
+      "pos": "tv",
+      "example": "What time do you start to work?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84342.png",
+      "local_image_path": "images/84342.png"
+    },
+    {
+      "pos": "tv",
+      "example": "start a car",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84343.png",
+      "local_image_path": "images/84343.png"
+    },
+    {
+      "pos": "tv",
+      "example": "start a business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84344.png",
+      "local_image_path": "images/84344.png"
+    }
+  ],
+  "synonyms": [
+    "leave",
+    "depart",
+    "jump",
+    "recoil",
+    "flinch",
+    "shrink",
+    "twitch",
+    "jerk"
+  ],
+  "antonyms": [
+    "finish",
+    "arrive"
+  ],
+  "similar_words": [
+    "start-naked",
+    "start-up",
+    "start-upcost",
+    "starter",
+    "startful",
+    "starting",
+    "starting-place",
+    "starting-point",
+    "startish",
+    "startle",
+    "startler",
+    "startling",
+    "startlingly",
+    "startlish"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/start.mp3",
+  "local_sound_path": "sounds/start.mp3"
+}

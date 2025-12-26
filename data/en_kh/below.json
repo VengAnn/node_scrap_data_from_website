@@ -1,0 +1,31 @@
+{
+  "word": "below",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "from the top of hill we could see the blue ocean below",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8223.png",
+      "local_image_path": "images/8223.png"
+    },
+    {
+      "pos": "prep",
+      "example": "There is a book under the table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8222.png",
+      "local_image_path": "images/8222.png"
+    }
+  ],
+  "synonyms": [
+    "less than",
+    "under",
+    "beneath",
+    "underneath"
+  ],
+  "antonyms": [
+    "above"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/below.mp3",
+  "local_sound_path": "sounds/below.mp3"
+}

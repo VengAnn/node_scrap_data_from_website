@@ -1,0 +1,47 @@
+{
+  "word": "bespeak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "every room in this hotel is already bespoken",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8429.png",
+      "local_image_path": "images/8429.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114955.png",
+      "local_image_path": "images/114955.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114956.png",
+      "local_image_path": "images/114956.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114957.png",
+      "local_image_path": "images/114957.png"
+    }
+  ],
+  "synonyms": [
+    "signify",
+    "signal",
+    "indicate",
+    "convey",
+    "show",
+    "suggest",
+    "imply",
+    "reveal"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bespeaker"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bespeak.mp3",
+  "local_sound_path": "sounds/bespeak.mp3"
+}

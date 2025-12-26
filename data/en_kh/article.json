@@ -1,0 +1,68 @@
+{
+  "word": "article",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5653.png",
+      "local_image_path": "images/5653.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114042.png",
+      "local_image_path": "images/114042.png"
+    },
+    {
+      "pos": "n",
+      "example": "Have you written an editorial article yet?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5652.png",
+      "local_image_path": "images/5652.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114043.png",
+      "local_image_path": "images/114043.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114044.png",
+      "local_image_path": "images/114044.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114045.png",
+      "local_image_path": "images/114045.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114046.png",
+      "local_image_path": "images/114046.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131138.png",
+      "local_image_path": "images/131138.png"
+    }
+  ],
+  "synonyms": [
+    "clause",
+    "term",
+    "stipulation",
+    "condition",
+    "regulation",
+    "paragraph",
+    "section"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/article.mp3",
+  "local_sound_path": "sounds/article.mp3"
+}

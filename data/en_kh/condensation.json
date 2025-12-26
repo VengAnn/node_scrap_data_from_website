@@ -1,0 +1,49 @@
+{
+  "word": "condensation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the book is a condensation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16542.png",
+      "local_image_path": "images/16542.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117105.png",
+      "local_image_path": "images/117105.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117106.png",
+      "local_image_path": "images/117106.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117107.png",
+      "local_image_path": "images/117107.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117108.png",
+      "local_image_path": "images/117108.png"
+    }
+  ],
+  "synonyms": [
+    "abbreviation",
+    "shortening",
+    "abridgment",
+    "cutting"
+  ],
+  "antonyms": [
+    "expansion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/condensation.mp3",
+  "local_sound_path": "sounds/condensation.mp3"
+}

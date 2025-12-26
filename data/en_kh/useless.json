@@ -1,0 +1,39 @@
+{
+  "word": "useless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96913.png",
+      "local_image_path": "images/96913.png"
+    }
+  ],
+  "synonyms": [
+    "hopeless",
+    "pathetic",
+    "incompetent",
+    "ineffectual",
+    "inept",
+    "rubbish",
+    "ineffective",
+    "futile",
+    "inadequate",
+    "worthless",
+    "unsuccessful",
+    "unavailing"
+  ],
+  "antonyms": [
+    "useful",
+    "helpful",
+    "effective",
+    "successful"
+  ],
+  "similar_words": [
+    "uselessly",
+    "uselessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/useless.mp3",
+  "local_sound_path": "sounds/useless.mp3"
+}

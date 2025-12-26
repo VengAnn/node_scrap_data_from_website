@@ -1,0 +1,39 @@
+{
+  "word": "database",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19695.png",
+      "local_image_path": "images/19695.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117718.png",
+      "local_image_path": "images/117718.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117719.png",
+      "local_image_path": "images/117719.png"
+    }
+  ],
+  "synonyms": [
+    "file",
+    "folder",
+    "record",
+    "catalog",
+    "list",
+    "catalogue",
+    "store",
+    "archive"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/database.mp3",
+  "local_sound_path": "sounds/database.mp3"
+}

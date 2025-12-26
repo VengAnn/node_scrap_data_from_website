@@ -1,0 +1,55 @@
+{
+  "word": "clap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "spectators clap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14798.png",
+      "local_image_path": "images/14798.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116417.png",
+      "local_image_path": "images/116417.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116418.png",
+      "local_image_path": "images/116418.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14799.png",
+      "local_image_path": "images/14799.png"
+    },
+    {
+      "pos": "tv",
+      "example": "clap the hands",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14797.png",
+      "local_image_path": "images/14797.png"
+    }
+  ],
+  "synonyms": [
+    "slap",
+    "pat",
+    "tap",
+    "smack",
+    "applaud",
+    "acclaim",
+    "cheer"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "clapboard",
+    "clapclaw",
+    "clapper",
+    "claptrap"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clap.mp3",
+  "local_sound_path": "sounds/clap.mp3"
+}

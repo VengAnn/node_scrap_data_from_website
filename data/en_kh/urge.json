@@ -1,0 +1,53 @@
+{
+  "word": "urge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He has an urge to travel.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96859.png",
+      "local_image_path": "images/96859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The salesman urged me to buy a new car.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96857.png",
+      "local_image_path": "images/96857.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96858.png",
+      "local_image_path": "images/96858.png"
+    }
+  ],
+  "synonyms": [
+    "drive",
+    "impel",
+    "incite",
+    "encourage",
+    "push",
+    "force",
+    "goad",
+    "compel"
+  ],
+  "antonyms": [
+    "oppose",
+    "demand",
+    "disinclination",
+    "prevent",
+    "dissuade",
+    "discourage"
+  ],
+  "similar_words": [
+    "urgence",
+    "urgency",
+    "urgeney",
+    "urgent",
+    "urgently",
+    "urger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/urge.mp3",
+  "local_sound_path": "sounds/urge.mp3"
+}

@@ -1,0 +1,69 @@
+{
+  "word": "fall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The book fell off the table onto the floor.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27473.png",
+      "local_image_path": "images/27473.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27474.png",
+      "local_image_path": "images/27474.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131093.png",
+      "local_image_path": "images/131093.png"
+    },
+    {
+      "pos": "n",
+      "example": "painful fall",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27475.png",
+      "local_image_path": "images/27475.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27476.png",
+      "local_image_path": "images/27476.png"
+    }
+  ],
+  "synonyms": [
+    "reduction",
+    "decrease",
+    "drop",
+    "descend",
+    "plunge",
+    "plummet",
+    "reduce",
+    "collapse"
+  ],
+  "antonyms": [
+    "increase",
+    "ascend"
+  ],
+  "similar_words": [
+    "fall-guy",
+    "fall-out",
+    "fallacious",
+    "fallaciously",
+    "fallacy",
+    "fallen",
+    "fallen angel",
+    "fallfish",
+    "fallibility",
+    "fallible",
+    "fallibly",
+    "falling",
+    "falling-out",
+    "falling-sickness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fall.mp3",
+  "local_sound_path": "sounds/fall.mp3"
+}

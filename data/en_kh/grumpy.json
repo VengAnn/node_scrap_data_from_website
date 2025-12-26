@@ -1,0 +1,46 @@
+{
+  "word": "grumpy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33137.png",
+      "local_image_path": "images/33137.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120831.png",
+      "local_image_path": "images/120831.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120832.png",
+      "local_image_path": "images/120832.png"
+    }
+  ],
+  "synonyms": [
+    "irritable",
+    "cranky",
+    "cantankerous",
+    "ill-tempered",
+    "grouchy",
+    "cross",
+    "petulant",
+    "crabby",
+    "sulky",
+    "testy",
+    "bad-tempered",
+    "sullen",
+    "snappy"
+  ],
+  "antonyms": [
+    "cheerful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grumpy.mp3",
+  "local_sound_path": "sounds/grumpy.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "word": "suppress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86513.png",
+      "local_image_path": "images/86513.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suppress anger",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86514.png",
+      "local_image_path": "images/86514.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suppress a political party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86515.png",
+      "local_image_path": "images/86515.png"
+    },
+    {
+      "pos": "tv",
+      "example": "suppress a revolt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86516.png",
+      "local_image_path": "images/86516.png"
+    }
+  ],
+  "synonyms": [
+    "overpower",
+    "overwhelm",
+    "overturn",
+    "conquer",
+    "defeat",
+    "destroy",
+    "subdue",
+    "quash",
+    "quell",
+    "crush",
+    "control",
+    "dominate",
+    "repress",
+    "stifle",
+    "restrain",
+    "contain",
+    "curb",
+    "stem",
+    "smother",
+    "check",
+    "hide",
+    "conceal"
+  ],
+  "antonyms": [
+    "express",
+    "submit",
+    "publicize"
+  ],
+  "similar_words": [
+    "suppressible",
+    "suppression",
+    "suppressive",
+    "suppressor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suppress.mp3",
+  "local_sound_path": "sounds/suppress.mp3"
+}

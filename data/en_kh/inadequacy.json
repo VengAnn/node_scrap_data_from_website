@@ -1,0 +1,44 @@
+{
+  "word": "inadequacy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38091.png",
+      "local_image_path": "images/38091.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121823.png",
+      "local_image_path": "images/121823.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121824.png",
+      "local_image_path": "images/121824.png"
+    }
+  ],
+  "synonyms": [
+    "failure",
+    "failing",
+    "incompetence",
+    "defectiveness",
+    "hopelessness",
+    "defect",
+    "fault",
+    "problem"
+  ],
+  "antonyms": [
+    "adequacy",
+    "capability",
+    "sufficiency",
+    "asset"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inadequacy.mp3",
+  "local_sound_path": "sounds/inadequacy.mp3"
+}

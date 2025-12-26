@@ -1,0 +1,46 @@
+{
+  "word": "preclude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66051.png",
+      "local_image_path": "images/66051.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125847.png",
+      "local_image_path": "images/125847.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125848.png",
+      "local_image_path": "images/125848.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125849.png",
+      "local_image_path": "images/125849.png"
+    }
+  ],
+  "synonyms": [
+    "prevent",
+    "stop",
+    "exclude",
+    "disqualify",
+    "prohibit",
+    "bar",
+    "impede"
+  ],
+  "antonyms": [
+    "permit"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/preclude.mp3",
+  "local_sound_path": "sounds/preclude.mp3"
+}

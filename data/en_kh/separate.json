@@ -1,0 +1,85 @@
+{
+  "word": "separate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "separate events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78191.png",
+      "local_image_path": "images/78191.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127652.png",
+      "local_image_path": "images/127652.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127653.png",
+      "local_image_path": "images/127653.png"
+    },
+    {
+      "pos": "tv",
+      "example": "separate the men from the women",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78185.png",
+      "local_image_path": "images/78185.png"
+    },
+    {
+      "pos": "tv",
+      "example": "separate a room into offices",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78186.png",
+      "local_image_path": "images/78186.png"
+    },
+    {
+      "pos": "tv",
+      "example": "separate two fighters",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78187.png",
+      "local_image_path": "images/78187.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78188.png",
+      "local_image_path": "images/78188.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78189.png",
+      "local_image_path": "images/78189.png"
+    },
+    {
+      "pos": "tv",
+      "example": "separate from his family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78190.png",
+      "local_image_path": "images/78190.png"
+    }
+  ],
+  "synonyms": [
+    "discrete",
+    "detached",
+    "isolated",
+    "single",
+    "secede",
+    "break",
+    "split",
+    "withdraw",
+    "branch out"
+  ],
+  "antonyms": [
+    "unite",
+    "join",
+    "attached",
+    "marry"
+  ],
+  "similar_words": [
+    "separated",
+    "separately",
+    "separateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/separate.mp3",
+  "local_sound_path": "sounds/separate.mp3"
+}

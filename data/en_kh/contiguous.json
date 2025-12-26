@@ -1,0 +1,48 @@
+{
+  "word": "contiguous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "the garden is contiguous to the field",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17259.png",
+      "local_image_path": "images/17259.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117432.png",
+      "local_image_path": "images/117432.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117433.png",
+      "local_image_path": "images/117433.png"
+    }
+  ],
+  "synonyms": [
+    "neighboring",
+    "adjacent",
+    "nearby",
+    "adjoining",
+    "next",
+    "side",
+    "close",
+    "immediate",
+    "near",
+    "proximate"
+  ],
+  "antonyms": [
+    "distant",
+    "detached"
+  ],
+  "similar_words": [
+    "contiguous zone",
+    "contiguously",
+    "contiguousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contiguous.mp3",
+  "local_sound_path": "sounds/contiguous.mp3"
+}

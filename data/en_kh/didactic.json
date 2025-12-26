@@ -1,0 +1,35 @@
+{
+  "word": "didactic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He does not like her didactic way.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21262.png",
+      "local_image_path": "images/21262.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118275.png",
+      "local_image_path": "images/118275.png"
+    }
+  ],
+  "synonyms": [
+    "moralistic",
+    "improving",
+    "moral",
+    "educational",
+    "instructive",
+    "informative",
+    "edifying",
+    "teaching"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "didactically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/didactic.mp3",
+  "local_sound_path": "sounds/didactic.mp3"
+}

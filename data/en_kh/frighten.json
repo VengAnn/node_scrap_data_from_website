@@ -1,0 +1,64 @@
+{
+  "word": "frighten",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30319.png",
+      "local_image_path": "images/30319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30320.png",
+      "local_image_path": "images/30320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120460.png",
+      "local_image_path": "images/120460.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120461.png",
+      "local_image_path": "images/120461.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120462.png",
+      "local_image_path": "images/120462.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120463.png",
+      "local_image_path": "images/120463.png"
+    }
+  ],
+  "synonyms": [
+    "scare",
+    "terrify",
+    "alarm",
+    "startle",
+    "upset",
+    "worry",
+    "panic"
+  ],
+  "antonyms": [
+    "soothe"
+  ],
+  "similar_words": [
+    "frightened",
+    "frightenful",
+    "frightenfully",
+    "frightenfulness",
+    "frightenly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frighten.mp3",
+  "local_sound_path": "sounds/frighten.mp3"
+}

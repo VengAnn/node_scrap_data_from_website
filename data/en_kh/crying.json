@@ -1,0 +1,32 @@
+{
+  "word": "crying",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18894.png",
+      "local_image_path": "images/18894.png"
+    }
+  ],
+  "synonyms": [
+    "lament",
+    "weeping",
+    "dirge",
+    "howling",
+    "shouting",
+    "calling",
+    "screaming",
+    "roaring"
+  ],
+  "antonyms": [
+    "celebration",
+    "welcome",
+    "laughing",
+    "whispering"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crying.mp3",
+  "local_sound_path": "sounds/crying.mp3"
+}

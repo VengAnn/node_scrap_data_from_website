@@ -1,0 +1,35 @@
+{
+  "word": "rancid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70122.png",
+      "local_image_path": "images/70122.png"
+    }
+  ],
+  "synonyms": [
+    "off",
+    "bad",
+    "sour",
+    "stale",
+    "rotten",
+    "reeking",
+    "fetid",
+    "rank",
+    "stinking",
+    "putrid",
+    "foul"
+  ],
+  "antonyms": [
+    "fresh"
+  ],
+  "similar_words": [
+    "rancidity",
+    "rancidness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rancid.mp3",
+  "local_sound_path": "sounds/rancid.mp3"
+}

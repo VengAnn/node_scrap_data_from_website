@@ -1,0 +1,37 @@
+{
+  "word": "scribble",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77179.png",
+      "local_image_path": "images/77179.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77180.png",
+      "local_image_path": "images/77180.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77178.png",
+      "local_image_path": "images/77178.png"
+    }
+  ],
+  "synonyms": [
+    "doodle",
+    "scrawl",
+    "squiggle",
+    "jotting",
+    "draw",
+    "jot"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scribble.mp3",
+  "local_sound_path": "sounds/scribble.mp3"
+}

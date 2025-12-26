@@ -1,0 +1,41 @@
+{
+  "word": "infection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39604.png",
+      "local_image_path": "images/39604.png"
+    },
+    {
+      "pos": "n",
+      "example": "have an infection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39605.png",
+      "local_image_path": "images/39605.png"
+    },
+    {
+      "pos": "n",
+      "example": "the infection of others",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39606.png",
+      "local_image_path": "images/39606.png"
+    }
+  ],
+  "synonyms": [
+    "contagion",
+    "infectivity",
+    "contamination",
+    "pollution",
+    "corruption",
+    "perversion",
+    "defilement",
+    "depravity",
+    "debasement",
+    "debauchery"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infection.mp3",
+  "local_sound_path": "sounds/infection.mp3"
+}

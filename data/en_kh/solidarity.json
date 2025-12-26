@@ -1,0 +1,33 @@
+{
+  "word": "solidarity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "solidarity of the party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82546.png",
+      "local_image_path": "images/82546.png"
+    },
+    {
+      "pos": "n",
+      "example": "solidarity of a company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82547.png",
+      "local_image_path": "images/82547.png"
+    }
+  ],
+  "synonyms": [
+    "unity",
+    "harmony",
+    "cohesion",
+    "commonality",
+    "camaraderie",
+    "unanimity"
+  ],
+  "antonyms": [
+    "discord"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/solidarity.mp3",
+  "local_sound_path": "sounds/solidarity.mp3"
+}

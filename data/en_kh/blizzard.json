@@ -1,0 +1,20 @@
+{
+  "word": "blizzard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "A blizzard is a severe snowstorm.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9588.png",
+      "local_image_path": "images/9588.png"
+    }
+  ],
+  "synonyms": [
+    "storm"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blizzard.mp3",
+  "local_sound_path": "sounds/blizzard.mp3"
+}

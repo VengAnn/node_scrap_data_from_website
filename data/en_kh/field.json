@@ -1,0 +1,87 @@
+{
+  "word": "field",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "field corn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28384.png",
+      "local_image_path": "images/28384.png"
+    },
+    {
+      "pos": "n",
+      "example": "field of corn",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28378.png",
+      "local_image_path": "images/28378.png"
+    },
+    {
+      "pos": "n",
+      "example": "football field",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28379.png",
+      "local_image_path": "images/28379.png"
+    },
+    {
+      "pos": "n",
+      "example": "gold field",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28380.png",
+      "local_image_path": "images/28380.png"
+    },
+    {
+      "pos": "n",
+      "example": "field of history",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28381.png",
+      "local_image_path": "images/28381.png"
+    },
+    {
+      "pos": "n",
+      "example": "field visit",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28385.png",
+      "local_image_path": "images/28385.png"
+    },
+    {
+      "pos": "tv",
+      "example": "field a ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28382.png",
+      "local_image_path": "images/28382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "field a team",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28383.png",
+      "local_image_path": "images/28383.png"
+    }
+  ],
+  "synonyms": [
+    "handle",
+    "tackle",
+    "return",
+    "prevent",
+    "take"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "field artillery",
+    "field capacity",
+    "field corn",
+    "field cricket",
+    "field hand",
+    "field hospital",
+    "field house",
+    "field mouse",
+    "field officer",
+    "field trip",
+    "field work",
+    "field-book",
+    "field-glass",
+    "field-gun",
+    "field-marshal",
+    "field-sparrow",
+    "fieldday",
+    "fieldstone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/field.mp3",
+  "local_sound_path": "sounds/field.mp3"
+}

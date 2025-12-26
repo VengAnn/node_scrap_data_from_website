@@ -1,0 +1,41 @@
+{
+  "word": "province",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "province of a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68236.png",
+      "local_image_path": "images/68236.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68237.png",
+      "local_image_path": "images/68237.png"
+    },
+    {
+      "pos": "n",
+      "example": "in the province of psychology",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68238.png",
+      "local_image_path": "images/68238.png"
+    }
+  ],
+  "synonyms": [
+    "region",
+    "area",
+    "state",
+    "county",
+    "prefecture",
+    "territory",
+    "zone",
+    "district",
+    "realm",
+    "department"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/province.mp3",
+  "local_sound_path": "sounds/province.mp3"
+}

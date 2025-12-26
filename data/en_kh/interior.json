@@ -1,0 +1,59 @@
+{
+  "word": "interior",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "interior selection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41252.png",
+      "local_image_path": "images/41252.png"
+    },
+    {
+      "pos": "adj",
+      "example": "interior city",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41253.png",
+      "local_image_path": "images/41253.png"
+    },
+    {
+      "pos": "adj",
+      "example": "interior trade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41254.png",
+      "local_image_path": "images/41254.png"
+    },
+    {
+      "pos": "n",
+      "example": "interior of a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41255.png",
+      "local_image_path": "images/41255.png"
+    },
+    {
+      "pos": "n",
+      "example": "interior of a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41256.png",
+      "local_image_path": "images/41256.png"
+    }
+  ],
+  "synonyms": [
+    "inner",
+    "inside",
+    "internal",
+    "central",
+    "inland",
+    "center",
+    "heart",
+    "core"
+  ],
+  "antonyms": [
+    "periphery",
+    "exterior",
+    "peripheral",
+    "outside"
+  ],
+  "similar_words": [
+    "interiority",
+    "interiorly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/interior.mp3",
+  "local_sound_path": "sounds/interior.mp3"
+}

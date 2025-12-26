@@ -1,0 +1,50 @@
+{
+  "word": "assistance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "development assistance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5937.png",
+      "local_image_path": "images/5937.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114153.png",
+      "local_image_path": "images/114153.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114154.png",
+      "local_image_path": "images/114154.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114155.png",
+      "local_image_path": "images/114155.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114156.png",
+      "local_image_path": "images/114156.png"
+    }
+  ],
+  "synonyms": [
+    "help",
+    "aid",
+    "support",
+    "backing",
+    "assist"
+  ],
+  "antonyms": [
+    "hindrance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assistance.mp3",
+  "local_sound_path": "sounds/assistance.mp3"
+}

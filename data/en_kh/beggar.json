@@ -1,0 +1,56 @@
+{
+  "word": "beggar",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8075.png",
+      "local_image_path": "images/8075.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you will beggar your father if you go on spending money in \n\nthis way",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8076.png",
+      "local_image_path": "images/8076.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114819.png",
+      "local_image_path": "images/114819.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114820.png",
+      "local_image_path": "images/114820.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114821.png",
+      "local_image_path": "images/114821.png"
+    }
+  ],
+  "synonyms": [
+    "vagabond",
+    "tramp",
+    "drifter",
+    "hobo",
+    "defy",
+    "confound",
+    "surpass",
+    "exceed",
+    "defeat"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "beggarliness",
+    "beggarly",
+    "beggary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beggar.mp3",
+  "local_sound_path": "sounds/beggar.mp3"
+}

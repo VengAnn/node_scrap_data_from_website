@@ -1,0 +1,45 @@
+{
+  "word": "warning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "He gave me a warning look",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99107.png",
+      "local_image_path": "images/99107.png"
+    },
+    {
+      "pos": "n",
+      "example": "He paid to attention to my warnings.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99108.png",
+      "local_image_path": "images/99108.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129840.png",
+      "local_image_path": "images/129840.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129841.png",
+      "local_image_path": "images/129841.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131230.png",
+      "local_image_path": "images/131230.png"
+    }
+  ],
+  "synonyms": [
+    "cautionary",
+    "telling"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/warning.mp3",
+  "local_sound_path": "sounds/warning.mp3"
+}

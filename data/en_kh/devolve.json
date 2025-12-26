@@ -1,0 +1,45 @@
+{
+  "word": "devolve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Whe the president is ill, his duties devolve upon the vice \n\npresident.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21117.png",
+      "local_image_path": "images/21117.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118227.png",
+      "local_image_path": "images/118227.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118228.png",
+      "local_image_path": "images/118228.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118229.png",
+      "local_image_path": "images/118229.png"
+    }
+  ],
+  "synonyms": [
+    "decentralize",
+    "delegate",
+    "transfer",
+    "entrust",
+    "federalize"
+  ],
+  "antonyms": [
+    "keep",
+    "centralize"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/devolve.mp3",
+  "local_sound_path": "sounds/devolve.mp3"
+}

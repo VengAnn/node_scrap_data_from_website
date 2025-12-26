@@ -1,0 +1,44 @@
+{
+  "word": "event",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "important event",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26201.png",
+      "local_image_path": "images/26201.png"
+    },
+    {
+      "pos": "n",
+      "example": "any event",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26202.png",
+      "local_image_path": "images/26202.png"
+    }
+  ],
+  "synonyms": [
+    "result",
+    "consequence",
+    "aftermath",
+    "upshot",
+    "outcome"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "eventerate",
+    "eventful",
+    "eventfully",
+    "eventfulness",
+    "eventide",
+    "eventilate",
+    "eventing",
+    "eventless",
+    "eventration",
+    "eventual",
+    "eventuality",
+    "eventually",
+    "eventuate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/event.mp3",
+  "local_sound_path": "sounds/event.mp3"
+}

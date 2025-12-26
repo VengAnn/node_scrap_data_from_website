@@ -1,0 +1,52 @@
+{
+  "word": "arid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "arid country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5461.png",
+      "local_image_path": "images/5461.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112693.png",
+      "local_image_path": "images/112693.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112694.png",
+      "local_image_path": "images/112694.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112695.png",
+      "local_image_path": "images/112695.png"
+    }
+  ],
+  "synonyms": [
+    "dull",
+    "uninteresting",
+    "boring",
+    "dry",
+    "sterile",
+    "unexciting",
+    "uninspired",
+    "flat",
+    "tepid",
+    "unimaginative"
+  ],
+  "antonyms": [
+    "humid",
+    "exciting"
+  ],
+  "similar_words": [
+    "aridity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arid.mp3",
+  "local_sound_path": "sounds/arid.mp3"
+}

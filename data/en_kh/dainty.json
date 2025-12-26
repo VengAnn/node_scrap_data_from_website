@@ -1,0 +1,49 @@
+{
+  "word": "dainty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dainty features",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19506.png",
+      "local_image_path": "images/19506.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dainty food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19507.png",
+      "local_image_path": "images/19507.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dainty tastes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19508.png",
+      "local_image_path": "images/19508.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19509.png",
+      "local_image_path": "images/19509.png"
+    }
+  ],
+  "synonyms": [
+    "delicate",
+    "elegant",
+    "graceful",
+    "refined",
+    "exquisite",
+    "pretty",
+    "petite",
+    "neat",
+    "deft"
+  ],
+  "antonyms": [
+    "inelegant",
+    "clumsy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dainty.mp3",
+  "local_sound_path": "sounds/dainty.mp3"
+}

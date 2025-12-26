@@ -1,0 +1,53 @@
+{
+  "word": "meet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107303.png",
+      "local_image_path": "images/107303.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107302.png",
+      "local_image_path": "images/107302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will meet you today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107301.png",
+      "local_image_path": "images/107301.png"
+    }
+  ],
+  "synonyms": [
+    "experience",
+    "encounter",
+    "endure",
+    "suffer",
+    "undergo",
+    "sustain"
+  ],
+  "antonyms": [
+    "part",
+    "separate",
+    "avoid",
+    "disperse"
+  ],
+  "similar_words": [
+    "meeten",
+    "meeter",
+    "meeterly",
+    "meeting",
+    "meeting house",
+    "meeting of creditors",
+    "meeting of minds",
+    "meeting place",
+    "meetly",
+    "meetness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meet.mp3",
+  "local_sound_path": "sounds/meet.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "deviant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "deviant behavior",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21086.png",
+      "local_image_path": "images/21086.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21087.png",
+      "local_image_path": "images/21087.png"
+    }
+  ],
+  "synonyms": [
+    "abnormal",
+    "unexpected",
+    "unusual",
+    "nonstandard",
+    "different",
+    "divergent",
+    "aberrant",
+    "irregular"
+  ],
+  "antonyms": [
+    "normal",
+    "standard"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deviant.mp3",
+  "local_sound_path": "sounds/deviant.mp3"
+}

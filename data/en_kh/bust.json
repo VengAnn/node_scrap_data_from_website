@@ -1,0 +1,78 @@
+{
+  "word": "bust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12038.png",
+      "local_image_path": "images/12038.png"
+    },
+    {
+      "pos": "adj",
+      "example": "my phone is bust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12042.png",
+      "local_image_path": "images/12042.png"
+    },
+    {
+      "pos": "iv",
+      "example": "I dropped my camera on the pavement and bust it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12039.png",
+      "local_image_path": "images/12039.png"
+    },
+    {
+      "pos": "n",
+      "example": "what is your bust size, madam?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12037.png",
+      "local_image_path": "images/12037.png"
+    },
+    {
+      "pos": "n",
+      "example": "venture was a bust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12041.png",
+      "local_image_path": "images/12041.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131057.png",
+      "local_image_path": "images/131057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bust the company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12040.png",
+      "local_image_path": "images/12040.png"
+    }
+  ],
+  "synonyms": [
+    "raid",
+    "arrest",
+    "seizure",
+    "capture",
+    "apprehend",
+    "seize",
+    "detain",
+    "catch",
+    "caught",
+    "stop",
+    "stopped",
+    "nick",
+    "nicked"
+  ],
+  "antonyms": [
+    "mend"
+  ],
+  "similar_words": [
+    "bust-a move",
+    "bust-up",
+    "bustard",
+    "busted",
+    "buster",
+    "bustle",
+    "busty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bust.mp3",
+  "local_sound_path": "sounds/bust.mp3"
+}

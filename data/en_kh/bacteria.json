@@ -1,0 +1,27 @@
+{
+  "word": "bacteria",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7028.png",
+      "local_image_path": "images/7028.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131348.png",
+      "local_image_path": "images/131348.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "bacterial",
+    "bacterian"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bacteria.mp3",
+  "local_sound_path": "sounds/bacteria.mp3"
+}

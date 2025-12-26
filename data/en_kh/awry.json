@@ -1,0 +1,64 @@
+{
+  "word": "awry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "plans are awry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6813.png",
+      "local_image_path": "images/6813.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114343.png",
+      "local_image_path": "images/114343.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114344.png",
+      "local_image_path": "images/114344.png"
+    },
+    {
+      "pos": "adv",
+      "example": "our plans have gone awry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6812.png",
+      "local_image_path": "images/6812.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114345.png",
+      "local_image_path": "images/114345.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114346.png",
+      "local_image_path": "images/114346.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114347.png",
+      "local_image_path": "images/114347.png"
+    }
+  ],
+  "synonyms": [
+    "wrong",
+    "muddled",
+    "amiss",
+    "incorrect",
+    "inappropriate",
+    "astray",
+    "all right"
+  ],
+  "antonyms": [
+    "straight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/awry.mp3",
+  "local_sound_path": "sounds/awry.mp3"
+}

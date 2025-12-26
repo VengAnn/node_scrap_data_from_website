@@ -1,0 +1,53 @@
+{
+  "word": "cabin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mountain cabin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12194.png",
+      "local_image_path": "images/12194.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115779.png",
+      "local_image_path": "images/115779.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115780.png",
+      "local_image_path": "images/115780.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115781.png",
+      "local_image_path": "images/115781.png"
+    }
+  ],
+  "synonyms": [
+    "compartment",
+    "cubicle",
+    "berth",
+    "cab"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cabin class",
+    "cabin cruiser",
+    "cabin fever",
+    "cabin-boy",
+    "cabinet",
+    "cabinet office",
+    "cabinet pudding",
+    "cabinet-maker",
+    "cabinetmaking",
+    "cabinetry",
+    "cabinetwork"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cabin.mp3",
+  "local_sound_path": "sounds/cabin.mp3"
+}

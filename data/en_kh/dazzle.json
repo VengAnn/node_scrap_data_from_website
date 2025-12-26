@@ -1,0 +1,48 @@
+{
+  "word": "dazzle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dazzle of the sun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19767.png",
+      "local_image_path": "images/19767.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117742.png",
+      "local_image_path": "images/117742.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lights dazzle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19766.png",
+      "local_image_path": "images/19766.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117743.png",
+      "local_image_path": "images/117743.png"
+    }
+  ],
+  "synonyms": [
+    "glare",
+    "brightness",
+    "reflection",
+    "blaze",
+    "daze",
+    "confuse",
+    "overwhelm",
+    "bedazzle",
+    "blind"
+  ],
+  "antonyms": [
+    "bore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dazzle.mp3",
+  "local_sound_path": "sounds/dazzle.mp3"
+}

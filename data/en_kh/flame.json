@@ -1,0 +1,44 @@
+{
+  "word": "flame",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "fires flame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28872.png",
+      "local_image_path": "images/28872.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The girl flamed up when I spoke to her.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28873.png",
+      "local_image_path": "images/28873.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28870.png",
+      "local_image_path": "images/28870.png"
+    },
+    {
+      "pos": "sl",
+      "example": "an old flame",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28871.png",
+      "local_image_path": "images/28871.png"
+    }
+  ],
+  "synonyms": [
+    "burn",
+    "blaze",
+    "flare",
+    "glow",
+    "flicker",
+    "spark",
+    "kindle"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flame.mp3",
+  "local_sound_path": "sounds/flame.mp3"
+}

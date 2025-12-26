@@ -1,0 +1,66 @@
+{
+  "word": "extra",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "extra pencil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27074.png",
+      "local_image_path": "images/27074.png"
+    },
+    {
+      "pos": "adj",
+      "example": "extra price",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27075.png",
+      "local_image_path": "images/27075.png"
+    },
+    {
+      "pos": "adj",
+      "example": "extra edition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27076.png",
+      "local_image_path": "images/27076.png"
+    },
+    {
+      "pos": "n",
+      "example": "news extra",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27077.png",
+      "local_image_path": "images/27077.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27078.png",
+      "local_image_path": "images/27078.png"
+    }
+  ],
+  "synonyms": [
+    "addition",
+    "bonus",
+    "luxury",
+    "treat",
+    "trimming",
+    "supplement",
+    "extravagance"
+  ],
+  "antonyms": [
+    "usual"
+  ],
+  "similar_words": [
+    "extra-marital",
+    "extracellular",
+    "extracharge",
+    "extracranial",
+    "extract",
+    "extractable",
+    "extraction",
+    "extractive",
+    "extractor",
+    "extracurricular",
+    "extraditable",
+    "extradite",
+    "extradition"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/extra.mp3",
+  "local_sound_path": "sounds/extra.mp3"
+}

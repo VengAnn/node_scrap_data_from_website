@@ -1,0 +1,56 @@
+{
+  "word": "overweight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59000.png",
+      "local_image_path": "images/59000.png"
+    },
+    {
+      "pos": "adj",
+      "example": "overweight patient",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59001.png",
+      "local_image_path": "images/59001.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125100.png",
+      "local_image_path": "images/125100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59002.png",
+      "local_image_path": "images/59002.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59003.png",
+      "local_image_path": "images/59003.png"
+    }
+  ],
+  "synonyms": [
+    "plump",
+    "round",
+    "heavy",
+    "fat",
+    "flabby",
+    "obese",
+    "chunky",
+    "stout",
+    "hefty",
+    "rotund"
+  ],
+  "antonyms": [
+    "slim",
+    "underweight"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overweight.mp3",
+  "local_sound_path": "sounds/overweight.mp3"
+}

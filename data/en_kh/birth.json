@@ -1,0 +1,51 @@
+{
+  "word": "birth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9159.png",
+      "local_image_path": "images/9159.png"
+    },
+    {
+      "pos": "n",
+      "example": "she will give birth soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9158.png",
+      "local_image_path": "images/9158.png"
+    }
+  ],
+  "synonyms": [
+    "natal",
+    "true",
+    "biological",
+    "genetic",
+    "beginning",
+    "origin",
+    "dawn",
+    "start",
+    "commencement",
+    "onset",
+    "outset",
+    "formation"
+  ],
+  "antonyms": [
+    "death",
+    "demise"
+  ],
+  "similar_words": [
+    "birth canal",
+    "birth certificate",
+    "birth control",
+    "birth defect",
+    "birth-right",
+    "birthday",
+    "birthmark",
+    "birthnight",
+    "birthplace",
+    "birthrate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/birth.mp3",
+  "local_sound_path": "sounds/birth.mp3"
+}

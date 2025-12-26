@@ -1,0 +1,47 @@
+{
+  "word": "ghastly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "ghastly murder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31645.png",
+      "local_image_path": "images/31645.png"
+    },
+    {
+      "pos": "adj",
+      "example": "ghastly apperance",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31646.png",
+      "local_image_path": "images/31646.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31648.png",
+      "local_image_path": "images/31648.png"
+    }
+  ],
+  "synonyms": [
+    "terrible",
+    "appalling",
+    "horrible",
+    "grisly",
+    "dreadful",
+    "nasty",
+    "rotten",
+    "foul",
+    "vile",
+    "horrid",
+    "disgusting",
+    "unbearable",
+    "unpleasant"
+  ],
+  "antonyms": [
+    "pleasant",
+    "well"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ghastly.mp3",
+  "local_sound_path": "sounds/ghastly.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "catch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Latch doesn't catch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13311.png",
+      "local_image_path": "images/13311.png"
+    },
+    {
+      "pos": "n",
+      "example": "the catch on my handbag is broken",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13312.png",
+      "local_image_path": "images/13312.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I threw a ball to her and she caught it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13310.png",
+      "local_image_path": "images/13310.png"
+    }
+  ],
+  "synonyms": [
+    "snag",
+    "drawback",
+    "problem",
+    "difficulty",
+    "hitch",
+    "obstacle",
+    "impediment",
+    "contract"
+  ],
+  "antonyms": [
+    "drop",
+    "release",
+    "free"
+  ],
+  "similar_words": [
+    "catch phrase",
+    "catch-as-catch-can",
+    "catcher",
+    "catching",
+    "catchment area",
+    "catchpenny",
+    "catchup",
+    "catchword",
+    "catchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/catch.mp3",
+  "local_sound_path": "sounds/catch.mp3"
+}

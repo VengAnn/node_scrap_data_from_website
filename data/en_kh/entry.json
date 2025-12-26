@@ -1,0 +1,54 @@
+{
+  "word": "entry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "means of entry",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25364.png",
+      "local_image_path": "images/25364.png"
+    },
+    {
+      "pos": "n",
+      "example": "He finally gained entry to the hotel by giving some money to the door \n\nman.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25365.png",
+      "local_image_path": "images/25365.png"
+    },
+    {
+      "pos": "n",
+      "example": "You can leave your umbrella in the entry.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25366.png",
+      "local_image_path": "images/25366.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25367.png",
+      "local_image_path": "images/25367.png"
+    }
+  ],
+  "synonyms": [
+    "application",
+    "submission",
+    "attempt",
+    "entrance",
+    "access",
+    "doorway",
+    "door",
+    "ingress",
+    "opening"
+  ],
+  "antonyms": [
+    "exit",
+    "withdrawal"
+  ],
+  "similar_words": [
+    "entry charge",
+    "entry level",
+    "entry visa",
+    "entryphone"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entry.mp3",
+  "local_sound_path": "sounds/entry.mp3"
+}

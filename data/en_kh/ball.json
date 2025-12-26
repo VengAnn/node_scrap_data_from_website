@@ -1,0 +1,74 @@
+{
+  "word": "ball",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "throw the ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7191.png",
+      "local_image_path": "images/7191.png"
+    },
+    {
+      "pos": "n",
+      "example": "to give a ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7193.png",
+      "local_image_path": "images/7193.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114481.png",
+      "local_image_path": "images/114481.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114482.png",
+      "local_image_path": "images/114482.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7192.png",
+      "local_image_path": "images/7192.png"
+    }
+  ],
+  "synonyms": [
+    "sphere",
+    "orb",
+    "globe",
+    "globule",
+    "droplet",
+    "pellet",
+    "spheroid",
+    "bead",
+    "marble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ball breaker",
+    "ball-bearing",
+    "ballad",
+    "ballade",
+    "ballader",
+    "balladical",
+    "balladist",
+    "balladry",
+    "ballard",
+    "ballast",
+    "baller",
+    "ballerina",
+    "ballet",
+    "ballet-dancer",
+    "balletic",
+    "ballista",
+    "ballistic",
+    "ballistically",
+    "ballistics",
+    "ballistocardiogram",
+    "ballistocardiograph"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ball.mp3",
+  "local_sound_path": "sounds/ball.mp3"
+}

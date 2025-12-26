@@ -1,0 +1,45 @@
+{
+  "word": "ferry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The ferry leaves for France at one o'clock.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28193.png",
+      "local_image_path": "images/28193.png"
+    },
+    {
+      "pos": "n",
+      "example": "We waited at the ferry for two hours.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28194.png",
+      "local_image_path": "images/28194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28195.png",
+      "local_image_path": "images/28195.png"
+    }
+  ],
+  "synonyms": [
+    "transport",
+    "carry",
+    "ship",
+    "convey",
+    "pass",
+    "transmit",
+    "take",
+    "bring",
+    "bear",
+    "lug",
+    "send"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ferry-boat",
+    "ferryman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ferry.mp3",
+  "local_sound_path": "sounds/ferry.mp3"
+}

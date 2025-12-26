@@ -1,0 +1,30 @@
+{
+  "word": "saturated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76027.png",
+      "local_image_path": "images/76027.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76028.png",
+      "local_image_path": "images/76028.png"
+    }
+  ],
+  "synonyms": [
+    "soaked",
+    "dripping wet"
+  ],
+  "antonyms": [
+    "dry",
+    "empty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/saturated.mp3",
+  "local_sound_path": "sounds/saturated.mp3"
+}

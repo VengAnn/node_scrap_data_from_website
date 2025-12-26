@@ -1,0 +1,53 @@
+{
+  "word": "socialize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82353.png",
+      "local_image_path": "images/82353.png"
+    },
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82352.png",
+      "local_image_path": "images/82352.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82348.png",
+      "local_image_path": "images/82348.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82349.png",
+      "local_image_path": "images/82349.png"
+    },
+    {
+      "pos": "tv",
+      "example": "socialize a person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82350.png",
+      "local_image_path": "images/82350.png"
+    },
+    {
+      "pos": "tv",
+      "example": "socialize a government",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82351.png",
+      "local_image_path": "images/82351.png"
+    }
+  ],
+  "synonyms": [
+    "mix",
+    "mingle",
+    "entertain",
+    "party"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/socialize.mp3",
+  "local_sound_path": "sounds/socialize.mp3"
+}

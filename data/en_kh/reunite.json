@@ -1,0 +1,66 @@
+{
+  "word": "reunite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "lovers reunite",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73237.png",
+      "local_image_path": "images/73237.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73238.png",
+      "local_image_path": "images/73238.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73234.png",
+      "local_image_path": "images/73234.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reunite lovers",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73235.png",
+      "local_image_path": "images/73235.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reunite parties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73236.png",
+      "local_image_path": "images/73236.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127071.png",
+      "local_image_path": "images/127071.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127072.png",
+      "local_image_path": "images/127072.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127073.png",
+      "local_image_path": "images/127073.png"
+    }
+  ],
+  "synonyms": [
+    "reunify",
+    "unite",
+    "unify"
+  ],
+  "antonyms": [
+    "split"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reunite.mp3",
+  "local_sound_path": "sounds/reunite.mp3"
+}

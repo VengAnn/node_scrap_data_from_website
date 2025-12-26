@@ -1,0 +1,42 @@
+{
+  "word": "disarm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21595.png",
+      "local_image_path": "images/21595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disarm a person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21593.png",
+      "local_image_path": "images/21593.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disarm them with charm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21594.png",
+      "local_image_path": "images/21594.png"
+    }
+  ],
+  "synonyms": [
+    "charm",
+    "enchant",
+    "captivate",
+    "beguile"
+  ],
+  "antonyms": [
+    "arm",
+    "annoy"
+  ],
+  "similar_words": [
+    "disarmament",
+    "disarming",
+    "disarmingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disarm.mp3",
+  "local_sound_path": "sounds/disarm.mp3"
+}

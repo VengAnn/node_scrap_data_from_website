@@ -1,0 +1,42 @@
+{
+  "word": "hymn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36701.png",
+      "local_image_path": "images/36701.png"
+    }
+  ],
+  "synonyms": [
+    "song",
+    "chant",
+    "tune",
+    "praise",
+    "celebrate",
+    "eulogize",
+    "extol",
+    "laud",
+    "acclaim",
+    "panegyrize"
+  ],
+  "antonyms": [
+    "criticize"
+  ],
+  "similar_words": [
+    "hymnal",
+    "hymner",
+    "hymnic",
+    "hymnist",
+    "hymnody",
+    "hymnographer",
+    "hymnologic",
+    "hymnological",
+    "hymnologist",
+    "hymnology"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hymn.mp3",
+  "local_sound_path": "sounds/hymn.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "ditty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22387.png",
+      "local_image_path": "images/22387.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118688.png",
+      "local_image_path": "images/118688.png"
+    }
+  ],
+  "synonyms": [
+    "song",
+    "poem",
+    "rhyme",
+    "limerick",
+    "ode"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ditty.mp3",
+  "local_sound_path": "sounds/ditty.mp3"
+}

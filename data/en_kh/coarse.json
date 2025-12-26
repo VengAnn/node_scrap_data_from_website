@@ -1,0 +1,75 @@
+{
+  "word": "coarse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "coarse surface",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15282.png",
+      "local_image_path": "images/15282.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116568.png",
+      "local_image_path": "images/116568.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116569.png",
+      "local_image_path": "images/116569.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116570.png",
+      "local_image_path": "images/116570.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116571.png",
+      "local_image_path": "images/116571.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116572.png",
+      "local_image_path": "images/116572.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116573.png",
+      "local_image_path": "images/116573.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116574.png",
+      "local_image_path": "images/116574.png"
+    }
+  ],
+  "synonyms": [
+    "unrefined",
+    "crude",
+    "untreated",
+    "organic",
+    "raw"
+  ],
+  "antonyms": [
+    "refined",
+    "smooth",
+    "polite"
+  ],
+  "similar_words": [
+    "coarse-grained",
+    "coarsely",
+    "coarsen",
+    "coarseness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coarse.mp3",
+  "local_sound_path": "sounds/coarse.mp3"
+}

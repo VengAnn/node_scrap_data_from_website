@@ -1,0 +1,56 @@
+{
+  "word": "monkey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "monkey around with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110132.png",
+      "local_image_path": "images/110132.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110128.png",
+      "local_image_path": "images/110128.png"
+    },
+    {
+      "pos": "n",
+      "example": "Year of the Monkey",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110129.png",
+      "local_image_path": "images/110129.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110130.png",
+      "local_image_path": "images/110130.png"
+    },
+    {
+      "pos": "n",
+      "example": "make a monkey of him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110131.png",
+      "local_image_path": "images/110131.png"
+    }
+  ],
+  "synonyms": [
+    "ape",
+    "chimpanzee",
+    "fool",
+    "dupe",
+    "butt",
+    "buffoon"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "monkey business",
+    "monkey-jacket",
+    "monkey-nuts",
+    "monkeyfy",
+    "monkeyshine",
+    "monkeywrench"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/monkey.mp3",
+  "local_sound_path": "sounds/monkey.mp3"
+}

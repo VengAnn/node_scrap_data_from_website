@@ -1,0 +1,61 @@
+{
+  "word": "thirst",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "thirst for water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88990.png",
+      "local_image_path": "images/88990.png"
+    },
+    {
+      "pos": "iv",
+      "example": "thirst for knowledge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88991.png",
+      "local_image_path": "images/88991.png"
+    },
+    {
+      "pos": "n",
+      "example": "work up a thirst",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88988.png",
+      "local_image_path": "images/88988.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88989.png",
+      "local_image_path": "images/88989.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130961.png",
+      "local_image_path": "images/130961.png"
+    }
+  ],
+  "synonyms": [
+    "desire",
+    "longing",
+    "hunger",
+    "craving",
+    "eagerness",
+    "yearning",
+    "appetite",
+    "crave",
+    "want",
+    "ache",
+    "pine"
+  ],
+  "antonyms": [
+    "apathy"
+  ],
+  "similar_words": [
+    "thirster",
+    "thirstily",
+    "thirstiness",
+    "thirsty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thirst.mp3",
+  "local_sound_path": "sounds/thirst.mp3"
+}

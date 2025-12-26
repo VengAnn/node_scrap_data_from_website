@@ -1,0 +1,73 @@
+{
+  "word": "bond",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "there is a close bond of affection between the two men",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10070.png",
+      "local_image_path": "images/10070.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115360.png",
+      "local_image_path": "images/115360.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115361.png",
+      "local_image_path": "images/115361.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115362.png",
+      "local_image_path": "images/115362.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115363.png",
+      "local_image_path": "images/115363.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10071.png",
+      "local_image_path": "images/10071.png"
+    }
+  ],
+  "synonyms": [
+    "adhere",
+    "stick",
+    "glue",
+    "fix",
+    "join",
+    "bind",
+    "attach",
+    "cement",
+    "link",
+    "affix"
+  ],
+  "antonyms": [
+    "clash"
+  ],
+  "similar_words": [
+    "bond man",
+    "bond paper",
+    "bondable",
+    "bondage",
+    "bonded",
+    "bonder",
+    "bondholder",
+    "bonding",
+    "bondservant",
+    "bondsman",
+    "bondwoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bond.mp3",
+  "local_sound_path": "sounds/bond.mp3"
+}

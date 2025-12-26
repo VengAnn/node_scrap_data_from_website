@@ -1,0 +1,66 @@
+{
+  "word": "ticket",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Do you want a single or a return ticket?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89318.png",
+      "local_image_path": "images/89318.png"
+    },
+    {
+      "pos": "n",
+      "example": "price ticket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89319.png",
+      "local_image_path": "images/89319.png"
+    },
+    {
+      "pos": "n",
+      "example": "democratic ticket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89320.png",
+      "local_image_path": "images/89320.png"
+    },
+    {
+      "pos": "n",
+      "example": "traffic ticket",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89321.png",
+      "local_image_path": "images/89321.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ticket merchandise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89322.png",
+      "local_image_path": "images/89322.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ticket a motorist",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89323.png",
+      "local_image_path": "images/89323.png"
+    }
+  ],
+  "synonyms": [
+    "permit",
+    "voucher",
+    "receipt",
+    "label",
+    "tag",
+    "tab",
+    "marker",
+    "sticker",
+    "docket"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ticket agent",
+    "ticket collector",
+    "ticket office",
+    "ticket scalper",
+    "ticket stock",
+    "ticket-holder",
+    "ticketing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ticket.mp3",
+  "local_sound_path": "sounds/ticket.mp3"
+}

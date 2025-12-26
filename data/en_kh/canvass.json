@@ -1,0 +1,51 @@
+{
+  "word": "canvass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12761.png",
+      "local_image_path": "images/12761.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12760.png",
+      "local_image_path": "images/12760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115937.png",
+      "local_image_path": "images/115937.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115938.png",
+      "local_image_path": "images/115938.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115939.png",
+      "local_image_path": "images/115939.png"
+    }
+  ],
+  "synonyms": [
+    "test",
+    "research",
+    "investigate",
+    "survey",
+    "poll",
+    "seek",
+    "ballot",
+    "circularize"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/canvass.mp3",
+  "local_sound_path": "sounds/canvass.mp3"
+}

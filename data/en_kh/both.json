@@ -1,0 +1,43 @@
+{
+  "word": "both",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "both cars",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10295.png",
+      "local_image_path": "images/10295.png"
+    },
+    {
+      "pos": "conj, adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10297.png",
+      "local_image_path": "images/10297.png"
+    },
+    {
+      "pos": "pron",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10296.png",
+      "local_image_path": "images/10296.png"
+    }
+  ],
+  "synonyms": [
+    "together",
+    "equally",
+    "mutually",
+    "individually"
+  ],
+  "antonyms": [
+    "individually"
+  ],
+  "similar_words": [
+    "bother",
+    "botheration",
+    "bothered",
+    "bothersome",
+    "bothy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/both.mp3",
+  "local_sound_path": "sounds/both.mp3"
+}

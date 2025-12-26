@@ -1,0 +1,40 @@
+{
+  "word": "dishonestly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21911.png",
+      "local_image_path": "images/21911.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118504.png",
+      "local_image_path": "images/118504.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118505.png",
+      "local_image_path": "images/118505.png"
+    }
+  ],
+  "synonyms": [
+    "deceitfully",
+    "fraudulently",
+    "untruthfully",
+    "unfairly",
+    "corruptly",
+    "underhandedly",
+    "misleadingly"
+  ],
+  "antonyms": [
+    "honestly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dishonestly.mp3",
+  "local_sound_path": "sounds/dishonestly.mp3"
+}

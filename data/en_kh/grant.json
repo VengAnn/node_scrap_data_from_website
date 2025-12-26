@@ -1,0 +1,48 @@
+{
+  "word": "grant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "research grant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32585.png",
+      "local_image_path": "images/32585.png"
+    },
+    {
+      "pos": "tv",
+      "example": "These lands were granted to my family in perpetuity.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32583.png",
+      "local_image_path": "images/32583.png"
+    },
+    {
+      "pos": "tv",
+      "example": "They granted him to go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32584.png",
+      "local_image_path": "images/32584.png"
+    }
+  ],
+  "synonyms": [
+    "exempt",
+    "exclude",
+    "permit",
+    "allow",
+    "give",
+    "accord",
+    "confer",
+    "award",
+    "cede",
+    "present",
+    "bestow"
+  ],
+  "antonyms": [
+    "prohibit"
+  ],
+  "similar_words": [
+    "grantee",
+    "grantoid",
+    "grantor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/grant.mp3",
+  "local_sound_path": "sounds/grant.mp3"
+}

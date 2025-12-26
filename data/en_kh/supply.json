@@ -1,0 +1,56 @@
+{
+  "word": "supply",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "responsible for supply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86483.png",
+      "local_image_path": "images/86483.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy supply",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86484.png",
+      "local_image_path": "images/86484.png"
+    },
+    {
+      "pos": "tv",
+      "example": "To supply electricity to domestic consummer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86482.png",
+      "local_image_path": "images/86482.png"
+    }
+  ],
+  "synonyms": [
+    "source",
+    "stock",
+    "hoard",
+    "stream",
+    "amount",
+    "quantity",
+    "resource",
+    "fund",
+    "reserve",
+    "provide",
+    "bring",
+    "deliver",
+    "give",
+    "contribute",
+    "furnish",
+    "equip",
+    "distribute",
+    "deal",
+    "trade",
+    "sell",
+    "outfit",
+    "present"
+  ],
+  "antonyms": [
+    "dearth",
+    "receive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/supply.mp3",
+  "local_sound_path": "sounds/supply.mp3"
+}

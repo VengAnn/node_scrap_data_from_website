@@ -1,0 +1,47 @@
+{
+  "word": "sue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86060.png",
+      "local_image_path": "images/86060.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sue a company",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86057.png",
+      "local_image_path": "images/86057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86058.png",
+      "local_image_path": "images/86058.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sue a girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86059.png",
+      "local_image_path": "images/86059.png"
+    }
+  ],
+  "synonyms": [
+    "prosecute",
+    "litigate",
+    "charge",
+    "indict"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "suede",
+    "suer",
+    "suet",
+    "suetly",
+    "suety"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sue.mp3",
+  "local_sound_path": "sounds/sue.mp3"
+}

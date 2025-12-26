@@ -1,0 +1,47 @@
+{
+  "word": "pejorative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61203.png",
+      "local_image_path": "images/61203.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125285.png",
+      "local_image_path": "images/125285.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125286.png",
+      "local_image_path": "images/125286.png"
+    }
+  ],
+  "synonyms": [
+    "derogatory",
+    "uncomplimentary",
+    "negative",
+    "depreciatory",
+    "critical",
+    "sneering",
+    "sniping",
+    "disapproving",
+    "judgmental",
+    "harsh",
+    "scornful",
+    "disparaging",
+    "belittling",
+    "depreciative"
+  ],
+  "antonyms": [
+    "positive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pejorative.mp3",
+  "local_sound_path": "sounds/pejorative.mp3"
+}

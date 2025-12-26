@@ -1,0 +1,63 @@
+{
+  "word": "tang",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87451.png",
+      "local_image_path": "images/87451.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87447.png",
+      "local_image_path": "images/87447.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87450.png",
+      "local_image_path": "images/87450.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87448.png",
+      "local_image_path": "images/87448.png"
+    }
+  ],
+  "synonyms": [
+    "trace",
+    "hint",
+    "smack",
+    "relish",
+    "aftertaste",
+    "savor",
+    "suggestion",
+    "flavor",
+    "smell",
+    "whiff",
+    "odor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tangelo",
+    "tangency",
+    "tangent",
+    "tangential",
+    "tangentiality",
+    "tangentially",
+    "tangerine",
+    "tangibility",
+    "tangible",
+    "tangibleness",
+    "tangle",
+    "tangled",
+    "tango",
+    "tangy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tang.mp3",
+  "local_sound_path": "sounds/tang.mp3"
+}

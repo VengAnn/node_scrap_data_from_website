@@ -1,0 +1,33 @@
+{
+  "word": "deplore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She deplored his scandalous actions.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20618.png",
+      "local_image_path": "images/20618.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118051.png",
+      "local_image_path": "images/118051.png"
+    }
+  ],
+  "synonyms": [
+    "lament",
+    "bewail",
+    "bemoan",
+    "regret",
+    "rue"
+  ],
+  "antonyms": [
+    "approve",
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deplore.mp3",
+  "local_sound_path": "sounds/deplore.mp3"
+}

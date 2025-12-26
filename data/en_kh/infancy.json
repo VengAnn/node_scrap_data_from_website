@@ -1,0 +1,32 @@
+{
+  "word": "infancy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "injured in infancy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39562.png",
+      "local_image_path": "images/39562.png"
+    },
+    {
+      "pos": "n",
+      "example": "infancy of a project",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39563.png",
+      "local_image_path": "images/39563.png"
+    }
+  ],
+  "synonyms": [
+    "childhood",
+    "babyhood",
+    "youth",
+    "immaturity"
+  ],
+  "antonyms": [
+    "adulthood",
+    "conclusion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infancy.mp3",
+  "local_sound_path": "sounds/infancy.mp3"
+}

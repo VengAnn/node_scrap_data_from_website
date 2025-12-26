@@ -1,0 +1,36 @@
+{
+  "word": "meld",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107471.png",
+      "local_image_path": "images/107471.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107472.png",
+      "local_image_path": "images/107472.png"
+    }
+  ],
+  "synonyms": [
+    "mend",
+    "set",
+    "bond",
+    "join",
+    "heal"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "melder",
+    "meldometer",
+    "meldrop"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meld.mp3",
+  "local_sound_path": "sounds/meld.mp3"
+}

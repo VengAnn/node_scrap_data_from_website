@@ -1,0 +1,57 @@
+{
+  "word": "standing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "standing room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84240.png",
+      "local_image_path": "images/84240.png"
+    },
+    {
+      "pos": "adj",
+      "example": "standing rule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84241.png",
+      "local_image_path": "images/84241.png"
+    },
+    {
+      "pos": "n",
+      "example": "of long standing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84238.png",
+      "local_image_path": "images/84238.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84239.png",
+      "local_image_path": "images/84239.png"
+    }
+  ],
+  "synonyms": [
+    "duration",
+    "existence",
+    "continuance",
+    "rising",
+    "stand up"
+  ],
+  "antonyms": [
+    "temporary",
+    "horizontal",
+    "sitting"
+  ],
+  "similar_words": [
+    "standing army",
+    "standing committee",
+    "standing contract",
+    "standing dish",
+    "standing expenses",
+    "standing order",
+    "standing orders",
+    "standing stone",
+    "standing vote",
+    "standing-place"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/standing.mp3",
+  "local_sound_path": "sounds/standing.mp3"
+}

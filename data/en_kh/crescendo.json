@@ -1,0 +1,29 @@
+{
+  "word": "crescendo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18542.png",
+      "local_image_path": "images/18542.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18541.png",
+      "local_image_path": "images/18541.png"
+    }
+  ],
+  "synonyms": [
+    "increase",
+    "upsurge",
+    "swelling",
+    "climax"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crescendo.mp3",
+  "local_sound_path": "sounds/crescendo.mp3"
+}

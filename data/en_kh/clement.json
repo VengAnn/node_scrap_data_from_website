@@ -1,0 +1,39 @@
+{
+  "word": "clement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "clement sentence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14961.png",
+      "local_image_path": "images/14961.png"
+    },
+    {
+      "pos": "adj",
+      "example": "clement weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14962.png",
+      "local_image_path": "images/14962.png"
+    }
+  ],
+  "synonyms": [
+    "mild",
+    "balmy",
+    "pleasant",
+    "temperate",
+    "gentle",
+    "soft",
+    "moderate",
+    "warm"
+  ],
+  "antonyms": [
+    "wintry",
+    "inclement"
+  ],
+  "similar_words": [
+    "clementine",
+    "clemently"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clement.mp3",
+  "local_sound_path": "sounds/clement.mp3"
+}

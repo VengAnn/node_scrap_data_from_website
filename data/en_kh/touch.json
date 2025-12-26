@@ -1,0 +1,94 @@
+{
+  "word": "touch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90400.png",
+      "local_image_path": "images/90400.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90401.png",
+      "local_image_path": "images/90401.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90402.png",
+      "local_image_path": "images/90402.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He touched the bell.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90397.png",
+      "local_image_path": "images/90397.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His troubles touch me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90398.png",
+      "local_image_path": "images/90398.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He hasn't touched food for two days.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90399.png",
+      "local_image_path": "images/90399.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128329.png",
+      "local_image_path": "images/128329.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128330.png",
+      "local_image_path": "images/128330.png"
+    }
+  ],
+  "synonyms": [
+    "trace",
+    "bit",
+    "dash",
+    "drop",
+    "hint",
+    "affect",
+    "move",
+    "upset",
+    "stir",
+    "impress",
+    "strike home"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "touch-and-go",
+    "touch-box",
+    "touch-paper",
+    "touch-type",
+    "touch-up",
+    "touchable",
+    "touchableness",
+    "touchdown",
+    "touched",
+    "toucher",
+    "touchhole",
+    "touchily",
+    "touchiness",
+    "touching",
+    "touchingly",
+    "touchingness",
+    "touchstone",
+    "touchwood",
+    "touchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/touch.mp3",
+  "local_sound_path": "sounds/touch.mp3"
+}

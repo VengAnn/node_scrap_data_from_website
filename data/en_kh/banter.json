@@ -1,0 +1,33 @@
+{
+  "word": "banter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7377.png",
+      "local_image_path": "images/7377.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7376.png",
+      "local_image_path": "images/7376.png"
+    }
+  ],
+  "synonyms": [
+    "tease",
+    "mock",
+    "joke",
+    "razz",
+    "rag"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bantering",
+    "banteringly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/banter.mp3",
+  "local_sound_path": "sounds/banter.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "beauty",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "her smile is one of her chief beauties",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7926.png",
+      "local_image_path": "images/7926.png"
+    }
+  ],
+  "synonyms": [
+    "advantage",
+    "attraction",
+    "benefit",
+    "boon",
+    "asset",
+    "plus",
+    "upside"
+  ],
+  "antonyms": [
+    "unattractiveness",
+    "drawback",
+    "disadvantage"
+  ],
+  "similar_words": [
+    "beauty contest",
+    "beauty parlor",
+    "beauty queen",
+    "beauty salon",
+    "beauty shop",
+    "beauty sleep",
+    "beauty spot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beauty.mp3",
+  "local_sound_path": "sounds/beauty.mp3"
+}

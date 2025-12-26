@@ -1,0 +1,45 @@
+{
+  "word": "strenuous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "strenuous effort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85335.png",
+      "local_image_path": "images/85335.png"
+    },
+    {
+      "pos": "adj",
+      "example": "strenuous exercise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85336.png",
+      "local_image_path": "images/85336.png"
+    }
+  ],
+  "synonyms": [
+    "vigorous",
+    "tireless",
+    "energetic",
+    "persistent",
+    "dogged",
+    "active",
+    "spirited",
+    "tiring",
+    "arduous",
+    "demanding",
+    "taxing",
+    "backbreaking",
+    "laborious",
+    "tough",
+    "hard"
+  ],
+  "antonyms": [
+    "light"
+  ],
+  "similar_words": [
+    "strenuously",
+    "strenuousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strenuous.mp3",
+  "local_sound_path": "sounds/strenuous.mp3"
+}

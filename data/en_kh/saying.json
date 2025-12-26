@@ -1,0 +1,40 @@
+{
+  "word": "saying",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "thus saying",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76226.png",
+      "local_image_path": "images/76226.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76224.png",
+      "local_image_path": "images/76224.png"
+    },
+    {
+      "pos": "n",
+      "example": "old saying",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76225.png",
+      "local_image_path": "images/76225.png"
+    }
+  ],
+  "synonyms": [
+    "proverb",
+    "adage",
+    "maxim",
+    "axiom",
+    "motto",
+    "saw",
+    "aphorism",
+    "revealing",
+    "telling"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/saying.mp3",
+  "local_sound_path": "sounds/saying.mp3"
+}

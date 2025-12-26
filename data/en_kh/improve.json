@@ -1,0 +1,60 @@
+{
+  "word": "improve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "your health will improve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37989.png",
+      "local_image_path": "images/37989.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121769.png",
+      "local_image_path": "images/121769.png"
+    },
+    {
+      "pos": "tv",
+      "example": "improve one's health",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37987.png",
+      "local_image_path": "images/37987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "improve property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37988.png",
+      "local_image_path": "images/37988.png"
+    }
+  ],
+  "synonyms": [
+    "recover",
+    "convalesce",
+    "recuperate",
+    "rally",
+    "mend",
+    "better",
+    "enhance",
+    "perfect",
+    "develop",
+    "expand",
+    "further",
+    "enrich",
+    "upgrade",
+    "increase",
+    "build up"
+  ],
+  "antonyms": [
+    "worsen",
+    "deteriorate",
+    "decline",
+    "waste"
+  ],
+  "similar_words": [
+    "improvement",
+    "improver"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/improve.mp3",
+  "local_sound_path": "sounds/improve.mp3"
+}

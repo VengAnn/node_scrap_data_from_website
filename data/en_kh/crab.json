@@ -1,0 +1,46 @@
+{
+  "word": "crab",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18294.png",
+      "local_image_path": "images/18294.png"
+    },
+    {
+      "pos": "iv",
+      "example": "My boss is always crabbing about my work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18295.png",
+      "local_image_path": "images/18295.png"
+    },
+    {
+      "pos": "n",
+      "example": "ocean crab",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18292.png",
+      "local_image_path": "images/18292.png"
+    },
+    {
+      "pos": "n",
+      "example": "He is a crab",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18293.png",
+      "local_image_path": "images/18293.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "crab-apple",
+    "crabbed",
+    "crabbedly",
+    "crabbedness",
+    "crabber",
+    "crabbery",
+    "crabbiness",
+    "crabby",
+    "crablet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crab.mp3",
+  "local_sound_path": "sounds/crab.mp3"
+}

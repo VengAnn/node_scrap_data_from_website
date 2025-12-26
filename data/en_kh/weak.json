@@ -1,0 +1,56 @@
+{
+  "word": "weak",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "weak horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99471.png",
+      "local_image_path": "images/99471.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99472.png",
+      "local_image_path": "images/99472.png"
+    }
+  ],
+  "synonyms": [
+    "unconvincing",
+    "uncertain",
+    "feeble",
+    "ineffectual",
+    "ineffective",
+    "implausible",
+    "flimsy",
+    "powerless",
+    "toothless",
+    "inadequate"
+  ],
+  "antonyms": [
+    "strong",
+    "invulnerable",
+    "robust",
+    "sturdy",
+    "bold",
+    "convincing",
+    "powerful"
+  ],
+  "similar_words": [
+    "weak hearted",
+    "weak-headed",
+    "weak-kneed",
+    "weak-sighted",
+    "weaken",
+    "weakener",
+    "weakish",
+    "weakling",
+    "weakly",
+    "weakminded",
+    "weakmindedness",
+    "weakness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/weak.mp3",
+  "local_sound_path": "sounds/weak.mp3"
+}

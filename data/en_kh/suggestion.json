@@ -1,0 +1,62 @@
+{
+  "word": "suggestion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "make a suggestion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86138.png",
+      "local_image_path": "images/86138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86139.png",
+      "local_image_path": "images/86139.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86140.png",
+      "local_image_path": "images/86140.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132097.png",
+      "local_image_path": "images/132097.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132098.png",
+      "local_image_path": "images/132098.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132099.png",
+      "local_image_path": "images/132099.png"
+    }
+  ],
+  "synonyms": [
+    "evocation",
+    "air",
+    "aura",
+    "hint",
+    "trace",
+    "implication",
+    "insinuation",
+    "intimation",
+    "indication",
+    "innuendo"
+  ],
+  "antonyms": [
+    "order",
+    "statement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/suggestion.mp3",
+  "local_sound_path": "sounds/suggestion.mp3"
+}

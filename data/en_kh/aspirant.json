@@ -1,0 +1,30 @@
+{
+  "word": "aspirant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5831.png",
+      "local_image_path": "images/5831.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5830.png",
+      "local_image_path": "images/5830.png"
+    }
+  ],
+  "synonyms": [
+    "hopeful",
+    "candidate",
+    "contender",
+    "applicant",
+    "postulant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aspirant.mp3",
+  "local_sound_path": "sounds/aspirant.mp3"
+}

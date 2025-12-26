@@ -1,0 +1,47 @@
+{
+  "word": "sew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78523.png",
+      "local_image_path": "images/78523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sew garments",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78522.png",
+      "local_image_path": "images/78522.png"
+    }
+  ],
+  "synonyms": [
+    "stitch",
+    "seam",
+    "baste",
+    "hem",
+    "embroider",
+    "darn"
+  ],
+  "antonyms": [
+    "unpick"
+  ],
+  "similar_words": [
+    "sewage",
+    "sewage-farm",
+    "sewer",
+    "sewer gas",
+    "sewer rat",
+    "sewerage",
+    "sewin",
+    "sewing",
+    "sewing press",
+    "sewing silk",
+    "sewing-machine",
+    "sewing-needle",
+    "sewing-thread"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sew.mp3",
+  "local_sound_path": "sounds/sew.mp3"
+}

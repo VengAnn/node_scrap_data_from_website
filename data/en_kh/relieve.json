@@ -1,0 +1,68 @@
+{
+  "word": "relieve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "relieve pain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71911.png",
+      "local_image_path": "images/71911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71912.png",
+      "local_image_path": "images/71912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "relieve the guard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71913.png",
+      "local_image_path": "images/71913.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71914.png",
+      "local_image_path": "images/71914.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71915.png",
+      "local_image_path": "images/71915.png"
+    },
+    {
+      "pos": "tv",
+      "example": "relieve of one's post",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71916.png",
+      "local_image_path": "images/71916.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126777.png",
+      "local_image_path": "images/126777.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126778.png",
+      "local_image_path": "images/126778.png"
+    }
+  ],
+  "synonyms": [
+    "replace"
+  ],
+  "antonyms": [
+    "exacerbate",
+    "appoint"
+  ],
+  "similar_words": [
+    "relievement",
+    "reliever"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/relieve.mp3",
+  "local_sound_path": "sounds/relieve.mp3"
+}

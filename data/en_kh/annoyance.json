@@ -1,0 +1,42 @@
+{
+  "word": "annoyance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "his annoyance of the guests",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4403.png",
+      "local_image_path": "images/4403.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112527.png",
+      "local_image_path": "images/112527.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112528.png",
+      "local_image_path": "images/112528.png"
+    }
+  ],
+  "synonyms": [
+    "irritation",
+    "infuriation",
+    "exasperation",
+    "aggravation",
+    "bother",
+    "anger",
+    "frustration",
+    "displeasure",
+    "provocation"
+  ],
+  "antonyms": [
+    "pleasure"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/annoyance.mp3",
+  "local_sound_path": "sounds/annoyance.mp3"
+}

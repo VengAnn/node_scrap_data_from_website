@@ -1,0 +1,39 @@
+{
+  "word": "wariness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99072.png",
+      "local_image_path": "images/99072.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99141.png",
+      "local_image_path": "images/99141.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99167.png",
+      "local_image_path": "images/99167.png"
+    }
+  ],
+  "synonyms": [
+    "caution",
+    "suspicion",
+    "care",
+    "circumspection",
+    "caginess",
+    "cageyness"
+  ],
+  "antonyms": [
+    "recklessness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wariness.mp3",
+  "local_sound_path": "sounds/wariness.mp3"
+}

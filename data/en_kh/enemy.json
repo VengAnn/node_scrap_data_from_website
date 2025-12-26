@@ -1,0 +1,29 @@
+{
+  "word": "enemy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The enemy were forced to retreat.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24954.png",
+      "local_image_path": "images/24954.png"
+    }
+  ],
+  "synonyms": [
+    "opponent",
+    "adversary",
+    "foe",
+    "rival",
+    "competitor",
+    "antagonist",
+    "nemesis"
+  ],
+  "antonyms": [
+    "ally",
+    "friend"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enemy.mp3",
+  "local_sound_path": "sounds/enemy.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "word": "partition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60352.png",
+      "local_image_path": "images/60352.png"
+    },
+    {
+      "pos": "n",
+      "example": "wooden partition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60353.png",
+      "local_image_path": "images/60353.png"
+    },
+    {
+      "pos": "n",
+      "example": "wooden of a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60354.png",
+      "local_image_path": "images/60354.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125208.png",
+      "local_image_path": "images/125208.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125209.png",
+      "local_image_path": "images/125209.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60355.png",
+      "local_image_path": "images/60355.png"
+    }
+  ],
+  "synonyms": [
+    "divide",
+    "separate",
+    "split",
+    "segregate",
+    "subdivide",
+    "apportion"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "partition-wall",
+    "partitionist",
+    "partitionment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/partition.mp3",
+  "local_sound_path": "sounds/partition.mp3"
+}

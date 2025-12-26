@@ -1,0 +1,35 @@
+{
+  "word": "pompous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65036.png",
+      "local_image_path": "images/65036.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65037.png",
+      "local_image_path": "images/65037.png"
+    }
+  ],
+  "synonyms": [
+    "showy",
+    "spectacular",
+    "magnificent",
+    "grand",
+    "splendid"
+  ],
+  "antonyms": [
+    "modest"
+  ],
+  "similar_words": [
+    "pompously",
+    "pompousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pompous.mp3",
+  "local_sound_path": "sounds/pompous.mp3"
+}

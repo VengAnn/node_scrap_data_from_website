@@ -1,0 +1,49 @@
+{
+  "word": "forecast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29680.png",
+      "local_image_path": "images/29680.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29681.png",
+      "local_image_path": "images/29681.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29679.png",
+      "local_image_path": "images/29679.png"
+    }
+  ],
+  "synonyms": [
+    "prediction",
+    "estimate",
+    "guess",
+    "calculation",
+    "conjecture",
+    "predict",
+    "calculate",
+    "calculated",
+    "project",
+    "anticipate",
+    "foretell",
+    "foretold"
+  ],
+  "antonyms": [
+    "post-mortem"
+  ],
+  "similar_words": [
+    "forecaster",
+    "forecasting",
+    "forecastle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/forecast.mp3",
+  "local_sound_path": "sounds/forecast.mp3"
+}

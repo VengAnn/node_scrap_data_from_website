@@ -1,0 +1,33 @@
+{
+  "word": "hostile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36056.png",
+      "local_image_path": "images/36056.png"
+    }
+  ],
+  "synonyms": [
+    "harsh",
+    "adverse",
+    "unwelcoming",
+    "unfavorable",
+    "unpleasant",
+    "tough",
+    "inimical"
+  ],
+  "antonyms": [
+    "friendly",
+    "pleasant"
+  ],
+  "similar_words": [
+    "hostile possession",
+    "hostile witness",
+    "hostilely"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hostile.mp3",
+  "local_sound_path": "sounds/hostile.mp3"
+}

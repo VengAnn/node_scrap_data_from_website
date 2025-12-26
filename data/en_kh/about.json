@@ -1,0 +1,45 @@
+{
+  "word": "about",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1526.png",
+      "local_image_path": "images/1526.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1527.png",
+      "local_image_path": "images/1527.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1525.png",
+      "local_image_path": "images/1525.png"
+    }
+  ],
+  "synonyms": [
+    "approximately",
+    "roughly",
+    "around",
+    "almost",
+    "nearly",
+    "concerning",
+    "regarding",
+    "on",
+    "re",
+    "apropos"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "about ship",
+    "about-face",
+    "about-turn"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/about.mp3",
+  "local_sound_path": "sounds/about.mp3"
+}

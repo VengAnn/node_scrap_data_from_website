@@ -1,0 +1,58 @@
+{
+  "word": "serious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "serious illness",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78310.png",
+      "local_image_path": "images/78310.png"
+    },
+    {
+      "pos": "adj",
+      "example": "serious expression",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78311.png",
+      "local_image_path": "images/78311.png"
+    },
+    {
+      "pos": "adj",
+      "example": "serious disposition",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78312.png",
+      "local_image_path": "images/78312.png"
+    },
+    {
+      "pos": "adj",
+      "example": "serious attempt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78313.png",
+      "local_image_path": "images/78313.png"
+    },
+    {
+      "pos": "adj",
+      "example": "serious reading",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78314.png",
+      "local_image_path": "images/78314.png"
+    }
+  ],
+  "synonyms": [
+    "thought-provoking",
+    "meaningful",
+    "intense",
+    "deep",
+    "profound",
+    "powerful"
+  ],
+  "antonyms": [
+    "funny",
+    "trivial",
+    "minor",
+    "flippant",
+    "lightweight"
+  ],
+  "similar_words": [
+    "seriously",
+    "seriousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/serious.mp3",
+  "local_sound_path": "sounds/serious.mp3"
+}

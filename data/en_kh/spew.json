@@ -1,0 +1,41 @@
+{
+  "word": "spew",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83304.png",
+      "local_image_path": "images/83304.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spew water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83302.png",
+      "local_image_path": "images/83302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "spew one's dinner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83303.png",
+      "local_image_path": "images/83303.png"
+    }
+  ],
+  "synonyms": [
+    "disgorge",
+    "discharge",
+    "emit",
+    "eject",
+    "gush",
+    "flow",
+    "stream",
+    "spill"
+  ],
+  "antonyms": [
+    "dribble"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spew.mp3",
+  "local_sound_path": "sounds/spew.mp3"
+}

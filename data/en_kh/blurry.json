@@ -1,0 +1,28 @@
+{
+  "word": "blurry",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9849.png",
+      "local_image_path": "images/9849.png"
+    }
+  ],
+  "synonyms": [
+    "fuzzy",
+    "blurred",
+    "dim",
+    "shadowy",
+    "indistinct",
+    "unclear",
+    "hazy"
+  ],
+  "antonyms": [
+    "clear"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blurry.mp3",
+  "local_sound_path": "sounds/blurry.mp3"
+}

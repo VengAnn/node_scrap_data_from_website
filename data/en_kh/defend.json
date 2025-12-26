@@ -1,0 +1,34 @@
+{
+  "word": "defend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20142.png",
+      "local_image_path": "images/20142.png"
+    }
+  ],
+  "synonyms": [
+    "support",
+    "represent",
+    "uphold",
+    "endorse",
+    "back",
+    "bolster",
+    "indorse",
+    "champion"
+  ],
+  "antonyms": [
+    "attack",
+    "oppose"
+  ],
+  "similar_words": [
+    "defendant",
+    "defendant in error",
+    "defender"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defend.mp3",
+  "local_sound_path": "sounds/defend.mp3"
+}

@@ -1,0 +1,54 @@
+{
+  "word": "contrast",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17381.png",
+      "local_image_path": "images/17381.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17382.png",
+      "local_image_path": "images/17382.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17384.png",
+      "local_image_path": "images/17384.png"
+    },
+    {
+      "pos": "tv",
+      "example": "It is interesting to contrast the two writers.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17380.png",
+      "local_image_path": "images/17380.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17383.png",
+      "local_image_path": "images/17383.png"
+    }
+  ],
+  "synonyms": [
+    "differ",
+    "diverge",
+    "conflict",
+    "disagree"
+  ],
+  "antonyms": [
+    "similarity",
+    "agree"
+  ],
+  "similar_words": [
+    "contrastable",
+    "contrastingly",
+    "contrasty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/contrast.mp3",
+  "local_sound_path": "sounds/contrast.mp3"
+}

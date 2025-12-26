@@ -1,0 +1,58 @@
+{
+  "word": "scold",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76835.png",
+      "local_image_path": "images/76835.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127545.png",
+      "local_image_path": "images/127545.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76832.png",
+      "local_image_path": "images/76832.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76833.png",
+      "local_image_path": "images/76833.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76834.png",
+      "local_image_path": "images/76834.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127546.png",
+      "local_image_path": "images/127546.png"
+    }
+  ],
+  "synonyms": [
+    "reprimand",
+    "tick off",
+    "reproach",
+    "rebuke",
+    "admonish",
+    "discipline",
+    "caution"
+  ],
+  "antonyms": [
+    "praise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scold.mp3",
+  "local_sound_path": "sounds/scold.mp3"
+}

@@ -1,0 +1,51 @@
+{
+  "word": "spleen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83515.png",
+      "local_image_path": "images/83515.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83516.png",
+      "local_image_path": "images/83516.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83517.png",
+      "local_image_path": "images/83517.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83518.png",
+      "local_image_path": "images/83518.png"
+    }
+  ],
+  "synonyms": [
+    "irritation",
+    "annoyance",
+    "grumpiness",
+    "temper",
+    "pique",
+    "malice",
+    "malevolence",
+    "spite",
+    "anger"
+  ],
+  "antonyms": [
+    "contentment"
+  ],
+  "similar_words": [
+    "spleenful",
+    "spleenless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spleen.mp3",
+  "local_sound_path": "sounds/spleen.mp3"
+}

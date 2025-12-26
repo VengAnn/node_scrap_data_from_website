@@ -1,0 +1,56 @@
+{
+  "word": "meeting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "We'll have a meeting tomorrow.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107307.png",
+      "local_image_path": "images/107307.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107308.png",
+      "local_image_path": "images/107308.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123855.png",
+      "local_image_path": "images/123855.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123856.png",
+      "local_image_path": "images/123856.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123857.png",
+      "local_image_path": "images/123857.png"
+    }
+  ],
+  "synonyms": [
+    "appointment",
+    "engagement",
+    "discussion",
+    "seminar",
+    "enduring",
+    "suffering"
+  ],
+  "antonyms": [
+    "parting"
+  ],
+  "similar_words": [
+    "meeting house",
+    "meeting of creditors",
+    "meeting of minds",
+    "meeting place"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/meeting.mp3",
+  "local_sound_path": "sounds/meeting.mp3"
+}

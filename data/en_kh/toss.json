@@ -1,0 +1,75 @@
+{
+  "word": "toss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Boats toss in the waves",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90348.png",
+      "local_image_path": "images/90348.png"
+    },
+    {
+      "pos": "n",
+      "example": "toss of the boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90349.png",
+      "local_image_path": "images/90349.png"
+    },
+    {
+      "pos": "tv",
+      "example": "toss me the ball",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90345.png",
+      "local_image_path": "images/90345.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Waves toss the boat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90346.png",
+      "local_image_path": "images/90346.png"
+    },
+    {
+      "pos": "tv",
+      "example": "toss of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90347.png",
+      "local_image_path": "images/90347.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128325.png",
+      "local_image_path": "images/128325.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128326.png",
+      "local_image_path": "images/128326.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128327.png",
+      "local_image_path": "images/128327.png"
+    }
+  ],
+  "synonyms": [
+    "mix",
+    "stir",
+    "incorporate",
+    "throw",
+    "pitch",
+    "fling",
+    "lob",
+    "chuck",
+    "flip",
+    "hurl"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "toss-up",
+    "tosser",
+    "tosspot"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/toss.mp3",
+  "local_sound_path": "sounds/toss.mp3"
+}

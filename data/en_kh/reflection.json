@@ -1,0 +1,53 @@
+{
+  "word": "reflection",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "reflection of light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71362.png",
+      "local_image_path": "images/71362.png"
+    },
+    {
+      "pos": "n",
+      "example": "see his reflection in the mirror",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71363.png",
+      "local_image_path": "images/71363.png"
+    },
+    {
+      "pos": "n",
+      "example": "careful reflection",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71364.png",
+      "local_image_path": "images/71364.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71365.png",
+      "local_image_path": "images/71365.png"
+    }
+  ],
+  "synonyms": [
+    "consideration",
+    "thinking",
+    "thought",
+    "contemplation",
+    "deliberation",
+    "musing",
+    "rumination",
+    "indication",
+    "sign",
+    "manifestation",
+    "suggestion",
+    "expression",
+    "evidence",
+    "signal"
+  ],
+  "antonyms": [
+    "impulse"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reflection.mp3",
+  "local_sound_path": "sounds/reflection.mp3"
+}

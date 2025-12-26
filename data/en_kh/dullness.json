@@ -1,0 +1,38 @@
+{
+  "word": "dullness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23391.png",
+      "local_image_path": "images/23391.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118821.png",
+      "local_image_path": "images/118821.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118822.png",
+      "local_image_path": "images/118822.png"
+    }
+  ],
+  "synonyms": [
+    "cloudiness",
+    "gloom",
+    "grayness",
+    "greyness"
+  ],
+  "antonyms": [
+    "brightness",
+    "liveliness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dullness.mp3",
+  "local_sound_path": "sounds/dullness.mp3"
+}

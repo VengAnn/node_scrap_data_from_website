@@ -1,0 +1,33 @@
+{
+  "word": "request",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "You should make request again",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72552.png",
+      "local_image_path": "images/72552.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I will request some money from him again",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72551.png",
+      "local_image_path": "images/72551.png"
+    }
+  ],
+  "synonyms": [
+    "appeal",
+    "call",
+    "demand",
+    "application",
+    "entreat",
+    "invite",
+    "wish",
+    "bid"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/request.mp3",
+  "local_sound_path": "sounds/request.mp3"
+}

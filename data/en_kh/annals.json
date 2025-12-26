@@ -1,0 +1,39 @@
+{
+  "word": "annals",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4372.png",
+      "local_image_path": "images/4372.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4371.png",
+      "local_image_path": "images/4371.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113746.png",
+      "local_image_path": "images/113746.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113747.png",
+      "local_image_path": "images/113747.png"
+    }
+  ],
+  "synonyms": [
+    "archives",
+    "history"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/annals.mp3",
+  "local_sound_path": "sounds/annals.mp3"
+}

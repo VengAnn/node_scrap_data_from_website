@@ -1,0 +1,40 @@
+{
+  "word": "community",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16116.png",
+      "local_image_path": "images/16116.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16118.png",
+      "local_image_path": "images/16118.png"
+    }
+  ],
+  "synonyms": [
+    "kinship",
+    "unity",
+    "identity",
+    "cooperation",
+    "convergence",
+    "similarity",
+    "spirit"
+  ],
+  "antonyms": [
+    "isolation",
+    "private"
+  ],
+  "similar_words": [
+    "community center",
+    "community college",
+    "community policing",
+    "community property"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/community.mp3",
+  "local_sound_path": "sounds/community.mp3"
+}

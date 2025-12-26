@@ -1,0 +1,31 @@
+{
+  "word": "accuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "It is wrong to accuse a person of crime unless you have proof that he is guilty",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1970.png",
+      "local_image_path": "images/1970.png"
+    }
+  ],
+  "synonyms": [
+    "blame",
+    "charge",
+    "indict",
+    "allege",
+    "fault",
+    "reproach",
+    "censure",
+    "denunciate",
+    "inculpate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "accused",
+    "accuser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accuse.mp3",
+  "local_sound_path": "sounds/accuse.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "scorch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76891.png",
+      "local_image_path": "images/76891.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scorch the butter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76889.png",
+      "local_image_path": "images/76889.png"
+    },
+    {
+      "pos": "tv",
+      "example": "scorch one's clothes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76890.png",
+      "local_image_path": "images/76890.png"
+    }
+  ],
+  "synonyms": [
+    "burn",
+    "singe",
+    "sear",
+    "char",
+    "blacken",
+    "mark",
+    "brand"
+  ],
+  "antonyms": [
+    "freeze"
+  ],
+  "similar_words": [
+    "scorched",
+    "scorched-earth policy",
+    "scorcher",
+    "scorching",
+    "scorchingly",
+    "scorchy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scorch.mp3",
+  "local_sound_path": "sounds/scorch.mp3"
+}

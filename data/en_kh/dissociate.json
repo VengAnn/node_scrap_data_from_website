@@ -1,0 +1,39 @@
+{
+  "word": "dissociate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22217.png",
+      "local_image_path": "images/22217.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dissociate two ideas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22218.png",
+      "local_image_path": "images/22218.png"
+    },
+    {
+      "pos": "tv",
+      "example": "dissociate oneself from",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22219.png",
+      "local_image_path": "images/22219.png"
+    }
+  ],
+  "synonyms": [
+    "distance",
+    "detach",
+    "divorce",
+    "separate",
+    "disconnect",
+    "disassociate"
+  ],
+  "antonyms": [
+    "associate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dissociate.mp3",
+  "local_sound_path": "sounds/dissociate.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "besides",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "the teacher was besieged with questions and requests from his \n\npupils",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8397.png",
+      "local_image_path": "images/8397.png"
+    },
+    {
+      "pos": "prep",
+      "example": "study and work besides",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8396.png",
+      "local_image_path": "images/8396.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114947.png",
+      "local_image_path": "images/114947.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114948.png",
+      "local_image_path": "images/114948.png"
+    },
+    {
+      "pos": "prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114949.png",
+      "local_image_path": "images/114949.png"
+    }
+  ],
+  "synonyms": [
+    "moreover",
+    "further",
+    "anyway",
+    "furthermore",
+    "likewise",
+    "farther"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/besides.mp3",
+  "local_sound_path": "sounds/besides.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "imaginative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "imaginative child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37357.png",
+      "local_image_path": "images/37357.png"
+    },
+    {
+      "pos": "adj",
+      "example": "imaginative approach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37358.png",
+      "local_image_path": "images/37358.png"
+    },
+    {
+      "pos": "adj",
+      "example": "imaginative writer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37359.png",
+      "local_image_path": "images/37359.png"
+    }
+  ],
+  "synonyms": [
+    "creative",
+    "inventive",
+    "original",
+    "ingenious",
+    "inspired",
+    "artistic",
+    "resourceful",
+    "visionary",
+    "inspirational"
+  ],
+  "antonyms": [
+    "unimaginative"
+  ],
+  "similar_words": [
+    "imaginatively",
+    "imaginativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imaginative.mp3",
+  "local_sound_path": "sounds/imaginative.mp3"
+}

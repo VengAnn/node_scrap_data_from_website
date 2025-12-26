@@ -1,0 +1,44 @@
+{
+  "word": "dairy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dairy products",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19514.png",
+      "local_image_path": "images/19514.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dairy farm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19515.png",
+      "local_image_path": "images/19515.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19513.png",
+      "local_image_path": "images/19513.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117672.png",
+      "local_image_path": "images/117672.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "dairy cattle",
+    "dairy cream",
+    "dairy farm",
+    "dairy food",
+    "dairy man",
+    "dairymaid",
+    "dairyman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dairy.mp3",
+  "local_sound_path": "sounds/dairy.mp3"
+}

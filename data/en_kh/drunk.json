@@ -1,0 +1,36 @@
+{
+  "word": "drunk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "drunk with alcohol",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23266.png",
+      "local_image_path": "images/23266.png"
+    },
+    {
+      "pos": "n",
+      "example": "attacked by a drunk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23267.png",
+      "local_image_path": "images/23267.png"
+    }
+  ],
+  "synonyms": [
+    "intoxicated",
+    "high",
+    "inebriated",
+    "smashed"
+  ],
+  "antonyms": [
+    "sober"
+  ],
+  "similar_words": [
+    "drunkard",
+    "drunken",
+    "drunkenly",
+    "drunkenness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/drunk.mp3",
+  "local_sound_path": "sounds/drunk.mp3"
+}

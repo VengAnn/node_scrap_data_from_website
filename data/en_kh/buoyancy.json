@@ -1,0 +1,37 @@
+{
+  "word": "buoyancy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "buoyancy of wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11883.png",
+      "local_image_path": "images/11883.png"
+    },
+    {
+      "pos": "n",
+      "example": "buoyancy of water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11884.png",
+      "local_image_path": "images/11884.png"
+    },
+    {
+      "pos": "n",
+      "example": "buoyancy of his spirits",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11885.png",
+      "local_image_path": "images/11885.png"
+    }
+  ],
+  "synonyms": [
+    "resilience",
+    "optimism",
+    "cheerfulness",
+    "enthusiasm",
+    "jauntiness",
+    "moroseness"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/buoyancy.mp3",
+  "local_sound_path": "sounds/buoyancy.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "outline",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "outline for an essay",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58377.png",
+      "local_image_path": "images/58377.png"
+    },
+    {
+      "pos": "tv",
+      "example": "outline his plan",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58378.png",
+      "local_image_path": "images/58378.png"
+    },
+    {
+      "pos": "tv",
+      "example": "outline a drawing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58379.png",
+      "local_image_path": "images/58379.png"
+    }
+  ],
+  "synonyms": [
+    "shape",
+    "form",
+    "figure",
+    "contour",
+    "silhouette",
+    "profile",
+    "summarize",
+    "delineate"
+  ],
+  "antonyms": [
+    "expand"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/outline.mp3",
+  "local_sound_path": "sounds/outline.mp3"
+}

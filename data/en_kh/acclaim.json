@@ -1,0 +1,39 @@
+{
+  "word": "acclaim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1847.png",
+      "local_image_path": "images/1847.png"
+    },
+    {
+      "pos": "tv",
+      "example": "acclaim his popularity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1846.png",
+      "local_image_path": "images/1846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111981.png",
+      "local_image_path": "images/111981.png"
+    }
+  ],
+  "synonyms": [
+    "praise",
+    "hail",
+    "commend",
+    "applaud",
+    "cheer"
+  ],
+  "antonyms": [
+    "disapproval",
+    "criticize"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acclaim.mp3",
+  "local_sound_path": "sounds/acclaim.mp3"
+}

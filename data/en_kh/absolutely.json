@@ -1,0 +1,34 @@
+{
+  "word": "absolutely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "absolutely sure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1633.png",
+      "local_image_path": "images/1633.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111813.png",
+      "local_image_path": "images/111813.png"
+    }
+  ],
+  "synonyms": [
+    "unconditionally",
+    "unquestionably",
+    "categorically",
+    "definitely",
+    "certainly",
+    "agreed"
+  ],
+  "antonyms": [
+    "somewhat",
+    "perhaps"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/absolutely.mp3",
+  "local_sound_path": "sounds/absolutely.mp3"
+}

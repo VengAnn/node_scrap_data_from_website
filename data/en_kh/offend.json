@@ -1,0 +1,39 @@
+{
+  "word": "offend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57281.png",
+      "local_image_path": "images/57281.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offend someone",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57282.png",
+      "local_image_path": "images/57282.png"
+    },
+    {
+      "pos": "tv",
+      "example": "offend one's taste",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57283.png",
+      "local_image_path": "images/57283.png"
+    }
+  ],
+  "synonyms": [
+    "upset",
+    "insult",
+    "affront",
+    "transgress"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "offender",
+    "offending",
+    "offendress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/offend.mp3",
+  "local_sound_path": "sounds/offend.mp3"
+}

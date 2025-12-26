@@ -1,0 +1,66 @@
+{
+  "word": "limb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "limb of the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46594.png",
+      "local_image_path": "images/46594.png"
+    },
+    {
+      "pos": "idm",
+      "example": "go out a limb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46595.png",
+      "local_image_path": "images/46595.png"
+    },
+    {
+      "pos": "n",
+      "example": "tree limb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46591.png",
+      "local_image_path": "images/46591.png"
+    },
+    {
+      "pos": "n",
+      "example": "human limb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46592.png",
+      "local_image_path": "images/46592.png"
+    },
+    {
+      "pos": "n",
+      "example": "out on a limb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46593.png",
+      "local_image_path": "images/46593.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123528.png",
+      "local_image_path": "images/123528.png"
+    }
+  ],
+  "synonyms": [
+    "member",
+    "appendage",
+    "branch",
+    "bough",
+    "extremity"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "limbeck",
+    "limbed",
+    "limber",
+    "limberly",
+    "limberness",
+    "limbiferous",
+    "limbless",
+    "limbmeal",
+    "limbo",
+    "limbous",
+    "limby"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/limb.mp3",
+  "local_sound_path": "sounds/limb.mp3"
+}

@@ -1,0 +1,62 @@
+{
+  "word": "cord",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "electric cord",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17695.png",
+      "local_image_path": "images/17695.png"
+    },
+    {
+      "pos": "n",
+      "example": "the cord of cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17696.png",
+      "local_image_path": "images/17696.png"
+    },
+    {
+      "pos": "n",
+      "example": "a cord of wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17697.png",
+      "local_image_path": "images/17697.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cord a bundle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17698.png",
+      "local_image_path": "images/17698.png"
+    },
+    {
+      "pos": "tv",
+      "example": "cord wood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17699.png",
+      "local_image_path": "images/17699.png"
+    }
+  ],
+  "synonyms": [
+    "string",
+    "twine",
+    "rope",
+    "cable",
+    "flex",
+    "thread",
+    "lead"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "cordage",
+    "cordate",
+    "cordately",
+    "cordial",
+    "cordiality",
+    "cordially",
+    "cordillera",
+    "cordite",
+    "cordless",
+    "cordon",
+    "corduroy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cord.mp3",
+  "local_sound_path": "sounds/cord.mp3"
+}

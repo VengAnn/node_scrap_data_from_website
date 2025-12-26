@@ -1,0 +1,34 @@
+{
+  "word": "biff",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8764.png",
+      "local_image_path": "images/8764.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/8765.png",
+      "local_image_path": "images/8765.png"
+    }
+  ],
+  "synonyms": [
+    "hit",
+    "punch",
+    "wallop",
+    "thump",
+    "knock",
+    "clout",
+    "clobber",
+    "belt",
+    "clock"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/biff.mp3",
+  "local_sound_path": "sounds/biff.mp3"
+}

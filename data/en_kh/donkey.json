@@ -1,0 +1,24 @@
+{
+  "word": "donkey",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22721.png",
+      "local_image_path": "images/22721.png"
+    },
+    {
+      "pos": "n",
+      "example": "He's an absolute donkey.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22722.png",
+      "local_image_path": "images/22722.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/donkey.mp3",
+  "local_sound_path": "sounds/donkey.mp3"
+}

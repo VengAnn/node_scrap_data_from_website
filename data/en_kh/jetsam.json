@@ -1,0 +1,29 @@
+{
+  "word": "jetsam",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42961.png",
+      "local_image_path": "images/42961.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42960.png",
+      "local_image_path": "images/42960.png"
+    }
+  ],
+  "synonyms": [
+    "debris",
+    "refuse",
+    "driftwood",
+    "wreckage"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jetsam.mp3",
+  "local_sound_path": "sounds/jetsam.mp3"
+}

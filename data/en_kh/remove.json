@@ -1,0 +1,79 @@
+{
+  "word": "remove",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "remove garbage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72105.png",
+      "local_image_path": "images/72105.png"
+    },
+    {
+      "pos": "tv",
+      "example": "remove him from office",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72106.png",
+      "local_image_path": "images/72106.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72107.png",
+      "local_image_path": "images/72107.png"
+    },
+    {
+      "pos": "tv",
+      "example": "remove a strain",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72108.png",
+      "local_image_path": "images/72108.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72109.png",
+      "local_image_path": "images/72109.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72110.png",
+      "local_image_path": "images/72110.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126835.png",
+      "local_image_path": "images/126835.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126836.png",
+      "local_image_path": "images/126836.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126837.png",
+      "local_image_path": "images/126837.png"
+    }
+  ],
+  "synonyms": [
+    "detach",
+    "amputate",
+    "disconnect",
+    "subtract",
+    "delete"
+  ],
+  "antonyms": [
+    "add"
+  ],
+  "similar_words": [
+    "removed",
+    "removedly",
+    "removedness",
+    "remover"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remove.mp3",
+  "local_sound_path": "sounds/remove.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "rudely",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74527.png",
+      "local_image_path": "images/74527.png"
+    },
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74528.png",
+      "local_image_path": "images/74528.png"
+    }
+  ],
+  "synonyms": [
+    "impolitely",
+    "insolently",
+    "uncouthly",
+    "crudely",
+    "brusquely",
+    "curtly",
+    "offensively",
+    "boorishly",
+    "disrespectfully",
+    "discourteously"
+  ],
+  "antonyms": [
+    "politely"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rudely.mp3",
+  "local_sound_path": "sounds/rudely.mp3"
+}

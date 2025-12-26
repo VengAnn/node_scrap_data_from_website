@@ -1,0 +1,33 @@
+{
+  "word": "rhythm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "rhythm of a song",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73517.png",
+      "local_image_path": "images/73517.png"
+    },
+    {
+      "pos": "n",
+      "example": "rhythm method",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73518.png",
+      "local_image_path": "images/73518.png"
+    }
+  ],
+  "synonyms": [
+    "regularity",
+    "pattern",
+    "progression",
+    "sequence"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "rhythmic",
+    "rhythmical",
+    "rhythmics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rhythm.mp3",
+  "local_sound_path": "sounds/rhythm.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "disqualify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "disqualify a doctor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22115.png",
+      "local_image_path": "images/22115.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disqualify his testimony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22116.png",
+      "local_image_path": "images/22116.png"
+    },
+    {
+      "pos": "tv",
+      "example": "disqualify a contestant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/22117.png",
+      "local_image_path": "images/22117.png"
+    }
+  ],
+  "synonyms": [
+    "ban",
+    "bar",
+    "debar",
+    "prohibit",
+    "exclude",
+    "eliminate",
+    "except"
+  ],
+  "antonyms": [
+    "entitle",
+    "allow"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disqualify.mp3",
+  "local_sound_path": "sounds/disqualify.mp3"
+}

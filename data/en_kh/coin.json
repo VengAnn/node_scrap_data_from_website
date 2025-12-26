@@ -1,0 +1,56 @@
+{
+  "word": "coin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15576.png",
+      "local_image_path": "images/15576.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130112.png",
+      "local_image_path": "images/130112.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130113.png",
+      "local_image_path": "images/130113.png"
+    },
+    {
+      "pos": "tv",
+      "example": "coin money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15577.png",
+      "local_image_path": "images/15577.png"
+    }
+  ],
+  "synonyms": [
+    "currency",
+    "money",
+    "coinage",
+    "denomination",
+    "change",
+    "penny",
+    "invent",
+    "create",
+    "devise",
+    "make up"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "coinable",
+    "coinage",
+    "coincide",
+    "coincidence",
+    "coincident",
+    "coincidently",
+    "coinsurance",
+    "coinsure"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coin.mp3",
+  "local_sound_path": "sounds/coin.mp3"
+}

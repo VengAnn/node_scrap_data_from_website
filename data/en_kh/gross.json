@@ -1,0 +1,70 @@
+{
+  "word": "gross",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "gross manners",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33015.png",
+      "local_image_path": "images/33015.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33016.png",
+      "local_image_path": "images/33016.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33017.png",
+      "local_image_path": "images/33017.png"
+    },
+    {
+      "pos": "adj",
+      "example": "gross income",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33018.png",
+      "local_image_path": "images/33018.png"
+    },
+    {
+      "pos": "n",
+      "example": "one's gross of oranges",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33019.png",
+      "local_image_path": "images/33019.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Her last film grossed a million pounds.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33020.png",
+      "local_image_path": "images/33020.png"
+    }
+  ],
+  "synonyms": [
+    "total",
+    "sum",
+    "aggregate",
+    "whole",
+    "overall",
+    "earn",
+    "make",
+    "get",
+    "receive",
+    "clear"
+  ],
+  "antonyms": [
+    "pleasant",
+    "minor",
+    "lose",
+    "cultured",
+    "slim",
+    "polite",
+    "net"
+  ],
+  "similar_words": [
+    "grossly",
+    "grossness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gross.mp3",
+  "local_sound_path": "sounds/gross.mp3"
+}

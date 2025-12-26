@@ -1,0 +1,56 @@
+{
+  "word": "natural",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "natural bridge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55068.png",
+      "local_image_path": "images/55068.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124491.png",
+      "local_image_path": "images/124491.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124492.png",
+      "local_image_path": "images/124492.png"
+    }
+  ],
+  "synonyms": [
+    "biological",
+    "physical",
+    "birth",
+    "true",
+    "actual",
+    "real"
+  ],
+  "antonyms": [
+    "unusual",
+    "learned",
+    "affected",
+    "contrived",
+    "artificial",
+    "technological",
+    "learnt"
+  ],
+  "similar_words": [
+    "natural person",
+    "natural philosophy",
+    "natural resource",
+    "naturalism",
+    "naturalist",
+    "naturalistic",
+    "naturalization",
+    "naturalize",
+    "naturally",
+    "naturalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/natural.mp3",
+  "local_sound_path": "sounds/natural.mp3"
+}

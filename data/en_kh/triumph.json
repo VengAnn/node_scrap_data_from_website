@@ -1,0 +1,53 @@
+{
+  "word": "triumph",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91937.png",
+      "local_image_path": "images/91937.png"
+    },
+    {
+      "pos": "n",
+      "example": "return home in triumph.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91935.png",
+      "local_image_path": "images/91935.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91936.png",
+      "local_image_path": "images/91936.png"
+    }
+  ],
+  "synonyms": [
+    "joy",
+    "pride",
+    "elation",
+    "delight",
+    "satisfaction",
+    "jubilation",
+    "exultation",
+    "glee",
+    "succeed",
+    "win",
+    "prevail",
+    "overcome"
+  ],
+  "antonyms": [
+    "failure",
+    "lose",
+    "sorrow"
+  ],
+  "similar_words": [
+    "triumphal",
+    "triumphalarch",
+    "triumphant",
+    "triumphantly",
+    "triumpher"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/triumph.mp3",
+  "local_sound_path": "sounds/triumph.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "deceptive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Appearances are of ten deceptive",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19943.png",
+      "local_image_path": "images/19943.png"
+    },
+    {
+      "pos": "adj",
+      "example": "deceptive person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19944.png",
+      "local_image_path": "images/19944.png"
+    }
+  ],
+  "synonyms": [
+    "misleading",
+    "illusory",
+    "unreliable",
+    "unrepresentative"
+  ],
+  "antonyms": [
+    "honest",
+    "transparent",
+    "reliable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deceptive.mp3",
+  "local_sound_path": "sounds/deceptive.mp3"
+}

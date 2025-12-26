@@ -1,0 +1,81 @@
+{
+  "word": "reach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "reach for (success)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70449.png",
+      "local_image_path": "images/70449.png"
+    },
+    {
+      "pos": "iv",
+      "example": "powers reach throughout the country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70450.png",
+      "local_image_path": "images/70450.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70451.png",
+      "local_image_path": "images/70451.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126501.png",
+      "local_image_path": "images/126501.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126502.png",
+      "local_image_path": "images/126502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reach the shore",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70444.png",
+      "local_image_path": "images/70444.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Can't reach the sugar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70445.png",
+      "local_image_path": "images/70445.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Kindness doesn't reach him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70446.png",
+      "local_image_path": "images/70446.png"
+    },
+    {
+      "pos": "tv",
+      "example": "reach out for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70447.png",
+      "local_image_path": "images/70447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "My land reaches as far as the river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70448.png",
+      "local_image_path": "images/70448.png"
+    }
+  ],
+  "synonyms": [
+    "scope",
+    "spread",
+    "extent",
+    "range",
+    "contact",
+    "access",
+    "catch",
+    "communicate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reach.mp3",
+  "local_sound_path": "sounds/reach.mp3"
+}

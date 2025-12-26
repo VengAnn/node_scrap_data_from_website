@@ -1,0 +1,38 @@
+{
+  "word": "clockwise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj, adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15089.png",
+      "local_image_path": "images/15089.png"
+    },
+    {
+      "pos": "adj, adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116500.png",
+      "local_image_path": "images/116500.png"
+    },
+    {
+      "pos": "adj, adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116501.png",
+      "local_image_path": "images/116501.png"
+    }
+  ],
+  "synonyms": [
+    "right-handed",
+    "circular",
+    "round",
+    "helical",
+    "spiral"
+  ],
+  "antonyms": [
+    "left-handed"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clockwise.mp3",
+  "local_sound_path": "sounds/clockwise.mp3"
+}

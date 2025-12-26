@@ -1,0 +1,51 @@
+{
+  "word": "quit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69652.png",
+      "local_image_path": "images/69652.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69653.png",
+      "local_image_path": "images/69653.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She will quit working soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69651.png",
+      "local_image_path": "images/69651.png"
+    }
+  ],
+  "synonyms": [
+    "leave",
+    "resign",
+    "abandon",
+    "vacate",
+    "desert",
+    "stop",
+    "stopped",
+    "relinquish",
+    "renounce",
+    "suspend"
+  ],
+  "antonyms": [
+    "stay"
+  ],
+  "similar_words": [
+    "quitclaim",
+    "quite",
+    "quitrent",
+    "quits",
+    "quittance",
+    "quitter",
+    "quittor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quit.mp3",
+  "local_sound_path": "sounds/quit.mp3"
+}

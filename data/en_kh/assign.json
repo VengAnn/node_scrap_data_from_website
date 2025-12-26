@@ -1,0 +1,61 @@
+{
+  "word": "assign",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "assign homework",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5917.png",
+      "local_image_path": "images/5917.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112767.png",
+      "local_image_path": "images/112767.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112768.png",
+      "local_image_path": "images/112768.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112769.png",
+      "local_image_path": "images/112769.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112770.png",
+      "local_image_path": "images/112770.png"
+    }
+  ],
+  "synonyms": [
+    "appoint",
+    "delegate",
+    "allocate",
+    "designate",
+    "name",
+    "send",
+    "transfer",
+    "detail"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "assignability",
+    "assignable",
+    "assignably",
+    "assignat",
+    "assignation",
+    "assignee",
+    "assigner",
+    "assignment",
+    "assignor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/assign.mp3",
+  "local_sound_path": "sounds/assign.mp3"
+}

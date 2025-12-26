@@ -1,0 +1,38 @@
+{
+  "word": "cascade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13144.png",
+      "local_image_path": "images/13144.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13143.png",
+      "local_image_path": "images/13143.png"
+    }
+  ],
+  "synonyms": [
+    "waterfall",
+    "chute",
+    "cataract",
+    "force",
+    "torrent",
+    "flow",
+    "pour",
+    "fall",
+    "drop",
+    "gush",
+    "spill",
+    "surge",
+    "tumble"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cascade.mp3",
+  "local_sound_path": "sounds/cascade.mp3"
+}

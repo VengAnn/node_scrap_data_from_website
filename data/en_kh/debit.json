@@ -1,0 +1,50 @@
+{
+  "word": "debit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19878.png",
+      "local_image_path": "images/19878.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117819.png",
+      "local_image_path": "images/117819.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117820.png",
+      "local_image_path": "images/117820.png"
+    },
+    {
+      "pos": "tv",
+      "example": "debit an account",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19879.png",
+      "local_image_path": "images/19879.png"
+    }
+  ],
+  "synonyms": [
+    "charge",
+    "deduct",
+    "take out",
+    "withdraw",
+    "subtract",
+    "record"
+  ],
+  "antonyms": [
+    "credit"
+  ],
+  "similar_words": [
+    "debit balance",
+    "debit entry",
+    "debit note",
+    "debit side"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debit.mp3",
+  "local_sound_path": "sounds/debit.mp3"
+}

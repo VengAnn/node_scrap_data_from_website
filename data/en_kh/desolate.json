@@ -1,0 +1,63 @@
+{
+  "word": "desolate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "desolate mood",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20878.png",
+      "local_image_path": "images/20878.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118128.png",
+      "local_image_path": "images/118128.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118129.png",
+      "local_image_path": "images/118129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20879.png",
+      "local_image_path": "images/20879.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20880.png",
+      "local_image_path": "images/20880.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118130.png",
+      "local_image_path": "images/118130.png"
+    }
+  ],
+  "synonyms": [
+    "unhappy",
+    "forlorn",
+    "miserable",
+    "depressed",
+    "inconsolable",
+    "wretched",
+    "dejected",
+    "despondent",
+    "mournful",
+    "sad"
+  ],
+  "antonyms": [
+    "populous",
+    "cheerful",
+    "happy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/desolate.mp3",
+  "local_sound_path": "sounds/desolate.mp3"
+}

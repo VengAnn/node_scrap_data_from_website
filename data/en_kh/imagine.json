@@ -1,0 +1,30 @@
+{
+  "word": "imagine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37362.png",
+      "local_image_path": "images/37362.png"
+    }
+  ],
+  "synonyms": [
+    "suppose",
+    "think",
+    "expect",
+    "assume",
+    "presume",
+    "guess",
+    "understand",
+    "reckon"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "imagineer",
+    "imaginer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/imagine.mp3",
+  "local_sound_path": "sounds/imagine.mp3"
+}

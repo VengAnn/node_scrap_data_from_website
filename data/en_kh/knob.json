@@ -1,0 +1,43 @@
+{
+  "word": "knob",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "knob of a door",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44137.png",
+      "local_image_path": "images/44137.png"
+    },
+    {
+      "pos": "n",
+      "example": "knob on a tree",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44138.png",
+      "local_image_path": "images/44138.png"
+    },
+    {
+      "pos": "n",
+      "example": "radio knob",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44139.png",
+      "local_image_path": "images/44139.png"
+    }
+  ],
+  "synonyms": [
+    "handle",
+    "doorknob",
+    "button",
+    "lump",
+    "bump",
+    "bulge",
+    "protuberance",
+    "protrusion",
+    "hump",
+    "knot",
+    "knurl",
+    "nub"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/knob.mp3",
+  "local_sound_path": "sounds/knob.mp3"
+}

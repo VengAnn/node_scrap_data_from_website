@@ -1,0 +1,50 @@
+{
+  "word": "reality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70520.png",
+      "local_image_path": "images/70520.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70521.png",
+      "local_image_path": "images/70521.png"
+    },
+    {
+      "pos": "n",
+      "example": "in touch with reality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70522.png",
+      "local_image_path": "images/70522.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70523.png",
+      "local_image_path": "images/70523.png"
+    }
+  ],
+  "synonyms": [
+    "realism",
+    "actuality",
+    "authenticity",
+    "truth",
+    "certainty",
+    "veracity",
+    "experience",
+    "existence",
+    "life",
+    "materiality"
+  ],
+  "antonyms": [
+    "idealism",
+    "make-believe"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reality.mp3",
+  "local_sound_path": "sounds/reality.mp3"
+}

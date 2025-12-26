@@ -1,0 +1,56 @@
+{
+  "word": "goods",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "manufactured goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32314.png",
+      "local_image_path": "images/32314.png"
+    },
+    {
+      "pos": "n",
+      "example": "dry goods",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32315.png",
+      "local_image_path": "images/32315.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120717.png",
+      "local_image_path": "images/120717.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120718.png",
+      "local_image_path": "images/120718.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120719.png",
+      "local_image_path": "images/120719.png"
+    }
+  ],
+  "synonyms": [
+    "merchandise",
+    "cargo",
+    "produce",
+    "freight",
+    "property",
+    "usefulness"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "goods depot",
+    "goods in bond",
+    "goods in stock",
+    "goods on consignment",
+    "goods sold ledger",
+    "goods train"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/goods.mp3",
+  "local_sound_path": "sounds/goods.mp3"
+}

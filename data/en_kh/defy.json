@@ -1,0 +1,41 @@
+{
+  "word": "defy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20245.png",
+      "local_image_path": "images/20245.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20246.png",
+      "local_image_path": "images/20246.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117929.png",
+      "local_image_path": "images/117929.png"
+    }
+  ],
+  "synonyms": [
+    "challenge",
+    "confront",
+    "disobey",
+    "rebel",
+    "resist",
+    "dare",
+    "flout",
+    "disregard"
+  ],
+  "antonyms": [
+    "obey"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/defy.mp3",
+  "local_sound_path": "sounds/defy.mp3"
+}

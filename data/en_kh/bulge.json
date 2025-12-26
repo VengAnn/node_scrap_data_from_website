@@ -1,0 +1,52 @@
+{
+  "word": "bulge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "I can't eat any more, my stomach's bulging",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11742.png",
+      "local_image_path": "images/11742.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131372.png",
+      "local_image_path": "images/131372.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131373.png",
+      "local_image_path": "images/131373.png"
+    },
+    {
+      "pos": "n",
+      "example": "bulge of a sack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11741.png",
+      "local_image_path": "images/11741.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131374.png",
+      "local_image_path": "images/131374.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11743.png",
+      "local_image_path": "images/11743.png"
+    }
+  ],
+  "synonyms": [
+    "protrude",
+    "expand",
+    "swell"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bulge.mp3",
+  "local_sound_path": "sounds/bulge.mp3"
+}

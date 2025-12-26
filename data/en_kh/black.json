@@ -1,0 +1,67 @@
+{
+  "word": "black",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "black race",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9258.png",
+      "local_image_path": "images/9258.png"
+    },
+    {
+      "pos": "iv",
+      "example": "black out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9260.png",
+      "local_image_path": "images/9260.png"
+    },
+    {
+      "pos": "tv",
+      "example": "please you black my boots",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9259.png",
+      "local_image_path": "images/9259.png"
+    }
+  ],
+  "synonyms": [
+    "dark",
+    "gloomy",
+    "obscure",
+    "dusky",
+    "murky",
+    "dim",
+    "shadowy"
+  ],
+  "antonyms": [
+    "light"
+  ],
+  "similar_words": [
+    "black bear",
+    "black belt",
+    "black book",
+    "black death",
+    "black diamond",
+    "black gold",
+    "black gum",
+    "black hamlet",
+    "black head",
+    "black hole",
+    "black knight",
+    "black lead",
+    "black margin",
+    "black mark",
+    "black market",
+    "black marketer",
+    "black measles",
+    "black money",
+    "black mouth",
+    "black pepper",
+    "black sheep",
+    "black spot",
+    "black tea",
+    "black tie",
+    "black tongue",
+    "black top"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/black.mp3",
+  "local_sound_path": "sounds/black.mp3"
+}

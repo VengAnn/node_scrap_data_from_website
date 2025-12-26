@@ -1,0 +1,53 @@
+{
+  "word": "umpire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "lit",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92999.png",
+      "local_image_path": "images/92999.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92998.png",
+      "local_image_path": "images/92998.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130883.png",
+      "local_image_path": "images/130883.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130884.png",
+      "local_image_path": "images/130884.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93000.png",
+      "local_image_path": "images/93000.png"
+    }
+  ],
+  "synonyms": [
+    "adjudicate",
+    "referee",
+    "arbitrate",
+    "judge",
+    "mediate",
+    "officiate",
+    "supervise"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "umpireship",
+    "umpiress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/umpire.mp3",
+  "local_sound_path": "sounds/umpire.mp3"
+}

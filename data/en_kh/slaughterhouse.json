@@ -1,0 +1,33 @@
+{
+  "word": "slaughterhouse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81033.png",
+      "local_image_path": "images/81033.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81034.png",
+      "local_image_path": "images/81034.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127968.png",
+      "local_image_path": "images/127968.png"
+    }
+  ],
+  "synonyms": [
+    "abattoir",
+    "shambles"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slaughterhouse.mp3",
+  "local_sound_path": "sounds/slaughterhouse.mp3"
+}

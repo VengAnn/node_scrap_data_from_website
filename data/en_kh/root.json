@@ -1,0 +1,96 @@
+{
+  "word": "root",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "root crop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74133.png",
+      "local_image_path": "images/74133.png"
+    },
+    {
+      "pos": "iv",
+      "example": "pigs root",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74130.png",
+      "local_image_path": "images/74130.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74131.png",
+      "local_image_path": "images/74131.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74134.png",
+      "local_image_path": "images/74134.png"
+    },
+    {
+      "pos": "iv",
+      "example": "root for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74135.png",
+      "local_image_path": "images/74135.png"
+    },
+    {
+      "pos": "n",
+      "example": "tree root",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74126.png",
+      "local_image_path": "images/74126.png"
+    },
+    {
+      "pos": "n",
+      "example": "the root of the matter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74127.png",
+      "local_image_path": "images/74127.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74128.png",
+      "local_image_path": "images/74128.png"
+    },
+    {
+      "pos": "n",
+      "example": "root of a derivative",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74129.png",
+      "local_image_path": "images/74129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74132.png",
+      "local_image_path": "images/74132.png"
+    }
+  ],
+  "synonyms": [
+    "search",
+    "nose",
+    "rummage",
+    "delve",
+    "rifle",
+    "burrow",
+    "ransack"
+  ],
+  "antonyms": [
+    "jeer"
+  ],
+  "similar_words": [
+    "root canal",
+    "root hair",
+    "root knot",
+    "rootage",
+    "rooted",
+    "rooter",
+    "rootiness",
+    "rootless",
+    "rootlessness",
+    "rootlet",
+    "rootstalk",
+    "rootstock",
+    "rooty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/root.mp3",
+  "local_sound_path": "sounds/root.mp3"
+}

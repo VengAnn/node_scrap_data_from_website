@@ -1,0 +1,38 @@
+{
+  "word": "freshen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "vegitables freshen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30277.png",
+      "local_image_path": "images/30277.png"
+    },
+    {
+      "pos": "tv",
+      "example": "freshen one's resolve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30275.png",
+      "local_image_path": "images/30275.png"
+    },
+    {
+      "pos": "tv",
+      "example": "freshen vegitables",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30276.png",
+      "local_image_path": "images/30276.png"
+    }
+  ],
+  "synonyms": [
+    "recoat",
+    "repaint",
+    "renew",
+    "retouch",
+    "refresh"
+  ],
+  "antonyms": [
+    "stagnate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/freshen.mp3",
+  "local_sound_path": "sounds/freshen.mp3"
+}

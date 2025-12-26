@@ -1,0 +1,55 @@
+{
+  "word": "judicious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "judicious approach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43368.png",
+      "local_image_path": "images/43368.png"
+    },
+    {
+      "pos": "adj",
+      "example": "judicious use",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43369.png",
+      "local_image_path": "images/43369.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123208.png",
+      "local_image_path": "images/123208.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123209.png",
+      "local_image_path": "images/123209.png"
+    }
+  ],
+  "synonyms": [
+    "sensible",
+    "careful",
+    "cautious",
+    "thoughtful",
+    "shrewd",
+    "astute",
+    "prudent",
+    "wise",
+    "well-judged",
+    "sagacious",
+    "just",
+    "discriminating"
+  ],
+  "antonyms": [
+    "stupid",
+    "foolish"
+  ],
+  "similar_words": [
+    "judiciously",
+    "judiciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/judicious.mp3",
+  "local_sound_path": "sounds/judicious.mp3"
+}

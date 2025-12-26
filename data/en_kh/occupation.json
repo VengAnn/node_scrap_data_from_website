@@ -1,0 +1,57 @@
+{
+  "word": "occupation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57098.png",
+      "local_image_path": "images/57098.png"
+    },
+    {
+      "pos": "n",
+      "example": "occupation of the house military",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57099.png",
+      "local_image_path": "images/57099.png"
+    },
+    {
+      "pos": "n",
+      "example": "occupation with a problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57100.png",
+      "local_image_path": "images/57100.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124861.png",
+      "local_image_path": "images/124861.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124862.png",
+      "local_image_path": "images/124862.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124863.png",
+      "local_image_path": "images/124863.png"
+    }
+  ],
+  "synonyms": [
+    "activity",
+    "pursuit",
+    "enterprise",
+    "task"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "occupational",
+    "occupational disease",
+    "occupations"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/occupation.mp3",
+  "local_sound_path": "sounds/occupation.mp3"
+}

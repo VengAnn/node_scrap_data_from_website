@@ -1,0 +1,34 @@
+{
+  "word": "aroma",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5536.png",
+      "local_image_path": "images/5536.png"
+    }
+  ],
+  "synonyms": [
+    "smell",
+    "perfume",
+    "fragrance",
+    "scent",
+    "odor",
+    "bouquet",
+    "whiff",
+    "tang"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "aromatic",
+    "aromatically",
+    "aromaticity",
+    "aromaticness",
+    "aromatization",
+    "aromatize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aroma.mp3",
+  "local_sound_path": "sounds/aroma.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "carcinogen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12943.png",
+      "local_image_path": "images/12943.png"
+    }
+  ],
+  "synonyms": [
+    "chemical",
+    "compound",
+    "poison",
+    "hazard",
+    "pollutant",
+    "substance"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "carcinogenesis",
+    "carcinogenic",
+    "carcinogenicity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/carcinogen.mp3",
+  "local_sound_path": "sounds/carcinogen.mp3"
+}

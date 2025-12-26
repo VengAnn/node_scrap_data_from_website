@@ -1,0 +1,54 @@
+{
+  "word": "lend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Can you lend me $5?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45822.png",
+      "local_image_path": "images/45822.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45823.png",
+      "local_image_path": "images/45823.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lend aid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45824.png",
+      "local_image_path": "images/45824.png"
+    },
+    {
+      "pos": "tv",
+      "example": "lend dignity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45825.png",
+      "local_image_path": "images/45825.png"
+    }
+  ],
+  "synonyms": [
+    "provide",
+    "offer",
+    "give",
+    "impart",
+    "afford",
+    "contribute",
+    "loan"
+  ],
+  "antonyms": [
+    "borrow"
+  ],
+  "similar_words": [
+    "lendable",
+    "lender",
+    "lending",
+    "lending institution",
+    "lending library",
+    "lending limit",
+    "lending procedure"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lend.mp3",
+  "local_sound_path": "sounds/lend.mp3"
+}

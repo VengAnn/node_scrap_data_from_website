@@ -1,0 +1,51 @@
+{
+  "word": "submit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85804.png",
+      "local_image_path": "images/85804.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85800.png",
+      "local_image_path": "images/85800.png"
+    },
+    {
+      "pos": "tv",
+      "example": "submit an application",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85801.png",
+      "local_image_path": "images/85801.png"
+    },
+    {
+      "pos": "tv",
+      "example": "submit oneself to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85802.png",
+      "local_image_path": "images/85802.png"
+    },
+    {
+      "pos": "tv",
+      "example": "submit an opinion",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85803.png",
+      "local_image_path": "images/85803.png"
+    }
+  ],
+  "synonyms": [
+    "surrender",
+    "yield",
+    "accept",
+    "acquiesce",
+    "succumb"
+  ],
+  "antonyms": [
+    "withdraw",
+    "resist"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/submit.mp3",
+  "local_sound_path": "sounds/submit.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "platform",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "speaker's platform",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63946.png",
+      "local_image_path": "images/63946.png"
+    },
+    {
+      "pos": "n",
+      "example": "party platform",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63947.png",
+      "local_image_path": "images/63947.png"
+    },
+    {
+      "pos": "n",
+      "example": "electoral platform",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63948.png",
+      "local_image_path": "images/63948.png"
+    },
+    {
+      "pos": "n",
+      "example": "platform of party",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63949.png",
+      "local_image_path": "images/63949.png"
+    }
+  ],
+  "synonyms": [
+    "policy",
+    "proposal",
+    "manifesto",
+    "program"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/platform.mp3",
+  "local_sound_path": "sounds/platform.mp3"
+}

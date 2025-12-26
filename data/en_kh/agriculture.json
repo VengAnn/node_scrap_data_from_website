@@ -1,0 +1,36 @@
+{
+  "word": "agriculture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3039.png",
+      "local_image_path": "images/3039.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113463.png",
+      "local_image_path": "images/113463.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113464.png",
+      "local_image_path": "images/113464.png"
+    }
+  ],
+  "synonyms": [
+    "farming",
+    "cultivation",
+    "gardening",
+    "husbandry",
+    "agronomy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agriculture.mp3",
+  "local_sound_path": "sounds/agriculture.mp3"
+}

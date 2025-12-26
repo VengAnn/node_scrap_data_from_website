@@ -1,0 +1,35 @@
+{
+  "word": "skipper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80806.png",
+      "local_image_path": "images/80806.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80807.png",
+      "local_image_path": "images/80807.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127950.png",
+      "local_image_path": "images/127950.png"
+    }
+  ],
+  "synonyms": [
+    "captain",
+    "boss",
+    "chief",
+    "head"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skipper.mp3",
+  "local_sound_path": "sounds/skipper.mp3"
+}

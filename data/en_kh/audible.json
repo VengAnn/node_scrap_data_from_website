@@ -1,0 +1,28 @@
+{
+  "word": "audible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6353.png",
+      "local_image_path": "images/6353.png"
+    }
+  ],
+  "synonyms": [
+    "perceptible",
+    "clear",
+    "distinct",
+    "noticeable",
+    "loud"
+  ],
+  "antonyms": [
+    "inaudible"
+  ],
+  "similar_words": [
+    "audibleness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/audible.mp3",
+  "local_sound_path": "sounds/audible.mp3"
+}

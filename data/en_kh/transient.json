@@ -1,0 +1,45 @@
+{
+  "word": "transient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "transient pleasures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91025.png",
+      "local_image_path": "images/91025.png"
+    },
+    {
+      "pos": "adj",
+      "example": "transient guests",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91026.png",
+      "local_image_path": "images/91026.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91027.png",
+      "local_image_path": "images/91027.png"
+    }
+  ],
+  "synonyms": [
+    "fleeting",
+    "passing",
+    "brief",
+    "temporary",
+    "momentary",
+    "transitory",
+    "short-lived",
+    "ephemeral",
+    "evanescent"
+  ],
+  "antonyms": [
+    "permanent"
+  ],
+  "similar_words": [
+    "transiently",
+    "transientness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/transient.mp3",
+  "local_sound_path": "sounds/transient.mp3"
+}

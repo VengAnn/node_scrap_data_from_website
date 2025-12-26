@@ -1,0 +1,55 @@
+{
+  "word": "crust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18876.png",
+      "local_image_path": "images/18876.png"
+    },
+    {
+      "pos": "n",
+      "example": "bread crust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18873.png",
+      "local_image_path": "images/18873.png"
+    },
+    {
+      "pos": "n",
+      "example": "earth's crust",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18874.png",
+      "local_image_path": "images/18874.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18875.png",
+      "local_image_path": "images/18875.png"
+    }
+  ],
+  "synonyms": [
+    "coating",
+    "outside",
+    "shell",
+    "top",
+    "skin",
+    "scab",
+    "layer",
+    "film",
+    "covering",
+    "casing"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "crustacea",
+    "crustacean",
+    "crustaceous",
+    "crustal",
+    "crustily",
+    "crustiness",
+    "crusty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/crust.mp3",
+  "local_sound_path": "sounds/crust.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "fright",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "shake with fright",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30317.png",
+      "local_image_path": "images/30317.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30318.png",
+      "local_image_path": "images/30318.png"
+    }
+  ],
+  "synonyms": [
+    "fear",
+    "terror",
+    "anxiety",
+    "foreboding",
+    "dread",
+    "scare",
+    "start",
+    "panic"
+  ],
+  "antonyms": [
+    "bravery",
+    "composure"
+  ],
+  "similar_words": [
+    "frighten",
+    "frightened",
+    "frightenful",
+    "frightenfully",
+    "frightenfulness",
+    "frightenly",
+    "frightful",
+    "frightfulness",
+    "frightment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fright.mp3",
+  "local_sound_path": "sounds/fright.mp3"
+}

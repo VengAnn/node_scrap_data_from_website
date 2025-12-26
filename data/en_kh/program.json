@@ -1,0 +1,42 @@
+{
+  "word": "program",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is program?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67475.png",
+      "local_image_path": "images/67475.png"
+    },
+    {
+      "pos": "tv",
+      "example": "program activities",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67476.png",
+      "local_image_path": "images/67476.png"
+    }
+  ],
+  "synonyms": [
+    "encode",
+    "instruct",
+    "train",
+    "predetermine",
+    "code",
+    "curriculum",
+    "course",
+    "series",
+    "syllabus"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "programability",
+    "programable",
+    "programmatic",
+    "programmatically",
+    "programmed",
+    "programmer",
+    "programming"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/program.mp3",
+  "local_sound_path": "sounds/program.mp3"
+}

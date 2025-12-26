@@ -1,0 +1,40 @@
+{
+  "word": "truth",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "tell the truth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92214.png",
+      "local_image_path": "images/92214.png"
+    }
+  ],
+  "synonyms": [
+    "honesty",
+    "candor",
+    "integrity",
+    "dedication",
+    "loyalty",
+    "devotion",
+    "fidelity",
+    "uprightness",
+    "sincerity"
+  ],
+  "antonyms": [
+    "dishonesty",
+    "untruth",
+    "untruthfulness"
+  ],
+  "similar_words": [
+    "truth speaking",
+    "truth-lover",
+    "truthful",
+    "truthfully",
+    "truthfulness",
+    "truthless",
+    "truthlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/truth.mp3",
+  "local_sound_path": "sounds/truth.mp3"
+}

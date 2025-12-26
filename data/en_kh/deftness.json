@@ -1,0 +1,40 @@
+{
+  "word": "deftness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20241.png",
+      "local_image_path": "images/20241.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117927.png",
+      "local_image_path": "images/117927.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117928.png",
+      "local_image_path": "images/117928.png"
+    }
+  ],
+  "synonyms": [
+    "skill",
+    "dexterity",
+    "precision",
+    "swiftness",
+    "neatness",
+    "niftiness",
+    "adroitness"
+  ],
+  "antonyms": [
+    "clumsiness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/deftness.mp3",
+  "local_sound_path": "sounds/deftness.mp3"
+}

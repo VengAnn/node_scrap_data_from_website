@@ -1,0 +1,37 @@
+{
+  "word": "respond",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72864.png",
+      "local_image_path": "images/72864.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72865.png",
+      "local_image_path": "images/72865.png"
+    }
+  ],
+  "synonyms": [
+    "reply",
+    "answer",
+    "retort",
+    "react",
+    "counter",
+    "act"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [
+    "respondence",
+    "respondent",
+    "responder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/respond.mp3",
+  "local_sound_path": "sounds/respond.mp3"
+}

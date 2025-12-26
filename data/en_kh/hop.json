@@ -1,0 +1,101 @@
+{
+  "word": "hop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Sparrows were hoping about on the fence.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35895.png",
+      "local_image_path": "images/35895.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35896.png",
+      "local_image_path": "images/35896.png"
+    },
+    {
+      "pos": "iv",
+      "example": "hop on one's foot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35897.png",
+      "local_image_path": "images/35897.png"
+    },
+    {
+      "pos": "n",
+      "example": "hop of a frog",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35900.png",
+      "local_image_path": "images/35900.png"
+    },
+    {
+      "pos": "n",
+      "example": "hop of a plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35901.png",
+      "local_image_path": "images/35901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35902.png",
+      "local_image_path": "images/35902.png"
+    },
+    {
+      "pos": "sl",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35903.png",
+      "local_image_path": "images/35903.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hop a fence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35898.png",
+      "local_image_path": "images/35898.png"
+    },
+    {
+      "pos": "tv",
+      "example": "hop a plane",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35899.png",
+      "local_image_path": "images/35899.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35904.png",
+      "local_image_path": "images/35904.png"
+    }
+  ],
+  "synonyms": [
+    "dance",
+    "shindig",
+    "do",
+    "bop",
+    "barn dance",
+    "spring",
+    "bound",
+    "leap",
+    "bounce",
+    "jump",
+    "vault",
+    "skip",
+    "pogo",
+    "get",
+    "step"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "hope",
+    "hopeful",
+    "hopefully",
+    "hopefulness",
+    "hopeless",
+    "hopelessly",
+    "hopelessness",
+    "hophead",
+    "hoplite",
+    "hopper",
+    "hoppet",
+    "hopscotch"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hop.mp3",
+  "local_sound_path": "sounds/hop.mp3"
+}

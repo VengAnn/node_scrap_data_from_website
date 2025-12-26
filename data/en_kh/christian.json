@@ -1,0 +1,35 @@
+{
+  "word": "Christian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14386.png",
+      "local_image_path": "images/14386.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14385.png",
+      "local_image_path": "images/14385.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116305.png",
+      "local_image_path": "images/116305.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "Christianism",
+    "Christianity",
+    "Christianization",
+    "Christianize",
+    "Christianizer",
+    "Christianly"
+  ],
+  "sound": null
+}

@@ -1,0 +1,50 @@
+{
+  "word": "subjective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132409.png",
+      "local_image_path": "images/132409.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85745.png",
+      "local_image_path": "images/85745.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85746.png",
+      "local_image_path": "images/85746.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85747.png",
+      "local_image_path": "images/85747.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132410.png",
+      "local_image_path": "images/132410.png"
+    }
+  ],
+  "synonyms": [
+    "personal",
+    "individual",
+    "particular",
+    "biased",
+    "skewed",
+    "one-sided"
+  ],
+  "antonyms": [
+    "objective",
+    "general"
+  ],
+  "similar_words": [],
+  "sound": null
+}

@@ -1,0 +1,62 @@
+{
+  "word": "bloat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9590.png",
+      "local_image_path": "images/9590.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9591.png",
+      "local_image_path": "images/9591.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bloat the stomach",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9589.png",
+      "local_image_path": "images/9589.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115223.png",
+      "local_image_path": "images/115223.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115224.png",
+      "local_image_path": "images/115224.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115225.png",
+      "local_image_path": "images/115225.png"
+    }
+  ],
+  "synonyms": [
+    "swell",
+    "inflate",
+    "blow up",
+    "expand",
+    "distend",
+    "balloon",
+    "dilate"
+  ],
+  "antonyms": [
+    "contract"
+  ],
+  "similar_words": [
+    "bloat ware",
+    "bloated",
+    "bloater"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bloat.mp3",
+  "local_sound_path": "sounds/bloat.mp3"
+}

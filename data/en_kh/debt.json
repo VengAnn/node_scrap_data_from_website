@@ -1,0 +1,34 @@
+{
+  "word": "debt",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "to be in debt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19890.png",
+      "local_image_path": "images/19890.png"
+    }
+  ],
+  "synonyms": [
+    "obligation",
+    "duty",
+    "responsibility",
+    "dues",
+    "liability",
+    "debit",
+    "balance",
+    "bill",
+    "arrears"
+  ],
+  "antonyms": [
+    "credit"
+  ],
+  "similar_words": [
+    "debt overhang",
+    "debtor",
+    "debtor in possession"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/debt.mp3",
+  "local_sound_path": "sounds/debt.mp3"
+}

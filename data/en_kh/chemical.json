@@ -1,0 +1,31 @@
+{
+  "word": "chemical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "chemical process",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14055.png",
+      "local_image_path": "images/14055.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14054.png",
+      "local_image_path": "images/14054.png"
+    }
+  ],
+  "synonyms": [
+    "substance",
+    "element",
+    "compound"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chemical biology",
+    "chemical warfare"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chemical.mp3",
+  "local_sound_path": "sounds/chemical.mp3"
+}

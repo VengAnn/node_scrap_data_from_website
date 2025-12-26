@@ -1,0 +1,47 @@
+{
+  "word": "flying",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "flying insect",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29396.png",
+      "local_image_path": "images/29396.png"
+    },
+    {
+      "pos": "adj",
+      "example": "flying start",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29397.png",
+      "local_image_path": "images/29397.png"
+    }
+  ],
+  "synonyms": [
+    "rapid",
+    "brief",
+    "speedy",
+    "hurried",
+    "short",
+    "hasty",
+    "fleeting",
+    "splitting"
+  ],
+  "antonyms": [
+    "slow"
+  ],
+  "similar_words": [
+    "flying boat",
+    "flying buttress",
+    "flying circus",
+    "flying colours",
+    "flying doe",
+    "flying field",
+    "flying fish",
+    "flying fix",
+    "flying machine",
+    "flying saucer",
+    "flying squirrel"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flying.mp3",
+  "local_sound_path": "sounds/flying.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "yelp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101497.png",
+      "local_image_path": "images/101497.png"
+    },
+    {
+      "pos": "n",
+      "example": "The dog gave a yelp when I trod on its paw.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101498.png",
+      "local_image_path": "images/101498.png"
+    }
+  ],
+  "synonyms": [
+    "yap",
+    "bark",
+    "cry",
+    "squeal",
+    "squeak"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yelp.mp3",
+  "local_sound_path": "sounds/yelp.mp3"
+}

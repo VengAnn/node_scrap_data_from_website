@@ -1,0 +1,24 @@
+{
+  "word": "bored",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I am bored with my work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/10243.png",
+      "local_image_path": "images/10243.png"
+    }
+  ],
+  "synonyms": [
+    "uninterested",
+    "jaded",
+    "tired",
+    "wearied"
+  ],
+  "antonyms": [
+    "fascinated",
+    "interested"
+  ],
+  "similar_words": [],
+  "sound": null
+}

@@ -1,0 +1,54 @@
+{
+  "word": "guard",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "guard againt",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33152.png",
+      "local_image_path": "images/33152.png"
+    },
+    {
+      "pos": "n",
+      "example": "duty as a guard",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33153.png",
+      "local_image_path": "images/33153.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33154.png",
+      "local_image_path": "images/33154.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33151.png",
+      "local_image_path": "images/33151.png"
+    }
+  ],
+  "synonyms": [
+    "protect",
+    "defend",
+    "safeguard",
+    "shield",
+    "watch",
+    "secure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "guard's-van",
+    "guard-house",
+    "guard-rail",
+    "guard-room",
+    "guarded",
+    "guardedly",
+    "guardian",
+    "guardianship",
+    "guardless",
+    "guardsman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guard.mp3",
+  "local_sound_path": "sounds/guard.mp3"
+}

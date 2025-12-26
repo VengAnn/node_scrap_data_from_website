@@ -1,0 +1,36 @@
+{
+  "word": "darn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19666.png",
+      "local_image_path": "images/19666.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His socks had been darned again and again.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19665.png",
+      "local_image_path": "images/19665.png"
+    }
+  ],
+  "synonyms": [
+    "sew",
+    "stitch",
+    "repair",
+    "mend"
+  ],
+  "antonyms": [
+    "tear"
+  ],
+  "similar_words": [
+    "darned",
+    "darnel",
+    "darning",
+    "darning needle"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/darn.mp3",
+  "local_sound_path": "sounds/darn.mp3"
+}

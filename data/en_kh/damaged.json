@@ -1,0 +1,38 @@
+{
+  "word": "damaged",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131433.png",
+      "local_image_path": "images/131433.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131434.png",
+      "local_image_path": "images/131434.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131435.png",
+      "local_image_path": "images/131435.png"
+    }
+  ],
+  "synonyms": [
+    "injured",
+    "hurt",
+    "dented",
+    "smashed",
+    "broken",
+    "broke",
+    "wounded"
+  ],
+  "antonyms": [
+    "pristine"
+  ],
+  "similar_words": [],
+  "sound": null
+}

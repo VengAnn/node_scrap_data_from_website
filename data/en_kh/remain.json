@@ -1,0 +1,31 @@
+{
+  "word": "remain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "remain at home",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71967.png",
+      "local_image_path": "images/71967.png"
+    }
+  ],
+  "synonyms": [
+    "continue",
+    "stay",
+    "linger",
+    "wait",
+    "stay on"
+  ],
+  "antonyms": [
+    "leave",
+    "stop"
+  ],
+  "similar_words": [
+    "remainder",
+    "remaining",
+    "remains"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/remain.mp3",
+  "local_sound_path": "sounds/remain.mp3"
+}

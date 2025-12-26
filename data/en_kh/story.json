@@ -1,0 +1,65 @@
+{
+  "word": "story",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85099.png",
+      "local_image_path": "images/85099.png"
+    },
+    {
+      "pos": "n",
+      "example": "What's the story?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85095.png",
+      "local_image_path": "images/85095.png"
+    },
+    {
+      "pos": "n",
+      "example": "tell a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85096.png",
+      "local_image_path": "images/85096.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85097.png",
+      "local_image_path": "images/85097.png"
+    },
+    {
+      "pos": "n",
+      "example": "don't tell stories Tom.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85098.png",
+      "local_image_path": "images/85098.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85100.png",
+      "local_image_path": "images/85100.png"
+    }
+  ],
+  "synonyms": [
+    "lie",
+    "fib",
+    "untruth",
+    "falsehood",
+    "article",
+    "piece",
+    "feature",
+    "report",
+    "item",
+    "scoop"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "story-book",
+    "story-telling",
+    "story-writer",
+    "storyette",
+    "storyteller"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/story.mp3",
+  "local_sound_path": "sounds/story.mp3"
+}

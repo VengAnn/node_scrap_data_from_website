@@ -1,0 +1,69 @@
+{
+  "word": "property",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "They are not your property.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67789.png",
+      "local_image_path": "images/67789.png"
+    },
+    {
+      "pos": "n",
+      "example": "waterfront property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67790.png",
+      "local_image_path": "images/67790.png"
+    },
+    {
+      "pos": "n",
+      "example": "on the property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67791.png",
+      "local_image_path": "images/67791.png"
+    },
+    {
+      "pos": "n",
+      "example": "chemical property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67792.png",
+      "local_image_path": "images/67792.png"
+    },
+    {
+      "pos": "n",
+      "example": "stage property",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67793.png",
+      "local_image_path": "images/67793.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67794.png",
+      "local_image_path": "images/67794.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126109.png",
+      "local_image_path": "images/126109.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126110.png",
+      "local_image_path": "images/126110.png"
+    }
+  ],
+  "synonyms": [
+    "land",
+    "home",
+    "house",
+    "estate",
+    "acreage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "property tax",
+    "propertyless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/property.mp3",
+  "local_sound_path": "sounds/property.mp3"
+}

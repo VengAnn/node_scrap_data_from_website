@@ -1,0 +1,38 @@
+{
+  "word": "traditional",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "traditional ceremony",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90738.png",
+      "local_image_path": "images/90738.png"
+    }
+  ],
+  "synonyms": [
+    "customary",
+    "conventional",
+    "usual",
+    "established",
+    "fixed",
+    "time-honored",
+    "habitual",
+    "accepted",
+    "old-fashioned"
+  ],
+  "antonyms": [
+    "innovative",
+    "modern",
+    "progressive"
+  ],
+  "similar_words": [
+    "traditionalism",
+    "traditionalist",
+    "traditionalistic",
+    "traditionalize",
+    "traditionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/traditional.mp3",
+  "local_sound_path": "sounds/traditional.mp3"
+}

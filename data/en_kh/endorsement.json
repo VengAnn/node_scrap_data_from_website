@@ -1,0 +1,45 @@
+{
+  "word": "endorsement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24922.png",
+      "local_image_path": "images/24922.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119183.png",
+      "local_image_path": "images/119183.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119184.png",
+      "local_image_path": "images/119184.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119185.png",
+      "local_image_path": "images/119185.png"
+    }
+  ],
+  "synonyms": [
+    "backing",
+    "support",
+    "approval",
+    "advocacy",
+    "sanction",
+    "encouragement",
+    "affirmation",
+    "ratification"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endorsement.mp3",
+  "local_sound_path": "sounds/endorsement.mp3"
+}

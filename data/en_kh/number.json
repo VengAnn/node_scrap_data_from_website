@@ -1,0 +1,52 @@
+{
+  "word": "number",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "number in the thousand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56606.png",
+      "local_image_path": "images/56606.png"
+    },
+    {
+      "pos": "n",
+      "example": "write a number",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56602.png",
+      "local_image_path": "images/56602.png"
+    },
+    {
+      "pos": "n",
+      "example": "large number of people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56603.png",
+      "local_image_path": "images/56603.png"
+    },
+    {
+      "pos": "n",
+      "example": "a number of",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56604.png",
+      "local_image_path": "images/56604.png"
+    },
+    {
+      "pos": "tv",
+      "example": "number pages",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56605.png",
+      "local_image_path": "images/56605.png"
+    }
+  ],
+  "synonyms": [
+    "total",
+    "deader",
+    "frozen",
+    "unfeeling",
+    "insensitive"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "numbered",
+    "numberer",
+    "numberless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/number.mp3",
+  "local_sound_path": "sounds/number.mp3"
+}

@@ -1,0 +1,76 @@
+{
+  "word": "concern",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16448.png",
+      "local_image_path": "images/16448.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117045.png",
+      "local_image_path": "images/117045.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117046.png",
+      "local_image_path": "images/117046.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117047.png",
+      "local_image_path": "images/117047.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16447.png",
+      "local_image_path": "images/16447.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117048.png",
+      "local_image_path": "images/117048.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117049.png",
+      "local_image_path": "images/117049.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117050.png",
+      "local_image_path": "images/117050.png"
+    }
+  ],
+  "synonyms": [
+    "matter",
+    "affair",
+    "interest",
+    "point",
+    "item",
+    "affect",
+    "involve",
+    "relate"
+  ],
+  "antonyms": [
+    "reassurance",
+    "reassure"
+  ],
+  "similar_words": [
+    "concerned",
+    "concernedly",
+    "concerning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/concern.mp3",
+  "local_sound_path": "sounds/concern.mp3"
+}

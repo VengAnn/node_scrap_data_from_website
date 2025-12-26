@@ -1,0 +1,66 @@
+{
+  "word": "rule",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "break a rule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74601.png",
+      "local_image_path": "images/74601.png"
+    },
+    {
+      "pos": "n",
+      "example": "rule of grammar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74602.png",
+      "local_image_path": "images/74602.png"
+    },
+    {
+      "pos": "n",
+      "example": "during his rule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74603.png",
+      "local_image_path": "images/74603.png"
+    },
+    {
+      "pos": "n",
+      "example": "My rule is to have breakfast at 7 o'clock.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74604.png",
+      "local_image_path": "images/74604.png"
+    },
+    {
+      "pos": "n",
+      "example": "wooden rule",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74605.png",
+      "local_image_path": "images/74605.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rule the country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74606.png",
+      "local_image_path": "images/74606.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rule him out of order",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74607.png",
+      "local_image_path": "images/74607.png"
+    }
+  ],
+  "synonyms": [
+    "decide",
+    "judge",
+    "declare",
+    "pronounce",
+    "decree",
+    "dictate"
+  ],
+  "antonyms": [
+    "follow"
+  ],
+  "similar_words": [
+    "ruleless",
+    "ruler"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rule.mp3",
+  "local_sound_path": "sounds/rule.mp3"
+}

@@ -1,0 +1,68 @@
+{
+  "word": "jaw",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42825.png",
+      "local_image_path": "images/42825.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42820.png",
+      "local_image_path": "images/42820.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42821.png",
+      "local_image_path": "images/42821.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42822.png",
+      "local_image_path": "images/42822.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42823.png",
+      "local_image_path": "images/42823.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42824.png",
+      "local_image_path": "images/42824.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42826.png",
+      "local_image_path": "images/42826.png"
+    }
+  ],
+  "synonyms": [
+    "chat",
+    "chatter",
+    "natter",
+    "gossip",
+    "talk",
+    "babble"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "jaw-bone",
+    "jawbreaker",
+    "jawbreaking",
+    "jawfall",
+    "jawsmith",
+    "jawtwister"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jaw.mp3",
+  "local_sound_path": "sounds/jaw.mp3"
+}

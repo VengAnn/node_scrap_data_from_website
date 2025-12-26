@@ -1,0 +1,46 @@
+{
+  "word": "dismiss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "dismiss a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21986.png",
+      "local_image_path": "images/21986.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Workers who have been unfairly dismiss.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21987.png",
+      "local_image_path": "images/21987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He tried without success to dismiss her from his thoughts.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21988.png",
+      "local_image_path": "images/21988.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118545.png",
+      "local_image_path": "images/118545.png"
+    }
+  ],
+  "synonyms": [
+    "reject",
+    "shelve",
+    "release"
+  ],
+  "antonyms": [
+    "detain"
+  ],
+  "similar_words": [
+    "dismissal",
+    "dismissive",
+    "dismissively"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dismiss.mp3",
+  "local_sound_path": "sounds/dismiss.mp3"
+}

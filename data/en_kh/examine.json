@@ -1,0 +1,33 @@
+{
+  "word": "examine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The doctor examined her patient carefully.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26335.png",
+      "local_image_path": "images/26335.png"
+    },
+    {
+      "pos": "tv",
+      "example": "examine students",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26336.png",
+      "local_image_path": "images/26336.png"
+    }
+  ],
+  "synonyms": [
+    "test",
+    "assess",
+    "assay",
+    "analyze"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "examined",
+    "examinee",
+    "examiner"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/examine.mp3",
+  "local_sound_path": "sounds/examine.mp3"
+}

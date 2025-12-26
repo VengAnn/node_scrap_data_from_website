@@ -1,0 +1,33 @@
+{
+  "word": "gangster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30999.png",
+      "local_image_path": "images/30999.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130362.png",
+      "local_image_path": "images/130362.png"
+    }
+  ],
+  "synonyms": [
+    "criminal",
+    "thug",
+    "hooligan",
+    "mobster",
+    "goon",
+    "hoodlum",
+    "racketeer",
+    "gorilla"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/gangster.mp3",
+  "local_sound_path": "sounds/gangster.mp3"
+}

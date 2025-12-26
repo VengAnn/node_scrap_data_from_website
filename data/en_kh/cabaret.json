@@ -1,0 +1,33 @@
+{
+  "word": "cabaret",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12182.png",
+      "local_image_path": "images/12182.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/12183.png",
+      "local_image_path": "images/12183.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115778.png",
+      "local_image_path": "images/115778.png"
+    }
+  ],
+  "synonyms": [
+    "club",
+    "restaurant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cabaret.mp3",
+  "local_sound_path": "sounds/cabaret.mp3"
+}

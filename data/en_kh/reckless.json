@@ -1,0 +1,45 @@
+{
+  "word": "reckless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "reckless driving",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70811.png",
+      "local_image_path": "images/70811.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126565.png",
+      "local_image_path": "images/126565.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126566.png",
+      "local_image_path": "images/126566.png"
+    }
+  ],
+  "synonyms": [
+    "irresponsible",
+    "wild",
+    "thoughtless",
+    "uncontrolled",
+    "inattentive",
+    "hasty",
+    "careless",
+    "rash",
+    "heedless"
+  ],
+  "antonyms": [
+    "cautious"
+  ],
+  "similar_words": [
+    "recklessly",
+    "recklessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reckless.mp3",
+  "local_sound_path": "sounds/reckless.mp3"
+}

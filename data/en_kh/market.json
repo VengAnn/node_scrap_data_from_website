@@ -1,0 +1,54 @@
+{
+  "word": "market",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "central market",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106342.png",
+      "local_image_path": "images/106342.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106343.png",
+      "local_image_path": "images/106343.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106344.png",
+      "local_image_path": "images/106344.png"
+    }
+  ],
+  "synonyms": [
+    "advertise",
+    "promote",
+    "sell"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "market basket",
+    "market gardener",
+    "market hunter",
+    "market place",
+    "market price",
+    "market ripe",
+    "market stance",
+    "market town",
+    "market-garden",
+    "marketability",
+    "marketable",
+    "marketable title",
+    "marketableness",
+    "marketably",
+    "marketeer",
+    "marketing",
+    "marketing functions",
+    "marketman",
+    "marketstead"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/market.mp3",
+  "local_sound_path": "sounds/market.mp3"
+}

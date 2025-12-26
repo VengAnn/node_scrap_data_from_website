@@ -1,0 +1,44 @@
+{
+  "word": "phantom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62394.png",
+      "local_image_path": "images/62394.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62391.png",
+      "local_image_path": "images/62391.png"
+    },
+    {
+      "pos": "n",
+      "example": "phantom enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62392.png",
+      "local_image_path": "images/62392.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62393.png",
+      "local_image_path": "images/62393.png"
+    }
+  ],
+  "synonyms": [
+    "ghost",
+    "apparition",
+    "spirit",
+    "specter",
+    "phantasm",
+    "spook",
+    "shade"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/phantom.mp3",
+  "local_sound_path": "sounds/phantom.mp3"
+}

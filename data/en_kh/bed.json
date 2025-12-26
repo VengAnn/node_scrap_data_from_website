@@ -1,0 +1,86 @@
+{
+  "word": "bed",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "bed with a woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7972.png",
+      "local_image_path": "images/7972.png"
+    },
+    {
+      "pos": "n",
+      "example": "go to bed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7970.png",
+      "local_image_path": "images/7970.png"
+    },
+    {
+      "pos": "tv",
+      "example": "bricks and stones are beded in mortar or concrete",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7971.png",
+      "local_image_path": "images/7971.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114791.png",
+      "local_image_path": "images/114791.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114792.png",
+      "local_image_path": "images/114792.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114793.png",
+      "local_image_path": "images/114793.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114794.png",
+      "local_image_path": "images/114794.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114795.png",
+      "local_image_path": "images/114795.png"
+    }
+  ],
+  "synonyms": [
+    "plot",
+    "patch",
+    "border"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "bed blocker",
+    "bed rest",
+    "bed sore",
+    "bed-head",
+    "bed-maker",
+    "bed-rock",
+    "bedabble",
+    "bedaub",
+    "bedazzie",
+    "bedazzle",
+    "bedazzlement",
+    "bedbug",
+    "bedchamber",
+    "bedclothes",
+    "bedding",
+    "bedeck",
+    "bedelve",
+    "bedesman",
+    "bedevil",
+    "bedevilment",
+    "bedew"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/bed.mp3",
+  "local_sound_path": "sounds/bed.mp3"
+}

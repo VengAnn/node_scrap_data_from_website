@@ -1,0 +1,23 @@
+{
+  "word": "dehydration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "What is the cause of dehydration?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101896.png",
+      "local_image_path": "images/101896.png"
+    }
+  ],
+  "synonyms": [
+    "thirst",
+    "dryness",
+    "sunstroke",
+    "desiccation"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dehydration.mp3",
+  "local_sound_path": "sounds/dehydration.mp3"
+}

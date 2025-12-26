@@ -1,0 +1,67 @@
+{
+  "word": "clothe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15144.png",
+      "local_image_path": "images/15144.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116516.png",
+      "local_image_path": "images/116516.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116517.png",
+      "local_image_path": "images/116517.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116518.png",
+      "local_image_path": "images/116518.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116519.png",
+      "local_image_path": "images/116519.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116520.png",
+      "local_image_path": "images/116520.png"
+    }
+  ],
+  "synonyms": [
+    "dress",
+    "attire",
+    "cover",
+    "array",
+    "garb",
+    "cloak",
+    "don"
+  ],
+  "antonyms": [
+    "undress"
+  ],
+  "similar_words": [
+    "clothes",
+    "clothes-basket",
+    "clothes-brush",
+    "clothes-hanger",
+    "clothes-line",
+    "clothespeg",
+    "clothespin",
+    "clothespress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/clothe.mp3",
+  "local_sound_path": "sounds/clothe.mp3"
+}

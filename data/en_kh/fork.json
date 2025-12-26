@@ -1,0 +1,57 @@
+{
+  "word": "fork",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29836.png",
+      "local_image_path": "images/29836.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120360.png",
+      "local_image_path": "images/120360.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29833.png",
+      "local_image_path": "images/29833.png"
+    },
+    {
+      "pos": "n",
+      "example": "hay folk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29834.png",
+      "local_image_path": "images/29834.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29835.png",
+      "local_image_path": "images/29835.png"
+    }
+  ],
+  "synonyms": [
+    "diverge",
+    "split",
+    "divide",
+    "branch",
+    "bifurcate",
+    "leave",
+    "separate"
+  ],
+  "antonyms": [
+    "merge"
+  ],
+  "similar_words": [
+    "fork lunch",
+    "fork-lift-truck",
+    "forked",
+    "forklift upgrade"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fork.mp3",
+  "local_sound_path": "sounds/fork.mp3"
+}

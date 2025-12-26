@@ -1,0 +1,60 @@
+{
+  "word": "season",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "cold season",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77481.png",
+      "local_image_path": "images/77481.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Has this wood been well seasoned?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77482.png",
+      "local_image_path": "images/77482.png"
+    },
+    {
+      "pos": "tv",
+      "example": "When mercy seasons justice.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77483.png",
+      "local_image_path": "images/77483.png"
+    },
+    {
+      "pos": "tv",
+      "example": "season food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77484.png",
+      "local_image_path": "images/77484.png"
+    },
+    {
+      "pos": "tv",
+      "example": "season conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77485.png",
+      "local_image_path": "images/77485.png"
+    },
+    {
+      "pos": "tv",
+      "example": "season troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77486.png",
+      "local_image_path": "images/77486.png"
+    }
+  ],
+  "synonyms": [
+    "flavor",
+    "spice",
+    "spike",
+    "pepper"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "season-ticket",
+    "seasonable",
+    "seasonably",
+    "seasonal",
+    "seasonally",
+    "seasoning"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/season.mp3",
+  "local_sound_path": "sounds/season.mp3"
+}

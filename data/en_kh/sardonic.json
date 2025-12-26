@@ -1,0 +1,39 @@
+{
+  "word": "sardonic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75908.png",
+      "local_image_path": "images/75908.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127407.png",
+      "local_image_path": "images/127407.png"
+    }
+  ],
+  "synonyms": [
+    "scornful",
+    "sarcastic",
+    "ironic",
+    "derisive",
+    "satirical",
+    "cutting",
+    "mordant",
+    "scathing",
+    "disdainful"
+  ],
+  "antonyms": [
+    "sincere"
+  ],
+  "similar_words": [
+    "sardonically",
+    "sardonicism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sardonic.mp3",
+  "local_sound_path": "sounds/sardonic.mp3"
+}

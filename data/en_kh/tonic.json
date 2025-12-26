@@ -1,0 +1,42 @@
+{
+  "word": "tonic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90041.png",
+      "local_image_path": "images/90041.png"
+    },
+    {
+      "pos": "n",
+      "example": "drink a tonic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90038.png",
+      "local_image_path": "images/90038.png"
+    },
+    {
+      "pos": "n",
+      "example": "tonic of the key",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90039.png",
+      "local_image_path": "images/90039.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90040.png",
+      "local_image_path": "images/90040.png"
+    }
+  ],
+  "synonyms": [
+    "boost",
+    "stimulant",
+    "pick-me-up",
+    "refresher",
+    "fillip"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tonic.mp3",
+  "local_sound_path": "sounds/tonic.mp3"
+}

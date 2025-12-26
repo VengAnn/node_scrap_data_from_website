@@ -1,0 +1,30 @@
+{
+  "word": "statement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "official statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84397.png",
+      "local_image_path": "images/84397.png"
+    },
+    {
+      "pos": "n",
+      "example": "bank statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84398.png",
+      "local_image_path": "images/84398.png"
+    }
+  ],
+  "synonyms": [
+    "record",
+    "account",
+    "report",
+    "receipt",
+    "invoice"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/statement.mp3",
+  "local_sound_path": "sounds/statement.mp3"
+}

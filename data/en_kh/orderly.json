@@ -1,0 +1,33 @@
+{
+  "word": "orderly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "orderly house keeper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57952.png",
+      "local_image_path": "images/57952.png"
+    },
+    {
+      "pos": "adj",
+      "example": "orderly citizen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57953.png",
+      "local_image_path": "images/57953.png"
+    }
+  ],
+  "synonyms": [
+    "obedient",
+    "well-behaved",
+    "decorous",
+    "compliant",
+    "amenable"
+  ],
+  "antonyms": [
+    "disorderly",
+    "defiant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/orderly.mp3",
+  "local_sound_path": "sounds/orderly.mp3"
+}

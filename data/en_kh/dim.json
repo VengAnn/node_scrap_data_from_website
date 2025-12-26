@@ -1,0 +1,79 @@
+{
+  "word": "dim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dim room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21395.png",
+      "local_image_path": "images/21395.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21396.png",
+      "local_image_path": "images/21396.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118328.png",
+      "local_image_path": "images/118328.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118329.png",
+      "local_image_path": "images/118329.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21398.png",
+      "local_image_path": "images/21398.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21397.png",
+      "local_image_path": "images/21397.png"
+    }
+  ],
+  "synonyms": [
+    "turn down",
+    "lower",
+    "darken",
+    "reduce"
+  ],
+  "antonyms": [
+    "strong",
+    "light",
+    "clear",
+    "bright"
+  ],
+  "similar_words": [
+    "dim-lit",
+    "dim-sighted",
+    "dim-wit",
+    "dime",
+    "dimension",
+    "dimensional",
+    "dimensionality",
+    "dimensionally",
+    "dimensionalness",
+    "diminish",
+    "diminishable",
+    "diminished capacity",
+    "diminishment",
+    "diminuendo",
+    "diminution",
+    "diminutive",
+    "dimly",
+    "dimness",
+    "dimple",
+    "dimwitted"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dim.mp3",
+  "local_sound_path": "sounds/dim.mp3"
+}

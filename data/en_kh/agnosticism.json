@@ -1,0 +1,31 @@
+{
+  "word": "agnosticism",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/3003.png",
+      "local_image_path": "images/3003.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/112315.png",
+      "local_image_path": "images/112315.png"
+    }
+  ],
+  "synonyms": [
+    "skepticism",
+    "incredulity",
+    "atheism"
+  ],
+  "antonyms": [
+    "faith",
+    "certainty"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/agnosticism.mp3",
+  "local_sound_path": "sounds/agnosticism.mp3"
+}

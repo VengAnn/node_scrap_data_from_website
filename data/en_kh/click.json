@@ -1,0 +1,59 @@
+{
+  "word": "click",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14995.png",
+      "local_image_path": "images/14995.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116466.png",
+      "local_image_path": "images/116466.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116467.png",
+      "local_image_path": "images/116467.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116468.png",
+      "local_image_path": "images/116468.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14996.png",
+      "local_image_path": "images/14996.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116469.png",
+      "local_image_path": "images/116469.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116470.png",
+      "local_image_path": "images/116470.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "clash"
+  ],
+  "similar_words": [
+    "clickable",
+    "clicks and mortar"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/click.mp3",
+  "local_sound_path": "sounds/click.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "detonate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21030.png",
+      "local_image_path": "images/21030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21029.png",
+      "local_image_path": "images/21029.png"
+    }
+  ],
+  "synonyms": [
+    "explode",
+    "blow up",
+    "ignite",
+    "discharge"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/detonate.mp3",
+  "local_sound_path": "sounds/detonate.mp3"
+}

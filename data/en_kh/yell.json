@@ -1,0 +1,67 @@
+{
+  "word": "yell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101471.png",
+      "local_image_path": "images/101471.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101472.png",
+      "local_image_path": "images/101472.png"
+    },
+    {
+      "pos": "v",
+      "example": "Stop yelling, can't you!",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101469.png",
+      "local_image_path": "images/101469.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101470.png",
+      "local_image_path": "images/101470.png"
+    }
+  ],
+  "synonyms": [
+    "shriek",
+    "shout",
+    "scream",
+    "roar",
+    "bellow",
+    "screech",
+    "howl",
+    "bawl",
+    "holler"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "yeller",
+    "yellow",
+    "yellow card",
+    "yellow jacket",
+    "yellow line",
+    "yellow pages",
+    "yellow press",
+    "yellow sheet",
+    "yellow sickness",
+    "yellow-bellied",
+    "yellow-bird",
+    "yellow-earth",
+    "yellow-fever",
+    "yellow-flag",
+    "yellow-hammer",
+    "yellow-livered",
+    "yellowish",
+    "yellowishness",
+    "yellowness",
+    "yellowy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yell.mp3",
+  "local_sound_path": "sounds/yell.mp3"
+}

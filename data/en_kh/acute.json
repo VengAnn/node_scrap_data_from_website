@@ -1,0 +1,60 @@
+{
+  "word": "acute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Dogs have an acute sense of smelll",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2277.png",
+      "local_image_path": "images/2277.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113218.png",
+      "local_image_path": "images/113218.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113219.png",
+      "local_image_path": "images/113219.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113220.png",
+      "local_image_path": "images/113220.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113221.png",
+      "local_image_path": "images/113221.png"
+    }
+  ],
+  "synonyms": [
+    "intense",
+    "sharp",
+    "violent",
+    "strong",
+    "excruciating",
+    "piercing",
+    "stabbing"
+  ],
+  "antonyms": [
+    "moderate",
+    "dull",
+    "mild"
+  ],
+  "similar_words": [
+    "acute accent",
+    "acute angle",
+    "acute renal failure",
+    "acutely",
+    "acuteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/acute.mp3",
+  "local_sound_path": "sounds/acute.mp3"
+}

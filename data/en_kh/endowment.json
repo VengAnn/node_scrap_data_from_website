@@ -1,0 +1,46 @@
+{
+  "word": "endowment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24936.png",
+      "local_image_path": "images/24936.png"
+    },
+    {
+      "pos": "n",
+      "example": "financial endowment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24937.png",
+      "local_image_path": "images/24937.png"
+    },
+    {
+      "pos": "n",
+      "example": "physical endowment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24938.png",
+      "local_image_path": "images/24938.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119187.png",
+      "local_image_path": "images/119187.png"
+    }
+  ],
+  "synonyms": [
+    "donation",
+    "gift",
+    "bequest",
+    "talent",
+    "ability",
+    "capability",
+    "aptitude",
+    "faculty",
+    "attribute"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endowment.mp3",
+  "local_sound_path": "sounds/endowment.mp3"
+}

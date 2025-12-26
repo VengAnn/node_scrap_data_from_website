@@ -1,0 +1,30 @@
+{
+  "word": "vulnerable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98697.png",
+      "local_image_path": "images/98697.png"
+    }
+  ],
+  "synonyms": [
+    "susceptible",
+    "weak",
+    "defenseless",
+    "helpless",
+    "exposed"
+  ],
+  "antonyms": [
+    "impervious",
+    "invincible"
+  ],
+  "similar_words": [
+    "vulnerable spot",
+    "vulnerableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vulnerable.mp3",
+  "local_sound_path": "sounds/vulnerable.mp3"
+}

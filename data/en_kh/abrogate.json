@@ -1,0 +1,32 @@
+{
+  "word": "abrogate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1579.png",
+      "local_image_path": "images/1579.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111825.png",
+      "local_image_path": "images/111825.png"
+    }
+  ],
+  "synonyms": [
+    "repeal",
+    "revoke",
+    "rescind",
+    "retract",
+    "annul",
+    "abolish",
+    "nullify"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/abrogate.mp3",
+  "local_sound_path": "sounds/abrogate.mp3"
+}

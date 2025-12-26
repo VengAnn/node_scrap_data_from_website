@@ -1,0 +1,41 @@
+{
+  "word": "reverence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73303.png",
+      "local_image_path": "images/73303.png"
+    },
+    {
+      "pos": "n",
+      "example": "feel reverence toward",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73302.png",
+      "local_image_path": "images/73302.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/73304.png",
+      "local_image_path": "images/73304.png"
+    }
+  ],
+  "synonyms": [
+    "respect",
+    "admiration",
+    "worship",
+    "awe",
+    "veneration",
+    "astonishment",
+    "amazement",
+    "devotion"
+  ],
+  "antonyms": [
+    "contempt"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reverence.mp3",
+  "local_sound_path": "sounds/reverence.mp3"
+}

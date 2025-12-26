@@ -1,0 +1,45 @@
+{
+  "word": "ruffian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/74555.png",
+      "local_image_path": "images/74555.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127246.png",
+      "local_image_path": "images/127246.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127247.png",
+      "local_image_path": "images/127247.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127248.png",
+      "local_image_path": "images/127248.png"
+    }
+  ],
+  "synonyms": [
+    "hooligan",
+    "thug",
+    "hood",
+    "gangster",
+    "lout"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ruffianism",
+    "ruffianly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ruffian.mp3",
+  "local_sound_path": "sounds/ruffian.mp3"
+}

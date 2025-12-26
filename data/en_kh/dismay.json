@@ -1,0 +1,46 @@
+{
+  "word": "dismay",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21982.png",
+      "local_image_path": "images/21982.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118541.png",
+      "local_image_path": "images/118541.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118542.png",
+      "local_image_path": "images/118542.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21981.png",
+      "local_image_path": "images/21981.png"
+    }
+  ],
+  "synonyms": [
+    "disappoint",
+    "shock",
+    "sadden",
+    "depress",
+    "disconcert",
+    "perturb",
+    "discourage"
+  ],
+  "antonyms": [
+    "comfort"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dismay.mp3",
+  "local_sound_path": "sounds/dismay.mp3"
+}

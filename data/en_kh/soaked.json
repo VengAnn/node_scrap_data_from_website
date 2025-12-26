@@ -1,0 +1,32 @@
+{
+  "word": "soaked",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "soaked in wine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82276.png",
+      "local_image_path": "images/82276.png"
+    },
+    {
+      "pos": "adj",
+      "example": "customer got soaked",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82277.png",
+      "local_image_path": "images/82277.png"
+    }
+  ],
+  "synonyms": [
+    "awash",
+    "saturated",
+    "sopping",
+    "absorbed",
+    "take in"
+  ],
+  "antonyms": [
+    "dry"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/soaked.mp3",
+  "local_sound_path": "sounds/soaked.mp3"
+}

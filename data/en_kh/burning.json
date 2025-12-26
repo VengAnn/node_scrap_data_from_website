@@ -1,0 +1,44 @@
+{
+  "word": "burning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11956.png",
+      "local_image_path": "images/11956.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131296.png",
+      "local_image_path": "images/131296.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/11955.png",
+      "local_image_path": "images/11955.png"
+    }
+  ],
+  "synonyms": [
+    "feverish",
+    "hot",
+    "red",
+    "febrile",
+    "racing",
+    "tearing",
+    "speeding",
+    "scorching"
+  ],
+  "antonyms": [
+    "routine",
+    "cool",
+    "cold",
+    "weak"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/burning.mp3",
+  "local_sound_path": "sounds/burning.mp3"
+}

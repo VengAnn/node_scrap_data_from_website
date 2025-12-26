@@ -1,0 +1,62 @@
+{
+  "word": "avail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6655.png",
+      "local_image_path": "images/6655.png"
+    },
+    {
+      "pos": "n",
+      "example": "nothing with avail",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6656.png",
+      "local_image_path": "images/6656.png"
+    },
+    {
+      "pos": "tv",
+      "example": "avail you nothing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/6654.png",
+      "local_image_path": "images/6654.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114302.png",
+      "local_image_path": "images/114302.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114303.png",
+      "local_image_path": "images/114303.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114304.png",
+      "local_image_path": "images/114304.png"
+    }
+  ],
+  "synonyms": [
+    "benefit",
+    "advantage",
+    "reward",
+    "gain",
+    "purpose",
+    "aim",
+    "profit"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "availability",
+    "available",
+    "availableness",
+    "availably",
+    "availingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/avail.mp3",
+  "local_sound_path": "sounds/avail.mp3"
+}

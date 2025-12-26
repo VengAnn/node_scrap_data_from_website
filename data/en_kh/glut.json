@@ -1,0 +1,69 @@
+{
+  "word": "glut",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32079.png",
+      "local_image_path": "images/32079.png"
+    },
+    {
+      "pos": "n",
+      "example": "glut of produce",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32080.png",
+      "local_image_path": "images/32080.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32076.png",
+      "local_image_path": "images/32076.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glut the market",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32077.png",
+      "local_image_path": "images/32077.png"
+    },
+    {
+      "pos": "tv",
+      "example": "glut the appetite",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32078.png",
+      "local_image_path": "images/32078.png"
+    }
+  ],
+  "synonyms": [
+    "excess",
+    "surplus",
+    "superfluity",
+    "flood",
+    "overabundance",
+    "accumulation",
+    "oversupply",
+    "swamp",
+    "inundate",
+    "saturate",
+    "overwhelm"
+  ],
+  "antonyms": [
+    "shortage"
+  ],
+  "similar_words": [
+    "gluten",
+    "glutinate",
+    "glutinosity",
+    "glutinous",
+    "glutinous rice",
+    "glutinously",
+    "glutinousness",
+    "glutton",
+    "gluttonize",
+    "gluttonous",
+    "gluttonously",
+    "gluttony"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glut.mp3",
+  "local_sound_path": "sounds/glut.mp3"
+}

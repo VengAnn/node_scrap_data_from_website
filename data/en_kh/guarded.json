@@ -1,0 +1,36 @@
+{
+  "word": "guarded",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "guarded speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33155.png",
+      "local_image_path": "images/33155.png"
+    },
+    {
+      "pos": "adj",
+      "example": "guarded optimism",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33156.png",
+      "local_image_path": "images/33156.png"
+    }
+  ],
+  "synonyms": [
+    "cautious",
+    "hesitant",
+    "careful",
+    "circumspect",
+    "cagey",
+    "wary",
+    "shielded",
+    "secured"
+  ],
+  "antonyms": [
+    "open",
+    "unprotected"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guarded.mp3",
+  "local_sound_path": "sounds/guarded.mp3"
+}

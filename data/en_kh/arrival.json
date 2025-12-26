@@ -1,0 +1,33 @@
+{
+  "word": "arrival",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5592.png",
+      "local_image_path": "images/5592.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114035.png",
+      "local_image_path": "images/114035.png"
+    }
+  ],
+  "synonyms": [
+    "influx",
+    "entrance",
+    "onset",
+    "coming",
+    "advent",
+    "appearance"
+  ],
+  "antonyms": [
+    "departure"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arrival.mp3",
+  "local_sound_path": "sounds/arrival.mp3"
+}

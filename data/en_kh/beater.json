@@ -1,0 +1,44 @@
+{
+  "word": "beater",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/7903.png",
+      "local_image_path": "images/7903.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114746.png",
+      "local_image_path": "images/114746.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114747.png",
+      "local_image_path": "images/114747.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/114748.png",
+      "local_image_path": "images/114748.png"
+    }
+  ],
+  "synonyms": [
+    "churn",
+    "blender",
+    "champion",
+    "champ",
+    "conqueror",
+    "vanquisher",
+    "winner"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/beater.mp3",
+  "local_sound_path": "sounds/beater.mp3"
+}

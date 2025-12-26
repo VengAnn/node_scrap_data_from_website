@@ -1,0 +1,53 @@
+{
+  "word": "change",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "she changed her clothes before going out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13788.png",
+      "local_image_path": "images/13788.png"
+    },
+    {
+      "pos": "n",
+      "example": "constant change",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13789.png",
+      "local_image_path": "images/13789.png"
+    },
+    {
+      "pos": "tv",
+      "example": "you should change your mind if you want to see her",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13787.png",
+      "local_image_path": "images/13787.png"
+    }
+  ],
+  "synonyms": [
+    "cash",
+    "alter",
+    "modify",
+    "vary",
+    "transform",
+    "revolutionize",
+    "adjust",
+    "amend",
+    "shift"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "change management",
+    "changeability",
+    "changeable",
+    "changeableness",
+    "changeably",
+    "changeful",
+    "changefully",
+    "changefulness",
+    "changeless",
+    "changeling",
+    "changeover",
+    "changer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/change.mp3",
+  "local_sound_path": "sounds/change.mp3"
+}

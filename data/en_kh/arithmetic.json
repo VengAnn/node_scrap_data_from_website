@@ -1,0 +1,27 @@
+{
+  "word": "arithmetic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "mental arithmetic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/5480.png",
+      "local_image_path": "images/5480.png"
+    }
+  ],
+  "synonyms": [
+    "mathematics",
+    "math",
+    "reckoning",
+    "calculation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "arithmetical",
+    "arithmetically",
+    "arithmetician"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/arithmetic.mp3",
+  "local_sound_path": "sounds/arithmetic.mp3"
+}

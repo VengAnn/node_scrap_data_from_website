@@ -1,0 +1,65 @@
+{
+  "word": "pin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63334.png",
+      "local_image_path": "images/63334.png"
+    },
+    {
+      "pos": "n",
+      "example": "straight pin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63332.png",
+      "local_image_path": "images/63332.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63333.png",
+      "local_image_path": "images/63333.png"
+    }
+  ],
+  "synonyms": [
+    "hold",
+    "restrain",
+    "trap",
+    "jam",
+    "pinion",
+    "fasten",
+    "join",
+    "stick",
+    "fix",
+    "attach",
+    "secure"
+  ],
+  "antonyms": [
+    "undo"
+  ],
+  "similar_words": [
+    "pin-feather",
+    "pin-hole",
+    "pin-prick",
+    "pin-up",
+    "pina clothe",
+    "pinafore",
+    "pinaster",
+    "pinax",
+    "pinc-pine",
+    "pince",
+    "pincer",
+    "pincers",
+    "pinch",
+    "pinchbeck",
+    "pinching",
+    "pincushion",
+    "pind",
+    "pinda",
+    "pindar",
+    "pindaric"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pin.mp3",
+  "local_sound_path": "sounds/pin.mp3"
+}

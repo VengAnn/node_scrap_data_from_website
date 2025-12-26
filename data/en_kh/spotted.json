@@ -1,0 +1,33 @@
+{
+  "word": "spotted",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83685.png",
+      "local_image_path": "images/83685.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83686.png",
+      "local_image_path": "images/83686.png"
+    }
+  ],
+  "synonyms": [
+    "dotted",
+    "marked",
+    "speckled",
+    "dappled",
+    "mottled",
+    "covered"
+  ],
+  "antonyms": [
+    "plain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spotted.mp3",
+  "local_sound_path": "sounds/spotted.mp3"
+}

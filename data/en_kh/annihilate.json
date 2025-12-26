@@ -1,0 +1,39 @@
+{
+  "word": "annihilate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Our soldiers annihilated a force of 300 enemy troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/4386.png",
+      "local_image_path": "images/4386.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113750.png",
+      "local_image_path": "images/113750.png"
+    }
+  ],
+  "synonyms": [
+    "defeat",
+    "beat",
+    "rout",
+    "thrash",
+    "overwhelm",
+    "crush",
+    "destroy",
+    "obliterate",
+    "extinguish",
+    "eradicate",
+    "exterminate"
+  ],
+  "antonyms": [
+    "protect",
+    "lose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/annihilate.mp3",
+  "local_sound_path": "sounds/annihilate.mp3"
+}

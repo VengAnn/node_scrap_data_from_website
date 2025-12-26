@@ -1,0 +1,26 @@
+{
+  "word": "entrust",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Can I entrust you with the secret plans?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25363.png",
+      "local_image_path": "images/25363.png"
+    }
+  ],
+  "synonyms": [
+    "trust",
+    "commend",
+    "delegate",
+    "assign",
+    "deliver"
+  ],
+  "antonyms": [
+    "deprive"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entrust.mp3",
+  "local_sound_path": "sounds/entrust.mp3"
+}

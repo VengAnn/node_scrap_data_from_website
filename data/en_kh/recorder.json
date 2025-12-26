@@ -1,0 +1,28 @@
+{
+  "word": "recorder",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "court recorder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70971.png",
+      "local_image_path": "images/70971.png"
+    },
+    {
+      "pos": "n",
+      "example": "tape recorder",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70972.png",
+      "local_image_path": "images/70972.png"
+    }
+  ],
+  "synonyms": [
+    "plotter",
+    "stereo",
+    "tape recorder"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recorder.mp3",
+  "local_sound_path": "sounds/recorder.mp3"
+}

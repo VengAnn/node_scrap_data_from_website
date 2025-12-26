@@ -1,0 +1,32 @@
+{
+  "word": "culinary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19013.png",
+      "local_image_path": "images/19013.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131030.png",
+      "local_image_path": "images/131030.png"
+    }
+  ],
+  "synonyms": [
+    "cooking",
+    "cookery",
+    "gastronomic",
+    "food"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "culinary art",
+    "culinary skill"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/culinary.mp3",
+  "local_sound_path": "sounds/culinary.mp3"
+}

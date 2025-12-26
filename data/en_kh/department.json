@@ -1,0 +1,27 @@
+{
+  "word": "department",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "department of defense",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20585.png",
+      "local_image_path": "images/20585.png"
+    }
+  ],
+  "synonyms": [
+    "region",
+    "district",
+    "area",
+    "territory",
+    "county"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "department store",
+    "departmental"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/department.mp3",
+  "local_sound_path": "sounds/department.mp3"
+}

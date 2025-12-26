@@ -1,0 +1,39 @@
+{
+  "word": "frail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "frail child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30075.png",
+      "local_image_path": "images/30075.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30078.png",
+      "local_image_path": "images/30078.png"
+    }
+  ],
+  "synonyms": [
+    "flimsy",
+    "insubstantial",
+    "fragile",
+    "brittle",
+    "spindly",
+    "delicate"
+  ],
+  "antonyms": [
+    "strong",
+    "sturdy",
+    "robust"
+  ],
+  "similar_words": [
+    "frailly",
+    "frailness",
+    "frailty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/frail.mp3",
+  "local_sound_path": "sounds/frail.mp3"
+}

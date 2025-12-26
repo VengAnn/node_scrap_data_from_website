@@ -1,0 +1,35 @@
+{
+  "word": "member",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Every member of her family came to the wedding.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107605.png",
+      "local_image_path": "images/107605.png"
+    },
+    {
+      "pos": "n",
+      "example": "member of the body",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107606.png",
+      "local_image_path": "images/107606.png"
+    }
+  ],
+  "synonyms": [
+    "limb",
+    "appendage",
+    "organ",
+    "part",
+    "constituent",
+    "component",
+    "element",
+    "portion",
+    "item",
+    "unit"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/member.mp3",
+  "local_sound_path": "sounds/member.mp3"
+}

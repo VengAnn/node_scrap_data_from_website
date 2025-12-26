@@ -1,0 +1,58 @@
+{
+  "word": "farm",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "farm machinery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27656.png",
+      "local_image_path": "images/27656.png"
+    },
+    {
+      "pos": "n",
+      "example": "buy a farm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27653.png",
+      "local_image_path": "images/27653.png"
+    },
+    {
+      "pos": "n",
+      "example": "chicken farm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27654.png",
+      "local_image_path": "images/27654.png"
+    },
+    {
+      "pos": "v",
+      "example": "He is farming in Africa.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27655.png",
+      "local_image_path": "images/27655.png"
+    }
+  ],
+  "synonyms": [
+    "cultivate",
+    "work",
+    "till",
+    "plow",
+    "grow",
+    "raise",
+    "plant",
+    "plough"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "farm hand",
+    "farm stay",
+    "farm-house",
+    "farm-laborer",
+    "farm-land",
+    "farmer",
+    "farmer's lung",
+    "farmer's market",
+    "farming",
+    "farmost",
+    "farmstead",
+    "farmyard"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/farm.mp3",
+  "local_sound_path": "sounds/farm.mp3"
+}

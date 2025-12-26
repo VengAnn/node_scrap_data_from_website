@@ -1,0 +1,48 @@
+{
+  "word": "capability",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I have the capability to do the job well.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111703.png",
+      "local_image_path": "images/111703.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115940.png",
+      "local_image_path": "images/115940.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115941.png",
+      "local_image_path": "images/115941.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115942.png",
+      "local_image_path": "images/115942.png"
+    }
+  ],
+  "synonyms": [
+    "ability",
+    "means",
+    "potential",
+    "capacity",
+    "competence",
+    "facility",
+    "aptitude",
+    "faculty",
+    "wherewithal"
+  ],
+  "antonyms": [
+    "inability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/capability.mp3",
+  "local_sound_path": "sounds/capability.mp3"
+}

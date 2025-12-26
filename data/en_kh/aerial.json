@@ -1,0 +1,35 @@
+{
+  "word": "aerial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "aerial music",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2626.png",
+      "local_image_path": "images/2626.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2627.png",
+      "local_image_path": "images/2627.png"
+    }
+  ],
+  "synonyms": [
+    "airborne",
+    "above ground",
+    "midair",
+    "inflight",
+    "floating"
+  ],
+  "antonyms": [
+    "terrestrial"
+  ],
+  "similar_words": [
+    "aerialist",
+    "aerially"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/aerial.mp3",
+  "local_sound_path": "sounds/aerial.mp3"
+}

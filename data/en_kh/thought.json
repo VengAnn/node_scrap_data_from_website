@@ -1,0 +1,50 @@
+{
+  "word": "thought",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He spends hours in thought.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89040.png",
+      "local_image_path": "images/89040.png"
+    },
+    {
+      "pos": "n",
+      "example": "thought for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89041.png",
+      "local_image_path": "images/89041.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131961.png",
+      "local_image_path": "images/131961.png"
+    }
+  ],
+  "synonyms": [
+    "philosophy",
+    "thinking",
+    "planning",
+    "concept",
+    "design",
+    "felt",
+    "considered",
+    "agreed",
+    "supposed"
+  ],
+  "antonyms": [
+    "known"
+  ],
+  "similar_words": [
+    "thought-provoking",
+    "thoughtful",
+    "thoughtfully",
+    "thoughtfulness",
+    "thoughtless",
+    "thoughtlessly",
+    "thoughtlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/thought.mp3",
+  "local_sound_path": "sounds/thought.mp3"
+}
