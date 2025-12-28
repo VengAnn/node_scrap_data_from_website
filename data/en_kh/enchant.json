@@ -1,0 +1,52 @@
+{
+  "word": "enchant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24772.png",
+      "local_image_path": "images/24772.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enchant an enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24773.png",
+      "local_image_path": "images/24773.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enchant an audience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24774.png",
+      "local_image_path": "images/24774.png"
+    }
+  ],
+  "synonyms": [
+    "charm",
+    "captivate",
+    "fascinate",
+    "enthrall",
+    "enrapture",
+    "entrance",
+    "bewitch",
+    "hypnotize",
+    "mesmerize",
+    "beguile"
+  ],
+  "antonyms": [
+    "disgust"
+  ],
+  "similar_words": [
+    "enchanted",
+    "enchanter",
+    "enchanterment",
+    "enchantery",
+    "enchanting",
+    "enchantingly",
+    "enchantment",
+    "enchantress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enchant.mp3",
+  "local_sound_path": "sounds/enchant.mp3"
+}

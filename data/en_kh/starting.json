@@ -1,0 +1,37 @@
+{
+  "word": "starting",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84350.png",
+      "local_image_path": "images/84350.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/84351.png",
+      "local_image_path": "images/84351.png"
+    }
+  ],
+  "synonyms": [
+    "preliminary",
+    "initial",
+    "opening",
+    "early",
+    "first",
+    "preparatory",
+    "jumping"
+  ],
+  "antonyms": [
+    "final"
+  ],
+  "similar_words": [
+    "starting-place",
+    "starting-point"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/starting.mp3",
+  "local_sound_path": "sounds/starting.mp3"
+}

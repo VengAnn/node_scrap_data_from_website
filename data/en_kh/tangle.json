@@ -1,0 +1,77 @@
+{
+  "word": "tangle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "idm",
+      "example": "Have a tangle with him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87474.png",
+      "local_image_path": "images/87474.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87470.png",
+      "local_image_path": "images/87470.png"
+    },
+    {
+      "pos": "n",
+      "example": "a tangle of rope",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87471.png",
+      "local_image_path": "images/87471.png"
+    },
+    {
+      "pos": "n",
+      "example": "Finances are in a tangle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87472.png",
+      "local_image_path": "images/87472.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87473.png",
+      "local_image_path": "images/87473.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87475.png",
+      "local_image_path": "images/87475.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87468.png",
+      "local_image_path": "images/87468.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tangle with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87469.png",
+      "local_image_path": "images/87469.png"
+    }
+  ],
+  "synonyms": [
+    "complication",
+    "maze",
+    "mess",
+    "mix-up",
+    "labyrinth",
+    "web",
+    "disorder",
+    "jumble",
+    "confront",
+    "oppose",
+    "face"
+  ],
+  "antonyms": [
+    "undo",
+    "untangle",
+    "release",
+    "avoid"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tangle.mp3",
+  "local_sound_path": "sounds/tangle.mp3"
+}

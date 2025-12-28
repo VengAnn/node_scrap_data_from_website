@@ -1,0 +1,44 @@
+{
+  "word": "dusk",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "at dusk",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23487.png",
+      "local_image_path": "images/23487.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118835.png",
+      "local_image_path": "images/118835.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118836.png",
+      "local_image_path": "images/118836.png"
+    }
+  ],
+  "synonyms": [
+    "twilight",
+    "sunset",
+    "nightfall",
+    "sundown",
+    "evening",
+    "even",
+    "eventide"
+  ],
+  "antonyms": [
+    "dawn"
+  ],
+  "similar_words": [
+    "duskiness",
+    "duskish",
+    "dusky"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dusk.mp3",
+  "local_sound_path": "sounds/dusk.mp3"
+}

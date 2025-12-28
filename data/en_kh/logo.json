@@ -1,0 +1,57 @@
+{
+  "word": "logo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47399.png",
+      "local_image_path": "images/47399.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123631.png",
+      "local_image_path": "images/123631.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123632.png",
+      "local_image_path": "images/123632.png"
+    }
+  ],
+  "synonyms": [
+    "symbol",
+    "sign",
+    "emblem",
+    "badge",
+    "insignia",
+    "design"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "logogogue",
+    "logogram",
+    "logogramatic",
+    "logogramatical",
+    "logograph",
+    "logographer",
+    "logographic",
+    "logographically",
+    "logography",
+    "logogriph",
+    "logomachy",
+    "logopedics",
+    "logorrhea",
+    "logorrhoea",
+    "logorrhoeic",
+    "logos",
+    "logotherapy",
+    "logothete",
+    "logotype"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/logo.mp3",
+  "local_sound_path": "sounds/logo.mp3"
+}

@@ -1,0 +1,80 @@
+{
+  "word": "chop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14338.png",
+      "local_image_path": "images/14338.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14339.png",
+      "local_image_path": "images/14339.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116290.png",
+      "local_image_path": "images/116290.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14337.png",
+      "local_image_path": "images/14337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116291.png",
+      "local_image_path": "images/116291.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116292.png",
+      "local_image_path": "images/116292.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116293.png",
+      "local_image_path": "images/116293.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116294.png",
+      "local_image_path": "images/116294.png"
+    }
+  ],
+  "synonyms": [
+    "cut",
+    "slice",
+    "hack",
+    "hatchet",
+    "sever",
+    "split",
+    "hew",
+    "fell",
+    "lop",
+    "slay",
+    "strike",
+    "slash",
+    "axe"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "chopfallen",
+    "chopper",
+    "chopping block",
+    "choppy",
+    "chopstick"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chop.mp3",
+  "local_sound_path": "sounds/chop.mp3"
+}

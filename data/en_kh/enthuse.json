@@ -1,0 +1,36 @@
+{
+  "word": "enthuse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25297.png",
+      "local_image_path": "images/25297.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119260.png",
+      "local_image_path": "images/119260.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25296.png",
+      "local_image_path": "images/25296.png"
+    }
+  ],
+  "synonyms": [
+    "gush",
+    "rave",
+    "effuse"
+  ],
+  "antonyms": [
+    "bore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enthuse.mp3",
+  "local_sound_path": "sounds/enthuse.mp3"
+}

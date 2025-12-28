@@ -1,0 +1,40 @@
+{
+  "word": "tenuous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88297.png",
+      "local_image_path": "images/88297.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88298.png",
+      "local_image_path": "images/88298.png"
+    }
+  ],
+  "synonyms": [
+    "weak",
+    "shaky",
+    "tenancy",
+    "unsubstantiated",
+    "fragile",
+    "questionable",
+    "feeble",
+    "vague",
+    "unconvincing"
+  ],
+  "antonyms": [
+    "strong",
+    "convincing"
+  ],
+  "similar_words": [
+    "tenuously",
+    "tenuousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tenuous.mp3",
+  "local_sound_path": "sounds/tenuous.mp3"
+}

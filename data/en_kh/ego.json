@@ -1,0 +1,43 @@
+{
+  "word": "ego",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "wound his ego",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24041.png",
+      "local_image_path": "images/24041.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132041.png",
+      "local_image_path": "images/132041.png"
+    }
+  ],
+  "synonyms": [
+    "personality",
+    "character",
+    "self",
+    "self-esteem",
+    "individuality"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "egocentric",
+    "egocentricity",
+    "egoism",
+    "egoist",
+    "egoistic",
+    "egoistical",
+    "egotism",
+    "egotist",
+    "egotistic",
+    "egotistical",
+    "egotistically",
+    "egotize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ego.mp3",
+  "local_sound_path": "sounds/ego.mp3"
+}

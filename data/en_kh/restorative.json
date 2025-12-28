@@ -1,0 +1,44 @@
+{
+  "word": "restorative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72941.png",
+      "local_image_path": "images/72941.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127000.png",
+      "local_image_path": "images/127000.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72942.png",
+      "local_image_path": "images/72942.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127001.png",
+      "local_image_path": "images/127001.png"
+    }
+  ],
+  "synonyms": [
+    "healing",
+    "curative",
+    "soothing",
+    "recuperative"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "restoratively",
+    "restorativeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/restorative.mp3",
+  "local_sound_path": "sounds/restorative.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "reside",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72677.png",
+      "local_image_path": "images/72677.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72675.png",
+      "local_image_path": "images/72675.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72676.png",
+      "local_image_path": "images/72676.png"
+    }
+  ],
+  "synonyms": [
+    "live",
+    "inhabit",
+    "dwell"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "residence",
+    "residency",
+    "resident",
+    "residenter",
+    "residential",
+    "residentially",
+    "residentiary",
+    "resider"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reside.mp3",
+  "local_sound_path": "sounds/reside.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "intrude",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He intruded on me.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41866.png",
+      "local_image_path": "images/41866.png"
+    },
+    {
+      "pos": "iv",
+      "example": "intrude on a meeting",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41867.png",
+      "local_image_path": "images/41867.png"
+    },
+    {
+      "pos": "iv",
+      "example": "seas intrude into the land",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41868.png",
+      "local_image_path": "images/41868.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41869.png",
+      "local_image_path": "images/41869.png"
+    }
+  ],
+  "synonyms": [
+    "encroach",
+    "infringe",
+    "interrupt",
+    "interfere",
+    "impose",
+    "intervene",
+    "interlope",
+    "meddle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "intruder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intrude.mp3",
+  "local_sound_path": "sounds/intrude.mp3"
+}

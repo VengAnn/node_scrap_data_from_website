@@ -1,0 +1,28 @@
+{
+  "word": "elevator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "electric elevator",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24294.png",
+      "local_image_path": "images/24294.png"
+    },
+    {
+      "pos": "n",
+      "example": "grain elevator",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24295.png",
+      "local_image_path": "images/24295.png"
+    }
+  ],
+  "synonyms": [
+    "winch",
+    "crane",
+    "pulley"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elevator.mp3",
+  "local_sound_path": "sounds/elevator.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "preceding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "preceding page",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65977.png",
+      "local_image_path": "images/65977.png"
+    },
+    {
+      "pos": "adj",
+      "example": "preceding year",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/65978.png",
+      "local_image_path": "images/65978.png"
+    }
+  ],
+  "synonyms": [
+    "previous",
+    "earlier",
+    "prior",
+    "former",
+    "past",
+    "above",
+    "foregoing",
+    "heading",
+    "leading"
+  ],
+  "antonyms": [
+    "following"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/preceding.mp3",
+  "local_sound_path": "sounds/preceding.mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "word": "hallow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33613.png",
+      "local_image_path": "images/33613.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120905.png",
+      "local_image_path": "images/120905.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120906.png",
+      "local_image_path": "images/120906.png"
+    }
+  ],
+  "synonyms": [
+    "consecrate",
+    "sanctify",
+    "bless",
+    "deify",
+    "revere",
+    "respect"
+  ],
+  "antonyms": [
+    "desecrate"
+  ],
+  "similar_words": [
+    "hallowed",
+    "halloween"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hallow.mp3",
+  "local_sound_path": "sounds/hallow.mp3"
+}

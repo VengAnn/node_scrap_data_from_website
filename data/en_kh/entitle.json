@@ -1,0 +1,37 @@
+{
+  "word": "entitle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "entitle a book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25311.png",
+      "local_image_path": "images/25311.png"
+    },
+    {
+      "pos": "tv",
+      "example": "This ticket doesn't entitle you to travel.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25312.png",
+      "local_image_path": "images/25312.png"
+    }
+  ],
+  "synonyms": [
+    "title",
+    "call",
+    "name",
+    "dub",
+    "label",
+    "designate"
+  ],
+  "antonyms": [
+    "debar"
+  ],
+  "similar_words": [
+    "entitled to",
+    "entitlement",
+    "entitlement mentality"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entitle.mp3",
+  "local_sound_path": "sounds/entitle.mp3"
+}

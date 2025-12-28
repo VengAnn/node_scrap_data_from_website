@@ -1,0 +1,43 @@
+{
+  "word": "dwindle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23541.png",
+      "local_image_path": "images/23541.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118845.png",
+      "local_image_path": "images/118845.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23542.png",
+      "local_image_path": "images/23542.png"
+    }
+  ],
+  "synonyms": [
+    "decrease",
+    "decline",
+    "diminish",
+    "fall",
+    "drop",
+    "reduce",
+    "lessen",
+    "shrink",
+    "fade",
+    "disappear"
+  ],
+  "antonyms": [
+    "increase"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dwindle.mp3",
+  "local_sound_path": "sounds/dwindle.mp3"
+}

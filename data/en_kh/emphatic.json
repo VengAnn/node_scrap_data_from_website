@@ -1,0 +1,42 @@
+{
+  "word": "emphatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "emphatic denial",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24632.png",
+      "local_image_path": "images/24632.png"
+    },
+    {
+      "pos": "adj",
+      "example": "emphatic particle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24633.png",
+      "local_image_path": "images/24633.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119093.png",
+      "local_image_path": "images/119093.png"
+    }
+  ],
+  "synonyms": [
+    "resounding",
+    "absolute",
+    "clear",
+    "evident",
+    "obvious",
+    "glaring"
+  ],
+  "antonyms": [
+    "hesitant",
+    "ambiguous"
+  ],
+  "similar_words": [
+    "emphatically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emphatic.mp3",
+  "local_sound_path": "sounds/emphatic.mp3"
+}

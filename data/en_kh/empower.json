@@ -1,0 +1,41 @@
+{
+  "word": "empower",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The new laws empower the police to stop anybody in the street.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24668.png",
+      "local_image_path": "images/24668.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132319.png",
+      "local_image_path": "images/132319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132320.png",
+      "local_image_path": "images/132320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132321.png",
+      "local_image_path": "images/132321.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "forbid",
+    "discourage"
+  ],
+  "similar_words": [
+    "empowerment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/empower.mp3",
+  "local_sound_path": "sounds/empower.mp3"
+}

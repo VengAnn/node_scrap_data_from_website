@@ -1,0 +1,43 @@
+{
+  "word": "efficacious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23968.png",
+      "local_image_path": "images/23968.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118913.png",
+      "local_image_path": "images/118913.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118914.png",
+      "local_image_path": "images/118914.png"
+    }
+  ],
+  "synonyms": [
+    "effective",
+    "efficient",
+    "effectual",
+    "successful",
+    "useful",
+    "worthwhile",
+    "valuable"
+  ],
+  "antonyms": [
+    "useless"
+  ],
+  "similar_words": [
+    "efficaciously",
+    "efficaciousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/efficacious.mp3",
+  "local_sound_path": "sounds/efficacious.mp3"
+}

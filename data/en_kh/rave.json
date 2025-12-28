@@ -1,0 +1,66 @@
+{
+  "word": "rave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70384.png",
+      "local_image_path": "images/70384.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rave like a madman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70381.png",
+      "local_image_path": "images/70381.png"
+    },
+    {
+      "pos": "iv",
+      "example": "She raved about the food she had in France.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70382.png",
+      "local_image_path": "images/70382.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70383.png",
+      "local_image_path": "images/70383.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126479.png",
+      "local_image_path": "images/126479.png"
+    }
+  ],
+  "synonyms": [
+    "enthusiastic",
+    "glowing",
+    "admiring",
+    "shining",
+    "excellent",
+    "rant",
+    "ramble",
+    "blather",
+    "rage",
+    "fume"
+  ],
+  "antonyms": [
+    "poor",
+    "reason",
+    "criticize"
+  ],
+  "similar_words": [
+    "ravel",
+    "raveling",
+    "ravelment",
+    "raven",
+    "ravening",
+    "ravenous",
+    "ravenously",
+    "ravenousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rave.mp3",
+  "local_sound_path": "sounds/rave.mp3"
+}

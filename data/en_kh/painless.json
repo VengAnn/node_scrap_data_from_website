@@ -1,0 +1,31 @@
+{
+  "word": "painless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "painless operation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/59310.png",
+      "local_image_path": "images/59310.png"
+    }
+  ],
+  "synonyms": [
+    "effortless",
+    "easy",
+    "simple",
+    "unproblematic",
+    "straightforward"
+  ],
+  "antonyms": [
+    "painful",
+    "difficult",
+    "problematic"
+  ],
+  "similar_words": [
+    "painlessly",
+    "painlessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/painless.mp3",
+  "local_sound_path": "sounds/painless.mp3"
+}

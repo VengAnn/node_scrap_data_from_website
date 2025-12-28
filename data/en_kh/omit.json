@@ -1,0 +1,31 @@
+{
+  "word": "omit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "omit intentionally",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57533.png",
+      "local_image_path": "images/57533.png"
+    }
+  ],
+  "synonyms": [
+    "neglect",
+    "forget",
+    "overlook",
+    "ignore",
+    "skip",
+    "exclude"
+  ],
+  "antonyms": [
+    "include",
+    "remember"
+  ],
+  "similar_words": [
+    "omittance",
+    "omitting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/omit.mp3",
+  "local_sound_path": "sounds/omit.mp3"
+}

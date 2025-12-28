@@ -1,0 +1,37 @@
+{
+  "word": "evening",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "during the evening",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26189.png",
+      "local_image_path": "images/26189.png"
+    },
+    {
+      "pos": "n",
+      "example": "evening of his life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26190.png",
+      "local_image_path": "images/26190.png"
+    }
+  ],
+  "synonyms": [
+    "twilight",
+    "sunset",
+    "dusk",
+    "nightfall",
+    "sundown",
+    "even"
+  ],
+  "antonyms": [
+    "morning"
+  ],
+  "similar_words": [
+    "evening paper",
+    "evening star",
+    "evening-dress"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/evening.mp3",
+  "local_sound_path": "sounds/evening.mp3"
+}

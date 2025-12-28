@@ -1,0 +1,45 @@
+{
+  "word": "observer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56977.png",
+      "local_image_path": "images/56977.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124833.png",
+      "local_image_path": "images/124833.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124834.png",
+      "local_image_path": "images/124834.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124835.png",
+      "local_image_path": "images/124835.png"
+    }
+  ],
+  "synonyms": [
+    "spectator",
+    "witness",
+    "viewer",
+    "onlooker",
+    "bystander",
+    "eyewitness"
+  ],
+  "antonyms": [
+    "participant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/observer.mp3",
+  "local_sound_path": "sounds/observer.mp3"
+}

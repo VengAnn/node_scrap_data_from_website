@@ -1,0 +1,60 @@
+{
+  "word": "whirl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The wind whirled the deed leave about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100055.png",
+      "local_image_path": "images/100055.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100056.png",
+      "local_image_path": "images/100056.png"
+    },
+    {
+      "pos": "iv",
+      "example": "His head whirled",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100057.png",
+      "local_image_path": "images/100057.png"
+    },
+    {
+      "pos": "n",
+      "example": "give the wheel a whirl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100059.png",
+      "local_image_path": "images/100059.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100058.png",
+      "local_image_path": "images/100058.png"
+    }
+  ],
+  "synonyms": [
+    "flurry",
+    "bustle",
+    "commotion",
+    "tumult",
+    "spin",
+    "twirl",
+    "reel",
+    "rotate",
+    "turn",
+    "swivel"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "whirl-blast",
+    "whirlicote",
+    "whirling",
+    "whirlpool",
+    "whirlwind",
+    "whirly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whirl.mp3",
+  "local_sound_path": "sounds/whirl.mp3"
+}

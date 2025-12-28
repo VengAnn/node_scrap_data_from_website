@@ -1,0 +1,30 @@
+{
+  "word": "enact",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24718.png",
+      "local_image_path": "images/24718.png"
+    }
+  ],
+  "synonyms": [
+    "perform",
+    "play",
+    "portray",
+    "represent",
+    "present"
+  ],
+  "antonyms": [
+    "reject"
+  ],
+  "similar_words": [
+    "enactable",
+    "enactment",
+    "enactor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enact.mp3",
+  "local_sound_path": "sounds/enact.mp3"
+}

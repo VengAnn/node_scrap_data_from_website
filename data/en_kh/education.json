@@ -1,0 +1,57 @@
+{
+  "word": "education",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23901.png",
+      "local_image_path": "images/23901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23902.png",
+      "local_image_path": "images/23902.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23903.png",
+      "local_image_path": "images/23903.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118899.png",
+      "local_image_path": "images/118899.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118900.png",
+      "local_image_path": "images/118900.png"
+    }
+  ],
+  "synonyms": [
+    "teaching",
+    "learning",
+    "schooling",
+    "instruction",
+    "edification",
+    "culture",
+    "training",
+    "tutelage"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "education department",
+    "educational",
+    "educationalist",
+    "educationally",
+    "educationary"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/education.mp3",
+  "local_sound_path": "sounds/education.mp3"
+}

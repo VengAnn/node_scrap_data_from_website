@@ -1,0 +1,29 @@
+{
+  "word": "empire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "British empire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24638.png",
+      "local_image_path": "images/24638.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24639.png",
+      "local_image_path": "images/24639.png"
+    }
+  ],
+  "synonyms": [
+    "territory",
+    "realm",
+    "kingdom",
+    "domain"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/empire.mp3",
+  "local_sound_path": "sounds/empire.mp3"
+}

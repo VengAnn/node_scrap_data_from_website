@@ -1,0 +1,49 @@
+{
+  "word": "yoke",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "a yoke of oxen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101557.png",
+      "local_image_path": "images/101557.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101558.png",
+      "local_image_path": "images/101558.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101559.png",
+      "local_image_path": "images/101559.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101560.png",
+      "local_image_path": "images/101560.png"
+    }
+  ],
+  "synonyms": [
+    "repression",
+    "oppression",
+    "burden",
+    "bondage",
+    "encumbrance",
+    "drag",
+    "load",
+    "annoyance"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "yokefellow",
+    "yokel",
+    "yokeless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/yoke.mp3",
+  "local_sound_path": "sounds/yoke.mp3"
+}

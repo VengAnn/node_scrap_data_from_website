@@ -1,0 +1,26 @@
+{
+  "word": "simulated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Simulated is a form of simulate.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111448.png",
+      "local_image_path": "images/111448.png"
+    }
+  ],
+  "synonyms": [
+    "fake",
+    "pretend",
+    "imitation",
+    "virtual",
+    "pretended"
+  ],
+  "antonyms": [
+    "genuine"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/simulated.mp3",
+  "local_sound_path": "sounds/simulated.mp3"
+}

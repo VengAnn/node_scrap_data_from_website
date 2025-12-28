@@ -1,0 +1,36 @@
+{
+  "word": "nostalgic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "feel nostalgic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56357.png",
+      "local_image_path": "images/56357.png"
+    },
+    {
+      "pos": "adj",
+      "example": "nostalgic experience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56358.png",
+      "local_image_path": "images/56358.png"
+    }
+  ],
+  "synonyms": [
+    "homesick",
+    "wistful",
+    "longing",
+    "regretful",
+    "reflective",
+    "melancholy",
+    "evocative"
+  ],
+  "antonyms": [
+    "expectant"
+  ],
+  "similar_words": [
+    "nostalgically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nostalgic.mp3",
+  "local_sound_path": "sounds/nostalgic.mp3"
+}

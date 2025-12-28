@@ -1,0 +1,46 @@
+{
+  "word": "index",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39004.png",
+      "local_image_path": "images/39004.png"
+    },
+    {
+      "pos": "n",
+      "example": "index of authors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39005.png",
+      "local_image_path": "images/39005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "index to his character",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39006.png",
+      "local_image_path": "images/39006.png"
+    }
+  ],
+  "synonyms": [
+    "manifestation",
+    "indicator",
+    "symbol",
+    "pointer",
+    "sign",
+    "mark",
+    "indication"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "index finger",
+    "index fund",
+    "indexed",
+    "indexer",
+    "indexical",
+    "indexing",
+    "indexterity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/index.mp3",
+  "local_sound_path": "sounds/index.mp3"
+}

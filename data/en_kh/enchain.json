@@ -1,0 +1,52 @@
+{
+  "word": "enchain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24769.png",
+      "local_image_path": "images/24769.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24770.png",
+      "local_image_path": "images/24770.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119118.png",
+      "local_image_path": "images/119118.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119119.png",
+      "local_image_path": "images/119119.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119120.png",
+      "local_image_path": "images/119120.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119121.png",
+      "local_image_path": "images/119121.png"
+    }
+  ],
+  "synonyms": [
+    "enslave",
+    "bind",
+    "yoke"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enchain.mp3",
+  "local_sound_path": "sounds/enchain.mp3"
+}

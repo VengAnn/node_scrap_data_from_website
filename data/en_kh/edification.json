@@ -1,0 +1,38 @@
+{
+  "word": "edification",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I am telling you this simply for you \n\nedification.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23880.png",
+      "local_image_path": "images/23880.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118891.png",
+      "local_image_path": "images/118891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118892.png",
+      "local_image_path": "images/118892.png"
+    }
+  ],
+  "synonyms": [
+    "teaching",
+    "learning",
+    "schooling",
+    "instruction",
+    "culture"
+  ],
+  "antonyms": [
+    "obfuscation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/edification.mp3",
+  "local_sound_path": "sounds/edification.mp3"
+}

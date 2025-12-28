@@ -1,0 +1,30 @@
+{
+  "word": "learning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "great learning",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45535.png",
+      "local_image_path": "images/45535.png"
+    }
+  ],
+  "synonyms": [
+    "knowledge",
+    "education",
+    "erudition",
+    "scholarship",
+    "culture",
+    "wisdom"
+  ],
+  "antonyms": [
+    "ignorance"
+  ],
+  "similar_words": [
+    "learning disability",
+    "learning-disabled"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/learning.mp3",
+  "local_sound_path": "sounds/learning.mp3"
+}

@@ -1,0 +1,60 @@
+{
+  "word": "rash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70270.png",
+      "local_image_path": "images/70270.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126466.png",
+      "local_image_path": "images/126466.png"
+    },
+    {
+      "pos": "n",
+      "example": "skin rash",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70273.png",
+      "local_image_path": "images/70273.png"
+    },
+    {
+      "pos": "n",
+      "example": "rash of crimes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70274.png",
+      "local_image_path": "images/70274.png"
+    }
+  ],
+  "synonyms": [
+    "hasty",
+    "impulsive",
+    "reckless",
+    "impetuous",
+    "thoughtless",
+    "foolish",
+    "sudden",
+    "careless",
+    "imprudent",
+    "injudicious",
+    "reaction",
+    "itchiness",
+    "inflammation",
+    "irritation",
+    "eruption",
+    "hives"
+  ],
+  "antonyms": [
+    "sensible",
+    "incident"
+  ],
+  "similar_words": [
+    "rasher",
+    "rashly",
+    "rashness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rash.mp3",
+  "local_sound_path": "sounds/rash.mp3"
+}

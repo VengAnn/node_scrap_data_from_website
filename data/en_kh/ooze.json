@@ -1,0 +1,40 @@
+{
+  "word": "ooze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "liquids ooze through",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57679.png",
+      "local_image_path": "images/57679.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Blood is still oozing from the wound.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57680.png",
+      "local_image_path": "images/57680.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57681.png",
+      "local_image_path": "images/57681.png"
+    }
+  ],
+  "synonyms": [
+    "exude",
+    "seep",
+    "leach",
+    "leak",
+    "creep",
+    "trickle",
+    "drip",
+    "emerge",
+    "dribble"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ooze.mp3",
+  "local_sound_path": "sounds/ooze.mp3"
+}

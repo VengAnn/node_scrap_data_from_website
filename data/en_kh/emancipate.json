@@ -1,0 +1,33 @@
+{
+  "word": "emancipate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24394.png",
+      "local_image_path": "images/24394.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24401.png",
+      "local_image_path": "images/24401.png"
+    }
+  ],
+  "synonyms": [
+    "liberate",
+    "free",
+    "release",
+    "unshackle",
+    "unfetter",
+    "untie"
+  ],
+  "antonyms": [
+    "enslave"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emancipate.mp3",
+  "local_sound_path": "sounds/emancipate.mp3"
+}

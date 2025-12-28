@@ -1,0 +1,52 @@
+{
+  "word": "zip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101751.png",
+      "local_image_path": "images/101751.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101753.png",
+      "local_image_path": "images/101753.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101754.png",
+      "local_image_path": "images/101754.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101752.png",
+      "local_image_path": "images/101752.png"
+    }
+  ],
+  "synonyms": [
+    "nothing",
+    "zero",
+    "nil",
+    "whiz",
+    "zoom",
+    "rocket",
+    "burn",
+    "whoosh"
+  ],
+  "antonyms": [
+    "dawdle",
+    "apathy"
+  ],
+  "similar_words": [
+    "zip fastener",
+    "zipper",
+    "zippy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/zip.mp3",
+  "local_sound_path": "sounds/zip.mp3"
+}

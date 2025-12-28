@@ -1,0 +1,67 @@
+{
+  "word": "inflict",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The judge inflicted the death penalty on the criminal.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39757.png",
+      "local_image_path": "images/39757.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39758.png",
+      "local_image_path": "images/39758.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inflict on wound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39759.png",
+      "local_image_path": "images/39759.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inflict punishment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39760.png",
+      "local_image_path": "images/39760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122361.png",
+      "local_image_path": "images/122361.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122362.png",
+      "local_image_path": "images/122362.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122363.png",
+      "local_image_path": "images/122363.png"
+    }
+  ],
+  "synonyms": [
+    "impose",
+    "exact",
+    "wreak",
+    "cause",
+    "perpetrate",
+    "visit"
+  ],
+  "antonyms": [
+    "remove"
+  ],
+  "similar_words": [
+    "inflicter",
+    "infliction",
+    "inflictive"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inflict.mp3",
+  "local_sound_path": "sounds/inflict.mp3"
+}

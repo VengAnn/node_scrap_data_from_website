@@ -1,0 +1,29 @@
+{
+  "word": "sometime",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82632.png",
+      "local_image_path": "images/82632.png"
+    },
+    {
+      "pos": "adv",
+      "example": "sometime last week",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82631.png",
+      "local_image_path": "images/82631.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [
+    "current",
+    "never"
+  ],
+  "similar_words": [
+    "sometimes"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sometime.mp3",
+  "local_sound_path": "sounds/sometime.mp3"
+}

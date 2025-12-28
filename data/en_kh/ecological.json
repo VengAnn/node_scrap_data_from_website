@@ -1,0 +1,33 @@
+{
+  "word": "ecological",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23798.png",
+      "local_image_path": "images/23798.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23804.png",
+      "local_image_path": "images/23804.png"
+    }
+  ],
+  "synonyms": [
+    "conservation",
+    "environmental",
+    "green"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ecological accounting",
+    "ecological crisis",
+    "ecological zone",
+    "ecologically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ecological.mp3",
+  "local_sound_path": "sounds/ecological.mp3"
+}

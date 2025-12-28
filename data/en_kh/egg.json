@@ -1,0 +1,49 @@
+{
+  "word": "egg",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "chicken egg",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24029.png",
+      "local_image_path": "images/24029.png"
+    },
+    {
+      "pos": "sl",
+      "example": "good egg",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24030.png",
+      "local_image_path": "images/24030.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24031.png",
+      "local_image_path": "images/24031.png"
+    }
+  ],
+  "synonyms": [
+    "urge",
+    "incite",
+    "spur",
+    "drive",
+    "encourage",
+    "push",
+    "pressure"
+  ],
+  "antonyms": [
+    "dissuade"
+  ],
+  "similar_words": [
+    "egg head",
+    "egg muffin",
+    "egg-cup",
+    "egg-shell",
+    "eggplant",
+    "eggroll",
+    "eggtimer",
+    "eggwisk"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/egg.mp3",
+  "local_sound_path": "sounds/egg.mp3"
+}

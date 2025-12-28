@@ -1,0 +1,68 @@
+{
+  "word": "qualify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Education will qualify you for job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69381.png",
+      "local_image_path": "images/69381.png"
+    },
+    {
+      "pos": "tv",
+      "example": "qualify sb (for sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69382.png",
+      "local_image_path": "images/69382.png"
+    },
+    {
+      "pos": "tv",
+      "example": "qualify sth (as sth)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69383.png",
+      "local_image_path": "images/69383.png"
+    },
+    {
+      "pos": "tv",
+      "example": "qualify a bold statement",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69384.png",
+      "local_image_path": "images/69384.png"
+    },
+    {
+      "pos": "tv",
+      "example": "qualify for",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69385.png",
+      "local_image_path": "images/69385.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126338.png",
+      "local_image_path": "images/126338.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126339.png",
+      "local_image_path": "images/126339.png"
+    }
+  ],
+  "synonyms": [
+    "restrict",
+    "limit",
+    "moderate",
+    "temper",
+    "reduce",
+    "lessen",
+    "soften",
+    "modify"
+  ],
+  "antonyms": [
+    "fail"
+  ],
+  "similar_words": [
+    "qualify shares",
+    "qualifying period"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/qualify.mp3",
+  "local_sound_path": "sounds/qualify.mp3"
+}

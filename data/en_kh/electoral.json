@@ -1,0 +1,39 @@
+{
+  "word": "electoral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "electoral process",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24175.png",
+      "local_image_path": "images/24175.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118964.png",
+      "local_image_path": "images/118964.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118965.png",
+      "local_image_path": "images/118965.png"
+    }
+  ],
+  "synonyms": [
+    "democratic",
+    "election",
+    "polling"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "electoral defeat",
+    "electoral list",
+    "electoral procedure",
+    "electoral registration"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/electoral.mp3",
+  "local_sound_path": "sounds/electoral.mp3"
+}

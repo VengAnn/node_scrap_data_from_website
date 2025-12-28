@@ -1,0 +1,37 @@
+{
+  "word": "economical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "economical process",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23813.png",
+      "local_image_path": "images/23813.png"
+    },
+    {
+      "pos": "adj",
+      "example": "economical housewife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23814.png",
+      "local_image_path": "images/23814.png"
+    }
+  ],
+  "synonyms": [
+    "thrifty",
+    "careful",
+    "sparing",
+    "cautious",
+    "frugal",
+    "parsimonious"
+  ],
+  "antonyms": [
+    "expensive",
+    "wasteful",
+    "lavish"
+  ],
+  "similar_words": [
+    "economically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/economical.mp3",
+  "local_sound_path": "sounds/economical.mp3"
+}

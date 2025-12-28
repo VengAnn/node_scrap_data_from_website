@@ -1,0 +1,30 @@
+{
+  "word": "locomotive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47304.png",
+      "local_image_path": "images/47304.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47305.png",
+      "local_image_path": "images/47305.png"
+    }
+  ],
+  "synonyms": [
+    "train",
+    "engine"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "locomotively",
+    "locomotiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/locomotive.mp3",
+  "local_sound_path": "sounds/locomotive.mp3"
+}

@@ -1,0 +1,28 @@
+{
+  "word": "empress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24670.png",
+      "local_image_path": "images/24670.png"
+    }
+  ],
+  "synonyms": [
+    "ruler",
+    "sovereign",
+    "queen",
+    "monarch"
+  ],
+  "antonyms": [
+    "subject"
+  ],
+  "similar_words": [
+    "empress dowager",
+    "empressement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/empress.mp3",
+  "local_sound_path": "sounds/empress.mp3"
+}

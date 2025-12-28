@@ -1,0 +1,83 @@
+{
+  "word": "sand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "dry sand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75583.png",
+      "local_image_path": "images/75583.png"
+    },
+    {
+      "pos": "n",
+      "example": "The children are playing on the sands",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75584.png",
+      "local_image_path": "images/75584.png"
+    },
+    {
+      "pos": "n",
+      "example": "The sands are running out",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75585.png",
+      "local_image_path": "images/75585.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75586.png",
+      "local_image_path": "images/75586.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sand a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75587.png",
+      "local_image_path": "images/75587.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sand a spot of oil",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75588.png",
+      "local_image_path": "images/75588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/75589.png",
+      "local_image_path": "images/75589.png"
+    }
+  ],
+  "synonyms": [
+    "smooth",
+    "sandpaper",
+    "polish",
+    "rub",
+    "scrape"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sand bank",
+    "sand blind",
+    "sand-bar",
+    "sand-bed",
+    "sand-box",
+    "sand-cast",
+    "sand-casting",
+    "sand-castle",
+    "sand-crack",
+    "sand-crusher",
+    "sand-dune",
+    "sand-fly",
+    "sand-glass",
+    "sand-hill",
+    "sand-ling",
+    "sand-pump",
+    "sand-shinger",
+    "sand-shoes",
+    "sand-spout",
+    "sand-storm",
+    "sand-table",
+    "sand-trap"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sand.mp3",
+  "local_sound_path": "sounds/sand.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "working",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "working day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100930.png",
+      "local_image_path": "images/100930.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100931.png",
+      "local_image_path": "images/100931.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100932.png",
+      "local_image_path": "images/100932.png"
+    }
+  ],
+  "synonyms": [
+    "operational",
+    "effective",
+    "running",
+    "succeeding",
+    "thriving"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "working capital",
+    "working class",
+    "working day",
+    "working days",
+    "working expenses",
+    "working group",
+    "working hour",
+    "working man",
+    "working paper",
+    "working party",
+    "working woman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/working.mp3",
+  "local_sound_path": "sounds/working.mp3"
+}

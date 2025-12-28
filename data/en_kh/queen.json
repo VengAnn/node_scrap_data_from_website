@@ -1,0 +1,47 @@
+{
+  "word": "queen",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69484.png",
+      "local_image_path": "images/69484.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126352.png",
+      "local_image_path": "images/126352.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126353.png",
+      "local_image_path": "images/126353.png"
+    }
+  ],
+  "synonyms": [
+    "ruler",
+    "sovereign",
+    "emperor",
+    "king",
+    "icon",
+    "ideal",
+    "star",
+    "epitome",
+    "model"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "queen anglefish",
+    "queen fish",
+    "queen mother",
+    "queen ship",
+    "queen trigger",
+    "queenly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/queen.mp3",
+  "local_sound_path": "sounds/queen.mp3"
+}

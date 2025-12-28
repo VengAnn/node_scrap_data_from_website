@@ -1,0 +1,39 @@
+{
+  "word": "logic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47382.png",
+      "local_image_path": "images/47382.png"
+    }
+  ],
+  "synonyms": [
+    "reason",
+    "judgment",
+    "sense",
+    "common sense",
+    "lucidity",
+    "reasoning",
+    "rationality",
+    "sensibleness",
+    "soundness"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "logical",
+    "logicality",
+    "logicalize",
+    "logically",
+    "logicalness",
+    "logicaster",
+    "logician",
+    "logicianer",
+    "logicity",
+    "logicize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/logic.mp3",
+  "local_sound_path": "sounds/logic.mp3"
+}

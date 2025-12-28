@@ -1,0 +1,31 @@
+{
+  "word": "ensign",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "military ensign",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25221.png",
+      "local_image_path": "images/25221.png"
+    },
+    {
+      "pos": "n",
+      "example": "naval ensign",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25222.png",
+      "local_image_path": "images/25222.png"
+    }
+  ],
+  "synonyms": [
+    "flag",
+    "standard",
+    "pennant",
+    "banner",
+    "emblem",
+    "badge"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ensign.mp3",
+  "local_sound_path": "sounds/ensign.mp3"
+}

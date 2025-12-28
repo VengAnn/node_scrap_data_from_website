@@ -1,0 +1,66 @@
+{
+  "word": "whole",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "a whole day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100169.png",
+      "local_image_path": "images/100169.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I want to know the whole truth about this matter.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100170.png",
+      "local_image_path": "images/100170.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100171.png",
+      "local_image_path": "images/100171.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100172.png",
+      "local_image_path": "images/100172.png"
+    },
+    {
+      "pos": "n",
+      "example": "take the whole of the group",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100173.png",
+      "local_image_path": "images/100173.png"
+    }
+  ],
+  "synonyms": [
+    "entirety",
+    "totality",
+    "unity",
+    "everything",
+    "all"
+  ],
+  "antonyms": [
+    "partial",
+    "broken",
+    "unhealthy",
+    "ill",
+    "part"
+  ],
+  "similar_words": [
+    "whole minded",
+    "whole-hearted",
+    "whole-length",
+    "whole-time",
+    "whole-timer",
+    "wholeness",
+    "wholesale",
+    "wholesaler",
+    "wholesome",
+    "wholesomely",
+    "wholesomeness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whole.mp3",
+  "local_sound_path": "sounds/whole.mp3"
+}

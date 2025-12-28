@@ -1,0 +1,65 @@
+{
+  "word": "strap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "leather strap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85229.png",
+      "local_image_path": "images/85229.png"
+    },
+    {
+      "pos": "n",
+      "example": "shoulder strap",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85230.png",
+      "local_image_path": "images/85230.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85231.png",
+      "local_image_path": "images/85231.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strap a pack on his back",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85232.png",
+      "local_image_path": "images/85232.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strap a razor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85233.png",
+      "local_image_path": "images/85233.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strap a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85234.png",
+      "local_image_path": "images/85234.png"
+    },
+    {
+      "pos": "tv",
+      "example": "strapped for money",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85235.png",
+      "local_image_path": "images/85235.png"
+    }
+  ],
+  "synonyms": [
+    "belt",
+    "secure",
+    "buckle",
+    "tie",
+    "bind",
+    "fasten",
+    "lash"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "strap hanger",
+    "strapping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/strap.mp3",
+  "local_sound_path": "sounds/strap.mp3"
+}

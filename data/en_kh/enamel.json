@@ -1,0 +1,33 @@
+{
+  "word": "enamel",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24723.png",
+      "local_image_path": "images/24723.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24724.png",
+      "local_image_path": "images/24724.png"
+    }
+  ],
+  "synonyms": [
+    "coat",
+    "paint",
+    "cover",
+    "protect",
+    "dip",
+    "glaze"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "enamellar"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enamel.mp3",
+  "local_sound_path": "sounds/enamel.mp3"
+}

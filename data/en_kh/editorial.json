@@ -1,0 +1,38 @@
+{
+  "word": "editorial",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23895.png",
+      "local_image_path": "images/23895.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23896.png",
+      "local_image_path": "images/23896.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23894.png",
+      "local_image_path": "images/23894.png"
+    }
+  ],
+  "synonyms": [
+    "leader",
+    "viewpoint",
+    "perspective",
+    "essay",
+    "commentary",
+    "exposition",
+    "article"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/editorial.mp3",
+  "local_sound_path": "sounds/editorial.mp3"
+}

@@ -1,0 +1,37 @@
+{
+  "word": "editor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "chief editor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23892.png",
+      "local_image_path": "images/23892.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118897.png",
+      "local_image_path": "images/118897.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132114.png",
+      "local_image_path": "images/132114.png"
+    }
+  ],
+  "synonyms": [
+    "corrector",
+    "cutter",
+    "checker"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "editorial",
+    "editorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/editor.mp3",
+  "local_sound_path": "sounds/editor.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "knowledge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "gain knowledge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44190.png",
+      "local_image_path": "images/44190.png"
+    },
+    {
+      "pos": "n",
+      "example": "without his knowledge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/44191.png",
+      "local_image_path": "images/44191.png"
+    }
+  ],
+  "synonyms": [
+    "wisdom",
+    "learning",
+    "education",
+    "intelligence",
+    "erudition"
+  ],
+  "antonyms": [
+    "ignorance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/knowledge.mp3",
+  "local_sound_path": "sounds/knowledge.mp3"
+}

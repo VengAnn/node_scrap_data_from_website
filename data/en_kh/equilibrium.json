@@ -1,0 +1,44 @@
+{
+  "word": "equilibrium",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25646.png",
+      "local_image_path": "images/25646.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119354.png",
+      "local_image_path": "images/119354.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119355.png",
+      "local_image_path": "images/119355.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119356.png",
+      "local_image_path": "images/119356.png"
+    }
+  ],
+  "synonyms": [
+    "balance",
+    "symmetry",
+    "stability",
+    "steadiness",
+    "equipoise"
+  ],
+  "antonyms": [
+    "imbalance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equilibrium.mp3",
+  "local_sound_path": "sounds/equilibrium.mp3"
+}

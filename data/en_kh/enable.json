@@ -1,0 +1,42 @@
+{
+  "word": "enable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The conference will enable greater international \n\ncooperation.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24715.png",
+      "local_image_path": "images/24715.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119105.png",
+      "local_image_path": "images/119105.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119106.png",
+      "local_image_path": "images/119106.png"
+    }
+  ],
+  "synonyms": [
+    "allow",
+    "facilitate",
+    "permit",
+    "empower",
+    "qualify",
+    "aid",
+    "assist",
+    "support",
+    "authorize"
+  ],
+  "antonyms": [
+    "prevent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enable.mp3",
+  "local_sound_path": "sounds/enable.mp3"
+}

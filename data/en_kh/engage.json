@@ -1,0 +1,82 @@
+{
+  "word": "engage",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25006.png",
+      "local_image_path": "images/25006.png"
+    },
+    {
+      "pos": "iv",
+      "example": "engage in",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25005.png",
+      "local_image_path": "images/25005.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24999.png",
+      "local_image_path": "images/24999.png"
+    },
+    {
+      "pos": "tv",
+      "example": "engage him in conversation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25000.png",
+      "local_image_path": "images/25000.png"
+    },
+    {
+      "pos": "tv",
+      "example": "engage the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25001.png",
+      "local_image_path": "images/25001.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He has been engaged to decorate the house.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25002.png",
+      "local_image_path": "images/25002.png"
+    },
+    {
+      "pos": "tv",
+      "example": "engage his attention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25003.png",
+      "local_image_path": "images/25003.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25004.png",
+      "local_image_path": "images/25004.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131090.png",
+      "local_image_path": "images/131090.png"
+    }
+  ],
+  "synonyms": [
+    "hold",
+    "keep",
+    "absorb",
+    "connect",
+    "interlock",
+    "join",
+    "mesh"
+  ],
+  "antonyms": [
+    "dismiss",
+    "repel",
+    "disengage"
+  ],
+  "similar_words": [
+    "engaged",
+    "engagement",
+    "engager"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/engage.mp3",
+  "local_sound_path": "sounds/engage.mp3"
+}

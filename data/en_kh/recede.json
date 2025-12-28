@@ -1,0 +1,54 @@
+{
+  "word": "recede",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70702.png",
+      "local_image_path": "images/70702.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Water will recede soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70703.png",
+      "local_image_path": "images/70703.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70704.png",
+      "local_image_path": "images/70704.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70705.png",
+      "local_image_path": "images/70705.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70706.png",
+      "local_image_path": "images/70706.png"
+    }
+  ],
+  "synonyms": [
+    "diminish",
+    "lessen",
+    "decline",
+    "wane",
+    "fade",
+    "dwindle",
+    "decrease",
+    "abate"
+  ],
+  "antonyms": [
+    "advance",
+    "increase"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recede.mp3",
+  "local_sound_path": "sounds/recede.mp3"
+}

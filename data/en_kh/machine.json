@@ -1,0 +1,57 @@
+{
+  "word": "machine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/104993.png",
+      "local_image_path": "images/104993.png"
+    },
+    {
+      "pos": "n",
+      "example": "political machine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/104994.png",
+      "local_image_path": "images/104994.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131688.png",
+      "local_image_path": "images/131688.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/104995.png",
+      "local_image_path": "images/104995.png"
+    }
+  ],
+  "synonyms": [
+    "automaton",
+    "robot",
+    "zombie",
+    "android"
+  ],
+  "antonyms": [
+    "person"
+  ],
+  "similar_words": [
+    "machine code",
+    "machine gun",
+    "machine language",
+    "machine man",
+    "machine operator",
+    "machine tools",
+    "machine work",
+    "machine-down time",
+    "machine-gun",
+    "machine-made",
+    "machinely",
+    "machiner",
+    "machinery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/machine.mp3",
+  "local_sound_path": "sounds/machine.mp3"
+}

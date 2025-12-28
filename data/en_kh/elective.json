@@ -1,0 +1,62 @@
+{
+  "word": "elective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elective process",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24166.png",
+      "local_image_path": "images/24166.png"
+    },
+    {
+      "pos": "adj",
+      "example": "elective president",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24167.png",
+      "local_image_path": "images/24167.png"
+    },
+    {
+      "pos": "adj",
+      "example": "elective course",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24168.png",
+      "local_image_path": "images/24168.png"
+    },
+    {
+      "pos": "n",
+      "example": "She is taking French as an elective.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24169.png",
+      "local_image_path": "images/24169.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130281.png",
+      "local_image_path": "images/130281.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130282.png",
+      "local_image_path": "images/130282.png"
+    }
+  ],
+  "synonyms": [
+    "optional",
+    "voluntary",
+    "discretionary",
+    "possible",
+    "free",
+    "selective"
+  ],
+  "antonyms": [
+    "compulsory",
+    "appointed"
+  ],
+  "similar_words": [
+    "elective monarchy",
+    "electively",
+    "electiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elective.mp3",
+  "local_sound_path": "sounds/elective.mp3"
+}

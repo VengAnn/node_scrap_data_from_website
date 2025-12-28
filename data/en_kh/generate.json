@@ -1,0 +1,34 @@
+{
+  "word": "generate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "generate electricity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31388.png",
+      "local_image_path": "images/31388.png"
+    },
+    {
+      "pos": "tv",
+      "example": "generate enthusiasm",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31389.png",
+      "local_image_path": "images/31389.png"
+    }
+  ],
+  "synonyms": [
+    "make",
+    "produce",
+    "create",
+    "cause",
+    "engender",
+    "spawn",
+    "breed"
+  ],
+  "antonyms": [
+    "prevent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/generate.mp3",
+  "local_sound_path": "sounds/generate.mp3"
+}

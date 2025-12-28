@@ -1,0 +1,34 @@
+{
+  "word": "radiation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "radiation of heat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69824.png",
+      "local_image_path": "images/69824.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69825.png",
+      "local_image_path": "images/69825.png"
+    },
+    {
+      "pos": "n",
+      "example": "emit radiation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69826.png",
+      "local_image_path": "images/69826.png"
+    }
+  ],
+  "synonyms": [
+    "emission",
+    "energy",
+    "heat"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/radiation.mp3",
+  "local_sound_path": "sounds/radiation.mp3"
+}

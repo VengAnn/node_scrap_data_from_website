@@ -1,0 +1,36 @@
+{
+  "word": "synthetic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "synthetic rubber",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87060.png",
+      "local_image_path": "images/87060.png"
+    },
+    {
+      "pos": "adj",
+      "example": "synthetic compound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87061.png",
+      "local_image_path": "images/87061.png"
+    }
+  ],
+  "synonyms": [
+    "insincere",
+    "sham",
+    "bogus",
+    "phony"
+  ],
+  "antonyms": [
+    "real",
+    "genuine"
+  ],
+  "similar_words": [
+    "synthetic biology",
+    "synthetic hormone",
+    "synthetic medicine"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/synthetic.mp3",
+  "local_sound_path": "sounds/synthetic.mp3"
+}

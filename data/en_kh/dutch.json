@@ -1,0 +1,34 @@
+{
+  "word": "Dutch",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Dutch nationality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23507.png",
+      "local_image_path": "images/23507.png"
+    },
+    {
+      "pos": "idm",
+      "example": "go Dutch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23508.png",
+      "local_image_path": "images/23508.png"
+    },
+    {
+      "pos": "idm",
+      "example": "get in Dutch with",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23509.png",
+      "local_image_path": "images/23509.png"
+    },
+    {
+      "pos": "n",
+      "example": "speak Dutch",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23510.png",
+      "local_image_path": "images/23510.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null
+}

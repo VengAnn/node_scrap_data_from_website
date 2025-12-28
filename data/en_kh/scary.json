@@ -1,0 +1,29 @@
+{
+  "word": "scary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76486.png",
+      "local_image_path": "images/76486.png"
+    }
+  ],
+  "synonyms": [
+    "creepy",
+    "chilling",
+    "terrifying",
+    "daunting",
+    "forbidding",
+    "startling",
+    "alarming",
+    "worrying"
+  ],
+  "antonyms": [
+    "reassuring"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scary.mp3",
+  "local_sound_path": "sounds/scary.mp3"
+}

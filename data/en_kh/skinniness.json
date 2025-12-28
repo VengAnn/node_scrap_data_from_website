@@ -1,0 +1,33 @@
+{
+  "word": "skinniness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80791.png",
+      "local_image_path": "images/80791.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80792.png",
+      "local_image_path": "images/80792.png"
+    }
+  ],
+  "synonyms": [
+    "thinness",
+    "slimness",
+    "fineness",
+    "slenderness"
+  ],
+  "antonyms": [
+    "stoutness",
+    "plumpness",
+    "thickness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/skinniness.mp3",
+  "local_sound_path": "sounds/skinniness.mp3"
+}

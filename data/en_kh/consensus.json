@@ -1,0 +1,51 @@
+{
+  "word": "consensus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "the two parties have reached a consensus",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16958.png",
+      "local_image_path": "images/16958.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117295.png",
+      "local_image_path": "images/117295.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117296.png",
+      "local_image_path": "images/117296.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117297.png",
+      "local_image_path": "images/117297.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117298.png",
+      "local_image_path": "images/117298.png"
+    }
+  ],
+  "synonyms": [
+    "agreement",
+    "accord",
+    "harmony",
+    "compromise",
+    "consent",
+    "unanimity"
+  ],
+  "antonyms": [
+    "disagreement"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/consensus.mp3",
+  "local_sound_path": "sounds/consensus.mp3"
+}

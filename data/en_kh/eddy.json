@@ -1,0 +1,43 @@
+{
+  "word": "eddy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23851.png",
+      "local_image_path": "images/23851.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23850.png",
+      "local_image_path": "images/23850.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118888.png",
+      "local_image_path": "images/118888.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118889.png",
+      "local_image_path": "images/118889.png"
+    }
+  ],
+  "synonyms": [
+    "whirlpool",
+    "vortex",
+    "current",
+    "swirl",
+    "whirl",
+    "maelstrom"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eddy.mp3",
+  "local_sound_path": "sounds/eddy.mp3"
+}

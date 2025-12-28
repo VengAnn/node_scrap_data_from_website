@@ -1,0 +1,41 @@
+{
+  "word": "ensuing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25241.png",
+      "local_image_path": "images/25241.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119235.png",
+      "local_image_path": "images/119235.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119236.png",
+      "local_image_path": "images/119236.png"
+    }
+  ],
+  "synonyms": [
+    "resulting",
+    "resultant",
+    "consequent",
+    "following",
+    "subsequent",
+    "proceeding",
+    "developing",
+    "stemming"
+  ],
+  "antonyms": [
+    "preceding"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ensuing.mp3",
+  "local_sound_path": "sounds/ensuing.mp3"
+}

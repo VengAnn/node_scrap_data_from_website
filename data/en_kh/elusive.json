@@ -1,0 +1,48 @@
+{
+  "word": "elusive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elusive criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24374.png",
+      "local_image_path": "images/24374.png"
+    },
+    {
+      "pos": "adj",
+      "example": "elusive concept",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24375.png",
+      "local_image_path": "images/24375.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119018.png",
+      "local_image_path": "images/119018.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119019.png",
+      "local_image_path": "images/119019.png"
+    }
+  ],
+  "synonyms": [
+    "indefinable",
+    "subtle",
+    "intangible",
+    "vague",
+    "indescribable",
+    "mysterious",
+    "obscure",
+    "abstract",
+    "tenuous"
+  ],
+  "antonyms": [
+    "obvious"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elusive.mp3",
+  "local_sound_path": "sounds/elusive.mp3"
+}

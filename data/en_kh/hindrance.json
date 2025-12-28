@@ -1,0 +1,48 @@
+{
+  "word": "hindrance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35253.png",
+      "local_image_path": "images/35253.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121120.png",
+      "local_image_path": "images/121120.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121121.png",
+      "local_image_path": "images/121121.png"
+    }
+  ],
+  "synonyms": [
+    "interference",
+    "interruption",
+    "burden",
+    "deterrent",
+    "difficulty",
+    "limitation",
+    "prevention",
+    "stoppage",
+    "sabotage",
+    "obstruction",
+    "impediment",
+    "barrier",
+    "obstacle",
+    "encumbrance"
+  ],
+  "antonyms": [
+    "help",
+    "assistance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hindrance.mp3",
+  "local_sound_path": "sounds/hindrance.mp3"
+}

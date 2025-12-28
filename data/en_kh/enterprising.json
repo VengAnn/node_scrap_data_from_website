@@ -1,0 +1,41 @@
+{
+  "word": "enterprising",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "It is great you are enterprising today.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25275.png",
+      "local_image_path": "images/25275.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119250.png",
+      "local_image_path": "images/119250.png"
+    }
+  ],
+  "synonyms": [
+    "innovative",
+    "inventive",
+    "creative",
+    "imaginative",
+    "resourceful",
+    "adventurous",
+    "ingenious",
+    "intrepid",
+    "original",
+    "go-ahead",
+    "bold"
+  ],
+  "antonyms": [
+    "unadventurous"
+  ],
+  "similar_words": [
+    "enterprising management",
+    "enterprisingly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enterprising.mp3",
+  "local_sound_path": "sounds/enterprising.mp3"
+}

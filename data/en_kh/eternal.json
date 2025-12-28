@@ -1,0 +1,50 @@
+{
+  "word": "eternal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25979.png",
+      "local_image_path": "images/25979.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I am tired of your eternal arguments.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25980.png",
+      "local_image_path": "images/25980.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25981.png",
+      "local_image_path": "images/25981.png"
+    }
+  ],
+  "synonyms": [
+    "everlasting",
+    "undying",
+    "unending",
+    "never-ending",
+    "perpetual",
+    "endless",
+    "ceaseless",
+    "timeless",
+    "interminable",
+    "infinite",
+    "immortal"
+  ],
+  "antonyms": [
+    "temporary",
+    "transient"
+  ],
+  "similar_words": [
+    "eternality",
+    "eternalize",
+    "eternally",
+    "eternalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eternal.mp3",
+  "local_sound_path": "sounds/eternal.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "horsy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "horsy crowd",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36014.png",
+      "local_image_path": "images/36014.png"
+    },
+    {
+      "pos": "adj",
+      "example": "horsy woman",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/36015.png",
+      "local_image_path": "images/36015.png"
+    }
+  ],
+  "synonyms": [
+    "equine",
+    "equestrian"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/horsy.mp3",
+  "local_sound_path": "sounds/horsy.mp3"
+}

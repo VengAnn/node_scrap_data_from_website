@@ -1,0 +1,39 @@
+{
+  "word": "inaugurate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38194.png",
+      "local_image_path": "images/38194.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inaugurate a new president",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38195.png",
+      "local_image_path": "images/38195.png"
+    },
+    {
+      "pos": "tv",
+      "example": "inaugurate new train service",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38196.png",
+      "local_image_path": "images/38196.png"
+    }
+  ],
+  "synonyms": [
+    "establish",
+    "create",
+    "introduce",
+    "initiate"
+  ],
+  "antonyms": [
+    "close",
+    "terminate",
+    "dismiss"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inaugurate.mp3",
+  "local_sound_path": "sounds/inaugurate.mp3"
+}

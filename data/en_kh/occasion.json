@@ -1,0 +1,34 @@
+{
+  "word": "occasion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "take this occasion to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57069.png",
+      "local_image_path": "images/57069.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57070.png",
+      "local_image_path": "images/57070.png"
+    }
+  ],
+  "synonyms": [
+    "cause",
+    "motivate",
+    "induce",
+    "prompt",
+    "elicit",
+    "effect"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "occasional",
+    "occasionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/occasion.mp3",
+  "local_sound_path": "sounds/occasion.mp3"
+}

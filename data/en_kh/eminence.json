@@ -1,0 +1,33 @@
+{
+  "word": "eminence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "scholar of great eminence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24581.png",
+      "local_image_path": "images/24581.png"
+    },
+    {
+      "pos": "n",
+      "example": "build on an eminence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24582.png",
+      "local_image_path": "images/24582.png"
+    }
+  ],
+  "synonyms": [
+    "distinction",
+    "renown",
+    "reputation",
+    "fame",
+    "importance",
+    "prominence"
+  ],
+  "antonyms": [
+    "anonymity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eminence.mp3",
+  "local_sound_path": "sounds/eminence.mp3"
+}

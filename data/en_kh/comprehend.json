@@ -1,0 +1,56 @@
+{
+  "word": "comprehend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I can't comprehend how you could have been so stupid",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16319.png",
+      "local_image_path": "images/16319.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116937.png",
+      "local_image_path": "images/116937.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116938.png",
+      "local_image_path": "images/116938.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116939.png",
+      "local_image_path": "images/116939.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116940.png",
+      "local_image_path": "images/116940.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116941.png",
+      "local_image_path": "images/116941.png"
+    }
+  ],
+  "synonyms": [
+    "understand",
+    "know",
+    "realize",
+    "grasp",
+    "get",
+    "follow",
+    "twig"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comprehend.mp3",
+  "local_sound_path": "sounds/comprehend.mp3"
+}

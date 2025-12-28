@@ -1,0 +1,49 @@
+{
+  "word": "erasure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25704.png",
+      "local_image_path": "images/25704.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25705.png",
+      "local_image_path": "images/25705.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130304.png",
+      "local_image_path": "images/130304.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130305.png",
+      "local_image_path": "images/130305.png"
+    }
+  ],
+  "synonyms": [
+    "removal",
+    "cut",
+    "cutting",
+    "deletion",
+    "expurgation",
+    "elimination",
+    "destruction",
+    "eradication",
+    "obliteration"
+  ],
+  "antonyms": [
+    "addition",
+    "insertion"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erasure.mp3",
+  "local_sound_path": "sounds/erasure.mp3"
+}

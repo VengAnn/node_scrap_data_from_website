@@ -1,0 +1,36 @@
+{
+  "word": "elopement",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24352.png",
+      "local_image_path": "images/24352.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119007.png",
+      "local_image_path": "images/119007.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119008.png",
+      "local_image_path": "images/119008.png"
+    }
+  ],
+  "synonyms": [
+    "flight",
+    "escape",
+    "desertion",
+    "truancy",
+    "departure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elopement.mp3",
+  "local_sound_path": "sounds/elopement.mp3"
+}

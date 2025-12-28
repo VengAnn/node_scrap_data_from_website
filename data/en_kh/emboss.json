@@ -1,0 +1,28 @@
+{
+  "word": "emboss",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24488.png",
+      "local_image_path": "images/24488.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119055.png",
+      "local_image_path": "images/119055.png"
+    }
+  ],
+  "synonyms": [
+    "adorn",
+    "embellish",
+    "decorate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emboss.mp3",
+  "local_sound_path": "sounds/emboss.mp3"
+}

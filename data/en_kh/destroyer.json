@@ -1,0 +1,35 @@
+{
+  "word": "destroyer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20946.png",
+      "local_image_path": "images/20946.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118153.png",
+      "local_image_path": "images/118153.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118154.png",
+      "local_image_path": "images/118154.png"
+    }
+  ],
+  "synonyms": [
+    "killer",
+    "slayer"
+  ],
+  "antonyms": [
+    "creator"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/destroyer.mp3",
+  "local_sound_path": "sounds/destroyer.mp3"
+}

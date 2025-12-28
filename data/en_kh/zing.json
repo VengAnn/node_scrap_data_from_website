@@ -1,0 +1,30 @@
+{
+  "word": "zing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "You need to put more zing into your playing",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101740.png",
+      "local_image_path": "images/101740.png"
+    }
+  ],
+  "synonyms": [
+    "vitality",
+    "dynamism",
+    "energy",
+    "punch",
+    "vigor"
+  ],
+  "antonyms": [
+    "apathy",
+    "lifelessness"
+  ],
+  "similar_words": [
+    "zingel",
+    "zingiberaceous"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/zing.mp3",
+  "local_sound_path": "sounds/zing.mp3"
+}

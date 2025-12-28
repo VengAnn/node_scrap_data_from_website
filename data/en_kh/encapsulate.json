@@ -1,0 +1,43 @@
+{
+  "word": "encapsulate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "encapsulate scens form his childhood.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24744.png",
+      "local_image_path": "images/24744.png"
+    },
+    {
+      "pos": "tv",
+      "example": "encapsulate the view of the committee",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24745.png",
+      "local_image_path": "images/24745.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119113.png",
+      "local_image_path": "images/119113.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119114.png",
+      "local_image_path": "images/119114.png"
+    }
+  ],
+  "synonyms": [
+    "summarize",
+    "condense",
+    "capture",
+    "compress"
+  ],
+  "antonyms": [
+    "expand"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encapsulate.mp3",
+  "local_sound_path": "sounds/encapsulate.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "jeopardize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The soldier jeopardized his life to save his comrade.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42898.png",
+      "local_image_path": "images/42898.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123092.png",
+      "local_image_path": "images/123092.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123093.png",
+      "local_image_path": "images/123093.png"
+    }
+  ],
+  "synonyms": [
+    "risk",
+    "endanger",
+    "expose"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jeopardize.mp3",
+  "local_sound_path": "sounds/jeopardize.mp3"
+}

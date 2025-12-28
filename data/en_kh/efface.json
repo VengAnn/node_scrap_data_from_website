@@ -1,0 +1,32 @@
+{
+  "word": "efface",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "efface a memory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23926.png",
+      "local_image_path": "images/23926.png"
+    },
+    {
+      "pos": "tv",
+      "example": "efface oneself",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23927.png",
+      "local_image_path": "images/23927.png"
+    }
+  ],
+  "synonyms": [
+    "obliterate",
+    "eradicate",
+    "destroy",
+    "erode",
+    "delete"
+  ],
+  "antonyms": [
+    "engrave"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/efface.mp3",
+  "local_sound_path": "sounds/efface.mp3"
+}

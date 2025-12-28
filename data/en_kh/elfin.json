@@ -1,0 +1,35 @@
+{
+  "word": "elfin",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24302.png",
+      "local_image_path": "images/24302.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118988.png",
+      "local_image_path": "images/118988.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118989.png",
+      "local_image_path": "images/118989.png"
+    }
+  ],
+  "synonyms": [
+    "petite",
+    "dainty",
+    "tiny",
+    "fragile"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elfin.mp3",
+  "local_sound_path": "sounds/elfin.mp3"
+}

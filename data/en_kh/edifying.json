@@ -1,0 +1,31 @@
+{
+  "word": "edifying",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "edifying book",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23885.png",
+      "local_image_path": "images/23885.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23886.png",
+      "local_image_path": "images/23886.png"
+    }
+  ],
+  "synonyms": [
+    "educational",
+    "artistic",
+    "literary",
+    "intellectual",
+    "improving",
+    "teaching"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/edifying.mp3",
+  "local_sound_path": "sounds/edifying.mp3"
+}

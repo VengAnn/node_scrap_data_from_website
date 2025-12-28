@@ -1,0 +1,51 @@
+{
+  "word": "motif",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110602.png",
+      "local_image_path": "images/110602.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110603.png",
+      "local_image_path": "images/110603.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124333.png",
+      "local_image_path": "images/124333.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130550.png",
+      "local_image_path": "images/130550.png"
+    }
+  ],
+  "synonyms": [
+    "theme",
+    "idea",
+    "subject",
+    "topic",
+    "design",
+    "pattern",
+    "image",
+    "decoration",
+    "shape",
+    "ornamentation",
+    "logo"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "motiff",
+    "motific"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/motif.mp3",
+  "local_sound_path": "sounds/motif.mp3"
+}

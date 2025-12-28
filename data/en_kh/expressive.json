@@ -1,0 +1,33 @@
+{
+  "word": "expressive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26929.png",
+      "local_image_path": "images/26929.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119727.png",
+      "local_image_path": "images/119727.png"
+    }
+  ],
+  "synonyms": [
+    "representative",
+    "indicative"
+  ],
+  "antonyms": [
+    "impassive",
+    "secretive"
+  ],
+  "similar_words": [
+    "expressively",
+    "expressiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/expressive.mp3",
+  "local_sound_path": "sounds/expressive.mp3"
+}

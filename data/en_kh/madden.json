@@ -1,0 +1,40 @@
+{
+  "word": "madden",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105138.png",
+      "local_image_path": "images/105138.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105137.png",
+      "local_image_path": "images/105137.png"
+    }
+  ],
+  "synonyms": [
+    "infuriate",
+    "enrage",
+    "annoy",
+    "anger",
+    "irritate",
+    "exasperate",
+    "frustrate",
+    "gall",
+    "rile"
+  ],
+  "antonyms": [
+    "pacify"
+  ],
+  "similar_words": [
+    "maddening",
+    "maddeningly",
+    "maddeningness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/madden.mp3",
+  "local_sound_path": "sounds/madden.mp3"
+}

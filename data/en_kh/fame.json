@@ -1,0 +1,32 @@
+{
+  "word": "fame",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The young musician rose quickly to fame.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27531.png",
+      "local_image_path": "images/27531.png"
+    }
+  ],
+  "synonyms": [
+    "celebrity",
+    "renown",
+    "reputation",
+    "distinction",
+    "recognition",
+    "eminence",
+    "prominence",
+    "notoriety",
+    "infamy",
+    "legend",
+    "myth"
+  ],
+  "antonyms": [
+    "obscurity"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fame.mp3",
+  "local_sound_path": "sounds/fame.mp3"
+}

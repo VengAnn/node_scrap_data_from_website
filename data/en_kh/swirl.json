@@ -1,0 +1,36 @@
+{
+  "word": "swirl",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "heads swirl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86907.png",
+      "local_image_path": "images/86907.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86909.png",
+      "local_image_path": "images/86909.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86908.png",
+      "local_image_path": "images/86908.png"
+    }
+  ],
+  "synonyms": [
+    "twirl",
+    "whirl",
+    "spin",
+    "eddy",
+    "churn"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/swirl.mp3",
+  "local_sound_path": "sounds/swirl.mp3"
+}

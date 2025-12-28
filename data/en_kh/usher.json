@@ -1,0 +1,51 @@
+{
+  "word": "usher",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96920.png",
+      "local_image_path": "images/96920.png"
+    },
+    {
+      "pos": "n",
+      "example": "theater usher",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96918.png",
+      "local_image_path": "images/96918.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96919.png",
+      "local_image_path": "images/96919.png"
+    },
+    {
+      "pos": "tv",
+      "example": "usher someone to this seat",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96921.png",
+      "local_image_path": "images/96921.png"
+    }
+  ],
+  "synonyms": [
+    "attendant",
+    "escort",
+    "guide",
+    "accompany",
+    "shepherd",
+    "steer",
+    "pilot",
+    "help",
+    "lead",
+    "marshal",
+    "conduct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "usheress",
+    "usherette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/usher.mp3",
+  "local_sound_path": "sounds/usher.mp3"
+}

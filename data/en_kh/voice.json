@@ -1,0 +1,56 @@
+{
+  "word": "voice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He is not in good voice.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98461.png",
+      "local_image_path": "images/98461.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98462.png",
+      "local_image_path": "images/98462.png"
+    },
+    {
+      "pos": "tv",
+      "example": "The spokesman voiced the feelings of the crowd.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98463.png",
+      "local_image_path": "images/98463.png"
+    },
+    {
+      "pos": "tv",
+      "example": "voice a consonant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98464.png",
+      "local_image_path": "images/98464.png"
+    }
+  ],
+  "synonyms": [
+    "articulate",
+    "utter",
+    "assert",
+    "declare",
+    "express",
+    "pronounce",
+    "state",
+    "proclaim",
+    "enunciate",
+    "opine"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "voice production",
+    "voice-over",
+    "voiced",
+    "voiceful",
+    "voicefulness",
+    "voiceless",
+    "voicelessly",
+    "voicelessness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/voice.mp3",
+  "local_sound_path": "sounds/voice.mp3"
+}

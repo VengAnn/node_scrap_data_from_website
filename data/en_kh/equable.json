@@ -1,0 +1,38 @@
+{
+  "word": "equable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "equable climate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25602.png",
+      "local_image_path": "images/25602.png"
+    },
+    {
+      "pos": "adj",
+      "example": "equable person",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25603.png",
+      "local_image_path": "images/25603.png"
+    }
+  ],
+  "synonyms": [
+    "composed",
+    "calm",
+    "unflappable",
+    "placid",
+    "easygoing",
+    "phlegmatic",
+    "serene",
+    "tranquil",
+    "dispassionate"
+  ],
+  "antonyms": [
+    "jumpy"
+  ],
+  "similar_words": [
+    "equableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equable.mp3",
+  "local_sound_path": "sounds/equable.mp3"
+}

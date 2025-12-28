@@ -1,0 +1,51 @@
+{
+  "word": "fitness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28770.png",
+      "local_image_path": "images/28770.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120185.png",
+      "local_image_path": "images/120185.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120186.png",
+      "local_image_path": "images/120186.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120187.png",
+      "local_image_path": "images/120187.png"
+    }
+  ],
+  "synonyms": [
+    "appropriateness",
+    "qualification",
+    "aptness",
+    "capability",
+    "ability",
+    "health",
+    "strength",
+    "robustness",
+    "vigor",
+    "form",
+    "condition"
+  ],
+  "antonyms": [
+    "inappropriateness",
+    "weakness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fitness.mp3",
+  "local_sound_path": "sounds/fitness.mp3"
+}

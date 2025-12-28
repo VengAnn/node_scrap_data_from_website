@@ -1,0 +1,39 @@
+{
+  "word": "filling",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "pic filling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28521.png",
+      "local_image_path": "images/28521.png"
+    },
+    {
+      "pos": "n",
+      "example": "tooth filling",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28522.png",
+      "local_image_path": "images/28522.png"
+    }
+  ],
+  "synonyms": [
+    "inside",
+    "stuffing",
+    "saturating",
+    "soaking"
+  ],
+  "antonyms": [
+    "light",
+    "meager",
+    "clearing",
+    "emptying"
+  ],
+  "similar_words": [
+    "filling card",
+    "filling clerk",
+    "filling station",
+    "filling system"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/filling.mp3",
+  "local_sound_path": "sounds/filling.mp3"
+}

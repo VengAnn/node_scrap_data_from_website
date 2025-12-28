@@ -1,0 +1,49 @@
+{
+  "word": "excite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "excite a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26433.png",
+      "local_image_path": "images/26433.png"
+    },
+    {
+      "pos": "tv",
+      "example": "excite interest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26434.png",
+      "local_image_path": "images/26434.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119580.png",
+      "local_image_path": "images/119580.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119581.png",
+      "local_image_path": "images/119581.png"
+    }
+  ],
+  "synonyms": [
+    "incite",
+    "agitate",
+    "provoke",
+    "instigate",
+    "awaken"
+  ],
+  "antonyms": [
+    "soothe",
+    "bore"
+  ],
+  "similar_words": [
+    "excited",
+    "excitedly",
+    "excitement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/excite.mp3",
+  "local_sound_path": "sounds/excite.mp3"
+}

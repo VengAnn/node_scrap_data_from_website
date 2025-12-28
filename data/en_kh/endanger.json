@@ -1,0 +1,35 @@
+{
+  "word": "endanger",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Smoking endangers your health.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24859.png",
+      "local_image_path": "images/24859.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119164.png",
+      "local_image_path": "images/119164.png"
+    }
+  ],
+  "synonyms": [
+    "imperil",
+    "jeopardize",
+    "risk",
+    "compromise",
+    "threaten",
+    "expose"
+  ],
+  "antonyms": [
+    "protect"
+  ],
+  "similar_words": [
+    "endangerment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endanger.mp3",
+  "local_sound_path": "sounds/endanger.mp3"
+}

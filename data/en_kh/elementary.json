@@ -1,0 +1,33 @@
+{
+  "word": "elementary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elementary problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24271.png",
+      "local_image_path": "images/24271.png"
+    },
+    {
+      "pos": "adj",
+      "example": "elememtary school",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24272.png",
+      "local_image_path": "images/24272.png"
+    }
+  ],
+  "synonyms": [
+    "basic",
+    "simple",
+    "straightforward",
+    "uncomplicated",
+    "plain",
+    "fundamental",
+    "rudimentary",
+    "easy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elementary.mp3",
+  "local_sound_path": "sounds/elementary.mp3"
+}

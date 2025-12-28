@@ -1,0 +1,33 @@
+{
+  "word": "maelstrom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105184.png",
+      "local_image_path": "images/105184.png"
+    },
+    {
+      "pos": "n",
+      "example": "maelstrom of war",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/105185.png",
+      "local_image_path": "images/105185.png"
+    }
+  ],
+  "synonyms": [
+    "tumult",
+    "turbulence",
+    "flurry",
+    "turmoil",
+    "whirl",
+    "scramble",
+    "frenzy",
+    "vortex"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/maelstrom.mp3",
+  "local_sound_path": "sounds/maelstrom.mp3"
+}

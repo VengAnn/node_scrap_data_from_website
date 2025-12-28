@@ -1,0 +1,52 @@
+{
+  "word": "repress",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72435.png",
+      "local_image_path": "images/72435.png"
+    },
+    {
+      "pos": "tv",
+      "example": "repress a desire",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72436.png",
+      "local_image_path": "images/72436.png"
+    },
+    {
+      "pos": "tv",
+      "example": "repress a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72437.png",
+      "local_image_path": "images/72437.png"
+    }
+  ],
+  "synonyms": [
+    "dominate",
+    "subdue",
+    "overpower",
+    "subjugate",
+    "quell",
+    "subsume",
+    "suppress",
+    "control",
+    "crush"
+  ],
+  "antonyms": [
+    "express"
+  ],
+  "similar_words": [
+    "repressed",
+    "represser",
+    "repressibility",
+    "repressible",
+    "repression",
+    "repressive",
+    "repressively",
+    "repressiveness",
+    "repressor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repress.mp3",
+  "local_sound_path": "sounds/repress.mp3"
+}

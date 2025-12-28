@@ -1,0 +1,39 @@
+{
+  "word": "decoy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20047.png",
+      "local_image_path": "images/20047.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/20048.png",
+      "local_image_path": "images/20048.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117861.png",
+      "local_image_path": "images/117861.png"
+    }
+  ],
+  "synonyms": [
+    "entice",
+    "lure",
+    "distract",
+    "trap",
+    "entrap",
+    "ensnare",
+    "bait",
+    "allure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/decoy.mp3",
+  "local_sound_path": "sounds/decoy.mp3"
+}

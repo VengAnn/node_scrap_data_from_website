@@ -1,0 +1,78 @@
+{
+  "word": "single",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "single star",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80327.png",
+      "local_image_path": "images/80327.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I am single",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80328.png",
+      "local_image_path": "images/80328.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127900.png",
+      "local_image_path": "images/127900.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127901.png",
+      "local_image_path": "images/127901.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80329.png",
+      "local_image_path": "images/80329.png"
+    }
+  ],
+  "synonyms": [
+    "record",
+    "release",
+    "song",
+    "track"
+  ],
+  "antonyms": [
+    "general",
+    "attached"
+  ],
+  "similar_words": [
+    "single bar",
+    "single sit",
+    "single supplement",
+    "single-acting",
+    "single-barrelled",
+    "single-blade",
+    "single-block",
+    "single-breasted",
+    "single-cable",
+    "single-capstan",
+    "single-celled",
+    "single-channel",
+    "single-circuit",
+    "single-coloured",
+    "single-core",
+    "single-crystal",
+    "single-cycle",
+    "single-cylinder",
+    "single-deck",
+    "single-drum",
+    "single-entry",
+    "single-eyed",
+    "single-file",
+    "single-fire",
+    "single-flowered",
+    "single-frequency",
+    "single-fruited"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/single.mp3",
+  "local_sound_path": "sounds/single.mp3"
+}

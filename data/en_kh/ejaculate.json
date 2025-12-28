@@ -1,0 +1,43 @@
+{
+  "word": "ejaculate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24095.png",
+      "local_image_path": "images/24095.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24096.png",
+      "local_image_path": "images/24096.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ejaculate an oath",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24093.png",
+      "local_image_path": "images/24093.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ejaculate semen",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24094.png",
+      "local_image_path": "images/24094.png"
+    }
+  ],
+  "synonyms": [
+    "exclaim",
+    "expostulate",
+    "cry",
+    "shout",
+    "utter",
+    "voice"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ejaculate.mp3",
+  "local_sound_path": "sounds/ejaculate.mp3"
+}

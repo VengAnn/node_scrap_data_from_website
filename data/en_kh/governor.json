@@ -1,0 +1,43 @@
+{
+  "word": "governor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "governor of a province",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32423.png",
+      "local_image_path": "images/32423.png"
+    },
+    {
+      "pos": "n",
+      "example": "governor of a bank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32424.png",
+      "local_image_path": "images/32424.png"
+    },
+    {
+      "pos": "n",
+      "example": "mechanical governor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/32425.png",
+      "local_image_path": "images/32425.png"
+    }
+  ],
+  "synonyms": [
+    "director",
+    "ruler",
+    "manager",
+    "administrator",
+    "chief",
+    "head",
+    "superintendent",
+    "regulator",
+    "controller"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "governor-general",
+    "governorship"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/governor.mp3",
+  "local_sound_path": "sounds/governor.mp3"
+}

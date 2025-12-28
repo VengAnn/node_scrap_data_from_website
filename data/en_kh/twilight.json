@@ -1,0 +1,44 @@
+{
+  "word": "twilight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "at twilight",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92648.png",
+      "local_image_path": "images/92648.png"
+    },
+    {
+      "pos": "n",
+      "example": "the twilight of something",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92649.png",
+      "local_image_path": "images/92649.png"
+    },
+    {
+      "pos": "n",
+      "example": "twilight of life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92650.png",
+      "local_image_path": "images/92650.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/92651.png",
+      "local_image_path": "images/92651.png"
+    }
+  ],
+  "synonyms": [
+    "dusk",
+    "nightfall",
+    "evening",
+    "sunset",
+    "sundown"
+  ],
+  "antonyms": [
+    "dawn"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/twilight.mp3",
+  "local_sound_path": "sounds/twilight.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "elliptical",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elliptical circle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24333.png",
+      "local_image_path": "images/24333.png"
+    },
+    {
+      "pos": "adj",
+      "example": "elliptical sentence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24334.png",
+      "local_image_path": "images/24334.png"
+    }
+  ],
+  "synonyms": [
+    "indirect",
+    "oblique",
+    "cryptic",
+    "abstruse",
+    "economical",
+    "ambiguous",
+    "obscure"
+  ],
+  "antonyms": [
+    "direct",
+    "verbose"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elliptical.mp3",
+  "local_sound_path": "sounds/elliptical.mp3"
+}

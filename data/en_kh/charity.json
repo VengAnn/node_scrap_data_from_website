@@ -1,0 +1,50 @@
+{
+  "word": "charity",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "in the name of charity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13870.png",
+      "local_image_path": "images/13870.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116205.png",
+      "local_image_path": "images/116205.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116206.png",
+      "local_image_path": "images/116206.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116207.png",
+      "local_image_path": "images/116207.png"
+    }
+  ],
+  "synonyms": [
+    "kindness",
+    "tolerance",
+    "humanity",
+    "compassion",
+    "generosity",
+    "altruism",
+    "goodwill",
+    "benevolence",
+    "sympathy",
+    "understanding",
+    "consideration"
+  ],
+  "antonyms": [
+    "unkindness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/charity.mp3",
+  "local_sound_path": "sounds/charity.mp3"
+}

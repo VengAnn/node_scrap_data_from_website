@@ -1,0 +1,50 @@
+{
+  "word": "encompass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24811.png",
+      "local_image_path": "images/24811.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119134.png",
+      "local_image_path": "images/119134.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119135.png",
+      "local_image_path": "images/119135.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119136.png",
+      "local_image_path": "images/119136.png"
+    }
+  ],
+  "synonyms": [
+    "include",
+    "cover",
+    "take in",
+    "incorporate",
+    "involve",
+    "comprehend",
+    "embrace",
+    "contain",
+    "comprise",
+    "embody",
+    "hold"
+  ],
+  "antonyms": [
+    "exclude"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encompass.mp3",
+  "local_sound_path": "sounds/encompass.mp3"
+}

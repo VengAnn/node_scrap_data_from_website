@@ -1,0 +1,45 @@
+{
+  "word": "employment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "employment of worker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24654.png",
+      "local_image_path": "images/24654.png"
+    },
+    {
+      "pos": "n",
+      "example": "find employment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24655.png",
+      "local_image_path": "images/24655.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24656.png",
+      "local_image_path": "images/24656.png"
+    }
+  ],
+  "synonyms": [
+    "service",
+    "employ",
+    "pay",
+    "hire",
+    "engagement",
+    "occupation",
+    "work"
+  ],
+  "antonyms": [
+    "unemployment"
+  ],
+  "similar_words": [
+    "employment practices",
+    "employment secretary",
+    "employment shock",
+    "employment statistics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/employment.mp3",
+  "local_sound_path": "sounds/employment.mp3"
+}

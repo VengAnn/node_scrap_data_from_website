@@ -1,0 +1,51 @@
+{
+  "word": "underscore",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94067.png",
+      "local_image_path": "images/94067.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129007.png",
+      "local_image_path": "images/129007.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129008.png",
+      "local_image_path": "images/129008.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129009.png",
+      "local_image_path": "images/129009.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129010.png",
+      "local_image_path": "images/129010.png"
+    }
+  ],
+  "synonyms": [
+    "underline",
+    "highlight",
+    "emphasize",
+    "accentuate",
+    "stress",
+    "feature"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/underscore.mp3",
+  "local_sound_path": "sounds/underscore.mp3"
+}

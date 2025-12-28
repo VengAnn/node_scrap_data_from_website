@@ -1,0 +1,34 @@
+{
+  "word": "intolerance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41696.png",
+      "local_image_path": "images/41696.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122829.png",
+      "local_image_path": "images/122829.png"
+    }
+  ],
+  "synonyms": [
+    "bigotry",
+    "prejudice",
+    "fanaticism",
+    "bias",
+    "xenophobia",
+    "chauvinism",
+    "racism"
+  ],
+  "antonyms": [
+    "tolerance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/intolerance.mp3",
+  "local_sound_path": "sounds/intolerance.mp3"
+}

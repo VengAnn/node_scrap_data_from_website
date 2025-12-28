@@ -1,0 +1,51 @@
+{
+  "word": "repeat",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72282.png",
+      "local_image_path": "images/72282.png"
+    },
+    {
+      "pos": "tv",
+      "example": "repeat a question",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72279.png",
+      "local_image_path": "images/72279.png"
+    },
+    {
+      "pos": "tv",
+      "example": "repeat an action",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72280.png",
+      "local_image_path": "images/72280.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72281.png",
+      "local_image_path": "images/72281.png"
+    }
+  ],
+  "synonyms": [
+    "replicate",
+    "recur",
+    "duplicate",
+    "reiterate",
+    "recap",
+    "copy",
+    "imitate"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "repeatability",
+    "repeatable",
+    "repeated",
+    "repeatedly",
+    "repeater",
+    "repeating firearm"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repeat.mp3",
+  "local_sound_path": "sounds/repeat.mp3"
+}

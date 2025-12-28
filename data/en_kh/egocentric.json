@@ -1,0 +1,37 @@
+{
+  "word": "egocentric",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24042.png",
+      "local_image_path": "images/24042.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118931.png",
+      "local_image_path": "images/118931.png"
+    }
+  ],
+  "synonyms": [
+    "selfish",
+    "insensitive",
+    "inconsiderate",
+    "egotistic",
+    "egoistic",
+    "egoistical",
+    "conceited",
+    "vain",
+    "self-absorbed",
+    "narcissistic"
+  ],
+  "antonyms": [
+    "altruistic"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/egocentric.mp3",
+  "local_sound_path": "sounds/egocentric.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "eldest",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "eldest brother",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24146.png",
+      "local_image_path": "images/24146.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24147.png",
+      "local_image_path": "images/24147.png"
+    }
+  ],
+  "synonyms": [
+    "aged",
+    "elderly",
+    "older",
+    "mature"
+  ],
+  "antonyms": [
+    "youngest"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eldest.mp3",
+  "local_sound_path": "sounds/eldest.mp3"
+}

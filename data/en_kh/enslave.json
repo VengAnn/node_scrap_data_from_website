@@ -1,0 +1,30 @@
+{
+  "word": "enslave",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Her beauty enslaved many young men.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25228.png",
+      "local_image_path": "images/25228.png"
+    }
+  ],
+  "synonyms": [
+    "enchain",
+    "bind",
+    "yoke",
+    "subjugate",
+    "dominate",
+    "subject",
+    "enthrall"
+  ],
+  "antonyms": [
+    "liberate"
+  ],
+  "similar_words": [
+    "enslavement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enslave.mp3",
+  "local_sound_path": "sounds/enslave.mp3"
+}

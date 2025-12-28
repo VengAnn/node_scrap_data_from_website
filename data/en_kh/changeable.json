@@ -1,0 +1,45 @@
+{
+  "word": "changeable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "changeable weather",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/13790.png",
+      "local_image_path": "images/13790.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116153.png",
+      "local_image_path": "images/116153.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116154.png",
+      "local_image_path": "images/116154.png"
+    }
+  ],
+  "synonyms": [
+    "variable",
+    "unsettled",
+    "unpredictable",
+    "unreliable",
+    "unstable",
+    "unfixed",
+    "irregular",
+    "undependable",
+    "erratic",
+    "inconsistent",
+    "instable",
+    "inconstant"
+  ],
+  "antonyms": [
+    "constant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/changeable.mp3",
+  "local_sound_path": "sounds/changeable.mp3"
+}

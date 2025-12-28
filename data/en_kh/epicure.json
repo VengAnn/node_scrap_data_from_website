@@ -1,0 +1,29 @@
+{
+  "word": "epicure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "This cookery book has been written by a real epicure.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25466.png",
+      "local_image_path": "images/25466.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119316.png",
+      "local_image_path": "images/119316.png"
+    }
+  ],
+  "synonyms": [
+    "gourmet",
+    "gastronome",
+    "connoisseur",
+    "bon vivant"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/epicure.mp3",
+  "local_sound_path": "sounds/epicure.mp3"
+}

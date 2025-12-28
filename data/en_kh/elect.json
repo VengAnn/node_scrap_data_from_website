@@ -1,0 +1,62 @@
+{
+  "word": "elect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24156.png",
+      "local_image_path": "images/24156.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118961.png",
+      "local_image_path": "images/118961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "elect a new president",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24154.png",
+      "local_image_path": "images/24154.png"
+    },
+    {
+      "pos": "tv",
+      "example": "She elected to become a lawyer.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24155.png",
+      "local_image_path": "images/24155.png"
+    }
+  ],
+  "synonyms": [
+    "designate",
+    "future",
+    "chosen",
+    "return"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "electable",
+    "electant",
+    "electee",
+    "election",
+    "election result",
+    "election return",
+    "electioneer",
+    "electioneering",
+    "elective",
+    "elective monarchy",
+    "electively",
+    "electiveness",
+    "electo",
+    "elector",
+    "electoral",
+    "electoral defeat",
+    "electoral list",
+    "electoral procedure",
+    "electoral registration",
+    "electorate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elect.mp3",
+  "local_sound_path": "sounds/elect.mp3"
+}

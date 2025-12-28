@@ -1,0 +1,45 @@
+{
+  "word": "earn",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "He earns $100,000.00 a year.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23641.png",
+      "local_image_path": "images/23641.png"
+    },
+    {
+      "pos": "tv",
+      "example": "earn a good reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23642.png",
+      "local_image_path": "images/23642.png"
+    },
+    {
+      "pos": "tv",
+      "example": "earn a living",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23643.png",
+      "local_image_path": "images/23643.png"
+    }
+  ],
+  "synonyms": [
+    "deserve",
+    "win",
+    "warrant",
+    "merit",
+    "secure",
+    "gain"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "earnest",
+    "earnestly",
+    "earnestness",
+    "earnings",
+    "earnings capacity",
+    "earnings potential",
+    "earnings power"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/earn.mp3",
+  "local_sound_path": "sounds/earn.mp3"
+}

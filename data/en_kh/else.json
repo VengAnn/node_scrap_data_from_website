@@ -1,0 +1,32 @@
+{
+  "word": "else",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "let somebody else to it",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24358.png",
+      "local_image_path": "images/24358.png"
+    },
+    {
+      "pos": "conj",
+      "example": "do it else I'll go",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24359.png",
+      "local_image_path": "images/24359.png"
+    }
+  ],
+  "synonyms": [
+    "also",
+    "besides",
+    "moreover",
+    "other",
+    "more",
+    "further",
+    "farther"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/else.mp3",
+  "local_sound_path": "sounds/else.mp3"
+}

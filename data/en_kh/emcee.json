@@ -1,0 +1,47 @@
+{
+  "word": "emcee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "Who was emceeing the show last night?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24543.png",
+      "local_image_path": "images/24543.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119069.png",
+      "local_image_path": "images/119069.png"
+    },
+    {
+      "pos": "n",
+      "example": "Who was the emcee of the show last night?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24542.png",
+      "local_image_path": "images/24542.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119070.png",
+      "local_image_path": "images/119070.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119071.png",
+      "local_image_path": "images/119071.png"
+    }
+  ],
+  "synonyms": [
+    "host",
+    "present",
+    "introduce",
+    "compere"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emcee.mp3",
+  "local_sound_path": "sounds/emcee.mp3"
+}

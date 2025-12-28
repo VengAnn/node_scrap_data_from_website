@@ -1,0 +1,40 @@
+{
+  "word": "scholarship",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76660.png",
+      "local_image_path": "images/76660.png"
+    },
+    {
+      "pos": "n",
+      "example": "win a scholarship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76661.png",
+      "local_image_path": "images/76661.png"
+    },
+    {
+      "pos": "n",
+      "example": "excellent scholarship",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/76662.png",
+      "local_image_path": "images/76662.png"
+    }
+  ],
+  "synonyms": [
+    "learning",
+    "erudition",
+    "research",
+    "study",
+    "knowledge",
+    "skill",
+    "science"
+  ],
+  "antonyms": [
+    "ignorance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/scholarship.mp3",
+  "local_sound_path": "sounds/scholarship.mp3"
+}

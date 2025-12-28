@@ -1,0 +1,52 @@
+{
+  "word": "unfetter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94340.png",
+      "local_image_path": "images/94340.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94339.png",
+      "local_image_path": "images/94339.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129101.png",
+      "local_image_path": "images/129101.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129102.png",
+      "local_image_path": "images/129102.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129103.png",
+      "local_image_path": "images/129103.png"
+    }
+  ],
+  "synonyms": [
+    "release",
+    "liberate",
+    "free",
+    "unchain",
+    "unshackle",
+    "unbind",
+    "untie"
+  ],
+  "antonyms": [
+    "fetter"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unfetter.mp3",
+  "local_sound_path": "sounds/unfetter.mp3"
+}

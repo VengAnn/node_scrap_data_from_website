@@ -1,0 +1,38 @@
+{
+  "word": "eloquence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "The crowd ever awayed by this eloquence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24353.png",
+      "local_image_path": "images/24353.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119009.png",
+      "local_image_path": "images/119009.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119010.png",
+      "local_image_path": "images/119010.png"
+    }
+  ],
+  "synonyms": [
+    "expressiveness",
+    "persuasiveness",
+    "expression",
+    "fluency",
+    "articulateness"
+  ],
+  "antonyms": [
+    "inarticulacy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eloquence.mp3",
+  "local_sound_path": "sounds/eloquence.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "republican",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "republican affairs",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72502.png",
+      "local_image_path": "images/72502.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72503.png",
+      "local_image_path": "images/72503.png"
+    }
+  ],
+  "synonyms": [
+    "democrat"
+  ],
+  "antonyms": [
+    "monarchist"
+  ],
+  "similar_words": [
+    "republicanism",
+    "republicanization",
+    "republicanize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/republican.mp3",
+  "local_sound_path": "sounds/republican.mp3"
+}

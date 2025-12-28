@@ -1,0 +1,39 @@
+{
+  "word": "system",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "solar system",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87069.png",
+      "local_image_path": "images/87069.png"
+    },
+    {
+      "pos": "n",
+      "example": "have no system in his work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87070.png",
+      "local_image_path": "images/87070.png"
+    }
+  ],
+  "synonyms": [
+    "orderliness",
+    "regularity",
+    "method",
+    "order",
+    "logic"
+  ],
+  "antonyms": [
+    "disorder"
+  ],
+  "similar_words": [
+    "systematic",
+    "systematically",
+    "systematization",
+    "systematize",
+    "systematizer",
+    "systemless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/system.mp3",
+  "local_sound_path": "sounds/system.mp3"
+}

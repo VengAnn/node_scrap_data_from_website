@@ -1,0 +1,42 @@
+{
+  "word": "enlistment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25130.png",
+      "local_image_path": "images/25130.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119223.png",
+      "local_image_path": "images/119223.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119224.png",
+      "local_image_path": "images/119224.png"
+    }
+  ],
+  "synonyms": [
+    "recruitment",
+    "draft",
+    "mobilization",
+    "deployment",
+    "armament",
+    "organization",
+    "utilization",
+    "conscription",
+    "enrollment",
+    "enrolment",
+    "draught"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enlistment.mp3",
+  "local_sound_path": "sounds/enlistment.mp3"
+}

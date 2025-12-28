@@ -1,0 +1,78 @@
+{
+  "word": "preserve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66598.png",
+      "local_image_path": "images/66598.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66599.png",
+      "local_image_path": "images/66599.png"
+    },
+    {
+      "pos": "n",
+      "example": "strawberry preserve",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66600.png",
+      "local_image_path": "images/66600.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125966.png",
+      "local_image_path": "images/125966.png"
+    },
+    {
+      "pos": "tv",
+      "example": "preserve wildlife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66593.png",
+      "local_image_path": "images/66593.png"
+    },
+    {
+      "pos": "tv",
+      "example": "preserve food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66594.png",
+      "local_image_path": "images/66594.png"
+    },
+    {
+      "pos": "tv",
+      "example": "preserve one's composure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66595.png",
+      "local_image_path": "images/66595.png"
+    },
+    {
+      "pos": "tv",
+      "example": "preserve life",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66596.png",
+      "local_image_path": "images/66596.png"
+    },
+    {
+      "pos": "tv",
+      "example": "preserve peace",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/66597.png",
+      "local_image_path": "images/66597.png"
+    }
+  ],
+  "synonyms": [
+    "reserve",
+    "reservation",
+    "sanctuary",
+    "protect",
+    "conserve",
+    "safeguard",
+    "defend",
+    "save"
+  ],
+  "antonyms": [
+    "destroy",
+    "end"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/preserve.mp3",
+  "local_sound_path": "sounds/preserve.mp3"
+}

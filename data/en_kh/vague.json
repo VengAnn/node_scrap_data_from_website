@@ -1,0 +1,52 @@
+{
+  "word": "vague",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "I haven't vaguest the idea what they want.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97074.png",
+      "local_image_path": "images/97074.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97075.png",
+      "local_image_path": "images/97075.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97076.png",
+      "local_image_path": "images/97076.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97077.png",
+      "local_image_path": "images/97077.png"
+    }
+  ],
+  "synonyms": [
+    "absentminded",
+    "abstracted",
+    "distracted",
+    "scatterbrained",
+    "distant",
+    "dreamy",
+    "pensive",
+    "unclear"
+  ],
+  "antonyms": [
+    "clear",
+    "definite",
+    "alert"
+  ],
+  "similar_words": [
+    "vaguely",
+    "vagueness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vague.mp3",
+  "local_sound_path": "sounds/vague.mp3"
+}

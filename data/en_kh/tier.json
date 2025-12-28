@@ -1,0 +1,43 @@
+{
+  "word": "tier",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89399.png",
+      "local_image_path": "images/89399.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89401.png",
+      "local_image_path": "images/89401.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/89400.png",
+      "local_image_path": "images/89400.png"
+    }
+  ],
+  "synonyms": [
+    "row",
+    "level",
+    "layer",
+    "stage",
+    "rank",
+    "step",
+    "story"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "tierce",
+    "tiercel",
+    "tiered",
+    "tiertable"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tier.mp3",
+  "local_sound_path": "sounds/tier.mp3"
+}

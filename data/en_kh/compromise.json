@@ -1,0 +1,67 @@
+{
+  "word": "compromise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16345.png",
+      "local_image_path": "images/16345.png"
+    },
+    {
+      "pos": "n",
+      "example": "compromise of her reputation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16346.png",
+      "local_image_path": "images/16346.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116964.png",
+      "local_image_path": "images/116964.png"
+    },
+    {
+      "pos": "tv",
+      "example": "we should compromise soon",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16343.png",
+      "local_image_path": "images/16343.png"
+    },
+    {
+      "pos": "tv",
+      "example": "this boy compromise his parent's honor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16344.png",
+      "local_image_path": "images/16344.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116965.png",
+      "local_image_path": "images/116965.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116966.png",
+      "local_image_path": "images/116966.png"
+    }
+  ],
+  "synonyms": [
+    "settlement",
+    "arrangement",
+    "agreement",
+    "bargain",
+    "concession",
+    "deal",
+    "cooperate",
+    "negotiate",
+    "concede"
+  ],
+  "antonyms": [
+    "confrontation",
+    "confront"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compromise.mp3",
+  "local_sound_path": "sounds/compromise.mp3"
+}

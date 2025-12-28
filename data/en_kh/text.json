@@ -1,0 +1,62 @@
+{
+  "word": "text",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ancient text",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88597.png",
+      "local_image_path": "images/88597.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88598.png",
+      "local_image_path": "images/88598.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88599.png",
+      "local_image_path": "images/88599.png"
+    },
+    {
+      "pos": "n",
+      "example": "French text",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88600.png",
+      "local_image_path": "images/88600.png"
+    }
+  ],
+  "synonyms": [
+    "book",
+    "manuscript",
+    "transcript",
+    "copy",
+    "textbook",
+    "passage",
+    "wording",
+    "content",
+    "piece",
+    "article",
+    "extract"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "text textual",
+    "textbook",
+    "textile",
+    "textorial",
+    "textual",
+    "textualism",
+    "textualist",
+    "textually",
+    "textuary",
+    "textural",
+    "texturally",
+    "texture",
+    "textured"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/text.mp3",
+  "local_sound_path": "sounds/text.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "cumber",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19061.png",
+      "local_image_path": "images/19061.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/19060.png",
+      "local_image_path": "images/19060.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "cumbersome",
+    "cumbersomely"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cumber.mp3",
+  "local_sound_path": "sounds/cumber.mp3"
+}

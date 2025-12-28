@@ -1,0 +1,29 @@
+{
+  "word": "enthrone",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25294.png",
+      "local_image_path": "images/25294.png"
+    }
+  ],
+  "synonyms": [
+    "crown",
+    "instate",
+    "install",
+    "ordain",
+    "inaugurate",
+    "consecrate"
+  ],
+  "antonyms": [
+    "dethrone"
+  ],
+  "similar_words": [
+    "enthronement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enthrone.mp3",
+  "local_sound_path": "sounds/enthrone.mp3"
+}

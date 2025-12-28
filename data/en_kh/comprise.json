@@ -1,0 +1,57 @@
+{
+  "word": "comprise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16341.png",
+      "local_image_path": "images/16341.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116959.png",
+      "local_image_path": "images/116959.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116960.png",
+      "local_image_path": "images/116960.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116961.png",
+      "local_image_path": "images/116961.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116962.png",
+      "local_image_path": "images/116962.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116963.png",
+      "local_image_path": "images/116963.png"
+    }
+  ],
+  "synonyms": [
+    "include",
+    "encompass",
+    "contain",
+    "cover",
+    "embrace",
+    "involve"
+  ],
+  "antonyms": [
+    "exclude"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comprise.mp3",
+  "local_sound_path": "sounds/comprise.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "symbolize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87000.png",
+      "local_image_path": "images/87000.png"
+    },
+    {
+      "pos": "tv",
+      "example": "symbolize concepts",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87001.png",
+      "local_image_path": "images/87001.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He symbolizes the revolution",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87002.png",
+      "local_image_path": "images/87002.png"
+    }
+  ],
+  "synonyms": [
+    "represent",
+    "signify",
+    "denote",
+    "indicate",
+    "mean",
+    "imply",
+    "suggest",
+    "embody",
+    "epitomize"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/symbolize.mp3",
+  "local_sound_path": "sounds/symbolize.mp3"
+}

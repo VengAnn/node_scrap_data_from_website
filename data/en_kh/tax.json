@@ -1,0 +1,86 @@
+{
+  "word": "tax",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "income tax",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87717.png",
+      "local_image_path": "images/87717.png"
+    },
+    {
+      "pos": "n",
+      "example": "a tax on his strength",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87718.png",
+      "local_image_path": "images/87718.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tax the people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87719.png",
+      "local_image_path": "images/87719.png"
+    },
+    {
+      "pos": "tv",
+      "example": "tax one's patience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87720.png",
+      "local_image_path": "images/87720.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87721.png",
+      "local_image_path": "images/87721.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128083.png",
+      "local_image_path": "images/128083.png"
+    }
+  ],
+  "synonyms": [
+    "charge",
+    "accuse",
+    "reproach",
+    "blame",
+    "confront",
+    "present"
+  ],
+  "antonyms": [
+    "relax",
+    "relieve",
+    "exempt"
+  ],
+  "similar_words": [
+    "tax abatement",
+    "tax accounting",
+    "tax adjustments",
+    "tax adviser",
+    "tax allowance",
+    "tax avoidance",
+    "tax code",
+    "tax concession",
+    "tax credit",
+    "tax declaration",
+    "tax evasion",
+    "tax exemptions",
+    "tax haven",
+    "tax holiday",
+    "tax inspector",
+    "tax revenue",
+    "tax-deductible",
+    "tax-deductions",
+    "tax-exempt",
+    "tax-free",
+    "tax-gatherer",
+    "taxability",
+    "taxable",
+    "taxableness",
+    "taxation",
+    "taxative"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/tax.mp3",
+  "local_sound_path": "sounds/tax.mp3"
+}

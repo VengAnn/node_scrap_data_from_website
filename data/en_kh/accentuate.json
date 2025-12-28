@@ -1,0 +1,35 @@
+{
+  "word": "accentuate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "accentuate the advantages",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/1793.png",
+      "local_image_path": "images/1793.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111994.png",
+      "local_image_path": "images/111994.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113112.png",
+      "local_image_path": "images/113112.png"
+    }
+  ],
+  "synonyms": [
+    "emphasize",
+    "highlight",
+    "stress",
+    "heighten"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/accentuate.mp3",
+  "local_sound_path": "sounds/accentuate.mp3"
+}

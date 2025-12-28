@@ -1,0 +1,33 @@
+{
+  "word": "eloquently",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24356.png",
+      "local_image_path": "images/24356.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119011.png",
+      "local_image_path": "images/119011.png"
+    }
+  ],
+  "synonyms": [
+    "expressively",
+    "powerfully",
+    "movingly",
+    "fluently",
+    "articulately",
+    "persuasively"
+  ],
+  "antonyms": [
+    "inarticulately"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eloquently.mp3",
+  "local_sound_path": "sounds/eloquently.mp3"
+}

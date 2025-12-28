@@ -1,0 +1,31 @@
+{
+  "word": "unnecessary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/95021.png",
+      "local_image_path": "images/95021.png"
+    }
+  ],
+  "synonyms": [
+    "needless",
+    "pointless",
+    "redundant",
+    "superfluous",
+    "gratuitous",
+    "preventable",
+    "avoidable",
+    "excessive",
+    "unwarranted",
+    "uncalled-for"
+  ],
+  "antonyms": [
+    "necessary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unnecessary.mp3",
+  "local_sound_path": "sounds/unnecessary.mp3"
+}

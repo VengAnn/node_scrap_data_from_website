@@ -1,0 +1,35 @@
+{
+  "word": "liberate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "liberate a country",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46199.png",
+      "local_image_path": "images/46199.png"
+    },
+    {
+      "pos": "tv",
+      "example": "liberate gas",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46200.png",
+      "local_image_path": "images/46200.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46201.png",
+      "local_image_path": "images/46201.png"
+    }
+  ],
+  "synonyms": [
+    "release",
+    "free",
+    "unshackle",
+    "unfetter"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liberate.mp3",
+  "local_sound_path": "sounds/liberate.mp3"
+}

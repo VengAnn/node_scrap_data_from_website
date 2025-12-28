@@ -1,0 +1,41 @@
+{
+  "word": "include",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38429.png",
+      "local_image_path": "images/38429.png"
+    },
+    {
+      "pos": "tv",
+      "example": "(list) includes (apples)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38430.png",
+      "local_image_path": "images/38430.png"
+    },
+    {
+      "pos": "tv",
+      "example": "include a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38431.png",
+      "local_image_path": "images/38431.png"
+    }
+  ],
+  "synonyms": [
+    "incorporate",
+    "enter",
+    "involve"
+  ],
+  "antonyms": [
+    "exclude",
+    "omit",
+    "reject"
+  ],
+  "similar_words": [
+    "included",
+    "includer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/include.mp3",
+  "local_sound_path": "sounds/include.mp3"
+}

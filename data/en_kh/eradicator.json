@@ -1,0 +1,38 @@
+{
+  "word": "eradicator",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25695.png",
+      "local_image_path": "images/25695.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130302.png",
+      "local_image_path": "images/130302.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130303.png",
+      "local_image_path": "images/130303.png"
+    }
+  ],
+  "synonyms": [
+    "murderer",
+    "assassin",
+    "slaughterer",
+    "executioner",
+    "destroyer",
+    "slayer",
+    "exterminator"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eradicator.mp3",
+  "local_sound_path": "sounds/eradicator.mp3"
+}

@@ -1,0 +1,59 @@
+{
+  "word": "overpower",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "overpower the enemy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58846.png",
+      "local_image_path": "images/58846.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overpower a criminal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58847.png",
+      "local_image_path": "images/58847.png"
+    },
+    {
+      "pos": "tv",
+      "example": "overpower an impulse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58848.png",
+      "local_image_path": "images/58848.png"
+    },
+    {
+      "pos": "tv",
+      "example": "drugs overpower",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/58849.png",
+      "local_image_path": "images/58849.png"
+    }
+  ],
+  "synonyms": [
+    "subdue",
+    "override",
+    "suppress",
+    "conquer",
+    "defeat",
+    "subjugate",
+    "subsume",
+    "overwhelm",
+    "overshadow",
+    "overcome",
+    "floor",
+    "dumbfound",
+    "daze",
+    "stagger",
+    "stun",
+    "throw",
+    "overawe"
+  ],
+  "antonyms": [
+    "surrender",
+    "yield"
+  ],
+  "similar_words": [
+    "overpowering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/overpower.mp3",
+  "local_sound_path": "sounds/overpower.mp3"
+}

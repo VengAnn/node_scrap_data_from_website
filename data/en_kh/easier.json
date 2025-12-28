@@ -1,0 +1,31 @@
+{
+  "word": "easier",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23693.png",
+      "local_image_path": "images/23693.png"
+    },
+    {
+      "pos": "idm",
+      "example": "easier said than done",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23694.png",
+      "local_image_path": "images/23694.png"
+    }
+  ],
+  "synonyms": [
+    "straightforward",
+    "effortless",
+    "uncomplicated",
+    "unproblematic",
+    "painless",
+    "difficult"
+  ],
+  "antonyms": [
+    "tenser"
+  ],
+  "similar_words": [],
+  "sound": null
+}

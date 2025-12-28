@@ -1,0 +1,33 @@
+{
+  "word": "temporary",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "temporary job",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/88121.png",
+      "local_image_path": "images/88121.png"
+    }
+  ],
+  "synonyms": [
+    "provisional",
+    "impermanent",
+    "momentary",
+    "brief",
+    "passing",
+    "fleeting",
+    "transitory",
+    "short-term",
+    "short-lived",
+    "transient",
+    "interim",
+    "acting"
+  ],
+  "antonyms": [
+    "permanent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/temporary.mp3",
+  "local_sound_path": "sounds/temporary.mp3"
+}

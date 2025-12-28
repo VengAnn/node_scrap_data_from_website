@@ -1,0 +1,51 @@
+{
+  "word": "penetrate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61335.png",
+      "local_image_path": "images/61335.png"
+    },
+    {
+      "pos": "tv",
+      "example": "penetrate a paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61332.png",
+      "local_image_path": "images/61332.png"
+    },
+    {
+      "pos": "tv",
+      "example": "penetrate the flesh",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61333.png",
+      "local_image_path": "images/61333.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Oil will penetrate the cloth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61334.png",
+      "local_image_path": "images/61334.png"
+    },
+    {
+      "pos": "tv",
+      "example": "penetrate a mystery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61336.png",
+      "local_image_path": "images/61336.png"
+    }
+  ],
+  "synonyms": [
+    "discern",
+    "grasp",
+    "comprehend",
+    "understand",
+    "perceive",
+    "apprehend"
+  ],
+  "antonyms": [
+    "seal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/penetrate.mp3",
+  "local_sound_path": "sounds/penetrate.mp3"
+}

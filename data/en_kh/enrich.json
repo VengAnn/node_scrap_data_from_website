@@ -1,0 +1,32 @@
+{
+  "word": "enrich",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "enrich food",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25188.png",
+      "local_image_path": "images/25188.png"
+    },
+    {
+      "pos": "tv",
+      "example": "to enrich the investors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25189.png",
+      "local_image_path": "images/25189.png"
+    }
+  ],
+  "synonyms": [
+    "augment",
+    "supplement",
+    "improve",
+    "develop",
+    "enhance"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "enrichment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enrich.mp3",
+  "local_sound_path": "sounds/enrich.mp3"
+}

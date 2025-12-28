@@ -1,0 +1,34 @@
+{
+  "word": "English",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25039.png",
+      "local_image_path": "images/25039.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119212.png",
+      "local_image_path": "images/119212.png"
+    },
+    {
+      "pos": "n",
+      "example": "She speaks English well.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25040.png",
+      "local_image_path": "images/25040.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "English horn",
+    "Englishman",
+    "Englishwoman"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/english.mp3",
+  "local_sound_path": "sounds/english.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "piping",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "piping voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63497.png",
+      "local_image_path": "images/63497.png"
+    },
+    {
+      "pos": "n",
+      "example": "copper piping",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63494.png",
+      "local_image_path": "images/63494.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63495.png",
+      "local_image_path": "images/63495.png"
+    },
+    {
+      "pos": "n",
+      "example": "shrill piping",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63496.png",
+      "local_image_path": "images/63496.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/piping.mp3",
+  "local_sound_path": "sounds/piping.mp3"
+}

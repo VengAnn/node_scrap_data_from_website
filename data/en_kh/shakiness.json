@@ -1,0 +1,50 @@
+{
+  "word": "shakiness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78719.png",
+      "local_image_path": "images/78719.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78720.png",
+      "local_image_path": "images/78720.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78721.png",
+      "local_image_path": "images/78721.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127712.png",
+      "local_image_path": "images/127712.png"
+    }
+  ],
+  "synonyms": [
+    "instability",
+    "unsteadiness",
+    "unevenness",
+    "precariousness",
+    "volatility",
+    "wavering",
+    "insecurity",
+    "flux"
+  ],
+  "antonyms": [
+    "control",
+    "sturdiness",
+    "reliability",
+    "stability"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shakiness.mp3",
+  "local_sound_path": "sounds/shakiness.mp3"
+}

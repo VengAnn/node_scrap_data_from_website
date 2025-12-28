@@ -1,0 +1,52 @@
+{
+  "word": "ex",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "He is one of her many exes.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26296.png",
+      "local_image_path": "images/26296.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119517.png",
+      "local_image_path": "images/119517.png"
+    },
+    {
+      "pos": "pref",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26295.png",
+      "local_image_path": "images/26295.png"
+    }
+  ],
+  "synonyms": [
+    "previous",
+    "past",
+    "earlier"
+  ],
+  "antonyms": [
+    "future"
+  ],
+  "similar_words": [
+    "ex-warehouse",
+    "ex-works",
+    "exacerbate",
+    "exacerbation",
+    "exacervation",
+    "exacinate",
+    "exact",
+    "exactable",
+    "exacter",
+    "exacting",
+    "exaction",
+    "exactitude",
+    "exactly",
+    "exactness",
+    "exactor"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ex.mp3",
+  "local_sound_path": "sounds/ex.mp3"
+}

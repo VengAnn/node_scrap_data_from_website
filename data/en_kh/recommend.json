@@ -1,0 +1,78 @@
+{
+  "word": "recommend",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70891.png",
+      "local_image_path": "images/70891.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70892.png",
+      "local_image_path": "images/70892.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70893.png",
+      "local_image_path": "images/70893.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126578.png",
+      "local_image_path": "images/126578.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126579.png",
+      "local_image_path": "images/126579.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126580.png",
+      "local_image_path": "images/126580.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126581.png",
+      "local_image_path": "images/126581.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126582.png",
+      "local_image_path": "images/126582.png"
+    }
+  ],
+  "synonyms": [
+    "commend",
+    "mention",
+    "endorse",
+    "advocate",
+    "advise",
+    "counsel",
+    "suggest",
+    "propose",
+    "urge"
+  ],
+  "antonyms": [
+    "oppose",
+    "criticize"
+  ],
+  "similar_words": [
+    "recommendable",
+    "recommendation",
+    "recommendatory",
+    "recommender"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/recommend.mp3",
+  "local_sound_path": "sounds/recommend.mp3"
+}

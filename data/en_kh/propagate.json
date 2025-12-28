@@ -1,0 +1,61 @@
+{
+  "word": "propagate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67765.png",
+      "local_image_path": "images/67765.png"
+    },
+    {
+      "pos": "tv",
+      "example": "propagate plants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67759.png",
+      "local_image_path": "images/67759.png"
+    },
+    {
+      "pos": "tv",
+      "example": "propagate offspring",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67760.png",
+      "local_image_path": "images/67760.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67761.png",
+      "local_image_path": "images/67761.png"
+    },
+    {
+      "pos": "tv",
+      "example": "propagate a rumor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67762.png",
+      "local_image_path": "images/67762.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67763.png",
+      "local_image_path": "images/67763.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67764.png",
+      "local_image_path": "images/67764.png"
+    }
+  ],
+  "synonyms": [
+    "breed",
+    "grow",
+    "raise",
+    "reproduce",
+    "proliferate",
+    "generate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/propagate.mp3",
+  "local_sound_path": "sounds/propagate.mp3"
+}

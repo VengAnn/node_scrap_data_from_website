@@ -1,0 +1,57 @@
+{
+  "word": "echo",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The wind echoed to the sound of their laugh.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23778.png",
+      "local_image_path": "images/23778.png"
+    },
+    {
+      "pos": "n",
+      "example": "If you shout loudly, you'll hear the echo.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23776.png",
+      "local_image_path": "images/23776.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23777.png",
+      "local_image_path": "images/23777.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118873.png",
+      "local_image_path": "images/118873.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118874.png",
+      "local_image_path": "images/118874.png"
+    },
+    {
+      "pos": "tv",
+      "example": "echo his voice",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23779.png",
+      "local_image_path": "images/23779.png"
+    }
+  ],
+  "synonyms": [
+    "repeat",
+    "reiterate",
+    "copy",
+    "confirm",
+    "endorse",
+    "reaffirm",
+    "indorse",
+    "parrot"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/echo.mp3",
+  "local_sound_path": "sounds/echo.mp3"
+}

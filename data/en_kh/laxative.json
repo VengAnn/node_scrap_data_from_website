@@ -1,0 +1,29 @@
+{
+  "word": "laxative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45354.png",
+      "local_image_path": "images/45354.png"
+    },
+    {
+      "pos": "n",
+      "example": "If you are constipated you may need a laxative.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45353.png",
+      "local_image_path": "images/45353.png"
+    }
+  ],
+  "synonyms": [
+    "purge",
+    "purgative",
+    "cathartic",
+    "emetic"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/laxative.mp3",
+  "local_sound_path": "sounds/laxative.mp3"
+}

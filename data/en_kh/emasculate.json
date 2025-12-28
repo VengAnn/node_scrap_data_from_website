@@ -1,0 +1,36 @@
+{
+  "word": "emasculate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "emasculate a pig",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24406.png",
+      "local_image_path": "images/24406.png"
+    },
+    {
+      "pos": "tv",
+      "example": "emasculate one's husband",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24407.png",
+      "local_image_path": "images/24407.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24408.png",
+      "local_image_path": "images/24408.png"
+    }
+  ],
+  "synonyms": [
+    "weaken",
+    "enfeeble",
+    "reduce"
+  ],
+  "antonyms": [
+    "empower"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emasculate.mp3",
+  "local_sound_path": "sounds/emasculate.mp3"
+}

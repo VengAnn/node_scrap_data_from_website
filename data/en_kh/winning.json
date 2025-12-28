@@ -1,0 +1,48 @@
+{
+  "word": "winning",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "the winning point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100492.png",
+      "local_image_path": "images/100492.png"
+    },
+    {
+      "pos": "adj",
+      "example": "winning ways",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100493.png",
+      "local_image_path": "images/100493.png"
+    },
+    {
+      "pos": "n",
+      "example": "winning is important",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/100491.png",
+      "local_image_path": "images/100491.png"
+    }
+  ],
+  "synonyms": [
+    "successful",
+    "triumphant",
+    "victorious",
+    "unbeatable",
+    "succeeding",
+    "prevailing"
+  ],
+  "antonyms": [
+    "unpleasant",
+    "unsuccessful",
+    "unprepossessing",
+    "losing"
+  ],
+  "similar_words": [
+    "winning-post",
+    "winningest",
+    "winningly",
+    "winningness",
+    "winnings"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/winning.mp3",
+  "local_sound_path": "sounds/winning.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "engine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "gasoline engine",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25024.png",
+      "local_image_path": "images/25024.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25025.png",
+      "local_image_path": "images/25025.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130290.png",
+      "local_image_path": "images/130290.png"
+    }
+  ],
+  "synonyms": [
+    "train",
+    "locomotive",
+    "machine",
+    "appliance",
+    "apparatus",
+    "contraption",
+    "device",
+    "instrument",
+    "mechanism"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "engine-driver",
+    "engineer",
+    "engineering",
+    "enginery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/engine.mp3",
+  "local_sound_path": "sounds/engine.mp3"
+}

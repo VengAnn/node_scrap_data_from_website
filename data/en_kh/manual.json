@@ -1,0 +1,53 @@
+{
+  "word": "manual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "manual labor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106071.png",
+      "local_image_path": "images/106071.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/106072.png",
+      "local_image_path": "images/106072.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123773.png",
+      "local_image_path": "images/123773.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123774.png",
+      "local_image_path": "images/123774.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123775.png",
+      "local_image_path": "images/123775.png"
+    }
+  ],
+  "synonyms": [
+    "handbook",
+    "guidebook",
+    "guide",
+    "booklet"
+  ],
+  "antonyms": [
+    "mental"
+  ],
+  "similar_words": [
+    "manualist",
+    "manually",
+    "manualtraining"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/manual.mp3",
+  "local_sound_path": "sounds/manual.mp3"
+}

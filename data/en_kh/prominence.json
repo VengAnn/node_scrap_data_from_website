@@ -1,0 +1,35 @@
+{
+  "word": "prominence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67618.png",
+      "local_image_path": "images/67618.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67619.png",
+      "local_image_path": "images/67619.png"
+    }
+  ],
+  "synonyms": [
+    "bump",
+    "lump",
+    "bulge",
+    "swelling",
+    "protrusion",
+    "protuberance",
+    "projection"
+  ],
+  "antonyms": [
+    "obscurity",
+    "crater"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prominence.mp3",
+  "local_sound_path": "sounds/prominence.mp3"
+}

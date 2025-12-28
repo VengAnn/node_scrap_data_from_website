@@ -1,0 +1,51 @@
+{
+  "word": "invigorate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42037.png",
+      "local_image_path": "images/42037.png"
+    },
+    {
+      "pos": "tv",
+      "example": "invigorate the body",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42038.png",
+      "local_image_path": "images/42038.png"
+    },
+    {
+      "pos": "tv",
+      "example": "invigorate plants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42039.png",
+      "local_image_path": "images/42039.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122907.png",
+      "local_image_path": "images/122907.png"
+    }
+  ],
+  "synonyms": [
+    "refresh",
+    "revitalize",
+    "stimulate",
+    "enliven",
+    "energize",
+    "animate",
+    "rejuvenate",
+    "strengthen",
+    "galvanize",
+    "exhilarate",
+    "fortify",
+    "quicken"
+  ],
+  "antonyms": [
+    "exhaust"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/invigorate.mp3",
+  "local_sound_path": "sounds/invigorate.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "emotional",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "emotional appeal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24607.png",
+      "local_image_path": "images/24607.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131155.png",
+      "local_image_path": "images/131155.png"
+    }
+  ],
+  "synonyms": [
+    "expressive",
+    "open",
+    "demonstrative",
+    "emotive",
+    "sensitive",
+    "moving",
+    "touching",
+    "poignant",
+    "affecting",
+    "exciting",
+    "disturbing",
+    "weepy"
+  ],
+  "antonyms": [
+    "cold",
+    "impassive"
+  ],
+  "similar_words": [
+    "emotional intelligence",
+    "emotionalism",
+    "emotionalist",
+    "emotionalize",
+    "emotionally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emotional.mp3",
+  "local_sound_path": "sounds/emotional.mp3"
+}

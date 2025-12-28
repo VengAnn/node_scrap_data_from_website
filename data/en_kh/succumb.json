@@ -1,0 +1,34 @@
+{
+  "word": "succumb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "succumb to pressure",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86009.png",
+      "local_image_path": "images/86009.png"
+    },
+    {
+      "pos": "iv",
+      "example": "succumb at 80",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86010.png",
+      "local_image_path": "images/86010.png"
+    }
+  ],
+  "synonyms": [
+    "yield",
+    "submit",
+    "surrender",
+    "die",
+    "expire",
+    "perish",
+    "depart"
+  ],
+  "antonyms": [
+    "withstand"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/succumb.mp3",
+  "local_sound_path": "sounds/succumb.mp3"
+}

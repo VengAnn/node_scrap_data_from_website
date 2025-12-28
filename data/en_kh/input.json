@@ -1,0 +1,56 @@
+{
+  "word": "input",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "computer input",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40323.png",
+      "local_image_path": "images/40323.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122494.png",
+      "local_image_path": "images/122494.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122495.png",
+      "local_image_path": "images/122495.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122496.png",
+      "local_image_path": "images/122496.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122497.png",
+      "local_image_path": "images/122497.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122498.png",
+      "local_image_path": "images/122498.png"
+    }
+  ],
+  "synonyms": [
+    "enter",
+    "key",
+    "record",
+    "store",
+    "keyboard"
+  ],
+  "antonyms": [
+    "delete"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/input.mp3",
+  "local_sound_path": "sounds/input.mp3"
+}

@@ -1,0 +1,71 @@
+{
+  "word": "register",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "register to vote",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71586.png",
+      "local_image_path": "images/71586.png"
+    },
+    {
+      "pos": "n",
+      "example": "register of names",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71587.png",
+      "local_image_path": "images/71587.png"
+    },
+    {
+      "pos": "n",
+      "example": "musical register",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71588.png",
+      "local_image_path": "images/71588.png"
+    },
+    {
+      "pos": "tv",
+      "example": "register voters",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71582.png",
+      "local_image_path": "images/71582.png"
+    },
+    {
+      "pos": "tv",
+      "example": "register a letter",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71583.png",
+      "local_image_path": "images/71583.png"
+    },
+    {
+      "pos": "tv",
+      "example": "register a complaint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71584.png",
+      "local_image_path": "images/71584.png"
+    },
+    {
+      "pos": "tv",
+      "example": "register 100 degrees",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71585.png",
+      "local_image_path": "images/71585.png"
+    }
+  ],
+  "synonyms": [
+    "reach",
+    "touch",
+    "record",
+    "enlist",
+    "enroll",
+    "join"
+  ],
+  "antonyms": [
+    "hide"
+  ],
+  "similar_words": [
+    "registerable",
+    "registered",
+    "registered office",
+    "registered trademark",
+    "registered user",
+    "registerer",
+    "registership"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/register.mp3",
+  "local_sound_path": "sounds/register.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "rationally",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70324.png",
+      "local_image_path": "images/70324.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70337.png",
+      "local_image_path": "images/70337.png"
+    }
+  ],
+  "synonyms": [
+    "lucidly",
+    "sanely",
+    "cogently",
+    "normally",
+    "coherently"
+  ],
+  "antonyms": [
+    "illogically",
+    "irrationally"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rationally.mp3",
+  "local_sound_path": "sounds/rationally.mp3"
+}

@@ -1,0 +1,41 @@
+{
+  "word": "educated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23900.png",
+      "local_image_path": "images/23900.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118898.png",
+      "local_image_path": "images/118898.png"
+    }
+  ],
+  "synonyms": [
+    "cultured",
+    "knowledgeable",
+    "well-informed",
+    "well-read",
+    "sophisticated",
+    "skilled",
+    "learned",
+    "erudite",
+    "scholarly",
+    "taught",
+    "trained",
+    "informed"
+  ],
+  "antonyms": [
+    "unlearned",
+    "boorish",
+    "uneducated"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/educated.mp3",
+  "local_sound_path": "sounds/educated.mp3"
+}

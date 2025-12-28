@@ -1,0 +1,39 @@
+{
+  "word": "exclaim",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26441.png",
+      "local_image_path": "images/26441.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132487.png",
+      "local_image_path": "images/132487.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26440.png",
+      "local_image_path": "images/26440.png"
+    }
+  ],
+  "synonyms": [
+    "cry",
+    "shout",
+    "call",
+    "yell",
+    "scream",
+    "bellow"
+  ],
+  "antonyms": [
+    "whisper"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exclaim.mp3",
+  "local_sound_path": "sounds/exclaim.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "entrap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25337.png",
+      "local_image_path": "images/25337.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25338.png",
+      "local_image_path": "images/25338.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119283.png",
+      "local_image_path": "images/119283.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119284.png",
+      "local_image_path": "images/119284.png"
+    }
+  ],
+  "synonyms": [
+    "trick",
+    "deceive",
+    "ensnare",
+    "trap",
+    "lure",
+    "catch",
+    "capture",
+    "entangle",
+    "decoy",
+    "inveigle"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "entrapment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entrap.mp3",
+  "local_sound_path": "sounds/entrap.mp3"
+}

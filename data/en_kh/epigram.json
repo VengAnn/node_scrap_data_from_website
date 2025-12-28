@@ -1,0 +1,38 @@
+{
+  "word": "epigram",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25489.png",
+      "local_image_path": "images/25489.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119320.png",
+      "local_image_path": "images/119320.png"
+    }
+  ],
+  "synonyms": [
+    "witticism",
+    "saying",
+    "axiom",
+    "quip",
+    "ditty",
+    "rhyme"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "epigrammatic",
+    "epigrammatical",
+    "epigrammatism",
+    "epigrammatist",
+    "epigrammatize",
+    "epigramme"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/epigram.mp3",
+  "local_sound_path": "sounds/epigram.mp3"
+}

@@ -1,0 +1,35 @@
+{
+  "word": "resounding",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72814.png",
+      "local_image_path": "images/72814.png"
+    },
+    {
+      "pos": "adj",
+      "example": "resounding victory",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72815.png",
+      "local_image_path": "images/72815.png"
+    }
+  ],
+  "synonyms": [
+    "unqualified",
+    "categorical",
+    "unambiguous",
+    "definite",
+    "unquestionable",
+    "decisive",
+    "booming"
+  ],
+  "antonyms": [
+    "weak",
+    "qualified"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/resounding.mp3",
+  "local_sound_path": "sounds/resounding.mp3"
+}

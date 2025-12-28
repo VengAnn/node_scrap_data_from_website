@@ -1,0 +1,28 @@
+{
+  "word": "ephemera",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25451.png",
+      "local_image_path": "images/25451.png"
+    },
+    {
+      "pos": "n",
+      "example": "collection of worthless ephemera",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25452.png",
+      "local_image_path": "images/25452.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "ephemeral",
+    "ephemerality",
+    "ephemerally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ephemera.mp3",
+  "local_sound_path": "sounds/ephemera.mp3"
+}

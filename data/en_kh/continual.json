@@ -1,0 +1,42 @@
+{
+  "word": "continual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "continual noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/17287.png",
+      "local_image_path": "images/17287.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117441.png",
+      "local_image_path": "images/117441.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/117442.png",
+      "local_image_path": "images/117442.png"
+    }
+  ],
+  "synonyms": [
+    "repeated",
+    "frequent",
+    "recurrent",
+    "incessant",
+    "constant",
+    "persistent",
+    "repetitive"
+  ],
+  "antonyms": [
+    "intermittent"
+  ],
+  "similar_words": [
+    "continually"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/continual.mp3",
+  "local_sound_path": "sounds/continual.mp3"
+}

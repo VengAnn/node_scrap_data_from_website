@@ -1,0 +1,51 @@
+{
+  "word": "flexible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "flexible stick",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29039.png",
+      "local_image_path": "images/29039.png"
+    },
+    {
+      "pos": "adj",
+      "example": "flexible rubber band",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29040.png",
+      "local_image_path": "images/29040.png"
+    },
+    {
+      "pos": "adj",
+      "example": "flexible policy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29041.png",
+      "local_image_path": "images/29041.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29042.png",
+      "local_image_path": "images/29042.png"
+    }
+  ],
+  "synonyms": [
+    "adaptable",
+    "accommodating",
+    "variable",
+    "compliant",
+    "open",
+    "acquiescent",
+    "tractable",
+    "amenable",
+    "malleable",
+    "docile"
+  ],
+  "antonyms": [
+    "stiff",
+    "rigid",
+    "intractable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/flexible.mp3",
+  "local_sound_path": "sounds/flexible.mp3"
+}

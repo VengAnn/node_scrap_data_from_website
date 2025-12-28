@@ -1,0 +1,54 @@
+{
+  "word": "elope",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The young couple eloped because their parents \n\nwouldn't let them marry.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24351.png",
+      "local_image_path": "images/24351.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119003.png",
+      "local_image_path": "images/119003.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119004.png",
+      "local_image_path": "images/119004.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119005.png",
+      "local_image_path": "images/119005.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119006.png",
+      "local_image_path": "images/119006.png"
+    }
+  ],
+  "synonyms": [
+    "escape",
+    "flee",
+    "abscond",
+    "abandon",
+    "decamp",
+    "desert",
+    "bolt"
+  ],
+  "antonyms": [
+    "return"
+  ],
+  "similar_words": [
+    "elopement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elope.mp3",
+  "local_sound_path": "sounds/elope.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "compassionate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16185.png",
+      "local_image_path": "images/16185.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132049.png",
+      "local_image_path": "images/132049.png"
+    }
+  ],
+  "synonyms": [
+    "sympathetic",
+    "empathetic",
+    "feeling",
+    "concerned",
+    "kind",
+    "kindly",
+    "kindhearted",
+    "considerate",
+    "caring",
+    "gentle",
+    "benevolent"
+  ],
+  "antonyms": [
+    "unfeeling"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compassionate.mp3",
+  "local_sound_path": "sounds/compassionate.mp3"
+}

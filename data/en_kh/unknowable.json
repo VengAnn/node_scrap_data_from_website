@@ -1,0 +1,49 @@
+{
+  "word": "unknowable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94698.png",
+      "local_image_path": "images/94698.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129246.png",
+      "local_image_path": "images/129246.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129247.png",
+      "local_image_path": "images/129247.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94699.png",
+      "local_image_path": "images/94699.png"
+    }
+  ],
+  "synonyms": [
+    "incomprehensible",
+    "enigmatic",
+    "mysterious",
+    "indecipherable",
+    "arcane",
+    "inexplicable",
+    "impenetrable",
+    "inscrutable"
+  ],
+  "antonyms": [
+    "comprehensible"
+  ],
+  "similar_words": [
+    "unknowableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unknowable.mp3",
+  "local_sound_path": "sounds/unknowable.mp3"
+}

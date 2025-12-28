@@ -1,0 +1,71 @@
+{
+  "word": "melancholic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107362.png",
+      "local_image_path": "images/107362.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107419.png",
+      "local_image_path": "images/107419.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123858.png",
+      "local_image_path": "images/123858.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123859.png",
+      "local_image_path": "images/123859.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107420.png",
+      "local_image_path": "images/107420.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123860.png",
+      "local_image_path": "images/123860.png"
+    }
+  ],
+  "synonyms": [
+    "sad",
+    "miserable",
+    "discontented",
+    "despondent",
+    "dejected",
+    "gloomy",
+    "forlorn",
+    "sorrowful",
+    "depressed",
+    "down",
+    "unhappy",
+    "mournful",
+    "lamenting",
+    "morose",
+    "nostalgic",
+    "dark",
+    "moody",
+    "plaintive",
+    "elegiac"
+  ],
+  "antonyms": [
+    "happy",
+    "cheerful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/melancholic.mp3",
+  "local_sound_path": "sounds/melancholic.mp3"
+}

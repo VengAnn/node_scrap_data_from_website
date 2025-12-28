@@ -1,0 +1,59 @@
+{
+  "word": "observation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "under a doctor's observation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56968.png",
+      "local_image_path": "images/56968.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/56969.png",
+      "local_image_path": "images/56969.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124825.png",
+      "local_image_path": "images/124825.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124826.png",
+      "local_image_path": "images/124826.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124827.png",
+      "local_image_path": "images/124827.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124828.png",
+      "local_image_path": "images/124828.png"
+    }
+  ],
+  "synonyms": [
+    "performance",
+    "celebration",
+    "adherence",
+    "execution"
+  ],
+  "antonyms": [
+    "neglect",
+    "omission"
+  ],
+  "similar_words": [
+    "observation car",
+    "observational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/observation.mp3",
+  "local_sound_path": "sounds/observation.mp3"
+}

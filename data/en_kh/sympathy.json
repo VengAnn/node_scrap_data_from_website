@@ -1,0 +1,25 @@
+{
+  "word": "sympathy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "I have some sympathy with their views",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87018.png",
+      "local_image_path": "images/87018.png"
+    }
+  ],
+  "synonyms": [
+    "approval",
+    "agreement",
+    "support",
+    "backing"
+  ],
+  "antonyms": [
+    "incomprehension"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sympathy.mp3",
+  "local_sound_path": "sounds/sympathy.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "uplift",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96739.png",
+      "local_image_path": "images/96739.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His soul was uplifted by music.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96738.png",
+      "local_image_path": "images/96738.png"
+    }
+  ],
+  "synonyms": [
+    "strengthen",
+    "fortify",
+    "boost",
+    "lift",
+    "encourage",
+    "support"
+  ],
+  "antonyms": [
+    "drop",
+    "depress"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uplift.mp3",
+  "local_sound_path": "sounds/uplift.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "monologue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110208.png",
+      "local_image_path": "images/110208.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110209.png",
+      "local_image_path": "images/110209.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124267.png",
+      "local_image_path": "images/124267.png"
+    }
+  ],
+  "synonyms": [
+    "drone",
+    "harangue",
+    "rant",
+    "speech",
+    "lecture"
+  ],
+  "antonyms": [
+    "dialogue",
+    "dialog",
+    "conversation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/monologue.mp3",
+  "local_sound_path": "sounds/monologue.mp3"
+}

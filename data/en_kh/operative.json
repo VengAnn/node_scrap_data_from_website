@@ -1,0 +1,50 @@
+{
+  "word": "operative",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57745.png",
+      "local_image_path": "images/57745.png"
+    },
+    {
+      "pos": "adj",
+      "example": "operative law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57746.png",
+      "local_image_path": "images/57746.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57747.png",
+      "local_image_path": "images/57747.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124934.png",
+      "local_image_path": "images/124934.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124935.png",
+      "local_image_path": "images/124935.png"
+    }
+  ],
+  "synonyms": [
+    "operator",
+    "worker",
+    "machinist",
+    "hand",
+    "technician"
+  ],
+  "antonyms": [
+    "inoperative"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/operative.mp3",
+  "local_sound_path": "sounds/operative.mp3"
+}

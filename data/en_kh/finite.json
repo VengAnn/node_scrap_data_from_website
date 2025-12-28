@@ -1,0 +1,42 @@
+{
+  "word": "finite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28627.png",
+      "local_image_path": "images/28627.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120157.png",
+      "local_image_path": "images/120157.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120158.png",
+      "local_image_path": "images/120158.png"
+    }
+  ],
+  "synonyms": [
+    "limited",
+    "restricted",
+    "fixed",
+    "set",
+    "determinate",
+    "predictable"
+  ],
+  "antonyms": [
+    "infinite"
+  ],
+  "similar_words": [
+    "finitely",
+    "finiteness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/finite.mp3",
+  "local_sound_path": "sounds/finite.mp3"
+}

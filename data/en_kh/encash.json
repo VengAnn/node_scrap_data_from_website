@@ -1,0 +1,33 @@
+{
+  "word": "encash",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24749.png",
+      "local_image_path": "images/24749.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119115.png",
+      "local_image_path": "images/119115.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119116.png",
+      "local_image_path": "images/119116.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "encashable",
+    "encashment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encash.mp3",
+  "local_sound_path": "sounds/encash.mp3"
+}

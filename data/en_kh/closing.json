@@ -1,0 +1,33 @@
+{
+  "word": "closing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15137.png",
+      "local_image_path": "images/15137.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15120.png",
+      "local_image_path": "images/15120.png"
+    }
+  ],
+  "synonyms": [
+    "final",
+    "last",
+    "ultimate",
+    "dying",
+    "barring"
+  ],
+  "antonyms": [
+    "opening",
+    "starting"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/closing.mp3",
+  "local_sound_path": "sounds/closing.mp3"
+}

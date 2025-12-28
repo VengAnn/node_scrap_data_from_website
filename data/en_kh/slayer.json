@@ -1,0 +1,30 @@
+{
+  "word": "slayer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81082.png",
+      "local_image_path": "images/81082.png"
+    }
+  ],
+  "synonyms": [
+    "killer",
+    "butcher",
+    "murderer",
+    "executioner",
+    "exterminator",
+    "assassin",
+    "slaughterer",
+    "eradicator",
+    "destroyer"
+  ],
+  "antonyms": [
+    "creator"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slayer.mp3",
+  "local_sound_path": "sounds/slayer.mp3"
+}

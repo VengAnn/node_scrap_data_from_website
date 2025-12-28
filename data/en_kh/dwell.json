@@ -1,0 +1,39 @@
+{
+  "word": "dwell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "dwell in France",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23535.png",
+      "local_image_path": "images/23535.png"
+    },
+    {
+      "pos": "iv",
+      "example": "dwell on",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23536.png",
+      "local_image_path": "images/23536.png"
+    }
+  ],
+  "synonyms": [
+    "reside",
+    "stay",
+    "inhabit",
+    "settle",
+    "live",
+    "lodge",
+    "abide"
+  ],
+  "antonyms": [
+    "leave"
+  ],
+  "similar_words": [
+    "dweller",
+    "dwelling",
+    "dwelling house",
+    "dwelling place"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dwell.mp3",
+  "local_sound_path": "sounds/dwell.mp3"
+}

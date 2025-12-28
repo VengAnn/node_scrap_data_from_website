@@ -1,0 +1,50 @@
+{
+  "word": "following",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "following circumstances",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29527.png",
+      "local_image_path": "images/29527.png"
+    },
+    {
+      "pos": "adj",
+      "example": "following day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29528.png",
+      "local_image_path": "images/29528.png"
+    },
+    {
+      "pos": "adj",
+      "example": "following passage",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29529.png",
+      "local_image_path": "images/29529.png"
+    },
+    {
+      "pos": "n",
+      "example": "large following",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29525.png",
+      "local_image_path": "images/29525.png"
+    },
+    {
+      "pos": "n",
+      "example": "read the following",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29526.png",
+      "local_image_path": "images/29526.png"
+    }
+  ],
+  "synonyms": [
+    "next",
+    "subsequent",
+    "admiring"
+  ],
+  "antonyms": [
+    "previous",
+    "breaking",
+    "preceding"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/following.mp3",
+  "local_sound_path": "sounds/following.mp3"
+}

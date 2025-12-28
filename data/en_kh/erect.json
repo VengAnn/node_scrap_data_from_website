@@ -1,0 +1,50 @@
+{
+  "word": "erect",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25711.png",
+      "local_image_path": "images/25711.png"
+    },
+    {
+      "pos": "tv",
+      "example": "erect a house",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25712.png",
+      "local_image_path": "images/25712.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25713.png",
+      "local_image_path": "images/25713.png"
+    }
+  ],
+  "synonyms": [
+    "create",
+    "establish",
+    "found",
+    "institute",
+    "raise",
+    "build",
+    "construct",
+    "assemble"
+  ],
+  "antonyms": [
+    "prone",
+    "dismantle"
+  ],
+  "similar_words": [
+    "erectile",
+    "erectile dysfunction",
+    "erection",
+    "erective",
+    "erectly",
+    "erectness",
+    "erector"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erect.mp3",
+  "local_sound_path": "sounds/erect.mp3"
+}

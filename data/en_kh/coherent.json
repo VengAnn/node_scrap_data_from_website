@@ -1,0 +1,42 @@
+{
+  "word": "coherent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "coherent argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15563.png",
+      "local_image_path": "images/15563.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116633.png",
+      "local_image_path": "images/116633.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116634.png",
+      "local_image_path": "images/116634.png"
+    }
+  ],
+  "synonyms": [
+    "logical",
+    "rational",
+    "sound",
+    "consistent",
+    "articulate",
+    "lucid",
+    "reasonable"
+  ],
+  "antonyms": [
+    "illogical",
+    "unintelligible",
+    "inconsistent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coherent.mp3",
+  "local_sound_path": "sounds/coherent.mp3"
+}

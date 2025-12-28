@@ -1,0 +1,61 @@
+{
+  "word": "self",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "one's own self",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77809.png",
+      "local_image_path": "images/77809.png"
+    },
+    {
+      "pos": "pref",
+      "example": "self-help",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/77810.png",
+      "local_image_path": "images/77810.png"
+    }
+  ],
+  "synonyms": [
+    "personality",
+    "nature",
+    "character",
+    "identity",
+    "person",
+    "ego"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "self concept",
+    "self esteem",
+    "self ideal",
+    "self image",
+    "self value",
+    "self worth",
+    "self-abandoning",
+    "self-abasement",
+    "self-abnegation",
+    "self-absorbed",
+    "self-abuse",
+    "self-accusing",
+    "self-acting",
+    "self-activity",
+    "self-admiration",
+    "self-applause",
+    "self-appointed",
+    "self-asserting",
+    "self-assertion",
+    "self-assertive",
+    "self-assurance",
+    "self-assured",
+    "self-aware",
+    "self-binder",
+    "self-born",
+    "self-build",
+    "self-catering",
+    "self-centred",
+    "self-colour"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/self.mp3",
+  "local_sound_path": "sounds/self.mp3"
+}

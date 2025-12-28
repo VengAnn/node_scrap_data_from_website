@@ -1,0 +1,25 @@
+{
+  "word": "murderer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111092.png",
+      "local_image_path": "images/111092.png"
+    }
+  ],
+  "synonyms": [
+    "killer",
+    "assassin",
+    "slayer",
+    "slaughterer",
+    "executioner",
+    "butcher"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/murderer.mp3",
+  "local_sound_path": "sounds/murderer.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "emollient",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24598.png",
+      "local_image_path": "images/24598.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24599.png",
+      "local_image_path": "images/24599.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24600.png",
+      "local_image_path": "images/24600.png"
+    }
+  ],
+  "synonyms": [
+    "balm",
+    "cream",
+    "moisturizer",
+    "ointment",
+    "lotion",
+    "salve"
+  ],
+  "antonyms": [
+    "disruptive",
+    "irritant"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emollient.mp3",
+  "local_sound_path": "sounds/emollient.mp3"
+}

@@ -1,0 +1,38 @@
+{
+  "word": "plumpness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64341.png",
+      "local_image_path": "images/64341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64350.png",
+      "local_image_path": "images/64350.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/64354.png",
+      "local_image_path": "images/64354.png"
+    }
+  ],
+  "synonyms": [
+    "fatness",
+    "obesity",
+    "stoutness",
+    "flabbiness",
+    "roundness"
+  ],
+  "antonyms": [
+    "slenderness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plumpness.mp3",
+  "local_sound_path": "sounds/plumpness.mp3"
+}

@@ -1,0 +1,30 @@
+{
+  "word": "sunset",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86325.png",
+      "local_image_path": "images/86325.png"
+    }
+  ],
+  "synonyms": [
+    "sundown",
+    "dusk",
+    "evening",
+    "night",
+    "nightfall",
+    "twilight"
+  ],
+  "antonyms": [
+    "sunrise"
+  ],
+  "similar_words": [
+    "sunset industry",
+    "sunsetting"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sunset.mp3",
+  "local_sound_path": "sounds/sunset.mp3"
+}

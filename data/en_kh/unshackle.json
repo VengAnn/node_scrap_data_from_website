@@ -1,0 +1,31 @@
+{
+  "word": "unshackle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/95904.png",
+      "local_image_path": "images/95904.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129497.png",
+      "local_image_path": "images/129497.png"
+    }
+  ],
+  "synonyms": [
+    "release",
+    "unchain",
+    "liberate",
+    "unleash"
+  ],
+  "antonyms": [
+    "chain"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unshackle.mp3",
+  "local_sound_path": "sounds/unshackle.mp3"
+}

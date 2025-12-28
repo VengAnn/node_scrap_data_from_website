@@ -1,0 +1,30 @@
+{
+  "word": "educate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Parents should educate their children to be have well.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23899.png",
+      "local_image_path": "images/23899.png"
+    }
+  ],
+  "synonyms": [
+    "inform",
+    "alert",
+    "instruct",
+    "train",
+    "coach",
+    "teach",
+    "school",
+    "edify",
+    "tutor"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "educated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/educate.mp3",
+  "local_sound_path": "sounds/educate.mp3"
+}

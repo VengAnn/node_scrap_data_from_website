@@ -1,0 +1,44 @@
+{
+  "word": "exhaustive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26598.png",
+      "local_image_path": "images/26598.png"
+    },
+    {
+      "pos": "adj",
+      "example": "exhaustive search",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26599.png",
+      "local_image_path": "images/26599.png"
+    },
+    {
+      "pos": "adj",
+      "example": "exhaustive work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26600.png",
+      "local_image_path": "images/26600.png"
+    }
+  ],
+  "synonyms": [
+    "thorough",
+    "comprehensive",
+    "complete",
+    "full",
+    "extensive",
+    "far-reaching",
+    "meticulous",
+    "all-inclusive",
+    "intensive",
+    "sweeping"
+  ],
+  "antonyms": [
+    "restricted",
+    "superficial"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exhaustive.mp3",
+  "local_sound_path": "sounds/exhaustive.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "encampment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24743.png",
+      "local_image_path": "images/24743.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119111.png",
+      "local_image_path": "images/119111.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119112.png",
+      "local_image_path": "images/119112.png"
+    }
+  ],
+  "synonyms": [
+    "camp",
+    "campsite",
+    "bivouac"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encampment.mp3",
+  "local_sound_path": "sounds/encampment.mp3"
+}

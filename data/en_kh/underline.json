@@ -1,0 +1,33 @@
+{
+  "word": "underline",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94009.png",
+      "local_image_path": "images/94009.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94010.png",
+      "local_image_path": "images/94010.png"
+    }
+  ],
+  "synonyms": [
+    "underscore",
+    "emphasize",
+    "highlight",
+    "feature",
+    "stress",
+    "accentuate"
+  ],
+  "antonyms": [
+    "ignore"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/underline.mp3",
+  "local_sound_path": "sounds/underline.mp3"
+}

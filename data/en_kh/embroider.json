@@ -1,0 +1,32 @@
+{
+  "word": "embroider",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She embroiders very well.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24517.png",
+      "local_image_path": "images/24517.png"
+    },
+    {
+      "pos": "tv",
+      "example": "embroider the truth",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24518.png",
+      "local_image_path": "images/24518.png"
+    }
+  ],
+  "synonyms": [
+    "decorate",
+    "adorn",
+    "elaborate",
+    "embellish"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "embroiderer",
+    "embroidery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embroider.mp3",
+  "local_sound_path": "sounds/embroider.mp3"
+}

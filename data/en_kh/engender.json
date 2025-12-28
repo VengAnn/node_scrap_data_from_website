@@ -1,0 +1,25 @@
+{
+  "word": "engender",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "Some people believe poverty engenders crime.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25022.png",
+      "local_image_path": "images/25022.png"
+    }
+  ],
+  "synonyms": [
+    "provoke",
+    "prompt",
+    "beget",
+    "generate",
+    "propagate",
+    "spawn"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/engender.mp3",
+  "local_sound_path": "sounds/engender.mp3"
+}

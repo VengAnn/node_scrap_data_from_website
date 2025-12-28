@@ -1,0 +1,28 @@
+{
+  "word": "registration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "registration certificate",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71601.png",
+      "local_image_path": "images/71601.png"
+    }
+  ],
+  "synonyms": [
+    "register",
+    "list",
+    "listing",
+    "muster",
+    "check",
+    "entry"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "registration number",
+    "registration point"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/registration.mp3",
+  "local_sound_path": "sounds/registration.mp3"
+}

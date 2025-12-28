@@ -1,0 +1,35 @@
+{
+  "word": "kingdom",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "royal kingdom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43950.png",
+      "local_image_path": "images/43950.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/131997.png",
+      "local_image_path": "images/131997.png"
+    }
+  ],
+  "synonyms": [
+    "realm",
+    "empire",
+    "monarchy",
+    "sovereignty",
+    "territory",
+    "domain",
+    "demesne",
+    "dominion",
+    "nation",
+    "estate"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/kingdom.mp3",
+  "local_sound_path": "sounds/kingdom.mp3"
+}

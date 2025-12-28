@@ -1,0 +1,39 @@
+{
+  "word": "reliance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "can't put any reliance in him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/71896.png",
+      "local_image_path": "images/71896.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126773.png",
+      "local_image_path": "images/126773.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126774.png",
+      "local_image_path": "images/126774.png"
+    }
+  ],
+  "synonyms": [
+    "dependence",
+    "confidence",
+    "trust",
+    "belief",
+    "faith",
+    "support"
+  ],
+  "antonyms": [
+    "independence"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reliance.mp3",
+  "local_sound_path": "sounds/reliance.mp3"
+}

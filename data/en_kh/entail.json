@@ -1,0 +1,51 @@
+{
+  "word": "entail",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25247.png",
+      "local_image_path": "images/25247.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25248.png",
+      "local_image_path": "images/25248.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119237.png",
+      "local_image_path": "images/119237.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119238.png",
+      "local_image_path": "images/119238.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119239.png",
+      "local_image_path": "images/119239.png"
+    },
+    {
+      "pos": "tv",
+      "example": "His job entails a lot of hard work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25246.png",
+      "local_image_path": "images/25246.png"
+    }
+  ],
+  "synonyms": [
+    "cause",
+    "occasion"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entail.mp3",
+  "local_sound_path": "sounds/entail.mp3"
+}

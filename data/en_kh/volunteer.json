@@ -1,0 +1,51 @@
+{
+  "word": "volunteer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He volunteered to get some information.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98572.png",
+      "local_image_path": "images/98572.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98573.png",
+      "local_image_path": "images/98573.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98574.png",
+      "local_image_path": "images/98574.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98571.png",
+      "local_image_path": "images/98571.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98575.png",
+      "local_image_path": "images/98575.png"
+    }
+  ],
+  "synonyms": [
+    "helper",
+    "give",
+    "offer",
+    "tell",
+    "acquaint",
+    "advise",
+    "inform",
+    "notify"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/volunteer.mp3",
+  "local_sound_path": "sounds/volunteer.mp3"
+}

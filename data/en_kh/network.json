@@ -1,0 +1,27 @@
+{
+  "word": "network",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "distribution network",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55524.png",
+      "local_image_path": "images/55524.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55525.png",
+      "local_image_path": "images/55525.png"
+    }
+  ],
+  "synonyms": [
+    "interact",
+    "schmooze"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/network.mp3",
+  "local_sound_path": "sounds/network.mp3"
+}

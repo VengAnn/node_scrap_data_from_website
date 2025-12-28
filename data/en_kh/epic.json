@@ -1,0 +1,45 @@
+{
+  "word": "epic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25464.png",
+      "local_image_path": "images/25464.png"
+    },
+    {
+      "pos": "n",
+      "example": "write an epic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25462.png",
+      "local_image_path": "images/25462.png"
+    },
+    {
+      "pos": "n",
+      "example": "epic of his escape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25463.png",
+      "local_image_path": "images/25463.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119315.png",
+      "local_image_path": "images/119315.png"
+    }
+  ],
+  "synonyms": [
+    "classic",
+    "blockbuster"
+  ],
+  "antonyms": [
+    "minuscule"
+  ],
+  "similar_words": [
+    "epicalyx",
+    "epicure",
+    "epicurus"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/epic.mp3",
+  "local_sound_path": "sounds/epic.mp3"
+}

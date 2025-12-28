@@ -1,0 +1,41 @@
+{
+  "word": "useful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "Are you a useful member of society?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/96910.png",
+      "local_image_path": "images/96910.png"
+    }
+  ],
+  "synonyms": [
+    "convenient",
+    "handy",
+    "expedient",
+    "advantageous",
+    "beneficial",
+    "worthwhile",
+    "helpful",
+    "practical",
+    "functional",
+    "constructive",
+    "positive",
+    "valuable",
+    "nifty",
+    "effective",
+    "informative",
+    "serviceable"
+  ],
+  "antonyms": [
+    "useless",
+    "disadvantageous"
+  ],
+  "similar_words": [
+    "usefully",
+    "usefulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/useful.mp3",
+  "local_sound_path": "sounds/useful.mp3"
+}

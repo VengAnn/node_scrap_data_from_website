@@ -1,0 +1,49 @@
+{
+  "word": "repressive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72444.png",
+      "local_image_path": "images/72444.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126891.png",
+      "local_image_path": "images/126891.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126892.png",
+      "local_image_path": "images/126892.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126893.png",
+      "local_image_path": "images/126893.png"
+    }
+  ],
+  "synonyms": [
+    "oppressive",
+    "suppressive",
+    "cruel",
+    "brutal",
+    "authoritarian",
+    "tyrannical",
+    "despotic"
+  ],
+  "antonyms": [
+    "liberal"
+  ],
+  "similar_words": [
+    "repressively",
+    "repressiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/repressive.mp3",
+  "local_sound_path": "sounds/repressive.mp3"
+}

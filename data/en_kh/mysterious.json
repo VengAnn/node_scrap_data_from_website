@@ -1,0 +1,36 @@
+{
+  "word": "mysterious",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111382.png",
+      "local_image_path": "images/111382.png"
+    }
+  ],
+  "synonyms": [
+    "secretive",
+    "enigmatic",
+    "shadowy",
+    "furtive",
+    "cagey",
+    "strange",
+    "unexplained",
+    "inexplicable",
+    "unsolved",
+    "odd",
+    "peculiar",
+    "weird"
+  ],
+  "antonyms": [
+    "open"
+  ],
+  "similar_words": [
+    "mysteriously",
+    "mysteriousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mysterious.mp3",
+  "local_sound_path": "sounds/mysterious.mp3"
+}

@@ -1,0 +1,27 @@
+{
+  "word": "newspaper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55640.png",
+      "local_image_path": "images/55640.png"
+    }
+  ],
+  "synonyms": [
+    "paper",
+    "broadsheet",
+    "tabloid",
+    "daily",
+    "weekly",
+    "rag",
+    "newsprint",
+    "printing paper"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/newspaper.mp3",
+  "local_sound_path": "sounds/newspaper.mp3"
+}

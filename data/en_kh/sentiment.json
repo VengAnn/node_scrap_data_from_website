@@ -1,0 +1,63 @@
+{
+  "word": "sentiment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78161.png",
+      "local_image_path": "images/78161.png"
+    },
+    {
+      "pos": "n",
+      "example": "public sentiment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78162.png",
+      "local_image_path": "images/78162.png"
+    },
+    {
+      "pos": "n",
+      "example": "exaggerated sentiment",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78163.png",
+      "local_image_path": "images/78163.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78164.png",
+      "local_image_path": "images/78164.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/127649.png",
+      "local_image_path": "images/127649.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130799.png",
+      "local_image_path": "images/130799.png"
+    }
+  ],
+  "synonyms": [
+    "feeling",
+    "emotion",
+    "response",
+    "reaction",
+    "attitude",
+    "opinion",
+    "outlook"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sentimental",
+    "sentimentalism",
+    "sentimentalist",
+    "sentimentality",
+    "sentimentalize",
+    "sentimentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sentiment.mp3",
+  "local_sound_path": "sounds/sentiment.mp3"
+}

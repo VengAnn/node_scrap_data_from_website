@@ -1,0 +1,41 @@
+{
+  "word": "ebb",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23738.png",
+      "local_image_path": "images/23738.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23739.png",
+      "local_image_path": "images/23739.png"
+    },
+    {
+      "pos": "n",
+      "example": "ebb of the tide",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23737.png",
+      "local_image_path": "images/23737.png"
+    }
+  ],
+  "synonyms": [
+    "fade",
+    "diminish",
+    "recede",
+    "fail",
+    "disappear",
+    "abate",
+    "decline"
+  ],
+  "antonyms": [
+    "flow",
+    "surge"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ebb.mp3",
+  "local_sound_path": "sounds/ebb.mp3"
+}

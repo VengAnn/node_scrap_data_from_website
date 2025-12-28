@@ -1,0 +1,45 @@
+{
+  "word": "stratum",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85239.png",
+      "local_image_path": "images/85239.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85258.png",
+      "local_image_path": "images/85258.png"
+    },
+    {
+      "pos": "n",
+      "example": "geological stratum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85259.png",
+      "local_image_path": "images/85259.png"
+    },
+    {
+      "pos": "n",
+      "example": "social stratum",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85260.png",
+      "local_image_path": "images/85260.png"
+    }
+  ],
+  "synonyms": [
+    "layer",
+    "band",
+    "level",
+    "division",
+    "section",
+    "branch",
+    "echelon",
+    "vein"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/stratum.mp3",
+  "local_sound_path": "sounds/stratum.mp3"
+}

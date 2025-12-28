@@ -1,0 +1,39 @@
+{
+  "word": "environmental",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25418.png",
+      "local_image_path": "images/25418.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119305.png",
+      "local_image_path": "images/119305.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119306.png",
+      "local_image_path": "images/119306.png"
+    }
+  ],
+  "synonyms": [
+    "ecological",
+    "green",
+    "conservation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "environmental biology",
+    "environmental science",
+    "environmentalist",
+    "environmentally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/environmental.mp3",
+  "local_sound_path": "sounds/environmental.mp3"
+}

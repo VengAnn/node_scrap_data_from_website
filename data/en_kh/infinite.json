@@ -1,0 +1,48 @@
+{
+  "word": "infinite",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39674.png",
+      "local_image_path": "images/39674.png"
+    },
+    {
+      "pos": "adj",
+      "example": "infinite space",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39675.png",
+      "local_image_path": "images/39675.png"
+    },
+    {
+      "pos": "adj",
+      "example": "infinite patience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39676.png",
+      "local_image_path": "images/39676.png"
+    }
+  ],
+  "synonyms": [
+    "extreme",
+    "great",
+    "immense",
+    "large",
+    "huge",
+    "stupendous",
+    "tremendous",
+    "vast"
+  ],
+  "antonyms": [
+    "limited",
+    "tiny",
+    "slight"
+  ],
+  "similar_words": [
+    "infinitely",
+    "infiniteness",
+    "infinitesimal",
+    "infinitesimally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/infinite.mp3",
+  "local_sound_path": "sounds/infinite.mp3"
+}

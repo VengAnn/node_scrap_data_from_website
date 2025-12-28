@@ -1,0 +1,53 @@
+{
+  "word": "sovereign",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82959.png",
+      "local_image_path": "images/82959.png"
+    },
+    {
+      "pos": "adj",
+      "example": "A sovereign remedy for skin disease",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82960.png",
+      "local_image_path": "images/82960.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111716.png",
+      "local_image_path": "images/111716.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/82958.png",
+      "local_image_path": "images/82958.png"
+    }
+  ],
+  "synonyms": [
+    "supreme",
+    "superior",
+    "absolute",
+    "ruler",
+    "monarch",
+    "king",
+    "queen",
+    "potentate",
+    "emperor",
+    "empress",
+    "sultan"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "sovereign immunity",
+    "sovereign state",
+    "sovereignize",
+    "sovereignty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sovereign.mp3",
+  "local_sound_path": "sounds/sovereign.mp3"
+}

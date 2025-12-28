@@ -1,0 +1,56 @@
+{
+  "word": "ear",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "human ear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23620.png",
+      "local_image_path": "images/23620.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23621.png",
+      "local_image_path": "images/23621.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23622.png",
+      "local_image_path": "images/23622.png"
+    }
+  ],
+  "synonyms": [
+    "attention",
+    "hearing",
+    "heed",
+    "regard"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "ear lap",
+    "ear-drop",
+    "ear-pick",
+    "ear-trunpet",
+    "ear-witness",
+    "earache",
+    "eardrum",
+    "eared",
+    "earing",
+    "earldom",
+    "earless",
+    "earlet",
+    "earlier",
+    "earlobe",
+    "earlship",
+    "early",
+    "earmark",
+    "earmuff",
+    "earn",
+    "earnest"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ear.mp3",
+  "local_sound_path": "sounds/ear.mp3"
+}

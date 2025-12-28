@@ -1,0 +1,47 @@
+{
+  "word": "epithet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25576.png",
+      "local_image_path": "images/25576.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119335.png",
+      "local_image_path": "images/119335.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119336.png",
+      "local_image_path": "images/119336.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119337.png",
+      "local_image_path": "images/119337.png"
+    }
+  ],
+  "synonyms": [
+    "nickname",
+    "description",
+    "appellation",
+    "handle",
+    "label",
+    "sobriquet",
+    "moniker"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "epithetic",
+    "epithetical"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/epithet.mp3",
+  "local_sound_path": "sounds/epithet.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "entertainment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25286.png",
+      "local_image_path": "images/25286.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25287.png",
+      "local_image_path": "images/25287.png"
+    },
+    {
+      "pos": "n",
+      "example": "entertainment of guests",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25288.png",
+      "local_image_path": "images/25288.png"
+    }
+  ],
+  "synonyms": [
+    "activity",
+    "pursuit",
+    "amusement",
+    "hobby",
+    "leisure",
+    "distraction",
+    "diversion"
+  ],
+  "antonyms": [
+    "boredom"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entertainment.mp3",
+  "local_sound_path": "sounds/entertainment.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "edition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23891.png",
+      "local_image_path": "images/23891.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118896.png",
+      "local_image_path": "images/118896.png"
+    }
+  ],
+  "synonyms": [
+    "version",
+    "publication",
+    "copy",
+    "text",
+    "book",
+    "newspaper",
+    "magazine",
+    "journal"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/edition.mp3",
+  "local_sound_path": "sounds/edition.mp3"
+}

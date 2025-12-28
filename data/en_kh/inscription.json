@@ -1,0 +1,41 @@
+{
+  "word": "inscription",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "stone inscription",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40425.png",
+      "local_image_path": "images/40425.png"
+    },
+    {
+      "pos": "n",
+      "example": "inscription of a name",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40426.png",
+      "local_image_path": "images/40426.png"
+    },
+    {
+      "pos": "n",
+      "example": "author's inscription",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40427.png",
+      "local_image_path": "images/40427.png"
+    }
+  ],
+  "synonyms": [
+    "writing",
+    "dedication",
+    "message",
+    "caption",
+    "autograph",
+    "signature"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "inscriptional",
+    "inscriptionally",
+    "inscriptioned"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inscription.mp3",
+  "local_sound_path": "sounds/inscription.mp3"
+}

@@ -1,0 +1,40 @@
+{
+  "word": "supernatural",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86417.png",
+      "local_image_path": "images/86417.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86418.png",
+      "local_image_path": "images/86418.png"
+    }
+  ],
+  "synonyms": [
+    "paranormal",
+    "mystic",
+    "ghostly",
+    "ghostlike",
+    "uncanny",
+    "weird",
+    "bizarre",
+    "eerie",
+    "magic",
+    "unnatural",
+    "preternatural",
+    "psychic",
+    "unearthly"
+  ],
+  "antonyms": [
+    "natural"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/supernatural.mp3",
+  "local_sound_path": "sounds/supernatural.mp3"
+}

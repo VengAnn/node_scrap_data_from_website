@@ -1,0 +1,51 @@
+{
+  "word": "east",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "east wind",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23698.png",
+      "local_image_path": "images/23698.png"
+    },
+    {
+      "pos": "adv",
+      "example": "My window faces east.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23699.png",
+      "local_image_path": "images/23699.png"
+    },
+    {
+      "pos": "n",
+      "example": "The wind is blowing from the east",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23696.png",
+      "local_image_path": "images/23696.png"
+    },
+    {
+      "pos": "n",
+      "example": "the East",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23697.png",
+      "local_image_path": "images/23697.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "eastbound",
+    "easter",
+    "easter egg",
+    "easterling",
+    "easterly",
+    "eastermost",
+    "eastern",
+    "eastern bloc",
+    "eastern bluebird",
+    "easternmost",
+    "easting",
+    "eastward",
+    "eastwardly",
+    "eastwards"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/east.mp3",
+  "local_sound_path": "sounds/east.mp3"
+}

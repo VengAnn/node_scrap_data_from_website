@@ -1,0 +1,43 @@
+{
+  "word": "highly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "highly amused",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35149.png",
+      "local_image_path": "images/35149.png"
+    },
+    {
+      "pos": "adv",
+      "example": "speak highly of him",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35150.png",
+      "local_image_path": "images/35150.png"
+    },
+    {
+      "pos": "adv",
+      "example": "high important",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35151.png",
+      "local_image_path": "images/35151.png"
+    }
+  ],
+  "synonyms": [
+    "favorably",
+    "approvingly",
+    "kindly",
+    "warmly",
+    "graciously",
+    "well",
+    "abundantly",
+    "substantially",
+    "greatly",
+    "amply"
+  ],
+  "antonyms": [
+    "poorly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/highly.mp3",
+  "local_sound_path": "sounds/highly.mp3"
+}

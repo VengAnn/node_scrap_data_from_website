@@ -1,0 +1,33 @@
+{
+  "word": "enterprise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "business enterprise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25273.png",
+      "local_image_path": "images/25273.png"
+    },
+    {
+      "pos": "n",
+      "example": "full of enterprise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25274.png",
+      "local_image_path": "images/25274.png"
+    }
+  ],
+  "synonyms": [
+    "venture",
+    "project",
+    "endeavor",
+    "activity",
+    "scheme",
+    "undertaking"
+  ],
+  "antonyms": [
+    "apathy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enterprise.mp3",
+  "local_sound_path": "sounds/enterprise.mp3"
+}

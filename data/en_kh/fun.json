@@ -1,0 +1,62 @@
+{
+  "word": "fun",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30618.png",
+      "local_image_path": "images/30618.png"
+    },
+    {
+      "pos": "n",
+      "example": "have fun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30616.png",
+      "local_image_path": "images/30616.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30617.png",
+      "local_image_path": "images/30617.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120525.png",
+      "local_image_path": "images/120525.png"
+    }
+  ],
+  "synonyms": [
+    "enjoyment",
+    "excitement",
+    "amusement",
+    "pleasure",
+    "joy",
+    "exuberance",
+    "entertainment",
+    "merriment",
+    "diversion"
+  ],
+  "antonyms": [
+    "boring",
+    "boredom"
+  ],
+  "similar_words": [
+    "funambulist",
+    "function",
+    "functional",
+    "functional food",
+    "functional illiteracy",
+    "functional illiterate",
+    "functional illitercy",
+    "functionality",
+    "functionary",
+    "fund",
+    "fundament",
+    "fundamental"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fun.mp3",
+  "local_sound_path": "sounds/fun.mp3"
+}

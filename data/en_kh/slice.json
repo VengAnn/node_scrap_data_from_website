@@ -1,0 +1,46 @@
+{
+  "word": "slice",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "slice of bread",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81185.png",
+      "local_image_path": "images/81185.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slice pork",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81182.png",
+      "local_image_path": "images/81182.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ship slices the sea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81183.png",
+      "local_image_path": "images/81183.png"
+    },
+    {
+      "pos": "tv",
+      "example": "slice one's hand with a knife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/81184.png",
+      "local_image_path": "images/81184.png"
+    }
+  ],
+  "synonyms": [
+    "share",
+    "cut",
+    "part",
+    "percentage",
+    "carve",
+    "divide"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "slice bar",
+    "slicer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/slice.mp3",
+  "local_sound_path": "sounds/slice.mp3"
+}

@@ -1,0 +1,48 @@
+{
+  "word": "embark",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "embark (for…..)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24421.png",
+      "local_image_path": "images/24421.png"
+    },
+    {
+      "pos": "iv",
+      "example": "Passengers with cars must embark first.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24422.png",
+      "local_image_path": "images/24422.png"
+    },
+    {
+      "pos": "tv",
+      "example": "embark cargo",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24423.png",
+      "local_image_path": "images/24423.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24424.png",
+      "local_image_path": "images/24424.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119032.png",
+      "local_image_path": "images/119032.png"
+    }
+  ],
+  "synonyms": [
+    "board"
+  ],
+  "antonyms": [
+    "disembark"
+  ],
+  "similar_words": [
+    "embarkation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embark.mp3",
+  "local_sound_path": "sounds/embark.mp3"
+}

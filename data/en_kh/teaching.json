@@ -1,0 +1,30 @@
+{
+  "word": "teaching",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "go into teaching",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87790.png",
+      "local_image_path": "images/87790.png"
+    },
+    {
+      "pos": "n",
+      "example": "follow his teaching",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87791.png",
+      "local_image_path": "images/87791.png"
+    }
+  ],
+  "synonyms": [
+    "philosophy",
+    "thinking",
+    "doctrine"
+  ],
+  "antonyms": [
+    "learning"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/teaching.mp3",
+  "local_sound_path": "sounds/teaching.mp3"
+}

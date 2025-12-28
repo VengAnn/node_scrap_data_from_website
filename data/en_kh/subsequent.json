@@ -1,0 +1,39 @@
+{
+  "word": "subsequent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "subsequent events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85847.png",
+      "local_image_path": "images/85847.png"
+    },
+    {
+      "pos": "adj",
+      "example": "subsequent paragraph",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85848.png",
+      "local_image_path": "images/85848.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85849.png",
+      "local_image_path": "images/85849.png"
+    }
+  ],
+  "synonyms": [
+    "following",
+    "succeeding",
+    "ensuing",
+    "successive",
+    "consequent",
+    "later"
+  ],
+  "antonyms": [
+    "preceding"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/subsequent.mp3",
+  "local_sound_path": "sounds/subsequent.mp3"
+}

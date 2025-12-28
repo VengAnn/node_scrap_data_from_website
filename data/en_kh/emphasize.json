@@ -1,0 +1,32 @@
+{
+  "word": "emphasize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "emphasize a syllable",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24629.png",
+      "local_image_path": "images/24629.png"
+    },
+    {
+      "pos": "tv",
+      "example": "emphasize a point",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24631.png",
+      "local_image_path": "images/24631.png"
+    }
+  ],
+  "synonyms": [
+    "highlight",
+    "stress",
+    "accentuate",
+    "underline",
+    "underscore"
+  ],
+  "antonyms": [
+    "understate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emphasize.mp3",
+  "local_sound_path": "sounds/emphasize.mp3"
+}

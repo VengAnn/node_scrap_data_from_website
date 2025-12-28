@@ -1,0 +1,53 @@
+{
+  "word": "purge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "political purge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68981.png",
+      "local_image_path": "images/68981.png"
+    },
+    {
+      "pos": "n",
+      "example": "medicinal purge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68982.png",
+      "local_image_path": "images/68982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68978.png",
+      "local_image_path": "images/68978.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68979.png",
+      "local_image_path": "images/68979.png"
+    },
+    {
+      "pos": "tv",
+      "example": "purge the bowels",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/68980.png",
+      "local_image_path": "images/68980.png"
+    }
+  ],
+  "synonyms": [
+    "cleanse",
+    "clean",
+    "purify",
+    "sluice"
+  ],
+  "antonyms": [
+    "castigate"
+  ],
+  "similar_words": [
+    "purgeable",
+    "purger",
+    "purgery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/purge.mp3",
+  "local_sound_path": "sounds/purge.mp3"
+}

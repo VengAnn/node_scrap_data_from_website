@@ -1,0 +1,42 @@
+{
+  "word": "shepherd",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "fig",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79091.png",
+      "local_image_path": "images/79091.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79089.png",
+      "local_image_path": "images/79089.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79090.png",
+      "local_image_path": "images/79090.png"
+    }
+  ],
+  "synonyms": [
+    "marshal",
+    "drive",
+    "guide",
+    "steer",
+    "propel",
+    "direct"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shepherd dog",
+    "shepherdess",
+    "shepherdize",
+    "shepherdly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shepherd.mp3",
+  "local_sound_path": "sounds/shepherd.mp3"
+}

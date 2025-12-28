@@ -1,0 +1,33 @@
+{
+  "word": "elegiac",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "elegiac quality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24258.png",
+      "local_image_path": "images/24258.png"
+    },
+    {
+      "pos": "adj",
+      "example": "elegiac couplet",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24259.png",
+      "local_image_path": "images/24259.png"
+    }
+  ],
+  "synonyms": [
+    "mournful",
+    "sad",
+    "melancholic",
+    "plaintive",
+    "nostalgic",
+    "lamenting"
+  ],
+  "antonyms": [
+    "cheerful"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elegiac.mp3",
+  "local_sound_path": "sounds/elegiac.mp3"
+}

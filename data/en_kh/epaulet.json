@@ -1,0 +1,30 @@
+{
+  "word": "epaulet",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25444.png",
+      "local_image_path": "images/25444.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130294.png",
+      "local_image_path": "images/130294.png"
+    }
+  ],
+  "synonyms": [
+    "decoration",
+    "insignia",
+    "strap"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "epaulette"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/epaulet.mp3",
+  "local_sound_path": "sounds/epaulet.mp3"
+}

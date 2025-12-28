@@ -1,0 +1,41 @@
+{
+  "word": "vitality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Can an astificial language have any vitality?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98303.png",
+      "local_image_path": "images/98303.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129775.png",
+      "local_image_path": "images/129775.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129776.png",
+      "local_image_path": "images/129776.png"
+    }
+  ],
+  "synonyms": [
+    "energy",
+    "vivacity",
+    "liveliness",
+    "strength",
+    "life",
+    "vigor",
+    "animation",
+    "verve"
+  ],
+  "antonyms": [
+    "lethargy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vitality.mp3",
+  "local_sound_path": "sounds/vitality.mp3"
+}

@@ -1,0 +1,46 @@
+{
+  "word": "ephemeral",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25453.png",
+      "local_image_path": "images/25453.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119312.png",
+      "local_image_path": "images/119312.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25454.png",
+      "local_image_path": "images/25454.png"
+    }
+  ],
+  "synonyms": [
+    "short-lived",
+    "transient",
+    "passing",
+    "fleeting",
+    "brief",
+    "momentary",
+    "temporary",
+    "transitory",
+    "evanescent"
+  ],
+  "antonyms": [
+    "lasting",
+    "permanent"
+  ],
+  "similar_words": [
+    "ephemerality",
+    "ephemerally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ephemeral.mp3",
+  "local_sound_path": "sounds/ephemeral.mp3"
+}

@@ -1,0 +1,25 @@
+{
+  "word": "emperor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24626.png",
+      "local_image_path": "images/24626.png"
+    }
+  ],
+  "synonyms": [
+    "monarch",
+    "ruler",
+    "sovereign",
+    "king"
+  ],
+  "antonyms": [
+    "subject"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emperor.mp3",
+  "local_sound_path": "sounds/emperor.mp3"
+}

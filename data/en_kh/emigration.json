@@ -1,0 +1,28 @@
+{
+  "word": "emigration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24578.png",
+      "local_image_path": "images/24578.png"
+    }
+  ],
+  "synonyms": [
+    "migration",
+    "flight",
+    "evacuation",
+    "expatriation",
+    "exile",
+    "relocation",
+    "exodus"
+  ],
+  "antonyms": [
+    "return"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emigration.mp3",
+  "local_sound_path": "sounds/emigration.mp3"
+}

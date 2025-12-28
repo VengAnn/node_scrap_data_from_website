@@ -1,0 +1,32 @@
+{
+  "word": "fragile",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "fragile glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/30059.png",
+      "local_image_path": "images/30059.png"
+    }
+  ],
+  "synonyms": [
+    "tenuous",
+    "unstable",
+    "delicate",
+    "precarious",
+    "slight",
+    "frail",
+    "weak",
+    "feeble",
+    "infirm"
+  ],
+  "antonyms": [
+    "sturdy",
+    "strong",
+    "stable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fragile.mp3",
+  "local_sound_path": "sounds/fragile.mp3"
+}

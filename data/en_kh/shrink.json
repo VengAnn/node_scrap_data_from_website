@@ -1,0 +1,51 @@
+{
+  "word": "shrink",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "clothes shrink",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79615.png",
+      "local_image_path": "images/79615.png"
+    },
+    {
+      "pos": "iv",
+      "example": "shrink from responsibility",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79616.png",
+      "local_image_path": "images/79616.png"
+    },
+    {
+      "pos": "t",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79617.png",
+      "local_image_path": "images/79617.png"
+    }
+  ],
+  "synonyms": [
+    "psychiatrist",
+    "psychoanalyst",
+    "therapist",
+    "counselor",
+    "analyst",
+    "cower",
+    "cringe",
+    "flinch",
+    "recoil",
+    "grovel",
+    "withdraw"
+  ],
+  "antonyms": [
+    "grow",
+    "rise"
+  ],
+  "similar_words": [
+    "shrink-resistant",
+    "shrinkable",
+    "shrinkage",
+    "shrinker",
+    "shrinking violet"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shrink.mp3",
+  "local_sound_path": "sounds/shrink.mp3"
+}

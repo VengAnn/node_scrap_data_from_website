@@ -1,0 +1,43 @@
+{
+  "word": "itemize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42523.png",
+      "local_image_path": "images/42523.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123027.png",
+      "local_image_path": "images/123027.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123028.png",
+      "local_image_path": "images/123028.png"
+    }
+  ],
+  "synonyms": [
+    "list",
+    "detail",
+    "enumerate",
+    "record",
+    "document",
+    "catalog",
+    "catalogue",
+    "name",
+    "specify"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "itemized account",
+    "itemized invoice"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/itemize.mp3",
+  "local_sound_path": "sounds/itemize.mp3"
+}

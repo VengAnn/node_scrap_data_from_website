@@ -1,0 +1,72 @@
+{
+  "word": "more",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "There are more students who's like to come",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110441.png",
+      "local_image_path": "images/110441.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I like her more than her husband.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110442.png",
+      "local_image_path": "images/110442.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110443.png",
+      "local_image_path": "images/110443.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124309.png",
+      "local_image_path": "images/124309.png"
+    },
+    {
+      "pos": "adv",
+      "example": "sing more",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110444.png",
+      "local_image_path": "images/110444.png"
+    },
+    {
+      "pos": "adv",
+      "example": "She is more beautiful than her mother.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110445.png",
+      "local_image_path": "images/110445.png"
+    },
+    {
+      "pos": "n",
+      "example": "Please, give me more",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110446.png",
+      "local_image_path": "images/110446.png"
+    }
+  ],
+  "synonyms": [
+    "additional",
+    "extra",
+    "supplementary",
+    "further",
+    "new",
+    "other",
+    "farther",
+    "beyond",
+    "above"
+  ],
+  "antonyms": [
+    "less"
+  ],
+  "similar_words": [
+    "moreen",
+    "morel",
+    "morena",
+    "moreover",
+    "mores"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/more.mp3",
+  "local_sound_path": "sounds/more.mp3"
+}

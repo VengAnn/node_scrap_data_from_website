@@ -1,0 +1,53 @@
+{
+  "word": "query",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69520.png",
+      "local_image_path": "images/69520.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69521.png",
+      "local_image_path": "images/69521.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69522.png",
+      "local_image_path": "images/69522.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69523.png",
+      "local_image_path": "images/69523.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69524.png",
+      "local_image_path": "images/69524.png"
+    }
+  ],
+  "synonyms": [
+    "doubt",
+    "suspect",
+    "challenge",
+    "mistrust",
+    "distrust",
+    "question"
+  ],
+  "antonyms": [
+    "answer",
+    "certainty",
+    "trust"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/query.mp3",
+  "local_sound_path": "sounds/query.mp3"
+}

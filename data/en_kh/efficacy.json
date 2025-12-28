@@ -1,0 +1,33 @@
+{
+  "word": "efficacy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23972.png",
+      "local_image_path": "images/23972.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118915.png",
+      "local_image_path": "images/118915.png"
+    }
+  ],
+  "synonyms": [
+    "effectiveness",
+    "efficiency",
+    "usefulness",
+    "worth",
+    "value",
+    "ability"
+  ],
+  "antonyms": [
+    "inefficiency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/efficacy.mp3",
+  "local_sound_path": "sounds/efficacy.mp3"
+}

@@ -1,0 +1,45 @@
+{
+  "word": "empowerment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "This book is a tool of empowerment.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/111710.png",
+      "local_image_path": "images/111710.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132322.png",
+      "local_image_path": "images/132322.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132323.png",
+      "local_image_path": "images/132323.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132324.png",
+      "local_image_path": "images/132324.png"
+    }
+  ],
+  "synonyms": [
+    "liberation",
+    "enfranchisement",
+    "emancipation",
+    "inspiration",
+    "encouragement",
+    "equality"
+  ],
+  "antonyms": [
+    "embargo"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/empowerment.mp3",
+  "local_sound_path": "sounds/empowerment.mp3"
+}

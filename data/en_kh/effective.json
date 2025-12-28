@@ -1,0 +1,45 @@
+{
+  "word": "effective",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The law is no longer effective.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23934.png",
+      "local_image_path": "images/23934.png"
+    },
+    {
+      "pos": "adj",
+      "example": "effective law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23935.png",
+      "local_image_path": "images/23935.png"
+    }
+  ],
+  "synonyms": [
+    "operative",
+    "operational",
+    "effectual",
+    "efficient",
+    "successful",
+    "useful",
+    "helpful",
+    "valuable",
+    "good"
+  ],
+  "antonyms": [
+    "ineffectual",
+    "nominal",
+    "inoperative",
+    "ineffective"
+  ],
+  "similar_words": [
+    "effective demand",
+    "effective office",
+    "effective yield",
+    "effectively",
+    "effectiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/effective.mp3",
+  "local_sound_path": "sounds/effective.mp3"
+}

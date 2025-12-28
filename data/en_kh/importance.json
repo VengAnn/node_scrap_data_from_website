@@ -1,0 +1,42 @@
+{
+  "word": "importance",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "has no importance.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37849.png",
+      "local_image_path": "images/37849.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121691.png",
+      "local_image_path": "images/121691.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121692.png",
+      "local_image_path": "images/121692.png"
+    }
+  ],
+  "synonyms": [
+    "significance",
+    "meaning",
+    "weight",
+    "consequence",
+    "magnitude",
+    "import",
+    "substance",
+    "value",
+    "worth"
+  ],
+  "antonyms": [
+    "triviality"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/importance.mp3",
+  "local_sound_path": "sounds/importance.mp3"
+}

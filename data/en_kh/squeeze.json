@@ -1,0 +1,81 @@
+{
+  "word": "squeeze",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "squeeze into",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83947.png",
+      "local_image_path": "images/83947.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83948.png",
+      "local_image_path": "images/83948.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83949.png",
+      "local_image_path": "images/83949.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83950.png",
+      "local_image_path": "images/83950.png"
+    },
+    {
+      "pos": "tv",
+      "example": "squeeze her hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83943.png",
+      "local_image_path": "images/83943.png"
+    },
+    {
+      "pos": "tv",
+      "example": "squeeze a debtor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83944.png",
+      "local_image_path": "images/83944.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83945.png",
+      "local_image_path": "images/83945.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83946.png",
+      "local_image_path": "images/83946.png"
+    }
+  ],
+  "synonyms": [
+    "cuddle",
+    "hug",
+    "embrace",
+    "clasp",
+    "press",
+    "clutch",
+    "grip",
+    "grasp",
+    "wring",
+    "compress",
+    "pinch",
+    "constrict",
+    "squash",
+    "mold"
+  ],
+  "antonyms": [
+    "release",
+    "coax"
+  ],
+  "similar_words": [
+    "squeeze-out",
+    "squeezer"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/squeeze.mp3",
+  "local_sound_path": "sounds/squeeze.mp3"
+}

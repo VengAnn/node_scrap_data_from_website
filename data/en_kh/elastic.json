@@ -1,0 +1,41 @@
+{
+  "word": "elastic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "THe elastic in my pants has gone.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24121.png",
+      "local_image_path": "images/24121.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24122.png",
+      "local_image_path": "images/24122.png"
+    }
+  ],
+  "synonyms": [
+    "flexible",
+    "adaptable",
+    "changeable",
+    "stretchy",
+    "stretch",
+    "expandable",
+    "resilient",
+    "supple",
+    "springy"
+  ],
+  "antonyms": [
+    "inflexible",
+    "rigid"
+  ],
+  "similar_words": [
+    "elastic band",
+    "elasticate",
+    "elasticity"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/elastic.mp3",
+  "local_sound_path": "sounds/elastic.mp3"
+}

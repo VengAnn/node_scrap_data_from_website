@@ -1,0 +1,45 @@
+{
+  "word": "endless",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The hours of waiting seemed endless.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24889.png",
+      "local_image_path": "images/24889.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119173.png",
+      "local_image_path": "images/119173.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119174.png",
+      "local_image_path": "images/119174.png"
+    }
+  ],
+  "synonyms": [
+    "everlasting",
+    "incessant",
+    "continual",
+    "continuous",
+    "nonstop",
+    "perpetual",
+    "eternal",
+    "constant",
+    "persistent",
+    "never-ending",
+    "infinite"
+  ],
+  "antonyms": [
+    "finite",
+    "temporary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endless.mp3",
+  "local_sound_path": "sounds/endless.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "enlist",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "He enlisted as a soldier in the army as soon as he was old enough.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25129.png",
+      "local_image_path": "images/25129.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Have you enlisted yet?",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25127.png",
+      "local_image_path": "images/25127.png"
+    },
+    {
+      "pos": "tv",
+      "example": "We have enlisted a few volunteers to help clean the \n\nhall.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25128.png",
+      "local_image_path": "images/25128.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119222.png",
+      "local_image_path": "images/119222.png"
+    }
+  ],
+  "synonyms": [
+    "recruit",
+    "procure",
+    "solicit",
+    "join",
+    "enroll",
+    "volunteer"
+  ],
+  "antonyms": [
+    "reject"
+  ],
+  "similar_words": [
+    "enlistment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enlist.mp3",
+  "local_sound_path": "sounds/enlist.mp3"
+}

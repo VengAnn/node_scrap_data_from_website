@@ -1,0 +1,51 @@
+{
+  "word": "entwine",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25372.png",
+      "local_image_path": "images/25372.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119289.png",
+      "local_image_path": "images/119289.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119290.png",
+      "local_image_path": "images/119290.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119291.png",
+      "local_image_path": "images/119291.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25373.png",
+      "local_image_path": "images/25373.png"
+    }
+  ],
+  "synonyms": [
+    "tangle",
+    "entangle",
+    "twist",
+    "interweave",
+    "interlace",
+    "interlink"
+  ],
+  "antonyms": [
+    "undo"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entwine.mp3",
+  "local_sound_path": "sounds/entwine.mp3"
+}

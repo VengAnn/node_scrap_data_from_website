@@ -1,0 +1,38 @@
+{
+  "word": "inexplicable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/39510.png",
+      "local_image_path": "images/39510.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122305.png",
+      "local_image_path": "images/122305.png"
+    }
+  ],
+  "synonyms": [
+    "mysterious",
+    "incomprehensible",
+    "unfathomable",
+    "bizarre",
+    "curious",
+    "strange",
+    "enigmatic",
+    "perplexing",
+    "unaccountable"
+  ],
+  "antonyms": [
+    "explicable"
+  ],
+  "similar_words": [
+    "inexplicableness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inexplicable.mp3",
+  "local_sound_path": "sounds/inexplicable.mp3"
+}

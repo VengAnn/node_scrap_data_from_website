@@ -1,0 +1,30 @@
+{
+  "word": "simplify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "simplify a task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80249.png",
+      "local_image_path": "images/80249.png"
+    },
+    {
+      "pos": "tv",
+      "example": "simplify a design",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80250.png",
+      "local_image_path": "images/80250.png"
+    }
+  ],
+  "synonyms": [
+    "abridge",
+    "shorten",
+    "streamline"
+  ],
+  "antonyms": [
+    "complicate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/simplify.mp3",
+  "local_sound_path": "sounds/simplify.mp3"
+}

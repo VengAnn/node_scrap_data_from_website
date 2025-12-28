@@ -1,0 +1,28 @@
+{
+  "word": "serene",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "serene serenity",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78269.png",
+      "local_image_path": "images/78269.png"
+    }
+  ],
+  "synonyms": [
+    "composed",
+    "unruffled",
+    "peaceful",
+    "placid",
+    "cool",
+    "laid-back",
+    "calm"
+  ],
+  "antonyms": [
+    "agitated"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/serene.mp3",
+  "local_sound_path": "sounds/serene.mp3"
+}

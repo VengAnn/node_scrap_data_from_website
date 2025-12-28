@@ -1,0 +1,47 @@
+{
+  "word": "epilog",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25515.png",
+      "local_image_path": "images/25515.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25516.png",
+      "local_image_path": "images/25516.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119323.png",
+      "local_image_path": "images/119323.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119324.png",
+      "local_image_path": "images/119324.png"
+    }
+  ],
+  "synonyms": [
+    "conclusion",
+    "speech",
+    "monologue"
+  ],
+  "antonyms": [
+    "prologue"
+  ],
+  "similar_words": [
+    "epilogate",
+    "epilogize",
+    "epilogue",
+    "epiloguize"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/epilog.mp3",
+  "local_sound_path": "sounds/epilog.mp3"
+}

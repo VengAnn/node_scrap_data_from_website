@@ -1,0 +1,100 @@
+{
+  "word": "mount",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "costs mount",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110703.png",
+      "local_image_path": "images/110703.png"
+    },
+    {
+      "pos": "iv",
+      "example": "riders mount",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110704.png",
+      "local_image_path": "images/110704.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110705.png",
+      "local_image_path": "images/110705.png"
+    },
+    {
+      "pos": "n",
+      "example": "photograph mount",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110706.png",
+      "local_image_path": "images/110706.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110707.png",
+      "local_image_path": "images/110707.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mount a horse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110699.png",
+      "local_image_path": "images/110699.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mount an attack",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110700.png",
+      "local_image_path": "images/110700.png"
+    },
+    {
+      "pos": "tv",
+      "example": "mount a photograph",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110701.png",
+      "local_image_path": "images/110701.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/110702.png",
+      "local_image_path": "images/110702.png"
+    }
+  ],
+  "synonyms": [
+    "base",
+    "stand",
+    "support",
+    "prepare",
+    "organize",
+    "produce",
+    "launch",
+    "arrange"
+  ],
+  "antonyms": [
+    "decrease",
+    "descend",
+    "dismount"
+  ],
+  "similar_words": [
+    "mountain",
+    "mountain ash",
+    "mountain board",
+    "mountain cat",
+    "mountain chain",
+    "mountain dew",
+    "mountain lion",
+    "mountain sickness",
+    "mountaineer",
+    "mountaineering",
+    "mountainet",
+    "mountainous",
+    "mountains range",
+    "mountainy",
+    "mountebank",
+    "mounted",
+    "mounter",
+    "mountie",
+    "mounting",
+    "mounting tension"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mount.mp3",
+  "local_sound_path": "sounds/mount.mp3"
+}

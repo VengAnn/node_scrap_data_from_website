@@ -1,0 +1,32 @@
+{
+  "word": "erase",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She couldn't erase the incident from her memory.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25698.png",
+      "local_image_path": "images/25698.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25699.png",
+      "local_image_path": "images/25699.png"
+    }
+  ],
+  "synonyms": [
+    "remove",
+    "expunge",
+    "obliterate",
+    "delete"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "erasement",
+    "eraser"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erase.mp3",
+  "local_sound_path": "sounds/erase.mp3"
+}

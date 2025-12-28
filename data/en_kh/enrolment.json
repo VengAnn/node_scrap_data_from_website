@@ -1,0 +1,32 @@
+{
+  "word": "enrolment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25196.png",
+      "local_image_path": "images/25196.png"
+    },
+    {
+      "pos": "n",
+      "example": "This school has an enrolment of 800 pupils.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25197.png",
+      "local_image_path": "images/25197.png"
+    }
+  ],
+  "synonyms": [
+    "registration",
+    "matriculation",
+    "admission",
+    "acceptance",
+    "membership"
+  ],
+  "antonyms": [
+    "resignation"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enrolment.mp3",
+  "local_sound_path": "sounds/enrolment.mp3"
+}

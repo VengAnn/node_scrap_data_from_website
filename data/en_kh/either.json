@@ -1,0 +1,41 @@
+{
+  "word": "either",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "You can park on either side of the street.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24089.png",
+      "local_image_path": "images/24089.png"
+    },
+    {
+      "pos": "adv",
+      "example": "I'm not going either.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24092.png",
+      "local_image_path": "images/24092.png"
+    },
+    {
+      "pos": "conj",
+      "example": "either black or red will do",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24091.png",
+      "local_image_path": "images/24091.png"
+    },
+    {
+      "pos": "pron",
+      "example": "either will do",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24090.png",
+      "local_image_path": "images/24090.png"
+    }
+  ],
+  "synonyms": [
+    "each",
+    "both",
+    "also",
+    "moreover"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/either.mp3",
+  "local_sound_path": "sounds/either.mp3"
+}

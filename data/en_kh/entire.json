@@ -1,0 +1,40 @@
+{
+  "word": "entire",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "entire family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25307.png",
+      "local_image_path": "images/25307.png"
+    },
+    {
+      "pos": "adj",
+      "example": "entire feedom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25308.png",
+      "local_image_path": "images/25308.png"
+    }
+  ],
+  "synonyms": [
+    "whole",
+    "complete",
+    "total",
+    "full",
+    "intact",
+    "absolute",
+    "thorough",
+    "unqualified",
+    "unmitigated"
+  ],
+  "antonyms": [
+    "incomplete",
+    "partial"
+  ],
+  "similar_words": [
+    "entirely",
+    "entirety"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entire.mp3",
+  "local_sound_path": "sounds/entire.mp3"
+}

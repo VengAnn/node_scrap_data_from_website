@@ -1,0 +1,32 @@
+{
+  "word": "patience",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "You must have patience with your work.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60661.png",
+      "local_image_path": "images/60661.png"
+    }
+  ],
+  "synonyms": [
+    "endurance",
+    "tolerance",
+    "persistence",
+    "fortitude",
+    "serenity",
+    "perseverance",
+    "forbearance",
+    "imperturbability",
+    "unflappability",
+    "placidity",
+    "stamina"
+  ],
+  "antonyms": [
+    "impatience"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/patience.mp3",
+  "local_sound_path": "sounds/patience.mp3"
+}

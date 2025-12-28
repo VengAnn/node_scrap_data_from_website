@@ -1,0 +1,39 @@
+{
+  "word": "naturalize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "She's a German who was naturalized in Canada.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55074.png",
+      "local_image_path": "images/55074.png"
+    },
+    {
+      "pos": "tv",
+      "example": "naturalize one's gestures",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55075.png",
+      "local_image_path": "images/55075.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124497.png",
+      "local_image_path": "images/124497.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/124498.png",
+      "local_image_path": "images/124498.png"
+    }
+  ],
+  "synonyms": [
+    "adapt",
+    "establish"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/naturalize.mp3",
+  "local_sound_path": "sounds/naturalize.mp3"
+}

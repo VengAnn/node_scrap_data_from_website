@@ -1,0 +1,41 @@
+{
+  "word": "inspiring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40666.png",
+      "local_image_path": "images/40666.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122594.png",
+      "local_image_path": "images/122594.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122595.png",
+      "local_image_path": "images/122595.png"
+    }
+  ],
+  "synonyms": [
+    "inspirational",
+    "stirring",
+    "rousing",
+    "moving",
+    "exciting",
+    "stimulating",
+    "encouraging"
+  ],
+  "antonyms": [
+    "uninspiring",
+    "boring"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inspiring.mp3",
+  "local_sound_path": "sounds/inspiring.mp3"
+}

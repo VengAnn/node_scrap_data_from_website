@@ -1,0 +1,51 @@
+{
+  "word": "enumerate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25379.png",
+      "local_image_path": "images/25379.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119295.png",
+      "local_image_path": "images/119295.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119296.png",
+      "local_image_path": "images/119296.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119297.png",
+      "local_image_path": "images/119297.png"
+    }
+  ],
+  "synonyms": [
+    "count",
+    "number",
+    "tally",
+    "compute",
+    "reckon",
+    "itemize",
+    "detail",
+    "list",
+    "catalog",
+    "catalogue",
+    "name",
+    "specify"
+  ],
+  "antonyms": [
+    "estimate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enumerate.mp3",
+  "local_sound_path": "sounds/enumerate.mp3"
+}

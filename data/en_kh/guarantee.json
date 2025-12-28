@@ -1,0 +1,38 @@
+{
+  "word": "guarantee",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33146.png",
+      "local_image_path": "images/33146.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33147.png",
+      "local_image_path": "images/33147.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I can guarantee it's true I saw it myself.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33145.png",
+      "local_image_path": "images/33145.png"
+    }
+  ],
+  "synonyms": [
+    "assure",
+    "ensure",
+    "promise",
+    "pledge",
+    "warrant",
+    "certify",
+    "secure"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/guarantee.mp3",
+  "local_sound_path": "sounds/guarantee.mp3"
+}

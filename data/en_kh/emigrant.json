@@ -1,0 +1,39 @@
+{
+  "word": "emigrant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24576.png",
+      "local_image_path": "images/24576.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24575.png",
+      "local_image_path": "images/24575.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119081.png",
+      "local_image_path": "images/119081.png"
+    }
+  ],
+  "synonyms": [
+    "�migr�",
+    "expatriate",
+    "migrant",
+    "immigrant",
+    "settler",
+    "exile"
+  ],
+  "antonyms": [
+    "native"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emigrant.mp3",
+  "local_sound_path": "sounds/emigrant.mp3"
+}

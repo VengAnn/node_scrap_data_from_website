@@ -1,0 +1,37 @@
+{
+  "word": "embroil",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "I don't want to become embroiled in their \n\narguments.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24522.png",
+      "local_image_path": "images/24522.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119060.png",
+      "local_image_path": "images/119060.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119061.png",
+      "local_image_path": "images/119061.png"
+    }
+  ],
+  "synonyms": [
+    "involve",
+    "entangle",
+    "enmesh",
+    "catch",
+    "ensnare",
+    "entrap"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embroil.mp3",
+  "local_sound_path": "sounds/embroil.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "eager",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "An eager worker is working hard.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23607.png",
+      "local_image_path": "images/23607.png"
+    },
+    {
+      "pos": "adj",
+      "example": "I am eager to go home.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23608.png",
+      "local_image_path": "images/23608.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118851.png",
+      "local_image_path": "images/118851.png"
+    }
+  ],
+  "synonyms": [
+    "keen",
+    "enthusiastic",
+    "excited",
+    "ready",
+    "willing",
+    "impatient",
+    "fervent",
+    "zealous"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "eager beaver",
+    "eagerly",
+    "eagerness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eager.mp3",
+  "local_sound_path": "sounds/eager.mp3"
+}

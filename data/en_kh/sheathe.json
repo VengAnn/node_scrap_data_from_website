@@ -1,0 +1,39 @@
+{
+  "word": "sheathe",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "sheathe a knife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78948.png",
+      "local_image_path": "images/78948.png"
+    },
+    {
+      "pos": "tv",
+      "example": "sheathe pipe",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/78949.png",
+      "local_image_path": "images/78949.png"
+    }
+  ],
+  "synonyms": [
+    "wrap",
+    "envelop",
+    "enfold",
+    "drape",
+    "bind",
+    "bandage",
+    "swaddle",
+    "cloak",
+    "shroud",
+    "surround",
+    "cover",
+    "swathe",
+    "sheath",
+    "enclose"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sheathe.mp3",
+  "local_sound_path": "sounds/sheathe.mp3"
+}

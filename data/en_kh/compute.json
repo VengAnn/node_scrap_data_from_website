@@ -1,0 +1,32 @@
+{
+  "word": "compute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16364.png",
+      "local_image_path": "images/16364.png"
+    }
+  ],
+  "synonyms": [
+    "process",
+    "run",
+    "handle"
+  ],
+  "antonyms": [
+    "estimate"
+  ],
+  "similar_words": [
+    "computer",
+    "computer nerd",
+    "computer science",
+    "computerizable",
+    "computerization",
+    "computerize",
+    "computerrate"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/compute.mp3",
+  "local_sound_path": "sounds/compute.mp3"
+}

@@ -1,0 +1,31 @@
+{
+  "word": "conserve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16990.png",
+      "local_image_path": "images/16990.png"
+    },
+    {
+      "pos": "tv",
+      "example": "conserve energy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16989.png",
+      "local_image_path": "images/16989.png"
+    }
+  ],
+  "synonyms": [
+    "keep",
+    "store",
+    "save"
+  ],
+  "antonyms": [
+    "destroy",
+    "expend"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/conserve.mp3",
+  "local_sound_path": "sounds/conserve.mp3"
+}

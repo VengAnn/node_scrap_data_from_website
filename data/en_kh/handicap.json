@@ -1,0 +1,44 @@
+{
+  "word": "handicap",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33698.png",
+      "local_image_path": "images/33698.png"
+    },
+    {
+      "pos": "n",
+      "example": "handicap to progress",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33699.png",
+      "local_image_path": "images/33699.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33700.png",
+      "local_image_path": "images/33700.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33701.png",
+      "local_image_path": "images/33701.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33702.png",
+      "local_image_path": "images/33702.png"
+    }
+  ],
+  "synonyms": [],
+  "antonyms": [],
+  "similar_words": [
+    "handicapped"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/handicap.mp3",
+  "local_sound_path": "sounds/handicap.mp3"
+}

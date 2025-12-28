@@ -1,0 +1,65 @@
+{
+  "word": "mesh",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107985.png",
+      "local_image_path": "images/107985.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107986.png",
+      "local_image_path": "images/107986.png"
+    },
+    {
+      "pos": "n",
+      "example": "wire mesh",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107989.png",
+      "local_image_path": "images/107989.png"
+    },
+    {
+      "pos": "n",
+      "example": "mesh of gears",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107990.png",
+      "local_image_path": "images/107990.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107987.png",
+      "local_image_path": "images/107987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/107988.png",
+      "local_image_path": "images/107988.png"
+    }
+  ],
+  "synonyms": [
+    "interlock",
+    "interconnect",
+    "engage",
+    "enmesh",
+    "tangle",
+    "entangle",
+    "interlace",
+    "knit",
+    "suit",
+    "complement"
+  ],
+  "antonyms": [
+    "separate"
+  ],
+  "similar_words": [
+    "meshed",
+    "meshwork",
+    "meshy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/mesh.mp3",
+  "local_sound_path": "sounds/mesh.mp3"
+}

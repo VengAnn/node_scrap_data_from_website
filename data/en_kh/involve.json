@@ -1,0 +1,35 @@
+{
+  "word": "involve",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "involve others in a crime",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42095.png",
+      "local_image_path": "images/42095.png"
+    },
+    {
+      "pos": "tv",
+      "example": "plans involve building",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42096.png",
+      "local_image_path": "images/42096.png"
+    }
+  ],
+  "synonyms": [
+    "concern",
+    "affect",
+    "interest",
+    "encompass",
+    "embrace"
+  ],
+  "antonyms": [
+    "bore"
+  ],
+  "similar_words": [
+    "involved",
+    "involvement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/involve.mp3",
+  "local_sound_path": "sounds/involve.mp3"
+}

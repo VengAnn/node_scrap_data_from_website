@@ -1,0 +1,54 @@
+{
+  "word": "trespass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91550.png",
+      "local_image_path": "images/91550.png"
+    },
+    {
+      "pos": "iv",
+      "example": "forbidden to trespass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91551.png",
+      "local_image_path": "images/91551.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91552.png",
+      "local_image_path": "images/91552.png"
+    },
+    {
+      "pos": "iv",
+      "example": "trespass against sb",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91553.png",
+      "local_image_path": "images/91553.png"
+    },
+    {
+      "pos": "n",
+      "example": "forgive us our trepasses",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91554.png",
+      "local_image_path": "images/91554.png"
+    },
+    {
+      "pos": "n",
+      "example": "guilty of trespass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/91555.png",
+      "local_image_path": "images/91555.png"
+    }
+  ],
+  "synonyms": [
+    "intrude",
+    "infringe",
+    "encroach",
+    "invade",
+    "interlope"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/trespass.mp3",
+  "local_sound_path": "sounds/trespass.mp3"
+}

@@ -1,0 +1,34 @@
+{
+  "word": "exemplify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "exemplify an argument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26558.png",
+      "local_image_path": "images/26558.png"
+    },
+    {
+      "pos": "tv",
+      "example": "exemplify the group",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26559.png",
+      "local_image_path": "images/26559.png"
+    }
+  ],
+  "synonyms": [
+    "demonstrate",
+    "typify",
+    "represent",
+    "illustrate",
+    "show",
+    "epitomize",
+    "embody",
+    "characterize",
+    "personify"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exemplify.mp3",
+  "local_sound_path": "sounds/exemplify.mp3"
+}

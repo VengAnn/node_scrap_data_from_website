@@ -1,0 +1,73 @@
+{
+  "word": "eclipse",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "lunar eclipse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23787.png",
+      "local_image_path": "images/23787.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23788.png",
+      "local_image_path": "images/23788.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118875.png",
+      "local_image_path": "images/118875.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118876.png",
+      "local_image_path": "images/118876.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118877.png",
+      "local_image_path": "images/118877.png"
+    },
+    {
+      "pos": "tv",
+      "example": "planets eclipse the sun",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23789.png",
+      "local_image_path": "images/23789.png"
+    },
+    {
+      "pos": "tv",
+      "example": "eclipse his predecessor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23790.png",
+      "local_image_path": "images/23790.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118878.png",
+      "local_image_path": "images/118878.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118879.png",
+      "local_image_path": "images/118879.png"
+    }
+  ],
+  "synonyms": [
+    "overshadow",
+    "outshine",
+    "outdo",
+    "surpass",
+    "overwhelm",
+    "overpower"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eclipse.mp3",
+  "local_sound_path": "sounds/eclipse.mp3"
+}

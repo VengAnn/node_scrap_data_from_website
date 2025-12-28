@@ -1,0 +1,40 @@
+{
+  "word": "choppy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14343.png",
+      "local_image_path": "images/14343.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116300.png",
+      "local_image_path": "images/116300.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116301.png",
+      "local_image_path": "images/116301.png"
+    }
+  ],
+  "synonyms": [
+    "uneven",
+    "variable",
+    "shifting",
+    "changing",
+    "irregular",
+    "jerky",
+    "rough"
+  ],
+  "antonyms": [
+    "smooth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/choppy.mp3",
+  "local_sound_path": "sounds/choppy.mp3"
+}

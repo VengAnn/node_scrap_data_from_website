@@ -1,0 +1,39 @@
+{
+  "word": "electioneer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24163.png",
+      "local_image_path": "images/24163.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24164.png",
+      "local_image_path": "images/24164.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118962.png",
+      "local_image_path": "images/118962.png"
+    }
+  ],
+  "synonyms": [
+    "campaigner",
+    "canvasser",
+    "campaign",
+    "canvass",
+    "stump",
+    "run"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "electioneering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/electioneer.mp3",
+  "local_sound_path": "sounds/electioneer.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "blockbuster",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "destroyed by blockbuster",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9611.png",
+      "local_image_path": "images/9611.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/9612.png",
+      "local_image_path": "images/9612.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/115240.png",
+      "local_image_path": "images/115240.png"
+    }
+  ],
+  "synonyms": [
+    "hit",
+    "epic",
+    "best-seller"
+  ],
+  "antonyms": [
+    "flop"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/blockbuster.mp3",
+  "local_sound_path": "sounds/blockbuster.mp3"
+}

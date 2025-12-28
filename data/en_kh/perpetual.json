@@ -1,0 +1,44 @@
+{
+  "word": "perpetual",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "perpetual snow of the Arctic",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61943.png",
+      "local_image_path": "images/61943.png"
+    },
+    {
+      "pos": "adj",
+      "example": "perpetual noise",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61944.png",
+      "local_image_path": "images/61944.png"
+    },
+    {
+      "pos": "adj",
+      "example": "perpetual complaint",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61945.png",
+      "local_image_path": "images/61945.png"
+    }
+  ],
+  "synonyms": [
+    "continuous",
+    "everlasting",
+    "uninterrupted",
+    "lasting",
+    "unending",
+    "permanent",
+    "eternal",
+    "continual",
+    "constant",
+    "enduring",
+    "undying"
+  ],
+  "antonyms": [
+    "temporary"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perpetual.mp3",
+  "local_sound_path": "sounds/perpetual.mp3"
+}

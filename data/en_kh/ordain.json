@@ -1,0 +1,39 @@
+{
+  "word": "ordain",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57939.png",
+      "local_image_path": "images/57939.png"
+    },
+    {
+      "pos": "tv",
+      "example": "ordain a priest",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/57940.png",
+      "local_image_path": "images/57940.png"
+    }
+  ],
+  "synonyms": [
+    "order",
+    "decree",
+    "proclaim",
+    "command",
+    "establish",
+    "enact",
+    "rule",
+    "adjudge",
+    "determine"
+  ],
+  "antonyms": [
+    "suggest"
+  ],
+  "similar_words": [
+    "ordainer",
+    "ordainment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ordain.mp3",
+  "local_sound_path": "sounds/ordain.mp3"
+}

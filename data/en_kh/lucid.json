@@ -1,0 +1,50 @@
+{
+  "word": "lucid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47916.png",
+      "local_image_path": "images/47916.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lucid explanation",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47917.png",
+      "local_image_path": "images/47917.png"
+    },
+    {
+      "pos": "adj",
+      "example": "lucid glass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/47918.png",
+      "local_image_path": "images/47918.png"
+    }
+  ],
+  "synonyms": [
+    "sane",
+    "sober",
+    "rational",
+    "clear-headed",
+    "luminous",
+    "shining",
+    "luminescent",
+    "limpid",
+    "translucent",
+    "bright"
+  ],
+  "antonyms": [
+    "confused",
+    "incoherent",
+    "delirious",
+    "dull"
+  ],
+  "similar_words": [
+    "lucidity",
+    "lucidly",
+    "lucidness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/lucid.mp3",
+  "local_sound_path": "sounds/lucid.mp3"
+}

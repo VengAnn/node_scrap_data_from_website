@@ -1,0 +1,45 @@
+{
+  "word": "plaintive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/63797.png",
+      "local_image_path": "images/63797.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125581.png",
+      "local_image_path": "images/125581.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/125582.png",
+      "local_image_path": "images/125582.png"
+    }
+  ],
+  "synonyms": [
+    "mournful",
+    "sad",
+    "melancholic",
+    "nostalgic",
+    "lamenting",
+    "elegiac",
+    "sorrowful",
+    "wistful",
+    "melancholy"
+  ],
+  "antonyms": [
+    "cheerful"
+  ],
+  "similar_words": [
+    "plaintively",
+    "plaintiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/plaintive.mp3",
+  "local_sound_path": "sounds/plaintive.mp3"
+}

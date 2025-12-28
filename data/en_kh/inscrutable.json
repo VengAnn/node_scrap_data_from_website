@@ -1,0 +1,42 @@
+{
+  "word": "inscrutable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The inscrutable ways of heaven.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40435.png",
+      "local_image_path": "images/40435.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40436.png",
+      "local_image_path": "images/40436.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122525.png",
+      "local_image_path": "images/122525.png"
+    }
+  ],
+  "synonyms": [
+    "enigmatic",
+    "unfathomable",
+    "impenetrable",
+    "unreadable",
+    "mysterious",
+    "indecipherable",
+    "unknowable",
+    "inexplicable",
+    "incomprehensible"
+  ],
+  "antonyms": [
+    "transparent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inscrutable.mp3",
+  "local_sound_path": "sounds/inscrutable.mp3"
+}

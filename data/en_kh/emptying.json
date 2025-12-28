@@ -1,0 +1,30 @@
+{
+  "word": "emptying",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24689.png",
+      "local_image_path": "images/24689.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24690.png",
+      "local_image_path": "images/24690.png"
+    }
+  ],
+  "synonyms": [
+    "voiding",
+    "clearing",
+    "pouring"
+  ],
+  "antonyms": [
+    "filling"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emptying.mp3",
+  "local_sound_path": "sounds/emptying.mp3"
+}

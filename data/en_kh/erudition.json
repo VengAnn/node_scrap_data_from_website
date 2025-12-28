@@ -1,0 +1,40 @@
+{
+  "word": "erudition",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25792.png",
+      "local_image_path": "images/25792.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119393.png",
+      "local_image_path": "images/119393.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119394.png",
+      "local_image_path": "images/119394.png"
+    }
+  ],
+  "synonyms": [
+    "education",
+    "intellect",
+    "culture",
+    "knowledge",
+    "learning",
+    "sophistication",
+    "scholarship"
+  ],
+  "antonyms": [
+    "ignorance"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erudition.mp3",
+  "local_sound_path": "sounds/erudition.mp3"
+}

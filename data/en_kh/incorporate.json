@@ -1,0 +1,81 @@
+{
+  "word": "incorporate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38679.png",
+      "local_image_path": "images/38679.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38678.png",
+      "local_image_path": "images/38678.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38676.png",
+      "local_image_path": "images/38676.png"
+    },
+    {
+      "pos": "tv",
+      "example": "incorporate one's business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38677.png",
+      "local_image_path": "images/38677.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122056.png",
+      "local_image_path": "images/122056.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122057.png",
+      "local_image_path": "images/122057.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122058.png",
+      "local_image_path": "images/122058.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122059.png",
+      "local_image_path": "images/122059.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122060.png",
+      "local_image_path": "images/122060.png"
+    }
+  ],
+  "synonyms": [
+    "feature",
+    "contain",
+    "include",
+    "encompass",
+    "absorb",
+    "assimilate",
+    "merge",
+    "combine"
+  ],
+  "antonyms": [
+    "exclude",
+    "divide"
+  ],
+  "similar_words": [
+    "incorporate by reference",
+    "incorporated"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/incorporate.mp3",
+  "local_sound_path": "sounds/incorporate.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "equipment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25653.png",
+      "local_image_path": "images/25653.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119358.png",
+      "local_image_path": "images/119358.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119359.png",
+      "local_image_path": "images/119359.png"
+    }
+  ],
+  "synonyms": [
+    "gear",
+    "tackle",
+    "apparatus",
+    "paraphernalia",
+    "kit"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equipment.mp3",
+  "local_sound_path": "sounds/equipment.mp3"
+}

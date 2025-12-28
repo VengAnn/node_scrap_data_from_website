@@ -1,0 +1,65 @@
+{
+  "word": "warrant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "search warrant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99121.png",
+      "local_image_path": "images/99121.png"
+    },
+    {
+      "pos": "n",
+      "example": "warrant of his good intention",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99122.png",
+      "local_image_path": "images/99122.png"
+    },
+    {
+      "pos": "n",
+      "example": "He had no warrant for saying what he did.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99123.png",
+      "local_image_path": "images/99123.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99124.png",
+      "local_image_path": "images/99124.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99125.png",
+      "local_image_path": "images/99125.png"
+    },
+    {
+      "pos": "tv",
+      "example": "I'll warrant him an honest and reliable man.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99126.png",
+      "local_image_path": "images/99126.png"
+    }
+  ],
+  "synonyms": [
+    "guarantee",
+    "affirm",
+    "declare",
+    "certify",
+    "secure",
+    "assure",
+    "insure"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "warrant-officer",
+    "warrantable",
+    "warrantableness",
+    "warrantably",
+    "warrantee",
+    "warranter",
+    "warrantor",
+    "warranty"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/warrant.mp3",
+  "local_sound_path": "sounds/warrant.mp3"
+}

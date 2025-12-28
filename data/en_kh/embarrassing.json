@@ -1,0 +1,37 @@
+{
+  "word": "embarrassing",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24429.png",
+      "local_image_path": "images/24429.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119037.png",
+      "local_image_path": "images/119037.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119038.png",
+      "local_image_path": "images/119038.png"
+    }
+  ],
+  "synonyms": [
+    "awkward",
+    "uncomfortable",
+    "uneasy",
+    "mortifying"
+  ],
+  "antonyms": [
+    "enjoyable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embarrassing.mp3",
+  "local_sound_path": "sounds/embarrassing.mp3"
+}

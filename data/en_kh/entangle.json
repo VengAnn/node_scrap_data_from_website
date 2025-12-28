@@ -1,0 +1,43 @@
+{
+  "word": "entangle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25252.png",
+      "local_image_path": "images/25252.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25253.png",
+      "local_image_path": "images/25253.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119240.png",
+      "local_image_path": "images/119240.png"
+    }
+  ],
+  "synonyms": [
+    "tangle",
+    "snare",
+    "ensnare",
+    "enmesh",
+    "entrap",
+    "trap",
+    "catch",
+    "interweave"
+  ],
+  "antonyms": [
+    "free"
+  ],
+  "similar_words": [
+    "entanglement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entangle.mp3",
+  "local_sound_path": "sounds/entangle.mp3"
+}

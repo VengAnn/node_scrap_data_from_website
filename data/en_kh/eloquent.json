@@ -1,0 +1,37 @@
+{
+  "word": "eloquent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "eloquent speech",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24354.png",
+      "local_image_path": "images/24354.png"
+    },
+    {
+      "pos": "adj",
+      "example": "eloquent speaker",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24355.png",
+      "local_image_path": "images/24355.png"
+    }
+  ],
+  "synonyms": [
+    "expressive",
+    "fluent",
+    "articulate",
+    "persuasive",
+    "powerful",
+    "moving",
+    "stirring"
+  ],
+  "antonyms": [
+    "inarticulate"
+  ],
+  "similar_words": [
+    "eloquently",
+    "eloquentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eloquent.mp3",
+  "local_sound_path": "sounds/eloquent.mp3"
+}

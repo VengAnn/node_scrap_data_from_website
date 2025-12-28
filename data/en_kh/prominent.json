@@ -1,0 +1,55 @@
+{
+  "word": "prominent",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67621.png",
+      "local_image_path": "images/67621.png"
+    },
+    {
+      "pos": "adj",
+      "example": "prominent chin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67622.png",
+      "local_image_path": "images/67622.png"
+    },
+    {
+      "pos": "adj",
+      "example": "prominent feature in the landscape",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67623.png",
+      "local_image_path": "images/67623.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67624.png",
+      "local_image_path": "images/67624.png"
+    }
+  ],
+  "synonyms": [
+    "famous",
+    "well-known",
+    "important",
+    "high-flying",
+    "top",
+    "major",
+    "outstanding",
+    "leading",
+    "foremost",
+    "notorious",
+    "renowned"
+  ],
+  "antonyms": [
+    "flat",
+    "subtle",
+    "obscure"
+  ],
+  "similar_words": [
+    "prominently",
+    "prominentness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prominent.mp3",
+  "local_sound_path": "sounds/prominent.mp3"
+}

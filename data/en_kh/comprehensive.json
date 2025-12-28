@@ -1,0 +1,52 @@
+{
+  "word": "comprehensive",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "comprehensive study",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16326.png",
+      "local_image_path": "images/16326.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/16329.png",
+      "local_image_path": "images/16329.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130996.png",
+      "local_image_path": "images/130996.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/130997.png",
+      "local_image_path": "images/130997.png"
+    }
+  ],
+  "synonyms": [
+    "complete",
+    "inclusive",
+    "full",
+    "all-inclusive",
+    "broad",
+    "ample",
+    "widespread",
+    "far-reaching",
+    "thorough"
+  ],
+  "antonyms": [
+    "sketchy",
+    "incomplete"
+  ],
+  "similar_words": [
+    "comprehensively",
+    "comprehensiveness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/comprehensive.mp3",
+  "local_sound_path": "sounds/comprehensive.mp3"
+}

@@ -1,0 +1,32 @@
+{
+  "word": "pennant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "ship's pennant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61380.png",
+      "local_image_path": "images/61380.png"
+    },
+    {
+      "pos": "n",
+      "example": "win the pennant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61381.png",
+      "local_image_path": "images/61381.png"
+    }
+  ],
+  "synonyms": [
+    "banner",
+    "flag",
+    "ensign",
+    "emblem",
+    "streamer",
+    "pennon",
+    "bunting"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pennant.mp3",
+  "local_sound_path": "sounds/pennant.mp3"
+}

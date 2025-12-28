@@ -1,0 +1,39 @@
+{
+  "word": "enfranchise",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "In Britain, women were enfranchised in 1918.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24995.png",
+      "local_image_path": "images/24995.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24996.png",
+      "local_image_path": "images/24996.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119208.png",
+      "local_image_path": "images/119208.png"
+    }
+  ],
+  "synonyms": [
+    "empower",
+    "emancipate",
+    "liberate",
+    "naturalize"
+  ],
+  "antonyms": [
+    "disenfranchise"
+  ],
+  "similar_words": [
+    "enfranchisement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enfranchise.mp3",
+  "local_sound_path": "sounds/enfranchise.mp3"
+}

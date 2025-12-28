@@ -1,0 +1,68 @@
+{
+  "word": "final",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "final decision",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28564.png",
+      "local_image_path": "images/28564.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120135.png",
+      "local_image_path": "images/120135.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120136.png",
+      "local_image_path": "images/120136.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120137.png",
+      "local_image_path": "images/120137.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/120138.png",
+      "local_image_path": "images/120138.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28565.png",
+      "local_image_path": "images/28565.png"
+    }
+  ],
+  "synonyms": [
+    "absolute",
+    "conclusive",
+    "definitive",
+    "decisive",
+    "ultimate",
+    "irrevocable",
+    "round",
+    "match",
+    "game"
+  ],
+  "antonyms": [
+    "first",
+    "provisional"
+  ],
+  "similar_words": [
+    "finale",
+    "finalise",
+    "finalist",
+    "finality",
+    "finalize",
+    "finally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/final.mp3",
+  "local_sound_path": "sounds/final.mp3"
+}

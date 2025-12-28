@@ -1,0 +1,40 @@
+{
+  "word": "personify",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "personify nature",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62037.png",
+      "local_image_path": "images/62037.png"
+    },
+    {
+      "pos": "tv",
+      "example": "personify greed",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62038.png",
+      "local_image_path": "images/62038.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62039.png",
+      "local_image_path": "images/62039.png"
+    },
+    {
+      "pos": "tv",
+      "example": "personify death",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62040.png",
+      "local_image_path": "images/62040.png"
+    }
+  ],
+  "synonyms": [
+    "incarnate",
+    "anthropomorphize",
+    "humanize"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/personify.mp3",
+  "local_sound_path": "sounds/personify.mp3"
+}

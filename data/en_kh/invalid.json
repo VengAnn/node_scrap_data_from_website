@@ -1,0 +1,69 @@
+{
+  "word": "invalid",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41932.png",
+      "local_image_path": "images/41932.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41933.png",
+      "local_image_path": "images/41933.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122873.png",
+      "local_image_path": "images/122873.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122874.png",
+      "local_image_path": "images/122874.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41931.png",
+      "local_image_path": "images/41931.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41934.png",
+      "local_image_path": "images/41934.png"
+    }
+  ],
+  "synonyms": [
+    "unacceptable",
+    "unsound",
+    "untrue",
+    "unfounded",
+    "illogical",
+    "worthless",
+    "null",
+    "void",
+    "convalescent",
+    "patient"
+  ],
+  "antonyms": [
+    "valid",
+    "well"
+  ],
+  "similar_words": [
+    "invalidate",
+    "invalidation",
+    "invalidatism",
+    "invalidative",
+    "invalidity",
+    "invalidly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/invalid.mp3",
+  "local_sound_path": "sounds/invalid.mp3"
+}

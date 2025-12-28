@@ -1,0 +1,48 @@
+{
+  "word": "quip",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69639.png",
+      "local_image_path": "images/69639.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69638.png",
+      "local_image_path": "images/69638.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69640.png",
+      "local_image_path": "images/69640.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126381.png",
+      "local_image_path": "images/126381.png"
+    }
+  ],
+  "synonyms": [
+    "joke",
+    "jest",
+    "jibe",
+    "banter",
+    "retort",
+    "wisecrack",
+    "remark",
+    "kid"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "quippy",
+    "quipster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/quip.mp3",
+  "local_sound_path": "sounds/quip.mp3"
+}

@@ -1,0 +1,26 @@
+{
+  "word": "cheery",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14029.png",
+      "local_image_path": "images/14029.png"
+    }
+  ],
+  "synonyms": [
+    "heartening",
+    "encouraging",
+    "positive"
+  ],
+  "antonyms": [
+    "sad",
+    "depressing",
+    "gloomy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/cheery.mp3",
+  "local_sound_path": "sounds/cheery.mp3"
+}

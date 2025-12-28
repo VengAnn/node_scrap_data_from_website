@@ -1,0 +1,34 @@
+{
+  "word": "equestrian",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25633.png",
+      "local_image_path": "images/25633.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25634.png",
+      "local_image_path": "images/25634.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119351.png",
+      "local_image_path": "images/119351.png"
+    }
+  ],
+  "synonyms": [
+    "riding",
+    "equine",
+    "horsy"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equestrian.mp3",
+  "local_sound_path": "sounds/equestrian.mp3"
+}

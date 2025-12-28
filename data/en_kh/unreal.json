@@ -1,0 +1,39 @@
+{
+  "word": "unreal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/95488.png",
+      "local_image_path": "images/95488.png"
+    }
+  ],
+  "synonyms": [
+    "artificial",
+    "imitation",
+    "fake",
+    "pretend",
+    "replica",
+    "false",
+    "mock",
+    "reproduction",
+    "unnatural"
+  ],
+  "antonyms": [
+    "real",
+    "genuine"
+  ],
+  "similar_words": [
+    "unrealable",
+    "unrealistic",
+    "unrealistically",
+    "unreality",
+    "unrealizable",
+    "unrealize",
+    "unrealized"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/unreal.mp3",
+  "local_sound_path": "sounds/unreal.mp3"
+}

@@ -1,0 +1,29 @@
+{
+  "word": "spooky",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83628.png",
+      "local_image_path": "images/83628.png"
+    }
+  ],
+  "synonyms": [
+    "strange",
+    "amazing",
+    "odd",
+    "unnerving",
+    "extraordinary",
+    "unusual",
+    "bizarre"
+  ],
+  "antonyms": [
+    "reassuring",
+    "normal"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/spooky.mp3",
+  "local_sound_path": "sounds/spooky.mp3"
+}

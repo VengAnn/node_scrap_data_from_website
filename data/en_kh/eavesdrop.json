@@ -1,0 +1,27 @@
+{
+  "word": "eavesdrop",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23734.png",
+      "local_image_path": "images/23734.png"
+    }
+  ],
+  "synonyms": [
+    "listen in",
+    "snoop",
+    "spy",
+    "pry",
+    "overhear"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "eavesdropper",
+    "eavesdropping"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eavesdrop.mp3",
+  "local_sound_path": "sounds/eavesdrop.mp3"
+}

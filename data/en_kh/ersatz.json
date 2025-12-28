@@ -1,0 +1,47 @@
+{
+  "word": "ersatz",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25781.png",
+      "local_image_path": "images/25781.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119391.png",
+      "local_image_path": "images/119391.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132573.png",
+      "local_image_path": "images/132573.png"
+    }
+  ],
+  "synonyms": [
+    "fake",
+    "artificial",
+    "unreal",
+    "reproduction",
+    "false",
+    "pretend",
+    "simulated",
+    "imitation",
+    "bogus",
+    "pseudo",
+    "counterfeit",
+    "substitute",
+    "mock",
+    "synthetic"
+  ],
+  "antonyms": [
+    "genuine"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ersatz.mp3",
+  "local_sound_path": "sounds/ersatz.mp3"
+}

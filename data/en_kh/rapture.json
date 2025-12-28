@@ -1,0 +1,50 @@
+{
+  "word": "rapture",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70232.png",
+      "local_image_path": "images/70232.png"
+    },
+    {
+      "pos": "n",
+      "example": "She is in rapture",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70233.png",
+      "local_image_path": "images/70233.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126460.png",
+      "local_image_path": "images/126460.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70234.png",
+      "local_image_path": "images/70234.png"
+    }
+  ],
+  "synonyms": [
+    "ecstasy",
+    "delight",
+    "joy",
+    "bliss",
+    "rhapsody",
+    "enthusiasm",
+    "eagerness",
+    "euphoria",
+    "heaven",
+    "elation"
+  ],
+  "antonyms": [
+    "gloom",
+    "depression"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rapture.mp3",
+  "local_sound_path": "sounds/rapture.mp3"
+}

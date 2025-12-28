@@ -1,0 +1,39 @@
+{
+  "word": "evenly",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26195.png",
+      "local_image_path": "images/26195.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26196.png",
+      "local_image_path": "images/26196.png"
+    }
+  ],
+  "synonyms": [
+    "equably",
+    "calmly",
+    "composedly",
+    "coolly",
+    "unemotionally",
+    "steadily",
+    "consistently",
+    "squarely",
+    "regularly",
+    "lightly",
+    "equally",
+    "uniformly"
+  ],
+  "antonyms": [
+    "irregularly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/evenly.mp3",
+  "local_sound_path": "sounds/evenly.mp3"
+}

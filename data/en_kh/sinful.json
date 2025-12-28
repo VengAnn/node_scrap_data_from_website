@@ -1,0 +1,33 @@
+{
+  "word": "sinful",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/80308.png",
+      "local_image_path": "images/80308.png"
+    }
+  ],
+  "synonyms": [
+    "wicked",
+    "bad",
+    "evil",
+    "corrupt",
+    "errant",
+    "aberrant",
+    "immoral",
+    "iniquitous"
+  ],
+  "antonyms": [
+    "pure",
+    "virtuous"
+  ],
+  "similar_words": [
+    "sinfully",
+    "sinfulness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sinful.mp3",
+  "local_sound_path": "sounds/sinful.mp3"
+}

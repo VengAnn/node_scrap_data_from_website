@@ -1,0 +1,42 @@
+{
+  "word": "embankment",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24416.png",
+      "local_image_path": "images/24416.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119029.png",
+      "local_image_path": "images/119029.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119030.png",
+      "local_image_path": "images/119030.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119031.png",
+      "local_image_path": "images/119031.png"
+    }
+  ],
+  "synonyms": [
+    "bank",
+    "mound",
+    "edge",
+    "guard",
+    "wall"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embankment.mp3",
+  "local_sound_path": "sounds/embankment.mp3"
+}

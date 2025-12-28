@@ -1,0 +1,45 @@
+{
+  "word": "effectively",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23936.png",
+      "local_image_path": "images/23936.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118905.png",
+      "local_image_path": "images/118905.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118906.png",
+      "local_image_path": "images/118906.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118907.png",
+      "local_image_path": "images/118907.png"
+    }
+  ],
+  "synonyms": [
+    "actually",
+    "really",
+    "essentially",
+    "realistically"
+  ],
+  "antonyms": [
+    "inefficiently",
+    "nominally",
+    "ineffectively"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/effectively.mp3",
+  "local_sound_path": "sounds/effectively.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "vigor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/98011.png",
+      "local_image_path": "images/98011.png"
+    }
+  ],
+  "synonyms": [
+    "energy",
+    "dynamism",
+    "drive",
+    "vitality",
+    "force",
+    "strength",
+    "heartiness",
+    "verve",
+    "enthusiasm",
+    "vivacity",
+    "dash",
+    "punch",
+    "vim",
+    "gusto",
+    "spirit"
+  ],
+  "antonyms": [
+    "sluggishness",
+    "lethargy",
+    "weakness",
+    "feebleness"
+  ],
+  "similar_words": [
+    "vigorous",
+    "vigorously",
+    "vigorousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/vigor.mp3",
+  "local_sound_path": "sounds/vigor.mp3"
+}

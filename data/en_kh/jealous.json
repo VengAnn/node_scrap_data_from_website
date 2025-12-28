@@ -1,0 +1,67 @@
+{
+  "word": "jealous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "jealous of an other's success",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42848.png",
+      "local_image_path": "images/42848.png"
+    },
+    {
+      "pos": "adj",
+      "example": "jealous husband",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42849.png",
+      "local_image_path": "images/42849.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42850.png",
+      "local_image_path": "images/42850.png"
+    },
+    {
+      "pos": "adj",
+      "example": "jealous of one's own possessions",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/42851.png",
+      "local_image_path": "images/42851.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123081.png",
+      "local_image_path": "images/123081.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123082.png",
+      "local_image_path": "images/123082.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123083.png",
+      "local_image_path": "images/123083.png"
+    }
+  ],
+  "synonyms": [
+    "protective",
+    "suspicious",
+    "wary",
+    "watchful",
+    "mistrustful",
+    "possessive"
+  ],
+  "antonyms": [
+    "trusting"
+  ],
+  "similar_words": [
+    "jealously",
+    "jealousness",
+    "jealousy"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jealous.mp3",
+  "local_sound_path": "sounds/jealous.mp3"
+}

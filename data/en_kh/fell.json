@@ -1,0 +1,55 @@
+{
+  "word": "fell",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28062.png",
+      "local_image_path": "images/28062.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28063.png",
+      "local_image_path": "images/28063.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fell a tree",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28059.png",
+      "local_image_path": "images/28059.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fell a mouse",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/28060.png",
+      "local_image_path": "images/28060.png"
+    }
+  ],
+  "synonyms": [
+    "floor",
+    "destroy",
+    "take out",
+    "reduced"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "fellable",
+    "fellah",
+    "fellatio",
+    "fellation",
+    "fellmonger",
+    "fellmongery",
+    "felloe",
+    "fellow",
+    "fellow student",
+    "fellow-sufferer",
+    "fellow-traveller",
+    "fellowship",
+    "felly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fell.mp3",
+  "local_sound_path": "sounds/fell.mp3"
+}

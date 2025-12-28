@@ -1,0 +1,34 @@
+{
+  "word": "disentangle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21831.png",
+      "local_image_path": "images/21831.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/21830.png",
+      "local_image_path": "images/21830.png"
+    }
+  ],
+  "synonyms": [
+    "unravel",
+    "unscramble",
+    "untie",
+    "separate",
+    "straighten out",
+    "extricate",
+    "untangle"
+  ],
+  "antonyms": [
+    "entangle"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/disentangle.mp3",
+  "local_sound_path": "sounds/disentangle.mp3"
+}

@@ -1,0 +1,53 @@
+{
+  "word": "enforce",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24986.png",
+      "local_image_path": "images/24986.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enforce the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24987.png",
+      "local_image_path": "images/24987.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24988.png",
+      "local_image_path": "images/24988.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119204.png",
+      "local_image_path": "images/119204.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119205.png",
+      "local_image_path": "images/119205.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119206.png",
+      "local_image_path": "images/119206.png"
+    }
+  ],
+  "synonyms": [
+    "inflict"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "enforceable",
+    "enforcement"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enforce.mp3",
+  "local_sound_path": "sounds/enforce.mp3"
+}

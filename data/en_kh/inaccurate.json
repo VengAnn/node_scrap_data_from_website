@@ -1,0 +1,45 @@
+{
+  "word": "inaccurate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/38077.png",
+      "local_image_path": "images/38077.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121809.png",
+      "local_image_path": "images/121809.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121810.png",
+      "local_image_path": "images/121810.png"
+    }
+  ],
+  "synonyms": [
+    "imprecise",
+    "inexact",
+    "mistaken",
+    "erroneous",
+    "wrong",
+    "incorrect",
+    "out",
+    "way-out"
+  ],
+  "antonyms": [
+    "accurate",
+    "precise"
+  ],
+  "similar_words": [
+    "inaccurately",
+    "inaccurateness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inaccurate.mp3",
+  "local_sound_path": "sounds/inaccurate.mp3"
+}

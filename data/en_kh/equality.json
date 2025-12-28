@@ -1,0 +1,28 @@
+{
+  "word": "equality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "equality before the law",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25617.png",
+      "local_image_path": "images/25617.png"
+    }
+  ],
+  "synonyms": [
+    "sameness",
+    "correspondence",
+    "likeness",
+    "similarity",
+    "equivalence",
+    "uniformity"
+  ],
+  "antonyms": [
+    "inequality",
+    "difference"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/equality.mp3",
+  "local_sound_path": "sounds/equality.mp3"
+}

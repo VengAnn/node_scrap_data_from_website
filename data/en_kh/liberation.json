@@ -1,0 +1,34 @@
+{
+  "word": "liberation",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46203.png",
+      "local_image_path": "images/46203.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/46204.png",
+      "local_image_path": "images/46204.png"
+    }
+  ],
+  "synonyms": [
+    "emancipation",
+    "deliverance",
+    "freedom",
+    "liberty",
+    "release",
+    "discharge"
+  ],
+  "antonyms": [
+    "captivity",
+    "suppression"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/liberation.mp3",
+  "local_sound_path": "sounds/liberation.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "implant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37783.png",
+      "local_image_path": "images/37783.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37780.png",
+      "local_image_path": "images/37780.png"
+    },
+    {
+      "pos": "tv",
+      "example": "implant principles",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37781.png",
+      "local_image_path": "images/37781.png"
+    },
+    {
+      "pos": "tv",
+      "example": "implant an organ",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37782.png",
+      "local_image_path": "images/37782.png"
+    }
+  ],
+  "synonyms": [
+    "insert",
+    "embed",
+    "plant",
+    "place",
+    "establish",
+    "lodge",
+    "imbed",
+    "fix"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "implantable",
+    "implantation",
+    "implanter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/implant.mp3",
+  "local_sound_path": "sounds/implant.mp3"
+}

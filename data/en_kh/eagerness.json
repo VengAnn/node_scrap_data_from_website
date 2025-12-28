@@ -1,0 +1,41 @@
+{
+  "word": "eagerness",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23610.png",
+      "local_image_path": "images/23610.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118852.png",
+      "local_image_path": "images/118852.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118853.png",
+      "local_image_path": "images/118853.png"
+    }
+  ],
+  "synonyms": [
+    "keenness",
+    "enthusiasm",
+    "excitement",
+    "zeal",
+    "impatience",
+    "fervor",
+    "readiness",
+    "willingness"
+  ],
+  "antonyms": [
+    "apathy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eagerness.mp3",
+  "local_sound_path": "sounds/eagerness.mp3"
+}

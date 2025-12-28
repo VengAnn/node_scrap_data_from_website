@@ -1,0 +1,27 @@
+{
+  "word": "nightfall",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "We hope to be back by nightfall.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/55755.png",
+      "local_image_path": "images/55755.png"
+    }
+  ],
+  "synonyms": [
+    "dusk",
+    "twilight",
+    "evening",
+    "sunset",
+    "sundown",
+    "eventide"
+  ],
+  "antonyms": [
+    "daybreak"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/nightfall.mp3",
+  "local_sound_path": "sounds/nightfall.mp3"
+}

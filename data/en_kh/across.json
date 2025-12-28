@@ -1,0 +1,49 @@
+{
+  "word": "across",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv, prep",
+      "example": "there is a bridge across the river",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/2204.png",
+      "local_image_path": "images/2204.png"
+    },
+    {
+      "pos": "adv, prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113204.png",
+      "local_image_path": "images/113204.png"
+    },
+    {
+      "pos": "adv, prep",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/113205.png",
+      "local_image_path": "images/113205.png"
+    }
+  ],
+  "synonyms": [
+    "crossways",
+    "crosswise",
+    "transversely",
+    "athwart",
+    "diagonally",
+    "through",
+    "past",
+    "throughout",
+    "within",
+    "round",
+    "around",
+    "about",
+    "beyond",
+    "amid",
+    "amidst",
+    "among"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "across the road"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/across.mp3",
+  "local_sound_path": "sounds/across.mp3"
+}

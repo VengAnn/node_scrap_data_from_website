@@ -1,0 +1,45 @@
+{
+  "word": "inspiration",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "no inspiration to work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40651.png",
+      "local_image_path": "images/40651.png"
+    },
+    {
+      "pos": "n",
+      "example": "poetic inspiration",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40652.png",
+      "local_image_path": "images/40652.png"
+    },
+    {
+      "pos": "n",
+      "example": "the inspiration of others",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40653.png",
+      "local_image_path": "images/40653.png"
+    },
+    {
+      "pos": "n",
+      "example": "inspiration of breath",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40654.png",
+      "local_image_path": "images/40654.png"
+    }
+  ],
+  "synonyms": [
+    "idea",
+    "brainwave",
+    "insight",
+    "flash",
+    "revelation",
+    "brainstorm"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "inspirational"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inspiration.mp3",
+  "local_sound_path": "sounds/inspiration.mp3"
+}

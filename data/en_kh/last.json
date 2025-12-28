@@ -1,0 +1,108 @@
+{
+  "word": "last",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "last day",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45102.png",
+      "local_image_path": "images/45102.png"
+    },
+    {
+      "pos": "adj",
+      "example": "last month",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45103.png",
+      "local_image_path": "images/45103.png"
+    },
+    {
+      "pos": "adj",
+      "example": "last drop",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45104.png",
+      "local_image_path": "images/45104.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45105.png",
+      "local_image_path": "images/45105.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45106.png",
+      "local_image_path": "images/45106.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/123356.png",
+      "local_image_path": "images/123356.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45108.png",
+      "local_image_path": "images/45108.png"
+    },
+    {
+      "pos": "iv",
+      "example": "The rain can't last",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45109.png",
+      "local_image_path": "images/45109.png"
+    },
+    {
+      "pos": "iv",
+      "example": "money won't last",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45110.png",
+      "local_image_path": "images/45110.png"
+    },
+    {
+      "pos": "iv",
+      "example": "He won't until tomorrow",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45111.png",
+      "local_image_path": "images/45111.png"
+    },
+    {
+      "pos": "iv",
+      "example": "cars don't last",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45112.png",
+      "local_image_path": "images/45112.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45107.png",
+      "local_image_path": "images/45107.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/45113.png",
+      "local_image_path": "images/45113.png"
+    }
+  ],
+  "synonyms": [
+    "survive",
+    "live",
+    "endure",
+    "keep"
+  ],
+  "antonyms": [
+    "next",
+    "first",
+    "perish",
+    "original"
+  ],
+  "similar_words": [
+    "last word",
+    "last-minute",
+    "lastage",
+    "lasting",
+    "lastingly",
+    "lastingness",
+    "lastly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/last.mp3",
+  "local_sound_path": "sounds/last.mp3"
+}

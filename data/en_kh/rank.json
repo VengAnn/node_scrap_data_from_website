@@ -1,0 +1,77 @@
+{
+  "word": "rank",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "rank grass",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70164.png",
+      "local_image_path": "images/70164.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rank odor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70165.png",
+      "local_image_path": "images/70165.png"
+    },
+    {
+      "pos": "adj",
+      "example": "rank beginner",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70166.png",
+      "local_image_path": "images/70166.png"
+    },
+    {
+      "pos": "iv",
+      "example": "troops rank",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70163.png",
+      "local_image_path": "images/70163.png"
+    },
+    {
+      "pos": "n",
+      "example": "high rank official",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70159.png",
+      "local_image_path": "images/70159.png"
+    },
+    {
+      "pos": "n",
+      "example": "rank of troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70160.png",
+      "local_image_path": "images/70160.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rank applicants",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70161.png",
+      "local_image_path": "images/70161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "rank troops",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70162.png",
+      "local_image_path": "images/70162.png"
+    }
+  ],
+  "synonyms": [
+    "pungent",
+    "fetid",
+    "smelly",
+    "bad",
+    "foul",
+    "stale",
+    "rancid"
+  ],
+  "antonyms": [
+    "sparse",
+    "minimal",
+    "fresh"
+  ],
+  "similar_words": [
+    "ranker",
+    "ranking",
+    "rankle",
+    "rankly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/rank.mp3",
+  "local_sound_path": "sounds/rank.mp3"
+}

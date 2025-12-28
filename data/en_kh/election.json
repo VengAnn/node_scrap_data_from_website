@@ -1,0 +1,31 @@
+{
+  "word": "election",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "hold an election",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24160.png",
+      "local_image_path": "images/24160.png"
+    }
+  ],
+  "synonyms": [
+    "vote",
+    "selection",
+    "appointment",
+    "determination",
+    "choice",
+    "poll",
+    "designation"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "election result",
+    "election return",
+    "electioneer",
+    "electioneering"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/election.mp3",
+  "local_sound_path": "sounds/election.mp3"
+}

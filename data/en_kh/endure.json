@@ -1,0 +1,29 @@
+{
+  "word": "endure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24946.png",
+      "local_image_path": "images/24946.png"
+    },
+    {
+      "pos": "tv",
+      "example": "He endured three years in prison for his religious beliefs.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24945.png",
+      "local_image_path": "images/24945.png"
+    }
+  ],
+  "synonyms": [
+    "persist"
+  ],
+  "antonyms": [
+    "succumb",
+    "perish"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/endure.mp3",
+  "local_sound_path": "sounds/endure.mp3"
+}

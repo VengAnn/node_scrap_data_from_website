@@ -1,0 +1,34 @@
+{
+  "word": "chopper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "sharp chopper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/14341.png",
+      "local_image_path": "images/14341.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116298.png",
+      "local_image_path": "images/116298.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116299.png",
+      "local_image_path": "images/116299.png"
+    }
+  ],
+  "synonyms": [
+    "cleaver",
+    "hatchet",
+    "axe"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/chopper.mp3",
+  "local_sound_path": "sounds/chopper.mp3"
+}

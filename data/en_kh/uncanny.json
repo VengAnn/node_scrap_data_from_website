@@ -1,0 +1,43 @@
+{
+  "word": "uncanny",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93485.png",
+      "local_image_path": "images/93485.png"
+    },
+    {
+      "pos": "adj",
+      "example": "uncanny intelligence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93486.png",
+      "local_image_path": "images/93486.png"
+    },
+    {
+      "pos": "adj",
+      "example": "uncanny silence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93487.png",
+      "local_image_path": "images/93487.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128801.png",
+      "local_image_path": "images/128801.png"
+    }
+  ],
+  "synonyms": [
+    "eerie",
+    "weird",
+    "strange",
+    "mysterious",
+    "creepy",
+    "supernatural"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uncanny.mp3",
+  "local_sound_path": "sounds/uncanny.mp3"
+}

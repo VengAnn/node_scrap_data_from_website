@@ -1,0 +1,38 @@
+{
+  "word": "dynamic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "dynamic force",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23551.png",
+      "local_image_path": "images/23551.png"
+    },
+    {
+      "pos": "adj",
+      "example": "dynamic personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23552.png",
+      "local_image_path": "images/23552.png"
+    }
+  ],
+  "synonyms": [
+    "lively",
+    "active",
+    "go-ahead",
+    "energetic",
+    "vibrant",
+    "forceful",
+    "vigorous"
+  ],
+  "antonyms": [
+    "lethargic",
+    "apathetic"
+  ],
+  "similar_words": [
+    "dynamically",
+    "dynamics"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/dynamic.mp3",
+  "local_sound_path": "sounds/dynamic.mp3"
+}

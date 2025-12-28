@@ -1,0 +1,29 @@
+{
+  "word": "sundown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86299.png",
+      "local_image_path": "images/86299.png"
+    }
+  ],
+  "synonyms": [
+    "dusk",
+    "twilight",
+    "evening",
+    "sunset",
+    "nightfall",
+    "night",
+    "eventide"
+  ],
+  "antonyms": [
+    "daybreak",
+    "sunrise"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sundown.mp3",
+  "local_sound_path": "sounds/sundown.mp3"
+}

@@ -1,0 +1,33 @@
+{
+  "word": "surpass",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The beauty of the scenery surpassed my expectations.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/86595.png",
+      "local_image_path": "images/86595.png"
+    }
+  ],
+  "synonyms": [
+    "exceed",
+    "beat",
+    "better",
+    "best",
+    "outdo",
+    "outshine",
+    "outstrip",
+    "top",
+    "transcend"
+  ],
+  "antonyms": [
+    "follow"
+  ],
+  "similar_words": [
+    "surpassable",
+    "surpassing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/surpass.mp3",
+  "local_sound_path": "sounds/surpass.mp3"
+}

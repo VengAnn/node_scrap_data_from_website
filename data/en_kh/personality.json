@@ -1,0 +1,45 @@
+{
+  "word": "personality",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "pleasant personality",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62017.png",
+      "local_image_path": "images/62017.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62018.png",
+      "local_image_path": "images/62018.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62020.png",
+      "local_image_path": "images/62020.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/62028.png",
+      "local_image_path": "images/62028.png"
+    }
+  ],
+  "synonyms": [
+    "celebrity",
+    "star",
+    "somebody",
+    "dignitary"
+  ],
+  "antonyms": [
+    "nobody"
+  ],
+  "similar_words": [
+    "personality disorder"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/personality.mp3",
+  "local_sound_path": "sounds/personality.mp3"
+}

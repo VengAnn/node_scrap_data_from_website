@@ -1,0 +1,42 @@
+{
+  "word": "glaring",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "glaring light",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31877.png",
+      "local_image_path": "images/31877.png"
+    },
+    {
+      "pos": "adj",
+      "example": "glaring mistake",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31878.png",
+      "local_image_path": "images/31878.png"
+    },
+    {
+      "pos": "adj",
+      "example": "glaring eyes",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31879.png",
+      "local_image_path": "images/31879.png"
+    }
+  ],
+  "synonyms": [
+    "brilliant",
+    "bright",
+    "intense",
+    "glowering"
+  ],
+  "antonyms": [
+    "inconspicuous",
+    "dim",
+    "soft",
+    "smiling"
+  ],
+  "similar_words": [
+    "glaringly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/glaring.mp3",
+  "local_sound_path": "sounds/glaring.mp3"
+}

@@ -1,0 +1,44 @@
+{
+  "word": "highbrow",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35106.png",
+      "local_image_path": "images/35106.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121112.png",
+      "local_image_path": "images/121112.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35105.png",
+      "local_image_path": "images/35105.png"
+    }
+  ],
+  "synonyms": [
+    "serious",
+    "cultured",
+    "intellectual",
+    "academic",
+    "scholarly",
+    "scholar",
+    "sage",
+    "philosopher"
+  ],
+  "antonyms": [
+    "lowbrow"
+  ],
+  "similar_words": [
+    "highbrowed",
+    "highbrowism"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/highbrow.mp3",
+  "local_sound_path": "sounds/highbrow.mp3"
+}

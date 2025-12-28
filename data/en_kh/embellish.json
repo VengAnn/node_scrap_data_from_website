@@ -1,0 +1,43 @@
+{
+  "word": "embellish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "embellish a table",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24448.png",
+      "local_image_path": "images/24448.png"
+    },
+    {
+      "pos": "tv",
+      "example": "embellish a story",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24449.png",
+      "local_image_path": "images/24449.png"
+    }
+  ],
+  "synonyms": [
+    "exaggerate",
+    "elaborate",
+    "overdo",
+    "aggrandize",
+    "enhance",
+    "enlarge",
+    "increase",
+    "decorate",
+    "adorn",
+    "embroider",
+    "beautify",
+    "emboss",
+    "ornament"
+  ],
+  "antonyms": [
+    "simplify",
+    "denude"
+  ],
+  "similar_words": [
+    "embellishment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/embellish.mp3",
+  "local_sound_path": "sounds/embellish.mp3"
+}

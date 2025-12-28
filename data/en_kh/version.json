@@ -1,0 +1,40 @@
+{
+  "word": "version",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97741.png",
+      "local_image_path": "images/97741.png"
+    },
+    {
+      "pos": "n",
+      "example": "his version of the events",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97742.png",
+      "local_image_path": "images/97742.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/129725.png",
+      "local_image_path": "images/129725.png"
+    }
+  ],
+  "synonyms": [
+    "form",
+    "type",
+    "variety",
+    "kind",
+    "style",
+    "adaptation",
+    "edition",
+    "translation",
+    "rendering"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/version.mp3",
+  "local_sound_path": "sounds/version.mp3"
+}

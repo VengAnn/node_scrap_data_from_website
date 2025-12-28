@@ -1,0 +1,33 @@
+{
+  "word": "splendor",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83528.png",
+      "local_image_path": "images/83528.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/83530.png",
+      "local_image_path": "images/83530.png"
+    }
+  ],
+  "synonyms": [
+    "magnificence",
+    "finery",
+    "brilliance",
+    "majesty",
+    "grandeur",
+    "luxury"
+  ],
+  "antonyms": [
+    "drabness"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/splendor.mp3",
+  "local_sound_path": "sounds/splendor.mp3"
+}

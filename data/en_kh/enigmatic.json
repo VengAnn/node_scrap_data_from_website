@@ -1,0 +1,30 @@
+{
+  "word": "enigmatic",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25091.png",
+      "local_image_path": "images/25091.png"
+    }
+  ],
+  "synonyms": [
+    "mysterious",
+    "unknowable",
+    "inscrutable",
+    "unfathomable",
+    "perplexing",
+    "inexplicable"
+  ],
+  "antonyms": [
+    "straightforward"
+  ],
+  "similar_words": [
+    "enigmatical",
+    "enigmatically"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enigmatic.mp3",
+  "local_sound_path": "sounds/enigmatic.mp3"
+}

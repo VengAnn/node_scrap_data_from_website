@@ -1,0 +1,44 @@
+{
+  "word": "impatience",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "impatience with a child",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37611.png",
+      "local_image_path": "images/37611.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121584.png",
+      "local_image_path": "images/121584.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/121585.png",
+      "local_image_path": "images/121585.png"
+    }
+  ],
+  "synonyms": [
+    "eagerness",
+    "keenness",
+    "anxiety",
+    "hurry",
+    "haste",
+    "impulsiveness",
+    "impetuosity",
+    "rashness",
+    "zeal",
+    "enthusiasm",
+    "excitement"
+  ],
+  "antonyms": [
+    "patience"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impatience.mp3",
+  "local_sound_path": "sounds/impatience.mp3"
+}

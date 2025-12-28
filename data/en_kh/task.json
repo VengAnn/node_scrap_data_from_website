@@ -1,0 +1,44 @@
+{
+  "word": "task",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "daily task",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87625.png",
+      "local_image_path": "images/87625.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87626.png",
+      "local_image_path": "images/87626.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128074.png",
+      "local_image_path": "images/128074.png"
+    }
+  ],
+  "synonyms": [
+    "job",
+    "chore",
+    "duty",
+    "mission",
+    "commission",
+    "assignment",
+    "charge",
+    "undertaking",
+    "brief",
+    "errand"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "task centered",
+    "taskmaster"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/task.mp3",
+  "local_sound_path": "sounds/task.mp3"
+}

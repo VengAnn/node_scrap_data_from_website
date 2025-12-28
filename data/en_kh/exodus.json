@@ -1,0 +1,33 @@
+{
+  "word": "exodus",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/26673.png",
+      "local_image_path": "images/26673.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119656.png",
+      "local_image_path": "images/119656.png"
+    }
+  ],
+  "synonyms": [
+    "migration",
+    "emigration",
+    "flight",
+    "evacuation",
+    "departure",
+    "exit"
+  ],
+  "antonyms": [
+    "arrival"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/exodus.mp3",
+  "local_sound_path": "sounds/exodus.mp3"
+}

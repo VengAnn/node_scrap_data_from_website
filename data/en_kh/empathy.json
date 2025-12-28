@@ -1,0 +1,32 @@
+{
+  "word": "empathy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24624.png",
+      "local_image_path": "images/24624.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/132477.png",
+      "local_image_path": "images/132477.png"
+    }
+  ],
+  "synonyms": [
+    "understanding",
+    "sympathy",
+    "compassion",
+    "responsiveness",
+    "identification"
+  ],
+  "antonyms": [
+    "indifference"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/empathy.mp3",
+  "local_sound_path": "sounds/empathy.mp3"
+}

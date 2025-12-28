@@ -1,0 +1,29 @@
+{
+  "word": "enjoyable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "The film was quite enjoyable.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25106.png",
+      "local_image_path": "images/25106.png"
+    }
+  ],
+  "synonyms": [
+    "pleasant",
+    "pleasurable",
+    "pleasing",
+    "agreeable",
+    "entertaining",
+    "amusing",
+    "gratifying",
+    "fun"
+  ],
+  "antonyms": [
+    "boring"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enjoyable.mp3",
+  "local_sound_path": "sounds/enjoyable.mp3"
+}

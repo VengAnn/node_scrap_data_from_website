@@ -1,0 +1,31 @@
+{
+  "word": "emanate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24392.png",
+      "local_image_path": "images/24392.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24399.png",
+      "local_image_path": "images/24399.png"
+    }
+  ],
+  "synonyms": [
+    "radiate",
+    "emit",
+    "ooze",
+    "impart"
+  ],
+  "antonyms": [
+    "absorb"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emanate.mp3",
+  "local_sound_path": "sounds/emanate.mp3"
+}

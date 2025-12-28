@@ -1,0 +1,33 @@
+{
+  "word": "emission",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24590.png",
+      "local_image_path": "images/24590.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24591.png",
+      "local_image_path": "images/24591.png"
+    }
+  ],
+  "synonyms": [
+    "release",
+    "production",
+    "discharge",
+    "emanation",
+    "secretion",
+    "radiation"
+  ],
+  "antonyms": [
+    "absorption"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emission.mp3",
+  "local_sound_path": "sounds/emission.mp3"
+}

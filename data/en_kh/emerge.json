@@ -1,0 +1,69 @@
+{
+  "word": "emerge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "The swimmer emerged from the lake.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24554.png",
+      "local_image_path": "images/24554.png"
+    },
+    {
+      "pos": "tv",
+      "example": "These points emerged from discussion.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24555.png",
+      "local_image_path": "images/24555.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119074.png",
+      "local_image_path": "images/119074.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119075.png",
+      "local_image_path": "images/119075.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119076.png",
+      "local_image_path": "images/119076.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119077.png",
+      "local_image_path": "images/119077.png"
+    }
+  ],
+  "synonyms": [
+    "appear",
+    "materialize",
+    "surface",
+    "transpire"
+  ],
+  "antonyms": [
+    "disappear"
+  ],
+  "similar_words": [
+    "emergence",
+    "emergency",
+    "emergency aid",
+    "emergency brake",
+    "emergency certificate",
+    "emergency fund",
+    "emergency loan",
+    "emergency measure",
+    "emergency meeting",
+    "emergency power",
+    "emergency reserve",
+    "emergency service",
+    "emergent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emerge.mp3",
+  "local_sound_path": "sounds/emerge.mp3"
+}

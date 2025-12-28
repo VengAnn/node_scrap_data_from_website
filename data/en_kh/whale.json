@@ -1,0 +1,46 @@
+{
+  "word": "whale",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99879.png",
+      "local_image_path": "images/99879.png"
+    },
+    {
+      "pos": "n",
+      "example": "sea whale",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99877.png",
+      "local_image_path": "images/99877.png"
+    },
+    {
+      "pos": "n",
+      "example": "whale of a time",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99878.png",
+      "local_image_path": "images/99878.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/99880.png",
+      "local_image_path": "images/99880.png"
+    }
+  ],
+  "synonyms": [
+    "monster",
+    "giant",
+    "elephant",
+    "Goliath"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "whale-backed",
+    "whaleman",
+    "whaler",
+    "whalery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/whale.mp3",
+  "local_sound_path": "sounds/whale.mp3"
+}

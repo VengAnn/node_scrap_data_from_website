@@ -1,0 +1,43 @@
+{
+  "word": "perish",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "perish in battle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61818.png",
+      "local_image_path": "images/61818.png"
+    },
+    {
+      "pos": "iv",
+      "example": "fruits perish",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61819.png",
+      "local_image_path": "images/61819.png"
+    },
+    {
+      "pos": "iv",
+      "example": "perish for water",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61820.png",
+      "local_image_path": "images/61820.png"
+    }
+  ],
+  "synonyms": [
+    "die",
+    "expire",
+    "succumb",
+    "decease"
+  ],
+  "antonyms": [
+    "survive",
+    "live"
+  ],
+  "similar_words": [
+    "perishability",
+    "perishable",
+    "perishably",
+    "perishing"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/perish.mp3",
+  "local_sound_path": "sounds/perish.mp3"
+}

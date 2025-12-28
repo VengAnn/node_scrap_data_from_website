@@ -1,0 +1,40 @@
+{
+  "word": "enormously",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adv",
+      "example": "I am enormously grateful for your help.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25165.png",
+      "local_image_path": "images/25165.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119229.png",
+      "local_image_path": "images/119229.png"
+    },
+    {
+      "pos": "adv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119230.png",
+      "local_image_path": "images/119230.png"
+    }
+  ],
+  "synonyms": [
+    "extremely",
+    "very",
+    "hugely",
+    "immensely",
+    "vastly",
+    "colossally",
+    "massively"
+  ],
+  "antonyms": [
+    "slightly"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enormously.mp3",
+  "local_sound_path": "sounds/enormously.mp3"
+}

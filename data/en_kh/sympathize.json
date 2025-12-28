@@ -1,0 +1,30 @@
+{
+  "word": "sympathize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "sympathize with the family",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87015.png",
+      "local_image_path": "images/87015.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sympathize with their arms",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/87016.png",
+      "local_image_path": "images/87016.png"
+    }
+  ],
+  "synonyms": [
+    "empathize",
+    "commiserate",
+    "understand",
+    "identify",
+    "pity"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/sympathize.mp3",
+  "local_sound_path": "sounds/sympathize.mp3"
+}

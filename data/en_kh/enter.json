@@ -1,0 +1,92 @@
+{
+  "word": "enter",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "doors enter into the room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25262.png",
+      "local_image_path": "images/25262.png"
+    },
+    {
+      "pos": "iv",
+      "example": "enter into ( a conversation)",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25263.png",
+      "local_image_path": "images/25263.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119246.png",
+      "local_image_path": "images/119246.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119247.png",
+      "local_image_path": "images/119247.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119248.png",
+      "local_image_path": "images/119248.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119249.png",
+      "local_image_path": "images/119249.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enter the army",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25264.png",
+      "local_image_path": "images/25264.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enter the room",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25265.png",
+      "local_image_path": "images/25265.png"
+    },
+    {
+      "pos": "tv",
+      "example": "enter a plea",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25266.png",
+      "local_image_path": "images/25266.png"
+    }
+  ],
+  "synonyms": [
+    "input",
+    "key",
+    "pierce",
+    "penetrate"
+  ],
+  "antonyms": [
+    "leave",
+    "delete",
+    "exit"
+  ],
+  "similar_words": [
+    "enteric",
+    "enteric fever",
+    "entering",
+    "enteritis",
+    "entermise",
+    "enterology",
+    "enterparlance",
+    "enterprise",
+    "enterprising",
+    "enterprising management",
+    "enterprisingly",
+    "entertain",
+    "entertainer",
+    "entertaining",
+    "entertainingly",
+    "entertainment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/enter.mp3",
+  "local_sound_path": "sounds/enter.mp3"
+}

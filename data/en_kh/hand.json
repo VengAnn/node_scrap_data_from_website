@@ -1,0 +1,95 @@
+{
+  "word": "hand",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "hand work",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33684.png",
+      "local_image_path": "images/33684.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33677.png",
+      "local_image_path": "images/33677.png"
+    },
+    {
+      "pos": "n",
+      "example": "clock hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33678.png",
+      "local_image_path": "images/33678.png"
+    },
+    {
+      "pos": "n",
+      "example": "farm hand",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33679.png",
+      "local_image_path": "images/33679.png"
+    },
+    {
+      "pos": "n",
+      "example": "hand of cards",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33680.png",
+      "local_image_path": "images/33680.png"
+    },
+    {
+      "pos": "n",
+      "example": "The property is no longer in my hand.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33681.png",
+      "local_image_path": "images/33681.png"
+    },
+    {
+      "pos": "n",
+      "example": "The hand of enemy has been at work here.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33682.png",
+      "local_image_path": "images/33682.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Please you hand me that book.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/33683.png",
+      "local_image_path": "images/33683.png"
+    }
+  ],
+  "synonyms": [
+    "worker",
+    "laborer",
+    "employee",
+    "give",
+    "offer",
+    "pass",
+    "tender",
+    "supply",
+    "furnish",
+    "dispense",
+    "administer",
+    "distribute"
+  ],
+  "antonyms": [
+    "take"
+  ],
+  "similar_words": [
+    "hand-barrow",
+    "hand-bill",
+    "hand-cart",
+    "hand-loom",
+    "hand-organ",
+    "hand-painted",
+    "hand-print",
+    "hand-setting",
+    "hand-to-hand",
+    "hand-to-mouth",
+    "handbag",
+    "handbook",
+    "handcraft",
+    "handcuff",
+    "handed",
+    "handful",
+    "handgun",
+    "handicap",
+    "handicapped"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/hand.mp3",
+  "local_sound_path": "sounds/hand.mp3"
+}

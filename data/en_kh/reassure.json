@@ -1,0 +1,43 @@
+{
+  "word": "reassure",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70611.png",
+      "local_image_path": "images/70611.png"
+    },
+    {
+      "pos": "v",
+      "example": "His works reassure me",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/70612.png",
+      "local_image_path": "images/70612.png"
+    },
+    {
+      "pos": "v",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126525.png",
+      "local_image_path": "images/126525.png"
+    }
+  ],
+  "synonyms": [
+    "assure",
+    "comfort",
+    "support",
+    "encourage",
+    "bolster",
+    "soothe",
+    "calm",
+    "uplift",
+    "cheer"
+  ],
+  "antonyms": [
+    "undermine",
+    "discourage"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/reassure.mp3",
+  "local_sound_path": "sounds/reassure.mp3"
+}

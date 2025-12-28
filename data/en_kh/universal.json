@@ -1,0 +1,51 @@
+{
+  "word": "universal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "universal language",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94644.png",
+      "local_image_path": "images/94644.png"
+    },
+    {
+      "pos": "n",
+      "example": "speech is a human universal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94645.png",
+      "local_image_path": "images/94645.png"
+    },
+    {
+      "pos": "n",
+      "example": "install a universal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/94646.png",
+      "local_image_path": "images/94646.png"
+    }
+  ],
+  "synonyms": [
+    "widespread",
+    "general",
+    "common",
+    "collective",
+    "total",
+    "entire",
+    "complete",
+    "unanimous",
+    "comprehensive"
+  ],
+  "antonyms": [
+    "narrow",
+    "local"
+  ],
+  "similar_words": [
+    "universal suffrage",
+    "universalism",
+    "universalist",
+    "universality",
+    "universalize",
+    "universally",
+    "universalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/universal.mp3",
+  "local_sound_path": "sounds/universal.mp3"
+}

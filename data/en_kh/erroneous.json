@@ -1,0 +1,31 @@
+{
+  "word": "erroneous",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25777.png",
+      "local_image_path": "images/25777.png"
+    }
+  ],
+  "synonyms": [
+    "mistaken",
+    "wrong",
+    "incorrect",
+    "invalid",
+    "untrue",
+    "specious",
+    "inaccurate"
+  ],
+  "antonyms": [
+    "correct"
+  ],
+  "similar_words": [
+    "erroneously",
+    "erroneousness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/erroneous.mp3",
+  "local_sound_path": "sounds/erroneous.mp3"
+}

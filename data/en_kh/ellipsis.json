@@ -1,0 +1,34 @@
+{
+  "word": "ellipsis",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24331.png",
+      "local_image_path": "images/24331.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118996.png",
+      "local_image_path": "images/118996.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118997.png",
+      "local_image_path": "images/118997.png"
+    }
+  ],
+  "synonyms": [
+    "abbreviation",
+    "contraction",
+    "leap"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/ellipsis.mp3",
+  "local_sound_path": "sounds/ellipsis.mp3"
+}

@@ -1,0 +1,43 @@
+{
+  "word": "eligible",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "eligible to",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24309.png",
+      "local_image_path": "images/24309.png"
+    },
+    {
+      "pos": "adj",
+      "example": "eligible bachelor",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24310.png",
+      "local_image_path": "images/24310.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118994.png",
+      "local_image_path": "images/118994.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118995.png",
+      "local_image_path": "images/118995.png"
+    }
+  ],
+  "synonyms": [
+    "single",
+    "unmarried",
+    "unattached",
+    "available"
+  ],
+  "antonyms": [
+    "ineligible"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eligible.mp3",
+  "local_sound_path": "sounds/eligible.mp3"
+}

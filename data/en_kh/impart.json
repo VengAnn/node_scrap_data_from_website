@@ -1,0 +1,37 @@
+{
+  "word": "impart",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "v",
+      "example": "impart knowledge",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37586.png",
+      "local_image_path": "images/37586.png"
+    }
+  ],
+  "synonyms": [
+    "communicate",
+    "inform",
+    "tell",
+    "convey",
+    "report",
+    "teach",
+    "instruct",
+    "divulge",
+    "disclose",
+    "reveal",
+    "expose"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "impartial",
+    "impartiality",
+    "impartially",
+    "impartible",
+    "imparticipable",
+    "impartment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impart.mp3",
+  "local_sound_path": "sounds/impart.mp3"
+}

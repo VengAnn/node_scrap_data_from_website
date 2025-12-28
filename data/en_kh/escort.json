@@ -1,0 +1,54 @@
+{
+  "word": "escort",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "military escort",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25859.png",
+      "local_image_path": "images/25859.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119400.png",
+      "local_image_path": "images/119400.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119401.png",
+      "local_image_path": "images/119401.png"
+    },
+    {
+      "pos": "tv",
+      "example": "escort a convoy",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25860.png",
+      "local_image_path": "images/25860.png"
+    },
+    {
+      "pos": "tv",
+      "example": "escort a girl",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25861.png",
+      "local_image_path": "images/25861.png"
+    }
+  ],
+  "synonyms": [
+    "guide",
+    "companion",
+    "attendant",
+    "minder",
+    "accompany",
+    "usher",
+    "lead",
+    "attend",
+    "shepherd",
+    "chaperon",
+    "conduct"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/escort.mp3",
+  "local_sound_path": "sounds/escort.mp3"
+}

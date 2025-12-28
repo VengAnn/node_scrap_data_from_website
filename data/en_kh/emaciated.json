@@ -1,0 +1,42 @@
+{
+  "word": "emaciated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24387.png",
+      "local_image_path": "images/24387.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119021.png",
+      "local_image_path": "images/119021.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119022.png",
+      "local_image_path": "images/119022.png"
+    }
+  ],
+  "synonyms": [
+    "thin",
+    "withered",
+    "shrunken",
+    "gaunt",
+    "sunken",
+    "skinny",
+    "scrawny",
+    "lean",
+    "scraggy"
+  ],
+  "antonyms": [
+    "plump"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emaciated.mp3",
+  "local_sound_path": "sounds/emaciated.mp3"
+}

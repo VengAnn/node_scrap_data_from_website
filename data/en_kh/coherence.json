@@ -1,0 +1,34 @@
+{
+  "word": "coherence",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "property of coherence",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/15561.png",
+      "local_image_path": "images/15561.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/116632.png",
+      "local_image_path": "images/116632.png"
+    }
+  ],
+  "synonyms": [
+    "consistency",
+    "unity",
+    "rationality",
+    "logic",
+    "lucidity",
+    "reason",
+    "soundness"
+  ],
+  "antonyms": [
+    "inconsistency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/coherence.mp3",
+  "local_sound_path": "sounds/coherence.mp3"
+}

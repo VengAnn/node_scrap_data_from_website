@@ -1,0 +1,41 @@
+{
+  "word": "prologue",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67598.png",
+      "local_image_path": "images/67598.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126097.png",
+      "local_image_path": "images/126097.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126098.png",
+      "local_image_path": "images/126098.png"
+    }
+  ],
+  "synonyms": [
+    "introduction",
+    "preface",
+    "foreword",
+    "preamble",
+    "opening",
+    "prelude"
+  ],
+  "antonyms": [
+    "finale",
+    "epilogue",
+    "epilog"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/prologue.mp3",
+  "local_sound_path": "sounds/prologue.mp3"
+}

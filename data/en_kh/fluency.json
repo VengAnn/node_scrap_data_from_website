@@ -1,0 +1,27 @@
+{
+  "word": "fluency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/29291.png",
+      "local_image_path": "images/29291.png"
+    }
+  ],
+  "synonyms": [
+    "ease",
+    "facility",
+    "confidence",
+    "smoothness",
+    "effortlessness",
+    "eloquence"
+  ],
+  "antonyms": [
+    "hesitancy"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fluency.mp3",
+  "local_sound_path": "sounds/fluency.mp3"
+}

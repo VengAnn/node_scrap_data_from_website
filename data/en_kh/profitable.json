@@ -1,0 +1,35 @@
+{
+  "word": "profitable",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "profitable business",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67417.png",
+      "local_image_path": "images/67417.png"
+    },
+    {
+      "pos": "adj",
+      "example": "profitable experience",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/67418.png",
+      "local_image_path": "images/67418.png"
+    }
+  ],
+  "synonyms": [
+    "advantageous",
+    "beneficial",
+    "rewarding",
+    "useful",
+    "valuable",
+    "worthwhile",
+    "helpful"
+  ],
+  "antonyms": [
+    "unhelpful",
+    "unprofitable"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/profitable.mp3",
+  "local_sound_path": "sounds/profitable.mp3"
+}

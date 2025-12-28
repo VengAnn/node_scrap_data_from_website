@@ -1,0 +1,61 @@
+{
+  "word": "fade",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "colors fade",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27348.png",
+      "local_image_path": "images/27348.png"
+    },
+    {
+      "pos": "iv",
+      "example": "sound fades",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27349.png",
+      "local_image_path": "images/27349.png"
+    },
+    {
+      "pos": "phrv.",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27350.png",
+      "local_image_path": "images/27350.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fade colors",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27351.png",
+      "local_image_path": "images/27351.png"
+    },
+    {
+      "pos": "tv",
+      "example": "fade sound",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/27352.png",
+      "local_image_path": "images/27352.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119824.png",
+      "local_image_path": "images/119824.png"
+    }
+  ],
+  "synonyms": [
+    "wilt",
+    "wither",
+    "die",
+    "lighten",
+    "bleach"
+  ],
+  "antonyms": [
+    "darken",
+    "grow",
+    "flourish"
+  ],
+  "similar_words": [
+    "fadeless",
+    "fadelessly"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/fade.mp3",
+  "local_sound_path": "sounds/fade.mp3"
+}

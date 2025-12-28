@@ -1,0 +1,66 @@
+{
+  "word": "shoot",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "sparks shoot up",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79323.png",
+      "local_image_path": "images/79323.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79324.png",
+      "local_image_path": "images/79324.png"
+    },
+    {
+      "pos": "tv",
+      "example": "shoot a deer",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79320.png",
+      "local_image_path": "images/79320.png"
+    },
+    {
+      "pos": "tv",
+      "example": "Sok shot well but the ball went wrong.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79321.png",
+      "local_image_path": "images/79321.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/79322.png",
+      "local_image_path": "images/79322.png"
+    }
+  ],
+  "synonyms": [
+    "develop",
+    "appear",
+    "aim",
+    "point",
+    "direct",
+    "cast",
+    "score",
+    "net"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "shoot down",
+    "shoot-out",
+    "shooter",
+    "shooting",
+    "shooting boots",
+    "shooting box",
+    "shooting brake",
+    "shooting coat",
+    "shooting fish",
+    "shooting gallery",
+    "shooting iron",
+    "shooting star",
+    "shooting stick",
+    "shooting-range"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/shoot.mp3",
+  "local_sound_path": "sounds/shoot.mp3"
+}

@@ -1,0 +1,47 @@
+{
+  "word": "wrinkle",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101163.png",
+      "local_image_path": "images/101163.png"
+    },
+    {
+      "pos": "n",
+      "example": "She's beginning to get wrinkles round her eyes.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101160.png",
+      "local_image_path": "images/101160.png"
+    },
+    {
+      "pos": "n",
+      "example": "Give him a wrinkle",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101161.png",
+      "local_image_path": "images/101161.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/101162.png",
+      "local_image_path": "images/101162.png"
+    }
+  ],
+  "synonyms": [
+    "crease",
+    "crinkle",
+    "line",
+    "fold",
+    "furrow",
+    "crumple",
+    "rumple",
+    "screw"
+  ],
+  "antonyms": [
+    "smooth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/wrinkle.mp3",
+  "local_sound_path": "sounds/wrinkle.mp3"
+}

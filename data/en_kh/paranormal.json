@@ -1,0 +1,48 @@
+{
+  "word": "paranormal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "paranormal phenomena",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60000.png",
+      "local_image_path": "images/60000.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/60001.png",
+      "local_image_path": "images/60001.png"
+    }
+  ],
+  "synonyms": [
+    "telepathic",
+    "psychic",
+    "clairvoyant",
+    "mystic",
+    "supernatural",
+    "ghostly",
+    "ghostlike",
+    "uncanny",
+    "weird",
+    "bizarre",
+    "eerie",
+    "magic",
+    "unnatural",
+    "preternatural",
+    "unearthly",
+    "mysterious",
+    "miraculous"
+  ],
+  "antonyms": [
+    "natural",
+    "normal"
+  ],
+  "similar_words": [
+    "paranormality",
+    "paranormally"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/paranormal.mp3",
+  "local_sound_path": "sounds/paranormal.mp3"
+}

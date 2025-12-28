@@ -1,0 +1,47 @@
+{
+  "word": "impinge",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37762.png",
+      "local_image_path": "images/37762.png"
+    },
+    {
+      "pos": "iv",
+      "example": "rays impinge on the eye",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37763.png",
+      "local_image_path": "images/37763.png"
+    },
+    {
+      "pos": "iv",
+      "example": "impinges on his freedom",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37764.png",
+      "local_image_path": "images/37764.png"
+    },
+    {
+      "pos": "iv",
+      "example": "facts impinge on the problem",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/37765.png",
+      "local_image_path": "images/37765.png"
+    }
+  ],
+  "synonyms": [
+    "impose",
+    "intrude",
+    "interrupt",
+    "encroach",
+    "invade",
+    "impact",
+    "affect"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "impingement",
+    "impinger"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/impinge.mp3",
+  "local_sound_path": "sounds/impinge.mp3"
+}

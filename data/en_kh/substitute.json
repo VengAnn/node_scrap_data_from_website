@@ -1,0 +1,60 @@
+{
+  "word": "substitute",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85908.png",
+      "local_image_path": "images/85908.png"
+    },
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85914.png",
+      "local_image_path": "images/85914.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85909.png",
+      "local_image_path": "images/85909.png"
+    },
+    {
+      "pos": "n",
+      "example": "play as a substitute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85910.png",
+      "local_image_path": "images/85910.png"
+    },
+    {
+      "pos": "n",
+      "example": "use honey as a substitute",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85911.png",
+      "local_image_path": "images/85911.png"
+    },
+    {
+      "pos": "tv",
+      "example": "substitute Joe for Bill",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85912.png",
+      "local_image_path": "images/85912.png"
+    },
+    {
+      "pos": "tv",
+      "example": "substitute honey for sugar",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/85913.png",
+      "local_image_path": "images/85913.png"
+    }
+  ],
+  "synonyms": [
+    "exchange",
+    "switch",
+    "swap"
+  ],
+  "antonyms": [
+    "permanent"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/substitute.mp3",
+  "local_sound_path": "sounds/substitute.mp3"
+}

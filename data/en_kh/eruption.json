@@ -1,0 +1,35 @@
+{
+  "word": "eruption",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "eruption of a volcano",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25796.png",
+      "local_image_path": "images/25796.png"
+    },
+    {
+      "pos": "n",
+      "example": "eruption on the skin",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25797.png",
+      "local_image_path": "images/25797.png"
+    }
+  ],
+  "synonyms": [
+    "outbreak",
+    "flare-up",
+    "rash",
+    "explosion",
+    "upsurge",
+    "epidemic",
+    "wave",
+    "outburst",
+    "discharge",
+    "emission"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/eruption.mp3",
+  "local_sound_path": "sounds/eruption.mp3"
+}

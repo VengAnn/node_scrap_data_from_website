@@ -1,0 +1,41 @@
+{
+  "word": "jumpy",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43449.png",
+      "local_image_path": "images/43449.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43450.png",
+      "local_image_path": "images/43450.png"
+    },
+    {
+      "pos": "adj",
+      "example": "feel about",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43451.png",
+      "local_image_path": "images/43451.png"
+    }
+  ],
+  "synonyms": [
+    "jerky",
+    "sudden",
+    "abrupt",
+    "shaky",
+    "erratic",
+    "unsteady",
+    "fitful"
+  ],
+  "antonyms": [
+    "calm",
+    "smooth"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/jumpy.mp3",
+  "local_sound_path": "sounds/jumpy.mp3"
+}

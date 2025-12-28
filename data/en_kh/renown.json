@@ -1,0 +1,52 @@
+{
+  "word": "renown",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/72202.png",
+      "local_image_path": "images/72202.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126859.png",
+      "local_image_path": "images/126859.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126860.png",
+      "local_image_path": "images/126860.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/126861.png",
+      "local_image_path": "images/126861.png"
+    }
+  ],
+  "synonyms": [
+    "fame",
+    "celebrity",
+    "repute",
+    "notoriety",
+    "prominence",
+    "popularity",
+    "reputation",
+    "recognition",
+    "distinction"
+  ],
+  "antonyms": [
+    "obscurity"
+  ],
+  "similar_words": [
+    "renowned",
+    "renownful",
+    "renownless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/renown.mp3",
+  "local_sound_path": "sounds/renown.mp3"
+}

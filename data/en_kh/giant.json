@@ -1,0 +1,58 @@
+{
+  "word": "giant",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31668.png",
+      "local_image_path": "images/31668.png"
+    },
+    {
+      "pos": "n",
+      "example": "legendary giant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31664.png",
+      "local_image_path": "images/31664.png"
+    },
+    {
+      "pos": "n",
+      "example": "physical giant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31665.png",
+      "local_image_path": "images/31665.png"
+    },
+    {
+      "pos": "n",
+      "example": "metal giant",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31666.png",
+      "local_image_path": "images/31666.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/31667.png",
+      "local_image_path": "images/31667.png"
+    }
+  ],
+  "synonyms": [
+    "monster",
+    "Goliath",
+    "troll",
+    "ogre",
+    "hobgoblin",
+    "goblin"
+  ],
+  "antonyms": [
+    "miniature",
+    "nobody"
+  ],
+  "similar_words": [
+    "giant-killer",
+    "giantess",
+    "giantism",
+    "giantlike",
+    "giantry"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/giant.mp3",
+  "local_sound_path": "sounds/giant.mp3"
+}

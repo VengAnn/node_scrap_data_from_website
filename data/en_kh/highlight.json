@@ -1,0 +1,44 @@
+{
+  "word": "highlight",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "highlight of the trip",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35146.png",
+      "local_image_path": "images/35146.png"
+    },
+    {
+      "pos": "n",
+      "example": "have highlight in her hair",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35147.png",
+      "local_image_path": "images/35147.png"
+    },
+    {
+      "pos": "tv",
+      "example": "highlight the reds",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35144.png",
+      "local_image_path": "images/35144.png"
+    },
+    {
+      "pos": "tv",
+      "example": "highlight the main points",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/35145.png",
+      "local_image_path": "images/35145.png"
+    }
+  ],
+  "synonyms": [
+    "focus",
+    "climax",
+    "feature",
+    "emphasize",
+    "underline",
+    "stress",
+    "underscore"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/highlight.mp3",
+  "local_sound_path": "sounds/highlight.mp3"
+}

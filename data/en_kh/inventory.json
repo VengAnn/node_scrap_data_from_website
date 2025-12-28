@@ -1,0 +1,42 @@
+{
+  "word": "inventory",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41981.png",
+      "local_image_path": "images/41981.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41982.png",
+      "local_image_path": "images/41982.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/41983.png",
+      "local_image_path": "images/41983.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/122889.png",
+      "local_image_path": "images/122889.png"
+    }
+  ],
+  "synonyms": [
+    "supply",
+    "stock",
+    "range",
+    "array",
+    "accounting"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/inventory.mp3",
+  "local_sound_path": "sounds/inventory.mp3"
+}

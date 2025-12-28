@@ -1,0 +1,50 @@
+{
+  "word": "journal",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "scholarly journal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43241.png",
+      "local_image_path": "images/43241.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43242.png",
+      "local_image_path": "images/43242.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43243.png",
+      "local_image_path": "images/43243.png"
+    },
+    {
+      "pos": "n",
+      "example": "daily journal",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/43244.png",
+      "local_image_path": "images/43244.png"
+    }
+  ],
+  "synonyms": [
+    "diary",
+    "log",
+    "chronicle",
+    "record",
+    "register"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "journalism",
+    "journalist",
+    "journalist's privilege",
+    "journalistic",
+    "journalistically",
+    "journalize",
+    "journalness"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/journal.mp3",
+  "local_sound_path": "sounds/journal.mp3"
+}

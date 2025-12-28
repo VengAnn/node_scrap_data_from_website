@@ -1,0 +1,31 @@
+{
+  "word": "encroach",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "encroach on his rights",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24829.png",
+      "local_image_path": "images/24829.png"
+    }
+  ],
+  "synonyms": [
+    "intrude",
+    "impinge",
+    "infringe",
+    "invade",
+    "trespass",
+    "influence",
+    "violate"
+  ],
+  "antonyms": [
+    "respect"
+  ],
+  "similar_words": [
+    "encroacher",
+    "encroachment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encroach.mp3",
+  "local_sound_path": "sounds/encroach.mp3"
+}

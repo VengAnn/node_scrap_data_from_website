@@ -1,0 +1,26 @@
+{
+  "word": "encamp",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "The soldiers are encamped in the forest.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24742.png",
+      "local_image_path": "images/24742.png"
+    }
+  ],
+  "synonyms": [
+    "install",
+    "base",
+    "settle",
+    "position",
+    "place"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "encampment"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/encamp.mp3",
+  "local_sound_path": "sounds/encamp.mp3"
+}

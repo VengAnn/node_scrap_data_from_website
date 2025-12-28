@@ -1,0 +1,67 @@
+{
+  "word": "insert",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "metal insert",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40502.png",
+      "local_image_path": "images/40502.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40497.png",
+      "local_image_path": "images/40497.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40498.png",
+      "local_image_path": "images/40498.png"
+    },
+    {
+      "pos": "tv",
+      "example": "insert a sheet of paper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40499.png",
+      "local_image_path": "images/40499.png"
+    },
+    {
+      "pos": "tv",
+      "example": "insert a knife",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40500.png",
+      "local_image_path": "images/40500.png"
+    },
+    {
+      "pos": "tv",
+      "example": "insert a key",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40501.png",
+      "local_image_path": "images/40501.png"
+    }
+  ],
+  "synonyms": [
+    "supplement",
+    "addition",
+    "enclosure",
+    "add",
+    "include",
+    "enclose",
+    "append",
+    "incorporate",
+    "introduce"
+  ],
+  "antonyms": [
+    "extract"
+  ],
+  "similar_words": [
+    "inserted",
+    "inserter",
+    "insertion",
+    "insertional",
+    "insertive",
+    "insertivent"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/insert.mp3",
+  "local_sound_path": "sounds/insert.mp3"
+}

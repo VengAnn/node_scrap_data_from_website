@@ -1,0 +1,32 @@
+{
+  "word": "energize",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "tv",
+      "example": "energize people",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24958.png",
+      "local_image_path": "images/24958.png"
+    },
+    {
+      "pos": "tv",
+      "example": "energize a battery",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24959.png",
+      "local_image_path": "images/24959.png"
+    }
+  ],
+  "synonyms": [
+    "rejuvenate",
+    "uplift",
+    "invigorate",
+    "strengthen",
+    "boost"
+  ],
+  "antonyms": [
+    "enervate"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/energize.mp3",
+  "local_sound_path": "sounds/energize.mp3"
+}

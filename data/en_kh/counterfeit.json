@@ -1,0 +1,45 @@
+{
+  "word": "counterfeit",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18084.png",
+      "local_image_path": "images/18084.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18085.png",
+      "local_image_path": "images/18085.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/18086.png",
+      "local_image_path": "images/18086.png"
+    }
+  ],
+  "synonyms": [
+    "forgery",
+    "copy",
+    "fake",
+    "imitation",
+    "reproduction",
+    "forge",
+    "fabricate",
+    "imitate",
+    "simulate"
+  ],
+  "antonyms": [
+    "genuine",
+    "original"
+  ],
+  "similar_words": [
+    "counterfeiter"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/counterfeit.mp3",
+  "local_sound_path": "sounds/counterfeit.mp3"
+}

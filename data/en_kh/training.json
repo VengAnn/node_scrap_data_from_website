@@ -1,0 +1,39 @@
+{
+  "word": "training",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "athletic training",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/90825.png",
+      "local_image_path": "images/90825.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128373.png",
+      "local_image_path": "images/128373.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128374.png",
+      "local_image_path": "images/128374.png"
+    }
+  ],
+  "synonyms": [
+    "exercise",
+    "pointing"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "training school",
+    "training-college",
+    "training-day",
+    "training-ground",
+    "training-ship-vessel"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/training.mp3",
+  "local_sound_path": "sounds/training.mp3"
+}

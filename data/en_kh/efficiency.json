@@ -1,0 +1,45 @@
+{
+  "word": "efficiency",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/23973.png",
+      "local_image_path": "images/23973.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118918.png",
+      "local_image_path": "images/118918.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118919.png",
+      "local_image_path": "images/118919.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/118920.png",
+      "local_image_path": "images/118920.png"
+    }
+  ],
+  "synonyms": [
+    "competence",
+    "effectiveness",
+    "efficacy",
+    "productivity",
+    "proficiency",
+    "adeptness"
+  ],
+  "antonyms": [
+    "inefficiency"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/efficiency.mp3",
+  "local_sound_path": "sounds/efficiency.mp3"
+}

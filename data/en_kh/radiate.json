@@ -1,0 +1,31 @@
+{
+  "word": "radiate",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "iv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69821.png",
+      "local_image_path": "images/69821.png"
+    },
+    {
+      "pos": "tv",
+      "example": "A woman who radiates happiness.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/69822.png",
+      "local_image_path": "images/69822.png"
+    }
+  ],
+  "synonyms": [
+    "branch out",
+    "diverge",
+    "spread",
+    "circulate",
+    "diffuse",
+    "strew"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/radiate.mp3",
+  "local_sound_path": "sounds/radiate.mp3"
+}

@@ -1,0 +1,57 @@
+{
+  "word": "emotion",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "Love, joy, hate, fear and jealousy are all \n\nemotions.",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24605.png",
+      "local_image_path": "images/24605.png"
+    },
+    {
+      "pos": "n",
+      "example": "emotion of fear",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/24606.png",
+      "local_image_path": "images/24606.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119089.png",
+      "local_image_path": "images/119089.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119090.png",
+      "local_image_path": "images/119090.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119091.png",
+      "local_image_path": "images/119091.png"
+    }
+  ],
+  "synonyms": [
+    "feeling",
+    "sentiment",
+    "sensation",
+    "passion",
+    "reaction",
+    "excitement"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "emotional",
+    "emotional intelligence",
+    "emotionalism",
+    "emotionalist",
+    "emotionalize",
+    "emotionally",
+    "emotionless"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/emotion.mp3",
+  "local_sound_path": "sounds/emotion.mp3"
+}

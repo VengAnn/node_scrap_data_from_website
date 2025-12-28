@@ -1,0 +1,65 @@
+{
+  "word": "pepper",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "black pepper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61508.png",
+      "local_image_path": "images/61508.png"
+    },
+    {
+      "pos": "n",
+      "example": "chili pepper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61509.png",
+      "local_image_path": "images/61509.png"
+    },
+    {
+      "pos": "n",
+      "example": "sweet pepper",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61510.png",
+      "local_image_path": "images/61510.png"
+    },
+    {
+      "pos": "tv",
+      "example": "pepper the stew",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61512.png",
+      "local_image_path": "images/61512.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/61513.png",
+      "local_image_path": "images/61513.png"
+    }
+  ],
+  "synonyms": [
+    "sprinkle",
+    "shower",
+    "spray",
+    "scatter",
+    "intersperse",
+    "interleave",
+    "infuse",
+    "interrupt",
+    "interfuse",
+    "interlace"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "pepper box",
+    "pepper mill",
+    "pepper-and-salt",
+    "pepper-castor",
+    "pepper-mill",
+    "peppercorn",
+    "peppered",
+    "pepperiness",
+    "peppermint",
+    "pepperoni",
+    "peppery"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/pepper.mp3",
+  "local_sound_path": "sounds/pepper.mp3"
+}

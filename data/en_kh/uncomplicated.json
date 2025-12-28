@@ -1,0 +1,40 @@
+{
+  "word": "uncomplicated",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/93707.png",
+      "local_image_path": "images/93707.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128881.png",
+      "local_image_path": "images/128881.png"
+    },
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/128882.png",
+      "local_image_path": "images/128882.png"
+    }
+  ],
+  "synonyms": [
+    "simple",
+    "straightforward",
+    "unfussy",
+    "basic",
+    "unsophisticated",
+    "easy",
+    "down-to-earth"
+  ],
+  "antonyms": [
+    "complex"
+  ],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/uncomplicated.mp3",
+  "local_sound_path": "sounds/uncomplicated.mp3"
+}

@@ -1,0 +1,36 @@
+{
+  "word": "entertainer",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/25283.png",
+      "local_image_path": "images/25283.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119251.png",
+      "local_image_path": "images/119251.png"
+    },
+    {
+      "pos": "n",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/119252.png",
+      "local_image_path": "images/119252.png"
+    }
+  ],
+  "synonyms": [
+    "performer",
+    "artiste",
+    "comedian",
+    "comic",
+    "artist"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/entertainer.mp3",
+  "local_sound_path": "sounds/entertainer.mp3"
+}

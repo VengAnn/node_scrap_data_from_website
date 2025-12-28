@@ -1,0 +1,42 @@
+{
+  "word": "very",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "adj",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97775.png",
+      "local_image_path": "images/97775.png"
+    },
+    {
+      "pos": "adv",
+      "example": "too hot",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/97774.png",
+      "local_image_path": "images/97774.png"
+    }
+  ],
+  "synonyms": [
+    "actual",
+    "self-same",
+    "same",
+    "identical",
+    "exact",
+    "precise",
+    "extremely",
+    "incredibly",
+    "awfully",
+    "exceptionally",
+    "exceedingly",
+    "especially",
+    "dreadfully",
+    "extraordinarily",
+    "enormously",
+    "fantastically",
+    "vastly"
+  ],
+  "antonyms": [],
+  "similar_words": [],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/very.mp3",
+  "local_sound_path": "sounds/very.mp3"
+}

@@ -1,0 +1,49 @@
+{
+  "word": "instrument",
+  "type": "en_kh",
+  "definitions": [
+    {
+      "pos": "n",
+      "example": "surgical instrument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40785.png",
+      "local_image_path": "images/40785.png"
+    },
+    {
+      "pos": "n",
+      "example": "dashboard instrument",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40786.png",
+      "local_image_path": "images/40786.png"
+    },
+    {
+      "pos": "tv",
+      "example": "",
+      "khmer_image_url": "http://www.english-khmer.com/imgukh/40787.png",
+      "local_image_path": "images/40787.png"
+    }
+  ],
+  "synonyms": [
+    "means",
+    "channel",
+    "vehicle",
+    "method",
+    "medium",
+    "mechanism",
+    "catalyst"
+  ],
+  "antonyms": [],
+  "similar_words": [
+    "instrumental",
+    "instrumentalism",
+    "instrumentalist",
+    "instrumentality",
+    "instrumentalize",
+    "instrumentally",
+    "instrumentalness",
+    "instrumentary",
+    "instrumentate",
+    "instrumentation"
+  ],
+  "sound": null,
+  "sound_url": "http://www.english-khmer.com/iensound/instrument.mp3",
+  "local_sound_path": "sounds/instrument.mp3"
+}
