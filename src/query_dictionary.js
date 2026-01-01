@@ -13,7 +13,7 @@ const db = new sqlite3.Database(DB_FILE);
 function searchWord(word, type = null) {
   return new Promise((resolve, reject) => {
     let query = `
-            SELECT w.id, w.word, w.type, w.sound,
+            SELECT w.id, w.word, w.type, w.sound, w.isFavorite, w.isHistory,
                    d.id as def_id, d.pos, d.example, d.definition_text, 
                    d.khmer_image_url, d.local_image_path
             FROM words w
@@ -45,6 +45,8 @@ function searchWord(word, type = null) {
             word: row.word,
             type: row.type,
             sound: row.sound,
+            isFavorite: row.isFavorite,
+            isHistory: row.isHistory,
             definitions: [],
           };
         }

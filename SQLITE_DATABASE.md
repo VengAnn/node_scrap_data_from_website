@@ -16,6 +16,8 @@ The dictionary data has been converted from JSON to SQLite for better performanc
    - `word`: The word itself
    - `type`: Dictionary type ('en_kh', 'kh_en', or 'kh_kh')
    - `sound`: Audio file path (if available)
+   - `isFavorite`: Boolean flag (0/1) marking favorite words
+   - `isHistory`: Boolean flag (0/1) marking words in search history
    - `created_at`: Timestamp
 
 2. **definitions** - Word definitions and examples

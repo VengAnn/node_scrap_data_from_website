@@ -34,6 +34,7 @@ db.serialize(() => {
             type TEXT NOT NULL,
             sound TEXT,
             isFavorite INTEGER DEFAULT 0,
+            isHistory INTEGER DEFAULT 0,
             created_at DATETIME DEFAULT CURRENT_TIMESTAMP
         )
     `);
@@ -119,8 +120,8 @@ db.serialize(() => {
     for (const wordData of words) {
       // Insert word and get ID using callback
       db.run(
-        "INSERT INTO words (word, type, sound) VALUES (?, ?, ?)",
-        [wordData.word, wordData.type, wordData.sound],
+        "INSERT INTO words (word, type, sound, isHistory) VALUES (?, ?, ?, ?)",
+        [wordData.word, wordData.type, wordData.sound, wordData.isHistory || 0],
         function (err) {
           if (err) {
             console.error(`Error inserting word: ${wordData.word}`, err);
